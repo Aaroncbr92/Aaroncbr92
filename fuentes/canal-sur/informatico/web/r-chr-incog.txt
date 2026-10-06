@@ -1,0 +1,163 @@
+URL: https://support.google.com/chrome/answer/95464?hl=es
+Leído: 2026-10-05
+
+Navegar en modo Incógnito - Ordenador - Ayuda de Google Chrome Saltar al contenido principal 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Navegar en modo Incógnito
+
+Puedes navegar por la Web de forma más privada con el modo Incógnito.
+
+## El modo Incógnito limita lo que se guarda en tu dispositivo
+
+Cuando navegas en el modo Incógnito, Chrome limita la información que se guarda en tu dispositivo. Esto puede ser útil, por ejemplo, cuando usas un ordenador compartido o quieres comprar un regalo.
+
+Cuando abres una ventana de Incógnito, Chrome inicia una sesión de navegación independiente. La sesión de Incógnito finaliza cuando cierras todas las ventanas de Incógnito.
+
+Cuando navegas en el modo Incógnito:
+
+- Chrome no inicia sesión automáticamente en tu cuenta de Google ni en otros sitios web: esto no cambiará la forma de recoger datos empleada por los sitios web que visites y los servicios que utilicen, incluido Google. Es posible que los sitios puedan recopilar información sobre ti aunque no hayas iniciado sesión.
+
+- Cuando finaliza tu sesión de Incógnito, Chrome no conserva datos de sitios ni un registro de los sitios que has visitado: durante tu sesión de Incógnito, Chrome conserva temporalmente cierta información, como cookies y datos de sitios, para ayudar a que los sitios web funcionen y admitan la navegación. Esta información se elimina cuando finaliza la sesión de Incógnito.
+
+- Chrome conserva los marcadores que guardas y los archivos que descargas cuando sales del modo Incógnito: los marcadores que añadas y los elementos de la lista de lectura que guardes estarán disponibles en tus sesiones de navegación normales. Los archivos que descargues permanecerán en tu dispositivo hasta que los elimines.
+
+Aunque el modo Incógnito puede ayudarte a proteger la privacidad de tu navegación en tu dispositivo, no te hace invisible. Los sitios web que visites, incluidos los sitios de Google, y las organizaciones que gestionen tu red, como tu centro educativo, tu empresa o tu proveedor de Internet, pueden observar tu actividad en el modo Incógnito. Los sitios web que visitas y que usan servicios de Google también comparten información sobre tu actividad en sus sitios con Google, incluso con fines publicitarios, tal y como se describe en la Política de Privacidad.
+
+## Abrir el modo Incógnito
+
+Para iniciar una sesión de Incógnito, sigue estos pasos:
+
+- En tu ordenador, abre Chrome.
+
+- Arriba a la derecha, selecciona Más Nueva ventana de Incógnito.
+
+- Se abrirá una ventana.
+
+- En la parte derecha de la barra de direcciones, verás el icono de Incógnito .
+
+Para abrir una ventana de Incógnito, puedes usar una combinación de teclas:
+
+- Windows, Linux o ChromeOS: pulsa Ctrl + Mayús + N.
+
+- Mac: pulsa ⌘ + Mayús + N.
+
+En el modo Incógnito, las cookies de terceros están bloqueadas de forma predeterminada. Si un sitio que depende de cookies de terceros no funciona correctamente, puedes probar a permitirlas temporalmente para ese sitio. Consulta cómo permitir temporalmente las cookies de terceros de un sitio concreto.
+
+## Cerrar el modo Incógnito
+
+Si estás navegando en una ventana de Incógnito y abres otra, la sesión de Incógnito continuará en la nueva ventana. Para finalizar tu sesión de Incógnito, debes cerrar todas las ventanas de Incógnito.
+
+Si ves un número junto al icono de Incógnito situado arriba a la derecha, es porque tienes varias ventanas de Incógnito abiertas. Para cerrar una ventana de Incógnito, haz lo siguiente:
+
+- En tu ordenador, abre la ventana de Incógnito.
+
+- Cierra la ventana:
+
+- Windows o Chromebook: arriba a la derecha, selecciona Cerrar .
+
+- Mac: arriba a la izquierda, selecciona Cerrar .
+
+## Recursos relacionados
+
+- Navegar en Chrome como invitado
+
+- Eliminar los datos de navegación en Chrome
+
+Esta página puede incluir contenido traducido con tecnología de IA. Las traducciones generadas por IA pueden contener errores.
+
+## ¿Te ha resultado útil esta información?
+
+¿Cómo podemos mejorar esta página?
+
+ Ordenador AndroidiPhone y iPad 
+ Más 
+
+## ¿Necesitas más ayuda?
+
+### Prueba estos pasos:
+
+ Publicar en la comunidad de ayuda Obtener respuestas de los miembros de la comunidad 
+
+true
+
+## 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Búsqueda
+
+Borrar búsqueda
+
+Cerrar búsqueda
+
+Aplicaciones de Google
+
+Menú principal
+
+10291199518805656582
+
+true
+
+Buscar en el Centro de ayuda
+
+false
+
+true
+
+true
+
+true
+
+true
+
+true
+
+237
+
+false
+
+false
+
+false
+
+false
+
+false

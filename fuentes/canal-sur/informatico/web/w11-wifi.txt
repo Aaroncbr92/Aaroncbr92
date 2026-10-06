@@ -1,0 +1,156 @@
+URL: https://support.microsoft.com/es-es/windows/conectarse-a-una-red-wi-fi-en-windows-1f881677-b569-0cd5-010d-e3cd3579d263
+Leído: 2026-10-05
+
+# Conectarse a una red Wi-Fi en Windows
+
+ Se aplica a
+Windows 10 Windows 11 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo me conecto a una red Wi-Fi?
+
+ ¿Cómo me conecto a una red celular?
+
+ ¿Cómo encuentro mi contraseña de Wi-Fi en Windows?
+
+- 
+
+ Windows 11
+
+- 
+
+ Windows 10
+
+Tanto si estás en casa, en el trabajo o fuera de casa, lo más probable es que encuentres una red Wi-Fi a la que puedas conectarte para acceder a Internet.
+
+ Ir a Wi-Fi configuración de red
+
+## Conectarse a una red wifi
+
+- 
+Selecciona los iconos de red, sonido o batería ( ) en la barra de tareas para abrir la configuración rápida.
+
+El icono Desconectado aparece cuando no estás conectado.
+
+- 
+En la configuración rápida de Wi-Fi, seleccione Administrar conexiones Wi-Fi .
+
+- 
+Elige la red Wi-Fi que quieres y, a continuación, selecciona Conectar. Si no ves la red que esperas, puedes iniciar manualmente un nuevo examen de Wi-Fi seleccionando el botón Actualizar lista de redes en la parte inferior derecha.
+
+- 
+Escribe la contraseña de red y, a continuación, selecciona Siguiente.
+
+## Conectarse a una red Wi-Fi con un código QR
+
+En los dispositivos Windows con una cámara, puedes usarla para escanear un código QR para conectarte rápidamente a una red Wi-Fi sin necesidad de escribir manualmente los detalles de la red. Puedes encontrar estos códigos QR en lugares públicos, como cafeterías, o puedes escanearlos en otro dispositivo Windows.
+
+- 
+Abra la aplicación Cámara . Seleccione el icono de modo de código de barras para cambiar del modo foto al modo de código de barras.
+
+- 
+Apunte la cámara del dispositivo al código QR que contiene la información de conexión Wi-Fi.
+
+- 
+Selecciona el vínculo que aparece en la aplicación Cámara, que abrirá Configuración.
+
+- 
+En Configuración, confirme que desea agregar la red de Wi-Fi y conectarse a ella. Puedes elegir si el dispositivo se conectará automáticamente a esa red cuando se encuentre dentro del alcance.
+
+## Encontrar la contraseña de la red Wi-Fi en Windows
+
+Si has olvidado la contraseña de red Wi-Fi o quieres compartirla rápidamente con otra persona, puedes encontrarla en un PC Windows que se haya conectado a tu red Wi-Fi. Después de encontrar la contraseña, puedes usarla en otro PC o dispositivo para conectarte a la red Wi-Fi digitalizando el código QR o introduciendo los detalles de la red. 
+
+En la aplicación Configuración de su dispositivo Windows
+
+ seleccionaPropiedades de red & Internet> y, luego, junto a la contraseña de red Wi-Fi, selecciona Mostrar.
+
+Nota
+
+También puedes ver la contraseña de las redes guardadas en la página Administrar redes conocidas seleccionando cualquier red y, a continuación, Mostrar junto a la contraseña de la red Wi-Fi. 
+
+En otro dispositivo, digitaliza el código QR para conectarte si el dispositivo lo admite o conéctate a Wi-Fi como lo harías normalmente e introduce la contraseña de Wi-Fi cuando se te solicite. 
+
+## Direcciones de hardware aleatorias
+
+Cuando no estés conectado a una red Wi-Fi, el dispositivo envía una señal para buscar Wi-Fi redes en el área para ayudarte a conectarte. La señal contiene la dirección única de hardware físico (MAC) del dispositivo.
+
+Algunos lugares, por ejemplo, los centros comerciales, las tiendas u otras áreas públicas, pueden usar esta dirección única para hacer un seguimiento de tu movimiento en esa zona. Si el hardware de Wi-Fi lo admite, puedes activar direcciones de hardware aleatorias para que sea más difícil para los usuarios rastrearte cuando el dispositivo busca redes y se conecta.
+
+Hay dos controles para usar direcciones de hardware aleatorias: uno es para todas las redes Wi-Fi y el otro es para la red Wi-Fi específica que elijas. Cuando activas el de todas las redes, se usan direcciones de hardware aleatorias mientras tu PC busca redes y se conecte a alguna de ellas. Cuando esté activado para la red específica que elijas, se usarán las direcciones de hardware aleatorias la próxima vez que te conectes a dicha red.
+
+### Usar direcciones de hardware aleatorias para todas las redes
+
+- En la aplicación Configuración de tu dispositivo Windows, selecciona Red & Internet>Wi-Fi.
+
+- Activa Direcciones de hardware aleatorias.
+
+### Usar direcciones de hardware aleatorias para una red específica
+
+- En la aplicación Configuración de su dispositivo Windows
+
+ selecciona Red & Internet>Wi-Fi>Administrar redes conocidas.
+
+- Elige una red Wi-Fi y activa Direcciones de hardware aleatorias.
+
+Tanto si estás en casa, en el trabajo o fuera de casa, lo más probable es que encuentres una red Wi-Fi a la que puedas conectarte para acceder a Internet.
+
+ Ir a Wi-Fi configuración de red
+
+## Conectarse a una red wifi
+
+- 
+Selecciona el icono Red en la barra de tareas. El icono que aparezca dependerá de tu estado de conexión actual. Si no ve uno de los iconos de red (o uno similar) que se muestra en la siguiente imagen, seleccione la flecha Arriba para ver si aparece allí.
+
+- 
+Elige la red Wi-Fi que quieres y, a continuación, selecciona Conectar.
+
+- 
+Escribe la contraseña de red y, a continuación, selecciona Siguiente.
+
+- 
+Elige Sí o No, según el tipo de red a la que te estés conectando, y si quieres que a tu PC lo puedan detectar otros PC y dispositivos de la red.
+
+## Encontrar la contraseña de la red Wi-Fi en Windows
+
+Si ha olvidado la contraseña de la red Wi-Fi, puede encontrarla si ya tiene otro dispositivo Windows conectado a la red Wi-Fi. Después de encontrar la contraseña, puede usarla en otro dispositivo para conectarse a la red Wi-Fi. Aquí le explicamos cómo hacerlo:
+
+- En la aplicación Configuración de su dispositivo Windows
+
+ selecciona Estado de red &>>Internet Centro de redes y recursos compartidos.
+2. En el Centro de redes y recursos compartidos, junto a Conexiones, seleccione el nombre de la red Wi-Fi.
+3. En Estado de Wi-Fi, seleccione Propiedades inalámbricas.
+4. En Propiedades de red inalámbrica, seleccione la pestaña Seguridad y, a continuación, active la casilla Mostrar caracteres .
+
+La contraseña de red Wi-Fi se muestra en el cuadro Clave de seguridad de red .
+
+En otro PC Windows u otro dispositivo, conéctate a Wi-Fi como lo harías normalmente e introduce la contraseña de Wi-Fi cuando se te solicite.
+
+## Direcciones de hardware aleatorias
+
+Cuando no estás conectado a una red Wi-Fi, tu equipo envía una señal para buscar redes Wi-Fi de la zona, para ayudarte a conectarte. La señal contiene la dirección única de hardware físico (MAC) del dispositivo.
+
+Algunos lugares, por ejemplo, los centros comerciales, las tiendas u otras áreas públicas, pueden usar esta dirección única para hacer un seguimiento de tu movimiento en esa zona. Si el hardware de tu Wi-Fi lo admite, puedes activar direcciones de hardware aleatorias para que sea más difícil que otros usuarios realicen un seguimiento de tu PC cuando detecta redes y se conecta a ellas.
+
+Hay dos controles para usar direcciones de hardware aleatorias: uno es para todas las redes Wi-Fi y el otro es para la red Wi-Fi específica que elijas. Cuando activas el de todas las redes, se usan direcciones de hardware aleatorias mientras tu PC busca redes y se conecte a alguna de ellas. Cuando esté activado para la red específica que elijas, se usarán las direcciones de hardware aleatorias la próxima vez que te conectes a dicha red.
+
+### Usar direcciones de hardware aleatorias para todas las redes
+
+- En la aplicación Configuración de su dispositivo Windows
+
+ selecciona >Red & Internet>Wi-Fi .
+
+- Activa Usar direcciones de hardware aleatorias.
+
+### Usar direcciones de hardware aleatorias para una red específica
+
+- En la aplicación Configuración de su dispositivo Windows
+
+ selecciona Red & Internet>Wi-Fi>Administrar redes conocidas.
+
+- Elige una red, selecciona Propiedades y activa Usar direcciones de hardware aleatorias para esta red.
+
+## Temas relacionados
+
+ Solucionar problemas de conexión Wi-Fi en Windows

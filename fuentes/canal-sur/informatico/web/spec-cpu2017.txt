@@ -1,0 +1,495 @@
+URL: https://www.spec.org/cpu2017/
+Leído: 2026-10-05
+
+
+
+ SPEC CPU 2017
+
+ Products
+
+ Cloud
+
+ SPEC Cloud IaaS 2018
+
+ CPU
+
+ SPEC CPU 2026
+
+ SPEC CPU 2017
+
+ Embedded
+
+ ADASMark
+
+ AudioMark
+
+ AutoBench
+
+ BrowsingBench
+
+ CoreMark
+
+ CoreMark-Pro
+
+ DENBench
+
+ FPMark
+
+ IoTMark
+
+ MLMark
+
+ MultiBench
+
+ Networking
+
+ OABench
+
+ SecureMark
+
+ TeleBench
+
+ ULPMark
+
+ Graphics/Workstation
+
+ High Performance (HPG)
+
+ SPECaccel 2023
+
+ SPEChpc 2021
+
+ SPEC MPI 2007
+
+ SPEC OMP 2012
+
+ Java Client/Server
+
+ SPECjbb2015
+
+ SPECjEnterprise 2018 Web Profile
+
+ SPECjEnterprise 2010
+
+ SPECjvm 2008
+
+ Power
+
+ SPECpower_ssj2008
+
+ SPEC PTDaemon Interface
+
+ SPEC Chauffeur WDK
+
+ SERT Suite
+
+ Storage
+
+ SPECstorage Solution 2020
+
+ Virtualization
+
+ SPECvirt Datacenter 2021
+
+ SPEC virt_sc 2013
+
+ Retired Benchmarks
+
+ Results
+
+ Cloud
+
+ SPEC Cloud IaaS 2018
+
+ SPEC Cloud IaaS 2016
+
+ CPU
+
+ SPEC CPU 2026
+
+ SPEC CPU 2017
+
+ SPEC CPU 2006
+
+ SPEC CPU 2000
+
+ Embedded
+
+ AndEBench-Pro Results
+
+ AudioMark Results
+
+ CoreMark Results
+
+ CoreMark-Pro Results
+
+ MLBench Results
+
+ Graphics/Workstation
+
+ SPECapc for 3ds Max
+
+ SPECapc for Creo
+
+ SPECapc for Maya
+
+ SPECapc for Siemens NX
+
+ SPECapc for Solidworks
+
+ SPECviewperf
+
+ SPECworkstation
+
+ High Performance (HPG)
+
+ SPECaccel 2023
+
+ SPEC ACCEL
+
+ SPEChpc 2021
+
+ SPEC MPI 2007
+
+ SPEC OMP 2012
+
+ Java Client/Server
+
+ SPECjAppServer 2004
+
+ SPECjAppServer 2002
+
+ SPECjAppServer 2001
+
+ SPECjbb 2015
+
+ SPECjbb 2013
+
+ SPECjbb 2005
+
+ SPECjbb 2000
+
+ SPECjEnterprise 2018 Web Profile
+
+ SPECjEnterprise 2010
+
+ SPEC JMS 2007
+
+ SPECjvm 2008
+
+ SPECjvm 98
+
+ Mail Server
+
+ SPECmail 2009
+
+ SPECmail 2008
+
+ SPECmail 2001
+
+ Power
+
+ SPECpower_ssj 2008
+
+ Storage
+
+ SPECstorage Solution 2020
+
+ SPEC SFS 2014
+
+ SPEC SFS 2008
+
+ SPEC SFS 97_R1
+
+ SPEC SFS 97
+
+ Virtualization
+
+ SPEC VIRT Datacenter 2021
+
+ SPEC VIRT_SC 2013
+
+ SPEC VIRT_SC 2010
+
+ Web Server
+
+ SPECweb 2009
+
+ SPECweb 2005
+
+ SPECweb 99_SSL
+
+ SPECweb 99
+
+ SPECweb 96
+
+ Result Fair Use
+
+ News
+
+ SPEC Blog
+
+ SPEC Newsletter
+
+ Press Releases
+
+ Media Coverage
+
+ Info
+
+ About SPEC
+
+ SPEC Groups
+
+ Embedded Group
+
+ Graphics & Workstation Performance Group
+
+ High Performance Computing Group
+
+ International Standards Group
+
+ Open Systems Group
+
+ Research Group
+
+ Contact SPEC
+
+ Joining SPEC
+
+ Order SPEC Benchmarks
+
+ Submit Benchmark Results
+
+ SPEC Fair Use Rules
+
+ SPEC Trademarks
+
+ SPEC Website Search
+
+ SPEC Mirror Sites
+
+ Published Results
+
+ All SPEC CPU 2017 Results
+
+ All SPECspeed 2017 Floating Point Results
+
+ All SPECspeed 2017 Integer Results
+
+ All SPECrate 2017 Floating Point Results
+
+ All SPECrate 2017 Integer Results
+
+ Fair Use Policy
+
+ Documentation
+
+ What's New?
+
+ System Requirements
+
+ Run Rules
+
+ Using SPEC CPU 2017
+
+ SPEC CPU 2017 benchmarks
+
+ Support
+
+ Technical Support
+
+ Known Issues
+
+ Frequently Asked Questions
+
+ Purchase
+
+ Purchase SPEC CPU 2017
+
+ Purchase SPEC CPU 2017 at non-profit pricing
+
+ Press and Publications
+
+ New Academic Pricing
+
+ V1.1 Release
+
+ V1.0 Release
+
+ Case Study
+
+SPEC CPU® 2017 benchmark
+
+The SPEC CPU® 2017 benchmark benchmark package contains SPEC's next-generation, industry-standardized, CPU intensive suites for measuring and comparing compute intensive performance, stressing a system's processor, memory subsystem and compiler.
+
+Attention
+
+BENCHMARK RETIREMENT: With the release of the SPEC CPU 2026 benchmark suite, the SPEC CPU 2017 suite will be retired. See below for details on the retirement schedule and result submission requirements.
+
+The SPEC CPU 2017 Benchmark price is $1000 for new customers, $250 for qualified non profit organizations and $50 accredited academic institutions. To find out if your organization has an existing license for a SPEC product please contact SPEC at info@spec.org.
+
+Purchase SPEC CPU® 2017
+
+Purchase SPEC CPU® 2017 with non-profit pricing
+
+SPEC designed these suites to provide a comparative measure of compute-intensive performance across the widest practical range of hardware using workloads developed from real user applications. The benchmarks are provided as source code and require the use of compiler commands as well as other commands via a shell or command prompt window. SPEC CPU 2017 also includes an optional metric for measuring energy consumption.
+
+The SPEC CPU 2017 benchmark package contains 43 benchmarks, organized into four suites:
+
+The SPECspeed® 2017 Integer and SPECspeed® 2017 Floating Point suites are used for comparing time for a computer to complete single tasks.
+
+The SPECrate® 2017 Integer and SPECrate® 2017 Floating Point suites measure the throughput or work per unit of time.
+
+SPEC CPU 2017 Retirement
+Updated July 28, 2026 with a correction to the August and November submission deadlines.
+With the release of SPEC CPU 2026, SPEC will be retiring SPEC CPU 2017. The retirement plan is as follows:
+
+Through August 11, 2026 03:00 AM US Eastern Time, SPEC CPU 2017 and SPEC CPU 2026 results can be submitted to SPEC independently.
+
+From August 11, 2026 03:01 AM US Eastern Time to November 3, 2026 03:00 AM US Eastern Time, publication of SPEC CPU 2017 results on the SPEC website requires simultaneous submission and publication of the corresponding SPEC CPU 2026 results on the same configuration. Other details:
+
+For SPECrate results, the same number of base copies must be used.
+
+Compilers and tuning may differ between the SPEC CPU 2017 and SPEC CPU 2026 submissions.
+
+Due to SPEC's result review calendar, this means that the last day to submit SPEC CPU 2017 results without an accompanying SPEC CPU 2026 result is the
+SPEC submission deadline of August 11 03:00 AM US Eastern Time.
+
+The intent of requiring SPEC CPU 2026 submissions with SPEC CPU 2017 submissions is to motivate the population of the SPEC website with SPEC CPU 2026 results.
+
+Note: The SPEC CPU 2017 rules allows rule-compliant results to be published independently (outside of the SPEC website). There is no requirement that results published outside of the SPEC website be accompanied by SPEC CPU 2026 results.
+
+On November 3, 2026 03:00 AM US Eastern Time, SPEC will stop accepting SPEC CPU 2017 results for publication.
+
+By end of day on November 17, 2026 US Eastern Time, SPEC will retire SPEC CPU 2017. Further submissions not already under review will not be published by SPEC and technical support for SPEC CPU 2017 will end.
+
+For publication on SPEC's website by November 17, 2026, results need to be submitted to SPEC by the November 3, 2026 3:00 AM US Eastern Time submission deadline. Note that, per above, corresponding SPEC CPU 2026 results are also needed.
+
+SPEC CPU 2017 allows rule-compliant results to be published independently. Therefore, although SPEC will not be publishing results after this date, it is possible that licensees might choose to do so. The rules and license must still be followed and any such publication must plainly disclose that SPEC CPU 2017 has been retired (see: http://www.spec.org/fairuse/#i-f-retired-benchmarks for more information on how SPEC addresses retired benchmarks).
+
+Note that the requirements of the previous paragraph apply only to public use of the benchmark. Benchmark retirement has no effect on licensees' internal (unpublished) use of the benchmark product.
+
+More information:
+
+Suites
+
+Benchmarks
+
+SPECspeed and SPECrate metrics
+
+What's new in the SPEC CPU 2017 benchmark package
+
+All documentation
+
+Results
+
+Submitted Results
+
+Text, HTML, CSV, PDF, and Configuration file outputs for the SPEC CPU 2017 metrics; includes all of the results submitted to SPEC from the SPEC member companies and other licensees of the benchmark package.
+
+Search across all the SPEC CPU 2017 benchmark results in SPEC's online result database.
+
+Benchmark Press Releases
+
+Press release material, documents, and announcements:
+
+SPEC releases SPEC CPU 2017 V1.1.9 (reduced academic pricing, initial support for Linux on RISC-V, and enhanced reporting of system configuration) (12/01/2022)
+
+SPEC releases SPEC CPU 2017 V1.1 (full support for power measurement, run rules clarifications, and minor bug fixes) (09/10/2019)
+
+SPEC releases major new CPU benchmark suite (06/20/2017)
+
+Benchmark Documentation
+
+Index of SPEC CPU 2017 documentation, the Run and Reporting Rules, benchmark descriptions, etc. All documentation available for the benchmark distribution is found/maintained/updated here.
+
+Updating Your Copy
+
+If you have already purchased SPEC CPU 2017 and would like to check for and download/apply any available updates, please see the instructions for updating your software. The update process requires an internet connection to check for and download any available updates.
+
+Support
+
+If help is needed with running the SPEC CPU2017 benchmark suites, please see the technical support page. You may also want to check the FAQ and the known issues pages.
+
+Related Publications
+
+Benchmark case study
+
+How a cloud computing company uses the SPEC CPU2017 benchmark suites.
+
+Research - Simpoints
+
+Simpoint "pinballs" for portions of the CPU2017 workloads
+
+How Many VAXes Fit in the Palms of Your Hands?
+
+L. Henning, "How Many VAXes Fit in the Palms of Your Hands?," in IEEE Micro, vol. 41, no. 6, pp. 140-143, 1 Nov.-Dec. 2021, doi: 10.1109/MM.2021.3112911.
+[companion video]
+
+Memory hierarchy characterization of SPEC CPU2006 and SPEC CPU2017 on the Intel Xeon Skylake-SP
+
+Navarro-Torres A, Alastruey-Benedé J, Ibáñez-Marín P, Viñals-Yúfera V (2019). PLoS ONE 14(8): e0220135.
+
+Flags
+
+Flag Descriptions - explanations from the testers for what all those cryptic flags in the results' notes section really mean.
+
+ Published Results
+
+ All SPEC CPU 2017 Results
+
+ All SPECspeed 2017 Floating Point Results
+
+ All SPECspeed 2017 Integer Results
+
+ All SPECrate 2017 Floating Point Results
+
+ All SPECrate 2017 Integer Results
+
+ Fair Use Policy
+
+ Documentation
+
+ What's New?
+
+ System Requirements
+
+ Run Rules
+
+ Using SPEC CPU 2017
+
+ SPEC CPU 2017 benchmarks
+
+ Support
+
+ Technical Support
+
+ Known Issues
+
+ Frequently Asked Questions
+
+ Purchase
+
+ Purchase SPEC CPU 2017
+
+ Purchase SPEC CPU 2017 at non-profit pricing
+
+ Press and Publications
+
+ New Academic Pricing
+
+ V1.1 Release
+
+ V1.0 Release
+
+ Case Study
+
+© 1995 - 2026 Standard Performance Evaluation Corporation
+
+ Privacy
+ |
+ Trademarks
+ |
+ Fair Use
+

@@ -1,0 +1,225 @@
+URL: https://learn.microsoft.com/es-es/windows/whats-new/windows-11-requirements
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Requisitos de Windows 11
+
+- Se aplica a: ✅ Windows 11
+
+## 
+
+En este artículo se enumeran los requisitos del sistema para Windows 11. Windows 11 también se admite en una máquina virtual (VM).
+
+## Requisitos de hardware
+
+Para instalar o actualizar a Windows 11, los dispositivos deben cumplir los siguientes requisitos mínimos de hardware:
+
+- 
+
+ Procesador: 1 gigahercio (GHz) o más rápido con dos o más núcleos en un procesador o sistema compatible de 64 bits en un chip (SoC).
+
+- 
+
+ Memoria: 4 gigabytes (GB) o superior.
+
+- 
+
+ Almacenamiento: 64 GB o más de espacio disponible en disco.
+
+Nota
+
+Puede haber más requisitos de almacenamiento a lo largo del tiempo para las actualizaciones y para habilitar características específicas dentro del sistema operativo. Para obtener más información, consulte las especificaciones de Windows 11.
+
+- 
+
+ Tarjeta gráfica: compatible con DirectX 12 o posterior, con un controlador WDDM 2.0.
+
+- 
+
+ Firmware del sistema: UEFI, compatible con arranque seguro.
+
+- 
+
+ TPM: módulo de plataforma segura (TPM) versión 2.0.
+
+- 
+
+ Pantalla: pantalla de alta definición (720p), monitor de 9" o superior, 8 bits por canal de color.
+
+- 
+
+ Conexión a Internet: la conectividad a Internet es necesaria para realizar actualizaciones y para descargar y usar algunas características.
+
+- Windows 11 Home edición requiere una conexión a Internet y una cuenta Microsoft para completar la configuración del dispositivo en el primer uso.
+
+Para obtener más información sobre las herramientas para evaluar la preparación, consulte Determinación de la idoneidad.
+
+## Requisitos del sistema operativo
+
+Para actualizar directamente a Windows 11, los dispositivos Windows 10 aptos deben cumplir ambos criterios:
+
+- Ejecución de Windows 10, versión 2004 o posterior.
+
+- Instaló la actualización de seguridad del 14 de septiembre de 2021 o posterior.
+
+Nota
+
+- El modo S solo se admite en la edición Home de Windows 11.
+
+- Si ejecuta una edición diferente de Windows en modo S, antes de actualizar a Windows 11, primero desactive el modo S.
+
+- Para cambiar un dispositivo fuera de Windows 10 en modo S también requiere conectividad a Internet. Si desactiva el modo S, no podrá volver al modo S más adelante.
+
+## Requisitos específicos de la característica
+
+Algunas características de Windows 11 tienen requisitos más allá de los requisitos mínimos de hardware.
+
+- 
+ Compatibilidad con 5G: requiere un módem compatible con 5G.
+
+- 
+ HDR automático: requiere un monitor HDR.
+
+- 
+ BitLocker to Go: requiere una unidad flash USB. Esta característica está disponible en Windows Pro y versiones posteriores.
+
+- 
+ Cliente Hyper-V: requiere un procesador con capacidades de traducción de direcciones de segundo nivel (SLAT). Esta característica está disponible en las ediciones de Windows Pro y versiones posteriores.
+
+- 
+ DirectStorage: requiere un SSD NVMe para almacenar y ejecutar juegos que usan el controlador Standard NVM Express Controller y una GPU DirectX12 compatible con Shader Model 6.0.
+
+- 
+ DirectX 12 Ultimate: disponible con juegos y chips gráficos compatibles.
+
+- 
+ Presence: requiere un sensor que pueda detectar la distancia humana desde el dispositivo o la intención de interactuar con el dispositivo.
+
+- 
+ Videoconferencia inteligente: requiere cámara de vídeo, micrófono y altavoz (salida de audio).
+
+- 
+ Varios asistentes de voz: requiere un micrófono y un altavoz.
+
+- 
+ Acoplar: los diseños de tres columnas requieren una pantalla con un ancho de 1920 píxeles efectivos o más.
+
+- 
+ Silenciar y reactivar el audio: desde la Barra de tareas; requiere cámara de vídeo, micrófono y altavoz (salida de audio). La aplicación debe ser compatible con la característica para activar o desactivar el audio de forma global.
+
+- 
+ Sonido espacial: requiere hardware y software auxiliares.
+
+- 
+ Microsoft Teams: requiere cámara de vídeo, micrófono y altavoz (salida de audio).
+
+- 
+ Entrada táctil: requiere una pantalla o un monitor que admita la función multitáctil.
+
+- 
+ Autenticación en dos fases: requiere el uso de PIN, datos biométricos (lector de huellas digitales o cámara de infrarrojos iluminada), o bien un teléfono con conexión Wi-Fi o Bluetooth.
+
+- 
+ Escritura por voz: requiere un PC con un micrófono.
+
+- 
+ Wake on Voice: requiere el modelo de energía y el micrófono del Modo de espera moderno.
+
+- 
+ Wi-Fi 6E: requiere un nuevo controlador y hardware WLAN IHV y un enrutador/AP compatible con Wi-Fi 6E.
+
+- 
+ Windows Hello: requiere una cámara configurada para la creación de imágenes de infrarrojos cercano (IR) o un lector de huellas digitales para la autenticación biométrica. Los dispositivos sin sensores biométricos pueden usar Windows Hello con un PIN o una clave de seguridad portátil compatible con Microsoft. Para obtener más información, consulte Herramientas de TI para admitir Windows 10, versión 21H1.
+
+- 
+ Proyección de Windows: requiere un adaptador de pantalla que admita Windows Display Driver Model (WDDM) 2.0 y un adaptador Wi-Fi que admita Wi-Fi Direct.
+
+- 
+ Aplicación Xbox: requiere una cuenta de Xbox Live, que no está disponible en todas las regiones. Vaya a la página Países y regiones de Xbox Live para obtener la información más actualizada sobre la disponibilidad. Algunas características de la aplicación Xbox requieren una suscripción activa a Xbox Game Pass .
+
+## Compatibilidad con máquinas virtuales
+
+Los siguientes requisitos de configuración se aplican a las máquinas virtuales que ejecutan Windows 11.
+
+- 
+
+ Generación: 2
+
+Nota
+
+ No es posible actualizar localmente las máquinas virtuales de generación 1 existentes a Windows 11.
+
+- 
+
+ Almacenamiento: 64 GB o más de espacio en disco.
+
+- 
+
+ Seguridad:
+
+- 
+
+ Azure: inicio de confianza con vTPM habilitado.
+
+- 
+
+ Hyper-V: arranque seguro y TPM habilitado.
+
+- Configuración general: compatible con el arranque seguro, habilitado para TPM virtual.
+
+- 
+
+ Memoria: 4 GB o más.
+
+- 
+
+ Procesador: dos o más procesadores virtuales.
+
+- 
+El procesador host de máquina virtual también debe cumplir Windows 11 requisitos de procesador.
+
+Nota
+
+Puede haber algunas instancias en las que no se aplique este requisito para el host de máquina virtual. Para obtener más información, consulte Opciones para usar Windows 11 con equipos Mac.
+
+- 
+Los procedimientos para configurar las opciones de máquina virtual necesarias dependen del tipo de host de máquina virtual. Por ejemplo, los hosts de máquina virtual que ejecutan Hyper-V, la virtualización (VT-x, VT-d) debe estar habilitada en el BIOS. El TPM virtual 2.0 se emula en la máquina virtual invitada independientemente de la versión o la presencia del TPM del host de Hyper-V.
+
+## Pasos siguientes
+
+- 
+ Novedades de Windows 11
+
+- 
+ Plan para Windows 11
+
+- 
+ Preparación para Windows 11
+
+- 
+ Requisitos mínimos de hardware de Windows
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-07-14

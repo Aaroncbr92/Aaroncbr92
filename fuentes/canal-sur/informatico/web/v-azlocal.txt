@@ -1,0 +1,75 @@
+URL: https://learn.microsoft.com/es-es/azure/azure-local/overview
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# ¿Qué es Azure Local?
+
+## 
+
+Azure Local es la solución de infraestructura distribuida de Microsoft que amplía las funcionalidades de Azure a entornos propiedad del cliente. Facilita la implementación local de aplicaciones modernas y heredadas en ubicaciones distribuidas o soberanas. Azure Local acelera la innovación en la nube y la inteligencia artificial mediante la entrega sin problemas de nuevas aplicaciones, cargas de trabajo y servicios desde la nube al perímetro, mediante Azure Arc como plano de control unificador.
+
+La solución ofrece una experiencia de administración nativa de la nube y admite implementaciones conectadas o desconectadas de la nube. Usa un amplio ecosistema de partners al proporcionar un catálogo completo y una lista prescriptiva de materiales (BOM) en las categorías de soluciones de hardware.
+
+Azure Local incluye todas las herramientas conocidas del plano de administración de Azure a través de Azure Portal, la CLI de Azure y las plantillas de ARM para aprovisionar y administrar recursos. También puede incorporar servicios de Azure como Azure Policy, Microsoft Defender for Cloud, Azure Monitor y Copilot para Azure. Administre, controle y proteja la infraestructura y las cargas de trabajo que se ejecutan en ellos desde un único panel de vidrio.
+
+Azure Local tiene un precio por núcleo físico en las máquinas locales, además de los cargos basados en el consumo por servicios adicionales de Azure que use. Todos los cargos se acumulan en la suscripción de Azure existente.
+
+## Ventajas clave de Azure Local
+
+Azure Local atiende varias necesidades empresariales clave, como la necesidad de proceso para permanecer en el entorno local, la resistencia de las aplicaciones críticas, la toma de decisiones de baja latencia o cumplir con requisitos de cumplimiento específicos.
+
+Ejemplos:
+
+- 
+ Inferencia de IA local en la que se deben procesar los datos en el origen. Entre los ejemplos se incluyen tiendas minoristas que implementan aplicaciones de autoprotección y prevención de pérdida, o sistemas de detección de fugas de canalizaciones en los sectores energéticos.
+
+- 
+ Continuidad empresarial de misión crítica necesaria para los sistemas que deben seguir ejecutándose durante las interrupciones de red. Algunos ejemplos son las operaciones de línea de producción en fábricas o almacenes, sistemas de control de entradas y acceso en estadios, parques de atracciones y estaciones de tránsito.
+
+- 
+ Controlar sistemas y operaciones casi en tiempo real que tienen requisitos de latencia extrema. Entre los ejemplos se incluyen los sistemas de ejecución de fabricación, la garantía de calidad industrial y la infraestructura financiera.
+
+- 
+ Estricta soberanía y requisitos normativos que requieren que los datos se conserven y controlen localmente. Entre los ejemplos se incluyen sectores altamente regulados, como sectores de defensa e inteligencia e infraestructura energética.
+
+Azure Local forma parte del enfoque de nube adaptable de Microsoft, lo que le permite crear e innovar en cualquier lugar, sin límites.
+
+## Pasos siguientes
+
+Para más información sobre Azure Local, consulte los artículos siguientes:
+
+- Lea la entrada de blog de Azure Local .
+
+- 
+ Escalabilidad e implementaciones locales de Azure.
+
+- 
+ ¿Qué son las implementaciones hiperconvergidas de Azure Local?
+
+- 
+ ¿Qué son las implementaciones de múltiples racks de Azure Local?
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-09-15

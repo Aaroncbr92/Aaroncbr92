@@ -1,0 +1,131 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/gpresult
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# gpresult
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Muestra información del conjunto resultante de directivas (RSoP) de un usuario y un equipo remotos. Para usar la generación de informes de RSoP para equipos dirigidos remotamente a través del firewall, debe tener reglas de firewall que permitan tráfico de red entrante en los puertos.
+
+## Syntax
+
+`gpresult [/s <system> [/u <username> [/p [<password>]]]] [/user [<targetdomain>\]<targetuser>] [/scope {user | computer}] {/r | /v | /z | [/x | /h] <filename> [/f] | /?}
+`
+
+Note
+
+Excepto cuando se usa /?, debe incluir una opción de salida, /r, /v, /z, /x o /h.
+
+### Parameters
+
+ | Parameter
+
+ | Description
+
+ | /s `<system>`
+
+ | Especifica el nombre o la dirección IP de un equipo remoto. No use barras diagonales inversas. La opción predeterminada es el equipo local.
+
+ | /u `<username>`
+
+ | Usa las credenciales del usuario especificado para ejecutar el comando. El usuario predeterminado es el usuario que ha iniciado sesión en el equipo que emite el comando.
+
+ | /p `[<password>]`
+
+ | Especifica la contraseña de la cuenta de usuario que se proporciona en el parámetro /u . Si se omite /p , gpresult solicita la contraseña. El parámetro /p no se puede usar con /x o /h.
+
+ | /usuario `[<targetdomain>\]<targetuser>]`
+
+ | Especifica el usuario remoto cuyos datos de RSoP se van a mostrar.
+
+ | /alcance `{user | computer}`
+
+ | Muestra los datos de RSoP para el usuario o el equipo. Si se omite /scope , gpresult muestra datos RSoP tanto para el usuario como para el equipo.
+
+ | `[/x | /h] <filename>`
+
+ | Guarda el informe en formato XML (/x) o HTML (/h) en la ubicación y con el nombre de archivo especificado por el parámetro filename . No se puede usar con /u, /p, /r, /v o /z.
+
+ | /f
+
+ | Obliga a gpresult a sobrescribir el nombre de archivo especificado en la opción /x o /h .
+
+ | /r
+
+ | Muestra los datos de resumen de RSoP.
+
+ | /v
+
+ | Muestra la información de la directiva de detalle. Esto incluye la configuración detallada que se aplicó con una prioridad de 1.
+
+ | /z
+
+ | Muestra toda la información disponible sobre la directiva de grupo. Esto incluye la configuración detallada que se aplicó con una prioridad de 1 y superior.
+
+ | /?
+
+ | Muestra la ayuda en el símbolo del sistema.
+
+#### Remarks
+
+- 
+La directiva de grupo es la herramienta administrativa principal para definir y controlar cómo funcionan los programas, los recursos de red y el sistema operativo para usuarios y equipos de una organización. En un entorno de Active Directory, la directiva de grupo se aplica a usuarios o equipos en función de su pertenencia a sitios, dominios o unidades organizativas.
+
+- 
+Dado que puede aplicar la configuración de directiva superpuesta a cualquier equipo o usuario, la característica de directiva de grupo genera un conjunto resultante de configuraciones de directiva cuando el usuario inicia sesión. El comando gpresult muestra el conjunto resultante de configuraciones de directiva que se aplicaron en el equipo para el usuario especificado cuando el usuario inició sesión.
+
+- 
+Dado que /v y /z generan mucha información, es útil redirigir la salida a un archivo de texto (por ejemplo, `gpresult/z >policy.txt`).
+
+- 
+En las versiones ARM64 de Windows, solo el `gpresult` de SysWow64 funciona con el parámetro `/h`.
+
+### Examples
+
+Para recuperar datos RSoP solo para el usuario remoto maindom\targetuser, en el equipo srvmain, escriba:
+
+`gpresult /s srvmain /user maindom\targetuser /scope user /r
+`
+
+Para guardar toda la información disponible sobre la directiva de grupo en un archivo denominado policy.txt solo para el usuario remoto maindom\targetuser, en el equipo srvmain, escriba:
+
+`gpresult /s srvmain /user maindom\targetuser /z > policy.txt
+`
+
+Para mostrar los datos RSoP para el usuario que ha iniciado sesión, maindom\hiropln con la contraseña p@ssW23, para el equipo srvmain, escriba:
+
+`gpresult /s srvmain /u maindom\hiropln /p p@ssW23 /r
+`
+
+## Related links
+
+- 
+ Clave de sintaxis de línea de comandos
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

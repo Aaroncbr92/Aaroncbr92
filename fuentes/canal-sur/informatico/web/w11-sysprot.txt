@@ -1,0 +1,68 @@
+URL: https://support.microsoft.com/es-es/windows/experience/backup-recovery/system-protection
+Leído: 2026-10-05
+
+# Protección del sistema
+
+ Se aplica a
+Windows 11 Windows 10 
+
+Obtener ayuda con Copilot
+
+ ¿Cuáles son los pasos para crear un punto de restauración?
+
+ Muéstrame cómo aplicar un punto de restauración desde la recuperación de Windows.
+
+ ¿Qué hago si no puedo recuperar el PC desde un punto de restauración del sistema?
+
+## Resumen
+
+La protección del sistema en Windows es una característica de recuperación que protege la configuración del sistema mediante la creación de puntos de restauración. Estos puntos de restauración permiten a los usuarios revertir el sistema a un estado estable anterior sin afectar a los datos personales. La característica no está habilitada de forma predeterminada, pero se recomienda para ayudar a recuperarse rápidamente de problemas del sistema. Los usuarios pueden configurar el uso del espacio en disco y crear o aplicar puntos de restauración manualmente según sea necesario.
+
+La protección del sistema en Windows es una característica de recuperación diseñada para ayudarte a proteger la configuración del sistema. Consiste principalmente en crear y administrar puntos de restauración, que son instantáneas de los archivos del sistema, las aplicaciones instaladas, el Registro de Windows y la configuración del sistema en un momento específico.
+
+Aunque no está habilitado de forma predeterminada, se recomienda habilitar la protección del sistema. Esta característica proporciona una capa adicional de seguridad y tranquilidad, lo que garantiza que pueda resolver problemas de forma rápida y sencilla sin perder datos importantes.
+
+En este artículo se describe cómo configurar la protección del sistema y crear puntos de restauración.
+
+## Configurar la protección del sistema
+
+Para abrir Protección del sistema, puede usar uno de los siguientes métodos:
+
+- Selecciona Inicio , escribe Crear un punto de restauración en el cuadro de búsqueda y selecciona Crear un punto de restauración a partir de los resultados.
+
+- Use el método abreviado R
+ +de teclado , escriba systempropertiesprotection.exe y presioneEnter
+
+### Activar la protección del sistema
+
+- 
+Selecciona Inicio , escribe Crear un punto de restauración en el cuadro de búsqueda y selecciona Crear un punto de restauración a partir de los resultados.
+
+- 
+En el cuadro de diálogo Propiedades del sistema , en la pestaña Protección del sistema , seleccione Configurar....
+
+- 
+Selecciona Activar protección del sistema.
+
+- 
+Usa el control deslizante para especificar la cantidad máxima de espacio en disco que puede usar Protección del sistema.
+
+- 
+Selecciona Aplicar.
+
+- 
+La protección del sistema creará puntos de restauración automáticamente, cuando sea necesario.
+
+## Crear un punto de restauración
+
+Para crear un punto de restauración manualmente:
+
+- Selecciona Inicio , escribe Crear un punto de restauración en el cuadro de búsqueda y selecciona Crear un punto de restauración a partir de los resultados.
+
+- En el cuadro de diálogo Propiedades del sistema , en la pestaña Protección del sistema , seleccione Crear....
+
+- Especifica una descripción para el punto de restauración y selecciona Crear.
+
+## Aplicar un punto de restauración
+
+Para revertir Windows a un punto de restauración, use Restaurar sistema.

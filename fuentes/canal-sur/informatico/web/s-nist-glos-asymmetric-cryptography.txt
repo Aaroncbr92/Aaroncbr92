@@ -1,0 +1,28 @@
+URL: https://csrc.nist.gov/glossary/term/asymmetric_cryptography
+Leído: 2026-10-05
+
+Definitions:
+Cryptography that uses two separate keys to exchange data — one to encrypt or digitally sign the data and one to decrypt the data or verify the digital signature. Also known as public-key cryptography.
+Sources:
+FIPS 204
+Encryption system that uses a public-private key pair for encryption and/or digital signature.
+Sources:
+CNSSI 4009-2022
+under public key cryptography (PKC)
+Cryptography that uses two separate keys to exchange data, one to encrypt or digitally sign the data and one for decrypting the data or verifying the digital signature. Also known as public key cryptography.
+Sources:
+NIST SP 800-77 Rev. 1
+under Asymmetric Cryptography
+About
+See the identified Source document to understand each term-definition pair in its proper context.
+Send inquiries about terminology to the Source's authors; NIST publications will usually include a contact email for that Source.
+For other inquiries, such as comments about the Glossary's presentation and functionality, use
+this link
+.
+See the
+Glossary homepage
+for more guidance.
+HEADQUARTERS
+100 Bureau Drive
+Gaithersburg, MD 20899
+<li

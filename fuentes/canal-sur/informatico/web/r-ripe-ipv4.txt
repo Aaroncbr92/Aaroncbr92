@@ -1,0 +1,50 @@
+URL: https://www.ripe.net/publications/news/the-ripe-ncc-has-run-out-of-ipv4-addresses/
+Leído: 2026-10-05
+
+- 
+
+- 
+
+- 
+
+- 
+
+You're viewing an archived page. It is no longer being updated.
+
+# The RIPE NCC has run out of IPv4 Addresses
+
+ 25 Nov 2019
+
+ • 
+
+ IPv4
+
+ IPv6
+
+ news
+
+ press release
+
+Our announcement will not come as a surprise for network operators - IPv4 run-out has long been anticipated and planned for by the RIPE community. In fact, it is due to the community's responsible stewardship of these resources that we have been able to provide many thousands of new networks in our service region with /22 allocations after we reached our last /8 in 2012.
+
+## Recovered IPv4 Addresses and the Waiting List
+
+Even though we have run out, we will continue to recover IPv4 addresses in the future. These will come from organisations that have gone out of business or are closed, or from networks that return addresses they no longer need. These addresses will be allocated to our members (LIRs) according to their position on a new waiting list that is now active.
+
+While we therefore expect to be allocating IPv4 for some time, these small amounts will not come close to the many millions of addresses that networks in our region need today. Only LIRs that have never received an IPv4 allocation from the RIPE NCC (of any size) may request addresses from the waiting list, and they are only eligible to receive a single /24 allocation.
+
+LIRs that have submitted an IPv4 request can see their position on the waiting list in the LIR Portal. A new graph has also been published that shows the number of requests on the waiting list and the number of days that the LIR at the front of the queue has been waiting.
+
+## Call for Greater Progress on IPv6
+
+This event is another step on the path towards global exhaustion of the remaining IPv4 addressing space. In recent years, we have seen the emergence of an IPv4 transfer market and greater use of Carrier Grade Network Address Translation (CGNAT) in our region. There are costs and trade-offs with both approaches and neither one solves the underlying problem, which is that there are not enough IPv4 addresses for everyone.
+
+Without wide-scale IPv6 deployment, we risk heading into a future where the growth of our Internet is unnecessarily limited - not by a lack of skilled network engineers, technical equipment or investment - but by a shortage of unique network identifiers. There is still a long way to go, and we call on all stakeholders to play their role in supporting the IPv6 roll-out.
+
+At the RIPE NCC, we are here to support our membership and the wider RIPE community in this work. Aside from allocating the IPv6 resources that will be required, we will continue to provide advice, training, measurements and tools to help network operators as they put their deployment plans into action.
+
+We are optimistic and excited to see what the next chapter will bring. So let's get to work - and together, let's shape the future of the Internet.
+
+- 
+
+-

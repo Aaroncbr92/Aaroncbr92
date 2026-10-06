@@ -1,0 +1,15 @@
+URL: https://csrc.nist.gov/glossary/term/phishing
+Leído: 2026-10-05
+
+Definitions:
+A technique for attempting to acquire sensitive data, such as bank account numbers, through a fraudulent solicitation in email or on a web site, in which the perpetrator masquerades as a legitimate business or reputable person.
+Sources:
+NIST SP 800-12 Rev. 1
+under Phishing
+from
+IETF RFC 4949 Ver 2
+Tricking individuals into disclosing sensitive personal information through deceptive computer-based means.
+Sources:
+NIST SP 800-150
+under Phishing
+NIST SP 800-45 Version 2

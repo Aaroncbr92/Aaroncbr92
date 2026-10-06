@@ -1,0 +1,139 @@
+URL: https://learn.microsoft.com/es-es/microsoftteams/teams-live-events/what-are-teams-live-events
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# ¿Qué son los eventos en directo de Microsoft Teams?
+
+- Se aplica a: Microsoft Teams
+
+## 
+
+Importante
+
+Los eventos en directo de Teams se retiraron el 30 de junio de 2026. Los eventos programados antes del 30 de junio de 2026 reciben soporte técnico hasta el 28 de febrero de 2027. 
+ Obtenga más información sobre la retirada de eventos en directo de Teams.
+
+Se recomienda realizar la transición a la experiencia unificada de eventos de Teams, que proporciona una forma centralizada de configurar y administrar eventos digitales e híbridos a escala. Los organizadores pueden usar plantillas para programar ayuntamientos y crear eventos desde cero para adaptar la experiencia. Para obtener más información, consulte Planear eventos de Teams.
+
+## Información general
+
+Los eventos en directo de Teams permiten a los usuarios de su organización difundir contenido de vídeo y reuniones a grandes audiencias en línea, llevando la transmisión de vídeo en directo a un nuevo nivel. Estos eventos fomentan la conexión durante todo el ciclo de vida de participación, involucrando a los asistentes antes, durante y después del evento. Los usuarios pueden crear un evento en directo dondequiera que resida su audiencia, equipo o comunidad, mediante Teams o Viva Engage.
+
+Los eventos en directo de Teams amplían las capacidades de las reuniones de Teams al permitir que los usuarios difundan contenido de vídeo y reunión a una amplia audiencia en línea. Estos eventos están diseñados para comunicaciones uno a varios, donde el anfitrión lidera las interacciones y el público ve principalmente el contenido compartido. Los asistentes pueden ver el evento en directo o grabado en Viva Engage o Teams e interactuar con los moderadores a través de Q&A moderado o una conversación de Viva Engage.
+
+Empecemos. En primer lugar, echemos un vistazo al siguiente diagrama, que muestra los componentes de alto nivel presentes en los eventos en directo de Microsoft 365 y cómo están conectados.
+
+Nota
+
+Los eventos en directo de Teams, debido a la naturaleza de la tecnología de difusión, suelen llegar a audiencias más grandes que las reuniones internas típicas. Al igual que otros servicios de difusión multimedia a gran escala, confiamos en las redes de entrega de contenido para entregar el contenido del evento en directo a los destinatarios. Este contenido está protegido por métodos de cifrado y autorizado por tokens de acceso emitidos en función de la configuración de la reunión de eventos en directo.
+
+Es importante asegurarse de que el contenido de la reunión sea adecuado para una gran audiencia o para limitar adecuadamente la audiencia a contenido confidencial. Al igual que con cualquier sector, los compromisos con otros elementos de su seguridad, como el personal o la infraestructura, podrían afectar a la seguridad de sus eventos en directo. Las organizaciones deben incluir eventos en directo y otros servicios de difusión en su planificación y ejercicios de seguridad.
+
+## Roles de grupo para eventos
+
+Los eventos en directo en Teams posibilitan múltiples roles (organizador, productor, moderador y asistente) para difundir y participar en un evento con éxito. Para más información, consulte Roles de grupo para eventos.
+
+## Componentes clave
+
+Puede ver en el diagrama de la sección de información general que hay cinco componentes clave que se usan con eventos en directo en Teams.
+
+Nota
+
+Para información general sobre cómo configurar eventos en directo y sobre la experiencia de los asistentes, vea estos breves vídeos.
+
+### Programar
+
+Teams permite a los organizadores crear un evento con los permisos de asistentes adecuados, designar miembros del equipo del evento, seleccionar un método de producción e invitar a los asistentes. Si el organizador crea el evento en directo desde un grupo de Viva Engage, los asistentes pueden usar Viva Engage conversación para interactuar con las personas del evento.
+
+Nota
+
+Para programar eventos en directo, los organizadores deben usar el cliente web de Teams. Cuando los organizadores programan su evento en directo, se les pide que abran un formulario web.
+
+Importante
+
+Los usuarios no pueden programar reuniones ni eventos en directo cuando están sin conexión o se ejecutan con un ancho de banda limitado.
+
+### Producción
+
+La entrada de vídeo es la base del evento en directo y puede variar de una sola cámara web a una producción de vídeo profesional con varias cámaras. Los eventos en directo de Teams admiten un espectro de escenarios de producción, como un evento producido en Teams con una cámara web o un evento producido en una aplicación o dispositivo externos. Puede elegir entre estas opciones en función de los requisitos de su proyecto y su presupuesto. Puede producir eventos de dos maneras:
+
+- 
+
+ Teams: Este método de producción permite a los usuarios producir los eventos en directo en Teams mediante su cámara web o entrada A/V desde los sistemas Sala de Teams. Esta opción es ideal para usar dispositivos de audio y vídeo conectados a su PC o para invitar a moderadores remotos. Esta opción permite a los usuarios usar su cámara web y compartir su pantalla con facilidad para participar en el evento.
+
+- 
+
+ Codificador de Teams: permite a los usuarios producir sus eventos en directo directamente desde un codificador externo basado en software o hardware con Teams. Esta opción es la mejor si ya tienes equipos de calidad de estudio (por ejemplo, mezcladores multimedia) que admitan el streaming a un servicio de protocolo de mensajería en tiempo real (RTMP). Este tipo de producción se suele usar en eventos a gran escala en los que se difunde una única transmisión desde un mezclador multimedia a la audiencia.
+
+### Plataforma de streaming
+
+La plataforma de streaming de eventos en directo se compone de lo siguiente:
+
+- 
+ Azure Servicios multimedia: Azure Media Services le ofrece servicios de streaming de vídeo de calidad de difusión para llegar a un público más amplio en los dispositivos móviles más populares de hoy en día. Media Services mejora la accesibilidad, distribución y escalabilidad y hace que resulte más fácil y rentable transmitir contenido a un público local o global al tiempo que protege su contenido.
+
+- 
+ Azure red de entrega de contenido (CDN): una vez que la transmisión se activa, se entrega a través de la red de entrega de contenido (CDN) de Azure. Azure Media Services ofrece puntos de conexión integrados de CDN para streaming. Esto permite a un público global seguir la transmisión sin almacenamiento en búfer.
+
+### Content Delivery Network para empresas (eCDN)
+
+El objetivo de eCDN consiste en tomar el contenido de vídeo de internet y distribuirlo por toda su empresa sin que el rendimiento de red se vea afectado. Puede usar la solución de eCDN de origen de Microsoft o, como alternativa, uno de los siguientes asociados certificados de eCDN para optimizar su red para eventos en directo realizados dentro de su organización:
+
+- 
+ Hive
+
+- 
+ Kollective
+
+- 
+ Ramp
+
+Para obtener más información, consulte Redes de entrega de contenido empresarial para hacer streaming de eventos de Microsoft Teams.
+
+### Experiencia de los asistentes
+
+La experiencia de los asistentes es el aspecto más importante de los eventos en directo y es fundamental para los asistentes participar en el evento en directo sin problemas. La experiencia de los asistentes usa Teams (para eventos producidos en Teams) y Azure Media Player (para eventos producidos en una aplicación o dispositivo externos) y funciona en equipos de escritorio, exploradores y dispositivos móviles (iOS, Android). Microsoft 365 y Office 365 proporcionan Viva Engage y Teams como dos concentradores de colaboración, y la experiencia de los asistentes en directo se integra en estas herramientas de colaboración.
+
+### Informe de uso de eventos en directo
+
+Como administrador, puede encontrar análisis de uso en tiempo real de eventos en directo en el Centro de administración de Microsoft Teams. El informe de uso de eventos en directo muestra información general de actividad de los eventos en directo que se han realizado en la organización. Puede ver la información de uso de eventos, incluido el estado del evento, la hora de inicio, las vistas y el tipo de producción.
+
+## Pasos siguientes
+
+Vaya a Planear eventos en directo en Teams.
+
+### Temas relacionados
+
+- 
+ Introducción a los eventos en vivo de Microsoft Teams
+
+- 
+ Eventos en directo en Viva Engage
+
+- 
+ Eventos de streaming en directo en Microsoft Teams
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-07-10

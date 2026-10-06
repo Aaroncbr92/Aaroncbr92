@@ -1,0 +1,64 @@
+URL: https://support.microsoft.com/es-es/office/usar-saltos-de-secci%C3%B3n-para-cambiar-el-dise%C3%B1o-o-el-formato-de-una-secci%C3%B3n-del-documento-de-word-4cdfa638-3ea9-434a-8034-bf1e4274c450
+Leído: 2026-10-05
+
+# Usar saltos de sección para cambiar el diseño o el formato de una sección del documento de Word
+
+ Se aplica a
+Word para Microsoft 365 Word 2024 Word 2021 Word 2019 Word 2016 
+
+Obtener ayuda con Copilot
+
+ Ayúdame a usar saltos de sección para diseñar o dar formato a un documento.
+
+ Muéstrame cómo insertar un salto de sección.
+
+ ¿Cómo formateo mis saltos de sección?
+
+ Puede usar saltos de sección para cambiar el diseño o el formato de las páginas del documento.
+
+Para cambiar el formato de un documento, inserte un salto de sección al principio del lugar donde desea realizar el cambio. Configure el cambio de formato justo después del nuevo salto de sección. Si desea volver a cambiar el formato, coloque otro salto de sección. Si los cambios están en la misma página, elija el salto de sección Continuo . En caso contrario, elija Saltos de sección Página siguiente, Página impar o Página par .
+
+Si el cambio de formato se produce en la sección anterior, presione Ctrl o Comando + Z, mueva el cursor hasta después del salto de sección e inténtelo de nuevo.
+
+## Usar saltos de sección para diseño o formato de un documento
+
+Al insertar un salto de sección, elija el tipo de salto que se ajuste a los cambios que desea realizar. Estos son los tipos con sugerencias de uso:
+
+El comando Página siguiente inserta un salto de sección y empieza la nueva sección en la siguiente página. Este tipo de salto de sección es útil para iniciar nuevos capítulos en un documento.
+
+El comando Continuo inserta un salto de sección y empieza la nueva sección en la misma página. Un salto de sección continuo es útil para crear cambios de formato como un número diferente de columnas en una página.
+
+El comando Página par o Página impar inserta un salto de sección y empieza la nueva sección en la siguiente página par o impar, respectivamente. Para iniciar los capítulos del documento siempre en una página impar o par, use la opción de salto de sección Página impar o Página par.
+
+## Trabajar con saltos de sección
+
+Para ver los saltos de sección, vea Mostrar saltos de sección.
+
+Para insertar un salto de sección, vea Insertar un salto de sección.
+
+Para cambiar un salto de sección, vea Cambiar un salto de sección.
+
+Para eliminar un salto de sección, vea Eliminar un salto de sección
+
+## Dar formato a los saltos de sección
+
+Aquí tiene algunos formatos que se pueden aplicar partes del documento mediante saltos de sección:
+
+- 
+ Cambiar la orientación de la página
+
+- 
+ Agregar un encabezado o pie de página
+
+- 
+ Agregar numeración de páginas
+
+- 
+ Agregar columnas
+
+- 
+ Agregar bordes de página
+
+- 
+
+ Inicie la numeración de páginas más adelante en el documento.

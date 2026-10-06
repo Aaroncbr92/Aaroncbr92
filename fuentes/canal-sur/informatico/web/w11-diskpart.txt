@@ -1,0 +1,301 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/diskpart
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# diskpart
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Se aplica a: Windows Server 2022, Windows 10, Windows 8.1, Windows 8, Windows 7, Windows Server 2019, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012 y Windows Server 2008 R2, Windows Server 2008
+
+El intérprete de comandos diskpart le ayuda a administrar las unidades del equipo (discos, particiones, volúmenes o discos duros virtuales).
+
+Antes de poder usar los comandos diskpart , primero debe enumerar y, a continuación, seleccionar un objeto para darle el foco. Una vez que un objeto tiene el foco, los comandos diskpart que escriba actuarán en ese objeto.
+
+## Determine focus
+
+Al seleccionar un objeto, el foco permanece en ese objeto hasta que se selecciona un objeto diferente. Por ejemplo, si el foco está establecido en el disco 0 y selecciona el volumen 8 en el disco 2, el foco cambia del disco 0 al disco 2, volumen 8.
+
+Algunos comandos cambian automáticamente el foco. Por ejemplo, al crear una nueva partición, el foco cambia automáticamente a la nueva partición.
+
+Solo puede centrarse en una partición en el disco seleccionado. Después de que una partición tenga el foco, el volumen relacionado (si existe) también tiene el foco. Después de que un volumen tenga el foco, el disco y la partición relacionados también tienen el foco si el volumen se asigna a una sola partición específica. Si este no es el caso, se pierde el foco en el disco y la partición.
+
+## Syntax
+
+Para iniciar el intérprete de comandos diskpart, en el tipo de símbolo del sistema:
+
+`diskpart <parameter>
+`
+
+Important
+
+Debe estar en el grupo de administradores local, o en un grupo con permisos similares, para ejecutar diskpart.
+
+### Parameters
+
+Puede ejecutar los siguientes comandos desde el intérprete de comandos de Diskpart:
+
+ | Command
+
+ | Description
+
+ | 
+ active
+
+ | Marca la partición del disco con el foco, como activo.
+
+ | 
+ add
+
+ | Refleja el volumen simple con foco en el disco especificado.
+
+ | 
+ assign
+
+ | Asigna una letra de unidad o un punto de montaje al volumen que tiene el foco.
+
+ | 
+ attach vdisk
+
+ | Adjunta (o bien "monta" o "muestra") un disco duro virtual (VHD) para que aparezca en el equipo host como una unidad de disco duro local.
+
+ | 
+ attributes
+
+ | Muestra, establece o borra los atributos de un disco o volumen.
+
+ | 
+ automount
+
+ | Habilita o deshabilita la característica de montaje automático.
+
+ | 
+ break
+
+ | Divide el volumen reflejado con foco en dos volúmenes simples.
+
+ | 
+ clean
+
+ | Quita todos y todos los formatos de partición o volumen del disco con foco.
+
+ | 
+ compact vdisk
+
+ | Reduce el tamaño físico de un archivo de disco duro virtual (VHD) de expansión dinámica.
+
+ | 
+ convert
+
+ | Convierte la tabla de asignación de archivos (FAT) y los volúmenes FAT32 en el sistema de archivos NTFS, dejando intactos los archivos y directorios existentes.
+
+ | 
+ create
+
+ | Crea una partición en un disco, un volumen en uno o varios discos o en un disco duro virtual (VHD).
+
+ | 
+ delete
+
+ | Elimina una partición o un volumen.
+
+ | 
+ detach vdisk
+
+ | Impide que el disco duro virtual (VHD) seleccionado aparezca como una unidad de disco duro local en el equipo host.
+
+ | 
+ detail
+
+ | Muestra información sobre el disco seleccionado, la partición, el volumen o el disco duro virtual (VHD).
+
+ | 
+ exit
+
+ | Sale del intérprete de comandos diskpart.
+
+ | 
+ expand vdisk
+
+ | Expande un disco duro virtual (VHD) al tamaño que especifique.
+
+ | 
+ extend
+
+ | Extiende el volumen o la partición con foco, junto con su sistema de archivos, en espacio libre (sin asignar) en un disco.
+
+ | 
+ filesystems
+
+ | Muestra información sobre el sistema de archivos actual del volumen con foco y enumera los sistemas de archivos que se admiten para dar formato al volumen.
+
+ | 
+ format
+
+ | Da formato a un disco para aceptar archivos.
+
+ | 
+ gpt
+
+ | Asigna los atributos gpt a la partición con el foco en los discos básicos de la tabla de particiones GUID (gpt).
+
+ | 
+ help
+
+ | Muestra una lista de los comandos disponibles o información detallada de ayuda sobre un comando especificado.
+
+ | 
+ import
+
+ | Importa un grupo de discos externos en el grupo de discos del equipo local.
+
+ | 
+ inactive
+
+ | Marca la partición del sistema o la partición de arranque con el foco como inactivo en los discos de registro de arranque maestro básico (MBR).
+
+ | 
+ list
+
+ | Muestra una lista de discos, de particiones en un disco, de volúmenes de un disco o de discos duros virtuales (VHD).
+
+ | 
+ merge vdisk
+
+ | Combina un disco duro virtual (VHD) diferenciado con su VHD primario correspondiente.
+
+ | 
+ offline
+
+ | Toma un disco o volumen en línea al estado sin conexión.
+
+ | 
+ online
+
+ | Toma un disco o volumen sin conexión al estado en línea.
+
+ | 
+ recover
+
+ | Actualiza el estado de todos los discos de un grupo de discos, intenta recuperar discos en un grupo de discos no válidos y vuelve a sincronizar volúmenes reflejados y volúmenes RAID-5 que tienen datos obsoletos.
+
+ | 
+ rem
+
+ | Proporciona una manera de agregar comentarios a un script.
+
+ | 
+ remove
+
+ | Quita una letra de unidad o un punto de montaje de un volumen.
+
+ | 
+ repair
+
+ | Repara el volumen RAID-5 con el foco sustituyendo la región del disco que ha fallado por el disco dinámico especificado.
+
+ | 
+ rescan
+
+ | Busca nuevos discos que se pueden haber agregado al equipo.
+
+ | 
+ retain
+
+ | Prepara un volumen simple dinámico existente que se usará como un volumen de arranque o del sistema.
+
+ | 
+ san
+
+ | Muestra o establece la directiva de red de área de almacenamiento (san) para el sistema operativo.
+
+ | 
+ select
+
+ | Desplaza el foco a un disco, partición, volumen o disco duro virtual (VHD).
+
+ | 
+ set id
+
+ | Cambia el campo de tipo de partición de la partición con el foco.
+
+ | 
+ shrink
+
+ | Reduce el tamaño del volumen seleccionado por la cantidad que especifique.
+
+ | 
+ uniqueid
+
+ | Muestra o establece el identificador de la tabla de particiones GUID (GPT) o la firma del registro de arranque maestro (MBR) para el disco con foco.
+
+## Enumeración de objetos disponibles
+
+Puede ver una lista de opciones asociadas a cada comando ejecutando el comando principal seguido de lo que está disponible para ese comando específico. La lista en ejecución por sí sola mostrará los cuatro parámetros siguientes:
+
+Note
+
+Después de ejecutar el comando list , aparece un asterisco (*) junto al objeto de foco.
+
+### Examples
+
+Para ver los discos disponibles, ejecute list disk:
+
+`list disk
+`
+
+Para seleccionar un disco, ejecute select disk seguido del número de disco. For example:
+
+`select disk 1
+`
+
+Para poder usar el disco 1, es necesario crear una partición mediante la ejecución de la creación de la partición principal:
+
+`create partition primary
+`
+
+Por último, podemos realizar un formato rápido del disco 1 a NTFS con la etiqueta "Backup" ejecutando el formato fs=ntfs label=Backup rápido , como se muestra a continuación:
+
+`format fs=ntfs label=Backup quick
+`
+
+## Related links
+
+- 
+
+ Clave de sintaxis de línea de comandos
+
+- 
+
+ Introducción a la administración de discos
+
+- 
+
+ Cmdlets de almacenamiento en Windows PowerShell
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

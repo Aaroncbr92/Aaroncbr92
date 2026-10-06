@@ -1,0 +1,4040 @@
+URL: https://learn.microsoft.com/es-es/windows/release-health/windows11-release-information
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Editar
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Información de versión de Windows 11
+
+## 
+
+Windows 11 tiene una cadencia de actualización de características anual. Las actualizaciones de características se publican en la segunda mitad del año natural y cuentan con 24 meses de soporte técnico para las ediciones Home, Pro, Pro for Workstations y Pro Education. 36 meses de soporte técnico para las ediciones Enterprise y Education. Para obtener más información, consulte las Preguntas más frecuentes sobre el ciclo de vida de Windows.
+
+Windows 11 también publica actualizaciones de seguridad mensuales el segundo martes de cada mes. Estas versiones son acumulativas y contienen todas las actualizaciones anteriores para mantener los dispositivos protegidos y productivos.
+
+Si es administrador de TI y desea obtener información de esta página mediante programación, use la API de actualizaciones de Windows en Microsoft Graph.
+
+Note
+
+Windows 11, versión 26H1 tiene como ámbito admitir nuevos dispositivos que empezaron a comercializarse a principios de 2026 y no está diseñado como una actualización de características para dispositivos existentes. Esta versión no se ofrece como una actualización local de 24H2 o 25H2 en dispositivos existentes.
+
+## Versiones actuales de Windows 11 mediante la opción de mantenimiento
+
+(Todas las fechas se muestran en formato ISO 8601: AAAA-MM-DD)
+
+#### Canales de servicio
+
+ | Versión
+
+ | Opción de mantenimiento
+
+ | Fecha de disponibilidad
+
+ | Fin de actualización: Home, Pro, Pro Education, y Pro for Workstations
+
+ | Fin de actualización: Sesiones múltiples de Enterprise, Education, IoT Enterprise y Enterprise
+
+ | Actualización más reciente de ESU
+
+ | Fecha de última revisión
+
+ | Compilación más reciente
+
+ | 26H2
+
+ | Canal de disponibilidad general
+
+ | 2026-09-29
+
+ | 2028-10-10
+
+ | 2029-10-09
+
+ | 2026-09 D
+
+ | 2026-09-29
+
+ | 26300.9550
+
+ | 26H1
+
+ | Canal de disponibilidad general
+
+ | 2026-02-10
+
+ | 2028-03-14
+
+ | 2029-03-13
+
+ | 2026-09 D
+
+ | 2026-09-22
+
+ | 28000.3086
+
+ | 25H2
+
+ | Canal de disponibilidad general
+
+ | 2025-09-30
+
+ | 2027-10-12
+
+ | 2028-10-10
+
+ | 2026-09 D
+
+ | 2026-09-22
+
+ | 26200.9550
+
+ | 24H2
+
+ | Canal de disponibilidad general
+
+ | 2024-10-01
+
+ | 2026-10-13
+
+ | 2027-10-12
+
+ | 2026-09 D
+
+ | 2026-09-22
+
+ | 26100.9550
+
+ | 23H2
+
+ | Canal de disponibilidad general
+
+ | 2023-10-31
+
+ | Fin de actualización
+
+ | 2026-11-10
+
+ | 2026-09 OOB
+
+ | 2026-09-14
+
+ | 22631.7584
+
+#### Ediciones Enterprise e IoT Enterprise LTSC
+
+ | Versión
+
+ | Opción de mantenimiento
+
+ | Fecha de disponibilidad
+
+ | Fecha de fin de soporte estándar
+
+ | Fecha de fin de soporte extendido
+
+ | Actualización más reciente de ESU
+
+ | Fecha de última revisión
+
+ | Compilación más reciente
+
+ | 24H21
+
+ | Canal de mantenimiento a largo plazo (LTSC)
+
+ | 2024-10-01
+
+ | 2029-10-09
+
+ | 2034-10-10
+
+ | 2026-09 D
+
+ | 2026-09-22
+
+ | 26100.9550
+
+Note
+
+1 Windows 11 Enterprise LTSC 2024 no dispone de soporte extendido. Llegará a su fin de actualización (también llamado fin del mantenimiento) el 9 de octubre de 2029. Solo Windows 11 IoT Enterprise LTSC 2024 tendrá soporte extendido hasta el 10 de octubre de 2034.
+
+Note
+
+IoT Enterprise Edition no es compatible con Windows 11, versión 26H1.
+
+## Historial de versiones de Windows 11
+
+Consulta el historial de todas las actualizaciones mensuales de seguridad y no de seguridad publicadas para Windows 11. Ten en cuenta que la columna Tipo de actualización hace referencia a cada actualización mensual por el año y el mes de su lanzamiento, seguido de una letra que indica la semana del mes (B es la segunda semana del mes; D es la cuarta semana del mes). Las actualizaciones fuera de banda se denominan OOB. Esta notación abreviada coincide con lo que se ve en Microsoft Intune. Para obtener más información, consulta Tipo de versiones de actualización.
+
+Visita el historial de actualizaciones de Windows 11 para obtener información detallada sobre el contenido de cada versión.
+
+Versión 26H2 (OS build 26300)
+
+ | Opción de mantenimiento
+
+ | Tipo de actualización
+
+ | Fecha de disponibilidad
+
+ | Compilación
+
+ | Artículo de KB
+
+ | Canal de disponibilidad general
+
+ | 2026-09 D
+
+ | 2026-09-29
+
+ | 26300.9550
+
+ | KB5124010
+
+ | Canal de disponibilidad general
+
+ | 
+
+ | 2026-09-29
+
+ | 26300.9457
+
+ | 
+
+Versión 26H1 (OS build 28000)
+
+ | Opción de mantenimiento
+
+ | Tipo de actualización
+
+ | Fecha de disponibilidad
+
+ | Compilación
+
+ | Artículo de KB
+
+ | Canal de disponibilidad general
+
+ | 2026-09 D
+
+ | 2026-09-22
+
+ | 28000.3086
+
+ | KB5124006
+
+ | Canal de disponibilidad general
+
+ | 2026-09 OOB
+
+ | 2026-09-14
+
+ | 28000.2956
+
+ | KB5129194
+
+ | Canal de disponibilidad general
+
+ | 2026-09 B
+
+ | 2026-09-08
+
+ | 28000.2954
+
+ | KB5124012
+
+ | Canal de disponibilidad general
+
+ | 2026-08 D
+
+ | 2026-08-27
+
+ | 28000.2804
+
+ | KB5120996
+
+ | Canal de disponibilidad general
+
+ | 2026-08 B
+
+ | 2026-08-11
+
+ | 28000.2704
+
+ | KB5121000
+
+ | Canal de disponibilidad general
+
+ | 2026-07 D
+
+ | 2026-07-28
+
+ | 28000.2608
+
+ | KB5101681
+
+ | Canal de disponibilidad general
+
+ | 2026-07 B
+
+ | 2026-07-14
+
+ | 28000.2525
+
+ | KB5101649
+
+ | Canal de disponibilidad general
+
+ | 2026-06 D
+
+ | 2026-06-23
+
+ | 28000.2340
+
+ | KB5095091
+
+ | Canal de disponibilidad general
+
+ | 2026-06 B
+
+ | 2026-06-09
+
+ | 28000.2269
+
+ | KB5095051
+
+ | Canal de disponibilidad general
+
+ | 2026-05 D
+
+ | 2026-05-26
+
+ | 28000.2179
+
+ | KB5089570
+
+ | Canal de disponibilidad general
+
+ | 2026-05 B
+
+ | 2026-05-12
+
+ | 28000.2113
+
+ | KB5089548
+
+ | Canal de disponibilidad general
+
+ | 2026-04 D
+
+ | 2026-04-30
+
+ | 28000.1896
+
+ | KB5083806
+
+ | Canal de disponibilidad general
+
+ | 2026-04 B
+
+ | 2026-04-14
+
+ | 28000.1836
+
+ | KB5083768
+
+ | Canal de disponibilidad general
+
+ | 2026-03 D
+
+ | 2026-03-26
+
+ | 28000.1764
+
+ | KB5079489
+
+ | Canal de disponibilidad general
+
+ | 2026-03 B
+
+ | 2026-03-10
+
+ | 28000.1719
+
+ | KB5079466
+
+ | Canal de disponibilidad general
+
+ | 2026-02 D
+
+ | 2026-02-24
+
+ | 28000.1643
+
+ | KB5077239
+
+ | Canal de disponibilidad general
+
+ | 2026-02 B
+
+ | 2026-02-10
+
+ | 28000.1575
+
+ | KB5077179
+
+ | Canal de disponibilidad general
+
+ | 
+
+ | 2026-02-10
+
+ | 28000.1
+
+ | 
+
+Versión 25H2 (OS build 26200)
+
+ | Opción de mantenimiento
+
+ | Tipo de actualización
+
+ | Fecha de disponibilidad
+
+ | Compilación
+
+ | Artículo de KB
+
+ | Canal de disponibilidad general
+
+ | 2026-09 D
+
+ | 2026-09-22
+
+ | 26200.9550
+
+ | KB5124010
+
+ | Canal de disponibilidad general
+
+ | 2026-09 OOB
+
+ | 2026-09-14
+
+ | 26200.9457
+
+ | KB5129195
+
+ | Canal de disponibilidad general
+
+ | 2026-09 B
+
+ | 2026-09-08
+
+ | 26200.9445
+
+ | KB5124008
+
+ | Canal de disponibilidad general
+
+ | 2026-08 D
+
+ | 2026-08-27
+
+ | 26200.9278
+
+ | KB5120998
+
+ | Canal de disponibilidad general
+
+ | 2026-08 B
+
+ | 2026-08-11
+
+ | 26200.9168
+
+ | KB5121003
+
+ | Canal de disponibilidad general
+
+ | 2026-07 D
+
+ | 2026-07-28
+
+ | 26200.8973
+
+ | KB5101684
+
+ | Canal de disponibilidad general
+
+ | 2026-07 OOB
+
+ | 2026-07-18
+
+ | 26200.8894
+
+ | KB5121767
+
+ | Canal de disponibilidad general
+
+ | 2026-07 B
+
+ | 2026-07-14
+
+ | 26200.8875
+
+ | KB5101650
+
+ | Canal de disponibilidad general
+
+ | 2026-06 D
+
+ | 2026-06-23
+
+ | 26200.8737
+
+ | KB5095093
+
+ | Canal de disponibilidad general
+
+ | 2026-06 B
+
+ | 2026-06-09
+
+ | 26200.8655
+
+ | KB5094126
+
+ | Canal de disponibilidad general
+
+ | 2026-05 D
+
+ | 2026-05-26
+
+ | 26200.8524
+
+ | KB5089573
+
+ | Canal de disponibilidad general
+
+ | 2026-05 B
+
+ | 2026-05-12
+
+ | 26200.8457
+
+ | KB5089549
+
+ | Canal de disponibilidad general
+
+ | 2026-04 D
+
+ | 2026-04-30
+
+ | 26200.8328
+
+ | KB5083631
+
+ | Canal de disponibilidad general
+
+ | 2026-04 B
+
+ | 2026-04-14
+
+ | 26200.8246
+
+ | KB5083769
+
+ | Canal de disponibilidad general
+
+ | 2026-03 OOB
+
+ | 2026-03-31
+
+ | 26200.8117
+
+ | KB5086672
+
+ | Canal de disponibilidad general
+
+ | 2026-03 D
+
+ | 2026-03-26
+
+ | 26200.8116
+
+ | KB5079391
+
+ | Canal de disponibilidad general
+
+ | 2026-03 OOB
+
+ | 2026-03-21
+
+ | 26200.8039
+
+ | KB5085516
+
+ | Canal de disponibilidad general
+
+ | 2026-03 B
+
+ | 2026-03-10
+
+ | 26200.8037
+
+ | KB5079473
+
+ | Canal de disponibilidad general
+
+ | 2026-02 D
+
+ | 2026-02-24
+
+ | 26200.7922
+
+ | KB5077241
+
+ | Canal de disponibilidad general
+
+ | 2026-02 B
+
+ | 2026-02-10
+
+ | 26200.7840
+
+ | KB5077181
+
+ | Canal de disponibilidad general
+
+ | 2026-01 D
+
+ | 2026-01-29
+
+ | 26200.7705
+
+ | KB5074105
+
+ | Canal de disponibilidad general
+
+ | 2026-01 OOB
+
+ | 2026-01-24
+
+ | 26200.7628
+
+ | KB5078127
+
+ | Canal de disponibilidad general
+
+ | 2026-01 OOB
+
+ | 2026-01-17
+
+ | 26200.7627
+
+ | KB5077744
+
+ | Canal de disponibilidad general
+
+ | 2026-01 B
+
+ | 2026-01-13
+
+ | 26200.7623
+
+ | KB5074109
+
+ | Canal de disponibilidad general
+
+ | 2025-12 B
+
+ | 2025-12-09
+
+ | 26200.7462
+
+ | KB5072033
+
+ | Canal de disponibilidad general
+
+ | 2025-11 D
+
+ | 2025-12-01
+
+ | 26200.7309
+
+ | KB5070311
+
+ | Canal de disponibilidad general
+
+ | 2025-11 B
+
+ | 2025-11-11
+
+ | 26200.7171
+
+ | KB5068861
+
+ | Canal de disponibilidad general
+
+ | 2025-10 D
+
+ | 2025-10-28
+
+ | 26200.7019
+
+ | KB5067036
+
+ | Canal de disponibilidad general
+
+ | 2025-10 OOB
+
+ | 2025-10-20
+
+ | 26200.6901
+
+ | KB5070773
+
+ | Canal de disponibilidad general
+
+ | 2025-10 B
+
+ | 2025-10-14
+
+ | 26200.6899
+
+ | KB5066835
+
+ | Canal de disponibilidad general
+
+ | 
+
+ | 2025-09-30
+
+ | 26200.6584
+
+ | 
+
+Versión 24H2 (OS build 26100)
+
+ | Opción de mantenimiento
+
+ | Tipo de actualización
+
+ | Fecha de disponibilidad
+
+ | Compilación
+
+ | Artículo de KB
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-09 D
+
+ | 2026-09-22
+
+ | 26100.9550
+
+ | KB5124010
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-09 OOB
+
+ | 2026-09-14
+
+ | 26100.9457
+
+ | KB5129195
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-09 B
+
+ | 2026-09-08
+
+ | 26100.9445
+
+ | KB5124008
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-08 D
+
+ | 2026-08-27
+
+ | 26100.9278
+
+ | KB5120998
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-08 B
+
+ | 2026-08-11
+
+ | 26100.9168
+
+ | KB5121003
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-07 D
+
+ | 2026-07-28
+
+ | 26100.8973
+
+ | KB5101684
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-07 OOB
+
+ | 2026-07-18
+
+ | 26100.8894
+
+ | KB5121767
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-07 B
+
+ | 2026-07-14
+
+ | 26100.8875
+
+ | KB5101650
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-06 D
+
+ | 2026-06-23
+
+ | 26100.8737
+
+ | KB5095093
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-06 B
+
+ | 2026-06-09
+
+ | 26100.8655
+
+ | KB5094126
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-05 D
+
+ | 2026-05-26
+
+ | 26100.8524
+
+ | KB5089573
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-05 B
+
+ | 2026-05-12
+
+ | 26100.8457
+
+ | KB5089549
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-04 D
+
+ | 2026-04-30
+
+ | 26100.8328
+
+ | KB5083631
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-04 B
+
+ | 2026-04-14
+
+ | 26100.8246
+
+ | KB5083769
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-03 OOB
+
+ | 2026-03-31
+
+ | 26100.8117
+
+ | KB5086672
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-03 D
+
+ | 2026-03-26
+
+ | 26100.8116
+
+ | KB5079391
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-03 OOB
+
+ | 2026-03-21
+
+ | 26100.8039
+
+ | KB5085516
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-03 B
+
+ | 2026-03-10
+
+ | 26100.8037
+
+ | KB5079473
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-02 D
+
+ | 2026-02-24
+
+ | 26100.7922
+
+ | KB5077241
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-02 B
+
+ | 2026-02-10
+
+ | 26100.7840
+
+ | KB5077181
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-01 D
+
+ | 2026-01-29
+
+ | 26100.7705
+
+ | KB5074105
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-01 OOB
+
+ | 2026-01-24
+
+ | 26100.7628
+
+ | KB5078127
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-01 OOB
+
+ | 2026-01-17
+
+ | 26100.7627
+
+ | KB5077744
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2026-01 B
+
+ | 2026-01-13
+
+ | 26100.7623
+
+ | KB5074109
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-12 B
+
+ | 2025-12-09
+
+ | 26100.7462
+
+ | KB5072033
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-11 D
+
+ | 2025-12-01
+
+ | 26100.7309
+
+ | KB5070311
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-11 OOB
+
+ | 2025-11-18
+
+ | 26100.7178
+
+ | KB5072359
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-11 B
+
+ | 2025-11-11
+
+ | 26100.7171
+
+ | KB5068861
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-10 D
+
+ | 2025-10-28
+
+ | 26100.7019
+
+ | KB5067036
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-10 OOB
+
+ | 2025-10-23
+
+ | 26100.6905
+
+ | KB5070881
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-10 OOB
+
+ | 2025-10-20
+
+ | 26100.6901
+
+ | KB5070773
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-10 B
+
+ | 2025-10-14
+
+ | 26100.6899
+
+ | KB5066835
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-09 D
+
+ | 2025-09-29
+
+ | 26100.6725
+
+ | KB5065789
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-09 OOB
+
+ | 2025-09-22
+
+ | 26100.6588
+
+ | KB5068221
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-09 B
+
+ | 2025-09-09
+
+ | 26100.6584
+
+ | KB5065426
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-08 D
+
+ | 2025-08-29
+
+ | 26100.5074
+
+ | KB5064081
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-08 B
+
+ | 2025-08-12
+
+ | 26100.4946
+
+ | KB5063878
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-07 D
+
+ | 2025-07-22
+
+ | 26100.4770
+
+ | KB5062660
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-07 OOB
+
+ | 2025-07-13
+
+ | 26100.4656
+
+ | KB5064489
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-07 B
+
+ | 2025-07-08
+
+ | 26100.4652
+
+ | KB5062553
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-06 D
+
+ | 2025-06-26
+
+ | 26100.4484
+
+ | KB5060829
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-06 OOB
+
+ | 2025-06-11
+
+ | 26100.4351
+
+ | KB5063060
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-06 B
+
+ | 2025-06-10
+
+ | 26100.4349
+
+ | KB5060842
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-05 D
+
+ | 2025-05-28
+
+ | 26100.4202
+
+ | KB5058499
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-05 OOB
+
+ | 2025-05-27
+
+ | 26100.4066
+
+ | KB5061977
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-05 B
+
+ | 2025-05-13
+
+ | 26100.4061
+
+ | KB5058411
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-04 D
+
+ | 2025-04-25
+
+ | 26100.3915
+
+ | KB5055627
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-04 B
+
+ | 2025-04-08
+
+ | 26100.3775
+
+ | KB5055523
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-03 D
+
+ | 2025-03-27
+
+ | 26100.3624
+
+ | KB5053656
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-03 B
+
+ | 2025-03-11
+
+ | 26100.3476
+
+ | KB5053598
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-02 D
+
+ | 2025-02-25
+
+ | 26100.3323
+
+ | KB5052093
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-02 B
+
+ | 2025-02-11
+
+ | 26100.3194
+
+ | KB5051987
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-01 D
+
+ | 2025-01-28
+
+ | 26100.3037
+
+ | KB5050094
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2025-01 B
+
+ | 2025-01-14
+
+ | 26100.2894
+
+ | KB5050009
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2024-12 B
+
+ | 2024-12-10
+
+ | 26100.2605
+
+ | KB5048667
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2024-11 D
+
+ | 2024-11-21
+
+ | 26100.2454
+
+ | KB5046740
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2024-11 B
+
+ | 2024-11-12
+
+ | 26100.2314
+
+ | KB5046617
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2024-10 D
+
+ | 2024-10-24
+
+ | 26100.2161
+
+ | KB5044384
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2024-10 B
+
+ | 2024-10-08
+
+ | 26100.2033
+
+ | KB5044284
+
+ | LTSC • Canal de disponibilidad general
+
+ | 2024-10 A
+
+ | 2024-10-01
+
+ | 26100.1742
+
+ | 
+
+Versión 23H2 (OS build 22631)
+
+¿Quieres actualizar rápidamente dispositivos Windows 11, versión 22H2 válidos a Windows 11, versión 23H2? Use un paquete de habilitación.
+
+ | Opción de mantenimiento
+
+ | Tipo de actualización
+
+ | Fecha de disponibilidad
+
+ | Compilación
+
+ | Artículo de KB
+
+ | Canal de disponibilidad general
+
+ | 2026-09 OOB
+
+ | 2026-09-14
+
+ | 22631.7584
+
+ | KB5129242
+
+ | Canal de disponibilidad general
+
+ | 2026-09 B
+
+ | 2026-09-08
+
+ | 22631.7582
+
+ | KB5122880
+
+ | Canal de disponibilidad general
+
+ | 2026-08 B
+
+ | 2026-08-11
+
+ | 22631.7517
+
+ | KB5120240
+
+ | Canal de disponibilidad general
+
+ | 2026-07 B
+
+ | 2026-07-14
+
+ | 22631.7376
+
+ | KB5099414
+
+ | Canal de disponibilidad general
+
+ | 2026-06 B
+
+ | 2026-06-09
+
+ | 22631.7219
+
+ | KB5093998
+
+ | Canal de disponibilidad general
+
+ | 2026-05 B
+
+ | 2026-05-12
+
+ | 22631.7079
+
+ | KB5087420
+
+ | Canal de disponibilidad general
+
+ | 2026-04 B
+
+ | 2026-04-14
+
+ | 22631.6936
+
+ | KB5082052
+
+ | Canal de disponibilidad general
+
+ | 2026-03 B
+
+ | 2026-03-10
+
+ | 22631.6783
+
+ | KB5078883
+
+ | Canal de disponibilidad general
+
+ | 2026-02 B
+
+ | 2026-02-10
+
+ | 22631.6649
+
+ | KB5075941
+
+ | Canal de disponibilidad general
+
+ | 2026-01 OOB
+
+ | 2026-01-24
+
+ | 22631.6495
+
+ | KB5078132
+
+ | Canal de disponibilidad general
+
+ | 2026-01 OOB
+
+ | 2026-01-17
+
+ | 22631.6494
+
+ | KB5077797
+
+ | Canal de disponibilidad general
+
+ | 2026-01 B
+
+ | 2026-01-13
+
+ | 22631.6491
+
+ | KB5073455
+
+ | Canal de disponibilidad general
+
+ | 2025-12 B
+
+ | 2025-12-09
+
+ | 22631.6345
+
+ | KB5071417
+
+ | Canal de disponibilidad general
+
+ | 2025-11 D
+
+ | 2025-11-20
+
+ | 22631.6276
+
+ | KB5070312
+
+ | Canal de disponibilidad general
+
+ | 2025-11 B
+
+ | 2025-11-11
+
+ | 22631.6199
+
+ | KB5068865
+
+ | Canal de disponibilidad general
+
+ | 2025-10 D
+
+ | 2025-10-28
+
+ | 22631.6133
+
+ | KB5067112
+
+ | Canal de disponibilidad general
+
+ | 2025-10 B
+
+ | 2025-10-14
+
+ | 22631.6060
+
+ | KB5066793
+
+ | Canal de disponibilidad general
+
+ | 2025-09 D
+
+ | 2025-09-23
+
+ | 22631.5984
+
+ | KB5065790
+
+ | Canal de disponibilidad general
+
+ | 2025-09 B
+
+ | 2025-09-09
+
+ | 22631.5909
+
+ | KB5065431
+
+ | Canal de disponibilidad general
+
+ | 2025-08 D
+
+ | 2025-08-26
+
+ | 22631.5840
+
+ | KB5064080
+
+ | Canal de disponibilidad general
+
+ | 2025-08 OOB
+
+ | 2025-08-19
+
+ | 22631.5771
+
+ | KB5066189
+
+ | Canal de disponibilidad general
+
+ | 2025-08 B
+
+ | 2025-08-12
+
+ | 22631.5768
+
+ | KB5063875
+
+ | Canal de disponibilidad general
+
+ | 2025-07 D
+
+ | 2025-07-22
+
+ | 22631.5699
+
+ | KB5062663
+
+ | Canal de disponibilidad general
+
+ | 2025-07 B
+
+ | 2025-07-08
+
+ | 22631.5624
+
+ | KB5062552
+
+ | Canal de disponibilidad general
+
+ | 2025-06 D
+
+ | 2025-06-26
+
+ | 22631.5549
+
+ | KB5060826
+
+ | Canal de disponibilidad general
+
+ | 2025-06 B
+
+ | 2025-06-10
+
+ | 22631.5472
+
+ | KB5060999
+
+ | Canal de disponibilidad general
+
+ | 2025-05 OOB
+
+ | 2025-05-31
+
+ | 22631.5415
+
+ | KB5062170
+
+ | Canal de disponibilidad general
+
+ | 2025-05 D
+
+ | 2025-05-27
+
+ | 22631.5413
+
+ | KB5058502
+
+ | Canal de disponibilidad general
+
+ | 2025-05 B
+
+ | 2025-05-13
+
+ | 22631.5335
+
+ | KB5058405
+
+ | Canal de disponibilidad general
+
+ | 2025-04 D
+
+ | 2025-04-22
+
+ | 22631.5262
+
+ | KB5055629
+
+ | Canal de disponibilidad general
+
+ | 2025-04 OOB
+
+ | 2025-04-11
+
+ | 22631.5192
+
+ | KB5058919
+
+ | Canal de disponibilidad general
+
+ | 2025-04 B
+
+ | 2025-04-08
+
+ | 22631.5189
+
+ | KB5055528
+
+ | Canal de disponibilidad general
+
+ | 2025-03 D
+
+ | 2025-03-25
+
+ | 22631.5126
+
+ | KB5053657
+
+ | Canal de disponibilidad general
+
+ | 2025-03 B
+
+ | 2025-03-11
+
+ | 22631.5039
+
+ | KB5053602
+
+ | Canal de disponibilidad general
+
+ | 2025-02 D
+
+ | 2025-02-25
+
+ | 22631.4974
+
+ | KB5052094
+
+ | Canal de disponibilidad general
+
+ | 2025-02 B
+
+ | 2025-02-11
+
+ | 22631.4890
+
+ | KB5051989
+
+ | Canal de disponibilidad general
+
+ | 2025-01 D
+
+ | 2025-01-29
+
+ | 22631.4830
+
+ | KB5050092
+
+ | Canal de disponibilidad general
+
+ | 2025-01 B
+
+ | 2025-01-14
+
+ | 22631.4751
+
+ | KB5050021
+
+ | Canal de disponibilidad general
+
+ | 2024-12 B
+
+ | 2024-12-10
+
+ | 22631.4602
+
+ | KB5048685
+
+ | Canal de disponibilidad general
+
+ | 2024-11 D
+
+ | 2024-11-21
+
+ | 22631.4541
+
+ | KB5046732
+
+ | Canal de disponibilidad general
+
+ | 2024-11 B
+
+ | 2024-11-12
+
+ | 22631.4460
+
+ | KB5046633
+
+ | Canal de disponibilidad general
+
+ | 2024-10 D
+
+ | 2024-10-22
+
+ | 22631.4391
+
+ | KB5044380
+
+ | Canal de disponibilidad general
+
+ | 2024-10 B
+
+ | 2024-10-08
+
+ | 22631.4317
+
+ | KB5044285
+
+ | Canal de disponibilidad general
+
+ | 2024-09 D
+
+ | 2024-09-26
+
+ | 22631.4249
+
+ | KB5043145
+
+ | Canal de disponibilidad general
+
+ | 2024-09 B
+
+ | 2024-09-10
+
+ | 22631.4169
+
+ | KB5043076
+
+ | Canal de disponibilidad general
+
+ | 2024-08 D
+
+ | 2024-08-27
+
+ | 22631.4112
+
+ | KB5041587
+
+ | Canal de disponibilidad general
+
+ | 2024-08 B
+
+ | 2024-08-13
+
+ | 22631.4037
+
+ | KB5041585
+
+ | Canal de disponibilidad general
+
+ | 2024-07 D
+
+ | 2024-07-25
+
+ | 22631.3958
+
+ | KB5040527
+
+ | Canal de disponibilidad general
+
+ | 2024-07 B
+
+ | 2024-07-09
+
+ | 22631.3880
+
+ | KB5040442
+
+ | Canal de disponibilidad general
+
+ | 2024-06 D
+
+ | 2024-06-25
+
+ | 22631.3810
+
+ | KB5039302
+
+ | Canal de disponibilidad general
+
+ | 2024-06 B
+
+ | 2024-06-11
+
+ | 22631.3737
+
+ | KB5039212
+
+ | Canal de disponibilidad general
+
+ | 2024-05 D
+
+ | 2024-05-29
+
+ | 22631.3672
+
+ | KB5037853
+
+ | Canal de disponibilidad general
+
+ | 2024-05 B
+
+ | 2024-05-14
+
+ | 22631.3593
+
+ | KB5037771
+
+ | Canal de disponibilidad general
+
+ | 2024-04 D
+
+ | 2024-04-23
+
+ | 22631.3527
+
+ | KB5036980
+
+ | Canal de disponibilidad general
+
+ | 2024-04 B
+
+ | 2024-04-09
+
+ | 22631.3447
+
+ | KB5036893
+
+ | Canal de disponibilidad general
+
+ | 2024-03 D
+
+ | 2024-03-26
+
+ | 22631.3374
+
+ | KB5035942
+
+ | Canal de disponibilidad general
+
+ | 2024-03 B
+
+ | 2024-03-12
+
+ | 22631.3296
+
+ | KB5035853
+
+ | Canal de disponibilidad general
+
+ | 2024-02 D
+
+ | 2024-02-29
+
+ | 22631.3235
+
+ | KB5034848
+
+ | Canal de disponibilidad general
+
+ | 2024-02 B
+
+ | 2024-02-13
+
+ | 22631.3155
+
+ | KB5034765
+
+ | Canal de disponibilidad general
+
+ | 2024-01 D
+
+ | 2024-01-23
+
+ | 22631.3085
+
+ | KB5034204
+
+ | Canal de disponibilidad general
+
+ | 2024-01 B
+
+ | 2024-01-09
+
+ | 22631.3007
+
+ | KB5034123
+
+ | Canal de disponibilidad general
+
+ | 2023-12 B
+
+ | 2023-12-12
+
+ | 22631.2861
+
+ | KB5033375
+
+ | Canal de disponibilidad general
+
+ | 2023-11 D
+
+ | 2023-12-04
+
+ | 22631.2792
+
+ | KB5032288
+
+ | Canal de disponibilidad general
+
+ | 2023-11 B
+
+ | 2023-11-14
+
+ | 22631.2715
+
+ | KB5032190
+
+ | Canal de disponibilidad general
+
+ | 2023-10 D
+
+ | 2023-10-31
+
+ | 22631.2506
+
+ | KB5031455
+
+ | Canal de disponibilidad general
+
+ | 2023-10 D
+
+ | 2023-10-31
+
+ | 22631.2428
+
+ | 
+
+Versión 22H2 (OS build 22621)
+ - Fin de actualización
+
+ | Opción de mantenimiento
+
+ | Tipo de actualización
+
+ | Fecha de disponibilidad
+
+ | Compilación
+
+ | Artículo de KB
+
+ | Canal de disponibilidad general
+
+ | 2025-10 B
+
+ | 2025-10-14
+
+ | 22621.6060
+
+ | KB5066793
+
+ | Canal de disponibilidad general
+
+ | 2025-09 B
+
+ | 2025-09-09
+
+ | 22621.5909
+
+ | KB5065431
+
+ | Canal de disponibilidad general
+
+ | 2025-08 OOB
+
+ | 2025-08-19
+
+ | 22621.5771
+
+ | KB5066189
+
+ | Canal de disponibilidad general
+
+ | 2025-08 B
+
+ | 2025-08-12
+
+ | 22621.5768
+
+ | KB5063875
+
+ | Canal de disponibilidad general
+
+ | 2025-07 B
+
+ | 2025-07-08
+
+ | 22621.5624
+
+ | KB5062552
+
+ | Canal de disponibilidad general
+
+ | 2025-06 D
+
+ | 2025-06-26
+
+ | 22621.5549
+
+ | KB5060826
+
+ | Canal de disponibilidad general
+
+ | 2025-06 B
+
+ | 2025-06-10
+
+ | 22621.5472
+
+ | KB5060999
+
+ | Canal de disponibilidad general
+
+ | 2025-05 OOB
+
+ | 2025-05-31
+
+ | 22621.5415
+
+ | KB5062170
+
+ | Canal de disponibilidad general
+
+ | 2025-05 D
+
+ | 2025-05-27
+
+ | 22621.5413
+
+ | KB5058502
+
+ | Canal de disponibilidad general
+
+ | 2025-05 B
+
+ | 2025-05-13
+
+ | 22621.5335
+
+ | KB5058405
+
+ | Canal de disponibilidad general
+
+ | 2025-04 D
+
+ | 2025-04-22
+
+ | 22621.5262
+
+ | KB5055629
+
+ | Canal de disponibilidad general
+
+ | 2025-04 OOB
+
+ | 2025-04-11
+
+ | 22621.5192
+
+ | KB5058919
+
+ | Canal de disponibilidad general
+
+ | 2025-04 B
+
+ | 2025-04-08
+
+ | 22621.5189
+
+ | KB5055528
+
+ | Canal de disponibilidad general
+
+ | 2025-03 D
+
+ | 2025-03-25
+
+ | 22621.5126
+
+ | KB5053657
+
+ | Canal de disponibilidad general
+
+ | 2025-03 B
+
+ | 2025-03-11
+
+ | 22621.5039
+
+ | KB5053602
+
+ | Canal de disponibilidad general
+
+ | 2025-02 D
+
+ | 2025-02-25
+
+ | 22621.4974
+
+ | KB5052094
+
+ | Canal de disponibilidad general
+
+ | 2025-02 B
+
+ | 2025-02-11
+
+ | 22621.4890
+
+ | KB5051989
+
+ | Canal de disponibilidad general
+
+ | 2025-01 D
+
+ | 2025-01-29
+
+ | 22621.4830
+
+ | KB5050092
+
+ | Canal de disponibilidad general
+
+ | 2025-01 B
+
+ | 2025-01-14
+
+ | 22621.4751
+
+ | KB5050021
+
+ | Canal de disponibilidad general
+
+ | 2024-12 B
+
+ | 2024-12-10
+
+ | 22621.4602
+
+ | KB5048685
+
+ | Canal de disponibilidad general
+
+ | 2024-11 D
+
+ | 2024-11-21
+
+ | 22621.4541
+
+ | KB5046732
+
+ | Canal de disponibilidad general
+
+ | 2024-11 B
+
+ | 2024-11-12
+
+ | 22621.4460
+
+ | KB5046633
+
+ | Canal de disponibilidad general
+
+ | 2024-10 D
+
+ | 2024-10-22
+
+ | 22621.4391
+
+ | KB5044380
+
+ | Canal de disponibilidad general
+
+ | 2024-10 B
+
+ | 2024-10-08
+
+ | 22621.4317
+
+ | KB5044285
+
+ | Canal de disponibilidad general
+
+ | 2024-09 D
+
+ | 2024-09-26
+
+ | 22621.4249
+
+ | KB5043145
+
+ | Canal de disponibilidad general
+
+ | 2024-09 B
+
+ | 2024-09-10
+
+ | 22621.4169
+
+ | KB5043076
+
+ | Canal de disponibilidad general
+
+ | 2024-08 D
+
+ | 2024-08-27
+
+ | 22621.4112
+
+ | KB5041587
+
+ | Canal de disponibilidad general
+
+ | 2024-08 B
+
+ | 2024-08-13
+
+ | 22621.4037
+
+ | KB5041585
+
+ | Canal de disponibilidad general
+
+ | 2024-07 D
+
+ | 2024-07-25
+
+ | 22621.3958
+
+ | KB5040527
+
+ | Canal de disponibilidad general
+
+ | 2024-07 B
+
+ | 2024-07-09
+
+ | 22621.3880
+
+ | KB5040442
+
+ | Canal de disponibilidad general
+
+ | 2024-06 D
+
+ | 2024-06-25
+
+ | 22621.3810
+
+ | KB5039302
+
+ | Canal de disponibilidad general
+
+ | 2024-06 B
+
+ | 2024-06-11
+
+ | 22621.3737
+
+ | KB5039212
+
+ | Canal de disponibilidad general
+
+ | 2024-05 D
+
+ | 2024-05-29
+
+ | 22621.3672
+
+ | KB5037853
+
+ | Canal de disponibilidad general
+
+ | 2024-05 B
+
+ | 2024-05-14
+
+ | 22621.3593
+
+ | KB5037771
+
+ | Canal de disponibilidad general
+
+ | 2024-04 D
+
+ | 2024-04-23
+
+ | 22621.3527
+
+ | KB5036980
+
+ | Canal de disponibilidad general
+
+ | 2024-04 B
+
+ | 2024-04-09
+
+ | 22621.3447
+
+ | KB5036893
+
+ | Canal de disponibilidad general
+
+ | 2024-03 D
+
+ | 2024-03-26
+
+ | 22621.3374
+
+ | KB5035942
+
+ | Canal de disponibilidad general
+
+ | 2024-03 B
+
+ | 2024-03-12
+
+ | 22621.3296
+
+ | KB5035853
+
+ | Canal de disponibilidad general
+
+ | 2024-02 D
+
+ | 2024-02-29
+
+ | 22621.3235
+
+ | KB5034848
+
+ | Canal de disponibilidad general
+
+ | 2024-02 B
+
+ | 2024-02-13
+
+ | 22621.3155
+
+ | KB5034765
+
+ | Canal de disponibilidad general
+
+ | 2024-01 D
+
+ | 2024-01-23
+
+ | 22621.3085
+
+ | KB5034204
+
+ | Canal de disponibilidad general
+
+ | 2024-01 B
+
+ | 2024-01-09
+
+ | 22621.3007
+
+ | KB5034123
+
+ | Canal de disponibilidad general
+
+ | 2023-12 B
+
+ | 2023-12-12
+
+ | 22621.2861
+
+ | KB5033375
+
+ | Canal de disponibilidad general
+
+ | 2023-11 D
+
+ | 2023-12-04
+
+ | 22621.2792
+
+ | KB5032288
+
+ | Canal de disponibilidad general
+
+ | 2023-11 B
+
+ | 2023-11-14
+
+ | 22621.2715
+
+ | KB5032190
+
+ | Canal de disponibilidad general
+
+ | 2023-10 D
+
+ | 2023-10-26
+
+ | 22621.2506
+
+ | KB5031455
+
+ | Canal de disponibilidad general
+
+ | 2023-10 B
+
+ | 2023-10-10
+
+ | 22621.2428
+
+ | KB5031354
+
+ | Canal de disponibilidad general
+
+ | 2023-09 D
+
+ | 2023-09-26
+
+ | 22621.2361
+
+ | KB5030310
+
+ | Canal de disponibilidad general
+
+ | 2023-09 B
+
+ | 2023-09-12
+
+ | 22621.2283
+
+ | KB5030219
+
+ | Canal de disponibilidad general
+
+ | 2023-08 D
+
+ | 2023-08-22
+
+ | 22621.2215
+
+ | KB5029351
+
+ | Canal de disponibilidad general
+
+ | 2023-08 B
+
+ | 2023-08-08
+
+ | 22621.2134
+
+ | KB5029263
+
+ | Canal de disponibilidad general
+
+ | 2023-07 D
+
+ | 2023-07-26
+
+ | 22621.2070
+
+ | KB5028254
+
+ | Canal de disponibilidad general
+
+ | 2023-07 B
+
+ | 2023-07-11
+
+ | 22621.1992
+
+ | KB5028185
+
+ | Canal de disponibilidad general
+
+ | 2023-06 D
+
+ | 2023-06-27
+
+ | 22621.1928
+
+ | KB5027303
+
+ | Canal de disponibilidad general
+
+ | 2023-06 B
+
+ | 2023-06-13
+
+ | 22621.1848
+
+ | KB5027231
+
+ | Canal de disponibilidad general
+
+ | 2023-05 D
+
+ | 2023-05-24
+
+ | 22621.1778
+
+ | KB5026446
+
+ | Canal de disponibilidad general
+
+ | 2023-05 B
+
+ | 2023-05-09
+
+ | 22621.1702
+
+ | KB5026372
+
+ | Canal de disponibilidad general
+
+ | 2023-04 D
+
+ | 2023-04-25
+
+ | 22621.1635
+
+ | KB5025305
+
+ | Canal de disponibilidad general
+
+ | 2023-04 B
+
+ | 2023-04-11
+
+ | 22621.1555
+
+ | KB5025239
+
+ | Canal de disponibilidad general
+
+ | 2023-03 D
+
+ | 2023-03-28
+
+ | 22621.1485
+
+ | KB5023778
+
+ | Canal de disponibilidad general
+
+ | 2023-03 B
+
+ | 2023-03-14
+
+ | 22621.1413
+
+ | KB5023706
+
+ | Canal de disponibilidad general
+
+ | 2023-02 D
+
+ | 2023-02-28
+
+ | 22621.1344
+
+ | KB5022913
+
+ | Canal de disponibilidad general
+
+ | 2023-02 B
+
+ | 2023-02-14
+
+ | 22621.1265
+
+ | KB5022845
+
+ | Canal de disponibilidad general
+
+ | 2023-01 D
+
+ | 2023-01-26
+
+ | 22621.1194
+
+ | KB5022360
+
+ | Canal de disponibilidad general
+
+ | 2023-01 B
+
+ | 2023-01-10
+
+ | 22621.1105
+
+ | KB5022303
+
+ | Canal de disponibilidad general
+
+ | 2022-12 B
+
+ | 2022-12-13
+
+ | 22621.963
+
+ | KB5021255
+
+ | Canal de disponibilidad general
+
+ | 2022-11 D
+
+ | 2022-11-29
+
+ | 22621.900
+
+ | KB5020044
+
+ | Canal de disponibilidad general
+
+ | 2022-11 B
+
+ | 2022-11-08
+
+ | 22621.819
+
+ | KB5019980
+
+ | Canal de disponibilidad general
+
+ | 2022-10 D
+
+ | 2022-10-25
+
+ | 22621.755
+
+ | KB5018496
+
+ | Canal de disponibilidad general
+
+ | 2022-10 OOB
+
+ | 2022-10-18
+
+ | 22621.675
+
+ | KB5019509
+
+ | Canal de disponibilidad general
+
+ | 2022-10 B
+
+ | 2022-10-11
+
+ | 22621.674
+
+ | KB5018427
+
+ | Canal de disponibilidad general
+
+ | 2022-09 D
+
+ | 2022-09-30
+
+ | 22621.608
+
+ | KB5017389
+
+ | Canal de disponibilidad general
+
+ | 2022-09 OOB
+
+ | 2022-09-27
+
+ | 22621.525
+
+ | KB5019311
+
+ | Canal de disponibilidad general
+
+ | 2022-09 C
+
+ | 2022-09-20
+
+ | 22621.521
+
+ | 
+
+Versión 21H2 (OS build 22000)
+ - Fin de actualización
+
+Windows 11 se ofrecerá como una actualización gratuita a dispositivos Windows 10 aptos mediante un enfoque por fases y medido con un enfoque centrado en la calidad. Las organizaciones pueden elegir cuándo y cómo actualizar los dispositivos que administran. Para obtener más información, consulta Cómo obtener Windows 11.
+
+ | Opción de mantenimiento
+
+ | Tipo de actualización
+
+ | Fecha de disponibilidad
+
+ | Compilación
+
+ | Artículo de KB
+
+ | Canal de disponibilidad general
+
+ | 2024-10 B
+
+ | 2024-10-08
+
+ | 22000.3260
+
+ | KB5044280
+
+ | Canal de disponibilidad general
+
+ | 2024-09 B
+
+ | 2024-09-10
+
+ | 22000.3197
+
+ | KB5043067
+
+ | Canal de disponibilidad general
+
+ | 2024-08 B
+
+ | 2024-08-13
+
+ | 22000.3147
+
+ | KB5041592
+
+ | Canal de disponibilidad general
+
+ | 2024-07 B
+
+ | 2024-07-09
+
+ | 22000.3079
+
+ | KB5040431
+
+ | Canal de disponibilidad general
+
+ | 2024-06 B
+
+ | 2024-06-11
+
+ | 22000.3019
+
+ | KB5039213
+
+ | Canal de disponibilidad general
+
+ | 2024-05 B
+
+ | 2024-05-14
+
+ | 22000.2960
+
+ | KB5037770
+
+ | Canal de disponibilidad general
+
+ | 2024-04 B
+
+ | 2024-04-09
+
+ | 22000.2899
+
+ | KB5036894
+
+ | Canal de disponibilidad general
+
+ | 2024-03 B
+
+ | 2024-03-12
+
+ | 22000.2836
+
+ | KB5035854
+
+ | Canal de disponibilidad general
+
+ | 2024-02 B
+
+ | 2024-02-13
+
+ | 22000.2777
+
+ | KB5034766
+
+ | Canal de disponibilidad general
+
+ | 2024-01 B
+
+ | 2024-01-09
+
+ | 22000.2713
+
+ | KB5034121
+
+ | Canal de disponibilidad general
+
+ | 2023-12 B
+
+ | 2023-12-12
+
+ | 22000.2652
+
+ | KB5033369
+
+ | Canal de disponibilidad general
+
+ | 2023-11 B
+
+ | 2023-11-14
+
+ | 22000.2600
+
+ | KB5032192
+
+ | Canal de disponibilidad general
+
+ | 2023-10 B
+
+ | 2023-10-10
+
+ | 22000.2538
+
+ | KB5031358
+
+ | Canal de disponibilidad general
+
+ | 2023-09 D
+
+ | 2023-09-26
+
+ | 22000.2482
+
+ | KB5030301
+
+ | Canal de disponibilidad general
+
+ | 2023-09 B
+
+ | 2023-09-12
+
+ | 22000.2416
+
+ | KB5030217
+
+ | Canal de disponibilidad general
+
+ | 2023-08 D
+
+ | 2023-08-22
+
+ | 22000.2360
+
+ | KB5029332
+
+ | Canal de disponibilidad general
+
+ | 2023-08 B
+
+ | 2023-08-08
+
+ | 22000.2295
+
+ | KB5029253
+
+ | Canal de disponibilidad general
+
+ | 2023-07 D
+
+ | 2023-07-25
+
+ | 22000.2245
+
+ | KB5028245
+
+ | Canal de disponibilidad general
+
+ | 2023-07 B
+
+ | 2023-07-11
+
+ | 22000.2176
+
+ | KB5028182
+
+ | Canal de disponibilidad general
+
+ | 2023-06 D
+
+ | 2023-06-28
+
+ | 22000.2124
+
+ | KB5027292
+
+ | Canal de disponibilidad general
+
+ | 2023-06 B
+
+ | 2023-06-13
+
+ | 22000.2057
+
+ | KB5027223
+
+ | Canal de disponibilidad general
+
+ | 2023-05 D
+
+ | 2023-05-23
+
+ | 22000.2003
+
+ | KB5026436
+
+ | Canal de disponibilidad general
+
+ | 2023-05 B
+
+ | 2023-05-09
+
+ | 22000.1936
+
+ | KB5026368
+
+ | Canal de disponibilidad general
+
+ | 2023-04 D
+
+ | 2023-04-25
+
+ | 22000.1880
+
+ | KB5025298
+
+ | Canal de disponibilidad general
+
+ | 2023-04 B
+
+ | 2023-04-11
+
+ | 22000.1817
+
+ | KB5025224
+
+ | Canal de disponibilidad general
+
+ | 2023-03 C
+
+ | 2023-03-28
+
+ | 22000.1761
+
+ | KB5023774
+
+ | Canal de disponibilidad general
+
+ | 2023-03 B
+
+ | 2023-03-14
+
+ | 22000.1696
+
+ | KB5023698
+
+ | Canal de disponibilidad general
+
+ | 2023-02 C
+
+ | 2023-02-21
+
+ | 22000.1641
+
+ | KB5022905
+
+ | Canal de disponibilidad general
+
+ | 2023-02 B
+
+ | 2023-02-14
+
+ | 22000.1574
+
+ | KB5022836
+
+ | Canal de disponibilidad general
+
+ | 2023-01 C
+
+ | 2023-01-19
+
+ | 22000.1516
+
+ | KB5019274
+
+ | Canal de disponibilidad general
+
+ | 2023-01 B
+
+ | 2023-01-10
+
+ | 22000.1455
+
+ | KB5022287
+
+ | Canal de disponibilidad general
+
+ | 2022-12 B
+
+ | 2022-12-13
+
+ | 22000.1335
+
+ | KB5021234
+
+ | Canal de disponibilidad general
+
+ | 2022-11 C
+
+ | 2022-11-15
+
+ | 22000.1281
+
+ | KB5019157
+
+ | Canal de disponibilidad general
+
+ | 2022-11 B
+
+ | 2022-11-08
+
+ | 22000.1219
+
+ | KB5019961
+
+ | Canal de disponibilidad general
+
+ | 2022-10 C
+
+ | 2022-10-25
+
+ | 22000.1165
+
+ | KB5018483
+
+ | Canal de disponibilidad general
+
+ | 2022-10 OOB
+
+ | 2022-10-17
+
+ | 22000.1100
+
+ | KB5020387
+
+ | Canal de disponibilidad general
+
+ | 2022-10 B
+
+ | 2022-10-11
+
+ | 22000.1098
+
+ | KB5018418
+
+ | Canal de disponibilidad general
+
+ | 2022-09 C
+
+ | 2022-09-20
+
+ | 22000.1042
+
+ | KB5017383
+
+ | Canal de disponibilidad general
+
+ | 2022-09 B
+
+ | 2022-09-13
+
+ | 22000.978
+
+ | KB5017328
+
+ | Canal de disponibilidad general
+
+ | 2022-08 C
+
+ | 2022-08-25
+
+ | 22000.918
+
+ | KB5016691
+
+ | Canal de disponibilidad general
+
+ | 2022-08 B
+
+ | 2022-08-09
+
+ | 22000.856
+
+ | KB5016629
+
+ | Canal de disponibilidad general
+
+ | 2022-07 C
+
+ | 2022-07-21
+
+ | 22000.832
+
+ | KB5015882
+
+ | Canal de disponibilidad general
+
+ | 2022-07 B
+
+ | 2022-07-12
+
+ | 22000.795
+
+ | KB5015814
+
+ | Canal de disponibilidad general
+
+ | 2022-06 C
+
+ | 2022-06-23
+
+ | 22000.778
+
+ | KB5014668
+
+ | Canal de disponibilidad general
+
+ | 2022-06 OOB
+
+ | 2022-06-20
+
+ | 22000.740
+
+ | KB5016138
+
+ | Canal de disponibilidad general
+
+ | 2022-06 B
+
+ | 2022-06-14
+
+ | 22000.739
+
+ | KB5014697
+
+ | Canal de disponibilidad general
+
+ | 2022-05 C
+
+ | 2022-05-24
+
+ | 22000.708
+
+ | KB5014019
+
+ | Canal de disponibilidad general
+
+ | 2022-05 B
+
+ | 2022-05-10
+
+ | 22000.675
+
+ | KB5013943
+
+ | Canal de disponibilidad general
+
+ | 2022-04 C
+
+ | 2022-04-25
+
+ | 22000.652
+
+ | KB5012643
+
+ | Canal de disponibilidad general
+
+ | 2022-04 B
+
+ | 2022-04-12
+
+ | 22000.613
+
+ | KB5012592
+
+ | Canal de disponibilidad general
+
+ | 2022-03 C
+
+ | 2022-03-28
+
+ | 22000.593
+
+ | KB5011563
+
+ | Canal de disponibilidad general
+
+ | 2022-03 B
+
+ | 2022-03-08
+
+ | 22000.556
+
+ | KB5011493
+
+ | Canal de disponibilidad general
+
+ | 2022-02 C
+
+ | 2022-02-15
+
+ | 22000.527
+
+ | KB5010414
+
+ | Canal de disponibilidad general
+
+ | 2022-02 B
+
+ | 2022-02-08
+
+ | 22000.493
+
+ | KB5010386
+
+ | Canal de disponibilidad general
+
+ | 2022-01 C
+
+ | 2022-01-25
+
+ | 22000.469
+
+ | KB5008353
+
+ | Canal de disponibilidad general
+
+ | 2022-01 OOB
+
+ | 2022-01-17
+
+ | 22000.438
+
+ | KB5010795
+
+ | Canal de disponibilidad general
+
+ | 2022-01 B
+
+ | 2022-01-11
+
+ | 22000.434
+
+ | KB5009566
+
+ | Canal de disponibilidad general
+
+ | 2021-12 B
+
+ | 2021-12-14
+
+ | 22000.376
+
+ | KB5008215
+
+ | Canal de disponibilidad general
+
+ | 2021-11 C
+
+ | 2021-11-22
+
+ | 22000.348
+
+ | KB5007262
+
+ | Canal de disponibilidad general
+
+ | 2021-11 B
+
+ | 2021-11-09
+
+ | 22000.318
+
+ | KB5007215
+
+ | Canal de disponibilidad general
+
+ | 2021-10 C
+
+ | 2021-10-21
+
+ | 22000.282
+
+ | KB5006746
+
+ | Canal de disponibilidad general
+
+ | 2021-10 B
+
+ | 2021-10-12
+
+ | 22000.258
+
+ | KB5006674
+
+ | Canal de disponibilidad general
+
+ | 2021-10 A
+
+ | 2021-10-04
+
+ | 22000.194
+
+ | 
+
+## Calendario de revisiones en caliente de Windows 11
+
+Ver un calendario de actualizaciones de revisiones de acceso frecuente para Windows 11. Con la aplicación de revisiones en caliente, los dispositivos reciben una actualización acumulativa de línea base el primer mes de cada trimestre del año natural. Se requiere un reinicio para instalar esa actualización de línea base. En los meses restantes, los dispositivos reciben una actualización de revisiones en caliente, que solo incluye actualizaciones de seguridad y se puede instalar sin reiniciar. Para obtener más información sobre lo que se incluye en cada actualización, consulte las notas de la versión de revisión en Windows 11, versión 26H2, versión 25H2y versión 24H2.
+
+Note
+
+La aplicación de revisiones en caliente no está disponible en Windows 11, versión 26H1.
+
+Versión 26H2 (OS build 26300) 
+
+Año natural 2026
+
+ | Mes
+
+ | Tipo de actualización
+
+ | Tipo
+
+ | Fecha de disponibilidad
+
+ | Compilación
+
+ | Artículo de KB
+
+ | Octubre
+
+ | 2026.10 B
+
+ | Línea base (Reiniciar)
+
+ | 
+
+ | 
+
+ | 
+
+ | Noviembre
+
+ | 2026.11 B
+
+ | Revisión en caliente
+
+ | 
+
+ | 
+
+ | 
+
+ | Diciembre
+
+ | 2026.12 B
+
+ | Revisión en caliente
+
+ | 
+
+ | 
+
+ | 
+
+Versión 25H2 (OS build 26200)
+
+Año natural 2026
+
+ | Mes
+
+ | Tipo de actualización
+
+ | Tipo
+
+ | Fecha de disponibilidad
+
+ | Compilación
+
+ | Artículo de KB
+
+ | Enero
+
+ | 2026.01 B
+
+ | Línea base (Reiniciar)
+
+ | 2026-01-13
+
+ | 26200.7623
+
+ | KB5074109
+
+ | Febrero
+
+ | 2026.02 B
+
+ | Revisión en caliente
+
+ | 2026-02-10
+
+ | 26200.7781
+
+ | KB5077212
+
+ | Marzo
+
+ | 2026.03 B
+
+ | Revisión en caliente
+
+ | 2026-03-10
+
+ | 26200.7979
+
+ | KB5079420
+
+ | Abril
+
+ | 2026.04 B
+
+ | Línea base (Reiniciar)
+
+ | 2026-04-14
+
+ | 26200.8246
+
+ | KB5083769
+
+ | Mayo
+
+ | 2026.05 B
+
+ | Revisión en caliente
+
+ | 2026-05-12
+
+ | 26200.8390
+
+ | KB5089466
+
+ | Junio
+
+ | 2026.06 B
+
+ | Línea base (Reiniciar)
+
+ | 2026-06-09
+
+ | 26200.8655
+
+ | KB5094126
+
+ | Julio
+
+ | 2026.07 B
+
+ | Línea base (Reiniciar)
+
+ | 2026-07-14
+
+ | 26200.8875
+
+ | KB5101650
+
+ | Agosto
+
+ | 2026.08 B
+
+ | Revisión en caliente
+
+ | 2026-08-11
+
+ | 26200.9106
+
+ | KB5120994
+
+ | Septiembre
+
+ | 2026.09 B
+
+ | Línea base (Reiniciar)
+
+ | 2026-09-08
+
+ | 26200.9445
+
+ | KB5124008
+
+ | Octubre
+
+ | 2026.10 B
+
+ | Línea base (Reiniciar)
+
+ | 
+
+ | 
+
+ | 
+
+ | Noviembre
+
+ | 2026.11 B
+
+ | Revisión en caliente
+
+ | 
+
+ | 
+
+ | 
+
+ | Diciembre
+
+ | 2026.12 B
+
+ | Revisión en caliente
+
+ | 
+
+ | 
+
+ | 
+
+Año natural 2025
+
+ | Mes
+
+ | Tipo de actualización
+
+ | Tipo
+
+ | Fecha de disponibilidad
+
+ | Compilación
+
+ | Artículo de KB
+
+ | Octubre
+
+ | 2025.10 B
+
+ | Línea base (Reiniciar)
+
+ | 2025-10-14
+
+ | 26200.6899
+
+ | KB5066835
+
+ | Noviembre
+
+ | 2025.11 B
+
+ | Revisión en caliente
+
+ | 2025-11-11
+
+ | 26200.7092
+
+ | KB5068966
+
+ | Diciembre
+
+ | 2025.12 B
+
+ | Revisión en caliente
+
+ | 2025-12-09
+
+ | 26200.7392
+
+ | KB5072014
+
+Versión 24H2 (OS build 26100)
+
+Año natural 2026
+
+ | Mes
+
+ | Tipo de actualización
+
+ | Tipo
+
+ | Fecha de disponibilidad
+
+ | Compilación
+
+ | Artículo de KB
+
+ | Enero
+
+ | 2026.01 B
+
+ | Línea base (Reiniciar)
+
+ | 2026-01-13
+
+ | 26100.7623
+
+ | KB5074109
+
+ | Febrero
+
+ | 2026.02 B
+
+ | Revisión en caliente
+
+ | 2026-02-10
+
+ | 26100.7781
+
+ | KB5077212
+
+ | Marzo
+
+ | 2026.03 B
+
+ | Revisión en caliente
+
+ | 2026-03-10
+
+ | 26100.7979
+
+ | KB5079420
+
+ | Abril
+
+ | 2026.04 B
+
+ | Línea base (Reiniciar)
+
+ | 2026-04-14
+
+ | 26100.8246
+
+ | KB5083769
+
+ | Mayo
+
+ | 2026.05 B
+
+ | Revisión en caliente
+
+ | 2026-05-12
+
+ | 26100.8390
+
+ | KB5089466
+
+ | Junio
+
+ | 2026.06 B
+
+ | Línea base (Reiniciar)
+
+ | 2026-06-09
+
+ | 26100.8655
+
+ | KB5094126
+
+ | Julio
+
+ | 2026.07 B
+
+ | Línea base (Reiniciar)
+
+ | 2026-07-14
+
+ | 26100.8875
+
+ | KB5101650
+
+ | Agosto
+
+ | 2026.08 B
+
+ | Revisión en caliente
+
+ | 2026-08-11
+
+ | 26100.9106
+
+ | KB5120994
+
+ | Septiembre
+
+ | 2026.09 B
+
+ | Línea base (Reiniciar)
+
+ | 2026-09-08
+
+ | 26100.9445
+
+ | KB5124008
+
+ | Octubre
+
+ | 2026.10 B
+
+ | Línea base (Reiniciar)
+
+ | 
+
+ | 
+
+ | 
+
+ | Noviembre
+
+ | 2026.11 B
+
+ | Revisión en caliente
+
+ | 
+
+ | 
+
+ | 
+
+ | Diciembre
+
+ | 2026.12 B
+
+ | Revisión en caliente
+
+ | 
+
+ | 
+
+ | 
+
+Año natural 2025
+
+ | Mes
+
+ | Tipo de actualización
+
+ | Tipo
+
+ | Fecha de disponibilidad
+
+ | Compilación
+
+ | Artículo de KB
+
+ | Enero
+
+ | 2025.01 B
+
+ | Línea base (Reiniciar)
+
+ | 2025-01-14
+
+ | 26100.2894
+
+ | KB5050009
+
+ | Febrero
+
+ | 2025.02 B
+
+ | Revisión en caliente
+
+ | 2025-02-11
+
+ | 26100.3107
+
+ | KB5052105
+
+ | Marzo
+
+ | 2025.03 B
+
+ | Revisión en caliente
+
+ | 2025-03-11
+
+ | 26100.3403
+
+ | KB5053636
+
+ | Abril
+
+ | 2025.04 B
+
+ | Línea base (Reiniciar)
+
+ | 2025-04-08
+
+ | 26100.3775
+
+ | KB5055523
+
+ | Mayo
+
+ | 2025.05 B
+
+ | Revisión en caliente
+
+ | 2025-05-13
+
+ | 26100.3981
+
+ | KB5058497
+
+ | Junio
+
+ | 2025.06 B
+
+ | Revisión en caliente
+
+ | 2025-06-10
+
+ | 26100.4270
+
+ | KB5060841
+
+ | Julio
+
+ | 2025.07 B
+
+ | Línea base (Reiniciar)
+
+ | 2025-07-08
+
+ | 26100.4652
+
+ | KB5062553
+
+ | Agosto
+
+ | 2025.08 B
+
+ | Revisión en caliente
+
+ | 2025-08-12
+
+ | 26100.4851
+
+ | KB5064010
+
+ | Septiembre
+
+ | 2025.09 B
+
+ | Revisión en caliente
+
+ | 2025-09-09
+
+ | 26100.6508
+
+ | KB5065474
+
+ | Octubre
+
+ | 2025.10 B
+
+ | Línea base (Reiniciar)
+
+ | 2025-10-14
+
+ | 26100.6899
+
+ | KB5066835
+
+ | Noviembre
+
+ | 2025.11 B
+
+ | Revisión en caliente
+
+ | 2025-11-11
+
+ | 26100.7092
+
+ | KB5068966
+
+ | Diciembre
+
+ | 2025.12 B
+
+ | Revisión en caliente
+
+ | 2025-12-09
+
+ | 26100.7392
+
+ | KB5072014
+
+Año natural 2024
+
+ | Mes
+
+ | Tipo de actualización
+
+ | Tipo
+
+ | Fecha de disponibilidad
+
+ | Compilación
+
+ | Artículo de KB
+
+ | Noviembre
+
+ | 2024.11 B
+
+ | Revisión en caliente
+
+ | 2024-11-12
+
+ | 26100.2240
+
+ | KB5046696
+
+ | Diciembre
+
+ | 2024.12 B
+
+ | Revisión en caliente
+
+ | 2024-12-10
+
+ | 26100.2528
+
+ | KB5048794
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-09-29

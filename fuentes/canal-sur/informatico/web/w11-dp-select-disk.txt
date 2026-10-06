@@ -1,0 +1,106 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/select-disk
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# select disk
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Selecciona el disco especificado y cambia el foco a ese disco.
+
+## Syntax
+
+`select disk={<n>|<disk path>|system|next}
+`
+
+### Parameters
+
+ | Parameter
+
+ | Description
+
+ | `<n>`
+
+ | Especifica el número del disco que va a recibir el foco. Puede ver los números de todos los discos del equipo mediante el comando list disk de DiskPart.
+
+ NOTE
+Al configurar sistemas con varios discos, no use select disk=0 para especificar el disco del sistema. El equipo puede reasignar números de disco al reiniciar y los distintos equipos con la misma configuración de disco pueden tener números de disco diferentes.
+
+ | `<disk path>`
+
+ | Especifica la ubicación del disco que va a recibir el foco, por ejemplo, `PCIROOT(0)#PCI(0F02)#atA(C00T00L00)`. Para ver la ruta de ubicación de un disco, selecciónela y, a continuación, escriba disco de detalles.
+
+ | system
+
+ | En los equipos BIOS, esta opción especifica que el disco 0 recibe el foco. En los equipos EFI, el disco que contiene la partición del sistema EFI (ESP), que se usa para el arranque actual, recibe el foco. En los equipos EFI, se producirá un error en el comando si no hay ESP, si hay más de un ESP o si el equipo se inicia desde el Entorno de preinstalación de Windows (Windows PE).
+
+ | next
+
+ | Una vez seleccionado un disco, esta opción recorre en iteración todos los discos de la lista de discos. Al ejecutar esta opción, el siguiente disco de la lista recibe el foco.
+
+## Examples
+
+Para cambiar el foco al disco 1, escriba:
+
+`select disk=1
+`
+
+Para seleccionar un disco mediante su ruta de acceso de ubicación, escriba:
+
+`select disk=PCIROOT(0)#PCI(0100)#atA(C00T00L01)
+`
+
+Para desplazar el foco al disco del sistema, escriba:
+
+`select disk=system
+`
+
+Para desplazar el foco al siguiente disco del equipo, escriba:
+
+`select disk=next
+`
+
+## Related links
+
+- 
+
+ Clave de sintaxis de línea de comandos
+
+- 
+
+ Comando select partition
+
+- 
+
+ Comando select vdisk
+
+- 
+
+ Comando select volume
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

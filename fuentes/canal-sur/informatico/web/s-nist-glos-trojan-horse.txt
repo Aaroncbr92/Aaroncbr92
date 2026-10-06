@@ -1,0 +1,29 @@
+URL: https://csrc.nist.gov/glossary/term/trojan_horse
+Leído: 2026-10-05
+
+Definitions:
+A computer program that appears to have a useful function, but also has a hidden and potentially malicious function that evades security mechanisms, sometimes by exploiting legitimate authorizations of a system entity that invokes the program.
+Sources:
+NIST SP 800-12 Rev. 1
+from
+CNSSI 4009
+NIST SP 800-82r3
+from
+RFC 4949
+A useful or seemingly useful program that contains hidden code of a malicious nature that executes when the program is invoked.
+Sources:
+NIST SP 800-28 Version 2
+About
+See the identified Source document to understand each term-definition pair in its proper context.
+Send inquiries about terminology to the Source's authors; NIST publications will usually include a contact email for that Source.
+For other inquiries, such as comments about the Glossary's presentation and functionality, use
+this link
+.
+See the
+Glossary homepage
+for more guidance.
+HEADQUARTERS
+100 Bureau Drive
+Gaithersburg, MD 20899
+X
+(link is external)

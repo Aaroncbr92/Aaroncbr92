@@ -1,0 +1,465 @@
+URL: https://www.memtest86.com/troubleshooting.htm
+Leído: 2026-10-05
+
+﻿
+
+ MemTest86 - Troubleshooting Memory Errors
+
+ Home
+
+ Product Page
+
+ Technical Info
+
+ Support
+
+ About Us
+
+ Sign In
+
+MemTest86 Technical Information
+
+What’s new for uefi platform
+
+Creating boot disk in windows
+
+Creating boot disk in linux/mac
+
+Usage 
+
+Booting MemTest86
+
+Booting v5 or later in UEFI
+
+Adding MemTest86 to Grub
+
+Using a Serial Console
+
+PXE Network Booting
+
+PXE Client Configuration
+
+Booting MemTest86 from CD/DVD
+
+Configuring MemTest86
+
+Custom test definitions
+
+Test results / reports
+
+Execution Time
+
+Troubleshooting Memory Errors
+
+Blacklisting RAM Pages
+
+DIMM/Chip error decoding
+
+Management Console
+
+Detailed Description
+
+Memory Testing Philosophy
+
+MemTest86 Test Algorithms
+
+Individual Test Descriptions
+
+ECC Technical Information
+
+Recover disk space on USB drive
+
+Problem and bug reporting
+
+General Information
+
+Debug Logs
+
+Known Issues
+
+Freezing and Lockups
+
+RAM SPD Issues
+
+User Guide
+
+License information
+
+ Help improve MemTest86
+
+ Troubleshooting Memory Errors
+
+MemTest86 detected errors in my memory. Is there something wrong with my RAM?
+
+Why am I only getting errors during Test 13 Hammer Test?
+
+Why do I get errors only when testing RAM modules together, and not when individually tested?
+
+MemTest86 reported the memory address of the failure. What does this mean?
+
+How does MemTest86 report ECC errors?
+
+If I know the address decoding scheme, can I configure MemTest86 to report the failing module?
+
+How do I know which RAM module is failing?
+
+Why aren't my test results consistent?
+
+How do I fix the memory errors?
+
+Below is a video overview on how to troubleshoot bad RAM with MemTest86. 
+
+ | 
+
+ Download
+Right-click to download, MP4 format, 9MB
+
+ MemTest86 detected errors in my memory. Is there something wrong with my
+ RAM?
+
+ Please be aware that not all errors reported by MemTest86 are due to bad memory. The
+ test implicitly tests the CPU, L1 and L2 caches as well as
+ the motherboard. It is impossible for the test to determine what causes the failure to
+ occur. However, most failures will be due to a problem
+ with memory module. When it is not, the only option is to replace parts until the
+ failure is corrected.
+
+ Sometimes memory errors show up due to component incompatibility. A memory module may
+ work fine in one system and not in another.
+ This is not uncommon and is a source of confusion. In these situations the components
+ are not necessarily bad but have marginal
+ conditions that when combined with other components will cause errors.
+
+ Often the memory works in a different system or the vendor insists that it is good. In
+ these cases the memory is not necessarily bad
+ but is not able to operate reliably at full speed. Sometimes more conservative memory
+ timings on the motherboard will correct these errors.
+ In other cases the only option is to replace the memory with better quality, higher
+ speed memory. Don't buy cheap memory and expect it to work
+ reliably. On occasion "block move" test errors will occur even with name brand memory
+ and a quality motherboard. These errors are legitimate and
+ should be corrected.
+
+ All valid memory errors should be corrected. It is possible that a particular error will
+ never show up in normal operation. However, operating
+ with marginal memory is risky and can result in data loss and even disk corruption. Even
+ if there is no overt indication of problems you cannot
+ assume that your system is unaffected. Sometimes intermittent errors can cause problems
+ that do not show up for a long time. You can be sure that
+ Murphy will get you if you know about a memory error and ignore it.
+
+ We are often asked about the reliability of errors reported by MemTest86. In the vast
+ majority of cases errors reported by the test are valid.
+ There are some systems that cause MemTest86 to be confused about the size of memory and
+ it will try to test non-existent memory. This will cause a
+ large number of consecutive addresses to be reported as bad and generally there will be
+ many bits in error. If you have a relatively small number
+ of failing addresses and only one or two bits in error you can be certain that the
+ errors are valid. Also intermittent errors are without exception
+ valid. Frequently memory vendors question if MemTest86 supports their particular memory
+ type or a chipset. MemTest86 is designed to work with all
+ memory types and all chipsets.
+
+ MemTest86 cannot diagnose many types of PC failures. For example a faulty CPU that causes
+ Windows to crash will most likely just cause MemTest86 to crash in the same way.
+
+Why am I only getting errors during Test 13 Hammer Test?
+
+ The Hammer Test is designed to detect RAM modules that are susceptible to disturbance
+ errors caused by charge leakage. This phenomenon is characterized
+ in the research paper 
+ Flipping Bits in Memory
+ Without Accessing Them: An Experimental Study of DRAM Disturbance Errors
+ by
+ Yoongu Kim et al.
+ According to the research, a significant number of RAM modules manufactured 2010 or
+ newer are affected by this defect. In simple terms, susceptible RAM modules can be
+ subjected to disturbance errors
+ when repeatedly accessing addresses in the same memory bank but different rows in a
+ short period of time. Errors occur when the repeated access causes charge loss in a
+ memory cell, before the cell contents
+ can be refreshed at the next DRAM refresh interval.
+
+ Starting from MemTest86 v6.2, the user may see a warning indicating that the RAM may be
+ vulnerable to high frequency row hammer bit flips.
+ This warning appears when errors are detected during the first pass (maximum hammer
+ rate) but no errors are detected during the second pass (lower hammer rate).
+ See MemTest86 Test Algorithms for a description of
+ the two passes that are performed during the Hammer Test (Test 13).
+ When performing the second pass, address pairs are hammered only at the rate deemed as
+ the maximum allowable by memory vendors (200K accesses per 64ms).
+ Once this rate is exceeded, the integrity of memory contents may no longer be
+ guaranteed. If errors are detected in both passes, errors are reported as normal.
+
+ The errors detected during Test 13, albeit exposed only in extreme memory access cases,
+ are most certainly real errors. During typical home PC usage (eg. web browsing, word
+ processing, etc.),
+ it is less likely that the memory usage pattern will fall into the extreme case that
+ make it vulnerable to disturbance errors. It may be of greater concern if you were
+ running highly sensitive equipment
+ such as medical equipment, aircraft control systems, or bank database servers. It is
+ impossible to predict with any accuracy if these errors will occur in real life
+ applications. One would need
+ to do a major scientific study of 1000 of computers and their usage patterns, then do a
+ forensic analysis of each application to study how it makes use of the RAM while it
+ executes. To date, we have only
+ seen 1-bit errors as a result of running the Hammer Test.
+
+ There are several actions that can be taken when you discover that your RAM modules are
+ vulnerable to disturbance errors:
+
+Do nothing
+
+Replace the RAM modules
+
+Use RAM modules with error-checking capabilities (eg. ECC)
+
+ Depending on your willingness to live with the possibility of these errors manifesting
+ itself as real problems,
+ you may choose to do nothing and accept the risk. For home use you may be willing to
+ live with the errors. In our experience, we have several machines that have been stable
+ for home/office use despite experiencing errors in the Hammer Test.
+
+ You may also choose to replace the RAM with modules that have been known to pass the
+ Hammer Test. Choose RAM modules of different brand/model as it is likely that the RAM
+ modules with the same model would still fail the Hammer test.
+
+ For sensitive equipment requiring high availability/reliability, you would replace the
+ RAM without question and would probably switch to RAM with error correction such as ECC
+ RAM. Even a 1-bit error can result in catastrophic consequences for say,
+ a bank account balance. Note that not all motherboards support ECC memory, so consult
+ the motherboard specifications before purchasing ECC RAM.
+
+Detection and mitigation of row hammer errors
+
+ The ability of MemTest86 to detect and report on row hammer errors depends on several
+ factors and what mitigations are in place. To generate errors adjacent memory
+ rows must be repeatedly accessed. But hardware features such as multiple channels,
+ interleaving, scrambling,
+ Channel Hashing, NUMA & XOR schemes make it nearly impossible (for an arbitrary CPU &
+ RAM stick) to know which memory addresses correspond to which rows in the RAM.
+ Various mitigations might also be in place. Different BIOS firmware might set the
+ refresh interval to different values (tREFI). The shorter the interval the more
+ resistant the RAM will be to errors.
+ But shorter intervals result in higher power consumption and increased processing
+ overhead. Some CPUs also support pseudo target row refresh (pTRR) that can be used in
+ combination with pTRR-compliant RAM.
+ This field allows the RAM stick to indicate the MAC (Maximum Active Count) level which
+ is the RAM can support. A typical value might be 200,000 row activations.
+ Some CPUs also support the Joint Electron Design Engineering Council (JEDEC) Targeted
+ Row Refresh (TRR) algorithm. The TRR is an improved version of the previously
+ implemented
+ pTRR algorithm and does not inflict any performance drop or additional power usage.
+ As a result the row hammer test implemented in MemTest86 maybe not be the worst case
+ possible and vulnerabilities in the underlying RAM might be undetectable due to the
+ mitigations in
+ place in the BIOS and CPU.
+
+ Why do I get errors only when testing RAM modules together, and not
+ when individually tested?
+
+ Most memory systems nowadays operate in multiple channel mode in order to increase the
+ transfer rate between the RAM modules and the memory
+ controller. It is recommended that modules with identical specifications (ie. "matching
+ modules") when running in multi-channel mode. Some motherboards
+ also have compatibility issues with certain brand/models of RAM when running in
+ multi-channel mode.
+
+ When you see errors while running MemTest86 with multiple RAM modules installed, but not
+ when they are tested individually, it is likely that the multi-channel
+ configuration is the culprit. This could be due to mismatched RAM specifications, or
+ simply using brands/models of RAM that is incompatible with the motherboard.
+ Most motherboard vendors release a list of known compatible RAM models that have been
+ tested to work with your motherboard. Replace the modules with a matching set of
+ known good ones and see if you get better results.
+
+ MemTest86 reported the memory address of the failure. What does this
+ mean?
+
+ When MemTest86 detects errors during the memory tests, the memory address, actual and
+ expected data are reported to the user. The memory address is the location in system
+ memory where the data contained does not match what was expected.
+ This is the address that is specified by the CPU to the memory controller when
+ requesting data from DRAM. The memory controller then decodes this memory address to
+ identify the specific channel, DIMM, rank, DRAM chip, bank, row and column in DRAM using
+ a chipset-specific address decoding scheme.
+
+ The address decoding scheme is the process used by the memory controller to generate the
+ appropriate address signals to the DRAM chip. Depending on the memory controller, this
+ process can get fairly complex as it is not simply a a direct mapping of the system
+ address bits to the DRAM address bits. In order to increase
+ the memory performance, strategies such as channel interleaving (for Dual, Tri and Quad
+ channel setups), rank/bank/row interleaving, and address swizzling are used to increase
+ the concurrency of memory accesses. For some chipsets such as AMD, the address decoding
+ scheme can be configured/determined via PCI registers as
+ described in the chipset specifications. For other chipsets (eg. Intel), however, the
+ address decoding scheme is proprietary and not made available to the public. This makes
+ identifying the DRAM address and correspondingly, the failing module, much more
+ difficult. For that reason, MemTest86 only has the capability to report DRAM addresses
+ for supported hardware configurations.
+
+How does MemTest86 report ECC errors?
+
+ Refer to ECC Technical Information for ECC reporting in MemTest86 and other ECC technical details.
+
+ If I know the address decoding scheme, can I configure MemTest86 to
+ report the failing module?
+
+ For systems where the address decoding scheme is known, MemTest86 provides several configuration file parameters to aid users in
+ determining the faulty module that corresponds to the memory address:
+
+ ADDR2CHBITS=12,9,7
+ ADDR2SLBITS=3,4
+ ADDR2CSBITS=8
+
+ For each of these 3 parameters, a list of bit positions can be used to specify which
+ address bits of a memory address to exclusive-or (XOR) in order to determine the
+ corresponding [memory channel|slot|chip select (CS)] (0 or 1) of the failing module.
+ This is only useful if you know that the memory controller maps a particular address to
+ a [memory channel|slot|chip select (CS)] using this XOR-based decoding scheme. If these
+ parameters are specified and MemTest86 detects a memory error, the [memory
+ channel|slot|chip select (CS)] will be calculated and displayed along with the faulting
+ address.
+
+How do I know which RAM module is failing?
+
+ Once a memory error has been detected, determining the failing SIMM/DIMM module is not a
+ clear cut procedure. Different CPUs map memory addresses
+ to physical memory sticks in different ways. Features like dual channel RAM (with
+ interleaving), channel hashing and NUMA make the mapping of addresses
+ to modules, banks & rows very difficult. Due to the large number of CPUs and motherboard
+ vendors and potential combinations of memory slots we do not have a general solution, though in some cases limited decode is possible. However, there are
+ steps that may be taken to determine the failing module. Here are some techniques that
+ you may wish to use:
+
+ Removing modules
+
+ This is simplest method for isolating a failing modules, but may only be
+ employed when one or more modules can be removed from the system. By
+ selectively removing modules from the system and then running the test you will
+ be able to find the bad modules.
+ Be sure to note exactly which modules are in the system when the test passes and
+ when the test fails.
+
+ Rotating modules
+
+ When none of the modules can be removed then you may wish to rotate modules to
+ find the failing one. This technique can only be used if there
+ are three or more modules in the system. Change the location of two modules at a
+ time. For example put the module from slot 1 into slot 2
+ and put the module from slot 2 in slot 1. Run the test and if either the failing
+ bit or address changes then you know that the failing module
+ is one of the ones just moved. By using several combinations of module movement
+ you should be able to determine which module is failing.
+
+ Replacing modules
+
+ If you are unable to use either of the previous techniques then you are left to
+ selective replacement of modules to find the failure.
+
+Why aren't my test results consistent?
+
+ Sometimes you can do multiple passes of MemTest86 and get different results each time. Or sometimes errors disappear (or appear) when innocent setup changes are made. This isn't unusual. Some reasons for this are,
+
+A lot of RAM errors aren't 100% bad cells (meaning that they don't fail all the time in all circumstances). Even the most superficial testing during manufacturing pick up these 100% bad cells. So weak cells are fairly common in the field. Meaning they only fail some of the time in specific circumstances.
+
+Some errors are temperature sensitive. So ambient temperature changes can have an effect. Also if you have multiple RAM sticks the middle sticks can get a lot hotter than the outside sticks, due to limited airflow. So changing the stick order can supress or expose an error sometimes.
+
+You can have totally random one off soft errors (e.g. cosmic rays). Normally these errors can't be reproduced, or at least not at the same memory location.
+
+If a weak memory cell is right on the knife edge of failure, then there is a certain amount of true randomness that creeps in. Very tiny changes in clock timings and voltages can flip it between working or not. Like with all electronic signalling, there is a certain amount of distortion and noise in the signalling to read and write data to RAM. Eye diagrams illustrate this nicely. A weak cell combined with signalling noise can result in random errors.
+
+Poor voltage regulation can cause problems. In a PC the power supply has to convert high voltage mains AC power to low voltage DC. Often the DC signal isn't flat and has some ripple. Unlucky timing on the ripple troughs with a weak memory cell can cause random like behaviour.
+
+Not all RAM slots are equal on a motherboard. So the same memory stick in different slots can behave differently. There are signalling path length differences, impedance issues and some slot combinations will result in the BIOS switching to single channel mode.
+
+Behaviour can be different with multiple sticks of RAM as there is additional current draw and load on the memory controller and additional EMI (electromagnetic interference).
+
+Some RAM suffers from row hammer issues. This is electromagnetic interference within a single RAM chip causing bit flips. There is a lot of randomness associated about when and how often this happens.
+
+Different configurations in MemTest86 itself can lead to different results. Running the test on a different number of CPU cores can change the access pattern and cache behaviour.
+
+Pass number 1 in MemTest86 is shorter than subsequent passes, in order to produce a quicker assessment of serious faults. So results in Pass 1 and 2 can be different.
+
+Some of the tests in MemTest86 employ random numbers. So different passes in MemTest86 can give different results.
+
+Moving RAM between slots will re-seat the RAM. This can clean up dirty or corroded contacts, resulting in better electrical contact. Errors can sometimes disappear as a result.
+
+Adding or removing other hardware from a machine can change the memory map. e.g. adding a video card. As some RAM can be reserved for memory mapped I/O. This changes the RAM available for testing.
+
+How do I fix the memory errors?
+
+ Depending on what is causing the memory errors, you can try the following options:
+
+Replace the RAM modules (most common solution)
+
+Set default or conservative RAM timings / Disable XMP
+
+Increase the RAM voltage levels
+
+Decrease the CPU voltage levels
+
+Apply BIOS update to fix incompatibility issues
+
+Flag the address ranges as 'bad'
+
+ Once you have determined with certainty which RAM module(s) have failed, replacing them
+ with a new set of RAM modules usually fixes the errors. When choosing
+ which modules to use as a replacement, consider using one that is listed as compatible
+ by the motherboard vendor as it would have been verified by the vendor
+ itself.
+
+ Sometimes, memory errors only manifest themselves when RAM timings are set too
+ aggressively in the BIOS (eg. overclocking). For certain modules that support
+ higher performance XMP timings, consider using standard, non-XMP timings to see if you
+ get better results. Consult your motherboard manual on how to set or
+ reset your RAM timings to default settings.
+
+ For certain configurations (especially when using aggressive RAM timings), higher
+ voltage may be required in order to operate the RAM in stable conditions.
+ If you are using non-standard RAM timings, slightly increasing the voltage (eg. from
+ 1.5V to 1.55V) may increase the stability. Increase the voltage at your
+ own risk as excessive voltage may damage the components of your system
+
+ A higher CPU voltage may cause overheating, resulting in memory errors that lead to system hangs/crashes.
+ Check with the motherboard vendor for instructions on configuring CPU voltage levels.
+
+ In certain cases, RAM incompability issues can be fixed with a BIOS update. Check the
+ motherboard vendor for updated BIOS with RAM compaibiliy fixes.
+
+ Several operating systems allow the user to pass in a list of 'bad' memory ranges to
+ prevent the operating system to use or allocate memory in that range.
+ See Blacklisting RAM Pages for more details.
+
+ For ASUS motherboards, setting the memory profile to XMP Tweaked can cause errors. Try switching to other XMP profiles or standard timings to see if it resolves the issue.
+
+ Home
+
+ About Us
+ Legal Disclaimer
+
+ Product
+
+ What’s New
+ Pricing
+ Download
+ Compare Editions
+ Screenshots
+
+ Technical info
+
+ What’s New for UEFI Platform
+ Creating Boot Disk in Windows
+ Usage
+ Detailed Description
+ Recover Disk Space on USB Drive
+ Help Improve MemTest86
+
+ Support
+
+ FAQ
+ MemTest86 Forums
+ Our Offices
+
+Copyright © 2026 PassMark® Software 
+

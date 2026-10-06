@@ -1,0 +1,157 @@
+URL: https://learn.microsoft.com/en-us/windows/tar/
+Leído: 2026-10-05
+
+ 
+
+ tar on Windows | Microsoft Learn
+
+ Skip to main content
+
+ Skip to Ask Learn chat experience
+
+This browser is no longer supported.
+
+ Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+
+ Download Microsoft Edge
+
+ More info about Internet Explorer and Microsoft Edge
+
+ Table of contents 
+
+ Exit editor mode
+
+ Ask Learn
+
+ Ask Learn
+
+ Reading mode
+
+ Table of contents
+
+ Read in English
+
+ Add
+
+ Add to Plans
+
+ Edit
+
+ Copy Markdown
+
+ Print
+
+ Note
+
+ Access to this page requires authorization. You can try signing in or changing directories.
+
+ Access to this page requires authorization. You can try changing directories.
+
+tar on Windows
+
+ Feedback
+
+ Summarize this article for me
+
+ In this article
+
+tar is a command-line archiving tool that's included with Windows. It lets you create, list, and extract archive files — including .tar, .tar.gz, .zip, and .7z — directly from the command line, without installing additional software.
+
+The Windows build of tar is based on libarchive's bsdtar and supports the same flags developers already use on Linux and macOS, so existing scripts and habits carry over.
+
+Common commands
+
+Extract an archive:
+tar -xf archive.tar.gz
+
+Create a .tar.gz from a folder:
+tar -czf archive.tar.gz .\my-folder
+
+Create a .zip from a folder (the -a flag auto-selects the archive format from the file extension, replacing format-specific flags like -z, -j, -J, and -Z):
+tar -caf archive.zip .\my-folder
+
+List the contents of an archive without extracting:
+tar -tf archive.tar.gz
+
+For the full list of options, run tar --help or the FreeBSD Tar manual.
+
+ Collaborate with us on GitHub
+
+ The source for this content can be found on GitHub, where you can also create and review issues and pull requests. For more information, see our contributor guide.
+
+ Windows developer
+
+ Open a documentation issue
+
+ Provide product feedback
+
+Feedback
+
+ Was this page helpful?
+
+ Yes
+
+ No
+
+ No
+
+ Need help with this topic?
+
+ Want to try using Ask Learn to clarify or guide you through this topic?
+
+ Ask Learn
+
+ Ask Learn
+
+ Suggest a fix? 
+
+ Additional resources
+
+ Last updated on 
+ 2026-06-02
+
+In this article
+
+ Was this page helpful?
+
+ Need help with this topic?
+
+ Want to try using Ask Learn to clarify or guide you through this topic?
+
+ Ask Learn
+
+ Ask Learn
+
+ Suggest a fix? 
+
+ en-us
+
+ Your Privacy Choices
+
+ Theme
+
+ Light 
+
+ Dark 
+
+ High contrast 
+
+ AI Disclaimer
+
+ Previous Versions
+
+ Blog
+
+ Contribute
+
+ Privacy
+
+ Consumer Health Privacy
+
+ Terms of Use
+
+ Trademarks
+
+© Microsoft 2026
+
+ 

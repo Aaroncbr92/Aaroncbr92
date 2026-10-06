@@ -1,0 +1,94 @@
+URL: https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/manage/group-policy/group-policy-overview
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Introducción a la directiva de grupo para Windows Server
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+La directiva de grupo permite la configuración y la administración de la configuración del usuario y del equipo en equipos que ejecutan Windows Server y sistemas operativos cliente de Windows. Además de usar la directiva de grupo para definir configuraciones para grupos de usuarios y equipos cliente, también puede usar la directiva de grupo para ayudar a administrar equipos servidor, configurando muchas opciones operativas y de seguridad específicas del servidor.
+
+## ¿Qué es una directiva de grupo?
+
+La directiva de grupo es una característica de Windows que proporciona administración centralizada y configuración de sistemas operativos, aplicaciones y configuración de usuario. Puede almacenar la configuración de directiva de grupo localmente en el sistema de archivos o en Active Directory Domain Services (AD DS). Cuando se usa la directiva de grupo con Active Directory (AD), se almacena la configuración de directiva de grupo en un objeto de directiva de grupo (GPO). Un GPO es una colección virtual de ajustes de directivas, permisos de seguridad y ámbito de administración (SOM) que puede aplicar a usuarios y equipos en Active Directory. Un GPO consta de dos componentes principales: el contenedor de directivas de grupo y la plantilla de directiva de grupo. El contenedor de directivas de grupo se almacena en la partición de dominio de Active Directory, mientras que la plantilla de directiva de grupo se encuentra en la carpeta SYSVOL de cada controlador de dominio (DC).
+
+Estos componentes se replican entre DC a través de la replicación de AD y el servicio de replicación de archivos (FRS) o replicación del sistema de archivos distribuido (DFSR).
+
+Las configuraciones de directiva se clasifican en aquellas que se aplican a un equipo y aquellas que se aplican a un usuario. Las configuraciones de equipo se aplican a nivel del sistema y gestionan opciones como la gestión de energía y las normas de firewall. Las configuraciones de usuario afectan únicamente al usuario actual, con opciones como la configuración de Internet Explorer y la redirección de carpetas. Puede vincular GPO a varios niveles dentro de la jerarquía de AD, como sitios, dominios y unidades organizativas (UO), que definen su ámbito de aplicación.
+
+La configuración de directiva se aplica al inicio del equipo y al iniciar sesión del usuario. El servicio de directivas de grupo determina los GPO aplicables consultando el Active Directory según la pertenencia a sitios, dominios y unidades organizativas. Una extensión del lado cliente (CSE) aplica la configuración específica que dictan los GPO, administrando tareas como actualizaciones del registro y configuraciones de seguridad. Las configuraciones de directivas se aplican a los equipos cuando se inician y a los usuarios cuando inician sesión. Cuando se inicia un equipo, el servicio de directiva de grupo comprueba AD para determinar qué GPO están vinculados y aplicables al objeto de equipo, entre los que se incluyen:
+
+- 
+Sitio en el que reside el equipo.
+
+- 
+Dominio en el que el equipo es miembro.
+
+- 
+La unidad organizativa principal para la que el equipo es miembro directo y cualquier otra unidad organizativa por encima de la UO principal.
+
+Las preferencias de directiva de grupo ofrecen funcionalidades de administración similares a las directivas de grupo estándar y se administran de la misma manera. Los administradores pueden crear y administrar GPO mediante el Editor de directivas de grupo local (`gpedit.msc`) para la configuración local o el Editor de objetos de directiva de grupo dentro de un complemento MMC relacionado con AD para la configuración de todo el dominio. Cada GPO tiene un identificador único global (GUID) y sigue la estructura jerárquica de AD para la evaluación de directivas. Una comprensión exhaustiva de cómo crear, modificar y vincular GPO dentro de AD es esencial para una administración de directivas eficaz. Los GPO se almacenan tanto en AD como en la carpeta SYSVOL de cada controlador de dominio, lo que facilita la administración centralizada y la aplicación de directivas.
+
+## Extensiones del lado cliente
+
+Un CSE de directiva de grupo es un componente aislado responsable de procesar la configuración de directiva específica proporcionada por la infraestructura de directivas de grupo. Cada CSE administra y almacena sus datos de directiva en su propio formato específico, independientemente de la infraestructura de directivas de grupo, que no interpreta ni administra los detalles de estos datos. La función principal de Directiva de Grupo es entregar configuraciones a un equipo, donde cada CSE aplica su parte de las configuraciones de directiva de múltiples Objetos de Directiva de Grupo.
+
+Imagine la infraestructura de directiva de grupo como un sistema de biblioteca. El sistema de biblioteca administra y entrega libros (o datos) a varias ramas (los equipos). La biblioteca no necesita comprender el contenido de cada libro; simplemente garantiza que el libro correcto llegue a la rama derecha. En esta analogía, el servicio de directivas de grupo es como el sistema de biblioteca, entregando libros sin conocer su contenido. Los distintos ajustes de políticas son comparables a diferentes géneros o colecciones de libros. El CSE de directiva de grupo representa a un bibliotecario en cada sucursal, que sabe cómo gestionar su colección específica. Al igual que cada bibliotecario está equipado para administrar su colección, cada CSE lee su información de configuración de directiva específica y realiza acciones basadas en lo que encuentra dentro de esa configuración.
+
+## Funcionamiento de la directiva de grupo
+
+En el caso de los equipos, la directiva de grupo se aplica cuando se inicia el equipo. Para los usuarios, la directiva de grupo se aplica al iniciar sesión. Este procesamiento inicial de la directiva también se puede denominar aplicación de directiva en primer plano.
+
+La aplicación en primer plano de la directiva de grupo puede ser sincrónica o asincrónica. En modo sincrónico, el equipo no completa el inicio del sistema hasta que la directiva de equipo se aplica correctamente. El proceso de inicio de sesión del usuario no se completa hasta que la directiva de usuario se aplica correctamente. En modo asincrónico, si no hay ningún cambio de directiva que requiera procesamiento sincrónico, el equipo puede completar la secuencia de inicio antes de que se complete la aplicación de la directiva de equipo. El shell puede estar disponible para el usuario antes de que se complete la aplicación de la directiva de usuario. Después, el sistema aplica periódicamente la directiva de grupo (actualizaciones) en segundo plano. Durante una actualización, la configuración de directiva se aplica de forma asincrónica.
+
+Para obtener más información sobre cómo funcionan las directivas de grupo, consulte Procesamiento de directivas de grupo.
+
+## ¿Qué es una unidad organizativa (OU)?
+
+Una UO es el contenedor de AD de nivel más bajo al que puede asignar la configuración de directiva de grupo. Normalmente, asigna la mayoría de los GPO en el nivel de unidad organizativa, por lo que debe asegurarse de que la estructura de unidades organizativas admita la estrategia de administración de cliente basada en directivas de grupo. También puede aplicar algunas opciones de directiva de grupo en el nivel de dominio, especialmente las directivas de contraseña. Algunas opciones de configuración de directiva se aplican en el nivel de sitio. Una estructura de unidad organizativa bien diseñada que refleja la estructura administrativa de la organización y aprovecha la herencia de GPO simplifica la aplicación de la directiva de grupo. Por ejemplo, una estructura de unidad organizativa bien diseñada puede impedir la duplicación de determinados GPO para que pueda aplicar estos GPO a diferentes partes de la organización. Si es posible, cree unidades organizativas para delegar la autoridad administrativa y para ayudar a implementar la directiva de grupo.
+
+El diseño de unidades organizativas requiere requisitos de equilibrio para delegar derechos administrativos independientemente de las necesidades de directiva de grupo y la necesidad de definir el ámbito de la aplicación de la directiva de grupo. Puede crear unidades organizativas dentro de un dominio y delegar el control administrativo para unidades organizativas específicas para usuarios o grupos concretos. Mediante el uso de una estructura en la que las UNIDADES organizativas contienen objetos homogéneos, como objetos de usuario o equipo, pero no ambos, puede deshabilitar fácilmente esas secciones de un GPO que no se aplican a un tipo determinado de objeto. Este enfoque para el diseño de unidades organizativas reduce la complejidad y mejora la velocidad a la que se aplica la directiva de grupo. Los GPO vinculados a las capas superiores de la estructura de unidades organizativas se heredan de forma predeterminada para las UNIDADES organizativas en la capa inferior, lo que reduce la necesidad de duplicar GPO o vincular un GPO a varios contenedores.
+
+## Contenido relacionado
+
+- 
+ Procesamiento de directivas de grupo
+
+- 
+ Realización de copias de seguridad, restauración, migración y copia de los objetos de directiva de grupo (GPO)
+
+- 
+ Modelado de directivas de grupo y resultados de la directiva de grupo
+
+- 
+ Consola de administración de directivas de grupo (GPMC)
+
+- 
+ Configuración de directiva de grupo usada en la autenticación de Windows
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-06-18

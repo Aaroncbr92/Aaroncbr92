@@ -1,0 +1,476 @@
+URL: https://learn.microsoft.com/es-es/microsoftteams/shared-channels
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Canales compartidos en Microsoft Teams
+
+- Se aplica a: Microsoft Teams
+
+## 
+
+Los canales compartidos en Microsoft Teams crean espacios de colaboración donde puede invitar a personas que no forman parte del equipo. Solo los usuarios que sean propietarios o miembros del canal compartido pueden acceder al canal. Aunque los invitados (personas con Microsoft Entra cuentas de invitado de su organización) no se pueden agregar a un canal compartido, puede invitar a personas de fuera de su organización a participar en un canal compartido mediante Microsoft Entra conexión directa B2B.
+
+Es posible que quiera usar un canal compartido si desea colaborar con un grupo de usuarios que son miembros de distintos equipos. Por ejemplo, los empleados del área de ingeniería, de ventas y soporte técnico que trabajen en diferentes aspectos del mismo proyecto o producto podrían usar un canal compartido para colaborar.
+
+Solo los miembros de canales compartidos pueden ver y participar en los canales compartidos a los que se agregan. Otros miembros del equipo al que está conectado el canal compartido no pueden ver el canal.
+
+Cuando se crea un canal compartido, se vincula al equipo primario y no se puede mover a otro equipo. Además, los canales compartidos no se pueden convertir en canales estándar y viceversa.
+
+ Comparar canales compartidos con otros tipos de canales.
+
+## Introducción a los canales compartidos
+
+Los canales compartidos están habilitados de forma predeterminada en Teams. Puede elegir darle a los usuarios permiso para crear canales compartidos, si pueden compartirlos con personas de fuera de la organización y si pueden participar en canales compartidos externos creando una directiva de canal.
+
+Si tiene previsto compartir canales con personas ajenas a la organización, lea Planear la colaboración externa para obtener información importante sobre la planificación.
+
+Compartir canales con personas de fuera de la organización también requiere que configure las opciones de acceso entre espacios empresariales en Microsoft Entra ID. Cada organización con la que se quiera compartir canales también deberá llevar a cabo esta configuración. Consulte Colaborar con participantes externos en un canal para obtener más detalles. Aunque los canales compartidos con participantes externos no usan cuentas de invitado, el acceso de invitado en Teams debe estar habilitado para invitarlos.
+
+## Creación de canales compartidos
+
+Solo los propietarios del equipo pueden crear un canal compartido. Los miembros del equipo no pueden crearlos. La capacidad de crear canales compartidos se puede administrar en el nivel de organización. Utilice directivas para controlar qué usuarios de la organización pueden crear canales compartidos.
+
+El usuario que crea un canal compartido se convierte en el propietario de dicho canal y solo el propietario puede agregar o quitar personas de forma directa. (Si lo desea, puede agregar más de un propietario). Un propietario del canal compartido puede agregar a cualquier usuario de la organización a un canal compartido que haya creado. Los miembros de un canal compartido tienen un espacio de conversación seguro y, si se agregan nuevos miembros, estos pueden ver todas las conversaciones (incluso las antiguas) del canal compartido.
+
+Los propietarios del equipo pueden ver los nombres de todos los canales compartidos de su equipo así como eliminar cualquier canal compartido del equipo. Los propietarios de equipos no pueden ver los archivos en un canal compartido ni las conversaciones y la lista de miembros de un canal compartido a menos que sean miembros de ese canal compartido.
+
+Los miembros del equipo solo pueden ver los canales compartidos a los que se agregan.
+
+La clonación de un equipo no clona los canales compartidos asociados.
+
+## Eliminación de canal compartido
+
+El canal compartido eliminado se puede restaurar en un plazo de 30 días después de la eliminación. Cuando se restaura un canal compartido eliminado, se restaurarán todas las pertenencias anteriores (uso compartido individual y de equipo).
+
+Los equipos eliminados se pueden restaurar en un plazo de 30 días después de la eliminación. Cuando se elimina un equipo, también se eliminarán todos los canales compartidos. Cuando se restaura un equipo eliminado, se restauran todos los canales compartidos, así como todas las relaciones de uso compartido.
+
+Cuando se archiva un equipo, el uso compartido individual permanece intacto, pero se quitará el uso compartido con equipos que no sean el equipo principal. Cuando el equipo archivado no se archiva, todos los canales compartidos se restauran solo con uso compartido individual.
+
+## Agregar y quitar propietarios y miembros
+
+El propietario de un canal compartido no se puede quitar a través del cliente de Teams si es el último propietario de uno o más canales compartidos.
+
+Si el último propietario del canal compartido deja la organización o si se quita del grupo de Microsoft 365 asociado con el equipo, se promueve automáticamente que un miembro del canal compartido de su organización sea el propietario del canal compartido. Si no hay ningún miembro de su organización que promover, el canal compartido seguirá sin tener propietario. Un administrador de Teams tiene que asignar manualmente un propietario de canal. Considere agregar a más de un propietario para evitar esta situación.
+
+Los invitados, incluidos los que se convierten en miembros (en su propiedad de tipo de usuario), no se pueden agregar a un canal compartido.
+
+En el Centro de administración de Teams, al agregar un participante externo que también tiene una cuenta de invitado en su organización, debe buscar en ext:user@domain.com para obtener la cuenta de la organización del participante externo en lugar de la cuenta de invitado.
+
+Nota
+
+Los participantes externos deben agregarse con su UPN, en lugar de con su dirección de correo electrónico, si los dos no coinciden en Microsoft Entra ID.
+
+## Configuración del propietario del canal
+
+Cada canal compartido tiene su propia configuración que puede administrar el propietario del canal, incluida la capacidad de agregar y quitar miembros, agregar pestañas y @mentioning para todo el canal. Estas opciones son independientes de la configuración del equipo principal. Cuando se crea un canal compartido, hereda la configuración del equipo primario. La configuración se podrá cambiar independientemente de la configuración del equipo primario.
+
+El propietario del canal compartido puede seleccionar Administrar canal y, después, usar las pestañas Miembros y Configuración para agregar o quitar miembros y editar la configuración.
+
+## Acciones de propietarios y miembros de canal compartido
+
+En la siguiente tabla se describen las acciones que los propietarios, miembros e invitados pueden hacer en canales compartidos.
+
+ | Acción
+
+ | Propietario del equipo
+
+ | Integrante de grupo
+
+ | Invitado de equipo
+
+ | Propietario del canal compartido
+
+ | Miembro del canal compartido
+
+ | Participante externo del canal compartido
+
+ | Crear un canal compartido
+
+ | Controlado por el administrador
+
+ | Controlado por el administrador y el propietario del equipo
+
+ | No
+
+ | N/D
+
+ | No
+
+ | No
+
+ | Eliminar un canal compartido
+
+ | Sí
+
+ | No
+
+ | No
+
+ | Sí
+
+ | No
+
+ | No
+
+ | Salir de un canal compartido
+
+ | N/D
+
+ | N/D
+
+ | N/D
+
+ | Sí, a menos que sean los últimos propietarios
+
+ | Sí
+
+ | Sí
+
+ | Editar un canal compartido
+
+ | No
+
+ | N/D
+
+ | N/D
+
+ | Sí
+
+ | No
+
+ | No
+
+ | Restaurar un canal compartido eliminado
+
+ | Sí
+
+ | No
+
+ | No
+
+ | Sí
+
+ | No
+
+ | No
+
+ | Agregar miembros
+
+ | No
+
+ | N/D
+
+ | N/D
+
+ | Sí
+
+ | No
+
+ | No
+
+ | Editar la configuración
+
+ | No
+
+ | N/D
+
+ | N/D
+
+ | Sí
+
+ | No
+
+ | No
+
+ | Administrar pestañas y aplicaciones
+
+ | No
+
+ | N/D
+
+ | N/D
+
+ | Sí, las aplicaciones deben estar instaladas para el equipo
+
+ | Controlado por el propietario del canal
+
+ | No
+
+## Sitios de SharePoint de canal compartido
+
+Cada canal compartido tiene su propio sitio de SharePoint. La finalidad del sitio independiente es garantizar que el acceso a los archivos de un canal compartido esté restringido exclusivamente a los miembros de dicho canal. Estos sitios se crean con una biblioteca de documentos de forma predeterminada y pueden ampliarse fácilmente a un sitio con todas las funciones mediante la interfaz de administración de sitios. Cada sitio se crea en la misma región geográfica que el sitio para el equipo principal. Estos sitios tienen un identificador de plantilla personalizado, "TEAMCHANNEL#1", para facilitar la administración a través de PowerShell y Graph API.
+
+Un sitio de canal compartido hereda la etiqueta de confidencialidad del equipo primario. Esto sigue siendo así incluso si el canal se comparte directamente con otro equipo.
+
+Nota
+
+Solo los usuarios con permisos de propietario o miembro en el canal tienen acceso al contenido del sitio del canal compartido. People del equipo primario y los administradores no tendrán acceso a menos que también sean miembros del canal.
+
+La pertenencia del propietario del sitio y los grupos de miembros se mantiene sincronizada con la pertenencia del canal compartido. Los permisos de sitio para un sitio de canal compartido no se pueden administrar de forma independiente a través de SharePoint.
+
+Teams administra el ciclo de vida del sitio del canal compartido. Si el sitio se elimina fuera de Teams, se restaurará automáticamente en el plazo de cuatro horas, siempre y cuando el canal compartido siga activo. Si el sitio se elimina de forma permanente, se aprovisiona un nuevo sitio para el canal compartido.
+
+Si se restaura un canal compartido o un equipo que contiene un canal compartido, los sitios también se restauran. Si se restaura un sitio de canal compartido y está fuera del periodo de eliminación temporal de 30 días para el canal compartido, el sitio funciona como un sitio independiente.
+
+## Mensajes de canal compartido
+
+Los mensajes de canal compartido se almacenan en un buzón de sistema dedicado asociado al canal compartido y no en el buzón de grupo.
+
+Para obtener información sobre cómo realizar una búsqueda de eDiscovery para mensajes de canal compartidos, vea Realizar una investigación de exhibición de contenido en Microsoft Teams.
+
+## Consideraciones sobre el acceso a archivos en canales compartidos
+
+Files y carpetas en un canal compartido se pueden compartir con personas fuera del canal (pero no fuera de la organización) mediante el uso compartido estándar de archivos de SharePoint.
+
+Si se concede acceso a un usuario a un archivo, carpeta o bloc de notas en un canal compartido a través de SharePoint, quitar al usuario del equipo o del canal compartido no quitará el acceso del usuario a dicho archivo, carpeta o bloc de notas.
+
+Si un bloc de notas existente se agrega como una pestaña a un canal compartido, no se cambia el acceso al canal compartido y el bloc de notas conserva sus permisos existentes.
+
+## Recursos para los usuarios
+
+Los siguientes artículos pueden ser útiles para los usuarios de su organización cuando usan canales compartidos.
+
+ Crear un canal compartido en Teams
+
+ Compartir un canal con usuarios de Teams
+
+ Compartir un canal con un equipo
+
+ ¿Por qué usar un canal compartido frente a otros tipos de canal en Teams?
+
+ Invitados y canales compartidos en Teams
+
+ Roles de propietario del canal compartido y miembro en Teams
+
+## Cumplimiento en canales compartidos
+
+Los canales compartidos se integran con las características de Microsoft Purview.
+
+### Cumplimiento de comunicaciones
+
+Los administradores pueden establecer directivas para supervisar el contenido de todos los usuarios del canal. Todo el contenido de los mensajes de los canales, incluidos los canales compartidos, está cubierto por las directivas de cumplimiento de las comunicaciones. Los canales compartidos heredan la directiva de la organización host.
+
+### Acceso condicional
+
+Las directivas de acceso condicional admitidas de la organización host se pueden aplicar a los usuarios de conexión directa B2B. (No se usan las directivas de la organización externa). Los siguientes tipos de directivas de acceso condicional son compatibles con canales compartidos:
+
+- Directivas para todos los usuarios invitados y externos, así como para la Office 365 aplicación en la nube de SharePoint Online.
+
+- Conceda controles de acceso que requieran MFA, un dispositivo compatible o un dispositivo unido a Microsoft Entra híbrido.
+
+Las directivas basadas en IP son compatibles en el nivel de archivo de SharePoint. Por lo tanto, un participante externo podría acceder al canal compartido desde una ubicación restringida, pero se bloquearía al intentar abrir un archivo.
+
+Para obtener más información sobre el acceso condicional para identidades externas, vea Autenticación y acceso condicional para identidades externas.
+
+### Prevención de pérdida de datos (DLP)
+
+Los administradores pueden aplicar directivas DLP de Microsoft Purview a un equipo donde todos los canales, incluidos los canales compartidos, heredan la directiva. Los canales compartidos heredan la directiva de la organización host.
+
+### Directiva de retención
+
+Los administradores pueden aplicar una directiva de retención en un equipo donde todos los canales, incluidos los canales compartidos, heredan la directiva de retención. Los canales compartidos heredan la directiva del equipo primario.
+
+### Etiquetas de confidencialidad
+
+ Las etiquetas de confidencialidad disponibles en la organización host son las únicas que se pueden aplicar a los documentos de un sitio de canal compartido. Los participantes externos no pueden abrir un archivo cifrado con una etiqueta de confidencialidad a menos que se concedan permisos. No se usa el etiquetado automático.
+
+Los canales compartidos y los sitios de SharePoint asociados heredan la etiqueta del equipo primario.
+
+### Barreras de información
+
+Los usuarios que no pueden comunicarse por directivas de barreras de información no pueden formar parte del canal compartido. Las directivas de barrera de la información solo son eficaces para los usuarios de la organización host. Si los usuarios son participantes externos en el canal compartido de otra organización, no se aplican directivas de barreras de la información.
+
+### eDiscovery
+
+Los administradores pueden realizar búsquedas para todos los usuarios del canal. Todos los canales, incluido el canal compartido, son reconocibles. El administrador de cumplimiento puede detectar todos los datos de los mensajes del canal, independientemente de quién agregó los datos.
+
+### Suspensión legal
+
+Los administradores pueden poner en espera a miembros de solo canal de la organización host que no formen parte del equipo. También pueden poner a todo el equipo en espera. Los administradores no pueden poner a un participante externo en espera.
+
+### Registros de auditoría
+
+Todas las acciones realizadas para los eventos de auditoría existentes se auditan en canales compartidos.
+
+## Aplicaciones admitidas en canales compartidos
+
+Para obtener información sobre cómo preparar la aplicación para canales compartidos, vea Microsoft Teams Connect canales compartidos.
+
+Las siguientes aplicaciones se admiten para su uso en canales compartidos.
+
+Nota
+
+Muchas de estas aplicaciones no están disponibles en entornos DOD y GCCH.
+
+Nota
+
+Las aplicaciones de SharePoint y las páginas de SharePoint no son compatibles con los canales compartidos en entornos de Government Community Cloud (GCC), GCC-High y departamento de defensa (DOD).
+
+Nota
+
+- Solo la funcionalidad de tabulación de las aplicaciones permitidas enumeradas anteriormente es compatible de forma predeterminada en los canales compartidos.
+
+- Las capacidades completas de la aplicación son compatibles con los canales compartidos. Sin embargo, los desarrolladores deben validar sus aplicaciones, realizar las actualizaciones necesarias y modificar el manifiesto de la aplicación antes de publicar para asegurarse de que todas las funcionalidades de la aplicación funcionan según lo esperado.
+
+- Para obtener instrucciones sobre cómo crear y validar aplicaciones para canales compartidos y privados, consulte Crear aplicaciones para canales compartidos y privados.
+
+- Actividad
+
+- Adobe Acrobat Sign
+
+- Asana
+
+- Llamadas
+
+- Chat
+
+- Código de Vivani
+
+- Panel de concepto
+
+- Excel
+
+- FileBrowser
+
+- Archivos
+
+- Flipgrid
+
+- Freehand by InVision
+
+- HeyTaco
+
+- Jira Cloud
+
+- Kahoot
+
+- Listas
+
+- Lucidchart
+
+- Lumio
+
+- MeisterTask
+
+- MindMeister
+
+- Mindomo
+
+- Miro
+
+- Monday.com
+
+- Mover el trabajo hacia adelante con Jira
+
+- MURAL
+
+- Nearpod
+
+- OneNote
+
+- PDF
+
+- Pear Deck
+
+- PowerPoint
+
+- Priority Matrix
+
+- Quicklinks
+
+- Quizlet
+
+- Saved
+
+- Scrum-Poker
+
+- Buscar
+
+- SharePoint
+
+- Páginas de SharePoint
+
+- Slido
+
+- Smartsheet
+
+- SurveyMonkey
+
+- Tareas en un cuadro
+
+- Teams Manager
+
+- TeamViewer
+
+- Trabajo en equipo
+
+- Testportal
+
+- TrackingTime
+
+- Trello
+
+- Vevox
+
+- Visio
+
+- VSTS
+
+- Wakelet
+
+- Web
+
+- Wooclap
+
+- Word
+
+- YouTube
+
+- Zendesk
+
+- Zoho Projects
+
+## Artículos relacionados
+
+- 
+ Límites para canales compartidos
+
+- 
+ Información general sobre la conexión directa B2B
+
+- 
+ Configurar las opciones de acceso entre inquilinos para la conexión directa B2B
+
+- 
+ Información general de los equipos y canales en Microsoft Teams
+
+- 
+ Canales privados en Microsoft Teams
+
+- 
+ Canales compartidos en Microsoft Teams: Microsoft Mechanics
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-02-09

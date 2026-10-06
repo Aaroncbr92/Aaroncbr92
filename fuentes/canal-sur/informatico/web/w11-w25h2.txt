@@ -1,0 +1,249 @@
+URL: https://learn.microsoft.com/es-es/windows/whats-new/whats-new-windows-11-version-25h2
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Novedades de Windows 11, versión 25H2
+
+- Se aplica a: ✅ Windows 11, version 25H2
+
+## 
+
+Windows 11, la versión 25H2 es una actualización de características para Windows 11. Incluye todas las características y correcciones de las actualizaciones acumulativas anteriores para Windows 11, versión 24H2. En este artículo se enumeran las características nuevas y actualizadas que deben conocer los profesionales de TI.
+
+¿Buscas información para consumidores? Consulte Actualización de Windows 11 de 2025.
+
+Windows 11, la versión 25H2 sigue la escala de tiempo de mantenimiento de Windows 11:
+
+- 
+ Windows 11 Pro: atendida durante 24 meses a partir de la fecha de lanzamiento.
+
+- 
+ Windows 11 Empresas: atendida durante 36 meses a partir de la fecha de lanzamiento.
+
+Los dispositivos que se actualizan desde Windows 11, versión 24H2, usan un paquete de habilitación. La mayoría de los archivos de la actualización 25H2 ya existen en dispositivos Windows 11, versión 24H2, que tienen instalada una actualización de seguridad mensual reciente. Muchas de las nuevas características ya están habilitadas en los clientes de Windows 11, versión 24H2. Sin embargo, algunas características están en un estado inactivo y latente porque están bajo un control temporal de características empresariales. Estas nuevas características permanecen inactivas hasta que se activan a través del paquete de habilitación, un pequeño conmutador rápido de instalación que activa todas las características de Windows 11, versión 25H2. Los dispositivos Windows 10 se pueden actualizar a Windows 11, versión 25H2, con los mismos procesos, directivas y soluciones de administración conocidos que usó para implementar originalmente Windows 10.
+
+Windows 11, versión 25H2, está disponible a través de Windows Server Update Services (incluidos Configuration Manager), directivas de cliente de Windows Update y el Centro de administración de Microsoft 365. Para obtener más información, vea Cómo obtener la actualización de Windows 11 de 2025. Revise la Entrada de blog Windows IT Pro sobre Windows 11, versión 25H2 para descubrir información sobre los recursos de implementación disponibles, como Windows Assessment and Deployment Kit (Windows ADK).
+
+[Importante] Windows 11, versión 25H2 a través Windows Server Update Services (incluido Configuration Manager) estará disponible a partir del 14 de octubre de 2025. Si administra las actualizaciones a través de Windows Server Update Services (WSUS) o Configuration Manager, no verá la actualización hasta esa fecha.
+
+Para obtener más información sobre el estado del lanzamiento de actualizaciones, los problemas conocidos y la nueva información, consulta Estado de la versión de Windows.
+
+## Las características ya no están bajo control de empresa temporal
+
+ El control temporal de características empresariales desactiva temporalmente determinadas características que se introdujeron durante las actualizaciones acumulativas mensuales de los dispositivos Windows 11 administrados. Para el control de empresa temporal, un sistema se considera administrado si está configurado para obtener actualizaciones de directivas de cliente de Windows Update o Windows Server Update Services (WSUS). Los clientes que obtienen actualizaciones de Microsoft Configuration Manager y Microsoft Intune se consideran administrados, ya que sus actualizaciones proceden en última instancia de WSUS o Windows Update para empresas.
+
+Para obtener una lista de las características que estaban bajo control de empresaria temporal entre Windows 11, versión 22H2 y Windows 11, versión 24H2, consulte Características de Windows 11 detrás del control de características empresariales temporales. Las siguientes características están bajo control empresarial temporal entre Windows 11, versión 24H2 y Windows 11, versión 25H2:
+
+ | Característica
+
+ | Artículo de KB en el que se presentó la característica
+
+ | Notas
+
+ | Agente en Configuración 
+
+ | 
+ 22 de julio de 2025: KB5062660
+
+ | Esta característica tiene un control permanente. Para obtener más información, vea Configurar el agente en Configuración de Windows.
+
+ | Búsqueda de Windows mejorada 
+
+ | 
+ 25 de abril de 2025: KB5055627
+
+ | La búsqueda de Windows mejorada sigue respetando las directivas de búsqueda existentes. El control empresarial temporal finaliza cuando se instala la actualización de características para Windows 11, versión 25H2. Sin embargo, es posible que la búsqueda de Windows mejorada no esté disponible inmediatamente, ya que se está implementando para los usuarios comerciales mediante un lanzamiento controlado de características (CFR).
+
+ | Hacer clic para hacer 
+
+ | 
+ 25 de abril de 2025: KB5055627
+
+ | Esta característica tiene un control permanente. Para obtener más información, vea Administrar hacer clic para hacer.
+
+ | Acciones de IA en el Explorador de archivos
+
+ | 
+ 24 de septiembre de 2025: KB5065789
+
+ | 
+
+## Características exclusivas de Copilot+ PCs en 25H2
+
+Los Copilot+ PCs son una nueva clase de PCs con IA de Windows 11 que funcionan con una unidad de procesamiento neuronal (NPU) que puede realizar más de 40 billones de operaciones por segundo (TOPS). Las siguientes características se publicaron en las actualizaciones continuas de innovación del año pasado y son exclusivas de Copilot+ PCs:
+
+- 
+
+ Hacer clic para Hacer ayuda a los usuarios a hacer las cosas más rápido mediante la identificación de texto e imágenes que están actualmente en su pantalla para que puedan realizar acciones en ellos. Para obtener más información, vea Administrar hacer clic para hacer.
+
+- 
+
+ Recuerdos (versión preliminar) permite a los usuarios buscar instantáneas guardadas y analizadas localmente de su pantalla mediante lenguaje natural. De manera predeterminada, Recuerdos está deshabilitado y eliminado en los dispositivos administrados. Para obtener más información, vea Administrar Recuerdos.
+
+- 
+La Búsqueda de Windows mejorada para Copilot+ PCs realiza la indexación semántica junto con la indexación tradicional. La indexación semántica hace que las búsquedas sean más eficaces, ya que los elementos cercanos y relacionados con los términos de búsqueda también se incluirían en los resultados de la búsqueda. La búsqueda de Windows mejorada sigue respetando las directivas de búsqueda existentes.
+
+- 
+El Agente en Configuración para Copilot+ PCs usa la IA en el dispositivo para ayudar al usuario a buscar y cambiar la configuración en su PC. También puede ayudarle a solucionar problemas proporcionando recomendaciones y automatizando las tareas en función de la entrada.
+
+Nota
+
+Las siguientes características son exclusivas de los Copilot+ PCs a partir de Windows 11, versión 24H2:
+
+- Los Subtítulos en directo le permiten traducir contenido de audio y vídeo a subtítulos en inglés desde 44 idiomas.
+
+- 
+ Efectos de Windows Studio es el nombre colectivo de las llamadas de vídeo y los efectos de audio con tecnología de IA que están disponibles en Copilot+ PCs y dispositivos Windows 11 seleccionados con NPU compatibles. Efectos de Windows Studio mejora automáticamente la iluminación y cancela los ruidos durante las videollamadas.
+
+- 
+ Cocreador en Paint permite crear ilustraciones increíbles con la ayuda de la IA. Escriba una solicitud de texto, empiece a dibujar en Paint y Cocreador generará ilustraciones basadas en lo que está dibujando.
+
+- 
+ Auto Super Resolution (Auto SR) es la primera solución de super resolución con tecnología de IA integrada en un sistema operativo, lo que hace que los juegos se ejecuten automáticamente de manera más fluida con detalles de mayor resolución.
+
+- 
+ Fotos de Microsoft Restyle Image and Image Creator le permite reinventar sus fotos o crear nuevas imágenes con la ayuda de IA.
+
+## Características agregadas a Windows 11 desde la versión 24H2
+
+Se introdujeron nuevas características y mejoras en Windows 11, versión 24H2, periódicamente para proporcionar innovación continua para Windows 11. Estas características y mejoras usan los canales de mantenimiento de actualizaciones normales con los que ya está familiarizado. Al principio, las nuevas características se introducen con una versión preliminar opcional que no es de seguridad y se implementan gradualmente en los clientes. Estas nuevas características se publican más adelante como parte de una versión de actualización de seguridad mensual. Para obtener más información sobre la innovación continua, consulte Ciclo de actualizaciones para clientes Windows.
+
+Algunas de las características que se publicaron en las actualizaciones continuas de innovación del año pasado y que se llevaron a cabo en la actualización de características de 25H2 incluyen:
+
+### Eliminación basada en directivas de aplicaciones preinstaladas de Microsoft Store
+
+Los administradores de TI ahora tienen una manera sencilla de quitar aplicaciones preinstaladas de Microsoft Store (aplicaciones de bandeja de entrada) de las ediciones Enterprise y Education de Windows 11, versión 25H2 y posteriores. Esta directiva puede simplificar el aprovisionamiento de dispositivos e impedir que vuelvan a aparecer aplicaciones eliminadas, como Microsoft Clipchamp, Media Player y Microsoft Teams. Para obtener más información, vea Eliminación basada en directivas de aplicaciones preinstaladas de Microsoft Store y RemoveDefaultMicrosoftStorePackages en el CSP de directiva de ApplicationManagement.
+
+### Compatibilidad con puntos de acceso Wi-Fi 7 para entornos empresariales
+
+Windows 11, versión 25H2, es compatible con puntos de acceso Wi-Fi 7 para entornos empresariales, lo que representa un avance significativo en las capacidades de red inalámbrica para las organizaciones modernas. Wi-Fi 7 permite aumentar las velocidades, aumentar el rendimiento, mejorar la confiabilidad y mejorar la seguridad de su organización. Para empezar, las organizaciones necesitan:
+
+- Dispositivos que ejecutan Windows 11, versión 25H2 o Windows 11 versión 24H2 con KB5065789 (o una actualización posterior instalada)
+
+- Portátiles empresariales compatibles con Wi-Fi 7
+
+- Controladores certificados para Wi-Fi 7
+
+- Puntos de acceso Wi-Fi 7 de nivel empresarial
+
+Con estos componentes en su lugar, los equipos de TI pueden ofrecer conectividad inalámbrica segura y de alto rendimiento que satisfaga las demandas de los recursos móviles de hoy en día. Para obtener más información, consulte https://aka.ms/WiFi7forEnterprise. 
+
+### Copias de seguridad de Windows para organizaciones
+
+ Copias de seguridad de Windows para organizaciones está disponible con carácter general. Los usuarios experimentan transiciones de dispositivos sin problemas con la copia de seguridad y restauración de la configuración de usuario y las aplicaciones de Microsoft Store. Copias de seguridad de Windows para organizaciones ayuda a mantener la productividad con una interrupción mínima, lo que garantiza la continuidad empresarial al actualizar dispositivos, actualizar a Windows 11 o implementar equipos con tecnología de IA. Esta característica está disponible para varias versiones de Windows 11. También está disponible para Windows 10, versión 22H2, cuando la copia de seguridad se restaura a una versión compatible de Windows 11. Para obtener más información, consulte Preguntas más frecuentes sobre Copias de seguridad de Windows para organizaciones. 
+
+## Recuperación rápida de equipo
+
+La recuperación rápida de equipo permite la recuperación de dispositivos Windows cuando se producen errores críticos que impiden el arranque. La recuperación rápida de equipo busca automáticamente correcciones en la nube y recuperar dispositivos de errores de arranque generalizados, lo que reduce significativamente la carga para los administradores de TI cuando varios dispositivos se ven afectados. Para obtener más información sobre cómo habilitar y configurar la recuperación rápida de equipo, consulte Recuperación rápida de equipo. 
+
+### Mejoras en el anclaje de la barra de tareas
+
+Los administradores de TI ya no necesitan reiniciar explorer.exe para aplicar la directiva de anclaje. Después de aplicar la directiva, es posible que los usuarios vean un pin en su barra de tareas en un plazo aproximado de 8 horas, en función del intervalo de actualización. Los administradores pueden configurar directivas de barra de tareas para que los usuarios puedan desanclar aplicaciones específicas, asegurándose de que no se vuelvan a asignar durante la siguiente actualización de la directiva. Para activar esta característica, use la nueva opción PinGeneration. La opción PinGeneration está disponible para dispositivos Windows 11, versión 23H2 o posterior.
+
+### Configuración de ahorro de energía
+
+Los administradores de TI pueden administrar la configuración del ahorro de energía en equipos con Windows 11 a través de directivas de grupo y configuraciones de MDM mediante Microsoft Intune. Esta característica ayuda a ampliar la duración de la batería al limitar la actividad en segundo plano, atenuar la pantalla y contribuir a la sostenibilidad medioambiental. Para obtener más información sobre esta directiva, vea EnableEnergySaver en el CSP de Power Policy. 
+
+### Mejoras en el Explorador de archivos
+
+ Acciones de IA en el Explorador de archivos: haga clic derecho o pulse Mayús+F10 sobre un archivo y seleccione Acciones de IA para editar imágenes o resumir documentos. Si el archivo es una imagen (`.jpg`, `.jpeg` o `.png`), las opciones de IA, como Desenfoque del fondo, Borrar objetos y Quitar fondo, se muestran en el menú contextual. Las Acciones de IA en Microsoft 365 facilitan el trabajo con los documentos. Con la acción Resumir en Copilot, puede generar rápidamente resúmenes de archivos almacenados en OneDrive y SharePoint sin necesidad de abrir archivos. La acción de IA de Microsoft 365 requiere una suscripción activa de Microsoft 365 y una licencia de Copilot (cuenta de Microsoft o Microsoft Entra ID). 
+
+Otras mejoras en el Explorador de archivos incluyen:
+
+- Al hacer clic con el botón derecho en los elementos del panel izquierdo, aparece el comando Nueva carpeta en el menú contextual
+
+- Cuando Restaurar ventanas de carpetas anteriores al iniciar sesión está habilitada en Opciones en el Explorador de archivos, Windows restaura todas las pestañas abiertas anteriormente en cada ventana del Explorador de archivos.
+
+- Cuando se habilita Guardar automáticamente las aplicaciones reiniciables y reiniciarlas cuando vuelva a iniciar sesión, Windows activa la configuración del Explorador de archivos específica para usted. Vaya a Configuración>Cuentas>Opciones de inicio de sesión para activar esta característica.
+
+- Mejora del rendimiento al extraer archivos comprimidos. Esta mejora del rendimiento ayuda a copiar grandes cantidades de archivos de archivos comprimidos grandes en formato 7z o .rar.
+
+- Los separadores ahora dividen los iconos principales en el menú contextual del Explorador de archivos.
+
+- Cuando se inicia sesión con Microsoft Entra ID, el Explorador de archivos muestra iconos de personas en la columna Actividad y en la sección Recomendado en la parte superior de Inicio del Explorador de archivos.
+
+### Mejoras del Administrador de tareas
+
+Se han realizado las siguientes mejoras en el Administrador de tareas:
+
+- Las unidades de velocidad DDR cambian de MHz a MT/s.
+
+- El Administrador de tareas libera los identificadores de proceso más rápidamente cuando detiene un proceso.
+
+- Mejoras de rendimiento al cambiar el criterio de ordenación de los procesos en el Administrador de tareas
+
+- Cambiar el tamaño de la ventana del Administrador de tareas es más fácil al arrastrar la parte superior de la ventana.
+
+- Cuando el Administrador de tareas está abierto, se produce un error al expulsar dispositivos USB mediante la opción Quitar hardware de forma segura.
+
+- Mejoras de confiabilidad del Administrador de tareas
+
+- Mejoras de accesibilidad del Administrador de tareas para los siguientes elementos:
+
+- Foco del teclado
+
+- Navegación con la tecla TAB
+
+- Ajuste de escala de texto
+
+- Lectura de nombres de elementos por lectores de pantalla
+
+- Mapas térmicos de contraste alto
+
+- El Administrador de tareas ahora usará las métricas estándar para mostrar la carga de trabajo de la CPU de manera consistente en todas las páginas y alineándose con los estándares del sector y las herramientas de terceros. Si prefiere la vista anterior, puede habilitar una nueva columna opcional denominada Utilidad de CPU en la pestaña Detalles para mostrar el valor de uso de CPU anterior que se muestra en la página Procesos.
+
+### Mejoras en la experiencia del usuario final
+
+- 
+ Configuración>Privacidad y seguridad>Generación de texto e imagen muestra las aplicaciones que han usado recientemente modelos de IA generativa en el dispositivo proporcionados por Windows. Los usuarios también pueden elegir qué aplicaciones pueden usar las tecnologías de IA generativa.
+
+- Cuando una aplicación solicita acceso a la ubicación, la cámara, el micrófono u otras funcionalidades de dispositivo, Windows muestra un cuadro de diálogo del sistema rediseñado. Para enfatizar la petición de privacidad, la pantalla se atenúa ligeramente y el mensaje aparece en el centro de la pantalla.
+
+- Al iniciar sesión con una cuenta de Microsoft Entra ID, el Explorador de archivos muestra iconos de personas en la columna Actividad y en la sección Recomendado en la parte superior de Inicio del Explorador de archivos Inicio. Mantenga el mouse sobre el icono de una persona o selecciónelo para abrir su Tarjeta Personal Live de Microsoft 365, que muestra quién es y cómo está conectado al archivo.
+
+- La interfaz de Windows Hello se rediseñó para ofrecer una comunicación rápida y clara en varios flujos de autenticación.
+
+- La experiencia de credenciales de Seguridad de Windows para clave de paso ofrece una interfaz más intuitiva diseñada para admitir el inicio de sesión rápido y seguro y la conmutación fácil entre opciones de autenticación, como las claves de acceso o los dispositivos conectados.
+
+- Se añadió la página principal de Configuración que muestra algunas tarjetas existentes relevantes para PCs administrados por la empresa, como Configuración recomendada y Dispositivos Bluetooth, además de dos nuevas tarjetas específicas de empresa para información del dispositivo y preferencias de accesibilidad. Para los clientes comerciales que también usan su cuenta de Microsoft en su PC administrado, también habrá una nueva tarjeta de cuentas que indicará la presencia tanto de la cuenta profesional o educativa como de los tipos de cuenta de Microsoft.
+
+- La barra de tareas ahora cambia el tamaño de los iconos para ajustarlos a más aplicaciones cuando el espacio se agota, lo que hace que todo sea visible y fácil de acceder. Esta configuración predeterminada se puede cambiar en Configuración>Personalización>Barra de tareas>Comportamientos de barra de tareas>Mostrar botones de barra de tareas más pequeños.
+
+- 
+ Contenido destacado de Windows ahora incluye un icono Más información sobre esta imagen. Los cambios en el color y fondo del icono facilitan que el usuario identifique el Contenido destacado de Windows. 
+
+## Características eliminadas en Windows 11, versión 25H2
+
+Las siguientes características en desuso se quitan en Windows 11, versión 25H2:
+
+- 
+ PowerShell 2.0: PowerShell 2.0 ya no se incluye en Windows 11, versión 25H2. Para obtener más información, consulte Actualización a la última versión de PowerShell. 
+
+Nota
+
+La utilidad de línea de comandos de Instrumental de administración de Windows (WMIC) se desinstala cuando se instala la actualización de características para Windows 11, versión 25H2. Aunque WMIC se puede volver a instalar desde características opcionales o DISM, no se recomienda, ya que se quitará por completo en el futuro.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-11-26

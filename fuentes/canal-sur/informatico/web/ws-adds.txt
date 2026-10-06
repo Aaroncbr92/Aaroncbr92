@@ -1,0 +1,86 @@
+URL: https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Introducción a Active Directory Domain Services
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+Un directorio es una estructura jerárquica que almacena información sobre los objetos de una red. Un servicio de directorio, como Active Directory Domain Services (AD DS), proporciona los métodos para almacenar datos de directorio y poner dichos datos a disposición de los usuarios y administradores de la red. Por ejemplo, AD DS almacena información sobre las cuentas de usuario, como nombres, contraseñas, números de teléfono, etc. AD DS también proporciona una manera de que los usuarios autorizados de la misma red accedan a esta información.
+
+AD DS almacena información sobre los objetos de la red y facilita a los administradores y usuarios la búsqueda y uso de esta información. AD DS usa un almacén de datos estructurado como base para una organización lógica jerárquica de información de directorio.
+
+Este almacén de datos, también conocido como directorio, contiene información sobre los objetos de AD DS. Estos objetos suelen incluir recursos compartidos como servidores, volúmenes, impresoras y cuentas de usuario y equipo de red. Para obtener más información sobre el almacén de datos de AD DS, consulte Almacén de datos de directorio.
+
+La seguridad se integra con AD DS mediante la autenticación de inicio de sesión y el control de acceso a los objetos del directorio. Con un único nombre de usuario y contraseña de red, los administradores pueden administrar los datos de directorio y la organización en toda su red, y los usuarios de red autorizados pueden acceder a los recursos en cualquier parte de la red. La administración basada en directiva facilita la administración de incluso las redes más complejas. Para obtener más información sobre la seguridad de AD DS, consulte Procedimientos recomendados para proteger Active Directory.
+
+AD DS también incluye:
+
+- 
+Un conjunto de reglas, el esquema, que define las clases de objetos y atributos contenidos en el directorio, las restricciones y los límites en las instancias de estos objetos y el formato de sus nombres. Para obtener más información sobre el esquema, vea Esquema.
+
+- 
+Catálogo global que contiene información sobre todos los objetos del directorio. Los usuarios y administradores pueden usar el catálogo para buscar información de directorio independientemente del dominio de directorio que realmente contenga los datos. Para obtener más información sobre el catálogo global, consulte Catálogo global.
+
+- 
+Un mecanismo de consulta e índice para poder publicar los objetos y sus propiedades, y buscar por usuarios o aplicaciones de red. Para obtener más información sobre cómo consultar el directorio, vea Buscar en Active Directory Domain Services.
+
+- 
+Un servicio de replicación que distribuye los datos de directorio a través de una red. Todos los controladores de dominio de un dominio participan en la replicación y contienen una copia completa de toda la información de directorio del dominio. Cualquier cambio en los datos del directorio se replica en todos los controladores de dominio del dominio. Para obtener más información sobre la replicación de AD DS, consulte Conceptos de replicación de Active Directory.
+
+## Descripción de AD DS
+
+En esta sección se proporcionan vínculos a conceptos básicos de AD DS:
+
+- 
+ Tecnologías de estructura y almacenamiento de Active Directory
+
+- 
+ Roles de controlador de dominio
+
+- 
+ Esquema de Active Directory
+
+- 
+ Administración de confianzas
+
+- 
+ Tecnologías de replicación de Active Directory
+
+- 
+ Tecnologías de búsqueda y publicación de Active Directory
+
+- 
+ Configuración de directiva de grupo de DNS
+
+- 
+ Referencia técnica de esquema de Active Directory
+
+Para obtener una lista detallada de los conceptos de AD DS, consulte Understanding Active Directory.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

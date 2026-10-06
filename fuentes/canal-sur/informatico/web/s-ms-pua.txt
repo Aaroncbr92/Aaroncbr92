@@ -1,0 +1,250 @@
+URL: https://learn.microsoft.com/es-es/defender-endpoint/detect-block-potentially-unwanted-apps-microsoft-defender-antivirus
+Leído: 2026-10-05
+
+Bloquear aplicaciones potencialmente no deseadas con Antivirus de Microsoft Defender - Microsoft Defender for Endpoint | Microsoft Learn
+Ir al contenido principal
+Omisión de la experiencia de chat de Ask Learn
+Este explorador ya no se admite.
+Actualice a Microsoft Edge para aprovechar las características y actualizaciones de seguridad más recientes, y disponer de soporte técnico.
+Descargar Microsoft Edge
+Más información sobre Internet Explorer y Microsoft Edge
+Tabla de contenido
+Salir del modo de editor
+Preguntar a Learn
+Preguntar a Learn
+Modo de lectura
+Tabla de contenido
+Leer en inglés
+Agregar
+Añadir a Planes
+Copiar Markdown
+Imprimir
+Nota:
+El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+Detectar y bloquear aplicaciones potencialmente no deseadas
+Se aplica a: Microsoft Defender for Endpoint Plan 1, Microsoft Defender for Endpoint Plan 2, Microsoft Defender for Business, Microsoft Defender for Individuals, Microsoft Defender Antivirus
+Comentarios
+En este artículo
+Aprenda a detectar y bloquear aplicaciones potencialmente no deseadas (PUA) mediante Microsoft Defender Antivirus y Microsoft Edge. En este artículo se explica cómo habilitar la protección de PUA, configurarla en las herramientas de administración y revisar los eventos de detección de PUA.
+Acerca de las aplicaciones potencialmente no deseadas (PUA)
+Las aplicaciones potencialmente no deseadas (PUA) son una categoría de software que puede hacer que su equipo funcione lentamente, muestre anuncios inesperados o, en el peor de los casos, instale otro software que pueda ser inesperado o no deseado. PUA no se considera un virus, malware u otro tipo de amenaza, pero puede realizar acciones en puntos de conexión que afecten negativamente al rendimiento o al uso del punto de conexión. El término PUA también puede hacer referencia a una aplicación que tenga mala reputación, según la evaluación de Microsoft Defender para punto de conexión, debido a determinados tipos de comportamiento no deseado.
+Estos son algunos ejemplos:
+Software de publicidad, que muestra anuncios o promociones, incluido software que inserta anuncios en páginas web.
+Software agrupado que ofrece instalar otro software que no está firmado digitalmente por la misma entidad. Asimismo, software que ofrece instalar otro software que cumple los requisitos para ser considerado PUA.
+Software de evasión, que intenta evitar activamente que los productos de seguridad lo detecten, incluido software que se comporta de forma diferente en presencia de productos de seguridad.
+Sugerencia
+Para obtener más ejemplos y una explicación de los criterios que usamos para etiquetar aplicaciones para que las características de seguridad les presten especial atención, consulte Cómo identifica Microsoft el malware y las aplicaciones potencialmente no deseadas.
+Las aplicaciones potencialmente no deseadas pueden aumentar el riesgo de que la red se infecte con malware real, hacer que las infecciones de malware sean más difíciles de identificar o costarle a los equipos de TI y seguridad tiempo y esfuerzo para limpiarlas. Si la suscripción de su organización incluye Microsoft Defender para punto de conexión, también puede configurar la protección contra PUA de Microsoft Defender Antivirus en modo de bloqueo para bloquear las aplicaciones que se consideran PUA en dispositivos con Windows.
+Obtenga más información sobre las suscripciones de Windows Enterprise.
+Sugerencia
+Como complemento a este artículo, consulte nuestra guía de configuración de Microsoft Defender para punto de conexión para revisar los procedimientos recomendados y obtener información sobre herramientas esenciales, como la reducción de la superficie expuesta a ataques y la protección de próxima generación. Para obtener una experiencia personalizada basada en su entorno, puede acceder a la guía de configuración automatizada de Defender para punto de conexión en el Centro de administración de Microsoft 365.
+Requisitos previos
+Sistemas operativos admitidos
+Windows cliente:
+Windows 11
+Windows 10
+Windows 8.1
+Windows Server:
+Windows Server 2016 y versiones posteriores
+Windows Server, versión 1803 o posterior
+Windows Server 2012 R2 (requiere Microsoft Defender para punto de conexión)
+Otras plataformas:
+Sistema operativo Azure Stack HCI, versión 23H2 y versiones posteriores
+Para macOS, consulte Detectar y bloquear aplicaciones potencialmente no deseadas con Defender para punto de conexión en macOS.
+Para Linux, vea Detectar y bloquear aplicaciones potencialmente no deseadas con Defender para Endpoint en Linux.
+Configuración de la protección de PUA en Microsoft Edge
+El nuevo Microsoft Edge, basado Chromium, bloquea las descargas de aplicaciones potencialmente no deseadas y las direcciones URL de recursos asociados. Esta característica se ofrece a través de SmartScreen de Microsoft Defender.
+Habilitar la protección de PUA en Microsoft Edge basado en Chromium
+Si bien la protección de aplicaciones potencialmente no deseadas en Microsoft Edge (basada en Chromium, versión 80.0.361.50) está desactivada de manera predeterminada, se puede activar fácilmente desde el explorador.
+En el explorador Microsoft Edge, seleccione los puntos suspensivos y, a continuación, elija Configuración.
+Seleccione Privacidad, búsqueda y servicios.
+En la sección Seguridad, active Bloquear aplicaciones potencialmente no deseadas.
+Sugerencia
+Si usa Microsoft Edge (basado en Chromium), puede explorar con seguridad la función de bloqueo de direcciones URL de la protección contra PUA probándola en una de nuestras páginas de demostración de SmartScreen de Microsoft Defender.
+Bloquear direcciones URL con SmartScreen de Microsoft Defender
+En Microsoft Edge basado en Chromium, con la protección contra PUA activada, SmartScreen de Microsoft Defender te protege frente a direcciones URL asociadas a aplicaciones potencialmente no deseadas (PUA).
+Los administradores de seguridad pueden configurar Microsoft Edge para controlar cómo funcionan conjuntamente Microsoft Edge y SmartScreen de Microsoft Defender para proteger grupos de usuarios de direcciones URL asociadas a PUA. Hay varias configuraciones de directiva de grupo de SmartScreen de Microsoft Defender disponibles, incluida la directiva SmartScreenPuaEnabled. Además, los administradores pueden configurar SmartScreen de Microsoft Defender de forma global, mediante la configuración de directiva de grupo para activar o desactivar SmartScreen de Microsoft Defender.
+Aunque Microsoft Defender para punto de conexión tiene su propia lista de bloqueo basada en un conjunto de datos administrado por Microsoft, puede personalizar esta lista según su propia inteligencia sobre amenazas. Si crea y administra indicadores en el portal de Microsoft Defender para punto de conexión, SmartScreen de Microsoft Defender respeta la nueva configuración.
+Antivirus de Microsoft Defender y protección contra PUA
+La característica de protección contra aplicaciones potencialmente no deseadas (PUA) de Antivirus de Microsoft Defender puede detectar y bloquear PUA en los puntos de conexión de su red.
+Antivirus de Microsoft Defender bloquea los archivos PUA que se detecten y cualquier intento de descargarlos, moverlos, ejecutarlos o instalarlos. A continuación, los archivos PUA bloqueados se ponen en cuarentena. Cuando se detecta un archivo PUA en un punto de conexión, Microsoft Defender Antivirus envía una notificación al usuario (a menos que las notificaciones estén deshabilitadas) en el mismo formato que otras detecciones de amenazas. A la notificación se antepone PUA: para indicar su contenido.
+La notificación aparece en la lista habitual de cuarentena dentro de la aplicación de Seguridad de Windows.
+Configurar la protección contra PUA en Antivirus de Microsoft Defender
+Puede habilitar la protección de PUA con la Administración de configuración de seguridad de Microsoft Defender para punto de conexión, Microsoft Intune, Microsoft Configuration Manager, Directiva de grupo o a través de los cmdlets de PowerShell de Microsoft Defender Antivirus.
+Primero, intente usar la protección contra PUA en modo de auditoría. Detecta aplicaciones potencialmente no deseadas sin bloquearlas realmente. Las detecciones se capturan en el registro de eventos de Windows. La protección contra aplicaciones potencialmente no deseadas (PUA) en modo de auditoría es útil si su empresa está llevando a cabo una comprobación interna del cumplimiento de las normas de seguridad del software y es importante evitar falsos positivos.
+Los escenarios y la configuración predeterminada para la protección de PUA dependen de si los dispositivos se incorporan a Defender para punto de conexión o Microsoft Defender para Empresas.
+Microsoft Defender Antivirus sin dispositivos integrados en Defender for Endpoint
+En la tabla siguiente se muestra la configuración predeterminada de protección contra PUA para dispositivos que no están integrados en Microsoft Defender for Endpoint:
+Escenarios
+Versión de actualización de inteligencia de seguridad
+Configuración predeterminada de protección contra PUA
+Windows 10 o posterior
+Windows Server 2016 o posterior
+anterior a 1.329.495.0
+Desactivado (0)
+Windows 10 o posterior
+Windows Server 2016 o posterior
+1.329.495.0 o posterior
+Modo de auditoría (2)
+Microsoft Defender Antivirus con dispositivos incorporados en Defender for Endpoint Plan 1/Plan 2 o Defender para Empresas
+En la tabla siguiente se muestra la configuración de protección de PUA predeterminada para los dispositivos incorporados a Defender para el plan de punto de conexión 1, plan 2 o Defender para Empresas:
+Escenarios
+Versión de actualización de inteligencia de seguridad
+Control de aplicaciones inteligentes
+Configuración predeterminada de protección contra PUA
+Windows 10, versión 2004 o posterior
+Windows Server 2012 R2 y Windows Server 2016 con la solución unificada moderna para Windows Server 2016 y 2012 R2
+Windows Server 2019 o posterior
+Anterior a 1.329.495.0
+Característica no disponible
+Modo de auditoría (2)
+Windows 11, versión 22H2 o posterior
+1.329.495.0 o posterior
+Disponible
+Modo de auditoría (2)
+Windows 10, versión 2004 o posterior
+Windows Server 2012 R2 y Windows Server 2016 con la solución unificada moderna para Windows Server 2016 y 2012 R2
+Windows Server 2019 o posterior
+1.329.495.0 o posterior
+Característica no disponible
+Modo de bloque (1)
+Sugerencia
+Para habilitar la protección contra PUA en modo de bloqueo, utilice uno de los siguientes métodos de administración:
+Administración de la configuración de seguridad de Defender for Endpoint
+Intune
+Administrador de configuración
+Directiva de grupo
+PowerShell
+Utilice Microsoft Defender para la administración de la configuración de seguridad de Endpoint para configurar la protección contra PUA
+Para obtener más información sobre cómo usar la administración de la configuración de seguridad de Microsoft Defender para punto de conexión para configurar la protección frente a aplicaciones potencialmente no deseadas (PUA), consulte Usar la administración de la configuración de seguridad de Microsoft Defender para punto de conexión para administrar Microsoft Defender Antivirus
+Usar Intune para configurar la protección contra PUA
+Microsoft Intune es la herramienta recomendada para configurar y distribuir las funcionalidades de Defender for Endpoint en los dispositivos. Sin embargo, Intune es un producto independiente que no forma parte de Defender para punto de conexión y no se incluye en todas las suscripciones. Para usar Intune, necesita una suscripción que la incluya o puede comprarla por separado como una suscripción independiente o un complemento. Si no tiene Intune, puede usar cualquiera de los otros métodos de este artículo. Para obtener más información, consulte Licencias de Microsoft Intune.
+Para obtener información sobre cómo configurar la protección de PUA a través de las opciones de restricción de dispositivos de Intune, consulte los siguientes artículos:
+Configurar restricciones de dispositivos en Microsoft Intune
+Configuración de restricciones de dispositivos de Microsoft Defender Antivirus para Windows 10 en Intune
+Usar Administrador de configuración para configurar la protección contra PUA
+La protección PUA está habilitada de forma predeterminada en Microsoft Configuration Manager (rama actual).
+Consulte Creación e implementación de directivas antimalware: Configuración de exámenes programados para obtener más información sobre cómo configurar Microsoft Configuration Manager (rama actual).
+Para System Center 2012 Administrador de configuración, consulte Cómo implementar una directiva de protección de aplicaciones potencialmente no deseadas para Endpoint Protection en Administrador de configuración.
+Nota:
+Los eventos PUA bloqueados por Microsoft Defender Antivirus se notifican en el Visor de eventos de Windows y no en Microsoft Configuration Manager.
+Utilice la directiva de grupo para configurar la protección contra PUA
+Realice los pasos siguientes para configurar la protección de PUA mediante la directiva de grupo:
+Nota:
+Si la opción Configurar la detección de aplicaciones potencialmente no deseadas no está disponible en GPMC, actualiza los archivos de Plantillas administrativas en el almacén central. La configuración está incluida en las Plantillas Administrativas de Windows 10, versión 1809 y posteriores. Para enlaces e instrucciones de descarga, consulte Crear y gestionar la Tienda Central para Plantillas Administrativas de Políticas de Grupo en Windows.
+En la directiva de grupo centralizada, abra la Consola de administración de directivas de grupo (GPMC) en el equipo de administración de directivas de grupo.
+En el árbol de consola de GPMC, expanda objetos de directiva de grupo en el bosque y el dominio que contienen el GPO que desea editar.
+Haga clic con el botón derecho en el GPO y seleccione Editar.
+En el Editor de administración de directivas de grupo, vaya a Configuración del equipo>Plantillas administrativas>Componentes de Windows>Microsoft Defender Antivirus.
+Nota:
+Las rutas de la directiva de grupo anteriores a Windows 10, versión 2004 (mayo de 2020) pueden utilizar Windows Defender Antivirus en lugar de Microsoft Defender Antivirus. Ambos nombres hacen referencia a la misma ubicación de la directiva.
+En el panel de detalles de Microsoft Defender Antivirus, abre la configuración de detección de aplicaciones potencialmente no deseadas. Para abrir la configuración, use cualquiera de los métodos siguientes:
+Haga doble clic en la configuración.
+Haga clic con el botón derecho en la configuración y seleccione Editar.
+Seleccione la configuración y, a continuación, seleccione Editar acción>.
+En la ventana de configuración que se abre, configure las siguientes opciones:
+Seleccione Habilitado.
+Sección de opciones : Selecciona uno de los siguientes valores:
+Bloquear: Bloquear aplicaciones potencialmente no deseadas.
+Modo Auditoría: Prueba cómo funciona la configuración en tu entorno.
+Cuando haya terminado, seleccione Aceptar.
+Sugerencia
+También puede configurar directiva de grupo localmente en dispositivos individuales mediante el Editor de directiva de grupo local (gpedit.msc). Ve a la misma ruta: Configuración del equipo>Plantillas administrativas>Componentes de Windows>Microsoft Defender Antivirus.
+Usar cmdlets de PowerShell para configurar la protección contra PUA
+Use los siguientes cmdlets de PowerShell para habilitar, auditar, deshabilitar o consultar la protección de PUA en Microsoft Defender Antivirus.
+Para habilitar la protección contra PUA
+Habilite la protección de PUA en Microsoft Defender Antivirus para bloquear aplicaciones potencialmente no deseadas en el dispositivo:
+Set-MpPreference -PUAProtection Enabled
+Al establecer el valor de este cmdlet en Enabled, se activa la protección contra PUA en Microsoft Defender Antivirus si está desactivada.
+Para configurar la protección contra PUA en modo de auditoría
+Use el modo de auditoría para registrar las detecciones de PUA sin bloquear las aplicaciones, para que pueda evaluar el impacto antes de aplicar la medida:
+Set-MpPreference -PUAProtection AuditMode
+Al establecer AuditMode se detectan las PUA sin bloquearlas.
+Para deshabilitar la protección contra PUA
+Se recomienda mantener activada la protección contra PUA. Sin embargo, puede deshabilitar la protección de PUA en Microsoft Defender Antivirus para solucionar problemas o revertir directivas mediante el siguiente cmdlet:
+Set-MpPreference -PUAProtection Disabled
+Establecer el valor de este cmdlet en Disabled desactiva la protección contra PUA en Microsoft Defender Antivirus, si estaba habilitada.
+Para consultar el estado de PUA
+Para confirmar la configuración actual de protección de PUA en el dispositivo, consulte las preferencias del antivirus de Microsoft Defender:
+Get-MpPreference | Format-Table PUAProtection
+Valor
+Descripción
+0
+Protección PUA desactivada (el valor predeterminado). Microsoft Defender Antivirus no protegerá contra aplicaciones potencialmente no deseadas.
+1
+Protección contra PUA activada. Los elementos detectados están bloqueados. Se mostrarán en el historial junto con otras amenazas.
+2
+Modo de auditoría. Microsoft Defender Antivirus detecta aplicaciones potencialmente no deseadas, pero no realiza ninguna acción. Puede revisar la información sobre las aplicaciones contra las que Microsoft Defender Antivirus habría tomado medidas buscando eventos creados por Microsoft Defender Antivirus en el Visor de eventos, pero no en el portal de Microsoft Defender.
+Para obtener más información sobre cómo administrar Microsoft Defender Antivirus con PowerShell, consulte Uso de cmdlets de PowerShell para configurar y ejecutar Microsoft Defender Antivirus y cmdlets de Defender Antivirus.
+Comprueba que el bloqueo de PUA funciona correctamente
+Una vez que haya habilitado PUA en modo de bloqueo, puede hacer una prueba para asegurarse de que funciona correctamente. Para obtener más información, vea Demostración de aplicaciones potencialmente no deseadas (PUA).
+Ver eventos de PUA con PowerShell
+Los eventos PUA se notifican en el Visor de eventos de Windows, pero no en Microsoft Configuration Manager ni en Intune. Asimismo, puede usar el cmdlet Get-MpThreat para ver las amenazas que Antivirus de Microsoft Defender ha administrado. La siguiente salida de ejemplo muestra los detalles devueltos para un elemento PUA detectado, incluido su estado de ejecución, nivel de gravedad y el nombre de la amenaza:
+CategoryID : 27
+DidThreatExecute : False
+IsActive : False
+Resources : {webfile:_q:\Builds\Dalton_Download_Manager_3223905758.exe|http://d18yzm5yb8map8.cloudfront.net/
+fo4yue@kxqdw/Dalton_Download_Manager.exe|pid:14196,ProcessStart:132378130057195714}
+RollupStatus : 33
+SchemaVersion : 1.0.0.0
+SeverityID : 1
+ThreatID : 213927
+ThreatName : PUA:Win32/InstallCore
+TypeID : 0
+PSComputerName :
+Obtener notificaciones de correo electrónico sobre las detecciones de PUA
+Puede activar las notificaciones de correo electrónico para recibir un correo electrónico sobre las detecciones de PUA. Para obtener más información sobre los eventos de Microsoft Defender Antivirus, consulte Solucionar problemas de identificadores de evento. Los eventos de PUA se registran en el id. de evento 1160.
+Ver eventos de PUA mediante la búsqueda avanzada
+Si utilizas Microsoft Defender para punto de conexión, puedes utilizar una consulta de búsqueda avanzada para ver los eventos de PUA. La siguiente consulta busca acciones DeviceEvents en la tabla AntivirusDetection y filtra los resultados para mostrar detecciones relacionadas con PUA, además de detalles como el nombre del dispositivo, la ruta de acceso del archivo y el estado de corrección:
+DeviceEvents
+| where ActionType == "AntivirusDetection"
+| extend x = parse_json(AdditionalFields)
+| project Timestamp, DeviceName, FolderPath, FileName, SHA256, ThreatName = tostring(x.ThreatName), WasExecutingWhileDetected = tostring(x.WasExecutingWhileDetected), WasRemediated = tostring(x.WasRemediated)
+| where ThreatName startswith_cs 'PUA:'
+Para más información sobre la búsqueda avanzada de amenazas, consulte Buscar amenazas de forma proactiva con la búsqueda avanzada de amenazas.
+Excluir archivos de la protección contra PUA
+A veces, la protección contra PUA bloquea un archivo por error, o se requiere una característica de una PUA para completar una tarea. En estos casos, se puede agregar un archivo a una lista de exclusiones.
+Para más información, consulte Configurar y validar exclusiones según la extensión de archivo y la ubicación de carpeta.
+Vea también
+Protección de última generación
+Configurar la protección en tiempo real, heurística y de comportamiento
+Microsoft Defender para punto de conexión en Mac
+Microsoft Defender para punto de conexión en Linux
+Configurar las funciones de Defender for Endpoint en Android
+Configurar las funciones de Microsoft Defender para punto de conexión en iOS
+Comentarios
+¿Le ha resultado útil esta página?
+Sí
+No
+No
+¿Necesita ayuda con este tema?
+¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+Preguntar a Learn
+Preguntar a Learn
+¿Sugerir una corrección?
+Recursos adicionales
+Last updated on
+2026-09-15
+En este artículo
+¿Le ha resultado útil esta página?
+¿Necesita ayuda con este tema?
+¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+Preguntar a Learn
+Preguntar a Learn
+¿Sugerir una corrección?
+es-es
+Sus opciones de privacidad
+Tema
+Claro
+Oscuro
+Contraste alto
+Declinación de responsabilidades de IA
+Versiones anteriores
+Blog
+Contribuir
+Privacidad
+Privacidad de estado del consumidor
+Términos de uso
+Marcas comerciales
+© Microsoft 2026

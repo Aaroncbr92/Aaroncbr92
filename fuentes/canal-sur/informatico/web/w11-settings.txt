@@ -1,0 +1,249 @@
+URL: https://support.microsoft.com/es-es/windows/experience/exploring-windows-settings
+Leído: 2026-10-05
+
+# Explorar la configuración de Windows
+
+ Se aplica a
+Windows 11 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo exploro la configuración de Windows?
+
+ ¿Cómo verifico cuánto espacio en disco tengo?
+
+ ¿Cómo me desplazo en Configuración?
+
+Configuración es un eje central para administrar varios aspectos de tu PC. Ofrece una interfaz simple para personalizar y controlar su dispositivo Windows, lo que garantiza una experiencia más personalizada y eficiente.
+
+Tanto si está ajustando la configuración de pantalla, configurando conexiones de red o administrando opciones de privacidad, Configuración ofrece un conjunto completo de herramientas para satisfacer sus necesidades.
+
+Para abrir la Configuración, puede usar uno de los siguientes métodos:
+
+- 
+Haga clic con el botón derecho en Inicio y seleccione Configuración
+
+- 
+Usar el método abreviado de teclado 
+ +I
+
+- 
+Use el vínculo:
+
+ Configuración
+
+## Desplazándose por Configuración
+
+La configuración está diseñada para ayudarte a encontrar y administrar rápidamente tus preferencias de Windows. Cuenta con un panel de navegación, con categorías claramente etiquetadas. Cada categoría se representa con un icono y un nombre, como Sistema, Bluetooth & dispositivos y Privacidad & seguridad. 
+
+Puede explorar la Configuración de dos maneras: 
+
+- 
+ Usar la búsqueda: usa la barra de búsqueda para buscar la configuración escribiendo una palabra clave, como "`display`" o "`notifications`". En Copilot+ PC, la experiencia de búsqueda se ha mejorado con sugerencias con tecnología de IA que ayudan a exponer la configuración más relevante en función de su intención. En estos dispositivos, puede buscar describiendo un problema, como "`my mouse pointer is too small`" o "`how to control my PC using voice`".
+
+- 
+ Explorar por categoría: utilice el panel de navegación para seleccionar una categoría. Cada categoría abre una página dedicada con configuraciones agrupadas o tarjetas que proporcionan controles e información para características específicas de Windows. Algunas páginas también incluyen enlaces a subpáginas para opciones más detalladas.
+
+La combinación de las categorías de búsqueda y configuración garantiza que puedas encontrar y ajustar rápidamente la configuración que más te interesa. 
+
+## Búsqueda potenciada por IA
+
+En Configuración, puede usar el lenguaje natural para encontrar lo que necesita, tanto si está buscando una configuración específica como si está intentando resolver un problema. Esto es posible gracias a dos experiencias con tecnología de inteligencia artificial que aportan un nuevo nivel de comodidad al dispositivo: búsqueda y agente mejorados en Configuración. 
+
+### Búsqueda mejorada
+
+La búsqueda mejorada mejora la experiencia de búsqueda en Configuración al comprender el significado detrás de las palabras, en lugar de solo las palabras clave coincidentes. Puede describir lo que quiere hacer con sus propias palabras, como:
+
+- "`Change my theme`"
+
+- "`View storage usage`"
+
+ | 
+ Nota:Importante
+
+Esta característica está disponible en Copilot+ PC. Asegúrese de tener un Copilot+ PC para acceder a esta característica con tecnología de IA y disfrutar de sus ventajas.
+
+ | 
+
+### Agente en Configuración
+
+Un nuevo agente de IA en el dispositivo lleva la experiencia de búsqueda un paso más allá. Además de comprender su intención, el agente puede sugerir soluciones para problemas comunes. Con su permiso y por iniciación, incluso puede completar las acciones para cambiar la configuración en su nombre. 
+
+Por ejemplo, puedes decir: 
+
+- "`My mouse pointer is too small`"
+
+- "`How can I share internet with other devices`"
+
+ | 
+ Nota:Importante
+
+Esta característica está disponible en Copilot+ PC.
+
+ Requisitos de idioma y geografía
+
+Idioma: Chino (simplificado), inglés, francés, alemán, hindi, italiano, japonés, coreano, portugués y español.Geografía: Todos los países, excepto China
+
+ | 
+
+### Compromiso de Microsoft con la IA responsable y la privacidad
+
+Microsoft ha estado trabajando para avanzar en la inteligencia artificial de forma responsable desde 2017, cuando definimos por primera vez nuestros principios de inteligencia artificial y, posteriormente, pusimos en funcionamiento nuestro enfoque a través de nuestro Estándar de inteligencia artificial responsable. La privacidad y la seguridad son principios básicos a medida que desarrollamos e implementamos sistemas de inteligencia artificial. Trabajamos para ayudar a nuestros clientes a usar nuestros productos de inteligencia artificial de forma responsable, compartir nuestros aprendizajes y crear asociaciones basadas en la confianza. Para obtener más información sobre nuestros esfuerzos de IA responsable, los principios que nos guían y las herramientas y capacidades desarrolladas para garantizar una tecnología de IA responsable, consulte IA responsable.
+
+Para ayudarle a comprender mejor cómo funciona cada característica de IA, es importante tener en cuenta tanto sus capacidades como sus limitaciones. También debe estar informado sobre las opciones disponibles al usar una característica con tecnología de inteligencia artificial y la responsabilidad que conlleva esas opciones. 
+
+El agente usa un modelo de lenguaje ligero denominado Settings Mu, que se ajusta con los datos de configuración para ayudarle a encontrar y ajustar rápidamente la configuración del sistema. 
+
+- El modelo se ejecuta localmente en el dispositivo y analiza la consulta para combinarla con la configuración relevante ya disponible en la aplicación Configuración.
+
+- Si el modelo no puede clasificar con confianza la consulta en una configuración específica, verá los resultados de la búsqueda estándar en su lugar.
+
+- El agente solo sugiere configuraciones; No realiza ningún cambio automáticamente. Debe seleccionar el botón Aplicar para habilitar o deshabilitar una configuración. Si es necesario, puedes deshacer el cambio fácilmente.
+
+El modelo Mu de configuración se ha sometido a evaluaciones de equidad, así como a evaluaciones exhaustivas de IA responsable, seguridad y privacidad. Estos pasos garantizan que la tecnología sea eficaz, equitativa y esté alineada con los principios de IA responsable de Microsoft. 
+
+## Categorías de configuración
+
+Expande las siguientes secciones para obtener más información sobre cada categoría Configuración y descubrir cómo puedes sacar el máximo partido a tu dispositivo Windows.
+
+### Inicio
+
+ | 
+
+ | Cuando abre Configuración, Inicio suele ser la primera página que se muestra. La página principal muestra acciones relacionadas con la cuenta y simplifica el acceso a la configuración del dispositivo que se usa con frecuencia a través de tarjetas interactivas como Configuración recomendada, Personalización, Bluetooth, Almacenamiento y más.
+
+### Sistema
+
+ | 
+
+ | La página Sistema en Configuración proporciona una descripción general completa de las funcionalidades y configuraciones principales de su PC. Incluye opciones para administrar la configuración de pantalla, las notificaciones, la configuración de energía y suspensión, el almacenamiento, las características opcionales y mucho más.
+
+Puede utilizar el siguiente enlace para acceder a la página:
+
+ Sistema
+
+Para obtener más información: Configuración de pantalla en Windows. 
+
+### Dispositivos & Bluetooth
+
+ | 
+
+ | En la página Dispositivos & Bluetooth , puedes administrar los dispositivos conectados, como impresoras, escáneres y dispositivos Bluetooth. También incluye ajustes de ratón, teclado, lápiz y panel táctil.
+
+Puede utilizar el siguiente enlace para acceder a la página:
+
+ Dispositivos & Bluetooth
+
+Para obtener más información: Hardware en Windows.
+
+### Red e Internet
+
+ | 
+
+ | La página Red & Internet cubre la configuración relacionada con Wi-Fi, Ethernet, VPN, punto de acceso móvil y uso de datos. Use esta página para conectarse a redes, administrar conexiones y supervisar el consumo de datos.
+
+Puede utilizar el siguiente enlace para acceder a la página:
+
+ Red & Internet
+
+Para obtener más información: Configuración y tareas esenciales de red en Windows.
+
+### Personalización
+
+ | 
+
+ | Usa la página de personalización para personalizar la apariencia de tu PC, incluidos los temas, fondos, colores, pantalla de bloqueo, menú Inicio y configuración de la barra de tareas.
+
+Puede utilizar el siguiente enlace para acceder a la página:
+
+ Personalización
+
+Para obtener más información: Ayuda de personalización de Windows.
+
+### Aplicaciones
+
+ | 
+
+ | La página Aplicaciones le permite administrar todas las aplicaciones sin esfuerzo. Puede ver, instalar, desinstalar y actualizar aplicaciones, elegir aplicaciones predeterminadas, configurar aplicaciones y acciones de inicio, todo en un solo lugar.
+
+Puede utilizar el siguiente enlace para acceder a la página:
+
+ Aplicaciones
+
+Para obtener más información: Desinstala o quita aplicaciones y programas en Windows.
+
+### Cuentas
+
+ | 
+
+ | Desde la página Cuentas puedes administrar tu cuenta de Microsoft, tu cuenta profesional o educativa, la configuración familiar y las opciones de inicio de sesión. También incluye ajustes para el correo electrónico y las cuentas de aplicaciones.
+
+Puede utilizar el siguiente enlace para acceder a la página:
+
+ Cuentas
+
+Para obtener más información: Ayuda para cuentas en Windows.
+
+### Hora e idioma
+
+ | 
+
+ | Usa la página Hora & idioma para ajustar la configuración de fecha y hora, las preferencias de idioma y la configuración regional.
+
+Puede utilizar el siguiente enlace para acceder a la página:
+
+ Hora & idioma
+
+Para obtener más información: Establecer la configuración de hora, fecha y zona horaria en Windows.
+
+### Juegos
+
+ | 
+
+ | La página Juegos incluye la configuración de la barra de juegos, el modo de juego y el streaming de juegos.
+
+Puede utilizar el siguiente enlace para acceder a la página:
+
+ Juegos
+
+Para obtener más información: Características y sugerencias de juegos de Windows.
+
+### Accesibilidad
+
+ | 
+
+ | En la página Accesibilidad puedes cambiar las opciones de accesibilidad de Windows para facilitar el uso del PC, incluida la configuración de visión, audición e interacción.
+
+Puede utilizar el siguiente enlace para acceder a la página:
+
+ Accesibilidad
+
+Para obtener más información: Descubrir características de accesibilidad de Windows.
+
+### Seguridad y privacidad
+
+ | 
+
+ | La página Privacidad & seguridad abarca la configuración relacionada con la ubicación, la cámara, el micrófono y otras opciones de privacidad. Puedes controlar los permisos de las aplicaciones, administrar los datos de diagnóstico, configurar el cifrado y encontrar un dispositivo perdido o robado.
+
+Puede utilizar el siguiente enlace para acceder a la página:
+
+ Privacidad & seguridad
+
+Para obtener más información: Cambiar la configuración de privacidad en Windows.
+
+### Windows Update
+
+ | 
+
+ | Usa la página de Windows Update para configurar las actualizaciones de Windows, las horas activas y otras opciones de actualización. También puede inscribirse en el Programa Windows Insider para obtener versiones preliminares de Windows.
+
+Puede utilizar el siguiente enlace para acceder a la página:
+
+ Windows Update
+
+Para obtener más información: Instale las Novedades de Windows.
+
+## Otras opciones de configuración
+
+Aunque Configuración es la herramienta principal para configurar Windows, hay otras opciones disponibles. Para obtener más información sobre estas herramientas, consulta Herramientas de configuración del sistema en Windows.

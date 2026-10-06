@@ -1,0 +1,178 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/cipher
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# cipher
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Muestra o modifica el cifrado de directorios y archivos en volúmenes NTFS. Si se usa sin parámetros, cipher muestra el estado de cifrado del directorio actual y los archivos que contiene.
+
+## Syntax
+
+`cipher [/e | /d | /c] [/s:<directory>] [/b] [/h] [pathname [...]]
+cipher /k
+cipher /r:<filename> [/smartcard]
+cipher /u [/n]
+cipher /w:<directory>
+cipher /x[:efsfile] [filename]
+cipher /y
+cipher /adduser [/certhash:<hash> | /certfile:<filename>] [/s:directory] [/b] [/h] [pathname [...]]
+cipher /removeuser /certhash:<hash> [/s:<directory>] [/b] [/h] [<pathname> [...]]
+cipher /rekey [pathname [...]]
+`
+
+### Parameters
+
+ | Parameters
+
+ | Description
+
+ | /b
+
+ | Anula si se produce un error. De forma predeterminada, cipher continúa ejecutándose incluso si se encuentran errores.
+
+ | /c
+
+ | Muestra información sobre el archivo cifrado.
+
+ | /d
+
+ | Descifra los archivos o directorios especificados.
+
+ | /e
+
+ | Cifra los archivos o directorios especificados. Los directorios se marcan para que los archivos que se agreguen después se cifren.
+
+ | /h
+
+ | Muestra archivos con atributos ocultos o del sistema. De forma predeterminada, estos archivos no se cifran ni descifran.
+
+ | /k
+
+ | Crea un nuevo certificado y una clave para su uso con archivos del Sistema de archivos de cifrado (EFS). Si se especifica el parámetro /k , se omiten todos los demás parámetros.
+
+ | /r:`<filename>` [/tarjeta inteligente]
+
+ | Genera una clave y un certificado del agente de recuperación de EFS y, a continuación, los escribe en un archivo .pfx (que contiene el certificado y la clave privada) y en un archivo .cer (que solo contiene el certificado). Si se especifica /smartcard , escribe la clave de recuperación y el certificado en una tarjeta inteligente y no se genera ningún archivo .pfx.
+
+ | /s:`<directory>`
+
+ | Realiza la operación especificada en todos los subdirectorios del directorio especificado.
+
+ | /u [/n]
+
+ | Busca todos los archivos cifrados en las unidades locales. Si se usa con el parámetro /n , no se realizan actualizaciones. Si se usa sin /n, /u compara la clave de cifrado de archivos del usuario o la clave del agente de recuperación con las actuales, y las actualiza si han cambiado. Este parámetro solo funciona con /n.
+
+ | /w:`<directory>`
+
+ | Quita los datos del espacio en disco no utilizado disponible en todo el volumen. Si usa el parámetro /w , se omiten todos los demás parámetros. El directorio especificado se puede ubicar en cualquier lugar de un volumen local. Si es un punto de montaje o apunta a un directorio de otro volumen, se quitan los datos de ese volumen.
+
+ | /x[:efsarchivo] [`<FileName>`]
+
+ | Realiza una copia de seguridad del certificado y las claves de EFS en el nombre de archivo especificado. Si se usa con :efsfile, /x realiza una copia de seguridad de los certificados del usuario que se usaron para cifrar el archivo. De lo contrario, se realiza una copia de seguridad del certificado y las claves efS actuales del usuario.
+
+ | /y
+
+ | Muestra la miniatura del certificado EFS actual en el equipo local.
+
+ | /adduser [/certhash:`<hash>`
+
+ | /certfile:`<filename>`]
+
+ | /rekey
+
+ | Actualiza los archivos cifrados especificados para usar la clave EFS configurada actualmente.
+
+ | /removeuser /certhash:`<hash>`
+
+ | Quita un usuario de los archivos especificados. El hash proporcionado para /certhash debe ser el hash SHA1 del certificado que se va a quitar.
+
+ | /?
+
+ | Muestra ayuda en el símbolo del sistema.
+
+### Remarks
+
+- 
+Si el directorio primario no está cifrado, se podría descifrar un archivo cifrado cuando se modifica. Por lo tanto, al cifrar un archivo, también debe cifrar el directorio primario.
+
+- 
+Un administrador puede agregar el contenido de un archivo .cer a la directiva de recuperación de EFS para crear el agente de recuperación para los usuarios y, a continuación, importar el archivo .pfx para recuperar archivos individuales.
+
+- 
+Puede usar varios nombres de directorio y caracteres comodín.
+
+- 
+Debe colocar espacios entre varios parámetros.
+
+## Examples
+
+Para mostrar el estado de cifrado de cada uno de los archivos y subdirectorios en el directorio actual, escriba:
+
+`cipher
+`
+
+Los archivos y directorios cifrados están marcados con una E. Los archivos y directorios no cifrados están marcados con una U. Por ejemplo, el siguiente resultado indica que el directorio actual y todo su contenido no están cifrados actualmente:
+
+`Listing C:\Users\MainUser\Documents\
+New files added to this directory will not be encrypted.
+U Private
+U hello.doc
+U hello.txt
+`
+
+Para habilitar el cifrado en el directorio privado usado en el ejemplo anterior, escriba:
+
+`cipher /e private
+`
+
+Se muestra la salida siguiente:
+
+`Encrypting files in C:\Users\MainUser\Documents\
+Private [OK]
+1 file(s) [or directorie(s)] within 1 directorie(s) were encrypted.
+`
+
+El cipher comando muestra el siguiente resultado:
+
+`Listing C:\Users\MainUser\Documents\
+New files added to this directory will not be encrypted.
+E Private
+U hello.doc
+U hello.txt
+`
+
+Donde el directorio privado ahora está marcado como cifrado.
+
+### Related links
+
+- 
+ Clave de sintaxis de línea de comandos
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

@@ -1,0 +1,343 @@
+URL: https://www.gnu.org/software/tar/manual/html_node/gzip.html
+Leído: 2026-10-05
+
+
+
+gzip (GNU tar 1.35.90)
+
+Next: Archiving Sparse Files, Up: Using Less Space through Compression   [Contents][Index]
+
+8.1.1 Creating and Reading Compressed Archives
+
+GNU tar is able to create and read compressed archives. It supports
+a wide variety of compression programs, namely: gzip,
+bzip2, lzip, lzma, lzop,
+zstd, xz and traditional compress. The
+latter is supported mostly for backward compatibility, and we recommend
+against using it, because it is by far less effective than the other
+compression programs22.
+
+Creating a compressed archive is simple: you just specify a
+compression option along with the usual archive creation
+commands. Available compression options are summarized in the
+table below:
+
+ | Long
+ | Short
+ | Archive format
+
+ | --gzip
+ | -z
+ | gzip
+
+ | --bzip2
+ | -j
+ | bzip2
+
+ | --xz
+ | -J
+ | xz
+
+ | --lzip
+ | 
+ | lzip
+
+ | --lzma
+ | 
+ | lzma
+
+ | --lzop
+ | 
+ | lzop
+
+ | --zstd
+ | 
+ | zstd
+
+ | --compress
+ | -Z
+ | compress
+
+For example:
+
+$ tar czf archive.tar.gz .
+
+You can also let GNU tar select the compression program based on
+the suffix of the archive file name. This is done using
+--auto-compress (-a) command line option. For
+example, the following invocation will use bzip2 for
+compression:
+
+$ tar caf archive.tar.bz2 .
+
+whereas the following one will use lzma:
+
+$ tar caf archive.tar.lzma .
+
+For a complete list of file name suffixes recognized by GNU tar,
+see auto-compress.
+
+Reading compressed archive is even simpler: you don’t need to specify
+any additional options as GNU tar recognizes its format
+automatically. Thus, the following commands will list and extract the
+archive created in previous example:
+
+# List the compressed archive
+$ tar tf archive.tar.gz
+# Extract the compressed archive
+$ tar xf archive.tar.gz
+
+The format recognition algorithm is based on signatures, a
+special byte sequences in the beginning of file, that are specific for
+certain compression formats. If this approach fails, tar
+falls back to using archive name suffix to determine its format
+(see auto-compress, for a list of recognized suffixes).
+
+Some compression programs are able to handle different compression
+formats. GNU tar uses this, if the principal decompressor for the
+given format is not available. For example, if compress is
+not installed, tar will try to use gzip. As of
+version 1.35.90 the following alternatives are
+tried23:
+
+ | Format
+ | Main decompressor
+ | Alternatives
+
+ | compress
+ | compress
+ | gzip
+
+ | lzma
+ | lzma
+ | xz
+
+ | bzip2
+ | bzip2
+ | lbzip2
+
+The only case when you have to specify a decompression option while
+reading the archive is when reading from a pipe or from a tape drive
+that does not support random access. However, in this case GNU tar
+will indicate which option you should use. For example:
+
+$ cat archive.tar.gz | tar tf -
+tar: Archive is compressed. Use -z option
+tar: Error is not recoverable: exiting now
+
+If you see such diagnostics, just add the suggested option to the
+invocation of GNU tar:
+
+$ cat archive.tar.gz | tar tzf -
+
+Notice also, that there are several restrictions on operations on
+compressed archives. First of all, compressed archives cannot be
+modified, i.e., you cannot update (--update, alias -u)
+them or delete (--delete) members from them or
+add (--append, alias -r) members to them. Likewise, you
+cannot append another tar archive to a compressed archive using
+--concatenate (-A). Secondly, multi-volume
+archives cannot be compressed.
+
+The following options allow to select a particular compressor program:
+
+-z
+
+--gzip
+
+--ungzip
+
+Filter the archive through gzip.
+
+-J
+
+--xz
+
+Filter the archive through xz.
+
+-j
+
+--bzip2
+
+Filter the archive through bzip2.
+
+--lzip
+
+Filter the archive through lzip.
+
+--lzma
+
+Filter the archive through lzma.
+
+--lzop
+
+Filter the archive through lzop.
+
+--zstd
+
+Filter the archive through zstd.
+
+-Z
+
+--compress
+
+--uncompress
+
+Filter the archive through compress.
+
+When any of these options is given, GNU tar searches the compressor
+binary in the current path and invokes it. The name of the compressor
+program is specified at compilation time using a corresponding
+--with-compname option to configure, e.g.
+--with-bzip2 to select a specific bzip2 binary.
+See Using lbzip2 with GNU tar., for a detailed discussion.
+
+The output produced by tar --help shows the actual
+compressor names along with each of these options.
+
+You can use any of these options on physical devices (tape drives,
+etc.) and remote files as well as on normal files; data to or from
+such devices or remote files is reblocked by another copy of the
+tar program to enforce the specified (or default) record
+size. The default compression parameters are used.
+You can override them by using the -I option (see
+below), e.g.:
+
+$ tar -cf archive.tar.gz -I 'gzip -9 -n' subdir
+
+A more traditional way to do this is to use a pipe:
+
+$ tar cf - subdir | gzip -9 -n > archive.tar.gz
+
+Compressed archives are easily corrupted, because compressed files
+have little redundancy. The adaptive nature of the
+compression scheme means that the compression tables are implicitly
+spread all over the archive. If you lose a few blocks, the dynamic
+construction of the compression tables becomes unsynchronized, and there
+is little chance that you could recover later in the archive.
+
+Other compression options provide better control over creating
+compressed archives. These are:
+
+--auto-compress
+
+-a
+
+Select a compression program to use by the archive file name
+suffix. The following suffixes are recognized:
+
+ | Suffix
+ | Compression program
+
+ | ‘.gz’
+ | gzip
+
+ | ‘.tgz’
+ | gzip
+
+ | ‘.taz’
+ | gzip
+
+ | ‘.Z’
+ | compress
+
+ | ‘.taZ’
+ | compress
+
+ | ‘.bz2’
+ | bzip2
+
+ | ‘.tz2’
+ | bzip2
+
+ | ‘.tbz2’
+ | bzip2
+
+ | ‘.tbz’
+ | bzip2
+
+ | ‘.lz’
+ | lzip
+
+ | ‘.lzma’
+ | lzma
+
+ | ‘.tlz’
+ | lzma
+
+ | ‘.lzo’
+ | lzop
+
+ | ‘.xz’
+ | xz
+
+ | ‘.zst’
+ | zstd
+
+ | ‘.tzst’
+ | zstd
+
+--use-compress-program=command
+
+-I=command
+
+Use external compression program command. Use this option if you
+want to specify options for the compression program, or if you
+are not happy with the compression program associated with the suffix
+at compile time, or if you have a compression program that GNU tar
+does not support. The command argument is a valid command
+invocation, as you would type it at the command line prompt, with any
+additional options as needed. Enclose it in quotes if it contains
+white space (see Running External Commands).
+
+The command should follow two conventions:
+
+First, when invoked without additional options, it should read data
+from standard input, compress it and output it on standard output.
+
+Secondly, if invoked with the additional -d option, it should
+do exactly the opposite, i.e., read the compressed data from the
+standard input and produce uncompressed data on the standard output.
+
+The latter requirement means that you must not use the -d
+option as a part of the command itself.
+
+The --use-compress-program option, in particular, lets you
+implement your own filters, not necessarily dealing with
+compression/decompression. For example, suppose you wish to implement
+PGP encryption on top of compression, using gpg (see gpg —- encryption and signing tool in GNU Privacy Guard
+Manual). The following script does that:
+
+#! /bin/sh
+case $1 in
+-d) gpg --decrypt - | gzip -d -c;;
+'') gzip -c | gpg -s;;
+*) echo "Unknown option $1">&2; exit 1;;
+esac
+
+Suppose you name it gpgz and save it somewhere in your
+PATH. Then the following command will create a compressed
+archive signed with your private key:
+
+$ tar -cf foo.tar.gpgz -Igpgz .
+
+Likewise, the command below will list its contents:
+
+$ tar -tf foo.tar.gpgz -Igpgz .
+
+Using lbzip2 with GNU tar.
+
+Footnotes
+
+(22)
+
+It also had patent problems in the past.
+
+(23)
+
+To verbosely trace the decompressor selection, use the
+--warning=decompress-program option
+(see decompress-program).
+
+Next: Archiving Sparse Files, Up: Using Less Space through Compression   [Contents][Index]
+

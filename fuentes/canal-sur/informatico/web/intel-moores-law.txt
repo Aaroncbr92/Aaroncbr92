@@ -1,0 +1,198 @@
+URL: https://www.intel.com/content/www/us/en/newsroom/resources/moores-law.html
+Leído: 2026-10-05
+
+Moore’s Law
+Skip To Main Content
+Toggle Navigation
+Sign In
+My Intel
+My Tools
+?
+Sign Out
+English
+Select Your Language
+Bahasa Indonesia
+Deutsch
+English
+Español
+Français
+Português
+Tiếng Việt
+ไทย
+한국어
+日本語
+简体中文
+繁體中文
+Toggle Search
+Search
+Close Search Panel
+Advanced Search
+close
+Top Results
+-->
+Sign In
+to access restricted content
+Using Intel.com Search
+You can easily search the entire Intel.com site in several ways.
+Brand Name:
+Core i9
+Document Number:
+123456
+Code Name:
+Emerald Rapids
+Special Operators:
+“Ice Lake”, Ice AND Lake, Ice OR Lake, Ice*
+Quick Links
+You can also try the quick links below to see results for most popular searches.
+Product Information
+Support
+Drivers & Software
+Recent Searches
+Sign In
+to access restricted content
+Advanced Search
+All of these terms
+Any of these terms
+Exact term only
+Find results with
+All Results
+Product Information
+Support
+Drivers & Software
+Documentation & Resources
+Solutions
+-->
+Partners
+Communities
+Corporate
+Show results from
+Only search in
+Title
+Description
+Content ID
+Search
+Sign in
+to access
+restricted content.
+The browser version you are using is not recommended for this site.
+Please consider upgrading to the latest version of your browser by clicking one of the following links.
+Safari
+Chrome
+Edge
+Firefox
+Moore’s Law
+The past, present and future of Gordon Moore’s golden rule for the semiconductor industry.
+Press Kit
+September 18, 2023
+Contact Intel PR
+Follow Intel Newsroom on social:
+More Corporate News
+By
+-->
+Moore’s Law is the observation that the number of transistors on an integrated circuit will double every two years with minimal rise in cost. Intel co-founder Gordon Moore predicted a doubling of transistors every year for the next 10 years in his original paper published in 1965. Ten years later, in 1975, Moore revised this to doubling every two years. This extrapolation based on an emerging trend has been a guiding principle for the semiconductor industry for close to 60 years.
+What started as an empirical observation became a motivating objective, a target for Intel and its competitors to deliver against time and again. Moore’s Law is not a scientific law (it’s not a natural phenomenon). Moore himself admitted he didn’t much care for the designation, which was not part of
+the original language in his paper
+. Rather, Moore’s Law is a projection for the future that relies on innovation and technological advancement for its continued truth.
+Over the years, many have predicted the death of Moore’s Law – an inevitable end to the innovation due to the constraints of present-day methods: You can make something smaller and smaller and smaller … until you can’t. Then, you must innovate in other ways. With advanced packaging technology and new materials, the pace of Moore’s Law continues.
+Transistor innovations over time.
+View full size image
+For decades, the semiconductor industry has continually innovated to squeeze more and more transistors onto ever-smaller chips and maintain the pace of Moore’s Law. Intel engineers and scientists have continually faced — then overcome — the challenges posed by physics when the features on a chip shrink to the size of atoms.
+The examples in the timeline above are just the beginning. After the introduction of RibbonFET and PowerVia with Intel 20A and Intel 18A, new follow-on process nodes already in development will deliver additional gains in power, performance and density.
+Moore’s Law Today: How Intel is Innovating to Deliver the Future
+Breakthroughs in three areas of research will deliver the fundamental building blocks for more powerful computing well into the future.
+View full size image
+Delivering on Moore’s Law looks a lot different today than it did in the 1960s and '70s.
+Components Research Group, the research division of Intel’s Technology Development Group, outlined the path forward in 2021 with the fundamental building blocks for delivering more powerful computing well into the future. This includes essential scaling technologies, stretching the limits of silicon and exploring new concepts in physics. Here’s how
+Intel breakthroughs are propelling Moore’s Law beyond 2025
+.
+Understanding Moore’s Law
+Moore’s Law is a prediction made by Intel co-founder Gordon Moore that set the pace for the digital revolution. But what exactly is Moore’s Law and why is it such a big deal? We break it down for in Intel's
+Moore's Law Tech 101
+.
+Moore’s Law: The number of transistors per device: past, present, future.
+View full size image
+In December 2022, on the 75th anniversary of the transistor, Intel announced that it had identified new materials and processes that blur the line between packaging and silicon and revealed critical next steps on the journey to
+extending Moore’s Law to 1 trillion transistors on a package
+. Intel’s material innovations also identified practical design choices that can meet the requirements of transistor scaling using a novel material just three atoms thick.
+Dr. Ann Kelleher, executive vice president and general manager of Technology Development, says innovation in process, in packaging and in architecture is how we will maintain Moore’s Law. “Advanced packaging gives architects and designers new tools in their pursuit of Moore’s Law,” Kelleher wrote in a recent paper on
+Moore’s Law now and in the future.
+“We have a full pipeline of research underway that gives us the confidence we will maintain Moore’s Law for the next decade or longer.” (Read Kelleher's paper presented at IEDM: "
+Celebrating 75 years of the transistor: A look at the evolution of Moore’s Law innovation
+")
+Video:
+Tahir Ghani, Intel Senior Fellow and director of process pathfinding, spends his time developing Intel’s next-generation transistor technology to help keep Moore’s Law alive. He’s often called “Mr. Transistor” at Intel, and his more than 1,000 patents helped make him 2022's Intel Inventor of the Year. Hear about his job in his own words.
+Kick It Old School: Learn More About the History of Moore’s Law
+The original request from Electronics Magazine asking Gordon Moore for his vision for the future. The resulting paper, published in 1965, laid out Moore’s Law for the first time.
+View full size image
+Penned by Gordon Moore, the original paper outlining Moore’s Law was published in Electronics Magazine, Volume 38, Issue 8, on April 19, 1965. The editor at the time, Lewis H. Young, wrote to a selection of electronics experts and asked them for 8-10 pages on their vision for the future.
+This was Gordon Moore’s vision
+.
+An undated photo shows Intel co-founders Gordon Moore (from left), and Robert Noyce with first hire, Andy Grove.
+View full size image
+Who was Gordon Moore? The namesake for Moore’s Law, one of the co-founders of Intel, the company’s longest-serving CEO and chairman, philanthropist. The list is as long as it is inspiring. Based on Intel’s archives and an interview with Michael S. Malone, longtime Silicon Valley journalist and author of the book “The Intel Trinity,”
+these five things to know about Gordon Moore
+offer a sense of the man credited with building Silicon Valley.
+Moore
+died on March 24, 2023
+, at his home in Hawaii.
+Video:
+In 2015, on the 50th anniversary of Intel’s founding, Gordon Moore shared his thoughts on what he called a “wild extrapolation” that ended up being "far more accurate than he could have anticipated." Plus, who was the person who dubbed it Moore’s Law?
+Hear the answer from Gordon Moore himself
+.
+As one of the oldest technology companies, Intel’s history is rich with innovation, technological advancements and groundbreaking achievements.
+Visit Intel’s virtual vault to explore the archives
+.
+Industry-Leading Glass Substrates
+Intel Unveils Industry-Leading Glass Substrates to Meet Demand for More Powerful Compute
+An Intel engineer holds a test glass core substrate panel at Intel's Assembly and Test Technology Development factories in Chandler, Arizona, in July 2023. Intel’s advanced packaging technologies come to life at the company's Assembly and Test Technology Development factories. (Credit: Intel Corporation)
+A photo shows glass substrate test units at Intel's Assembly and Test Technology Development factories in Chandler, Arizona, in July 2023. Intel’s advanced packaging technologies come to life at the company's Assembly and Test Technology Development factories. (Credit: Intel Corporation)
+An Intel engineer working on a glass core substrate lithography resist stripping tool at Intel's Assembly and Test Technology Development factories in Chandler, Arizona, in July 2023. Intel’s advanced packaging technologies come to life at the company's Assembly and Test Technology Development factories. (Credit: Intel Corporation)
+An Intel engineer holds a test glass core substrate panel at Intel's Assembly and Test Technology Development factories in Chandler, Arizona, in July 2023. Intel’s advanced packaging technologies come to life at the company's Assembly and Test Technology Development factories. (Credit: Intel Corporation)
+An Intel engineer holds a test glass core substrate panel at Intel's Assembly and Test Technology Development factories in Chandler, Arizona, in July 2023. Intel’s advanced packaging technologies come to life at the company's Assembly and Test Technology Development factories. (Credit: Intel Corporation)
+A photo shows the ball grid array side of an Intel assembled glass substrate test chip at Intel's Assembly and Test Technology Development factories in Chandler, Arizona, in July 2023. Intel’s advanced packaging technologies come to life at the company's Assembly and Test Technology Development factories. (Credit: Intel Corporation)
+A photo shows the multi die assembly side of an Intel assembled glass substrate test chip at Intel's Assembly and Test Technology Development factories in Chandler, Arizona, in July 2023. Intel’s advanced packaging technologies come to life at the company's Assembly and Test Technology Development factories. (Credit: Intel Corporation)
+Hamid Azimi, corporate vice president and director of substrate technology development at Intel Corporation, holds an Intel assembled glass substrate test chip at Intel's Assembly and Test Technology Development factories in Chandler, Arizona, in July 2023. Intel’s advanced packaging technologies come to life at the company's Assembly and Test Technology Development factories. (Credit: Intel Corporation)
+Hamid Azimi, corporate vice president and director of substrate technology development at Intel Corporation, holds an Intel assembled glass substrate test chip at Intel's Assembly and Test Technology Development factories in Chandler, Arizona, in July 2023. Intel’s advanced packaging technologies come to life at the company's Assembly and Test Technology Development factories. (Credit: Intel Corporation)
+Download all images (ZIP, 50 MB)
+Video footage from July 2023 shows glass substrate tools and test units in Intel’s Assembly and Test Technology Development factories in Chandler, Arizona. In the factories, technicians build multi-chip packages that include substrates, computer chips and heat spreaders. Intel is leading the industry with a future generation of substrates made of glass, which will enable power improvements and transistor scaling to continue Moore’s Law. Intel delivers industry-leading packaging breakthroughs that enable performance, cost and scaling benefits for Intel and Intel Foundry Services customers. (Credit: Intel Corporation)
+Download video "Intel Advanced Packaging with Glass Substrates (B-Roll)"
+Tags
+Corporate
+About Intel
+Intel (Nasdaq: INTC) is an industry leader, creating world-changing technology that enables global progress and enriches lives. Inspired by Moore’s Law, we continuously work to advance the design and manufacturing of semiconductors to help address our customers’ greatest challenges. By embedding intelligence in the cloud, network, edge and every kind of computing device, we unleash the potential of data to transform business and society for the better. To learn more about Intel’s innovations, go to
+newsroom.intel.com
+and
+intel.com
+.
+© Intel Corporation. Intel, the Intel logo and other Intel marks are trademarks of Intel Corporation or its subsidiaries. Other names and brands may be claimed as the property of others.
+How Intel is Innovating to Deliver the Future
+Understanding Moore's Law
+Learn More About the History of Moore’s Law
+Industry-Leading Glass Substrates
+Get Help
+Company Overview
+Contact Intel
+Newsroom
+Investors
+Careers
+Corporate Responsibility
+Inclusion
+Public Policy
+© Intel Corporation
+Terms of Use
+*Trademarks
+Cookies
+Privacy
+Supply Chain Transparency
+Site Map
+Recycling
+Your Privacy Choices
+California Consumer Privacy Act (CCPA) Opt-Out Icon
+Notice at Collection
+Intel technologies may require enabled hardware, software or service activation. // No product or component can be absolutely secure. // Your costs and results may vary. // Performance varies by use, configuration, and other factors. Learn more at
+intel.com/performanceindex
+. // See our complete legal
+Notices and Disclaimers
+. // Intel is committed to respecting human rights and avoiding causing or contributing to adverse impacts on human rights. See Intel’s
+Global Human Rights Principles
+. Intel’s products and software are intended only to be used in applications that do not cause or contribute to adverse impacts on human rights.

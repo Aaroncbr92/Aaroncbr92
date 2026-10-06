@@ -1,0 +1,3050 @@
+URL: https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/manage/understand-security-groups
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Grupos de seguridad de Active Directory
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+En este artículo se describen los grupos de seguridad de Active Directory predeterminados, el ámbito de grupo y las funciones de grupo.
+
+## ¿Qué es un grupo de seguridad en Active Directory?
+
+Active Directory tiene dos formas de entidades de seguridad comunes: cuentas de usuario y cuentas de equipo. Estas cuentas representan una entidad física, ya sea una persona o una computadora. Una cuenta de usuario también se puede usar como una cuenta de servicio dedicada para algunas aplicaciones.
+
+Los grupos de seguridad son una manera de recopilar cuentas de usuario, cuentas de equipo y otros grupos en unidades administrables.
+
+En el sistema operativo (SO) de Windows Server, varias cuentas integradas y grupos de seguridad están preconfigurados con los derechos y permisos adecuados para realizar tareas específicas. En Active Directory, las responsabilidades administrativas se separan en dos tipos de administradores:
+
+- 
+ Administradores de servicios: responsable de mantener y entregar Active Directory Domain Services (AD DS), incluida la administración de controladores de dominio y la configuración de AD DS
+
+- 
+ Administradores de datos: responsable de mantener los datos almacenados en AD DS y en servidores y estaciones de trabajo miembros del dominio
+
+## Funcionamiento de los grupos de seguridad de Active Directory
+
+Puede usar grupos para recopilar cuentas de usuario, cuentas de equipo y otros grupos en unidades administrables. Trabajar con grupos en lugar de con usuarios individuales le ayuda a simplificar el mantenimiento y la administración de la red.
+
+Active Directory tiene dos tipos de grupos:
+
+- 
+ Grupos de seguridad: se usa para asignar permisos a los recursos compartidos.
+
+- 
+ Grupos de distribución: se usa para crear listas de distribución de correo electrónico.
+
+### Grupos de seguridad
+
+Los grupos de seguridad pueden ofrecer una forma eficaz de asignar acceso a los recursos de la red. Con los grupos de seguridad se puede:
+
+- 
+Asigne derechos de usuario a grupos de seguridad en Active Directory.
+
+Puede asignar derechos de usuario a un grupo de seguridad para determinar qué miembros de ese grupo pueden hacer dentro del ámbito de un dominio o bosque. Los derechos de usuario se asignan automáticamente a algunos grupos de seguridad cuando se instala Active Directory para ayudar a los administradores a definir el rol administrativo de una persona en el dominio.
+
+Por ejemplo, un usuario que agregue al grupo Operadores de copia de seguridad de Active Directory puede realizar copias de seguridad y restaurar archivos y directorios que se encuentran en cada controlador de dominio del dominio. El usuario puede completar estas acciones porque, de forma predeterminada, los derechos de usuario Hacer copias de seguridad de archivos y directorios y Restaurar archivos y directorios se asignan automáticamente al grupo Operadores de copia de seguridad. Por lo tanto, los miembros de este grupo heredan los derechos de usuario asignados a ese grupo.
+
+Puede usar directivas de grupo para asignar derechos de usuario a grupos de seguridad para delegar tareas específicas. Para obtener más información sobre el uso de directivas de grupo, vea Asignación de derechos de usuario.
+
+- 
+Asigne permisos para recursos a los grupos de seguridad.
+
+Los permisos y los derechos de usuario no son lo mismo. Los permisos se asignan a un grupo de seguridad para un recurso compartido. Los permisos determinan quién puede obtener acceso al recurso y el nivel de acceso, como Control total o Lectura. Algunos permisos que se establecen en objetos de dominio se asignan automáticamente para proporcionar varios niveles de acceso a los grupos de seguridad predeterminados, como el grupo Operadores de cuentas o el grupo Administradores del dominio.
+
+Los grupos de seguridad se enumeran en listas de control de acceso discrecional (DACL) que definen permisos en recursos y objetos. Cuando los administradores asignan permisos para recursos como recursos compartidos de archivos o impresoras, deben asignar esos permisos a un grupo de seguridad en lugar de a usuarios individuales. Los permisos se asignan una vez al grupo en lugar de varias veces a cada usuario individual. Cada cuenta que se agrega a un grupo recibe los derechos asignados a ese grupo en Active Directory. El usuario recibe permisos definidos para ese grupo.
+
+Puede usar un grupo de seguridad como entidad de correo electrónico. Al enviar un mensaje de correo electrónico a un grupo de seguridad, se envía a todos sus miembros.
+
+### Grupos de distribución
+
+Solo puede usar grupos de distribución para enviar correos electrónicos a colecciones de usuarios mediante una aplicación de correo electrónico como Exchange Server. Los grupos de distribución no están habilitados para la seguridad, por lo que no se pueden incluir en las DACL.
+
+### Ámbito de grupo
+
+Cada grupo tiene un ámbito que identifica su alcance en el bosque o árbol de dominios. El ámbito de un grupo define las áreas de la red donde se pueden conceder permisos para el grupo. Active Directory define los tres ámbitos de grupo siguientes:
+
+- Universal
+
+- Global
+
+- Dominio local
+
+Nota
+
+Además de estos tres ámbitos, los grupos predeterminados del contenedor Builtin tienen un ámbito de grupo de Builtin Local. Este ámbito de grupo y tipo de grupo no se pueden cambiar.
+
+En la tabla siguiente se describen los tres ámbitos de grupo y cómo funcionan como grupos de seguridad:
+
+ | Ámbito
+
+ | Miembros posibles
+
+ | Conversión de ámbito
+
+ | Puede conceder permisos
+
+ | Posible miembro de
+
+ | Universal
+
+ | Cuentas de cualquier dominio del mismo bosque
+
+Grupos globales de cualquier dominio del mismo bosque
+
+Otros grupos universales de cualquier dominio del mismo bosque
+
+ | Se puede convertir al ámbito local de dominio si el grupo no es miembro de ningún otro grupo universal.
+
+Se puede convertir al ámbito global si el grupo no contiene ningún otro grupo universal.
+
+ | En cualquier dominio dentro del mismo bosque o bosques confiables
+
+ | Otros grupos universales del mismo bosque
+
+Grupos locales de dominio en el mismo bosque o bosques de confianza
+
+Grupos locales en equipos del mismo bosque o bosques confiables
+
+ | Global
+
+ | Cuentas del mismo dominio
+
+Otros grupos globales del mismo dominio
+
+ | Se puede convertir al ámbito universal si el grupo no es miembro de ningún otro grupo global.
+
+ | En cualquier dominio del mismo bosque, o en dominios o bosques de confianza
+
+ | Grupos universales de cualquier dominio del mismo entorno forestal
+
+Otros grupos globales del mismo dominio
+
+Grupos locales de dominio de cualquier dominio del mismo bosque o de cualquier dominio de confianza
+
+ | Dominio local
+
+ | Cuentas de cualquier dominio o de cualquier dominio de confianza
+
+Grupos globales de cualquier dominio o de cualquier dominio de confianza
+
+Grupos universales de cualquier dominio dentro del mismo bosque
+
+Otros grupos locales de dominio del mismo dominio
+
+Cuentas, grupos globales y grupos universales provenientes de otros bosques y de dominios externos
+
+ | Se puede convertir al ámbito universal si el grupo no contiene ningún otro grupo local de dominio
+
+ | Dentro del mismo dominio
+
+ | Otros grupos locales de dominio del mismo dominio
+
+Grupos locales en equipos del mismo dominio, excepto los grupos integrados que tienen identificadores de seguridad conocidos (SID)
+
+### Grupos de identidades especiales
+
+Un grupo de identidades especial es donde se agrupan determinadas identidades especiales. Los grupos de identidades especiales no tienen pertenencias específicas que se pueden modificar, pero pueden representar usuarios diferentes en momentos diferentes en función de las circunstancias. Estos grupos incluyen el propietario de Creator, Batch y el usuario autenticado.
+
+Para obtener más información, consulte Grupos de identidades especiales.
+
+## Grupos de seguridad predeterminados
+
+Los grupos predeterminados, como el grupo Administradores de dominio, son grupos de seguridad que se crean automáticamente al crear un dominio de Active Directory. Estos grupos predefinidos pueden ayudarle a controlar el acceso a los recursos compartidos y delegar roles administrativos específicos de todo el dominio.
+
+A muchos grupos predeterminados se les asigna automáticamente un conjunto de derechos de usuario. Estos derechos autorizan a los miembros del grupo a realizar acciones específicas en un dominio, como iniciar sesión en un sistema local o realizar copias de seguridad de archivos y carpetas. Por ejemplo, un miembro del grupo Operadores de copia de seguridad puede realizar operaciones de copia de seguridad para todos los controladores de dominio del dominio.
+
+Cuando se agrega un usuario a un grupo, dicho usuario recibe todos los derechos de usuario que el grupo tenga asignados, incluidos todos los permisos asignados al grupo sobre cualquier recurso compartido.
+
+Los grupos predeterminados se encuentran en el contenedor Builtin o en el contenedor Users en la herramienta Usuarios y equipos de Active Directory. El contenedor Builtin incluye los grupos que se han definido con el ámbito local del dominio. El contenedor Usuarios incluye grupos definidos con ámbito Global y grupos definidos con ámbito Local de dominio. Puede mover grupos ubicados en estos contenedores a otros grupos o unidades organizativas dentro del dominio. Pero no se pueden mover a otros dominios.
+
+Algunos de los grupos administrativos que se enumeran en este artículo y todos los miembros de estos grupos están protegidos por un proceso en segundo plano que comprueba periódicamente y aplica un descriptor de seguridad específico. Este descriptor es una estructura de datos que contiene información de seguridad asociada a un objeto protegido. Este proceso garantiza que cualquier intento no autorizado correcto de modificar el descriptor de seguridad en una de las cuentas o grupos administrativos se sobrescribe con la configuración protegida.
+
+Este descriptor de seguridad está presente en el objeto AdminSDHolder. Si quiere modificar los permisos en uno de los grupos de administradores de servicios o en cualquiera de sus cuentas de miembro, debe modificar el descriptor de seguridad en el objeto AdminSDHolder para que se aplique de forma coherente. Tenga cuidado al realizar estas modificaciones, ya que también está cambiando la configuración predeterminada que se aplica a todas las cuentas administrativas protegidas.
+
+Cada grupo de seguridad predeterminado tiene un identificador único que consta de varios componentes. Entre estos componentes se encuentra un identificador relativo (RID), que es único dentro del dominio del grupo.
+
+### Grupos de seguridad predeterminados de Active Directory
+
+Los vínculos siguientes conducen a descripciones de los grupos predeterminados que se encuentran en el contenedor Builtin o en el contenedor Usuarios de Active Directory.
+
+- 
+ Operadores de asistencia de control de acceso
+
+- 
+ Operadores de cuentas
+
+- 
+ Administradores
+
+- 
+ Replicación de contraseñas en RODC permitidas
+
+- 
+ Operadores de copias de seguridad
+
+- 
+ Acceso DCOM de servicio de Certificate Service
+
+- 
+ Publicadores de certificados
+
+- 
+ Controladores de dominio clonables
+
+- 
+ Operadores criptográficos
+
+- 
+ Replicación de contraseñas en RODC denegadas
+
+- 
+ Propietarios de dispositivos
+
+- 
+ Administradores de DHCP
+
+- 
+ Usuarios de DHCP
+
+- 
+ Usuarios de COM distribuido
+
+- 
+ DnsUpdateProxy
+
+- 
+ DnsAdmins
+
+- 
+ Administradores del dominio
+
+- 
+ Equipos del dominio
+
+- 
+ Controladores del dominio
+
+- 
+ Invitados del dominio
+
+- 
+ Usuarios del dominio
+
+- 
+ Administradores de la empresa
+
+- 
+ Administradores de claves de la empresa
+
+- 
+ Controladores de dominio empresariales de solo lectura
+
+- 
+ Lectores del registro de eventos
+
+- 
+ Propietarios del creador de directivas de grupo
+
+- 
+ Invitados
+
+- 
+ Administradores de Hyper-V
+
+- 
+ IIS_IUSRS
+
+- 
+ Creadores de confianza de bosque de entrada
+
+- 
+ Administradores de claves
+
+- 
+ Operadores de configuración de red
+
+- 
+ Usuarios del registro de rendimiento
+
+- 
+ Usuarios del monitor de rendimiento
+
+- 
+ Acceso compatible con versiones anteriores a Windows 2000
+
+- 
+ Operadores de impresión
+
+- 
+ Usuarios protegidos
+
+- 
+ Servidores RAS e IAS
+
+- 
+ Servidores de punto de conexión de RDS
+
+- 
+ Servidores de administración de RDS.
+
+- 
+ Servidores de acceso remoto de RDS
+
+- 
+ Controladores de dominio de solo lectura
+
+- 
+ Usuarios de escritorio remoto
+
+- 
+ Usuarios de administración remota
+
+- 
+ Replicador
+
+- 
+ Administradores de esquema
+
+- 
+ Operadores de servidores
+
+- 
+ Administradores de réplicas de almacenamiento
+
+- 
+ Cuentas administradas del sistema
+
+- 
+ Servidores de licencias de Terminal Server
+
+- 
+ Usuarios
+
+- 
+ Acceso de autorización de Windows
+
+- 
+ WinRMRemoteWMIUsers__
+
+### Operadores de asistencia de control de acceso
+
+Los miembros de este grupo pueden consultar de forma remota atributos y permisos de autorización para los recursos de este equipo. Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-579
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Operadores de cuentas
+
+El grupo Operadores de cuenta concede privilegios limitados de creación de cuentas a un usuario. Los miembros de este grupo pueden crear y modificar la mayoría de los tipos de cuentas, incluidas las cuentas para los usuarios, los grupos locales y los grupos globales. Los miembros del grupo pueden iniciar sesión localmente en controladores de dominio.
+
+Los miembros del grupo Operadores de cuenta no pueden modificar los derechos de usuario. Además, los miembros de este grupo no pueden administrar las siguientes cuentas y grupos:
+
+- Cuenta de usuario administrador
+
+- Cuentas de usuario de administradores
+
+- 
+ Administradores
+
+- 
+ Operadores de servidores
+
+- 
+ Operadores de cuentas
+
+- 
+ Operadores de copias de seguridad
+
+- 
+ Operadores de impresión
+
+Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-548
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | Sí
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | 
+ Permitir el inicio de sesión local: SeInteractiveLogonRight
+
+### Administradores
+
+Los miembros del grupo Administradores tienen acceso completo y sin restricciones al equipo. Si el equipo se promueve a un controlador de dominio, los miembros del grupo Administradores tienen acceso sin restricciones al dominio.
+
+Nota
+
+El grupo Administradores tiene funcionalidades integradas que proporcionan a sus miembros control total sobre el sistema. Este grupo no se puede cambiar de nombre, eliminar ni quitar. Este grupo integrado controla el acceso a todos los controladores de dominio de su dominio y puede cambiar la pertenencia de todos los grupos administrativos. Los miembros de los grupos siguientes pueden modificar la pertenencia al grupo Administradores: los Administradores de servicios predeterminados, los Administradores de dominio del dominio y los Administradores de empresa. Este grupo tiene el privilegio especial de tomar posesión de cualquier objeto del directorio o de cualquier recurso de un controlador de dominio. Este grupo se considera un grupo de administradores de servicios porque sus miembros tienen acceso total a los controladores de dominio del dominio.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-544
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | 
+ Administrador, administradores de dominio, administradores de empresa
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | Sí
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | 
+ Ajustar las cuotas de la memoria para un proceso: (SeIncreaseQuotaPrivilege)
+
+ Tener acceso a este equipo desde la red: SeNetworkLogonRight
+
+ Permitir el inicio de sesión local: SeInteractiveLogonRight
+
+ Permitir inicio de sesión a través de Servicios de Escritorio remoto: SeRemoteInteractiveLogonRight
+
+ Copia de seguridad de archivos y directorios: SeBackupPrivilege
+
+ Omitir comprobación de recorrido: (SeChangeNotifyPrivilege)
+
+ Cambiar la hora del sistema: SeSystemTimePrivilege
+
+ Cambiar la zona horaria: SeTimeZonePrivilege
+
+ Crear un archivo de paginación: SeCreatePagefilePrivilege
+
+ Crear objetos globales: SeCreateGlobalPrivilege
+
+ Crear vínculos simbólicos: SeCreateSymbolicLinkPrivilege
+
+ Depurar programas: SeDebugPrivilege
+
+ Habilitar confianza con las cuentas de usuario y de equipo para delegación: SeEnableDelegationPrivilege
+
+ Forzar cierre desde un sistema remoto: SeRemoteShutdownPrivilege
+
+ Suplantar a un cliente tras la autenticación: SeImpersonatePrivilege
+
+ Aumentar prioridad de programación: SeIncreaseBasePriorityPrivilege
+
+ Cargar y descargar controladores de dispositivo: SeLoadDriverPrivilege
+
+ Iniciar sesión como proceso por lotes: SeBatchLogonRight
+
+ Administrar registro de seguridad y auditoría: SeSecurityPrivilege
+
+ Modificar valores de entorno firmware: SeSystemEnvironmentPrivilege
+
+ Realizar tareas de mantenimiento del volumen: SeManageVolumePrivilege
+
+ Analizar el rendimiento del sistema: SeSystemProfilePrivilege
+
+ Analizar un solo proceso: SeProfileSingleProcessPrivilege
+
+ Quitar equipo de la estación de acoplamiento: SeUndockPrivilege
+
+ Restaurar archivos y directorios: SeRestorePrivilege
+
+ Apagar el sistema: SeShutdownPrivilege
+
+ Tomar posesión de archivos y otros objetos: SeTakeOwnershipPrivilege
+
+### Replicación de contraseñas en RODC permitidas
+
+El propósito de este grupo de seguridad es administrar una directiva de replicación de contraseñas de controlador de dominio de solo lectura (RODC). Este grupo no tiene miembros de forma predeterminada. Como resultado, los nuevos RODC no almacenan en caché las credenciales de usuario. El grupo Replicación de contraseñas en RODC denegadas contiene varias cuentas con privilegios elevados y grupos de seguridad. El grupo Replicación de contraseñas en RODC denegadas reemplaza al grupo Replicación de contraseñas RODC permitidas. Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>-571
+
+ | Tipo
+
+ | Local de dominio
+
+ | Contenedor predeterminado
+
+ | CN=Users DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | Sí, especialmente cuando se delega a un grupo personalizado que usa una directiva de contraseñas pormenorizadas
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Operadores de copias de seguridad
+
+Los miembros del grupo Operadores de copia de seguridad pueden hacer copias de seguridad y restaurar archivos de un equipo, independientemente de los permisos que protejan dichos archivos. Los operadores de copia de seguridad también pueden iniciar sesión en el equipo y apagarlo. Este grupo no se puede cambiar de nombre, eliminar ni quitar. De forma predeterminada, este grupo integrado no tiene miembros y puede realizar operaciones de copia de seguridad y restauración en controladores de dominio. Los miembros de los siguientes grupos pueden modificar la pertenencia a grupos operadores de copia de seguridad: administradores de servicios predeterminados, administradores de dominio en el dominio y administradores de empresa. Los miembros del grupo Operadores de copia de seguridad no pueden modificar la pertenencia de ningún grupo administrativo. Aunque los miembros de este grupo no pueden cambiar la configuración del servidor ni modificar la configuración del directorio, tienen los permisos necesarios para reemplazar los archivos (incluidos los archivos del sistema operativo) en los controladores de dominio. Dado que los miembros de este grupo pueden reemplazar archivos en controladores de dominio, se consideran administradores de servicios.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-551
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | Sí
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | 
+ Permitir el inicio de sesión local: SeInteractiveLogonRight
+
+ Copia de seguridad de archivos y directorios: SeBackupPrivilege
+
+ Iniciar sesión como proceso por lotes: SeBatchLogonRight
+
+ Restaurar archivos y directorios: SeRestorePrivilege
+
+ Apagar el sistema: SeShutdownPrivilege
+
+### Acceso DCOM de servicio de Certificate Service
+
+Los miembros de este grupo pueden conectarse a las entidades de certificación de la empresa. Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-<dominio>-574
+
+ | Tipo
+
+ | Dominio local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | 
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Publicadores de certificados
+
+Los miembros del grupo Publicadores de certificados están autorizados a publicar certificados para objetos de usuario en Active Directory. Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>-517
+
+ | Tipo
+
+ | Dominio local
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | 
+ Replicación de contraseñas en RODC denegadas
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Controladores de dominio clonables
+
+Los controladores de dominio que son miembros del grupo Controladores de dominio clonables se pueden clonar. En Windows Server 2012 R2 y Windows Server 2012, puede implementar controladores de dominio copiando un controlador de dominio virtual existente. En un entorno virtual, no se puede implementar repetidamente una imagen de servidor preparada mediante la `Sysprep.exe` herramienta . No se permite promover el servidor a un controlador de dominio y, a continuación, completar más requisitos de configuración para implementar cada controlador de dominio (incluida la adición del controlador de dominio virtual a este grupo de seguridad). Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+Para obtener más información, consulte Virtualización segura de Active Directory Domain Services (AD DS).
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>-522
+
+ | Tipo
+
+ | Global
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Operadores criptográficos
+
+Los miembros de este grupo están autorizados a realizar operaciones criptográficas. Este grupo de seguridad configura el Cortafuegos de Windows para IPsec en modo Criterios Comunes. Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-569
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Replicación de contraseñas en RODC denegadas
+
+Las contraseñas de los miembros del grupo Replicación de contraseñas en RODC denegadas no se pueden replicar en ningún RODC.
+
+El propósito de este grupo de seguridad es administrar una directiva de replicación de contraseñas de RODC. Este grupo contiene varias cuentas con privilegios elevados y grupos de seguridad. El grupo Replicación de contraseñas en RODC denegadas reemplaza al grupo Replicación de contraseñas RODC permitidas.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>-572
+
+ | Tipo
+
+ | Local de dominio
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | 
+ Publicadores de certificados
+
+ Administradores del dominio
+
+ Controladores del dominio
+
+ Administradores de la empresa
+
+ Propietarios del creador de directivas de grupo
+
+ Controladores de dominio de solo lectura
+
+ Administradores de esquema
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | Sí, especialmente cuando se delega a un grupo personalizado que usa una directiva de contraseñas pormenorizadas
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Propietarios de dispositivos
+
+Cuando el grupo Propietarios de dispositivos no tiene miembros, se recomienda no cambiar la configuración predeterminada de este grupo de seguridad. Cambiar la configuración predeterminada podría dificultar escenarios futuros que se basan en este grupo. El grupo Propietarios de dispositivos no se usa actualmente en Windows.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-583
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí, pero no se recomienda
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | 
+ Permitir el inicio de sesión local: SeInteractiveLogonRight
+
+ Tener acceso a este equipo desde la red: SeNetworkLogonRight
+
+ Omitir comprobación de recorrido: (SeChangeNotifyPrivilege)
+
+ Cambiar la zona horaria: SeTimeZonePrivilege
+
+### Administradores de DHCP
+
+Los miembros del grupo Administradores DHCP pueden crear, eliminar y administrar varias áreas del ámbito del servidor. Los derechos de grupo incluyen la capacidad de realizar copias de seguridad y restaurar la base de datos del Protocolo de configuración dinámica de host (DHCP). Aunque este grupo tiene derechos administrativos, no forma parte del grupo Administradores porque este rol está limitado a los servicios DHCP.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>
+
+ | Tipo
+
+ | Dominio local
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | 
+ Usuarios
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí, pero no se recomienda
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Usuarios de DHCP
+
+Los miembros del grupo Usuarios DHCP pueden ver qué ámbitos están activos o inactivos, incluidas las direcciones IP asignadas. Los miembros del grupo también pueden ver problemas de conectividad si el servidor DHCP no está configurado correctamente. Este grupo se limita al acceso de solo lectura al servidor DHCP.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>
+
+ | Tipo
+
+ | Dominio local
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | 
+ Usuarios
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí, pero no se recomienda
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Usuarios de COM distribuido
+
+Los miembros del grupo Usuarios de COM Distribuido pueden iniciar, activar y usar objetos del Modelo de Objetos de Componentes Distribuidos (DCOM) en el equipo. El modelo de objetos componentes (COM) es un sistema independiente de la plataforma, distribuido y orientado a objetos para crear componentes de software binarios que pueden interactuar. Al usar objetos DCOM, puede distribuir las aplicaciones entre ubicaciones que tengan más sentido para usted y para las aplicaciones. Este grupo aparece como un SID hasta que el controlador de dominio se convierte en el controlador de dominio principal y contiene el rol maestro de operaciones, que también se denomina rol flexible de operaciones maestras únicas (FSMO). Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-562
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | 
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### DnsUpdateProxy
+
+Los miembros del grupo DnsUpdateProxy son clientes del Sistema de nombres de dominio (DNS). Se les permite realizar actualizaciones dinámicas en nombre de otros clientes, como servidores DHCP. Un servidor DNS puede desarrollar registros de recursos obsoletos cuando un servidor DHCP está configurado para registrar dinámicamente registros de recursos de host (A) y puntero (PTR) en nombre de los clientes DHCP mediante la actualización dinámica. Agregar clientes a este grupo de seguridad mitiga este escenario.
+
+Para protegerse frente a registros no seguros o permitir que los miembros del grupo DnsUpdateProxy registren registros en zonas que solo permitan actualizaciones dinámicas protegidas, debe crear una cuenta de usuario dedicada. También debe configurar servidores DHCP para realizar actualizaciones dinámicas de DNS mediante el nombre de usuario, la contraseña y el dominio de esta cuenta. Varios servidores DHCP pueden usar las credenciales de una cuenta de usuario dedicada. Este grupo solo existe si el rol de servidor DNS está instalado o estuvo instalado en un controlador de dominio del dominio.
+
+Para obtener más información, consulte Propiedad de registros DNS y el grupo DnsUpdateProxy.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>-<variable RID>
+
+ | Tipo
+
+ | Global
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | 
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### DnsAdmins
+
+Los miembros del grupo DnsAdmins tienen acceso a la información de DNS de red. De forma predeterminada, a los miembros de este grupo se les asignan los permisos permitidos siguientes: Leer, Escribir, Crear todos los objetos secundarios, Eliminar objetos secundarios y Permisos especiales. Este grupo solo existe si el rol de servidor DNS está instalado o estuvo instalado en un controlador de dominio del dominio.
+
+Para obtener más información sobre la seguridad y DNS, consulte DNSSEC en Windows Server 2012.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-domain-variable<>< RID>
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Admins. del dominio
+
+Los miembros del grupo de seguridad Administradores de dominio están autorizados para administrar el dominio. De forma predeterminada, el grupo Administradores de dominio es miembro del grupo Administradores en todos los equipos que se unen a un dominio, incluidos los controladores de dominio. El grupo Administradores de dominio es el propietario predeterminado de cualquier objeto creado en Active Directory para el dominio por cualquier miembro del grupo. Si los miembros del grupo crean otros objetos, como archivos, el propietario predeterminado es el grupo Administradores.
+
+El grupo Administradores de dominio controla el acceso a todos los controladores de dominio de un dominio y puede modificar la pertenencia de todas las cuentas administrativas del dominio. Los miembros de los grupos de administradores de servicios en su dominio (Administradores y Administradores de dominio) y miembros del grupo Administradores de empresa pueden modificar la pertenencia a Administradores de dominio. Este grupo se considera una cuenta de administrador de servicios porque sus miembros tienen acceso total a los controladores de dominio de un dominio.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>-512
+
+ | Tipo
+
+ | Global
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | 
+ Administrador
+
+ | Miembro predeterminado de
+
+ | 
+ Administradores
+
+ Replicación de contraseñas en RODC denegadas
+
+ | ¿Protegido por AdminSDHolder?
+
+ | Sí
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Consulte Administradores
+Consulte Replicación de contraseñas en RODC denegadas
+
+### Equipos del dominio
+
+Este grupo puede incluir todos los equipos y servidores que se unen al dominio, excepto los controladores de dominio. De forma predeterminada, cualquier cuenta de equipo creada se convierte automáticamente en miembro de este grupo.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>-515
+
+ | Tipo
+
+ | Global
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Todos los equipos unidos al dominio, excepto los controladores de dominio
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí, pero no es necesario
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | Sí
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Controladores de dominio
+
+El grupo Controladores de dominio puede incluir todos los controladores de dominio del dominio. Los nuevos controladores de dominio se agregan automáticamente a este grupo.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>-516
+
+ | Tipo
+
+ | Global
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Cuentas de equipo para todos los controladores de dominio del dominio
+
+ | Miembro predeterminado de
+
+ | 
+ Replicación de contraseñas en RODC denegadas
+
+ | ¿Protegido por AdminSDHolder?
+
+ | Sí
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | Sí
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Invitados del dominio
+
+El Grupo Invitados de Dominio incluye la cuenta de invitado integrada del dominio. Cuando los miembros de este grupo inician sesión como invitados locales en un equipo unido a un dominio, se crea un perfil de dominio en el equipo local.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>-514
+
+ | Tipo
+
+ | Global
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | 
+ Guest
+
+ | Miembro predeterminado de
+
+ | 
+ Invitados
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí, pero no se recomienda
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Consulte Invitados
+
+### Usuarios de dominio
+
+El grupo Usuarios del dominio incluye todas las cuentas de usuario de un dominio. Cuando se crea una cuenta de usuario en un dominio, se agrega a este grupo de forma predeterminada.
+
+Puede utilizar este grupo para representar a todos los usuarios del dominio. Por ejemplo, si desea que todos los usuarios de dominio tengan acceso a una impresora, puede asignar permisos para la impresora a este grupo. O bien, puede agregar el grupo Usuarios de dominio a un grupo Local en el servidor de impresión que tenga permisos para la impresora.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>-513
+
+ | Tipo
+
+ | Global
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | 
+ Administrador
+
+ | Miembro predeterminado de
+
+ | 
+ Usuarios
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Consulte Usuarios
+
+### Administradores de la empresa
+
+El grupo Administradores de empresa solo existe en el dominio raíz de un bosque de Active Directory de dominios. El grupo es un grupo universal si el dominio está en modo nativo. El grupo es un grupo global si el dominio está en modo mixto. Los miembros de este grupo están autorizados para realizar cambios en todo el bosque en Active Directory, como agregar dominios secundarios.
+
+De forma predeterminada, el único miembro del grupo es la cuenta Administrador del dominio raíz del bosque. Este grupo se agrega automáticamente al grupo Administradores de todos los dominios del bosque y proporciona acceso completo a la configuración de todos los controladores de dominio. Los miembros de este grupo pueden modificar la pertenencia de todos los grupos administrativos. Los miembros de los grupos de administradores de servicios predeterminados en el dominio raíz pueden modificar la pertenencia a Administradores de empresa. Este grupo se considera una cuenta de administrador de servicios.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-root< domain-519>
+
+ | Tipo
+
+ | Universal si el dominio está en modo nativo; de lo contrario, global
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | 
+ Administrador
+
+ | Miembro predeterminado de
+
+ | 
+ Administradores
+
+ Replicación de contraseñas en RODC denegadas
+
+ | ¿Protegido por AdminSDHolder?
+
+ | Sí
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Consulte Administradores
+Consulte Replicación de contraseñas en RODC denegadas
+
+### Administradores clave Enterprise
+
+Los miembros de este grupo pueden realizar acciones administrativas en objetos clave dentro del bosque.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>-527
+
+ | Tipo
+
+ | Global
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | Sí
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Controladores de dominio empresariales de solo lectura
+
+Los miembros de este grupo son RODC en la empresa. Excepto para las contraseñas de cuenta, un RODC contiene todos los objetos y atributos de Active Directory que contiene un controlador de dominio grabable. Sin embargo, no se pueden realizar cambios en la base de datos almacenada en el RODC. Los cambios se deben realizar en un controlador de dominio grabable y, después, replicarse en el RODC.
+
+Los RODC abordan algunos de los problemas que se encuentran habitualmente en las sucursales. Es posible que estas ubicaciones no tengan un controlador de dominio o que tengan un controlador de dominio grabable, pero no la seguridad física, el ancho de banda de red o la experiencia local para admitirlo.
+
+Para obtener más información, consulte ¿Qué es un RODC?.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio raíz>-498
+
+ | Tipo
+
+ | Universal
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | Sí
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | N/A
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Lectores del registro de eventos
+
+Los miembros de este grupo pueden leer los registros de eventos desde los equipos locales. El grupo se crea cuando el servidor se promueve a un controlador de dominio. Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-573
+
+ | Tipo
+
+ | Dominio local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Propietarios del creador de directivas de grupo
+
+Este grupo está autorizado para crear, editar y eliminar objetos de directiva de grupo en el dominio. De forma predeterminada, el único miembro del grupo es Administrador.
+
+Para obtener información sobre otras características que puede usar con este grupo de seguridad, consulte Información general sobre directiva de grupo.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>-520
+
+ | Tipo
+
+ | Global
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | 
+ Administrador
+
+ | Miembro predeterminado de
+
+ | 
+ Replicación de contraseñas en RODC denegadas
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Consulte Replicación de contraseñas en RODC denegadas
+
+### Invitados
+
+Los miembros del grupo Invitados y Usuarios tienen acceso similar de forma predeterminada. La diferencia es que la cuenta de invitado tiene más restricciones. De forma predeterminada, el único miembro del grupo Invitados es la cuenta de invitado. El grupo Invitados permite que los usuarios ocasionales o únicos inicien sesión con privilegios limitados en la cuenta de invitado integrada de un equipo.
+
+Cuando un miembro del grupo Invitados cierra la sesión, se elimina todo el perfil. La eliminación del perfil incluye todo lo que se almacena en el `%userprofile%` directorio, incluida la información del subárbol del Registro del usuario, los iconos de escritorio personalizados y otras configuraciones específicas del usuario. Este hecho implica que un invitado debe usar un perfil temporal para iniciar sesión en el sistema. Este grupo de seguridad interactúa con la siguiente configuración de directiva de grupo: No inicie sesión de usuarios con perfiles temporales. Para acceder a esta configuración, abra el editor de administración de directivas de grupo y, a continuación, vaya a Configuración> del equipoPlantillas> administrativasPerfiles de usuario>.
+
+Nota
+
+Una cuenta de invitado es un miembro predeterminado del grupo de seguridad Invitados. Los usuarios que no tienen una cuenta en el dominio pueden usar la cuenta Invitado. Un usuario cuya cuenta se haya deshabilitado (pero no eliminado) también puede usar la cuenta Invitado. La cuenta de invitado no requiere una contraseña. Puede asignar derechos y permisos para la cuenta Invitado de la misma forma que para cualquier cuenta de usuario. De manera predeterminada, la cuenta Invitado es miembro del grupo integrado Invitados y del grupo global Invitados de dominio, lo que permite al usuario iniciar sesión en un dominio. La cuenta Invitado está deshabilitada de forma predeterminada y recomendamos que permanezca así.
+
+Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-546
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | 
+ Invitados del dominio
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Administradores de Hyper-V
+
+Los miembros del grupo Administradores de Hyper-V tienen acceso completo y sin restricciones a todas las características de Hyper-V. Agregar miembros a este grupo ayuda a reducir el número de miembros necesarios en el grupo Administradores y separa aún más el acceso. Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+Nota
+
+Antes de Windows Server 2012, el grupo de Administradores controlaba y tenía acceso a las características de Hyper-V.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-578
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | Los servicios de administradores de Hyper-V no deben usarse en controladores de dominio. El grupo debe estar vacío.
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### IIS_IUSRS
+
+IIS_IUSRS es un grupo integrado que usa Internet Information Services (IIS), a partir de IIS 7. El sistema operativo garantiza que cada cuenta y grupo integrados tengan un SID único. IIS 7 reemplaza la cuenta IUSR_MachineName y el grupo IIS_WPG por el grupo IIS_IUSRS para asegurarse de que los nombres reales que usan la nueva cuenta y el grupo nunca se localizan. Por ejemplo, independientemente del idioma del sistema operativo Windows que instale, el nombre de la cuenta de IIS es IUSR y el nombre del grupo es IIS_IUSRS.
+
+Para obtener más información, consulte Descripción de las cuentas de grupo y de usuario integradas en IIS 7.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-568
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | 
+ IUSR
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Creadores de confianza de bosque de entrada
+
+Los miembros del grupo Constructores de confianza de bosque entrante pueden crear relaciones de confianza unidireccionales entrantes en un bosque. Active Directory proporciona seguridad en varios dominios o bosques a través de relaciones de dominio y confianza de bosque. Antes de que la autenticación se pueda producir entre confianzas, Windows debe determinar si el dominio solicitado es por un usuario, equipo o servicio que tiene una relación de confianza con el dominio de inicio de sesión de la cuenta solicitante.
+
+Para determinarlo, el sistema de seguridad de Windows calcula una ruta de acceso de confianza entre el controlador de dominio del servidor que recibe la solicitud y un controlador de dominio del dominio de la cuenta que realiza la solicitud. Un canal protegido se extiende a otros dominios de Active Directory a través de relaciones de confianza entre dominios. Este canal seguro se utiliza para obtener y comprobar la información de seguridad, incluidos los SID para usuarios y grupos.
+
+Este grupo aparece como un SID hasta que el controlador de dominio se convierte en el controlador de dominio principal y contiene el rol de maestro de operaciones (FSMO). Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+Para obtener más información, consulte Cómo funcionan las confianzas de dominio y de bosque.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-557
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Administradores de claves
+
+Los miembros de este grupo pueden realizar acciones administrativas en objetos clave dentro del dominio.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>-526
+
+ | Tipo
+
+ | Global
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | Sí
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Operadores de configuración de red
+
+Los miembros del grupo Operadores de configuración de red tienen los siguientes privilegios administrativos para administrar la configuración de las características de red:
+
+- Modifique las propiedades protocolo de control de transmisión/Protocolo de Internet (TCP/IP) para una conexión de red de área local (LAN), que incluye la dirección IP, la máscara de subred, la puerta de enlace predeterminada y los servidores de nombres.
+
+- Cambiar el nombre de las conexiones LAN o las conexiones de acceso remoto que están disponibles para todos los usuarios
+
+- Habilitación o deshabilitación de una conexión LAN
+
+- Modificar las propiedades de todas las conexiones de acceso remoto de los usuarios
+
+- Eliminar todas las conexiones de acceso remoto de los usuarios
+
+- Cambiar el nombre de todas las conexiones de acceso remoto de los usuarios
+
+- Emitir los comandos `ipconfig`, `ipconfig /release` y `ipconfig /renew`
+
+- Escriba la clave de desbloqueo de PIN (PUK) para dispositivos de banda ancha móvil que admiten una tarjeta SIM.
+
+Este grupo aparece como un SID hasta que el controlador de dominio se convierte en el controlador de dominio principal y contiene el rol de maestro de operaciones (FSMO). Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-556
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | Sí
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Usuarios del registro de rendimiento
+
+Los miembros del grupo Usuarios de registro de rendimiento pueden administrar los contadores de rendimiento, los registros y las alertas de un equipo, tanto de forma local como desde clientes remotos, sin ser miembros del grupo Administradores. En concreto, los miembros de este grupo de seguridad:
+
+- Puede usar todas las características que están disponibles para el grupo Usuarios del monitor de sistema.
+
+- No se puede usar el proveedor de eventos Seguimiento del kernel de Windows en Conjuntos de recopiladores de datos.
+
+Nota
+
+En Windows Server 2016 y versiones posteriores, un miembro del grupo Usuarios del registro de rendimiento no puede crear conjuntos de recopiladores de datos. Si un miembro del grupo Usuarios del registro de rendimiento intenta crear conjuntos de recopiladores de datos, no podrá completar la acción porque se denegará el acceso.
+
+Para que los miembros del grupo Usuarios del registro de rendimiento inicien el registro de datos o modifiquen conjuntos de recopiladores de datos, primero se debe asignar al grupo el derecho de usuario Iniciar sesión como trabajo por lotes. Para asignar este derecho de usuario, use el complemento Directiva de seguridad local en Microsoft Management Console (MMC).
+
+Este grupo aparece como un SID hasta que el controlador de dominio se convierte en el controlador de dominio principal y contiene el rol de maestro de operaciones (FSMO). Esta cuenta no se puede cambiar de nombre, eliminar ni mover.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-559
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | Sí
+
+ | Derechos de usuario predeterminados
+
+ | 
+ Iniciar sesión como proceso por lotes: SeBatchLogonRight
+
+### Usuarios de Monitor de rendimiento
+
+Los miembros de este grupo pueden supervisar los contadores de rendimiento de los controladores del dominio, tanto de forma local como desde clientes remotos, sin necesidad de ser miembros de los grupos Administradores o Usuarios del registro de rendimiento. El Monitor de rendimiento de Windows es un complemento de MMC que proporciona herramientas para analizar el rendimiento del sistema. Desde una sola consola puede supervisar el rendimiento de las aplicaciones y del hardware, personalizar qué datos quiere recopilar en los registros, definir umbrales para alertas y acciones automáticas, generar informes y ver datos de rendimientos pasados en varias formas.
+
+En concreto, los miembros de este grupo de seguridad:
+
+- Puede usar todas las características que están disponibles para el grupo Usuarios.
+
+- Puede ver los datos de rendimiento en tiempo real en Monitor de rendimiento.
+
+- Puede cambiar las propiedades de visualización del Monitor de rendimiento mientras visualiza los datos.
+
+- No se pueden crear ni modificar conjuntos de recopiladores de datos.
+
+Este grupo aparece como un SID hasta que el controlador de dominio se convierte en el controlador de dominio principal y contiene el rol de maestro de operaciones (FSMO). Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-558
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | Sí
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Acceso compatible con versiones anteriores a Windows 2000
+
+Los miembros del grupo de Acceso compatible con versiones anteriores a Windows 2000 tienen acceso de lectura para todos los usuarios y grupos del dominio. Este grupo se proporciona para la compatibilidad con versiones anteriores para equipos que ejecutan Windows NT 4.0 y versiones anteriores. De forma predeterminada, el grupo de identidad especial Todos es miembro de este grupo. Agregue usuarios a este grupo solo si ejecutan Windows NT 4.0 o versiones anteriores.
+
+Advertencia
+
+Este grupo aparece como un SID hasta que el controlador de dominio se convierte en el controlador de dominio principal y contiene el rol de maestro de operaciones (FSMO).
+
+Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-554
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | 
+- Si eliges el modo De permisos compatibles con Windows 2000 anterior: Todos los usuarios y anónimos
+
+- Si eliges el modo de permisos solo de Windows 2000: Usuarios autenticados
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | 
+ Tener acceso a este equipo desde la red: SeNetworkLogonRight
+
+ Omitir comprobación de recorrido: (SeChangeNotifyPrivilege)
+
+### Operadores de impresión
+
+Los miembros de este grupo pueden administrar, crear, compartir y eliminar las impresoras que hay conectadas a los controladores del dominio. También pueden administrar objetos de impresora de Active Directory en el dominio. Los miembros de este grupo pueden iniciar sesión localmente en los controladores de dominio del dominio y apagarlos.
+
+Este grupo no tiene ningún miembro predeterminado. Puesto que los miembros de este grupo pueden cargar y descargar controladores de dispositivo en todos los controladores del dominio, tenga precaución al agregar usuarios. Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+Para obtener más información, consulte Asignación de un administrador de impresión delegado y configuración de permisos de impresora en Windows Server 2012.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-550
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | Sí
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | 
+ Permitir el inicio de sesión local: SeInteractiveLogonRight
+
+ Cargar y descargar controladores de dispositivo: SeLoadDriverPrivilege
+
+ Apagar el sistema: SeShutdownPrivilege
+
+### Usuarios protegidos
+
+Los miembros del grupo Usuarios protegidos tienen protección adicional contra el riesgo de las credenciales durante los procesos de autenticación.
+
+Este grupo de seguridad está diseñado dentro de una estrategia con la que las credenciales de la empresa se protegen y administran eficazmente. Los miembros de este grupo tienen automáticamente protección no configurada aplicada a sus cuentas. La pertenencia al grupo de usuarios protegidos es de naturaleza restrictiva y segura proactivamente de forma predeterminada. El único método con el que estas protecciones de cuenta se pueden modificar consiste en quitar la cuenta del grupo de seguridad.
+
+Este grupo global relacionado con el dominio desencadena la protección no configurada en dispositivos y equipos host, a partir de Windows Server 2012 R2 y Windows 8.1. También desencadena la protección no configurada en controladores de dominio en dominios que tienen un controlador de dominio principal que ejecuta Windows Server 2012 R2 o posterior. Esta protección reduce considerablemente la huella de memoria de las credenciales cuando los usuarios inician sesión en los equipos de la red desde un equipo no comprometido.
+
+Según el nivel funcional del dominio de la cuenta, los miembros del grupo Usuarios protegidos se protegen aún más debido a los cambios de comportamiento en los métodos de autenticación que se admiten en Windows:
+
+- Los miembros del grupo Usuarios protegidos no se pueden autenticar mediante los siguientes proveedores de soporte técnico de seguridad (SSP): New Technology LAN Manager (NTLM), Digest Authentication o Credential Security Support Provider (CredSSP). Las contraseñas no se almacenan en caché en un dispositivo que ejecuta Windows 10 o Windows 8.1. El dispositivo no se puede autenticar en un dominio cuando la cuenta es miembro del grupo Usuarios protegidos.
+
+- El protocolo Kerberos no usa los tipos de cifrado de datos más débiles (DES) o Cifrado de Rivest 4 (RC4) en el proceso de preautenticación. El dominio debe configurarse para admitir al menos el conjunto de cifrado Estándar de cifrado avanzado (AES).
+
+- La cuenta del usuario no se puede delegar con la delegación restringida o sin restricciones de Kerberos. Si el usuario es miembro del grupo Usuarios protegidos, las conexiones anteriores a otros sistemas podrían causa run error.
+
+- Puede cambiar la configuración predeterminada de vigencia de vales de concesión de vales (TGT) de Kerberos de cuatro horas mediante directivas de autenticación y silos en el Centro de administración de Active Directory. En la configuración predeterminada, el usuario debe autenticarse después de cuatro horas.
+
+Este grupo se introdujo en Windows Server 2012 R2. Para obtener más información acerca de este grupo, vea Grupo de seguridad Usuarios protegidos.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>-525
+
+ | Tipo
+
+ | Global
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Servidores RAS e IAS
+
+Los equipos que son miembros del grupo Servidores RAS e IAS, cuando se configuran correctamente, pueden usar servicios de acceso remoto. De forma predeterminada, este grupo no tiene miembros. Los equipos que ejecutan el servicio de enrutamiento y acceso remoto (RRAS) y los servicios de acceso remoto, como el servicio de autenticación de Internet (IAS) y los servidores de directivas de red, se agregan automáticamente al grupo. Los miembros de este grupo tienen acceso a determinadas propiedades de objetos de usuario, como Leer restricciones de cuenta, Leer información de inicio de sesión y Leer información de acceso remoto.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>-553
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | Sí
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Servidores de extremo RDS
+
+Los servidores que son miembros del grupo Servidores de punto de conexión de RDS pueden ejecutar máquinas virtuales y hospedar sesiones en las que se ejecutan los programas de usuario de la característica RemoteApp y los escritorios virtuales personales. Debe rellenar este grupo en aquellos servidores que ejecutan Remote Desktop Connection Broker. Los servidores host de sesión y los servidores host de virtualización de escritorio remoto (RD Virtualization Host) utilizados en la implementación deben estar en este grupo. Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+Para obtener información sobre los Servicios de Escritorio remoto (RDS), consulte Información general de Servicios de Escritorio remoto en Windows Server.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-576
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | Los servicios de servidores de puntos de conexión de RDS no deben usarse en controladores de dominio. El grupo debe estar vacío.
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Servidores de administración de RDS
+
+Puede usar servidores que son miembros del grupo Servidores de administración de RDS para completar acciones administrativas rutinarias en servidores que ejecutan RDS. Debe rellenar este grupo en todos los servidores de una implementación de RDS. Los servidores que ejecutan el servicio de administración central de RDS deben incluirse en este grupo. Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-577
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | Los servicios de servidores de administración de RDS no deben usarse en controladores de dominio. El grupo debe estar vacío.
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Servidores de acceso remoto de RDS
+
+Los servidores del grupo Servidores de acceso remoto de RDS proporcionan a los usuarios acceso a los programas de la característica RemoteApp y a los escritorios virtuales personales. En las implementaciones accesibles desde Internet, estos servidores normalmente se implementan en una red perimetral. Debe completar este grupo en servidores que ejecutan el Agente de conexión de RD. Los servidores de puerta de enlace de Escritorio remoto (RD Gateway) y los servidores de Acceso web de Escritorio remoto (RD Web Access) que se usan en la implementación deben estar en este grupo. Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+Para obtener más información, consulte Información general de Servicios de Escritorio remoto en Windows Server.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-575
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | Los servicios de servidores de acceso remoto de RDS no deben usarse en controladores de dominio. El grupo debe estar vacío.
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Controladores de dominio de solo lectura
+
+Este grupo se compone de los RODC en el dominio. Un RODC permite a las organizaciones implementar fácilmente un controlador de dominio en escenarios en los que no se puede garantizar la seguridad física. Un escenario de ejemplo es una ubicación de sucursal o almacenamiento local de todas las contraseñas de dominio que se consideran una amenaza principal, como en una extranet o un rol orientado a la aplicación.
+
+Dado que puede delegar la administración de un RODC a un usuario de dominio o un grupo de seguridad, un RODC es adecuado para un sitio que no debe tener un usuario que sea miembro del grupo Administradores de dominio. Un RODC presenta la funcionalidad siguiente:
+
+- Una base de datos de AD DS de solo lectura
+
+- Replicación unidireccional
+
+- Almacenamiento en caché de credenciales
+
+- Separación de funciones de administrador
+
+- Un DNS de solo lectura
+
+Para obtener más información, consulte Descripción del planeamiento y la implementación de controladores de dominio de solo lectura.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-<dominio>-521
+
+ | Tipo
+
+ | Global
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | 
+ Replicación de contraseñas en RODC denegadas
+
+ | ¿Protegido por AdminSDHolder?
+
+ | Sí
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | N/A
+
+ | Derechos de usuario predeterminados
+
+ | Consulte Replicación de contraseñas en RODC denegadas
+
+### Usuarios de escritorio remoto
+
+Puede usar el grupo Usuarios de Escritorio remoto en un servidor host de sesión de Escritorio remoto para conceder a los usuarios y grupos permisos para conectarse de forma remota a dicho servidor. Este grupo no se puede cambiar de nombre, eliminar ni quitar. El grupo aparece como un SID hasta que el controlador de dominio se convierte en el controlador de dominio principal y contiene el rol de maestro de operaciones (FSMO).
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-555
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | Sí
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Usuarios de Administración remota
+
+Los miembros del grupo Usuarios de administración remota pueden acceder a los recursos de Instrumentación de administración de Windows (WMI) a través de protocolos de administración como Servicios web para administración (WS-Management) a través del servicio Administración Remota de Windows. El acceso a los recursos WMI solo se aplica a los espacios de nombres WMI que conceden acceso al usuario.
+
+Use el grupo Usuarios de administración remota para permitir que los usuarios administren servidores mediante la consola de Administrador del servidor. Use el grupo de WinRMRemoteWMIUsers__ para permitir que los usuarios ejecuten de forma remota comandos de Windows PowerShell.
+
+Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+Para obtener más información, consulte Acerca de WMI y Novedades de MI.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-580
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | 
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Duplicadores
+
+Los equipos que son miembros del grupo Replicación admiten la replicación de archivos en un dominio. Windows Server usa el Servicio de replicación de archivos (FRS) para replicar directivas del sistema y scripts de inicio de sesión almacenados en la carpeta Volumen del sistema (carpeta sysvol). Cada controlador de dominio mantiene una copia de la carpeta sysvol para que los clientes de red accedan a ella. FRS también puede replicar datos para el sistema de archivos distribuido (DFS) y sincronizar el contenido de cada miembro de un conjunto de réplicas tal como lo define el DFS. FRS puede copiar y mantener archivos y carpetas compartidos en varios servidores simultáneamente. Cuando se producen cambios, el contenido se sincroniza inmediatamente dentro de los sitios y según una programación entre sitios.
+
+Advertencia
+
+En Windows Server 2008 R2, no puede usar FRS para replicar carpetas DFS ni datos personalizados (no sysvol). Un controlador de dominio de Windows Server 2008 R2 todavía puede usar FRS para replicar el contenido del recurso compartido de carpeta sysvol en un dominio que usa FRS para replicar el recurso compartido de carpeta sysvol entre controladores de dominio. Sin embargo, los servidores de Windows Server 2008 R2 no pueden usar FRS para replicar el contenido de ningún conjunto de réplicas, excepto el recurso compartido de la carpeta sysvol. El servicio de replicación DFS es un reemplazo de FRS. Puede usar la replicación DFS para replicar el contenido de un recurso compartido de la carpeta sysvol, carpetas DFS y otros datos personalizados (no sysvol). Debe migrar todos los conjuntos de réplicas FRS que no pertenezcan a sysvol a la replicación DFS.
+
+Para obtener más información, consulte los siguientes recursos:
+
+- 
+ El servicio de replicación de archivos (FRS) está en desuso en Windows Server 2008 R2 (Windows)
+
+- 
+ Introducción a los espacios de nombres DFS y la replicación DFS
+
+Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-552
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | Sí
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Administradores de esquema
+
+Los miembros del grupo Administradores de esquema pueden modificar el esquema de Active Directory. Este grupo solo existe en el dominio raíz de un bosque de Dominios de Active Directory. Este grupo es un grupo universal si el dominio está en modo nativo. Este grupo es un grupo global si el dominio está en modo mixto.
+
+De forma predeterminada, el único miembro del grupo es la cuenta Administrador del dominio raíz del bosque. Este grupo tiene acceso administrativo completo al esquema.
+
+Cualquiera de los grupos de administradores de servicios del dominio raíz puede modificar la pertenencia de este grupo. Este grupo se considera una cuenta de administrador de servicios porque sus miembros pueden modificar el esquema, que rige la estructura y el contenido de todo el directorio.
+
+Para obtener más información, consulte ¿Qué es un esquema de Active Directory?
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-root< domain-518>
+
+ | Tipo
+
+ | Universal si el dominio está en modo nativo; de lo contrario, global
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | 
+ Administrador
+
+ | Miembro predeterminado de
+
+ | 
+ Replicación de contraseñas en RODC denegadas
+
+ | ¿Protegido por AdminSDHolder?
+
+ | Sí
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Consulte Replicación de contraseñas en RODC denegadas
+
+### Operadores de servidores
+
+Los miembros del grupo Operadores de servidor pueden administrar controladores de dominio. Este grupo solo existe en controladores de dominio. De forma predeterminada, este grupo no tiene miembros y no se puede cambiar el nombre, eliminar ni quitar. Los miembros del grupo Operadores de servidor pueden realizar las siguientes acciones:
+
+- Inicio de sesión en un servidor de forma interactiva
+
+- Creación y eliminación de recursos compartidos de red
+
+- Detener e iniciar los servicios
+
+- Copia de seguridad y restauración de archivos
+
+- Dar formato a la unidad de disco duro del dispositivo
+
+- Apagar el dispositivo
+
+De forma predeterminada, este grupo integrado no tiene miembros. Este grupo tiene acceso a las opciones de configuración del servidor en controladores de dominio. Su pertenencia se controla a través de los grupos de administradores de servicios Administradores y Administradores de dominio en el dominio, y por el grupo Administradores de empresa en el dominio raíz del bosque. Los miembros de este grupo no pueden cambiar ninguna pertenencia a grupos administrativos. Este grupo se considera una cuenta de administrador de servicios porque sus miembros tienen acceso físico a los controladores de dominio. Los miembros de este grupo pueden realizar tareas de mantenimiento como copias de seguridad y restauración, y pueden cambiar archivos binarios instalados en los controladores de dominio. Para conocer los derechos de usuario predeterminados del grupo, consulte la tabla siguiente.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-549
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | Sí
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | 
+ Permitir el inicio de sesión local: SeInteractiveLogonRight
+
+ Copia de seguridad de archivos y directorios: SeBackupPrivilege
+
+ Cambiar la hora del sistema: SeSystemTimePrivilege
+
+ Cambiar la zona horaria: SeTimeZonePrivilege
+
+ Forzar cierre desde un sistema remoto: SeRemoteShutdownPrivilege
+
+ Restaurar archivos y directorios: SeRestorePrivilege
+
+ Apagar el sistema: SeShutdownPrivilege
+
+### Administradores de réplicas de almacenamiento
+
+Los miembros del grupo de Administradores de Réplica de Almacenamiento tienen acceso completo y sin restricciones a todas las funcionalidades de la herramienta Réplica de almacenamiento.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-582
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Cuentas administradas del sistema
+
+La pertenencia al grupo Cuentas administradas del sistema se administra por el sistema. Este grupo incluye la cuenta administrada del sistema predeterminada (DSMA), que facilita las funciones del sistema.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-581
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | 
+ Usuarios
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Servidores de licencias de Terminal Server
+
+Los miembros del grupo Servidores de licencias de Terminal Server pueden actualizar cuentas de usuario en Active Directory con información sobre la emisión de licencias. El grupo se usa para realizar un seguimiento y notificar el uso de la Licencia de Acceso de Cliente de Terminal Server por Usuario (CAL por Usuario). Una CAL por usuario de TS concede a un usuario el derecho de acceso a una instancia de Terminal Server desde un número ilimitado de dispositivos o equipos cliente. Este grupo aparece como un SID hasta que el controlador de dominio se convierte en el controlador de dominio principal y contiene el rol de maestro de operaciones (FSMO). Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+Para obtener más información sobre este grupo de seguridad, consulte Configuración del grupo de seguridad del servidor de licencias de Terminal Services.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-561
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | Sí
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Usuarios
+
+Los miembros del grupo Usuarios no pueden realizar cambios accidentales o intencionados en todo el sistema. Los miembros de este grupo pueden ejecutar la mayoría de las aplicaciones. Después de la instalación inicial del sistema operativo, el único miembro es el grupo Usuarios autenticados. Cuando un equipo se une a un dominio, el grupo Usuarios del dominio se agrega al grupo Usuarios del equipo.
+
+Los usuarios pueden realizar tareas como ejecutar una aplicación, usar impresoras locales y de red, apagar el equipo y bloquear el equipo. Los usuarios pueden instalar aplicaciones que solo pueden usar si el programa de instalación de la aplicación admite la instalación por usuario. Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-545
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | 
+ Usuarios autenticados
+
+ Usuarios del dominio
+
+ Interactivo
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | No
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### Acceso de autorización de Windows
+
+Los miembros de este grupo tienen acceso al `tokenGroupsGlobalAndUniversal` atributo en objetos de usuario. Este acceso es útil, ya que algunas características de la aplicación leen el `token-groups-global-and-universal` atributo (`TGGAU`) en objetos de cuenta de usuario o en objetos de cuenta de equipo en AD DS. Algunas funciones win32 facilitan la lectura del `TGGAU` atributo. Pero las aplicaciones que leen este atributo o que llaman a una API que lee este atributo no tendrán éxito si el contexto de seguridad de la llamada no tiene acceso al atributo. Este grupo facilita el otorgamiento de acceso de lectura al atributo.
+
+Este grupo aparece como un SID hasta que el controlador de dominio se convierte en el controlador de dominio principal y contiene el rol de maestro de operaciones (FSMO). Este grupo no se puede cambiar de nombre, eliminar ni quitar.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-32-560
+
+ | Tipo
+
+ | Builtin Local
+
+ | Contenedor predeterminado
+
+ | CN=Builtin, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | 
+ Controladores de dominio de empresa
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | No se puede mover
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | Sí
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+### WinRMRemoteWMIUsers__
+
+A partir de Windows Server 2012 y Windows 8, la interfaz de usuario Configuración de seguridad avanzada contiene una pestaña Compartir . En esta pestaña se muestran las propiedades de seguridad de un recurso compartido de archivos remoto. Para ver esta información, debe tener los siguientes permisos y pertenencias:
+
+- Debe ser miembro del grupo WinRMRemoteWMIUsers__ o del grupo BUILTIN\Administrators.
+
+- Debe tener permisos de lectura en el recurso compartido de archivos.
+
+En Windows Server 2012, la funcionalidad Asistencia de acceso denegado agrega el grupo Usuarios autenticados al grupo local WinRMRemoteWMIUsers__. Cuando se habilita la funcionalidad Asistencia de acceso denegado, todos los usuarios autenticados que tienen permisos de lectura en el recurso compartido de archivos pueden ver los permisos del recurso compartido de archivos.
+
+Nota
+
+El grupo de WinRMRemoteWMIUsers__ permite a los miembros ejecutar comandos de Windows PowerShell de forma remota. Por el contrario, normalmente se usa el grupo Usuarios de administración remota para permitir que los usuarios administren servidores mediante la Consola de administrador del servidor.
+
+ | Atributo
+
+ | Valor
+
+ | SID/RID conocido
+
+ | S-1-5-21-domain-variable<>< RID>
+
+ | Tipo
+
+ | Local de dominio
+
+ | Contenedor predeterminado
+
+ | CN=Users, DC=<domain>, DC=
+
+ | Miembros predeterminados
+
+ | Ninguno
+
+ | Miembro predeterminado de
+
+ | Ninguno
+
+ | ¿Protegido por AdminSDHolder?
+
+ | No
+
+ | ¿Es seguro sacarlo del contenedor predeterminado?
+
+ | Sí
+
+ | ¿Es seguro delegar la administración de este grupo en administradores que no son de servicio?
+
+ | 
+
+ | Derechos de usuario predeterminados
+
+ | Ninguno
+
+## Contenido relacionado
+
+- 
+ Entidades de seguridad
+
+- 
+ Grupos de identidades especiales
+
+- 
+ Introducción al control de acceso
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-09-22

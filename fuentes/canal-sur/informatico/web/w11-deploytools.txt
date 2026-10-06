@@ -1,0 +1,386 @@
+URL: https://learn.microsoft.com/es-es/windows/deployment/windows-deployment-scenarios-and-tools
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Escenarios y herramientas de implementación de Windows
+
+## 
+
+Para implementar correctamente el sistema operativo Windows y las aplicaciones de su organización, es importante comprender las herramientas disponibles para ayudar con el proceso. En este artículo se tratan las herramientas más usadas para Windows 10 implementación.
+
+Microsoft proporciona muchas herramientas, servicios y soluciones. Estas herramientas incluyen Servicios de implementación de Windows (WDS), la Herramienta de administración de activación por volumen (VAMT), la Herramienta de migración de estado de usuario (USMT), Windows System Image Manager (Windows SIM), Windows Preinstallation Environment (Windows PE) y Windows Recovery Environment (Windows RE). Estas herramientas no son una solución completa por sí solas. Combine estas herramientas con soluciones como Configuration Manager para obtener una solución de implementación completa.
+
+En este artículo también se tratan los diferentes tipos de imágenes de referencia que se pueden crear y por qué las imágenes de referencia son beneficiosas para la mayoría de las organizaciones.
+
+## Windows Assessment and Deployment Kit
+
+El Kit de evaluación e implementación de Windows (Windows ADK) contiene herramientas y tecnologías básicas de evaluación e implementación, entre las que se incluyen:
+
+- 
+ Administración y mantenimiento de imágenes de implementación (DISM).
+
+- 
+ Designer de configuración de Windows.
+
+- 
+ Administrador de imágenes del sistema de Windows (Windows SIM).
+
+- 
+ Herramienta de migración de estado de usuario (USMT).
+
+- 
+ Herramienta de administración de activación por volumen (VAMT).
+
+- 
+ Entorno de preinstalación de Windows (Windows PE).
+
+- 
+ Kit de herramientas de evaluación de Windows.
+
+- 
+ Windows Performance Toolkit (WPT).
+
+Para obtener más información, consulta los artículos siguientes:
+
+- 
+ Descargue e instale Windows ADK.
+
+- 
+ Escenarios de Windows ADK para Windows para profesionales de TI.
+
+- 
+ Información general sobre kits y herramientas.
+
+### Administración y mantenimiento de imágenes de implementación (DISM)
+
+DISM es una de las herramientas de implementación incluidas en Windows ADK. Se usa para capturar, reparar e implementar imágenes de arranque e imágenes de sistema operativo.
+
+Imágenes en línea y sin conexión de los servicios DISM. Por ejemplo, con DISM puede instalar Microsoft .NET Framework mientras Windows está en línea, lo que significa que puede iniciar la instalación en el sistema operativo en ejecución. El `/LimitAccess` modificador configura DISM para obtener los archivos solo de un origen local. Por ejemplo:
+
+`Dism.exe /Online /Enable-Feature /FeatureName:NetFX3 /All /Source:D:\Sources\SxS /LimitAccess
+`
+
+Windows PowerShell se puede usar en Windows para muchas de las funciones realizadas por DISM.exe. El comando equivalente en Windows con PowerShell es:
+
+`Enable-WindowsOptionalFeature -Online -FeatureName NetFx3 -All
+-Source D:\Sources\SxS -LimitAccess
+`
+
+Para obtener más información sobre DISM, consulte referencia técnica de DISM.
+
+### Herramienta de migración de estado de usuario (USMT)
+
+USMT es una herramienta de copia de seguridad y restauración que le permite migrar el estado del usuario, los datos y la configuración de una instalación a otra. Microsoft Configuration Manager usa USMT como parte del proceso de implementación del sistema operativo.
+
+USMT incluye varias herramientas de línea de comandos, las más importantes son ScanState y LoadState:
+
+- 
+ ScanState.exe: esta herramienta realiza la copia de seguridad de estado de usuario.
+
+- 
+ LoadState.exe: esta herramienta realiza la restauración de estado de usuario.
+
+- 
+ UsmtUtils.exe: esta herramienta complementa la funcionalidad de ScanState.exe y LoadState.exe.
+
+Además de estas herramientas, también hay plantillas XML que administran qué datos se migran. Puede personalizar las plantillas o crear otras nuevas para administrar el proceso de copia de seguridad con un alto nivel de detalle. USMT usa los siguientes términos para sus plantillas:
+
+- 
+ Plantillas de migración: las plantillas predeterminadas en USMT.
+
+- 
+ Plantillas personalizadas: plantillas personalizadas que se crean.
+
+- 
+ Plantilla de configuración: plantilla opcional denominada Config.xml que puede usar para excluir o incluir componentes en una migración sin modificar las demás plantillas XML estándar.
+
+USMT admite la captura y restauración de datos y configuraciones de las versiones compatibles actualmente de Windows. También admite la migración de un sistema operativo de 32 bits a un sistema operativo de 64 bits, pero no al revés. Por ejemplo, puede usar USMT para migrar de Windows 10 x86 a Windows 11 x64.
+
+De forma predeterminada, USMT migra muchas configuraciones, la mayoría de las cuales están relacionadas con el perfil de usuario, pero también con Panel de control configuraciones, tipos de archivo, etc. Las plantillas predeterminadas que se usan en las implementaciones de Windows se MigUser.xml y MigApp.xml. Estas dos plantillas predeterminadas migran los datos y la configuración siguientes:
+
+- 
+Carpetas de cada perfil, incluidas esas carpetas de perfiles de usuario y perfiles compartidos y públicos. Por ejemplo, las siguientes carpetas:
+
+- Documentos.
+
+- Vídeo.
+
+- Música.
+
+- Fotos.
+
+- Escritorio.
+
+- 
+Los siguientes tipos de archivo específicos:
+
+ `.accdb`, `.ch3`, `.csv`, `.dif`, `.doc*`, `.dot*`, `.dqy`, `.iqy`, `.mcw`, `.mdb*`, `.mpp`, `.one*`, `.oqy`, `.or6`, `.pot*`, `.ppa`, `.pps*`, `.ppt*`, `.pre`, `.pst`, `.pub`, `.qdf`, `.qel`, `.qph`, `.qsd`, `.rqy`, `.rtf`, `.scd`, `.sh3`, `.slk`, `.txt`, `.vl*`, `.vsd`, `.wk*`, `.wpd`, `.wps`, `.wq1`, `.wri`, `.xl*`, `.xla`, `.xlb`, `.xls*`
+
+Nota
+
+- 
+El asterisco (`*`) significa cero o más caracteres.
+
+- 
+Las extensiones de OpenDocument (`*.odt`, `*.odp`, `*.ods`) que usan las aplicaciones de Microsoft Office no se migran de forma predeterminada.
+
+- 
+Configuración del componente del sistema operativo.
+
+- 
+Configuración de la aplicación.
+
+Esta configuración se migra mediante las plantillas predeterminadas deMigUser.xml y MigApp.xml . Para obtener más información, consulte ¿Qué migra USMT? Para obtener más información general sobre USMT, vea Información general sobre la Herramienta de migración de estado de usuario (USMT).
+
+### Diseñador de configuraciones de Windows
+
+Windows Configuration Designer es una herramienta diseñada para ayudar a crear paquetes de aprovisionamiento que se pueden usar para configurar dinámicamente un dispositivo Windows. Esta herramienta es útil para configurar nuevos dispositivos sin necesidad de volver aimajar el dispositivo con una imagen personalizada.
+
+Para obtener más información, vea Aprovisionamiento de paquetes para Windows.
+
+### Administrador de imágenes del sistema de Windows (Windows SIM)
+
+Windows System Image Manager (Windows SIM) es una herramienta de creación de archivos Unattend.xml . Windows SIM no suele ser necesario cuando se usa Microsoft Configuration Manager. Microsoft Configuration Manager crea y actualiza automáticamente el archivo Unattend.xml en función de la configuración especificada en la secuencia de tareas, principalmente en la tarea Aplicar configuración de Windows. La automatización de Microsoft Configuration Manager simplifica enormemente el proceso general.
+
+Para obtener más información, vea Referencia técnica de Windows System Image Manager.
+
+### Herramienta de administración de activación por volumen (VAMT)
+
+Si no usa Key Management Services (KMS), se pueden administrar de forma centralizada varias claves de activación (MAK) con el Herramienta de administración de activación por volumen (VAMT). Use esta herramienta para instalar y administrar claves de producto en toda la organización. VAMT también puede activarse en nombre de clientes sin acceso a Internet, actuando como un proxy MAK.
+
+VAMT también se puede usar para crear informes, cambiar de MAK a KMS, administrar la activación basada en Active Directory y administrar la activación por volumen de Office. VAMT también admite PowerShell. Por ejemplo, para obtener información de la base de datos VAMT, escriba:
+
+`Get-VamtProduct
+`
+
+Para obtener más información sobre VAMT, consulte los artículos siguientes:
+
+- 
+ Herramienta de administración de activación por volumen (VAMT).
+
+- 
+ Referencia técnica de VAMT.
+
+### Entorno de preinstalación de Windows (Windows PE)
+
+Windows PE es una versión "lite" de Windows que se usa como plataforma de implementación.
+
+Windows PE es como cualquier otro sistema operativo y necesita controladores. Sin embargo, no necesita un conjunto completo de controladores. Solo necesita un conjunto minimalista de controladores necesarios para implementar Windows. Normalmente solo se necesitan controladores de red y almacenamiento. Windows PE ya incluye un conjunto de controladores de fábrica para que la mayoría de los dispositivos funcionen sin necesidad de agregar controladores adicionales.
+
+Para obtener más información sobre Windows PE, vea Windows PE (WinPE).
+
+## Entorno de recuperación de Windows
+
+Windows Recovery Environment (Windows RE) es un conjunto de herramientas de diagnóstico y recuperación incluido en las versiones compatibles actualmente de Windows. Windows RE se basa en Windows PE. Si es necesario, Windows RE también se puede ampliar con herramientas personalizadas. Si windows no se inicia y se instala Windows RE, se produce una conmutación por error automática en Windows RE.
+
+Para obtener más información sobre Windows RE, vea Entorno de recuperación de Windows.
+
+## Servicios de implementación de Windows
+
+Las principales funciones de Servicios de implementación de Windows (WDS) son:
+
+- Compatibilidad con el arranque PXE.
+
+- Multidifusión.
+
+- Desbloqueo de red de BitLocker.
+
+Se deben tener en cuenta las siguientes consideraciones al usar WDS para la implementación del sistema operativo:
+
+- 
+WDS se puede configurar para el modo independiente o para la integración de Active Directory. El modo de integración de Active Directory se recomienda en la mayoría de los escenarios.
+
+- 
+WDS tiene la capacidad de administrar controladores. Sin embargo, la administración de controladores a través de Microsoft Configuration Manager es más adecuada para la implementación debido a su flexibilidad.
+
+- 
+WDS puede preconfigurar dispositivos desconocidos como un equipo conocido en Active Directory. Sin embargo, Microsoft Configuration Manager también tiene la capacidad de almacenar en ensayo dispositivos desconocidos como dispositivos conocidos en su base de datos. En la mayoría de los escenarios, Microsoft Configuration Manager es una mejor solución para dispositivos de almacenamiento provisional, ya que permite un mayor control y administración.
+
+- 
+El tamaño de bloque del Protocolo de transferencia de archivos trivial (TFTP) y la configuración del tamaño de windows se pueden configurar con WDS para aumentar el rendimiento y las velocidades de descarga durante el arranque PXE. Sin embargo, aunque un aumento de la configuración tftp puede aumentar el rendimiento y las velocidades de descarga, también puede reducir la confiabilidad y causar errores, incluida una reducción de las velocidades de descarga. Hay muchas variables implicadas al determinar la configuración de TFTP, incluidos los equipos de red, la configuración de red y la compatibilidad de dispositivos.
+
+Para WDS independiente, la configuración tftp se puede configurar en la consola WDS bajo la pestaña TFTP en las propiedades del servidor WDS. Para Microsoft Configuration Manager, consulte Personalización de los tamaños de ventana y bloque TFTP de RamDisk en puntos de distribución habilitados para PXE.
+
+## Windows Server Update Services
+
+WSUS es un rol de servidor en Windows Server que habilita un repositorio local de actualizaciones de Microsoft. A continuación, Microsoft Update se puede distribuir desde el servidor WSUS a los dispositivos del entorno de la organización sin tener que salir al sitio público de Microsoft Update. WSUS ofrece control de aprobación e informes del estado de actualización en el entorno.
+
+Para obtener más información sobre WSUS, consulte el Windows Server Update Services (WSUS).
+
+## Interfaz de firmware extensible unificada
+
+Unified Extensible Firmware Interface (UEFI) se usa para inicializar y arrancar un dispositivo. Es el sucesor del BIOS, el método que se usa durante muchos años para inicializar y arrancar un dispositivo.
+
+En esta sección se analizan las ventajas de UEFI sobre BIOS, cómo difieren los dos y ahora afecta a la implementación del sistema operativo.
+
+### Introducción a UEFI
+
+Aunque el BIOS se usó correctamente en los dispositivos durante muchos años, tiene algunas limitaciones. Por ejemplo:
+
+- Código de 16 bits
+
+- Espacio de direcciones de 1 MB
+
+- Rendimiento deficiente en la inicialización de ROM
+
+- Tamaño máximo de disco de arranque de MBR de 2,2 TB
+
+Como reemplazo del BIOS, UEFI tiene muchas características que el BIOS no tiene. Windows puede aprovechar muchas de estas características de UEFI. UEFI tiene las siguientes características que no están disponibles en el BIOS:
+
+- 
+
+ Compatibilidad con discos grandes : UEFI requiere un disco basado en tabla de particiones GUID (GPT). GPT puede admitir discos de hasta 16,8 millones de TB aproximadamente en tamaño de disco. GPT también admite más de 100 discos principales.
+
+- 
+
+ Tiempo de arranque más rápido : UEFI reemplaza la llamada de interrupción del BIOS INT 13h, lo que mejora el tiempo de arranque, especialmente cuando se reanuda desde la hibernación.
+
+- 
+
+ Implementación de multidifusión : el firmware ueFI puede usar la multidifusión directamente cuando se inicia. Con soluciones como WDS y Microsoft Configuration Manager, la compatibilidad con multidifusión solo está disponible al arrancar primero en Windows PE. Con UEFI, la multidifusión se puede ejecutar directamente desde UEFI.
+
+- 
+
+ Compatibilidad con bios anteriores : los dispositivos más antiguos con UEFI tenían una implementación de UEFI que incluía un módulo de compatibilidad (CSM) que emula el BIOS. Sin embargo, debido a la compatibilidad amplia actual de UEFI, los dispositivos modernos generalmente no tienen un CSM y, por lo tanto, no son compatibles con el BIOS. Por ejemplo, Windows 11 y versiones más recientes no admiten BIOS, por lo que solo se ejecuta en dispositivos modernos que tienen UEFI.
+
+- 
+
+ Arquitectura independiente de la CPU : el BIOS puede ejecutar versiones de firmware de 32 y 64 bits. Sin embargo, todos los controladores de dispositivos de firmware en sistemas BIOS deben ser de 16 bits. Esta limitación afecta al rendimiento y solo se pueden solucionar 64 KB de memoria. UEFI elimina estas limitaciones.
+
+- 
+
+ Controladores independientes de la CPU : en los sistemas BIOS, las tarjetas complementarias PCI deben incluir una ROM que contenga un controlador independiente para todas las arquitecturas de CPU admitidas. Esta limitación no es necesaria para UEFI porque UEFI tiene la capacidad de usar imágenes de código de bytes EFI (EBC). Las imágenes de EBC permiten un entorno de controlador de dispositivo independiente del procesador.
+
+- 
+
+ Entorno de sistema pre-operativo flexible : UEFI admite la aplicación UEFI que se puede ejecutar antes de cargar el sistema operativo. Las aplicaciones UEFI permiten muchas características adicionales, como diagnósticos, reparaciones automáticas y la capacidad de llamar a casa para notificar errores.
+
+- 
+
+ Arranque seguro : las versiones compatibles actualmente de Windows usan el proceso de validación de firmware UEFI, denominado arranque seguro. Cuando se usa el arranque seguro, UEFI garantiza que solo inicia un cargador de sistema operativo comprobado y que el malware no puede cambiar el cargador de arranque.
+
+### Compatibilidad de hardware con UEFI
+
+En lo que respecta a UEFI, el hardware se divide en cuatro clases de dispositivos:
+
+- 
+Dispositivos de clase 0. Los dispositivos de esta clase son dispositivos BIOS o que no son UEFI.
+
+- 
+Dispositivos de clase 1. Los dispositivos de esta clase se comportan como un dispositivo DE BIOS estándar, pero ejecutan EFI internamente. Deben tratarse como máquinas normales basadas en BIOS. Los dispositivos de clase 1 usan un CSM para emular el BIOS.
+
+- 
+Dispositivos de clase 2. Los dispositivos de esta clase tienen la capacidad de comportarse como un dispositivo BIOS o como un dispositivo UEFI. El proceso de arranque o la configuración en el firmware del dispositivo determina el modo. Los dispositivos de clase 2 usan un CSM para emular el BIOS.
+
+- 
+Dispositivos de clase 3. Los dispositivos de esta clase son dispositivos solo UEFI. No tienen compatibilidad con versiones anteriores con bios. Los dispositivos de esta clase deben ejecutar un sistema operativo que admita UEFI. Todas las versiones compatibles actualmente de Windows admiten UEFI. Los dispositivos de clase 3 no tienen un CSM para emular el BIOS.
+
+En general, todos los dispositivos modernos son dispositivos de clase 3. Los dispositivos de clase 0, clase 1 y clase 2 son dispositivos más antiguos y ya no se fabrican.
+
+### Compatibilidad de Windows con UEFI
+
+- 
+Windows 10 admite versiones x86 y x64 de UEFI.
+
+- 
+Windows 11 y versiones más recientes solo admiten versiones x64 de UEFI.
+
+- 
+UEFI no admite el arranque multiplataforma.
+
+- Los dispositivos UEFI x64 solo pueden ejecutar un sistema operativo de 64 bits. La mayoría de los dispositivos UEFI modernos son x64.
+
+- Los dispositivos UEFI x86 solo pueden ejecutar un sistema operativo de 32 bits. Para Windows, solo Windows 10 x86 admite UEFI x86. Windows 11 y versiones más recientes no admiten UEFI x86. La falta de compatibilidad con UEFI x86 en Windows 11 generalmente no es un problema, ya que los dispositivos UEFI x86 son poco frecuentes.
+
+### Consideraciones de UEFI para la implementación del sistema operativo
+
+Hay muchas cosas que afectan a la implementación del sistema operativo en cuanto se ejecuta en hardware basado en UEFI/EFI. Estas son las consideraciones que debe tener en cuenta al trabajar con dispositivos UEFI:
+
+- 
+Los dispositivos de clase 2 pueden cambiar entre BIOS y UEFI a través del firmware del dispositivo. Asegúrese de que el modo deseado para el dispositivo esté seleccionado en el firmware del dispositivo. Microsoft recomienda usar dispositivos de clase 2 en modo UEFI debido a las ventajas y la seguridad agregadas que proporciona UEFI.
+
+Cuando se cambia un dispositivo de clase 2 de BIOS a UEFI, debe realizarse una de las dos acciones siguientes:
+
+- 
+El disco debe convertirse de MBR a GPT y, a continuación, particionar en consecuencia para admitir UEFI. Esta conversión se puede realizar a través de una herramienta como diskpart. Por ejemplo, aunque Windows que se ejecuta en BIOS solo requiere una partición que puede ser FAT32 o NTFS, Windows que se ejecuta en un dispositivo UEFI requiere las siguientes particiones:
+
+- Partición de arranque/sistema FAT32.
+
+- Partición del sistema operativo NTFS.
+
+- Partición reservada de Microsoft (MSR) (única para Windows).
+
+- Partición de recuperación (opcional).
+
+Dado que el disco existente se borra como parte de este proceso, deben realizarse las siguientes acciones:
+
+- Es necesario volver a instalar Windows.
+
+- Es necesario volver a instalar las aplicaciones.
+
+- Es necesario realizar una copia de seguridad y restaurar los datos y la configuración.
+
+Para obtener más información, consulte Particiones de disco duro basadas en UEFI/GPT.
+
+- 
+La herramientaMBR2GPT.EXE se puede usar para convertir el disco de MBR a GPT para su uso con UEFI de forma no destructiva. 
+ MBR2GPT.EXE también vuelve a configurar la creación de particiones en el disco con la partición correcta para que Windows se ejecute en UEFI. La ventaja de usar el MBR2GPT.EXE es que convierte el disco y lo vuelve a particionar sin borrar el disco y sin pérdida de datos. Dado que el disco no se borra y no hay pérdida de datos, no es necesario realizar las siguientes acciones:
+
+- No es necesario volver a instalar Windows.
+
+- No es necesario volver a instalar las aplicaciones.
+
+- No es necesario realizar una copia de seguridad y restaurar los datos y la configuración.
+
+- 
+Al implementar un dispositivo de clase 2, asegúrese de que la opción de arranque esté establecida en el dispositivo de arranque adecuado (disco duro, unidad flash, PXE, etc.) Las opciones de arranque disponibles en los dispositivos de clase 2 pueden diferir entre los modos BIOS y UEFI.
+
+- 
+Cuando un dispositivo UEFI arranca de los medios, el medio tiene que ser FAT32. UEFI solo admite el arranque desde particiones FAT32, por lo que la partición de arranque/sistema en el disco es FAT32. Además, FAT32 tiene una limitación de tamaño de archivo de 4 GB. Las imágenes del sistema operativo de más de 4 GB deben dividirse con una herramienta como DISM. Para obtener más información, vea Split-WindowsImage o /Split-Image.
+
+- 
+UEFI no admite el arranque entre arquitecturas. Los dispositivos x64 requieren medios de arranque x64 y los dispositivos x86 requieren medios de arranque x86.
+
+- 
+La mayoría de los dispositivos UEFI modernos son x64. Los dispositivos UEFI x86 son poco frecuentes.
+
+Para obtener más información sobre UEFI, consulte la introducción al firmware de UEFI y los recursos relacionados.
+
+## Contenidos relacionados
+
+- 
+ Escenarios de Windows ADK para Windows para profesionales de TI.
+
+- 
+ MBR2GPT.EXE.
+
+- 
+ Particiones de disco duro basadas en UEFI/GPT.
+
+- 
+ Firmware UEFI.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2024-09-01

@@ -1,0 +1,87 @@
+URL: https://support.microsoft.com/es-es/windows/uninstall-or-remove-apps-and-programs-in-windows-4b55f974-2cc6-2d2b-d092-5905080eaf98
+Leído: 2026-10-05
+
+# 
+
+ Se aplica a
+Windows 10 Windows 11 
+
+## Resumen 
+
+Hay diferentes formas de quitar aplicaciones y programas, por lo que, si no encuentras el que estás buscando, puedes probar con otra ubicación. Ten en cuenta que algunas aplicaciones y programas están integrados en Windows y no se pueden desinstalar. Puedes intentar reparar primero un programa si simplemente no funciona correctamente.
+
+ Desinstalar desde el menú Inicio
+
+- 
+
+Selecciona Inicio > Todas las aplicaciones y busca la aplicación en la lista que se muestra.
+
+- 
+
+Mantén presionada la aplicación (o haz clic con el botón derecho en ella) y luego selecciona Desinstalar.
+
+ Desinstalar en Configuración 
+
+- 
+
+Selecciona Inicio > Configuración > Aplicaciones > Aplicaciones instaladas .
+
+- 
+
+Busca la aplicación que quieras quitar, selecciona Más > Desinstalar.
+
+Nota: En este momento, algunas aplicaciones no se pueden desinstalar de la aplicación Configuración. Para obtener ayuda para desinstalar estas aplicaciones, sigue las instrucciones para desinstalar de Panel de control. 
+
+ Desinstalar de Panel de control 
+
+- 
+
+En la búsqueda de la barra de tareas, escribe Panel de control y selecciónalo en los resultados.
+
+- 
+
+Selecciona Programas > Programas y características.
+
+- 
+
+Mantén presionado el programa que quieres desinstalar (o haz clic en él) y selecciona Desinstalar o Desinstalar/Cambiar. A continuación, sigue las indicaciones en pantalla.
+
+¿Necesitas más ayuda?
+
+- 
+
+Si no encuentras una aplicación o un programa, prueba las sugerencias de Ver todas las aplicaciones en Windows y Cómo comprobar si una aplicación o un programa está instalado en Windows.
+
+- 
+
+Si recibes un mensaje de error al desinstalar, prueba el Solucionador de problemas de instalación y desinstalación de programas.
+
+- 
+
+Si estás intentando quitar malware, consulta Mantenerse protegido con Seguridad de Windows para averiguar cómo ejecutar un análisis. O bien, si usas otro programa de software antivirus, comprueba sus opciones de protección antivirus.
+
+ SUSCRIBIRSE A FUENTES RSS
+
+### ¿Necesita más ayuda?
+
+### ¿Quiere más opciones?
+
+Explore las ventajas de las suscripciones, examine los cursos de aprendizaje, aprenda a proteger su dispositivo y mucho más.
+
+Ventajas de la suscripción de Microsoft 365
+
+Aprendizaje de Microsoft 365
+
+Seguridad de Microsoft
+
+Centro de accesibilidad
+
+ Las comunidades le ayudan a formular y responder preguntas, enviar comentarios y leer a expertos con conocimientos extensos.
+
+Pregunte en Microsoft Community
+
+Microsoft Tech Community
+
+Windows Insiders
+
+Microsoft 365 Insiders

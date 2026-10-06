@@ -1,0 +1,239 @@
+URL: https://learn.microsoft.com/es-es/windows-server/virtualization/hyper-v/get-started/install-hyper-v
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Instalar Hyper-V
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+En este artículo se muestra cómo instalar Hyper-V en Windows y Windows Server. Siga el conjunto de instrucciones que se ajusten a sus necesidades.
+
+Para crear y ejecutar máquinas virtuales, instale el rol de Hyper-V en Windows Server mediante el Administrador del servidor o el cmdlet Install-WindowsFeature en Windows PowerShell.
+
+Para obtener más información sobre Hyper-V, consulte información general sobre la tecnologíaHyper-V. Para probar Windows Server 2025, puede descargar e instalar una copia de evaluación. Consulte el Centro de evaluación.
+
+## Comprobación de los requisitos de Windows Server
+
+Antes de instalar Windows Server o agregar el rol de Hyper-V, asegúrese de que:
+
+- 
+El hardware del equipo es compatible. Para obtener más información, vea Requisitos del sistema para Windows Server y requisitos del sistema para Hyper-V en Windows Server.
+
+- 
+No tiene previsto usar aplicaciones de virtualización de terceros que dependen de las mismas características de procesador que Hyper-V requiere. Entre los ejemplos se incluyen la estación de trabajo de VMware y VirtualBox. Puede instalar Hyper-V sin desinstalar estas otras aplicaciones. Sin embargo, si intenta usarlos para administrar máquinas virtuales cuando se ejecuta el hipervisor de Hyper-V, es posible que las máquinas virtuales no se inicien o se ejecuten indistintamente. Para obtener información detallada e instrucciones para desactivar el hipervisor de Hyper-V si necesita usar una de estas aplicaciones, consulte Las aplicaciones de virtualización no funcionan junto con Hyper-V, Device Guard y Credential Guard.
+
+Si desea instalar solo las herramientas de administración, como Hyper-V Manager, consulte Administración remota de hosts de Hyper-V con Hyper-V Manager.
+
+## Instalar Hyper-V
+
+- 
+
+ PowerShell
+
+- 
+
+ GUI
+
+ Para instalar Hyper-V en Windows Server mediante PowerShell:
+
+- 
+En el Escritorio de Windows, seleccione el botón Inicio y escriba cualquier parte del nombre Windows PowerShell.
+
+- 
+Haga clic con el botón derecho en Windows PowerShell y seleccione Ejecutar como administrador.
+
+Important
+
+Debe ejecutar PowerShell como administrador o se producirá un error en los comandos.
+
+- 
+Para instalar Hyper-V en un servidor al que está conectado de forma remota, ejecute el siguiente comando y reemplace `<computer_name>` por el nombre del servidor. Si está conectado localmente al servidor, ejecute el comando sin `-ComputerName <computer_name>`.
+
+`Install-WindowsFeature -Name Hyper-V -ComputerName <computer_name> -IncludeManagementTools -Restart
+`
+
+- 
+Se inicia la instalación. Tan pronto como finalice la instalación, el equipo se reinicia.
+
+- 
+Una vez reiniciado el servidor, puede ver que el rol de Hyper-V está instalado ejecutando el siguiente comando:
+
+`Get-WindowsFeature Hyper-V -ComputerName <computer_name>
+`
+
+Si está conectado localmente al servidor, ejecute el comando sin `-ComputerName <computer_name>`.
+
+Note
+
+Si instala este rol en un servidor que ejecuta la opción de instalación Server Core de Windows Server y usa el parámetro `-IncludeManagementTools`, solo se instala el módulo Hyper-V para Windows PowerShell. Puede usar la herramienta de administración de GUI, Hyper-V Manager, en otro equipo para administrar de forma remota un host de Hyper-V que se ejecuta en una instalación de Server Core. Para obtener instrucciones sobre cómo conectarse de forma remota, consulte Administración remota de hosts de Hyper-V con Hyper-V Manager.
+
+ Para instalar Hyper-V en Windows Server mediante el Administrador del servidor:
+
+- 
+Abra el Administrador del servidor si aún no está abierto. Para iniciar la aplicación, seleccione Iniciar y busque y seleccione Administrador del servidor.
+
+- 
+En el Administrador del servidor, en el menú Administrar , seleccione Agregar roles y características.
+
+- 
+En la página Antes de comenzar, compruebe que el servidor de destino y el entorno de red estén preparados para el rol y la característica que desea instalar. Seleccione Siguiente.
+
+- 
+En la página Seleccionar tipo de instalación , seleccione Instalación basada en roles o basada en características y, a continuación, seleccione Siguiente.
+
+- 
+En la página Seleccionar servidor de destino , seleccione un servidor del grupo de servidores y, a continuación, seleccione Siguiente.
+
+- 
+En la pantalla Seleccionar roles de servidor, seleccione Hyper-V. En la página Asistente para agregar roles y características , seleccione Agregar características y, a continuación, seleccione Siguiente.
+
+- 
+En la página Seleccionar características, seleccione Siguiente y, a continuación, seleccione Siguiente de nuevo.
+
+- 
+En las páginas Crear conmutadores virtuales, Migrar máquinas virtuales y Almacenes predeterminados, seleccione las opciones que se adapten a su entorno específico.
+
+- 
+En la página Confirmar selecciones de instalación , seleccione Reiniciar el servidor de destino automáticamente si es necesario y, a continuación, seleccione Instalar.
+
+- 
+Cuando finalice la instalación, verifique que Hyper-V se haya instalado correctamente. Abra la página Todos los servidores en el Administrador del servidor y seleccione un servidor en el que instaló Hyper-V. Active el icono Roles y características de la página del servidor seleccionado.
+
+Habilite Hyper-V para crear máquinas virtuales en Windows. Hyper-V se puede habilitar de muchas maneras, incluido el uso del panel de control de Windows, PowerShell o la herramienta de administración y mantenimiento de imágenes de implementación (DISM). En este artículo se explica cada opción.
+
+Note
+
+Hyper-V está integrado en Windows como una característica opcional; no hay ninguna descarga Hyper-V.
+
+## Comprobación de los requisitos de Windows
+
+- Windows 10 (Pro o Enterprise) o Windows 11 (Pro o Enterprise)
+
+- Procesador de 64 bits con traducción de direcciones de segundo nivel (SLAT).
+
+- Compatibilidad de CPU con la extensión del modo monitor de la máquina virtual (VT-c en CPU de Intel).
+
+- Mínimo de 4 GB de memoria.
+
+Note
+
+El rol Hyper-V no se puede instalar en Windows 10 Home o Windows 11 Home.
+
+Para obtener más información y solucionar problemas, consulte Requisitos del sistema de Windows Hyper-V.
+
+## Habilitar Hyper-V
+
+- 
+
+ PowerShell
+
+- 
+
+ GUI
+
+ Para habilitar Hyper-V en Windows mediante PowerShell:
+
+- 
+En el Escritorio de Windows, seleccione el botón Inicio y escriba cualquier parte del nombre Windows PowerShell.
+
+- 
+Haga clic con el botón derecho en Windows PowerShell y seleccione Ejecutar como administrador.
+
+Important
+
+Debe ejecutar PowerShell como administrador o se producirá un error en los comandos.
+
+- 
+Ejecute el siguiente comando:
+
+`Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
+`
+
+- 
+Escriba Y para que el equipo se reinicie para completar la instalación.
+
+ Para habilitar el rol de Hyper-V en Windows mediante DISM:
+
+La utilidad Deployment Image Servicing and Management (DISM) ayuda a configurar Windows y las imágenes de Windows. Entre sus muchas aplicaciones, DISM puede habilitar las características de Windows mientras se ejecuta el sistema operativo.
+
+- 
+En el Escritorio de Windows, seleccione el botón Inicio y escriba cualquier parte del nombre Windows PowerShell.
+
+- 
+Haga clic con el botón derecho en Windows PowerShell y seleccione Ejecutar como administrador.
+
+- 
+Escriba el siguiente comando:
+
+`DISM /Online /Enable-Feature /All /FeatureName:Microsoft-Hyper-V
+`
+
+- 
+Verá que la característica está habilitada y que "La operación se completó correctamente".
+
+Para obtener más información sobre DISM, consulte la Referencia técnica de DISM.
+
+ Para habilitar Hyper-V en Windows 11:
+
+- 
+Vaya al Panel de control. Seleccione Inicio y busque Panel de control para abrir la aplicación.
+
+- 
+Seleccione Programas y, a continuación, Programas y características.
+
+- 
+Seleccione Activar o desactivar características de Windows.
+
+- 
+Seleccione Hyper-V y, a continuación, seleccione Aceptar.
+
+Cuando finalice la instalación, se le pedirá que reinicie el equipo.
+
+ Para habilitar Hyper-V en Windows 10:
+
+- 
+Seleccione Inicio y, a continuación, busque y seleccione Configuración.
+
+- 
+Seleccione Aplicaciones y características. A continuación, seleccione Programas y características.
+
+- 
+Seleccione Activar o desactivar las características de Windows.
+
+- 
+Seleccione Hyper-V y, a continuación, seleccione Aceptar.
+
+- 
+Para completar la instalación, reinicie el equipo.
+
+## Paso siguiente
+
+- 
+ Creación de una máquina virtual en Hyper-V
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-05-26

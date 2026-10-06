@@ -1,0 +1,650 @@
+URL: https://learn.microsoft.com/en-us/windows/whats-new/deprecated-features
+Leído: 2026-10-05
+
+Read in English
+
+ Edit
+
+ Note
+
+ Access to this page requires authorization. You can try signing in or changing directories.
+
+ Access to this page requires authorization. You can try changing directories.
+
+# Deprecated features for Windows client
+
+- Applies to: ✅ Windows 11, ✅ Windows 10
+
+## 
+
+Each version of Windows client adds new features and functionality. Occasionally, new versions also remove features and functionality, often because they added a newer option. This article provides details about the features and functionalities that are no longer being developed in Windows client. For more information about features that were removed, see Windows features removed.
+
+- To understand the distinction between deprecation and removal, see Windows client features lifecycle.
+
+- For more information about how deprecation fits into the Windows lifecycle, see Deprecation: What it means in the Windows lifecycle.
+
+- For more information about features removed on upgrade to Windows 11 from Windows 10, see Feature deprecations and removals.
+
+The features in this article are no longer being actively developed, and might be removed in a future update. Some features were replaced with other features or functionality and some are now available from other sources.
+
+Tip
+
+You can use RSS to be notified when this page is updated. For example, the following RSS link includes this article:
+
+`https://learn.microsoft.com/api/search/rss?search=%22details+about+the+features+and+functionalities+that+are+no+longer+being+developed+in+Windows%22&locale=en-us&%24filter=%28category+eq+%27Documentation%27%29
+`
+
+This example includes the `&locale=en-us` variable. The `locale` variable is required, but you can change it to another supported locale. For example, `&locale=ja-jp`.
+
+For more information on using RSS for notifications, see How to use the docs in the Intune documentation.
+
+## Deprecated features
+
+The following list is subject to change and might not include every affected feature or functionality.
+
+Note
+
+If you have feedback about the proposed replacement of any of these features, you can use the Feedback Hub app.
+
+ | Feature
+
+ | Details and mitigation
+
+ | Deprecation announced
+
+ | 3D Viewer
+
+ | 3D Viewer was removed from the Microsoft Store on July 1, 2026. For viewing 3D content, you can use Babylon.js Sandbox. For more information, see Resources for deprecated features.
+
+ | February 2026
+
+ | Legacy Web View
+
+ Windows 8/8.1/UWP HTML/JavaScript apps (also known as Hosted Web Applications and Windows Web Applications 
+
+ Legacy Progressive Web Apps (PWA) 
+
+ Legacy Microsoft Edge (EdgeHTML) DevTools 
+
+ | Legacy Web View, Windows 8/8.1/UWP HTML/JavaScript apps (also known as Hosted Web Applications and Windows Web Applications), legacy Progressive Web Apps (PWA), and legacy Microsoft Edge (EdgeHTML) DevTools are deprecated. These components, built on the EdgeHTML engine, are no longer in active development and are being phased out. While no specific retirement or end-of-support date is being committed at this time, they're expected to eventually stop receiving nonsecurity and security updates and will be removed from future versions of Windows. Developers are strongly encouraged to migrate to WebView2, Chromium-based PWAs, or other supported technologies.
+
+ | September 2025
+
+ | Windows Management Instrumentation command-line (WMIC) utility. 
+
+ | Deprecation reminder: The WMIC utility is deprecated and will be removed in an upcoming Windows release. This utility is superseded by Windows PowerShell for WMI. This deprecation applies to only the command-line management utility. WMI itself isn't affected. 
+
+ [Update - August 2026]: WMIC is removed and is no longer available as a Feature on Demand (FoD) on Windows 11, version 24H2 and above. For more information about this change, see Windows Management Instrumentation Command-line (WMIC) removal from Windows.
+
+ | Original announcement: Windows 10, version 21H1 
+
+ Courtesy reminder: September 2025
+
+ | Windows PowerShell 2.0 
+
+ | Deprecation reminder: Windows PowerShell 2.0 is deprecated and will be removed in an upcoming Windows release. Applications and components should be migrated to PowerShell 5.0+.
+
+ | Original announcement: Windows 10, version 1709 
+
+ Courtesy reminder: June 2025
+
+ | Device metadata 
+
+ | Device metadata is deprecated and will be removed in a future release of Windows. For more information about the replacement for this functionality, see Driver Package Container Metadata.
+
+ | May 2025
+
+ | Maps app 
+
+ | Maps app is deprecated. It will be removed from the Microsoft Store by July 2025 and will no longer be supported. For more information, see Resources for deprecated features.
+
+ | April 2025
+
+ | VBS enclaves for Windows 11, version 23H2 and earlier 
+
+ | VBS enclaves are being deprecated on Windows 11, version 23H2 and earlier versions of Windows. Support for VBS enclaves will continue for Windows 11, version 24H2 and later. 
+
+ [Update May 2025] Existing enclaves signed with the EKU 1.3.6.1.4.1.311.76.57.1.15 will continue to be supported for all Windows 11, version 23H2 and earlier versions of Windows, so long as no changes are made to the enclave that requires a re-sign of it. If a re-sign of the enclave occurs, the new EKU is used to re-sign and the enclave will only be supported on Windows 11, version 24H2 and later. Existing enclaves signed with EKU 1.3.6.1.4.1.311.76.57.1.15 will continue to function without disruption on the following operating systems until a re-sign is needed: 
+
+- Windows 10, version 22H2 
+
+- Windows 11, version 22H2 
+
+- Windows 11, version 23H2 
+
+- Windows 11, version 24H2 and later
+
+ | April 2025
+
+ | Windows UWP Map control and Windows Maps platform APIs 
+
+ | The Windows UWP Map control and Windows Maps platform APIs within Windows are deprecated as of April 8, 2025. The Maps UWP Control and Maps platform support within Windows will continue to function but won't be updated. For more information, see Resources for deprecated features.
+
+ | April 8, 2025
+
+ | Line printer daemon (LPR/LPD) 
+
+ | Deprecation reminder: The line printer daemon protocol (LPR/LPD) was deprecated starting in Windows Server 2012. As removal of the line printer daemon protocol nears, we'd like to remind customers to ensure their environments are prepared for removal. When these features are eventually removed, clients that print to a server using this protocol, such as UNIX clients, won't be able to connect or print. Instead, UNIX clients should use IPP. Windows clients can connect to UNIX shared printers using the Windows Standard Port Monitor.
+
+ | Original announcement: Windows Server 2012 
+
+ Courtesy reminder: February 2025
+
+ | Location History 
+
+ | We're deprecating and removing the Location History feature, an API that allowed Cortana to access 24 hours of device history when location was enabled. With the removal of the Location History feature, location data will no longer be saved locally and the corresponding settings will also be removed from the Privacy & Security > Location page in Settings.
+
+ | February 2025
+
+ | Suggested actions 
+
+ | Suggested actions that appear when you copy a phone number or future date in Windows 11 are deprecated and will be removed in a future Windows 11 update.
+
+ | December 2024
+
+ | Legacy DRM services 
+
+ | Legacy DRM services, used by either Windows Media Player, Silverlight clients, Windows 7, or Windows 8 clients are deprecated. The following functionality won't work when these services are fully retired: 
+
+- Playback of protected content in the legacy Windows Media Player on Windows 7
+
+- Playback of protected content in a Silverlight client and Windows 8 clients
+
+- In-home streaming playback from a Silverlight client or Windows 8 client to an Xbox 360
+
+- Playback of protected content ripped from a personal CD on Windows 7 clients using Windows Media Player 
+
+ | September 2024
+
+ | Paint 3D 
+
+ | Paint 3D was removed from the Microsoft Store on November 4, 2024. To view and edit 2D images, you can use Paint or Photos. For viewing 3D content, you can use Babylon.js Sandbox. For more information, see Resources for deprecated features. 
+
+ [Update - May 2025] Paint 3D was deprecated in August 2024 and was removed from the Microsoft Store on November 4, 2024. To view and edit 2D images, you can use Paint or Photos. For viewing 3D content, you can use Babylon.js Sandbox. For more information, see Resources for deprecated features.
+
+ | August 2024
+
+ | Adobe Type1 fonts 
+
+ | Adobe PostScript Type1 fonts are deprecated and support will be removed in a future release of Windows.
+
+ In January 2023, Adobe announced the end of support for PostScript Type1 fonts for their latest software offerings. Remove any dependencies on this font type by selecting a supported font type. To display currently installed fonts, go to Settings > Personalization > Fonts. Application developers and content owners should test their apps and data files with the Adobe Type1 fonts removed. For more information, contact the application vendor or Adobe.
+
+ | August 2024
+
+ | DirectAccess 
+
+ | DirectAccess is deprecated and will be removed in a future release of Windows. We recommend migrating from DirectAccess to Always On VPN.
+
+ | June 2024
+
+ | NTLM 
+
+ | All versions of NTLM, including LANMAN, NTLMv1, and NTLMv2, are no longer under active feature development and are deprecated. Use of NTLM will continue to work in the next release of Windows Server and the next annual release of Windows. Calls to NTLM should be replaced by calls to Negotiate, which tries to authenticate with Kerberos and only falls back to NTLM when necessary. For more information, see, Resources for deprecated features. 
+
+ [Update - November 2024]: NTLMv1 is removed starting in Windows 11, version 24H2 and Windows Server 2025. 
+
+ | June 2024
+
+ | Driver Verifier GUI (verifiergui.exe) 
+
+ | Driver Verifier GUI, verifiergui.exe, is deprecated and will be removed in a future version of Windows. You can use the Verifier Command Line (verifier.exe) instead of the Driver Verifier GUI.
+
+ | May 2024
+
+ | NPLogonNotify and NPPasswordChangeNotify APIs 
+
+ | Starting in Windows 11, version 24H2, the inclusion of password payload in MPR notifications is set to `disabled` by default through group policy in NPLogonNotify and NPPasswordChangeNotify APIs. The APIs may be removed in a future release. The primary reason for disabling this feature is to enhance security. When enabled, these APIs allow the caller to retrieve a user's password, presenting potential risks for password exposure and harvesting by malicious users. To include password payload in MPR notifications, set the EnableMPRNotifications policy to `enabled`.
+
+ | March 2024
+
+ | TLS server authentication certificates using RSA keys with key lengths shorter than 2048 bits 
+
+ | Support for certificates using RSA keys with key lengths shorter than 2048 bits is deprecated. Internet standards and regulatory bodies disallowed the use of 1024-bit keys in 2013, recommending specifically that RSA keys should have a key length of 2048 bits or longer. For more information, see Transitioning of Cryptographic Algorithms and Key Sizes - Discussion Paper (nist.gov). This deprecation focuses on ensuring that all RSA certificates used for TLS server authentication must have key lengths greater than or equal to 2048 bits to be considered valid by Windows.
+
+ TLS certificates issued by enterprise or test certification authorities (CA) aren't impacted with this change. However, we recommend that they be updated to RSA keys greater than or equal to 2048 bits as a security best practice. This change is necessary to preserve security of Windows customers using certificates for authentication and cryptographic purposes.
+
+ | March 2024
+
+ | Test Base 
+
+ | Test Base for Microsoft 365, an Azure cloud service for application testing, is deprecated. The service will be retired in the future and will be no longer available for use after retirement.
+
+ | March 2024
+
+ | Windows Mixed Reality 
+
+ | Windows Mixed Reality is deprecated and will be removed in Windows 11, version 24H2. This deprecation includes the Mixed Reality Portal app, Windows Mixed Reality for SteamVR, and Steam VR Beta. Existing Windows Mixed Reality devices will continue to work with Steam through November 2026, if users remain on their current released version of Windows 11, version 23H2. After November 2026, Windows Mixed Reality will no longer receive security updates, nonsecurity updates, bug fixes, technical support, or online technical content updates.
+
+ | December 2023
+
+ | Microsoft Defender Application Guard for Edge 
+
+ | Microsoft Defender Application Guard, including the Windows Isolated App Launcher APIs, is deprecated for Microsoft Edge for Business and will no longer be updated. To learn more about Edge for Business security capabilities, see Microsoft Edge security for your business. 
+
+ [Update - October 2024]: Starting with Windows 11, version 24H2, Microsoft Defender Application Guard, including the Windows Isolated App Launcher APIs, is no longer available. 
+
+[Update - April 2024]: Because Application Guard is deprecated there won't be a migration to Edge Manifest V3. The corresponding extensions and associated Windows Store app won't be available after May 2024. This change affects the following browsers: Application Guard Extension - Chrome and Application Guard Extension - Firefox. If you want to block unprotected browsers until you're ready to retire MDAG usage in your enterprise, we recommend using AppLocker policies or Microsoft Edge management service. For more information, see Microsoft Edge and Microsoft Defender Application Guard. 
+
+ | December 2023
+
+ | Legacy console mode 
+
+ | The legacy console mode is deprecated and no longer being updated. In future Windows releases, it will be available as an optional Feature on Demand. This feature won't be installed by default.
+
+ | December 2023
+
+ | Windows speech recognition 
+
+ | Windows speech recognition is deprecated and is no longer being developed. This feature is being replaced with voice access. Voice access is available for Windows 11, version 22H2, or later devices. Currently, voice access supports five English locales: English - US, English - UK, English - India, English - New Zealand, English - Canada, and English - Australia. For more information, see Setup voice access.
+
+ | December 2023
+
+ | Microsoft Defender Application Guard for Office 
+
+ | Microsoft Defender Application Guard for Office, including the Windows Isolated App Launcher APIs, is being deprecated and will no longer be updated. We recommend transitioning to Microsoft Defender for Endpoint attack surface reduction rules along with Protected View and Windows Defender Application Control.
+
+ | November 2023
+
+ | Steps Recorder (psr.exe) 
+
+ | Steps Recorder is no longer being updated and will be removed in a future release of Windows. For screen recording, we recommend the Snipping Tool, Xbox Game Bar, or Microsoft Clipchamp.
+
+ | November 2023
+
+ | Tips 
+
+ | The Tips app is deprecated and will be removed in a future release of Windows. Content in the app will continue to be updated with information about new Windows features until the app is removed.
+
+ | November 2023
+
+ | Computer Browser 
+
+ | The Computer Browser driver and service are deprecated. The browser (browser protocol and service) is a dated and insecure device location protocol. This protocol, service, and driver were first disabled by default in Windows 10 with the removal of the SMB1 service. For more information on Computer Browser, see MS-BRWS Common Internet File System.
+
+ | November 2023
+
+ | Webclient (WebDAV) Service 
+
+ | The Webclient (WebDAV) service is deprecated. The Webclient service isn't started by default in Windows. For more information on WebDAV, see WebDAV - Win32 apps.
+
+ | November 2023
+
+ | Remote Mailslots 
+
+ | Remote Mailslots are deprecated. The Remote Mailslot protocol is a dated, simple, unreliable, insecure IPC method first introduced in MS DOS. This protocol was first disabled by default in Windows 11 Insider Preview Build . For more information on Remote Mailslots, see About Mailslots and [MS-MAIL]: Remote Mailslot Protocol.
+
+ | November 2023
+
+ | Timeline for Microsoft Entra accounts 
+
+ | Cross-device syncing of Microsoft Entra user activity history will stop starting in January 2024. Microsoft will stop storing this data in the cloud, aligning with the previous change for Microsoft accounts (MSA) in 2021. The timeline user experience was retired in Windows 11, although it remains in Windows 10. The timeline user experience and all your local activity history still remains on Windows 10 devices. Users can access web history using their browser and access recent files through OneDrive and Office.
+
+ | October 2023
+
+ | VBScript 
+
+ | VBScript is deprecated. In future releases of Windows, VBScript will be available as a feature on demand before its removal from the operating system. For more information, see Resources for deprecated features.
+
+ | October 2023
+
+ | WordPad 
+
+ | WordPad is no longer being updated and will be removed in a future release of Windows. We recommend Microsoft Word for rich text documents like .doc and .rtf and Windows Notepad for plain text documents like .txt. 
+
+ [Update - March 2024]: WordPad will be removed from all editions of Windows starting in Windows 11, version 24H2 and Windows Server 2025. If you're a developer and need information about the affected binaries, see Resources for deprecated features.
+
+ | September 1, 2023
+
+ | AllJoyn
+
+ | Microsoft's implementation of AllJoyn, which included the Windows.Devices.AllJoyn API namespace, a Win32 API, a management configuration service provider (CSP), and an Alljoyn Router Service is deprecated. AllJoyn, sponsored by AllSeen Alliance, was an open source discovery and communication protocol for Internet of Things scenarios such as turning on/off lights or reading temperatures. AllSeen Alliance promoted the AllJoyn project from 2013 until 2016 when it merged with the Open Connectivity Foundation (OCF), the sponsors of Iotivity.org, another protocol for Internet of Things scenarios. Customers should refer to the Iotivity.org website for alternatives such as Iotivity Lite or Iotivity.
+
+ | August 17, 2023
+
+ | TLS 1.0 and 1.1
+
+ | Over the past several years, internet standards and regulatory bodies have deprecated or disallowed TLS versions 1.0 and 1.1 due to various security issues. Starting in Windows 11 Insider Preview builds for September 2023 and continuing in future Windows OS releases, TLS 1.0 and 1.1 will be disabled by default. This change increases the security posture of Windows customers and encourages modern protocol adoption. For organizations that need to use these versions, there's an option to re-enable TLS 1.0 or TLS 1.1. For more information, see Resources for deprecated features.
+
+ | August 1, 2023
+
+ | Cortana in Windows 
+
+ | Cortana in Windows as a standalone app is deprecated. This change only impacts Cortana in Windows, and your productivity assistant, Cortana, will continue to be available in Outlook mobile, Teams mobile, Microsoft Teams display, and Microsoft Teams rooms.
+
+ | June 2023
+
+ | Microsoft Support Diagnostic Tool (MSDT) 
+
+ | MSDT is deprecated and will be removed in a future release of Windows. MSDT is used to gather diagnostic data for analysis by support professionals. For more information, see Resources for deprecated features
+
+ | January 2023
+
+ | Universal Windows Platform (UWP) Applications for 32-bit Arm 
+
+ | This change is applicable only to devices with an Arm processor, for example Snapdragon processors from Qualcomm. If you have a PC built with a processor from Intel or AMD, this content isn't applicable. If you aren't sure which type of processor you have, check Settings > System > About.
+
+ Support for 32-bit Arm versions of applications will be removed in a future release of Windows 11. After this change, for the small number of applications affected, app features might be different and you might notice a difference in performance. For more technical details about this change, see Update app architecture from Arm32 to Arm64.
+
+ | January 2023
+
+ | Update Compliance 
+
+ | Update Compliance, a cloud-based service for the Windows client, is no longer being developed. This service was replaced with Windows Update for Business reports, which provides reporting on client compliance with Microsoft updates from the Azure portal.
+
+ | November 2022
+
+ | Windows Information Protection 
+
+ | Windows Information Protection will no longer be developed in future versions of Windows. For more information, see Announcing sunset of Windows Information Protection (WIP).
+
+For your data protection needs, Microsoft recommends that you use Microsoft Purview Information Protection and Microsoft Purview Data Loss Prevention. 
+
+ Windows Information Protection is removed starting in Windows 11, version 24H2. 
+
+ | July 2022
+
+ | BitLocker To Go Reader
+
+ | Note: BitLocker to Go as a feature is still supported.
+Reading of BitLocker-protected removable drives (BitLocker To Go) from Windows XP or Windows Vista in later operating systems is deprecated and might be removed in a future release of Windows client.
+The following items might not be available in a future release of Windows client:
+- ADMX policy: Allow access to BitLocker-protected removable data drives from earlier versions of Windows
+- Command line parameter: `manage-bde -DiscoveryVolumeType` (-dv)
+- Catalog file: c:\windows\BitLockerDiscoveryVolumeContents
+- BitLocker 2 Go Reader app: bitlockertogo.exe and associated files
+
+ | 21H1
+
+ | Personalization roaming
+
+ | Roaming of Personalization settings (including wallpaper, slideshow, accent colors, and lock screen images) is no longer being developed and might be removed in a future release.
+
+ | 21H1
+
+ | Windows Management Instrumentation command-line (WMIC) utility.
+
+ | The WMIC utility is deprecated in Windows 10, version 21H1 and the 21H1 General Availability Channel release of Windows Server. This utility is superseded by Windows PowerShell for WMI. Note: This deprecation applies to only the command-line management utility. WMI itself isn't affected. 
+
+ [Update - January 2024]: Currently, WMIC is a Feature on Demand (FoD) that's preinstalled by default in Windows 11, versions 23H2 and 22H2. In the next release of Windows, the WMIC FoD will be disabled by default. 
+
+ [Update - August 2026]: WMIC is removed and is no longer available as a Feature on Demand (FoD). For more information about this change, see Windows Management Instrumentation Command-line (WMIC) removal from Windows.
+
+ | 21H1
+
+ | Timeline
+
+ | Starting in July 2021, if you have your activity history synced across your devices through your Microsoft account (MSA), you can't upload new activity in Timeline. For more information, see Get help with timeline.
+
+ | 20H2
+
+ | Microsoft Edge
+
+ | The legacy version of Microsoft Edge is no longer being developed.
+
+ | 2004
+
+ | Companion Device Framework
+
+ | The Companion Device Framework is no longer under active development.
+
+ | 2004
+
+ | Dynamic Disks
+
+ | The Dynamic Disks feature is no longer being developed. This feature will be fully replaced by Storage Spaces in a future release.
+
+ | 2004
+
+ | Microsoft Desktop Optimization Pack (MDOP)
+
+ | The Microsoft Desktop Optimization Pack (MDOP) is no longer being developed. End of extended support is April 14, 2026. This end of support includes the User Experience Virtualization (UE-V) client in Windows.
+
+As of November 2024, the Application Virtualization (App-V) client in Windows is no longer deprecated and persists with a fixed extended support lifecycle.
+
+ | September 2019
+
+ | Language Community tab in Feedback Hub
+
+ | The Language Community tab will be removed from the Feedback Hub. The standard feedback process: Feedback Hub - Feedback is the recommended way to provide translation feedback.
+
+ | 1909
+
+ | My People / People in the Shell
+
+ | My People is no longer being developed. It may be removed in a future update.
+
+ | 1909
+
+ | Package State Roaming (PSR)
+
+ | PSR will be removed in a future update. PSR allows non-Microsoft developers to access roaming data on devices, enabling developers of UWP applications to write data to Windows and synchronize it to other instantiations of Windows for that user. 
+
+The recommended replacement for PSR is Azure App Service. Azure App Service is widely supported, well documented, reliable, and supports cross-platform/cross-ecosystem scenarios such as iOS, Android and web. 
+
+PSR was removed in Windows 11.
+
+ | 1909
+
+ | XDDM-based remote display driver
+
+ | The Remote Desktop Services uses a Windows Display Driver Model (WDDM) based Indirect Display Driver (IDD) for a single session remote desktop. The support for Windows 2000 Display Driver Model (XDDM) based remote display drivers will be removed in a future release. Independent software publishers that use an XDDM-based remote display driver should plan a migration to the WDDM driver model. For more information on implementing remote display indirect display driver, check out Updates for IddCx versions 1.4 and later.
+
+ | 1903
+
+ | Taskbar settings roaming
+
+ | Roaming of taskbar settings is no longer being developed and we plan to remove this capability in a future release.
+
+ | 1903
+
+ | Wi-Fi WEP and TKIP
+
+ | Since the 1903 release, a warning message appears when connecting to Wi-Fi networks secured with WEP or TKIP (which aren't as secure as those using WPA2 or WPA3). In a future release, any connection to a Wi-Fi network using these old ciphers will be disallowed. Wi-Fi routers should be updated to use AES ciphers, available with WPA2 or WPA3.
+
+ | 1903
+
+ | Print 3D app
+
+ | 3D Builder is the recommended 3D printing app. To 3D print objects on new Windows devices, customers must first install 3D Builder from the Store. 
+
+ [Update - May 2025] As of July 2024, 3D Builder is no longer supported and it was removed from the Microsoft Store. For ongoing 3D printing needs, contact your 3D printer provider for their recommendation. 
+
+ | 1903
+
+ | Companion device dynamic lock APIS
+
+ | The companion device framework (CDF) APIs enable wearables and other devices to unlock a PC. In Windows 10, version 1709, we introduced Dynamic Lock, including an inbox method using Bluetooth to detect whether a user is present and lock or unlock the PC. Because of this reason, and because non-Microsoft partners didn't adopt the CDF method, we're no longer developing CDF Dynamic Lock APIs.
+
+ | 1809
+
+ | OneSync service
+
+ | The OneSync service synchronizes data for the Mail, Calendar, and People apps. We added a sync engine to the Outlook app that provides the same synchronization.
+
+ | 1809
+
+ | Software Restriction Policies in Group Policy
+
+ | Instead of using the Software Restriction Policies through Group Policy, you can use AppLocker or Windows Defender Application Control to control which apps users can access and what code can run in the kernel.
+
+ | 1803
+
+ | Offline symbol packages (Debug symbol MSIs)
+
+ | We're no longer making the symbol packages available as a downloadable MSI. Instead, the Microsoft Symbol Server is moving to be an Azure-based symbol store. If you need the Windows symbols, connect to the Microsoft Symbol Server to cache your symbols locally or use a manifest file with SymChk.exe on a computer with internet access.
+
+ | 1803
+
+ | Windows Help Viewer (WinHlp32.exe)
+
+ | All Windows help information is available online. The Windows Help Viewer is no longer supported in Windows 10. For more information, see Error opening Help in Windows-based programs: "Feature not included" or "Help not supported".
+
+ | 1803
+
+ | MBAE service metadata
+
+ | The MBAE app experience is replaced by an MO UWP app. For more information, see Developer guide for creating service metadata
+
+ | 1803
+
+ | Contacts feature in File Explorer
+
+ | We're no longer developing the Contacts feature or the corresponding Windows Contacts API. Instead, you can use the People app in Windows 10 to maintain your contacts.
+
+ | 1803
+
+ | Phone Companion
+
+ | Use the Phone page in the Settings app. In Windows 10, version 1709, we added the new Phone page to help you sync your mobile phone with your PC. It includes all the Phone Companion features.
+
+ | 1803
+
+ | IPv4/6 Transition Technologies (6to4, ISATAP, Teredo, and Direct Tunnels)
+
+ | 6to4 has been disabled by default since Windows 10, version 1607 (the Anniversary Update), ISATAP has been disabled by default since Windows 10, version 1703 (the Creators Update), Teredo has been disabled since Windows 10, version 1803. The Direct Tunnels feature has always been disabled by default. Use native IPv6 support instead.
+
+ | 1803
+
+ | Layered Service Providers
+
+ | Layered Service Providers haven't been developed since Windows 8 and Windows Server 2012. Use the Windows Filtering Platform instead. When you upgrade from an older version of Windows, any layered service providers you're using aren't migrated; you'll need to reinstall them after upgrading.
+
+ | 1803
+
+ | Business Scanning
+
+ | This feature is also called Distributed Scan Management (DSM) (Added 05/03/2018)
+
+The Scan Management functionality was introduced in Windows 7 and enabled secure scanning and the management of scanners in an enterprise. We're no longer investing in this feature, and there are no devices available that support it.
+
+ | 1803
+
+ | IIS 6 Management Compatibility*
+
+ | We recommend that users use alternative scripting tools and a newer management console.
+
+ | 1709
+
+ | IIS Digest Authentication
+
+ | We recommend that users use alternative authentication methods.
+
+ | 1709
+
+ | RSA/AES Encryption for IIS
+
+ | We recommend that users use CNG encryption provider.
+
+ | 1709
+
+ | Screen saver functionality in Themes
+
+ | Disabled in Themes. Screen saver functionality in Group Policies, Control Panel, and Sysprep continues to be functional. Lock screen features and policies are preferred.
+
+ | 1709
+
+ | Sync your settings (updated: July 30, 2024)
+
+ | Back-end changes: In future releases, the back-end storage for the current sync process will change. A single cloud storage system will be used for Enterprise State Roaming and all other users. As part of this change, we'll stop supporting the Device Syncing Settings and App Data report. All other Sync your settings options continue to work provided your clients are running an up-to-date version of: 
+ - Windows 11 
+ - Windows 10, version 21H2, or later
+
+ | 1709
+
+ | System Image Backup (SIB) Solution
+
+ | This feature is also known as the Backup and Restore (Windows 7) legacy control panel. For full-disk backup solutions, look for a third-party product from another software publisher. You can also use OneDrive to sync data files with Microsoft 365.
+
+ | 1709
+
+ | TLS RC4 Ciphers
+
+ | To be disabled by default. For more information, see TLS (Schannel SSP) changes in Windows 10 and Windows Server 2016
+
+ | 1709
+
+ | Trusted Platform Module (TPM) Owner Password Management
+
+ | This functionality within TPM.msc will be migrated to a new user interface.
+
+ | 1709
+
+ | Trusted Platform Module (TPM): TPM.msc and TPM Remote Management
+
+ | To be replaced by a new user interface in a future release.
+
+ | 1709
+
+ | Trusted Platform Module (TPM) Remote Management
+
+ | This functionality within TPM.msc will be migrated to a new user interface.
+
+ | 1709
+
+ | Windows Hello for Business deployment that uses Microsoft Configuration Manager
+
+ | Windows Server 2016 Active Directory Federation Services - Registration Authority (ADFS RA) deployment is simpler and provides a better user experience and a more deterministic certificate enrollment experience.
+
+ | 1709
+
+ | Windows PowerShell 2.0
+
+ | Applications and components should be migrated to PowerShell 5.0+.
+
+ | 1709
+
+ | Apndatabase.xml
+
+ | Apndatabase.xml is replaced by the COSA database. Therefore, some constructs won't function. This replacement includes Hardware ID, incoming SMS messaging rules in mobile apps, a list of privileged apps in mobile apps, autoconnect order, APN parser, and CDMAProvider ID.
+
+ | 1703
+
+ | Tile Data Layer
+
+ | The Tile Data Layer database stopped development in Windows 10, version 1703.
+
+ | 1703
+
+ | TLS DHE_DSS ciphers DisabledByDefault
+
+ | TLS RC4 Ciphers are disabled by default in this release.
+
+ | 1703
+
+ | TCPChimney
+
+ | TCP Chimney Offload is no longer being developed. See Performance Tuning Network Adapters.
+
+ | 1703
+
+ | IPsec Task Offload
+
+ | IPsec Task Offload versions 1 and 2 are no longer being developed and shouldn't be used.
+
+ | 1703
+
+ | `wusa.exe /uninstall /kb:####### /quiet`
+
+ | The `wusa` tool usage to quietly uninstall an update is deprecated. The uninstall command with `/quiet` switch fails with event ID 8 in the Setup event log. Uninstalling updates quietly could be a security risk because malicious software could quietly uninstall an update in the background without user intervention.
+
+ | 1507 
+ Applies to Windows Server 2016 and Windows Server 2019.
+
+## Feedback
+
+ Was this page helpful?
+
+ No
+
+ Need help with this topic?
+
+ Want to try using Ask Learn to clarify or guide you through this topic?
+
+## 
+ Additional resources
+
+- 
+
+ Last updated on 
+ 2026-09-23

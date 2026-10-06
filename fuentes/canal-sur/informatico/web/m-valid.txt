@@ -1,0 +1,338 @@
+URL: https://support.microsoft.com/es-es/office/aplicar-la-validaci%C3%B3n-de-datos-a-celdas-29fecbcc-d1b9-42c1-9d76-eff3ce5f7249
+Leído: 2026-10-05
+
+# Aplicar validación de datos a celdas
+
+ Se aplica a
+Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021 para Mac Excel 2019 Excel 2016 
+
+Obtener ayuda con Copilot
+
+ Explica cómo funciona la validación de datos
+
+ ¿Cómo puedo crear una lista de entradas válidas para la lista desplegable?
+
+ Restringir una columna de Excel a valores de estado específicos
+
+ Use la validación de datos para restringir el tipo de datos o los valores que los usuarios escriben en una celda, como una lista desplegable.
+
+- 
+
+ Windows
+
+- 
+
+ macOS
+
+- 
+
+ Web
+
+Seleccione las celdas para las que quiere crear una regla.
+
+- 
+Seleccione Validación de datos >de datos.
+
+- 
+En la pestaña Configuración, en Permitir, seleccione una opción:
+
+- 
+ Número entero: se restringe la celda para aceptar solo números enteros.
+
+- 
+ Decimal: se restringe la celda para aceptar solo números decimales.
+
+- 
+ Lista: para elegir datos de una lista desplegable.
+
+- 
+ Fecha: para restringir la celda para que solo se acepten fechas.
+
+- 
+ Hora : se restringe la celda para aceptar solo valores de hora.
+
+- 
+ Longitud del texto: para restringir la longitud del texto.
+
+- 
+ Personalizado: para fórmulas personalizadas.
+
+- 
+En Datos, seleccione una condición.
+
+- 
+Defina el resto de valores obligatorios de Permitir y Datos según su elección.
+
+- 
+Seleccione la pestaña Mensaje de entrada y personalice el mensaje que verán los usuarios al escribir datos.
+
+- 
+Seleccione la casilla Mostrar mensaje de entrada al seleccionar la celda para mostrar el mensaje cuando el usuario seleccione las celdas seleccionadas o mantenga el mouse sobre estas.
+
+- 
+Seleccione la pestaña Alerta de error para personalizar el mensaje de error y elegir un Estilo.
+
+- 
+Seleccione Aceptar.
+
+Ahora, si el usuario intenta escribir un valor que no es válido, aparece una alerta de error con su mensaje personalizado.
+
+## Descargar nuestros ejemplos
+
+ Descargar un libro con todos los ejemplos de validación de datos de este artículo
+
+Si va a crear una hoja en la que los usuarios deben introducir datos, puede que quiera restringir la entrada a un intervalo determinado de fechas o números, o asegurarse de que solo se introduzcan números enteros positivos. Excel puede restringir la entrada de datos en determinadas celdas mediante la validación de datos, solicitar a los usuarios que escriban datos válidos cuando seleccionen una celda y mostrar un mensaje de error cuando un usuario introduzca datos no válidos.
+
+## Restringir la entrada de datos
+
+- 
+Seleccione las celdas en las que quiera restringir la entrada de datos.
+
+- 
+En la pestaña Datos , seleccione Validación de datos.
+
+Nota
+
+Si el comando de validación no está disponible, es posible que la hoja esté protegida o que se compartiera el libro. No se puede cambiar la configuración de validación de datos si el libro está compartido o la hoja está protegida. Para obtener más información sobre la protección de libros, vea Proteger un libro.
+
+- 
+En el cuadro Permitir, seleccione el tipo de datos que desea permitir y rellene los criterios y valores límite.
+
+Nota
+
+Los cuadros en los que introduce valores límite se etiquetan en función de los datos y criterios límite que haya elegido. Por ejemplo, si elige Fecha como el tipo de datos, puede introducir valores límite en los cuadros de valor mínimo y máximo etiquetados como Fecha de inicio y Fecha de finalización.
+
+## Solicitar a los usuarios que introduzcan valores válidos
+
+Cuando los usuarios seleccionan una celda con requisitos de entrada de datos, puede mostrar un mensaje en el que se explique qué datos son válidos.
+
+- 
+Seleccione las celdas en las que quiera solicitar a los usuarios entradas de datos válidas.
+
+- 
+En la pestaña Datos , seleccione Validación de datos.
+
+Nota
+
+Si el comando de validación no está disponible, es posible que la hoja esté protegida o que se compartiera el libro. No se puede cambiar la configuración de validación de datos si el libro está compartido o la hoja está protegida. Para obtener más información sobre la protección de libros, vea Proteger un libro.
+
+- 
+En la pestaña Mensaje de entrada, seleccione la casilla Mostrar mensaje al seleccionar la celda.
+
+- 
+En el cuadro Título, escriba un título para el mensaje.
+
+- 
+En el cuadro Mensaje de entrada, escriba el mensaje que quiere que se muestre.
+
+## Mostrar un mensaje de error cuando se introducen datos no válidos
+
+Si ha aplicado restricciones de datos y un usuario introduce datos no válidos en una celda, puede mostrar un mensaje en el que se explique el error.
+
+- 
+Seleccione las celdas en las que desea que se muestre el mensaje de error.
+
+- 
+En la pestaña Datos , seleccione Validación de datos .
+
+Nota
+
+Si el comando de validación no está disponible, es posible que la hoja esté protegida o que se compartiera el libro. No se puede cambiar la configuración de validación de datos si el libro está compartido o la hoja está protegida. Para obtener más información sobre la protección de libros, vea Proteger un libro .
+
+- 
+En la pestaña Alerta de error del cuadro Título, escriba un título para el mensaje.
+
+- 
+En el cuadro Mensaje de error, escriba el mensaje que quiere que se muestre si se introducen datos no válidos.
+
+- 
+Siga uno de estos procedimientos:
+
+ | 
+ Para
+
+ | 
+ En el menú emergente Estilo, seleccione
+
+ | Requerir que los usuarios corrijan el error antes de continuar
+
+ | 
+ Detener
+
+ | Avise a los usuarios de que los datos no son válidos y pídales que seleccionen Sí o No para indicar si quieren continuar.
+
+ | 
+ Advertencia
+
+ | Avise a los usuarios de que los datos no son válidos, pero permítales continuar después de que descarten el mensaje de advertencia.
+
+ | 
+ Importante
+
+## Agregar validación de datos a una celda o a un rango de celdas
+
+Nota
+
+Los primeros dos pasos de esta sección son para agregar cualquier tipo de validación de datos. Los pasos 3 a 7 son específicamente para crear una lista desplegable.
+
+- Seleccione una o más celdas para validar.
+
+- En la pestaña Datos , en el grupo Herramientas de datos , seleccione Validación de datos.
+
+- En la pestaña Configuración, del cuadro Permitir, seleccione Lista.
+
+- En el cuadro Origen, escriba los valores de la lista, separados por comas. Por ejemplo, escriba Baja, Media, Alta.
+
+- Compruebe que la casilla Celda con lista desplegable esté activada. Si no lo está, no verá la flecha desplegable al lado de la celda.
+
+- Para especificar cómo desea administrar los valores en blanco (nulos), active o desactive la casilla Omitir blancos.
+
+- Pruebe la validación de datos para asegurarse de que funciona correctamente. Trate de escribir datos válidos y no válidos en las celdas para asegurarse de que la configuración funciona como pretende y que los mensajes están apareciendo como espera.
+
+Nota
+
+- Tras crear su lista desplegable, asegúrese de que funciona de la manera que quiera. Por ejemplo, tal vez quiera comprobar si la celda es lo bastante ancha para mostrar todas las entradas.
+
+- 
+ Eliminar validación de datos: seleccione la celda o celdas que contienen la validación que desea eliminar, vaya a > Validación de datos y, en el cuadro de diálogo de validación de datos, presione Borrar todo y, a continuación, seleccione Aceptar.
+
+## Agregar otros tipos de validación de datos
+
+En la tabla siguiente se muestran otros tipos de validación de datos y maneras de agregarla a sus hojas de cálculo.
+
+ | Para ello:
+
+ | Siga estos pasos:
+
+ | Restrinja la entrada de datos a números enteros dentro de límites.
+
+ | 
+
+- Siga los pasos 1 a 2 anteriores.
+
+- En la lista Permitir, seleccione Número entero.
+
+- En el cuadro Datos, seleccione el tipo de restricción que desee. Por ejemplo, para definir los límites superior e inferior, seleccione entre.
+
+- Escriba el valor mínimo, máximo o específico que desee permitir.
+También puede escribir una fórmula que devuelva un valor de número.
+Por ejemplo, supongamos que está validando datos en la celda F1. Para establecer un límite mínimo de deducciones en dos veces el número de secundarios en dicha celda, seleccione mayor o igual que en el cuadro Datos y escriba la fórmula =2*F1 , en el cuadro Mínimo .
+
+ | Restrinja la entrada de datos a un número decimal dentro de límites.
+
+ | 
+
+- Siga los pasos 1 a 2 anteriores.
+
+- En el cuadro Permitir, seleccione Decimal.
+
+- En el cuadro Datos, seleccione el tipo de restricción que desee. Por ejemplo, para definir los límites superior e inferior, seleccione entre.
+
+- Escriba el valor mínimo, máximo o específico que desee permitir.
+También puede escribir una fórmula que devuelva un valor de número. Por ejemplo, para definir un límite máximo de comisiones y bonificaciones del 6% del sueldo de un vendedor en la celda E1, seleccione menor o igual que en el cuadro Datos y escriba la fórmula, =E1*6%, en el cuadro Máximo. Para permitir que un usuario escriba porcentajes, por ejemplo, 20 %, seleccione Decimal en el cuadro Permitir, seleccione el tipo de restricción que desee en el cuadro Datos, escriba el valor mínimo, máximo o específico como un decimal, por ejemplo, 0,2 y, a continuación, muestre la celda de validación de datos como un porcentaje seleccionando la celda y haciendo clic en la de porcentaje en el grupo Número de la pestaña Inicio.
+
+ | Restrinja la entrada de datos a una fecha dentro de un intervalo de fechas.
+
+ | 
+
+- Siga los pasos 1 a 2 anteriores.
+
+- En el cuadro Permitir , seleccione Fecha .
+
+- En el cuadro Datos, seleccione el tipo de restricción que desee. Por ejemplo, para permitir las fechas posteriores a un día determinado, seleccione mayor que.
+
+- Escriba la fecha de inicio, de finalización o la fecha específica que desee permitir.
+También puede escribir una fórmula que devuelva una fecha. Por ejemplo, para establecer un período de tiempo entre la fecha de hoy y 3 días desde la fecha actual, seleccione entre en el cuadro Datos, escriba =HOY() en el cuadro Fecha de inicio y escriba =HOY()+3 en el cuadro Fecha de finalización.
+
+ | Restrinja la entrada de datos a una hora dentro de un período de tiempo.
+
+ | 
+
+- Siga los pasos 1 a 2 anteriores.
+
+- En el cuadro Permitir, seleccione Hora.
+
+- En el cuadro Datos, seleccione el tipo de restricción que desee. Por ejemplo, para permitir horas antes de una hora determinada del día, seleccione menor que.
+
+- Escriba la hora de inicio, de finalización o la hora específica que desee permitir. Si desea especificar horas específicas, use el formato de hora hh:mm.
+Por ejemplo, supongamos que tiene la celda E2 configurada con una hora de inicio (8:00) y la celda F2 con una hora de finalización (17:00) y quiere limitar las horas de la reunión entre esas horas. Seleccione entre en el cuadro Datos, escriba =E2 en el cuadro Hora de inicio y escriba =F2 en el cuadro Hora de finalización.
+
+ | Restrinja la entrada de datos a texto de una longitud específica.
+
+ | 
+
+- Siga los pasos 1 a 2 anteriores.
+
+- En el cuadro Permitir, seleccione Longitud del texto.
+
+- En el cuadro Datos, seleccione el tipo de restricción que desee. Por ejemplo, para permitir un número máximo de caracteres, seleccione menor que o igual a.
+
+- En este caso, queremos limitar la entrada a 25 caracteres, así que seleccione menor o igual que en el cuadro Datos e ingrese 25 en el cuadro Máximo .
+
+ | Calcule qué se permite según el contenido de otra celda.
+
+ | 
+
+- Siga los pasos 1 a 2 anteriores.
+
+- En el cuadro Permitir, seleccione el tipo de datos que quiere.
+
+- En el cuadro Datos, seleccione el tipo de restricción que desee.
+
+- En el cuadro o los cuadros situados debajo del cuadro Datos , seleccione la celda que desee usar para especificar qué se permite.
+Por ejemplo, para permitir entradas para una cuenta solo si el resultado no superará el presupuesto de la celda E1, seleccione Permitir>número completo, Datos, menor o igual que y Máximo> = = E1.
+
+## Ejemplos de fórmulas en validación de datos
+
+Nota
+
+- Los ejemplos siguientes usan la opción Personalizado donde escribe fórmulas para configurar sus condiciones. No tiene por qué preocuparse sobre lo que muestre el cuadro Datos, ya que está deshabilitado con la opción Personalizado.
+
+- Las capturas de pantalla de este artículo se tomaron en Excel 2016; pero la funcionalidad es la misma en Excel para la Web.
+
+ | 
+ Para asegurarse de que
+
+ | 
+ Escriba esta fórmula
+
+ | La celda que contiene un id. de producto (C2) comienza siempre con el prefijo estándar de “ID”, y tiene al menos 10 (superior a 9) caracteres de longitud.
+
+ | 
+ =Y(IZQUIERDA(C2,3)="ID-",LEN(C2)>9)
+
+ | La celda que contiene un nombre de producto (D2) solo contiene texto.
+
+ | 
+ =ISTEXT(D2)
+
+ | La celda que contiene un cumpleaños (B6) debe ser mayor que el número de años que establezca en la celda B4.
+
+ | 
+ =SI(B6<=(HOY()-(365*B4)),VERDADERO,FALSO)
+
+ | Todos los datos del rango de celdas A2:A10 contienen valores únicos.
+
+ | 
+ =CONTAR.SI($A$2:$A$10,A2)=1
+
+ Nota: Debe escribir la fórmula de validación de datos para la celda A2 primero, después copiar A2 a A3:A10 de forma que el segundo argumento de CONTAR.SI coincida con la celda actual. Es decir, la parte A2)=1 cambiará a A3)=1, A4)=1 y así sucesivamente.
+
+ | Asegúrese de que las entradas de direcciones de correo electrónico en la celda B4 contienen el símbolo @.
+
+ | 
+ =ISNUMBER(FIND("@",B4))
+
+Recomendación
+
+Si es propietario de una pequeña empresa y busca más información sobre cómo configurar Microsoft 365, visite la ayuda & aprendizaje para pequeñas empresas.
+
+## ¿Quiere obtener más información?
+
+ Crear una lista desplegable
+
+ Agregar o quitar elementos de una lista desplegable
+
+ Más información sobre la validación de datos
+
+Introducción a Excel de forma gratuita en la web

@@ -1,0 +1,113 @@
+DisplayPort | High Performance Digital Technology
+
+Products
+
+DisplayPort Products Database
+
+Resources
+
+DisplayPort Over USB-C
+
+DisplayPort over USB-C Benefits
+
+Automotive Extension
+
+DisplayPort Presentations
+
+DisplayPort YouTube
+
+Get Connected
+
+News & Events
+
+Media Coverage
+
+Press Releases
+
+Events
+
+FAQ
+
+DisplayPort General FAQs
+
+DisplayPort 2.1 FAQs
+
+DisplayPort over USB-C FAQs
+
+Display Stream Compression (DSC) FAQs
+
+Ask DisplayPort
+
+ Search for:
+
+ Search
+
+ Massive Bandwidth 
+
+For full UHBR20 / DP80 performance with UHBR20-capable GPUs and monitors, look for VESA-certified DP80 cables.
+
+Verify certified products in the DisplayPort Products Database.
+
+HOW WILL YOU USE THE PERFORMANCE OF DISPLAYPORT?
+
+More Bandwidth. With support for UHBR20, DisplayPort 2.1 offers whopping throughput of 80 Gbps over four lanes.
+
+More Cable Length. With the forthcoming DisplayPort 2.1b update, VESA introduces new DP80LL (“low loss”) ultra-high-bit-rate (UHBR) cables that enable up to four-lane UHBR20 link rate support over an active cable up to three meters in length for more flexibility for your gaming and workplace setups.
+
+More Capability. Don’t need DP80 quite yet? Original DP40-certified cables are validated for the DP54 performance rating, so you can upgrade your performance without changing your connection.
+
+Superior Resolution and Refresh Rate. Stunning resolution and refresh rate combinations (like 4K at 600Hz or 8K at 120Hz) deliver a fully immersive visual experience.
+
+More Video Streams. Multi-Stream Transport (MST) allows for multiple screens (at various resolutions) to be driven from a single DisplayPort source connection.
+
+More Ways to Connect. DisplayPort is the de facto global standard for PC monitors and embedded displays. High-performance PC graphics cards, mobile devices, and notebooks using single-cable technologies like Thunderbolt and USB4 support DisplayPort.
+
+Check out Certified Displays with USB-C
+
+Brilliant Ultra HD and Beyond
+Enjoy immersive visual experiences in 4K, 8K, and beyond.
+
+DisplayPort™ can deliver digital content at resolutions above Ultra HD, at higher bit depths, and faster refresh rates. This makes it ready for a new generation of applications, including the advanced gaming, content creation, and entertainment capabilities of VESA’s performance certification programs:
+
+4K & 8K DisplayPort Monitors
+
+Learn More about DisplayHDR
+
+Learn More about AdaptiveSync
+
+Learn More about ClearMR
+
+ONE CONNECTION. INFINITE WAYS TO CONNECT.
+DisplayPort is the de facto global standard for PC monitors and embedded displays. With connector options including the locking standard DisplayPort connector, Mini-DP connector, and USB Type-C connector, high-performance PC graphics cards, mobile devices, and notebooks support DisplayPort. DisplayPort also powers the video capabilities of single-cable technologies like Thunderbolt and USB4.
+
+DisplayPort Certified products with Multi-Stream Transport (MST) allow for multiple screens (at various resolutions) to be driven from a single DisplayPort source connection for seamless multi-tasking or a massive, multiscreen experience for gaming. MST is enabled by default beginning with the DisplayPort 2.x generation.
+
+Get the Latest DP Announcements
+
+DisplayPort Certified Monitors with MST
+
+Never Look Back
+DisplayPort is designed to recognize and support HDMI devices through conversion cables, just like it does for other earlier video interfaces such as DVI and VGA. Connect DisplayPort™ to the following:
+
+ DISPLAYPORT
+
+ VGA
+
+ HDMI
+
+ DVI
+
+There are many DisplayPort-to-HDMI protocol converters on the market, and they are available with a native DisplayPort Plug or USB-C plug. Some USB docking stations also include an HDMI output. They have built-in DisplayPort to HDMI converters that serve that purpose. Always choose DisplayPort-certified products to maximize performance.
+
+Over 300 Partners
+
+About VESA
+
+VESA is an international nonprofit corporation led by a board of directors, which represents a voting membership of more than 370 corporate members worldwide.
+Learn More About VESA
+
+About DisplayPort
+
+DisplayPort delivers more high-performance features than any other digital interface. Designed to replace older standards like DVI and VGA, DisplayPort opens up new possibilities in computing, digital displays and consumer electronics. It’s the future standard and it’s available today.
+
+© VESA 2026. All rights reserved. Website by Computer Courage.

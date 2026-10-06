@@ -1,0 +1,104 @@
+URL: https://learn.microsoft.com/es-es/windows/security/application-security/application-control/user-account-control/
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Información general de Control de cuentas de usuario
+
+- Se aplica a: ✅ Windows 11, ✅ Windows 10, ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+Control de cuentas de usuario (UAC) es una característica de seguridad de Windows diseñada para proteger el sistema operativo frente a cambios no autorizados. Cuando los cambios en el sistema requieren permiso de nivel de administrador, UAC notifica al usuario y éste puede aprobar o denegar el cambio. UAC mejora la seguridad de los dispositivos Windows limitando el acceso que el código malintencionado tiene para ejecutarse con privilegios de administrador. UAC permite a los usuarios tomar decisiones informadas sobre las acciones que podrían afectar a la estabilidad y la seguridad de su dispositivo.
+
+A menos que se deshabilite UAC, se impide que el software malintencionado deshabilite o interfiera con la configuración de UAC. UAC está habilitado de forma predeterminada y quien tenga privilegios de administrador puede configurarlo.
+
+## Ventajas de UAC
+
+UAC permite a todos los usuarios iniciar sesión en sus dispositivos con una cuenta de usuario estándar. Los procesos iniciados mediante un token de usuario estándar pueden realizar tareas mediante derechos de acceso concedidos a un usuario estándar. Por ejemplo, el Explorador de Windows hereda automáticamente los permisos de nivel de usuario estándar. Las aplicaciones que se inician mediante el Explorador de Windows (por ejemplo, haciendo doble clic en un acceso directo) también se ejecutan con el conjunto de permisos de usuario estándar. La mayoría de las aplicaciones, incluidas las que vienen con el sistema operativo, están diseñadas para funcionar correctamente de esta manera.
+
+Otras aplicaciones, como las que no están diseñadas teniendo en cuenta la configuración de seguridad, pueden requerir más permisos para ejecutarse correctamente. Estas aplicaciones se conocen como aplicaciones heredadas.
+
+Cuando un usuario intenta realizar una acción que requiere privilegios administrativos, UAC desencadena una solicitud de consentimiento. El aviso notifica al usuario que está a punto de producirse un cambio y le pide permiso para continuar:
+
+- Si el usuario aprueba el cambio, la acción se realiza con el privilegio más alto disponible
+
+- Si el usuario no aprueba el cambio, la acción no se realiza y se impide que la aplicación que solicitó el cambio se ejecute
+
+Cuando una aplicación requiere ejecutarse con más derechos de los del usuario estándar, UAC permite a los usuarios ejecutar aplicaciones con su token de administrador (es decir, con permisos y derechos administrativos) en lugar de su token de usuario estándar predeterminado. Los usuarios siguen trabajando en el contexto de seguridad de usuario estándar, al tiempo que permiten que ciertas aplicaciones se ejecuten con privilegios elevados, si es necesario.
+
+## Requisitos de licencia y de la edición de Windows
+
+En la tabla siguiente se enumeran las ediciones de Windows que admiten el Control de cuentas de usuario (UAC):
+
+ | Windows Pro
+
+ | Windows Enterprise
+
+ | Windows Pro Education/SE
+
+ | Windows Education
+
+ | Sí
+
+ | Sí
+
+ | Sí
+
+ | Sí
+
+Los derechos de licencia de Control de cuentas de usuario (UAC) se conceden mediante las siguientes licencias:
+
+ | Windows Pro/Pro Education/SE
+
+ | Windows Enterprise E3
+
+ | Windows Enterprise E5
+
+ | Windows Education A3
+
+ | Windows Education A5
+
+ | Sí
+
+ | Sí
+
+ | Sí
+
+ | Sí
+
+ | Sí
+
+Se puede obtener más información sobre las licencias de Windows en Información general sobre las licencias de Windows.
+
+## Pasos siguientes
+
+- 
+ Cómo funciona el Control de cuentas de usuario
+
+- 
+ Configuración y opciones de Control de cuentas de usuario
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-05-27

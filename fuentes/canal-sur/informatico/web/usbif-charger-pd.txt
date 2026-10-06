@@ -1,0 +1,245 @@
+URL: https://www.usb.org/usb-charger-pd
+Leído: 2026-10-05
+
+
+
+ USB Charger (USB Power Delivery) | USB-IF
+
+ Skip to main content
+
+ Search this site
+
+Go
+
+Home
+
+USB4®
+
+USB 3.2
+
+USB Charger
+
+USB Type-C®
+
+ Toggle navigation
+
+Main navigation
+
+ About USB-IF
+
+ Members
+
+ Developers
+
+ Request a Vendor ID
+
+ Defined Class Codes
+
+ Human Interface Devices (HID)
+
+ BOS Descriptor Types
+
+ Technologies
+
+ USB4®
+
+ USB 3.2
+
+ USB Charger (USB PD)
+
+ USB Type-C®
+
+ Authentication
+
+ Compliance
+
+ USB4®
+
+ USB 3.2
+
+ USB 2.0
+
+ USB Type-C
+
+ Cables and Connectors
+
+ Compliance Tools
+
+ Test Labs
+
+ PIL Lab
+
+ USB-IF eStore
+
+ Request an XID
+
+ EU Conformity (IEC 62680)
+
+ Logo License Request
+
+ Pressroom
+
+ Upcoming Events
+
+ USB-IF Press Releases
+
+ Member Press Releases
+
+ Articles
+
+ Document Library
+
+ Products
+
+ Certified Product List
+
+ EU Conformity List (IEC 62680)
+
+User account menu
+
+ Member Login
+
+ Search
+
+USB Charger (USB Power Delivery)
+
+USB has evolved from a data interface capable of supplying limited power to a primary provider of power with a data interface. Today many devices charge or get their power from USB. USB has become a ubiquitous power socket for many small devices such as cell phones, tablets, portable speakers and other hand-held devices. Users need USB to fulfil their requirements not only in terms of data but also to provide power to, or charge, their devices simply, often without the need to load a driver, in order to carry out “traditional” USB functions.
+
+The USB Power Delivery (USB PD) Specification enables the maximum functionality of USB by providing more flexible power delivery along with data over a single cable. Its aim is to operate with and build on the existing USB ecosystem.
+
+Announced in 2021, the USB PD Revision 3.1 specification is a major update to enable delivering up to 240W of power over full featured USB Type-C® cable and connector. Prior to this update, USB PD was limited to 100W using a solution based on 20V using USB Type-C cables rated at 5A. The USB Type-C specification has also been updated to Release 2.1 to define 240W cable requirements, and with the updated USB PD protocol and power supply definition, this extends the applicability of USB power delivery to a large number of applications where 100W wasn't adequate.
+
+USB Power Delivery offers the following features:
+
+Increased power levels from existing USB standards up to 240W.
+
+New 28V, 36V, and 48V fixed voltages enable up to 140W, 180W and 240W power levels, respectively.
+
+An adjustable voltage supply mode allows the device being powered an ability to request intermediate voltages between 15V and up to the maximum available fixed voltage of the charger.
+
+Power direction is no longer fixed. This enables the product with the power (Host or Peripheral) to provide the power.
+
+Optimize power management across multiple peripherals by allowing each device to take only the power it requires, and to get more power when required for a given application.
+
+Intelligent and flexible system level management of power via optional hub communication with the PC.
+
+Allows low power cases such as headsets to negotiate for only the power they require.
+
+Examples:
+
+Enables higher power over a full featured USB Type-C® cable and connector to applications up to 240W.
+
+Enables new higher power use cases such as USB bus powered Hard Disk Drives (HDDs) and printers. This eliminates the need for a separate power brick.
+
+A monitor with a supply from the wall can power, or charge, a laptop while still displaying.
+
+USB power bricks or chargers are able to pass power through a laptop’s USB ports.
+
+Laptops and USB power bricks can provide higher power to battery powered devices (not currently defined by USB).
+
+Battery powered devices can get increased charging current from a hub and then give it back temporarily when the user’s HDD requires to spin up.
+
+Power Delivery is designed to co-exist with standard USB Battery Charging implementations. Implementers should note that if they include battery charging capability in their devices or support for host adapters such as docks or ACAs they should also reference the Battery Charging Specification.
+
+Information about Power Delivery Compliance testing is available here.
+
+In addition to passing USB-IF compliance testing and inclusion of its Power Delivery products on the Integrators List, companies wishing to use the certified USB logos must have a current on file USB-IF Trademark License Agreement. USB Power Delivery is covered by the relevant adopters agreements for either USB 2.0, USB 3.0, or USB4™ depending on the specification implemented. Recommendations for which adopters agreements are appropriate to execute are listed below:
+
+USB 2.0 products: USB 2.0 Adopters Agreement plus the “USB Power Delivery Specification” Adopters Agreement
+
+USB 3.2 products: USB 3.0 Adopters Agreement, USB 2.0 Adopters Agreement plus the “USB Power Delivery Specification” Adopters Agreement
+
+USB4 products: USB4 Adopters Agreement
+
+More Information
+
+PD Root Port Interface
+
+The Transport Interface specification defines a communication protocol for use over I2C or other peripheral interfaces. It uses the structure defined in Chapter 9 of the USB Power Delivery Specification and extends it for use on other buses. In the way of a simple example, this specification enables a standardized communication protocol between a USB Power Delivery Controller and a Device / System Policy Management Controller as well as control over power management peripherals such as a DC-DC converter. It allows for autonomous device operation when no System Policy Managers are present, or slave operation when a USB Host Controller is the System Policy Manager.
+
+Questions?
+
+Please send your questions regarding Power Delivery to techsup@usb.org.
+
+Footer menu
+
+ About USB-IF
+
+ Members
+
+ Awards
+
+ Honor Roll Award
+
+ Compliance
+
+ USB4®
+
+ USB 3.2
+
+ USB 2.0
+
+ USB Type-C® / USB PD
+
+ Cables and Connectors
+
+ Compliance Tools
+
+ Test Labs
+
+ USB-IF eStore
+
+ Request an XID
+
+ EU Conformity (IEC 62680)
+
+ Developers
+
+ USB4®
+
+ USB-IF Logo License
+
+ Vendor ID Request
+
+ USB Type-C®
+
+ USB Charger (USB PD)
+
+ USB 3.2
+
+ Authentication
+
+ Press
+
+ USB-IF Press Releases
+
+ Member Press Releases
+
+ USB-IF Resources
+
+ Document Library
+
+ Certified Product List
+
+ EU Conformity List (IEC 62680)
+
+ Education
+
+ Consumers
+
+ Retailers
+
+ Contact
+
+ Members Login
+
+Site sponsored by USB Implementers Forum, Inc., creators of USB technology.
+
+USB4®, USB Type-C® and USB-C® are registered trademarks of USB Implementers Forum. USB 2.0 Type-C® is a trademark of USB Implementers Forum.
+
+Copyright Bar Menu
+
+ Privacy Statement
+
+ VTM Group
+

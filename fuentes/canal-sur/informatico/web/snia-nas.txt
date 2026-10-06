@@ -1,0 +1,374 @@
+URL: https://www.snia.org/education/what-is-nas
+Leído: 2026-10-05
+
+
+
+ What is NAS (Network Attached Storage) and why is NAS Important? | SNIA | Experts on Data
+
+ Skip to main content
+
+Login
+
+Join SNIA
+
+Main navigation
+
+ About
+
+ Mission and Vision
+
+ History of SNIA
+
+ Organization
+
+ Board of Directors
+
+ Technical Council
+
+ SNIA Staff
+
+ SNIA Alliance Program
+
+ CXL™ Consortium
+
+ DMTF
+
+ DMTF / NVMe Alliance
+
+ Fibre Channel Industry Association (FCIA)
+
+ JEDEC
+
+ NVM Express
+
+ Open Compute Project
+
+ OpenFabrics Alliance
+
+ SODA Foundation
+
+ The Green Grid
+
+ PCI-SIG
+
+ Trusted Computing Group
+
+ Ultra Ethernet Consortium
+
+ SNIA International
+
+ SNIA India
+
+ SNIA Japan
+
+ Corporate Information
+
+ Annual Reports
+
+ IP Policy
+
+ Cookies Policy
+
+ Copyright Information
+
+ Privacy Policy
+
+ Procurement Policy Statement
+
+ SNIA-Observed Holidays
+
+ Logos & Templates
+
+ Contact Us
+
+ Data Focus Areas
+
+ Technical Work
+
+ Technical Work Groups
+
+ Technical Specifications
+
+ Open for Public Review 
+
+ Standards and Software
+
+ Cloud Data Management Interface (CDMI™)
+
+ SNIA Emerald™ Power Efficiency Measurement Specification​
+
+ I/O Traces,Tools & Analysis Repository​
+
+ Real World Storage Workload (RWSW)
+
+ Smart Data Accelerator Interface (SDXI) Specification​ 
+
+ Solid State Storage (SSS) Performance Test Specification (PTS)​
+
+ Swordfish Scalable Storage Management API Specification​
+
+ TLS Specification for Storage Systems​
+
+ XAM Software Development Kit (XAM SDK)​
+
+ Completed Standards
+
+ Common RAID Disk Data Format (DDF)​
+
+ IP-Based Drive Management Specification
+
+ iSCSI Management API (IMA)​
+
+ Linear Tape File System (LTFS) Format Specification​
+
+ Multipath Management API (MMA)​
+
+ NVM Programming Model​
+
+ Self-contained Information Retention Format (SIRF) Specification​
+
+ Storage Management Initiative Specification (SMI-S)​
+
+ eXtensible Access Method (XAM)​
+
+ NDMP V4
+
+ Technical White papers
+
+ Connect with SNIA TC
+
+ SNIA Open Source Liaison​
+
+ SNIA Contributor Agreement for Non-Members​
+
+ Submit Feedback​
+
+ Resources
+
+ Educational Library
+
+ Videos
+
+ Podcasts
+
+ Blogs
+
+ SNIA Dictionary
+
+ What Is…?
+
+ Membership
+
+ Join SNIA
+
+ Membership Benefits
+
+ How to Get Involved
+
+ Volunteer Recognition
+
+ Hall of Fame
+
+ SNIA Member Recognition Program
+
+ FAQ
+
+ Full Member Directory
+
+ Platinum Members
+
+ Groups
+
+ Overview
+
+ Start a New Group
+
+ Cloud Storage Technologies
+
+ Knowledge Center
+
+ Compute, Memory, and Storage
+
+ Knowledge Center
+
+ Compute, Memory, and Storage Initiative Committees and SIGs
+
+ Computational Storage
+
+ Computational Storage Use Cases
+
+ Computational Storage Technical Work Group
+
+ Persistent Memory 
+
+ Persistent Memory Programming Workshop & Hackathon Program
+
+ Persistent Memory Special Interest Group
+
+ Smart Data Accelerator Interface Technical Work
+
+ Persistent Memory Special Interest Group
+
+ Solid State Storage
+
+ Solid State Drive Special Interest Group (SSD SIG)
+
+ Endurance of NVMe, SAS, and SATA SSDs
+
+ SSD Form Factors
+
+ NVMe SSD Classification
+
+ Total Cost of Ownership (TCO) Model for Storage
+
+ Media Sanitization 
+
+ Real World Workloads
+
+ Reference Real World Workloads
+
+ Reference Test Platform
+
+ Solid State Storage Technical Work Group
+
+ SNIA SSS Performance Test Specification (PTS) Testing Service
+
+ Understanding SSD Performance Project
+
+ MRAM Alliance SIG
+
+ Data, Storage & Networking
+
+ Knowledge Center
+
+ DNA Data Storage
+
+ Green Storage
+
+ STA: SCSI Trade Association
+
+ SFF
+
+ SFF IP Disclosures
+
+ SFF Specifications
+
+ StorageAI
+
+ Storage Management
+
+ SM Lab Program
+
+ Swordfish
+
+ Swordfish CTP
+
+ Swordfish CTP Results
+
+ Events
+
+ Overview
+
+ Webinars
+
+ Event Calendar
+
+ SDC US
+
+ SNIA Preview
+
+ SDC: StorageAI
+
+ Newsroom
+
+ Overview
+
+ Press Releases
+
+ Media Coverage
+
+ Newsletters
+
+ SNIA Matters Archive
+
+ Press Center
+
+ SNIA Logos
+
+ Clip Art Library
+
+What is NAS (Network Attached Storage) and why is NAS Important?
+
+It is accepted that data is a critical asset for companies
+But it is equally true that in most businesses, the focus is not on the storage, but on the applications that consume it. Additionally, small businesses find themselves faced with other demands such as:
+
+Without access to their corporate data, companies may not be capable of serving their customers with the expected level of service. Poor customer service, loss of sales, or even business liquidation can be the result of corporate information not being available.
+
+Simplified operation (many small businesses do not have IT staff)
+Accessibility, reliability and availability of applications and systems for day-to-day operations
+Easy to use security, backup and recovery to protect application data
+Availability of a wide range of applications to support their business needs
+
+What is Network Attached Storage (NAS)?
+A term used to refer to storage devices that connect to a network and provide file access services to computer systems. These devices generally consist of an engine that implements the file services, and one or more devices, on which data is stored. NAS uses file access protocols such as NFS or CIFS.
+NAS systems are popular with enterprise and small businesses in many industries as effective, scalable and low-cost storage solutions. They can be used to support email systems, accounting databases, payroll, video recording and editing, data logging, business analytics and more; a wide variety of other business applications are underpinned by NAS systems.
+
+The SNIA Dictionary defines NAS as:
+Designers of software applications suited to smaller business environments tend to use file-based systems to meet these goals, particularly those of flexibility, simplicity and ease of management; and there are a wide variety of easy-to-use tools to provide security, and robust backup & recovery.
+Given the flexibility and popularity of NAS systems, most cloud providers offer NAS services; that makes it possible to mix and match NAS storage systems and cloud services in a business, allowing the potential of optimizing cost, management effort and performance while giving the business complete control over location and security.
+
+Some of the benefits of NAS include:
+
+Simple to operate; a dedicated IT professional is generally not required
+Lower cost; can significantly reduce wasted space over other storage technologies like SAN
+Centralization of data storage in a safe, reliable way for authorised network users and clients
+
+Supports a large variety of applications
+Permits data access across the network, including cloud based applications and data
+
+With a NAS, data is continually accessible, making it easy for corporate teams to collaborate, respond to customers in a timely fashion, and to improve data management and security because information is in one place.
+
+Additionally, because NAS is like a private cloud – and the same services can be made available in the cloud -- data may be accessed remotely using a network connection, meaning employees and applications can work anywhere, anytime.
+Learn more about NAS
+
+Learn More! Check out all of our "What Is...?" pages
+
+SNIA 
+SNIA: Experts on Data 
+SNIA develops and promotes architectures, standards, and education through vendor-neutral collaboration of experts on data technologies that lead the industry worldwide. Become a member today!
+
+Join SNIA
+
+Discover SNIA
+
+Discover SNIA
+
+ About
+
+ Technical Work
+
+ Education
+
+ Data Focus Areas
+
+ News & Events
+
+ Resources
+
+ Membership
+
+Snia Blogs
+
+SNIA Blog
+
+ SNIA: Experts on Data Blog
+
+SNIA Socials
+
+ Site Map
+ Contact Us
+ Privacy Policy
+ Chat provider: LiveChat
+
+ Copyright © 2024 SNIA
+

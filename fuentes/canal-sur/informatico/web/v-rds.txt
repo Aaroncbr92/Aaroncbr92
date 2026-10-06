@@ -1,0 +1,186 @@
+URL: https://learn.microsoft.com/es-es/windows-server/remote/remote-desktop-services/remote-desktop-services-overview
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Información general sobre Servicios de Escritorio remoto en Windows Server
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10
+
+## 
+
+Servicios de Escritorio remoto (RDS) en Windows Server es una plataforma integrada para ofrecer de forma segura escritorios y aplicaciones administrados a los usuarios, ya sea en la oficina, trabajando desde casa o conectando desde ubicaciones de sucursales y asociados. Al centralizar el procesamiento en el centro de datos y el acceso remoto solo a la interfaz de usuario, el servicio de Escritorio remoto le ayuda a reducir la carga administrativa, mejorar la seguridad y proporcionar un acceso consistente y eficiente a los usuarios a los recursos que necesitan.
+
+Los Servicios de Escritorio remoto admiten escritorios virtuales basados en servidor multisesión y escritorios virtuales de sesión única (o agrupados/personales), además de la publicación de aplicaciones individuales (RemoteApp). Elija la combinación adecuada de modelos para optimizar el costo, el rendimiento y la experiencia del usuario.
+
+Sugerencia
+
+Si desea evaluar una solución de escritorio más amplia basada en la nube, consulte Azure Virtual Desktop. Incluso puede ampliar Azure Virtual Desktop al centro de datos local con Azure Local.
+
+## ¿Qué es Servicios de Escritorio remoto?
+
+Servicios de Escritorio remoto es una infraestructura basada en roles en Windows Server que permite a los usuarios autorizados conectarse a través de la red a:
+
+- Un escritorio completo (basado en sesión o en máquina virtual).
+
+- Aplicaciones específicas (programas remoteApp) que aparecen y se comportan como aplicaciones instaladas localmente.
+
+En lugar de instalar y aplicar revisiones a aplicaciones en muchos puntos de conexión individuales, se gestionan una sola vez en hosts centralizados. Los puntos de conexión simplemente presentan la interfaz de usuario remota mediante el Protocolo de escritorio remoto (RDP).
+
+### Ventajas clave
+
+Servicios de Escritorio Remoto centraliza la gestión de aplicaciones y escritorios para aplicar parches y proteger los recursos de una vez, en lugar de hacerlo en múltiples puntos de conexión. La densidad de varias sesiones reduce el costo por usuario, mientras que una combinación de hosts de sesión y VDI proporciona flexibilidad para las necesidades de rendimiento o compatibilidad. Los datos permanecen en el centro de datos; el acceso remoto cifrado, MFA y la auditoría pueden reforzar su posición de cumplimiento. Los usuarios se mantienen productivos porque las ventanas de RemoteApp se comportan como aplicaciones locales, y admiten el anclaje en la barra de tareas, los flujos de trabajo en varios monitores y los controles estándar de ventana. La plataforma se extiende fácilmente con la administración de perfiles, la impresión, la supervisión, la aceleración de GPU y la automatización amplia a través de PowerShell.
+
+## Roles y componentes principales de Servicios de Escritorio remoto
+
+Servicios de Escritorio remoto incluye varios roles que puede distribuir y escalar:
+
+ | Rol
+
+ | Propósito
+
+ | Host de sesión RD (RDSH)
+
+ | Ejecuta escritorios de usuario basados en sesión y programas RemoteApp en Windows Server para una eficiencia óptima en entornos de múltiples sesiones.
+
+ | 
+ Host de Virtualización de Escritorio Remoto
+
+ | Hospeda colecciones de infraestructura de escritorio virtual (máquinas virtuales cliente windows agrupadas o personales). Se integra con Hyper-V para el aprovisionamiento.
+
+ | 
+ Agente de conexión de RD
+
+ | Mantiene las sesiones de usuario, equilibra la carga de conexiones, vuelve a conectar usuarios a sesiones existentes, administra colecciones (sesión y VDI). Soporta alta disponibilidad.
+
+ | 
+ Acceso web de RD
+
+ | Proporciona un portal web y fuentes de datos (Web Access / RemoteApp y Conexiones de escritorio) que enumeran los escritorios y las aplicaciones que los usuarios están autorizados a usar.
+
+ | 
+ RD Gateway
+
+ | Habilita el acceso RDP seguro y cifrado a través de HTTPS (TCP 443) desde redes externas sin abrir puertos RDP internos. Admite MFA y directivas condicionales.
+
+ | 
+ Licencias de Escritorio remoto
+
+ | Problemas y gestiona las licencias de acceso de cliente de Servicios de Escritorio Remoto (CAL de RDS) necesarias para el uso legal (Usuario o Dispositivo).
+
+Los componentes auxiliares suelen incluir servicios de archivos para perfiles de usuario, servicios de certificado para TLS y soluciones de supervisión.
+
+## Modelos de implementación
+
+Puede combinar y comparar modelos basados en los requisitos técnicos y de rol del usuario:
+
+ | Modelo
+
+ | Description
+
+ | Casos de uso típicos
+
+ | Costo y densidad
+
+ | 
+ Basado en sesión (RDSH)
+
+ | Varios usuarios comparten una instancia de Windows Server; cada obtiene una sesión aislada.
+
+ | Trabajadores por tareas, aplicaciones empresariales, usuarios temporales.
+
+ | Mayor densidad de usuario, menor costo por usuario.
+
+ | 
+ VDI en entorno compartido
+
+ | Los usuarios se conectan a una máquina virtual cliente Windows asignada dinámicamente desde un grupo. Estado no persistente o restablecible.
+
+ | Los trabajadores del conocimiento que necesitan compatibilidad con el cliente de Windows; aislamiento de aplicaciones.
+
+ | Densidad media/costo.
+
+ | 
+ VDI personal
+
+ | A cada usuario se le asigna una máquina virtual cliente Windows dedicada que conserva los cambios.
+
+ | Desarrolladores, usuarios avanzados, aplicaciones con mucha personalización.
+
+ | Densidad más baja, mayor flexibilidad.
+
+ | 
+ Híbrido
+
+ | Combine RDSH para aplicaciones de línea base + VDI para necesidades especializadas.
+
+ | Entornos de personas mixtas.
+
+ | Equilibrio optimizado.
+
+### Ubicaciones de hospedaje
+
+Puede implementar Servicios de Escritorio remoto en diferentes entornos:
+
+- 
+ En las instalaciones: Control total del hardware, la red y la localización de los datos.
+
+- 
+ Infraestructura de Azure (IaaS): despliegue roles de Servicios de Escritorio Remoto en máquinas virtuales de Azure para lograr una capacidad elástica y simplificar el acceso global.
+
+## Escenarios frecuentes
+
+Las organizaciones usan Servicios de Escritorio remoto para estandarizar la entrega de aplicaciones a sucursales, permitir el acceso seguro para contratistas o asociados sin exponer redes internas de forma amplia, rápida incorporar personal temporal o estacional, y hospedar aplicaciones heredadas o especializadas de Windows que no son prácticas para implementar en muchos dispositivos. También es habitual en los sectores regulados (finanzas, atención sanitaria), donde la residencia y la auditoría de datos son importantes, y para los administradores de TI que necesitan acceso a Escritorio remoto con privilegios restringidos en lugar de túneles VPN completos.
+
+## Opciones de publicación
+
+Puede publicar escritorios completos (basados en sesiones o basados en máquinas virtuales) que presentan un conjunto de aplicaciones mantenidos o proporcionar programas de RemoteApp individuales que se integren en el menú Inicio y la barra de tareas del usuario, pueden abarcar varios monitores y aparecer y comportarse como software instalado localmente.
+
+## Seguridad y cumplimiento
+
+Servicios de Escritorio Remoto se basa en la seguridad de Windows: TLS protege el tráfico RDP (implementa certificados válidos para la Puerta de enlace de RD, el Broker, y el Acceso Web) y la Puerta de enlace de RD encapsula RDP en HTTPS para minimizar los puertos expuestos, al tiempo que habilita el acceso condicional y la integración de la autenticación multifactorial. Las colecciones y los grupos de seguridad ayudan a aplicar la segmentación con privilegios mínimos; la ejecución centralizada mantiene los datos residentes en el centro de datos, por lo que solo sale el flujo de la interfaz de usuario. Registros de eventos y monitorización de fuentes de auditoría de Windows o soluciones SIEM para el cumplimiento normativo y la revisión forense.
+
+## Consideraciones de planeación
+
+La planeación eficaz comienza con personas de usuario: calcule los perfiles de CPU, memoria, E/S de almacenamiento para tareas, conocimientos y usuarios avanzados. Desde ese punto, planifique la capacidad del modelo para las sesiones por host de sesión de Escritorio remoto y determine el dimensionamiento de los VDI, ya sean agrupados o personales, al mismo tiempo que diseña la alta disponibilidad del Administrador de conexión. La estrategia de perfil (perfiles móviles, redirección de carpetas o administración de perfiles de terceros) afecta al rendimiento del inicio de sesión y al crecimiento del disco; evite la expansión de perfiles no controlada en hosts. Si los usuarios necesitan 3D o multimedia rico, planifique recursos de GPU (Hyper-V DDA o tecnologías de virtualización que se admiten). La topología de red y la latencia afectan la experiencia del usuario, por lo que coloque el RD Gateway para minimizar el tiempo de ida y vuelta y garantizar un ancho de banda suficiente para la concurrencia máxima. Valide el comportamiento de varias sesiones de la aplicación al principio para detectar suposiciones sobre las rutas de acceso por máquina o las claves del Registro, así como la implementación de scripts, el escalado y el mantenimiento con PowerShell para reducir el esfuerzo manual.
+
+## Administración y supervisión
+
+Las operaciones diarias combinan la GUI y la automatización: El Administrador del servidor y PowerShell controlan la instalación de roles, la creación de colecciones y la publicación de aplicaciones; Connection Broker administra el equilibrio de carga y la asignación de usuarios entre hosts. Supervise las sesiones y el consumo de recursos (CPU, memoria, disco, GPU) y revise los eventos de autenticación o desconexión para ver las tendencias. Mantener imágenes personalizadas para VDI en grupo y aplicar parches escalonados a los hosts de sesión para conservar la capacidad disponible. Los scripts programados simplifican la renovación de certificados, la actualización de imágenes y los ajustes de expansión/reducción horizontal.
+
+## Pasos siguientes
+
+Para empezar a trabajar con Servicios de Escritorio remoto, revise los artículos siguientes:
+
+- 
+ Configuraciones compatibles
+
+- 
+ Planeamiento y diseño de capacidad, alta disponibilidad, MFA y certificados
+
+- 
+ Modelos de arquitectura
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-10-31

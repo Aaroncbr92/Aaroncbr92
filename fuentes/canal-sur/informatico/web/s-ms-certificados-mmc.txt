@@ -1,0 +1,81 @@
+URL: https://learn.microsoft.com/es-es/dotnet/framework/wcf/feature-details/how-to-view-certificates-with-the-mmc-snap-in
+Leído: 2026-10-05
+
+Cómo: Ver certificados con el complemento de MMC - WCF | Microsoft Learn
+Ir al contenido principal
+Omisión de la experiencia de chat de Ask Learn
+Este explorador ya no se admite.
+Actualice a Microsoft Edge para aprovechar las características y actualizaciones de seguridad más recientes, y disponer de soporte técnico.
+Descargar Microsoft Edge
+Más información sobre Internet Explorer y Microsoft Edge
+Tabla de contenido
+Salir del modo de editor
+Preguntar a Learn
+Preguntar a Learn
+Modo de lectura
+Tabla de contenido
+Leer en inglés
+Agregar
+Añadir a Planes
+Copiar Markdown
+Imprimir
+Nota:
+El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios .
+El acceso a esta página requiere autorización. Puede intentar cambiar los directorios .
+Cómo: Ver certificados con el complemento de MMC
+Comentarios
+En este artículo
+Al crear un cliente o servicio seguro, puede usar un certificado de como credencial. Por ejemplo, un tipo común de credencial es el certificado X.509, que se crea con el método X509CertificateInitiatorClientCredential.SetCertificate .
+Hay tres tipos diferentes de almacenes de certificados que puede examinar con Microsoft Management Console (MMC) en sistemas Windows:
+Ordenador local: el almacenamiento es local para el dispositivo y global para todos sus usuarios.
+Usuario actual: el almacén es local para la cuenta de usuario actual del dispositivo.
+Cuenta de servicio: el almacén es local para un servicio determinado del dispositivo.
+Visualización de los certificados en el complemento de MMC
+En el procedimiento siguiente se muestra cómo examinar las tiendas del dispositivo local para buscar un certificado adecuado:
+Seleccione Ejecutar en el menú Inicio y, luego, escriba mmc .
+Aparece el MMC.
+En el menú Archivo , seleccione Agregar o quitar complemento .
+Aparece la ventana Agregar o quitar complementos .
+En la lista Complementos disponibles , elija Certificados y, luego, seleccione Agregar .
+En la ventana Complemento de certificados , seleccione Cuenta de equipo y, luego, elija Siguiente .
+Opcionalmente, puede seleccionar Mi cuenta de usuario para el usuario actual o cuenta de servicio para un servicio determinado.
+Nota
+Si no es administrador del dispositivo, solo puede administrar certificados para su cuenta de usuario.
+En la ventana Seleccionar equipo , deje Equipo local seleccionado y, luego, elija Finalizar .
+En la ventana Agregar o quitar complemento , seleccione Aceptar .
+Opcional: en el menú Archivo , seleccione Guardar o Guardar como para guardar el archivo de consola MMC para su uso posterior.
+Para ver los certificados en el complemento MMC, seleccione Raíz de consola en el panel izquierdo y, luego, expanda Certificados (equipo local) .
+Aparece una lista de directorios para cada tipo de certificado. Desde cada directorio de certificados, puede ver, exportar, importar y eliminar sus certificados.
+Visualización de certificados con la herramienta Administrador de certificados
+También puede ver, exportar, importar y eliminar certificados mediante la herramienta Administrador de certificados.
+Para ver los certificados del dispositivo local
+Seleccione Ejecutar en el menú Inicio y escriba certlm.msc .
+Aparece la herramienta Administrador de certificados para el dispositivo local.
+Para ver los certificados, en Certificados: equipo local en el panel izquierdo, expanda el directorio correspondiente al tipo de certificado que quiere ver.
+Para ver los certificados del usuario actual
+Seleccione Ejecutar en el menú Inicio y escriba certmgr.msc .
+Aparece la herramienta Administrador de certificados para el usuario actual.
+Para ver los certificados, en Certificados: usuario actual en el panel izquierdo, expanda el directorio correspondiente al tipo de certificado que quiere ver.
+Consulte también
+Trabajo con certificados
+Cómo: Crear certificados temporales para su uso durante el desarrollo
+Cómo: Recuperar la huella digital de un certificado
+Recursos adicionales
+Last updated on
+2025-01-02
+En este artículo
+es-es
+Sus opciones de privacidad
+Tema
+Claro
+Oscuro
+Contraste alto
+Declinación de responsabilidades de IA
+Versiones anteriores
+Blog
+Contribuir
+Privacidad
+Privacidad de estado del consumidor
+Términos de uso
+Marcas comerciales
+© Microsoft 2026

@@ -1,0 +1,126 @@
+URL: https://learn.microsoft.com/es-es/windows/security/operating-system-security/system-security/windows-defender-security-center/windows-defender-security-center
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Seguridad de Windows
+
+- Se aplica a: ✅ Windows 11, ✅ Windows 10
+
+## 
+
+En este artículo se describe Seguridad de Windows configuración y se proporciona información sobre la configuración de ciertas características, entre las que se incluyen:
+
+- 
+ Mostrar y personalizar la información de contacto
+
+- 
+ Ocultar notificaciones
+
+Nota
+
+ Seguridad de Windows es una interfaz de cliente en Windows 10, versión 1703 y posteriores. No es la consola del portal web Centro de seguridad de Microsoft Defender que se usa para revisar y administrar Microsoft Defender para punto de conexión.
+
+No puede desinstalar Seguridad de Windows, pero puede realizar una de las siguientes acciones:
+
+- Deshabilite la interfaz en Windows Server 2016.
+
+- Oculte todas las secciones en los equipos cliente.
+
+- Deshabilite Microsoft Defender Antivirus, si es necesario. Para obtener más información, vea Habilitar y configurar Microsoft Defender protección always-on antivirus en la directiva de grupo.
+
+Para obtener más información sobre cada sección, las opciones para configurar las secciones y cómo ocultar cada una de ellas, consulte los artículos siguientes:
+
+- 
+ Virus & protección contra amenazas, que tiene información y acceso a la configuración y las notificaciones de protección contra ransomware antivirus, incluido el acceso controlado a carpetas, e inicio de sesión en Microsoft OneDrive.
+
+- 
+ Protección de cuentas, que tiene información y acceso a la configuración de inicio de sesión y protección de cuentas.
+
+- 
+ Firewall & protección de red, que tiene información y acceso a la configuración del firewall, incluido Firewall de Windows.
+
+- 
+ La aplicación & control del explorador, que cubre la configuración de SmartScreen de Windows Defender y las mitigaciones de protección contra vulnerabilidades.
+
+- 
+ Seguridad del dispositivo, que proporciona acceso a la configuración de seguridad de dispositivos integrada.
+
+- 
+ El rendimiento del dispositivo & el estado, que tiene información sobre los controladores, el espacio de almacenamiento y los problemas generales de Windows Update.
+
+- 
+ Opciones familiares, que incluyen acceso a los controles parentales junto con consejos e información para mantener a los niños seguros en línea.
+
+Nota
+
+Si oculta todas las secciones, Seguridad de Windows muestra una interfaz restringida, como en la captura de pantalla siguiente:
+
+## Abrir Seguridad de Windows
+
+- 
+Seleccione el icono en el área de notificación de la barra de tareas.
+
+- 
+Busque Seguridad de Windows en el menú Inicio.
+
+- 
+Abra un área de Seguridad&> privacidad de la configuración> de Windows Seguridad de Windows.
+
+Nota
+
+La configuración configurada con herramientas de administración, como la directiva de grupo, Microsoft Intune o Microsoft Configuration Manager, tiene prioridad sobre la configuración del Seguridad de Windows.
+
+## Funcionamiento de Seguridad de Windows con las características de seguridad de Windows
+
+Importante
+
+ Microsoft Defender Antivirus y Seguridad de Windows usan servicios con nombre similar para fines específicos.
+
+El Seguridad de Windows usa el servicio Seguridad de Windows (SecurityHealthService o Seguridad de Windows Health Service), que a su vez usa el servicio Seguridad de Windows Center (wscsvc). Este servicio se asegura de que Seguridad de Windows proporciona la información más actualizada sobre el estado de protección en el punto de conexión. Esta información incluye la protección ofrecida por productos antivirus de terceros, Firewall de Windows, firewalls de terceros y otra protección de seguridad.
+
+Estos servicios no afectan al estado de Microsoft Defender Antivirus. Deshabilitar o modificar estos servicios no deshabilita Microsoft Defender Antivirus. Esto conduce a un estado de protección reducido en el punto de conexión, incluso si usa un producto antivirus de terceros.
+
+Microsoft Defender Antivirus se deshabilita automáticamente cuando se instala un producto antivirus de terceros y se mantiene actualizado.
+
+ Seguridad de Windows funciona como una aplicación o proceso independiente de cada una de las características individuales y muestra notificaciones a través del Centro de acciones.
+
+Actúa como recopilador o punto único para ver el estado y realizar parte de la configuración de cada una de las características.
+
+Si deshabilita cualquiera de las características individuales, impide que dicha característica informe de su estado en Seguridad de Windows. Por ejemplo, si deshabilita una característica a través de la directiva de grupo u otras herramientas de administración, como Microsoft Configuration Manager, Seguridad de Windows se sigue ejecutando y muestra el estado de las otras características de seguridad.
+
+Importante
+
+Si deshabilita individualmente cualquiera de los servicios, no deshabilita los demás servicios ni Seguridad de Windows sí mismo.
+
+Por ejemplo, el uso de un antivirus de terceros deshabilita Microsoft Defender Antivirus. Sin embargo, Seguridad de Windows sigue ejecutándose, muestra su icono en la barra de tareas y muestra información sobre las otras características, como SmartScreen de Windows Defender y Firewall de Windows.
+
+Advertencia
+
+Deshabilitar el servicio Seguridad de Windows Center no deshabilita Microsoft Defender Antivirus ni Firewall de Windows. Si deshabilita el servicio Seguridad de Windows Center o configura sus opciones de directiva de grupo asociadas para evitar que se inicie o ejecute, Seguridad de Windows podría mostrar información obsoleta o inexacta sobre los productos antivirus o de firewall instalados en el dispositivo.
+
+También puede impedir que Microsoft Defender Antivirus se habilite si tiene un antivirus de terceros antiguo o obsoleto, o si desinstala cualquier producto antivirus de terceros que haya instalado anteriormente. Esto reducirá considerablemente la protección del dispositivo y podría provocar una infección por malware.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-05-27

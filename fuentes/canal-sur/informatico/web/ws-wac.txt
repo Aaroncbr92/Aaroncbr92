@@ -1,0 +1,244 @@
+URL: https://learn.microsoft.com/es-es/windows-server/manage/windows-admin-center/overview
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Introducción a Windows Admin Center
+
+- Se aplica a: ✅ Windows Admin Center, ✅ Windows Admin Center Preview
+
+## 
+
+Windows Admin Center es una herramienta de administración remota para Windows Server que se ejecuta en cualquier lugar (físico, virtual, en el entorno local, en Azure o en un entorno hospedado) sin coste adicional.
+
+Para averiguar las novedades, consulte Historial de versiones.
+
+## Descargar ahora
+
+ Descarga Windows Admin Center desde Microsoft Evaluation Center.
+
+Para obtener ayuda sobre la instalación, consulte Instalación. Para obtener sugerencias sobre cómo empezar a trabajar con Windows Admin Center, consulta Introducción.
+
+Puedes actualizar versiones no preliminares de Windows Admin Center mediante Microsoft Update o mediante la descarga e instalación manuales de Windows Admin Center. Cada versión de Windows Admin Center que no es la versión preliminar dispone de soporte técnico hasta 30 días después del lanzamiento de la siguiente versión que no sea preliminar. Consulta nuestra directiva de soporte técnico para obtener más información.
+
+## Escenarios de Windows Admin Center
+
+Estas son algunas de las cosas que puedes hacer con Windows Admin Center:
+
+- 
+
+ Simplificar la gestión de los servidores: administre sus servidores y clústeres con versiones modernizadas de herramientas tan conocidas como el Administrador del servidor. Instálelo en menos de cinco minutos y administre los servidores de su entorno inmediatamente: no se requiere ninguna configuración extra. Para obtener más detalles, consulte ¿Qué es el Windows Admin Center?
+
+- 
+
+ Trabajar con soluciones híbridas: la integración con Azure le ayuda a conectar de forma opcional sus servidores locales con los servicios en la nube pertinentes. Para obtener más información, consulte Servicios híbridos de Azure.
+
+- 
+
+ Simplifique la administración hiperconvergida: Simplifique la administración de clústeres hiperconvergidos de Windows Server. Use cargas de trabajo simplificadas para crear y administrar máquinas virtuales, volúmenes de Espacios de almacenamiento directo, Software-Defined Networking y mucho más. Para obtener más información, consulte Administración de HCI. Para administrar Azure Local, consulte la documentación de Azure Local.
+
+A continuación se incluye un vídeo a modo de introducción, seguido de un póster con más detalles:
+
+ Descargar el PDF de este póster
+
+## Breve explicación del contenido
+
+ | Understand
+
+ | Plan
+
+ | 
+ - 
+ ¿Qué es Windows Admin Center? 
+
+ - 
+ Preguntas frecuentes
+
+ - 
+ Casos prácticos 
+
+ - 
+ Productos de administración relacionados
+
+ | 
+ - 
+ ¿Qué tipo de instalación es el adecuado para usted? 
+
+ - 
+ Opciones de acceso de usuario 
+
+ | Deploy
+
+ | Configure
+
+ | 
+ - 
+ Prepare el entorno 
+
+ - 
+ Instalación de Windows Admin Center 
+
+ - 
+ Habilite la alta disponibilidad 
+
+ | 
+ - 
+ Configuración de Windows Admin Center 
+
+ - 
+ Permisos y control de acceso de usuarios 
+
+ - 
+ Conexiones compartidas 
+
+ - 
+ Extensiones 
+
+ - 
+ Automatizar con PowerShell
+
+ | Use
+
+ | Conexión con Azure
+
+ | 
+ - 
+ Iniciar y agregar conexiones 
+
+ - 
+ Administrar servidores 
+
+ - 
+ Implementación de la infraestructura hiperconvergida 
+
+ - 
+ Administración de la infraestructura hiperconvergida 
+
+ - 
+ Administrar clústeres de conmutación por error 
+
+ - 
+ Administración de máquinas virtuales 
+
+ - 
+ Registro
+
+ | 
+ - 
+ Azure Hybrid Services 
+
+ - 
+ Conexión de Windows Admin Center con Azure 
+
+ - 
+ Implementación de Windows Admin Center en Azure 
+
+ - 
+ Administrar las VM de Azure con Windows Admin Center 
+
+ | Windows Admin Center en Azure
+
+ | Support
+
+ | 
+ - 
+ Administración de máquinas virtuales IaaS de Windows Server 
+
+ - 
+ Administración de servidores habilitados para Azure Arc (versión preliminar) 
+
+ - 
+ Administración de clústeres locales de Azure (versión preliminar)
+
+ | 
+ - 
+ Historial de versiones 
+
+ - 
+ Directiva de soporte técnico 
+
+ - 
+ Pasos comunes de solución de problemas 
+
+ - 
+ Problemas conocidos
+
+ | Extend
+
+ | 
+ - 
+ Información general de extensiones
+
+ - 
+ Descripción de las extensiones
+
+ - 
+ Desarrollar una extensión
+
+ - 
+ Guías
+
+ - 
+ Extensiones de publicación
+
+## Descubre cómo los clientes se benefician de Windows Admin Center
+
+- 
+"[Windows Admin Center] ha disminuido nuestro tiempo y esfuerzo a la hora de administrar el sistema de administración en más de un 75 %".
+
+ - Rand Morimoto, Presidente, Convergent Computing
+
+- 
+"Gracias a [Windows Admin Center], podemos administrar nuestros clientes de forma remota desde el portal de HTML5 sin problema y con la integración completa con Microsoft Entra ID, podemos aumentar la seguridad gracias a la autenticación multifactor".
+
+ - Silvio Di Benedetto, Fundador y Consultor ejecutivo, Inside Technologies
+
+- 
+"Hemos podido implementar SKU de [Server Core] de forma más eficaz, mejorando la eficiencia de los recursos, la seguridad y la automatización, a la vez que logramos un buen grado de productividad y reduciendo los errores que pueden producirse al confiar solo en scripting".
+
+ - Guglielmo Mengora, Fundador y Director general, VaiSulWeb
+
+- 
+"Con los clientes de [Windows Admin Center] especialmente en el mercado de SMB ahora tienen una herramienta fácil de usar para administrar su infraestructura interna. Esto minimiza los esfuerzos administrativos y ahorra una gran cantidad de tiempo. Y lo mejor de esto: no hay tarifas de licencia adicionales para [Windows Admin Center]!"
+
+ - Helmut Otto, Director Ejecutivo, SecureGUARD
+
+Para obtener más información sobre las empresas que usan Windows Admin Center en sus entornos de producción, consulte Casos prácticos de Windows Admin Center.
+
+## Productos relacionados
+
+Windows Admin Center está diseñado para administrar un solo servidor o clúster. Complementa pero no sustituye a las soluciones de supervisión y administración de Microsoft existentes, como las Herramientas de administración remota del servidor (RSAT), System Center, Intune o Azure Stack.
+
+Para obtener información sobre cómo Windows Admin Center complementa otras soluciones de administración de Microsoft, consulte Windows Admin Center y soluciones de administración relacionadas de Microsoft.
+
+## Mantenerse actualizado
+
+- 
+ Síganos en X (anteriormente Twitter)
+
+- 
+ Lea nuestros blogs
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-15

@@ -1,0 +1,84 @@
+URL: https://support.microsoft.com/es-ES/servicing/os/windows/2017/01/how-to-run-control-panel-tools-by-typing-a-command
+Leído: 2026-10-05
+
+# Cómo ejecutar las herramientas del Panel de control escribiendo un comando
+
+## Resumen
+
+En este artículo se describe cómo ejecutar las herramientas del Panel de control en Windows escribiendo un comando en un símbolo del sistema o en el cuadro Abrir.
+
+## Más información
+
+Para ejecutar una herramienta de Panel de control en Windows, escriba el comando adecuado en el cuadro Abrir o en un símbolo del sistema.
+
+NOTA: Si desea ejecutar un comando desde un símbolo del sistema, debe hacerlo desde la carpeta Windows. Además, tenga en cuenta que es posible que el equipo no tenga todas las herramientas enumeradas en este artículo, ya que es posible que la instalación de Windows no incluya todos estos componentes.
+
+ Herramienta Panel de control Comando
+
+ -----------------------------------------------------------------
+
+ Control de opciones de accesibilidad access.cpl
+
+ Agregar nuevo control de hardware sysdm.cpl agregar nuevo hardware
+
+ Agregar o quitar programas de control appwiz.cpl
+
+ Control de propiedades de fecha y hora timedate.cpl
+
+ Control Propiedades de pantalla desk.cpl
+
+ Control FindFast findfast.cpl
+
+ Fuentes Control de carpeta fuentes
+
+ inetcpl.cpl control de propiedades de Internet
+
+ Control de propiedades de joystick joy.cpl
+
+ Propiedades del teclado controlar main.cpl teclado
+
+ Control de Microsoft Exchange mlcfg32.cpl
+
+ (o Windows Mensajes)
+
+ Control de correos de Microsoft Mail wgpocpl.cpl
+
+ modem.cpl de control de propiedades del módem
+
+ Control de propiedades del mouse main.cpl
+
+ Control de propiedades multimedia mmsys.cpl
+
+ Las propiedades de red controlan netcpl.cpl
+
+ NOTA: En Windows NT 4.0, Red
+
+ propiedades es Ncpa.cpl, no Netcpl.cpl
+
+ Control de propiedades de contraseña password.cpl
+
+ Control de tarjeta PC main.cpl tarjeta de PC (PCMCIA)
+
+ Administración de energía (Windows 95) control main.cpl energía
+
+ Administración de energía (Windows 98) control powercfg.cpl
+
+ Impresoras Control de carpetas Impresoras
+
+ Configuración regional controla intl.cpl
+
+ Los escáneres y cámaras controlan sticpl.cpl
+
+ Propiedades de sonido controlar mmsys.cpl sonidos
+
+ Control de propiedades del sistema sysdm.cpl
+
+ NOTA: El applet Escáneres y cámaras (sticpl.cpl) no se puede ejecutar en Windows Millennium. Ha sido reemplazado por la carpeta Escáneres y cámaras, que tiene una función similar a carpetas como Impresoras y Redes de acceso telefónico.
+
+Windows sustituye el nombre de la herramienta que desea ejecutar por %1%. Por ejemplo:
+
+"rundll32.exe shell32.dll,Control_RunDLL appwiz.cpl".
+
+Para ejecutar la herramienta Usuarios en Panel de control, escriba control Ncpa.cpl users y presione ENTRAR.
+
+Para ejecutar la herramienta Usuarios para Windows 95/98/Me, escriba "control inetcpl.cpl usuarios" (sin las comillas) y luego presione ENTRAR.

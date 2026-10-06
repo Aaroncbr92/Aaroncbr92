@@ -1,0 +1,394 @@
+URL: https://learn.microsoft.com/es-es/microsoft-365-apps/updates/overview-update-channels
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Información general sobre los canales de actualización de Aplicaciones de Microsoft 365
+
+## 
+
+Importante
+
+ Actualización de los cambios de canal en julio de 2026
+
+- Microsoft está realizando cambios significativos en los canales de actualización a partir de julio de 2026.
+
+- 
+ El canal empresarial semestral recibirá actualizaciones de características y seguridad mensuales, de la misma forma que el canal mensual de empresa.
+
+- Para obtener más información, consulte Unificación del próximo canal: Semi-Annual Canal empresarial a Canal mensual de empresa.
+
+Una de las ventajas de Aplicaciones Microsoft 365 es que Microsoft proporciona nuevas (y actualizadas) características para aplicaciones como Excel y Word con regularidad. Puede controlar la frecuencia con la que los usuarios de su organización recibirán estas nuevas características especificando el canal de actualización.
+
+Además de las nuevas características, los canales de actualización proporcionan periódicamente actualizaciones de seguridad y no relacionadas con la seguridad, según sea necesario, cada mes. Las actualizaciones que no son de seguridad proporcionan correcciones para problemas conocidos y ofrecen mejoras de estabilidad o rendimiento para Aplicaciones Microsoft 365.
+
+Existen tres canales de actualización principales:
+
+- 
+ Canal actual
+
+- 
+ Canal empresarial mensual
+
+- 
+ Canal empresarial semestral
+
+Elija Canal actual para proporcionar a los usuarios las características más recientes tan pronto como estén listos. Si necesita fechas de lanzamiento predecibles para las nuevas características cada mes, elija Canal mensual de empresa. En el caso de los dispositivos que requieren pruebas exhaustivas antes de recibir nuevas características, elija Semi-Annual Canal de empresa.
+
+Pero somos conscientes de que hay varios factores que determinan qué canal de actualización selecciona para la implementación de aplicaciones de Microsoft 365. Por ejemplo, la utilización del ancho de banda de la red, el aprendizaje y la asistencia al usuario final, las aplicaciones de línea de negocio y otros requisitos organizativos.
+
+## Comparación de los canales de actualización para Aplicaciones de Microsoft 365
+
+La siguiente tabla ofrece una comparación entre el Canal actual, el Canal mensual para empresas y el Canal semestral para empresas.
+
+ | Categoría
+
+ | Canal actual
+
+ | Canal mensual para empresas
+
+ | Canal empresarial semestral
+
+ | 
+ Uso recomendado
+
+ | Proporcione a los usuarios nuevas características de Aplicaciones Microsoft 365 en cuanto estén listos, pero sin una programación establecida.
+
+ | Proporcione a los usuarios nuevas características de Aplicaciones Microsoft 365 solo una vez al mes y según una programación predecible.
+
+ | Para dispositivos no interactivos y para aquellos que ejecutan cargas de trabajo especializadas o críticas para la empresa que requieren pruebas exhaustivas antes de implementar nuevas características de Aplicaciones Microsoft 365. Adecuado para dispositivos seleccionados que realizan tareas automatizadas en las que los usuarios finales no están presentes, lo que garantiza el cumplimiento de los estándares normativos y organizativos.
+
+ | 
+ Frecuencia de publicación1
+
+ | Al menos una vez al mes (probablemente con mayor frecuencia), pero no según una programación establecida
+
+ | Una vez al mes, el segundo martes del mes
+
+ | Una vez al mes, el segundo martes del mes
+
+ | 
+ Actualizaciones de características2
+
+ | En cuanto estén listos (una vez al mes), pero sin programación fija
+
+ | Una vez al mes, el segundo martes del mes
+
+ | Dos veces al año (en enero y en julio), el segundo martes del mes
+
+ | 
+ Actualizaciones de seguridad3
+
+ (si es necesario)
+
+ | Una vez al mes, el segundo martes del mes
+
+ | Una vez al mes, el segundo martes del mes
+
+ | Una vez al mes, el segundo martes del mes
+
+ | 
+ Actualizaciones no relacionadas con la seguridad2
+
+ (si es necesario)
+
+ | Por lo general, al menos una vez al mes (posiblemente con más frecuencia), pero no hay una programación establecido.
+
+ | Una vez al mes, el segundo martes del mes
+
+ | Una vez al mes, el segundo martes del mes
+
+ | 
+ Duración del soporte técnico para una versión determinada4
+
+ | Hasta que se publique la siguiente versión con nuevas características, que suele tardar un mes
+
+ | Tres meses
+
+ | Ocho meses (a partir de julio de 2025; anteriormente catorce meses)
+
+ | 
+ Compatibilidad con reversión
+
+ | No aplicable
+
+ | Tres meses
+
+ | Dos meses
+
+ 1 Para ver una lista de las fechas de publicación de estos canales de actualización, incluidos los números de versión y compilación, consulte Historial de actualizaciones de Aplicaciones de Microsoft 365.
+
+ 2 Para obtener información sobre las actualizaciones de características y las actualizaciones no relacionadas con la seguridad que se incluyen en una versión determinada de estos canales de actualización, consulte Notas de la versión para las versiones de Aplicaciones de Microsoft 365.
+
+ 3 Para obtener una lista de las actualizaciones de seguridad incluidas en una versión determinada de estos canales de actualización, consulte Notas de la versión de actualizaciones de seguridad de Microsoft Office 
+
+ 4 Para obtener una tabla en la que se muestra la versión y compilación compatibles para cada uno de estos canales de actualización, consulte Historial de actualizaciones de Aplicaciones de Microsoft 365.
+
+Nota:
+
+- Para asegurarse de que tiene las actualizaciones de seguridad y no de seguridad más actualizadas, actualice siempre a la versión más actual y a la compilación disponible para el canal de actualización.
+
+- Para simplificar la administración de actualizaciones, configure los dispositivos para obtener Aplicaciones Microsoft 365 actualizaciones directamente desde Office Content Delivery Network (CDN) en Internet. Para obtener más información, incluidas las implicaciones del uso del ancho de banda de red, consulte Administrar actualizaciones.
+
+## Información general del Canal actual
+
+Elija Canal actual para proporcionar a los usuarios las características de Aplicaciones Microsoft 365 más recientes tan pronto como estén listas. El Canal Actual suele recibir nuevas funciones al menos una vez al mes, pero no hay un calendario establecido para la publicación de esas actualizaciones.
+
+El Canal actual también recibe otras actualizaciones durante el mes, entre las que se incluyen actualizaciones de seguridad y no relacionadas con la seguridad. No hay una programación fija para estas actualizaciones, pero en general se publican dos o tres al mes, incluida una el segundo martes de cada mes.
+
+### Actualizaciones de características del Canal actual
+
+Las características nuevas o actualizadas del Canal actual suelen publicarse todos los meses. No hay una programación fija para la actualización de las funciones del Canal actual. La actualización de características del Canal actual solo está disponible cuando se cumplen varios criterios en la versión, incluidos criterios relacionados con la estabilidad y el rendimiento.
+
+En algunos casos, una nueva característica está disponible solo para un subconjunto de usuarios, ya que la característica se implementa gradualmente en el Canal actual.
+
+Para obtener una lista de las actualizaciones de características que se incluyen en una versión determinada del Canal actual, consulte Notas de la versión para las versiones de Aplicaciones de Microsoft 365.
+
+#### Versión preliminar de las próximas características nuevas del Canal actual
+
+Para familiarizarse con las nuevas características de la próxima versión de Canal actual, le recomendamos que utilice Canal actual (versión preliminar).
+
+No hay una programación de publicación establecida para el Canal actual (versión preliminar). En general, se publica una nueva versión del Canal actual (versión preliminar) con nuevas características al menos una semana o más antes de que se publique la nueva versión en el Canal actual. Es posible que haya varias versiones del Canal actual (Versión preliminar), con actualizaciones no relacionadas con la seguridad, antes de que esa versión se publique en el Canal actual.
+
+Debe implementar el Canal actual (Versión preliminar) en una muestra pequeña y representativa de usuarios de su organización. Este pequeño ejemplo puede ayudarle a identificar los posibles problemas de su organización antes de que esas nuevas características se publiquen de forma más amplia para los usuarios que tienen el Canal actual.
+
+También le animamos a que use el Canal actual (Versión preliminar) para que pueda identificar cualquier posible problema que desee que solucionemos antes de que esa versión se publique en el Canal actual. Este enfoque puede ayudar a reducir el número de actualizaciones no relacionadas con la seguridad necesarias para el Canal actual.
+
+### Actualizaciones de seguridad del Canal actual
+
+Si es necesario, las actualizaciones de seguridad se publican el segundo martes del mes.
+Las actualizaciones de seguridad son acumulativas. La versión más reciente del Canal actual incluye las actualizaciones de seguridad de versiones anteriores del Canal actual.
+
+No están disponibles descargas independientes solo de actualizaciones de seguridad para el Canal actual. Además, no se proporcionan nuevas actualizaciones de seguridad para las versiones del Canal actual que ya no son compatibles.
+
+Para obtener una lista de las actualizaciones de seguridad incluidas en una versión determinada del Canal actual, consulte Notas de la versión de las actualizaciones de seguridad de Microsoft Office.
+
+### Actualizaciones no relacionadas con la seguridad del Canal actual
+
+En caso necesario, se proporcionan actualizaciones no relacionadas con la seguridad para el Canal actual. Las actualizaciones que no son de seguridad ofrecen correcciones para problemas conocidos y proporcionan mejoras de estabilidad o rendimiento para Aplicaciones Microsoft 365.
+
+No hay ninguna programación establecida para cuando se publican actualizaciones no relacionadas con la seguridad para el Canal actual. Las actualizaciones no relacionadas con la seguridad se incluyen con las siguientes versiones:
+
+- Cuando se publique una nueva versión del Canal actual con nuevas características
+
+- Cuando se publican actualizaciones de seguridad el segundo martes del mes.
+
+Las actualizaciones no relacionadas con la seguridad se pueden publicar en otro momento. Por ejemplo, para corregir un problema con una característica nueva publicada recientemente. En general, el Canal actual puede tener dos o tres actualizaciones al mes que contienen actualizaciones únicamente no relacionadas con la seguridad.
+
+También le animamos a que use el Canal actual (Versión preliminar) para que pueda identificar cualquier posible problema que desee que solucionemos antes de que esa versión se publique en el Canal actual. Este enfoque puede ayudar a reducir el número de actualizaciones no relacionadas con la seguridad necesarias para el Canal actual.
+
+Las actualizaciones no relacionadas con la seguridad son acumulativas. La versión más reciente del Canal actual incluye las actualizaciones no relacionadas con la seguridad de versiones anteriores del Canal actual.
+
+No están disponibles descargas independientes solo de actualizaciones no relacionadas con la seguridad para el Canal actual. Además, no se proporcionan nuevas actualizaciones no relacionadas con la seguridad para las versiones de Canal actual que ya no son compatibles. Las actualizaciones se enumeran como "Problemas resueltos".
+
+Para obtener una lista de las actualizaciones no relacionadas con la seguridad incluidas en una versión determinada del Canal actual, consulte Notas de la versión para las versiones de Aplicaciones de Microsoft 365. Las actualizaciones se enumeran como "Problemas resueltos".
+
+### Duración de la asistencia para el canal actual
+
+Una versión determinada del Canal actual solo es compatible hasta que se publica la siguiente versión del Canal actual, que suele ser cada mes. Por ejemplo, la versión 2004 es compatible hasta que se publica la versión 2005. Para comprobar qué versión del Canal actual es compatible actualmente, consulte la tabla de la parte superior del Historial de actualizaciones de Aplicaciones de Microsoft 365.
+
+## Información general del Canal empresarial mensual
+
+Elija Canal mensual de empresa si desea proporcionar a los usuarios nuevas características de Aplicaciones Microsoft 365 cada mes, pero solo quiere recibir una actualización al mes según una programación de versión predecible.
+
+Las actualizaciones del Canal mensual para empresas se publican el segundo martes del mes. Esta actualización mensual puede incluir actualizaciones de funciones, de seguridad y no relacionadas con la seguridad.
+
+### Actualizaciones del Canal mensual para empresas
+
+Las características nuevas o actualizadas se publican en el Canal empresarial mensual el segundo martes del mes. Estas nuevas características son características que ya están disponibles para todos los usuarios en el Canal actual. No es posible descargar por separado las actualizaciones de funciones del Canal mensual para empresas.
+
+Las características que se encuentran actualmente en el canal actual deben cumplir determinados criterios de versión antes de incluirlas en una actualización de características para el canal mensual de empresa. Por este motivo, algunas características que se encuentran en el Canal actual no se incluyen inmediatamente en la siguiente actualización de características disponible para el Canal empresarial mensual.
+
+Para obtener una lista de las actualizaciones de características incluidas en una versión determinada del Canal mensual para empresas, consulte Notas de la versión de las versiones de Aplicaciones de Microsoft 365.
+
+#### Versión preliminar de las próximas novedades del Canal mensual para empresas
+
+No hay ningún canal de versión preliminar dedicado para el Canal mensual para empresas, como lo hay para el Canal actual y para el Canal semestral para empresas.
+
+Presente las últimas características del Canal mensual para empresas en su organización haciendo que un grupo selecto de usuarios descargue y utilice la nueva versión en cuanto esté disponible en la CDN de Office. Después de esta versión inicial, implemente gradualmente la nueva versión en toda la organización. Durante el intervalo de varios días, Aplicaciones Microsoft 365 reconoce y accede automáticamente a la versión más reciente desde la red CDN de Office.
+
+Si tiene previsto utilizar el Canal actual para versiones preliminares, sus nuevas características podrían diferir de las características de la próxima actualización del Canal mensual para empresas. Las características del Canal actual no siempre son las mismas características en la próxima actualización del Canal mensual para empresas. La diferencia se debe a que el Canal actual puede tener nuevas características. Estas características están disponibles primero para unos pocos usuarios y se implementan gradualmente. El Canal mensual para empresas solo contiene características que se implementan en el Canal actual. Por lo tanto, es posible que una nueva característica disponible en el Canal actual no esté disponible en el Canal mensual para empresas durante varios meses, ya que la característica aún se está implementando en el Canal actual.
+
+### Actualizaciones de seguridad para el Canal empresarial mensual
+
+Si es necesario, las actualizaciones de seguridad para el Canal empresarial mensual se publican el segundo martes del mes.
+
+Las actualizaciones de seguridad son acumulativas. La versión más reciente del Canal empresarial mensual incluye las actualizaciones de seguridad de versiones anteriores del Canal empresarial mensual.
+
+No están disponibles descargas independientes solo de actualizaciones de seguridad para el Canal empresarial mensual. Además, no se proporcionan nuevas actualizaciones de seguridad para las versiones del Canal empresarial mensual que ya no son compatibles.
+
+Para obtener una lista de las actualizaciones de seguridad incluidas en una versión determinada del Canal mensual para empresas, consulte Notas de la versión de las actualizaciones de seguridad de Microsoft Office.
+
+### Actualizaciones no relacionadas con la seguridad para el Canal empresarial mensual
+
+En caso necesario, las actualizaciones no relacionadas con la seguridad para el Canal mensual para empresas se proporcionan el segundo martes de cada mes. Las actualizaciones que no son de seguridad ofrecen correcciones para problemas conocidos y proporcionan mejoras de estabilidad o rendimiento para Aplicaciones Microsoft 365.
+
+Cuando un problema crítico, como uno relacionado con la pérdida de datos, requiere una solución inmediata, proporcionamos una versión actualizada con la corrección antes de la siguiente actualización mensual programada.
+
+Las actualizaciones no relacionadas con la seguridad son acumulativas. La versión más reciente del Canal empresarial mensual incluye las actualizaciones no relacionadas con la seguridad de versiones anteriores del Canal empresarial mensual.
+
+No están disponibles descargas independientes solo de actualizaciones no relacionadas con la seguridad para el Canal empresarial mensual. Además, no se proporcionan nuevas actualizaciones no relacionadas con la seguridad para las versiones del Canal empresarial mensual que ya no son compatibles.
+
+Para obtener una lista de las actualizaciones no relacionadas con la seguridad incluidas en una versión determinada del Canal mensual para empresas, consulte Notas de la versión para las versiones de aplicaciones de Microsoft 365. Las actualizaciones se enumeran como "Problemas resueltos".
+
+### Actualizaciones de Copilot para el Canal mensual para empresas
+
+Para garantizar una experiencia fluida con las capacidades de IA en rápida evolución de Copilot, las actualizaciones podrían presentarse en el Canal mensual para empresas antes del plazo habitual. Este enfoque proactivo consiste en mejorar la calidad de las características de Copilot en Microsoft 365. Para obtener una calidad coherente, estas actualizaciones solo se implementan después de un lanzamiento completo en el Canal actual.
+Las actualizaciones implementadas en el Canal empresarial mensual de esta manera se documentan como cualquier otra actualización en las notas de la versión.
+
+### Duración del soporte para el Canal mensual para empresas
+
+Cualquier versión determinada de Monthly Enterprise Channel se admite durante tres meses. Por ejemplo, la versión de Monthly Enterprise Channel que se publica el segundo martes de agosto se admite hasta el segundo martes de noviembre.
+
+El canal mensual enterprise admite hasta tres meses de reversión. Esta ventana de reversión extendida proporciona una mayor flexibilidad para revertir a una compilación conocida con las correcciones de seguridad más recientes en caso de problemas.
+
+En un momento dado, siempre hay tres versiones de Monthly Enterprise Channel que se admiten. Para comprobar qué versiones del Canal actual son compatibles actualmente, consulte la tabla de la parte superior del Historial de actualizaciones de Aplicaciones de Microsoft 365.
+
+## Información general del Canal empresarial semestral
+
+Elija Semi-Annual Canal empresarial solo para dispositivos no interactivos y para aquellos que ejecutan cargas de trabajo especializadas o críticas para la empresa que requieren pruebas exhaustivas antes de implementar nuevas características de Aplicaciones Microsoft 365. Este canal es adecuado para dispositivos seleccionados que realizan tareas automatizadas en las que los usuarios finales no están presentes, lo que garantiza el cumplimiento de los estándares normativos y organizativos.
+
+Las actualizaciones del Canal semestral para empresas se publican el segundo martes del mes. En enero y julio, la actualización mensual puede incluir actualizaciones de características, de seguridad y no relacionadas con la seguridad. En otros meses, la actualización puede incluir actualizaciones de seguridad y no relacionadas a la seguridad.
+
+Importante
+
+A partir de julio de 2026, Semi-Annual Enterprise Channel comenzará a recibir actualizaciones mensuales de características y seguridad. La reversión a versiones anteriores de características con actualizaciones de seguridad estará disponible durante 2 meses.
+
+### Actualizaciones de características para el Canal semestral para empresas
+
+Las características nuevas o actualizadas se publican en el Canal empresarial semestral dos veces al año, el segundo martes de enero y de julio. Las nuevas características no se agregan a Semi-Annual Canal enterprise en ningún otro momento. Las descargas independientes de solo actualizaciones de características para Semi-Annual Enterprise Channel no están disponibles.
+
+Estas nuevas características están disponibles para todos los usuarios en el Canal mensual para empresas. Las características de Monthly Enterprise Channel deben cumplir criterios de versión específicos antes de que se incluyan en una actualización de características para Semi-Annual Canal enterprise. Debido a estos criterios, algunas características que se encuentran en el Canal mensual de empresa no se incluyen de inmediato en la siguiente actualización de características disponible para Semi-Annual Canal enterprise.
+
+Para obtener una lista de las actualizaciones de características incluidas en una versión determinada del Canal semestral para empresas, consulte Notas de la versión de las versiones de aplicaciones de Microsoft 365.
+
+### Actualizaciones de seguridad para el Canal semestral para empresas
+
+Si es necesario, las actualizaciones de seguridad para el Canal empresarial semestral se publican el segundo martes del mes.
+
+Las actualizaciones de seguridad son acumulativas. La versión más reciente del Canal empresarial semestral incluye las actualizaciones de seguridad de versiones anteriores del Canal empresarial semestral.
+
+No están disponibles descargas independientes solo de actualizaciones de seguridad para el Canal empresarial semestral. Además, no se proporcionan nuevas actualizaciones de seguridad para las versiones del Canal empresarial semestral que ya no son compatibles.
+
+Para obtener una lista de las actualizaciones de seguridad incluidas en una versión determinada del Canal semestral para empresas, consulte Notas de la versión de las actualizaciones de seguridad de Microsoft Office .
+
+### Actualizaciones no relacionadas con la seguridad para el Canal empresarial semestral
+
+En caso necesario, las actualizaciones no relacionadas con la seguridad del Canal semestral para empresas se facilitan el segundo martes de cada mes. Las actualizaciones que no son de seguridad ofrecen correcciones para problemas conocidos y proporcionan mejoras de estabilidad o rendimiento para Aplicaciones Microsoft 365.
+
+Cuando un problema crítico, como uno relacionado con la pérdida de datos, requiere una solución inmediata, proporcionamos una versión actualizada con la corrección antes de la siguiente actualización mensual programada.
+
+El canal semestral para empresas suele tener menos actualizaciones no relacionadas con la seguridad que el resto de los canales de actualización. La mayoría de los problemas del Canal semestral para empresas se identifican y resuelven antes en otros canales de actualización, como el canal actual y el canal mensual para empresas, gracias a los comentarios de los clientes. Además, muchos clientes nos piden un canal de actualización que no cambie a menudo, porque los cambios podrían obligarles a realizar otra ronda de pruebas de conformidad. Por eso, antes de aprobar la publicación de cualquier actualización no relacionada con la seguridad en el canal semestral para empresas, evaluamos detenidamente el efecto de introducir el cambio en el canal de actualización. Es probable que se aprueben los problemas críticos que provoquen la pérdida de datos o afecten significativamente a un gran número de clientes que utilicen el canal semestral para empresas. Se recomienda usar el canal semestral para empresas (versión preliminar). Este enfoque le permite identificar y notificar posibles problemas. A continuación, podemos abordar estos problemas en los cuatro meses anteriores a la publicación de la versión en Semi-Annual Enterprise Channel.
+
+Las actualizaciones no relacionadas con la seguridad son acumulativas. La versión más reciente del Canal empresarial semestral incluye las actualizaciones no relacionadas con la seguridad de versiones anteriores del Canal empresarial semestral.
+
+No están disponibles descargas independientes solo de actualizaciones no relacionadas con la seguridad para el Canal empresarial semestral. Además, no se proporcionan nuevas actualizaciones no relacionadas con la seguridad para las versiones del Canal empresarial semestral que ya no son compatibles.
+
+Para obtener una lista de las actualizaciones no relacionadas con la seguridad incluidas en una versión determinada del canal semestral para empresas, consulte Notas de la versión de las versiones de aplicaciones de Microsoft 365. Las actualizaciones se enumeran como "Problemas resueltos".
+
+### Duración de la ayuda para el canal semestral para empresas
+
+Cualquier versión determinada de Semi-Annual Enterprise Channel se admite durante 8 meses. Semi-Annual versiones de Enterprise Channel seguirán a la venta en enero y julio con la bifurcación disponible más reciente. Ya no hay un compromiso con una bifurcación específica con antelación.
+
+Importante
+
+A partir de julio de 2026, las versiones de características de Semi-Annual Enterprise Channel se admitirán durante un mes. Habrá disponible un período de reversión de 2 meses, lo que permite a los dispositivos revertir a la versión de características anterior con actualizaciones de seguridad, lo que da lugar a una ventana de soporte técnico efectiva de 3 meses.
+
+Para ver qué versiones del canal semestral para empresas son compatibles actualmente, consulte la tabla en la parte superior de Historial de actualizaciones de aplicaciones de Microsoft 365.
+
+## Obtenga información sobre cómo configurar y administrar los canales de actualización
+
+Los canales de actualización son específicos del dispositivo y solo se aplican a las instalaciones de Aplicaciones Microsoft 365 en dispositivos que ejecutan Windows. La elección de un canal de actualización para un dispositivo no es una configuración que sigue al usuario del dispositivo al dispositivo. Por ejemplo, si un usuario trabaja en diferentes dispositivos con Windows, dichos dispositivos podrían configurarse para utilizar diferentes canales de actualización. Esto significa que el usuario podría tener acceso a diferentes características en función del dispositivo que esté usando.
+
+Además, solo puede configurar un canal de actualización para un dispositivo. Por ejemplo, si va a instalar Aplicaciones Microsoft 365, Project y Visio en el mismo dispositivo, todos deben usar el mismo canal de actualización. No se puede usar una combinación de canales de actualización en el mismo dispositivo.
+
+No todos los dispositivos de la organización tienen que configurarse con el mismo canal de actualización. Por ejemplo, el personal de TI y los desarrolladores de aplicaciones podrían estar en el canal actual (versión preliminar) para que puedan probar las próximas características nuevas, mientras que el resto de la organización está en el Canal mensual de empresa. Cuando implemente varios canales de actualización en su organización, tenga en cuenta que los distintos grupos de usuarios podrían tener acceso a distintas características en función de su canal de actualización. Esta variación en las características puede hacer que la colaboración entre grupos sea más complicada.
+
+### Canal de actualización predeterminado
+
+Cada producto de suscripción se configura con un canal de actualización predeterminado. Si no especifica el canal de actualización al instalar el producto por sí mismo en un dispositivo, el producto está configurado para usar el canal de actualización predeterminado.
+
+El canal de actualización predeterminado para aplicaciones de Microsoft 365 para empresas y aplicaciones de Microsoft 365 para empresas es canal actual. Este canal también es el predeterminado para las versiones de suscripción de las aplicaciones de escritorio de Project y Visio.
+
+### Configurar el canal de actualización
+
+#### Herramienta de implementación de Office
+
+Puede usar la Herramienta de implementación de Office y especificar el atributo Canal en su archivo de configuración. Hay un atributo Canal disponible en el elemento Agregar y en el elemento Actualizaciones. Para obtener más información, consulte Opciones de configuración para la Herramienta de implementación de Office.
+
+#### Directiva de grupo
+
+Puede descargar los archivos de la plantilla administrativa (ADMX/ADML) y habilitar la configuración de directiva del canal de actualización. Cuando habilita la configuración de directiva, puede seleccionar el canal de actualización adecuado en una lista desplegable. Encontrará esta configuración de directiva en Configuración del equipo\Directivas\Plantillas administrativas\Microsoft Office 2016 (Equipo)\Actualizaciones.
+
+#### Centro de administración de Microsoft 365
+
+Si permite que los usuarios instalen Aplicaciones Microsoft 365 por sí mismos a través de Aplicaciones en Office.com, puede especificar qué canal de actualización instalan. Para ello, inicie sesión en el centro de administración de Microsoft 365 con su cuenta de administrador, vaya a Mostrar todo>Configuración>Configuración de la organización>Servicios>Opciones de instalación de Microsoft 365 y luego elija el canal de actualización adecuado para sus usuarios. Esta configuración se aplica a todos los usuarios del inquilino y solo se aplica a los usuarios que instalan Aplicaciones Microsoft 365 por sí mismos a través de Aplicaciones.
+
+### Administrar el canal de actualización
+
+Después de instalar Aplicaciones Microsoft 365, puede cambiar el canal de actualización de un dispositivo. Para obtener más información sobre cómo hacerlo, consulte Cambiar el canal de actualización de aplicaciones de Microsoft 365 en los dispositivos de la organización. Tenga en cuenta que si cambia el canal de actualización del dispositivo, cambiarán las características a las que el usuario tiene acceso. Por ejemplo, mover el dispositivo del canal actual a Semi-Annual Canal de empresa puede hacer que el usuario pierda el acceso a las características que usa, ya que esas características aún no están disponibles en Semi-Annual Canal enterprise.
+
+## Información adicional sobre canales de actualización para Aplicaciones de Microsoft 365
+
+### Otros productos
+
+- Estos canales de actualización también son aplicables a las versiones de suscripción de las aplicaciones de escritorio de Project y Visio. Por ejemplo, si tiene Planner y Project Plan 3 o Visio Plan 2.
+
+- OneDrive y Microsoft Teams tienen sus propias cadencias de actualización, que son independientes de estos canales de actualización. Para obtener más información, consulta El proceso de la aplicación de sincronización de OneDrive`update` y el proceso de actualización de Teams.
+
+- Si va a implementar versiones con licencia por volumen de Office, como Office Long Term Service Channel (LTSC) Professional Plus 2021 o Office LTSC Standard 2021, debe usar un canal de actualización diferente: PerpetualVL2021. Para más información, consulte Canal de actualización para Office LTSC 2021.
+
+- Si va a implementar Office Professional Plus 2019 u Office Standard 2019, que son versiones de licencia por volumen de Office, hay un canal de actualización diferente que debe usar. Para obtener más información, consulte Canal de actualización de Office 2019.
+
+- Si tiene una suscripción principal, como Microsoft 365 Familia o Microsoft 365 Personal, tiene acceso a canales de actualización específicos. Estos canales de actualización incluyen el Canal actual y los canales proporcionados a través del Programa Insider de Microsoft 365.
+
+### Administrar actualizaciones
+
+Para simplificar la administración de actualizaciones, especialmente para el canal actual y el canal mensual de empresa, configure los dispositivos para que reciban actualizaciones directamente desde Office Content Delivery Network (CDN) en Internet.
+
+- Si está configurando dispositivos con Windows 11 o Windows 10 para obtener actualizaciones directamente de la CDN de Office, aproveche la Optimización de la entrega para ayudar a reducir la utilización del ancho de banda de la red.
+Cuando una nueva versión está disponible en la red CDN de Office, la disponibilidad se anuncia gradualmente durante varios días a los dispositivos de todo el mundo que Aplicaciones Microsoft 365 han instalado. Este enfoque escalonado impide que todos los dispositivos de su organización intenten acceder a la red CDN de Office simultáneamente para descargar la nueva versión, lo que podría provocar problemas de uso del ancho de banda de red.
+
+- Para ver ejemplos de tamaños aproximados de actualizaciones al actualizar desde una versión reciente a la última versión de un canal de actualización, consulte Tamaños de descarga de las actualizaciones de aplicaciones de Microsoft 365.
+
+- Si usa Microsoft Configuration Manager, puede administrar las actualizaciones de estos canales de actualización mediante el flujo de trabajo de administración de actualizaciones de software. Para obtener más información, consulte Administrar las actualizaciones de aplicaciones de Microsoft 365 con Microsoft Configuration Manager.
+
+### Información de la versión y de la compilación
+
+- Para ver el canal de actualización para el que está configurado Aplicaciones Microsoft 365, abra una aplicación, como Word, y vaya a Cuenta de archivo>. El nombre del canal de actualización aparece en la sección Información del producto en el encabezado Acerca de. El número de versión y de compilación del canal de actualización también se muestra en dicha sección.
+
+- Cuando la versión de un canal de actualización contiene actualizaciones de características, el número de versión se actualiza. Por ejemplo, de la versión 2004 a la versión 2005. Si una versión contiene solo nuevas actualizaciones de seguridad o nuevas actualizaciones no relacionadas con la seguridad, solo se actualiza el número de compilación y el número de versión sigue siendo el mismo.
+
+### Duración del soporte técnico para otros canales de actualización
+
+- Cada versión de canal actual (versión preliminar) sigue siendo compatible solo hasta el lanzamiento de la siguiente versión, lo que suele ocurrir cada mes. Por ejemplo, la versión 2004 es compatible hasta que se publica la versión 2005.
+
+### Programa Insider de Microsoft 365
+
+- El programa Insider de Microsoft 365 le ofrece acceso anticipado a las características de las aplicaciones de Microsoft 365 a través de estos canales de actualización: canal beta y canal actual (versión preliminar). Para obtener más información, consulte el Programa Insider de Microsoft 365 para empresas.
+
+- Canal beta, que anteriormente se denominaba Insider (y a veces se denominaba Modo anticipado de Insider), proporciona acceso a nuevas características incluso antes de que estén disponibles en el canal actual (versión preliminar). Sin embargo, el canal beta no es compatible, por lo que solo se debe usar en entornos de prueba y un pequeño grupo de usuarios seleccionados, como personal de TI o desarrolladores de aplicaciones.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-05-27

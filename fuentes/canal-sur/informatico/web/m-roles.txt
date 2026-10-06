@@ -1,0 +1,285 @@
+URL: https://support.microsoft.com/es-es/office/roles-en-las-reuniones-de-microsoft-teams-c16fa7d0-1666-4dde-8686-0a0bfe16e019
+Leído: 2026-10-05
+
+# Roles en reuniones de Microsoft Teams
+
+ Se aplica a
+Teams Microsoft Teams 
+
+Obtener ayuda con Copilot
+
+ ¿Puedo gestionar roles de reuniones en Teams?
+
+ ¿Cómo levanto la mano en una reunión de Teams?
+
+ Obtén un desglose rápido de roles en reuniones de Teams.
+
+Asigne diferentes roles de reunión en una reunión de Teams para conceder permisos específicos a las personas. 
+
+Hay tres roles entre los que elegir: coorganizador, moderador y asistente. Los corganizadores y moderadores comparten la mayor parte de permisos del organizador, mientras que los asistentes están más controlados.
+
+A continuación se muestran las capacidades de cada rol:
+
+ | Capacidad
+
+ | Organizador
+
+ | Coorganizador
+
+ | Moderador
+
+ | Asistente
+
+ | Hablar y compartir vídeo
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Participar en chat de la reunión
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Compartir contenido
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Ver de forma privada un archivo de PowerPoint compartido por otra persona
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Tomar el control de una presentación de PowerPoint de otra persona
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Silenciar a otros participantes
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Impedir que los asistentes reactiven el audio por sí mismos
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Quitar participantes
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Cambiar los roles de otros participantes
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Iniciar o detener la grabación
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Iniciar o detener la transcripción en directo
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Gestionar salas para sesión de subgrupo
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Cambiar las opciones de reunión
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Agregar o quitar una aplicación
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Usar una aplicación*
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Cambiar la configuración de la aplicación
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+Limitaciones para moderadores anónimos
+
+A los participantes anónimos que se promueven al rol de moderador durante una reunión o seminario web se les impide realizar acciones de nivel de moderador, entre las que se incluyen:
+
+- Silenciar participantes
+
+- Eliminar participantes
+
+- Bajar las manos levantadas
+
+*Estas limitaciones para los moderadores anónimos no se admiten en dispositivos móviles. 
+
+## Limitaciones para moderadores anónimos
+
+A los participantes anónimos que se promueven al rol de moderador durante una reunión o seminario web se les impide realizar acciones de nivel de moderador, entre las que se incluyen:
+
+- Silenciar participantes
+
+- Eliminar participantes
+
+- Bajar las manos levantadas
+
+Nota
+
+Estas limitaciones no se aplican a los moderadores anónimos que se unen desde dispositivos móviles.
+
+## Cambiar roles de reunión
+
+### Antes de una reunión
+
+Deberá enviar la invitación a la reunión antes de poder asignar roles.
+
+Para asignar roles:
+
+- Seleccione el en Teams.
+
+- Seleccione un evento y seleccione Ver evento.
+
+- Selecciona el de opciones .
+
+- En el botón > RolesElija coorganizadores, busque y elija a las personas que desea convertir en coorganizadores.
+
+- En el menú desplegable Quién puede presentar , designe quién puede presentar durante la reunión.
+
+- Selecciona Guardar.
+
+ | ¿Quién puede presentar?
+
+ | Qué sucede
+
+ | Todos
+
+ | Cualquier persona que tenga acceso al vínculo de la reunión se unirá a la reunión como moderador.
+
+ | People en mi organización e invitados
+
+ | Solo los usuarios de su organización y los usuarios con acceso de invitado serán moderadores.
+
+ | Personas específicas
+
+ | Solo los usuarios que elija de la lista de invitados serán moderadores. Todos los demás se unirán como asistentes.
+
+ | Solo organizadores y coorganizadores
+
+ | Solo los organizadores y coorganizadores pueden presentar. El resto de los participantes se unen como asistentes.
+
+Puntos a tener en cuenta:
+
+- Envíe una invitación a una reunión directamente a cualquier persona que quiera convertir en moderador.
+
+- Los coorganizadores no pueden cambiar una reunión antes de que esta comience.
+
+- El rol de organizador de la reunión no se puede cambiar.
+
+Nota
+
+La posibilidad de seleccionar moderadores específicos no está disponible para las reuniones de canales. 
+
+### Durante una reunión
+
+Hay dos formas de cambiar la función de una persona durante una reunión:
+
+- Seleccione el en los controles de la reunión. Mantenga el puntero sobre un nombre y seleccione Más opciones . Seleccione Convertir en moderador o Convertir en asistente.
+
+- Vaya a su calendario de Teams. Haga doble clic en la reunión y seleccione el > Configuración de opcionesBotones Roles . Agregue un coorganizador desde el menú desplegable Elegir coorganizadores . Esa persona recibirá una notificación de que puede presentar contenido y ayudar a facilitar la reunión.
+
+Nota
+
+- En las reuniones periódicas, una reasignación de roles realizada desde el de opciones en el calendario de Teams se aplicará a todas las repeticiones futuras.
+
+- En las reuniones periódicas, una reasignación de roles realizada desde el botón People en los controles de la reunión solo afectará a esa reunión específica.
+
+- Si alguien abandona la reunión y se une más tarde, se unirá con el último rol que se le asignó.

@@ -1,0 +1,159 @@
+URL: https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/manage/group-policy/group-policy-processing
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Procesamiento de directivas de grupo
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+De forma predeterminada, la directiva de grupo es heredada y acumulativa, y afecta a todos los equipos y usuarios de un contenedor de Active Directory (AD) y sus subcontenedores. La configuración de directiva relacionada con el equipo invalida la configuración de directiva relacionada con el usuario.
+
+Los objetos de directiva de grupo (GPO) se procesan en el orden siguiente:
+
+- Se aplica el GPO local.
+
+- Se aplican GPO vinculados a sitios.
+
+- Se aplican GPO vinculados a dominios.
+
+- Se aplican los GPO vinculados a unidades organizativas (UO). En una estructura de UO anidada, los GPO vinculados a las UO principales se aplican primero, seguidos de los GPo vinculados a las UO secundarias.
+
+Tip
+
+La secuencia de procesamiento de GPO es fundamental porque cada aplicación de directiva posterior puede invalidar la configuración aplicada por directivas anteriores.
+
+El método de herencia predeterminado es evaluar la Política de Grupo comenzando con el contenedor de Active Directory de nivel superior. El contenedor de AD más cercano al equipo o el usuario invalida la directiva de grupo establecida en un contenedor de AD de nivel superior. La herencia se ignora cuando se establece la opción aplicada para ese vínculo de GPO o cuando se aplica la configuración de bloqueo de herencia. La directiva de grupo local se procesa antes de las directivas basadas en dominio. La configuración de directiva de los GPO vinculados a contenedores de AD invalida la configuración de directiva local.
+
+Puede vincular más de un GPO a un contenedor de AD. El vínculo de GPO que tiene el orden de vínculo más bajo en la lista de vínculos de objetos de directiva de grupo tiene prioridad de forma predeterminada.
+
+## Cómo funciona el procesamiento de las políticas de grupo
+
+La directiva de grupo para la configuración del equipo se aplica cuando se inicia el equipo. La directiva de grupo se aplica al iniciar sesión para los usuarios. Este procesamiento inicial de la directiva también se puede denominar aplicación de directiva en primer plano.
+
+El procesamiento en primer plano de la política de grupo puede ser síncrono o asíncrono. En modo sincrónico, el equipo no completa el inicio del sistema hasta que la directiva de equipo se aplica correctamente. El proceso de inicio de sesión de usuario no se completa hasta que la directiva de usuario se aplique correctamente. En modo asincrónico, si no hay ningún cambio de directiva que requiera procesamiento sincrónico, el equipo puede completar la secuencia de inicio antes de que se complete la aplicación de la directiva de equipo. El escritorio también puede estar disponible para el usuario antes de que se complete la aplicación de la directiva de usuario cuando esté en modo asincrónico. Después, el sistema aplica periódicamente la directiva de grupo (actualizaciones) en segundo plano. Durante una actualización, la configuración de directiva se aplica de forma asincrónica.
+
+Todo el procesamiento de directivas debe completarse en un plazo de 60 minutos. No hay ningún método para modificar este período de tiempo de espera.
+
+Después del procesamiento inicial de Directiva de Grupo (también conocida como aplicación de directiva en primer plano), el sistema aplica periódicamente (actualiza) la Directiva de Grupo en segundo plano. Durante una actualización, la configuración de directiva se aplica de forma asincrónica.
+
+De forma predeterminada, se produce una actualización cada 90 minutos. El sistema puede agregar un tiempo aleatorio de hasta 30 minutos al intervalo de actualización. Puede cambiar estos valores predeterminados mediante una configuración de directiva de grupo en la extensión Plantillas administrativas a directiva de grupo. Establecer el valor en cero minutos hace que la frecuencia de actualización se establezca en siete segundos. No todas las extensiones de directiva de grupo se procesan durante una actualización en segundo plano. Por ejemplo, el procesamiento de redirección de carpetas solo se produce cuando un usuario inicia sesión. Además, el procesamiento de la directiva de instalación de software solo se produce cuando se inicia un equipo y cuando un usuario inicia sesión.
+
+Aunque el sistema procesa las extensiones de script para la directiva de grupo durante una actualización en segundo plano, los scripts individuales solo se ejecutan cuando el equipo se inicia y cierra, y cuando un usuario inicia y cierra sesión.
+
+Durante una actualización de directiva, de forma predeterminada, una extensión del lado cliente vuelve a aplicar la configuración de directiva solo si detecta un cambio en uno de sus GPO o en su lista de GPO. Este comportamiento es por motivos de rendimiento.
+
+## GPO aplicados
+
+Determine si hay alguna configuración de directiva que siempre se debe aplicar para determinados grupos de usuarios o equipos. Cree GPOs que contengan esta configuración de directiva, vincúlelos a los sitios, dominios o unidades organizativas adecuadas, y designe estos vínculos como forzados. Al establecer esta opción, se aplica la configuración de directiva de un GPO de nivel superior al impedir que los GPO se invaliden en contenedores de AD de nivel inferior. Por ejemplo, si define un GPO específico en el nivel de dominio y establece la opción aplicada, las directivas que el GPO contiene se aplican a todas las unidades organizativas de ese dominio. Los GPO vinculados a las UNIDADES organizativas de nivel inferior no pueden invalidar esa directiva de grupo de dominio aplicada. Si hay varios GPO vinculados en el mismo sitio, dominio o unidad organizativa y tienen establecida la opción de forzar, el vínculo de GPO más alto establecido como forzado tiene prioridad.
+
+## Bloqueo de herencia
+
+En la Consola de administración de directivas de grupo (GPMC), la herencia de directivas de bloque o la herencia de bloques, hace referencia a una característica que influye en el orden de procesamiento de la directiva de grupo. Cada dominio y unidad organizativa de AD tienen un atributo GPOptions , que se puede configurar para bloquear la herencia. Esto impide que la configuración de directiva aplicada a nivel local, de sitio, de dominio y de OU superior afecte a los equipos o usuarios dentro de la OU. Sin embargo, si bien la herencia bloqueada impide que la mayoría de las configuraciones se apliquen a una UO, no afecta a las configuraciones aplicadas a través de GPO con la opción 'forzar'. La propiedad Enforced es una propiedad de enlace y tiene prioridad sobre la herencia de directiva de bloqueo, una propiedad de contenedor.
+
+La configuración de directiva vinculada a un dominio normalmente se aplica a todos los equipos y usuarios del dominio, independientemente de su unidad organizativa primaria. Con GPMC, puede bloquear la herencia en un dominio o unidad organizativa para impedir que se aplique la configuración normal de directiva de grupo. Bloquear la herencia en el nivel de dominio impide que la configuración de los GPO vinculados a un sitio de AD se aplique al dominio, mientras que el bloqueo en el nivel de unidad organizativa impide que la configuración de los GPO vinculados a sitios y dominios afecte a esas UNIDADES organizativas.
+
+Además de bloquear la herencia:
+
+- Un GPO en sí mismo se puede deshabilitar completamente
+
+- Un GPO puede tener deshabilitada la configuración del equipo
+
+- Un GPO puede tener deshabilitada su configuración de usuario
+
+- Un GPO puede tener deshabilitada toda su configuración
+
+## Extensiones del lado cliente de preferencias de directiva de grupo
+
+Las extensiones del lado cliente de preferencias de directiva de grupo tienen sus propios métodos de procesamiento únicos. Dentro de un único GPO, puede configurar uno o varios elementos de preferencia para que los procese una extensión específica de preferencias de directiva de grupo. Por ejemplo, un único GPO puede contener varios elementos de Preferencias de asignación de unidades.
+
+Durante el procesamiento de políticas de grupo, la infraestructura recorre una serie de extensiones. Para cada extensión, proporciona información esencial, incluida una lista de objetos de directiva de grupo con cambios y los objetos de directiva de grupo que ya no son aplicables al usuario o al equipo. La infraestructura también comparte detalles específicos del contexto, como si la conexión de red se considera lenta. La extensión de preferencias de directiva de grupo utiliza información sobre los GPO modificados y fuera del alcance para procesar su configuración.
+
+Las extensiones del lado cliente procesan los elementos de preferencia secuencialmente, de la parte superior a la parte inferior de la lista. El resultado del procesamiento de cada elemento de preferencia depende de su acción configurada, y la segmentación a nivel de elemento podría evitar que se aplique un elemento. La extensión procesa cada elemento hasta que completa la lista o se detiene debido a opciones de configuración como Detener el procesamiento de elementos de esta extensión si se produce un error en este elemento o Aplicar una vez y no se vuelve a aplicar. Una vez procesados todos los elementos de preferencia, el control vuelve al servicio de directiva de grupo.
+
+## Filtrado de directivas de grupo
+
+Puede filtrar si un GPO se aplica mediante el filtrado de seguridad o los filtros de Instrumental de administración de Windows (WMI).
+
+El filtrado de seguridad permite refinar qué usuarios y equipos reciben y aplican la configuración de directiva en un GPO. El filtrado de grupos de seguridad determina si el GPO se aplica a grupos, usuarios o equipos. El filtrado de grupos de seguridad no se puede usar de forma selectiva en diferentes configuraciones de directiva dentro de un GPO.
+
+WMI permite usar una consulta WMI para filtrar la aplicación de la directiva de grupo. Al usar el filtrado de WMI, el GPO se aplica a las entidades de seguridad que cumplen las condiciones de la consulta de WMI. Cada GPO se puede vincular a un filtro WMI; sin embargo, el mismo filtro WMI se puede vincular a varios GPO. Para poder vincular un filtro WMI a un GPO, debe crear el filtro. El filtro de WMI se evalúa en el equipo de destino durante el procesamiento de la directiva de grupo. El GPO solo se aplica si el filtro WMI resulta verdadero.
+
+## Modo de procesamiento de bucle invertido
+
+El modo de procesamiento de bucle invertido aplica las opciones de configuración de usuario de objetos de directiva de grupo asignados al equipo, independientemente de quién inicie sesión. El procesamiento de bucle invertido combinará o reemplazará la configuración de usuario de los GPO asignados al usuario. Esta configuración de directiva es adecuada en ciertos entornos estrechamente administrados con equipos de uso especial, como aulas, quioscos públicos y áreas de recepción.
+
+Por ejemplo, puede habilitar esta configuración de directiva en un servidor específico para ajustar la configuración de usuario en función del equipo que se está utilizando. Al habilitar la configuración de directiva del modo de procesamiento de bucle invertido, el sistema aplica la configuración de directiva de usuario en función de la configuración del equipo, independientemente de quién inicie sesión. Esto garantiza una configuración de directiva de usuario coherente para todos los usuarios del equipo, tal y como se define en los GPO del equipo.
+
+Al habilitar la configuración de la directiva de procesamiento de bucle invertido en un GPO, puede configurar las opciones de directiva de usuario en función del equipo en el que inicie sesión. Sin procesamiento de bucle invertido, los GPO que aplican un objeto de equipo solo procesarán las opciones de configuración del equipo. Los GPO aplicados a los usuarios solo procesarán las opciones de configuración del usuario. Al habilitar la configuración de directiva del modo de procesamiento de bucle invertido, debe asegurarse de que las opciones Configuración del equipo y Configuración de usuario del GPO están habilitadas. Esa configuración de directiva se aplica independientemente de qué usuario inicie sesión.
+
+Puede configurar la configuración de directiva de bucle invertido. Para ello, use la GPMC para editar el GPO y habilitar la configuración de directiva Configurar el modo de procesamiento de bucle invertido de la directiva de grupo de usuario disponible en Computer Configuration\Policies\Administrative Templates\System\Group Policy. Hay dos opciones disponibles:
+
+- 
+Modo de combinación: en este modo, la lista de GPO del usuario se recopila durante el proceso de inicio de sesión. A continuación, se recopila la lista de GPO del equipo. A continuación, se agrega la lista de GPO para el equipo al final de los GPO para el usuario. Como resultado, los GPO del equipo tienen mayor prioridad que los GPO del usuario. Si la configuración de directiva entra en conflicto, la configuración de directiva de usuario en los GPO del equipo se aplica en lugar de la configuración de directiva normal del usuario.
+
+- 
+Modo de reemplazo: en este modo, no se recopila la lista de GPO para el usuario. En su lugar, solo se usa la lista de GPO basados en el objeto del equipo. La configuración de usuario de esta lista se aplica al usuario.
+
+## Actualización de directiva de grupo
+
+Los mecanismos principales para actualizar la directiva de grupo están en el inicio y el inicio de sesión. La directiva de grupo también se actualiza a intervalos regulares periódicamente. El intervalo de actualización de directiva afecta a la rapidez con la que se aplican los cambios en los GPO. De forma predeterminada, los clientes y los servidores comprueban si hay cambios en los GPO cada 90 minutos mediante un desplazamiento aleatorio de hasta 30 minutos. Es posible que los cambios en la configuración de directiva de grupo no estén disponibles inmediatamente en los escritorios de los usuarios, ya que los cambios en el GPO deben replicarse primero en el controlador de dominio adecuado.
+
+Los controladores de dominio comprueban los cambios en las directivas de equipo cada cinco minutos. Esta frecuencia de sondeo se puede cambiar mediante una de estas opciones de configuración de directiva, intervalo de actualización de directiva de grupo para equipos, intervalo de actualización de directiva de grupo para controladores de dominio o intervalo de actualización de directiva de grupo para usuarios. No se recomienda acortar la frecuencia entre las actualizaciones debido al posible aumento del tráfico de red y más carga colocada en los controladores de dominio.
+
+Los componentes de un GPO se almacenan en AD y en la carpeta SYSVOL de los controladores de dominio. La replicación de un GPO en otros controladores de dominio se produce mediante dos mecanismos independientes:
+
+- 
+El sistema de replicación integrado controla la replicación de Active Directory (AD). De forma predeterminada, la replicación suele tardar menos de un minuto entre los controladores de dominio dentro del mismo sitio. Este proceso puede ser más lento si la red es más lenta que una LAN.
+
+- 
+La replicación del sistema de archivos distribuido (DFSR) controla la replicación de la carpeta SYSVOL. En los sitios, la replicación se produce cada 15 minutos. Si los controladores de dominio están en sitios diferentes, el proceso de replicación se produce a intervalos establecidos en función de la topología del sitio y la programación, el intervalo más bajo es de 15 minutos.
+
+## Activación de la actualización de directiva de grupo
+
+Si es necesario, puede desencadenar una actualización de directiva de grupo manualmente de las siguientes maneras:
+
+- 
+En un equipo local, escriba `gpupdate.exe` desde la línea de comandos. La ejecución `gpupdate.exe` desencadena una actualización de directiva para el equipo en el que se ejecuta el comando.
+
+- 
+Use el cmdlet de PowerShell `Invoke-GPUpdate`. Puede usar este cmdlet para desencadenar una actualización del equipo local o para desencadenar una actualización de un equipo remoto.
+
+- 
+Use la GPMC para desencadenar una actualización de directiva de grupo en el nivel de unidad organizativa; para ello, haga clic con el botón derecho en la unidad organizativa y seleccione Actualización de directiva de grupo.
+
+## Optimizar el procesamiento de GPO
+
+Para reducir la cantidad de tiempo necesario para procesar un GPO, considere la posibilidad de usar lo siguiente.
+
+- 
+Cuando un GPO contiene solo la configuración del equipo o las opciones de configuración de usuario, deshabilite la parte de la configuración de directiva que no se aplica. Con esta optimización, el equipo de destino no examina las partes de un GPO que se deshabilita, lo que reduce el tiempo de procesamiento.
+
+- 
+Combine GPO más pequeños para formar un GPO consolidado. Esta optimización reduce el número de GPO que se aplican a un usuario o equipo. Aplicar menos GPO a un usuario o equipo puede reducir los tiempos de arranque o inicio de sesión y facilitar la solución de problemas de la estructura de políticas.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-06-18

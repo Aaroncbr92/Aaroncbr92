@@ -1,0 +1,148 @@
+VESA Releases DisplayPort 2.1 Specification - VESA - Interface Standards for The Display Industry
+
+ Member Login
+ Join VESA
+
+About VESA
+
+Mission/Vision
+
+Board of Directors
+
+Emeritus Members
+
+Member Companies
+
+Contact VESA
+
+VESA Membership
+
+Membership Benefits
+
+Member Signup
+
+News & Events
+
+Press Releases
+
+Media Coverage
+
+Events
+
+Social Media
+
+General VESA FAQs
+
+VESA Non-Member Newsletter
+
+Standards & Specs
+
+DisplayPort
+
+Display Compression Codecs
+
+DisplayHDR
+
+AdaptiveSync and MediaSync
+
+ClearMR
+
+Mounting Standard
+
+Free Standards
+
+Compliance & Certification
+
+Authorized Test Tools
+
+VESA Compliance Programs
+
+DisplayPort Logo Usage
+
+Certified Components
+
+Developer Resources
+
+Learning Center
+
+DisplayPort Developer
+
+DSC Standard Downloads
+
+ Search for:
+
+ Search
+
+ VESA Membership 
+
+VESA Releases DisplayPort 2.1 Specification
+
+|Traditional Chinese| |Simplified Chinese| |Japanese| |Korean| |German|
+
+Latest DisplayPort specification provides greater alignment with USB Type-C and USB4; adds new features for more efficient DisplayPort tunneling over USB4
+DisplayPort logo.
+
+BEAVERTON, Ore. – October 17, 2022 – The Video Electronics Standards Association (VESA®) announced today that it has released DisplayPort 2.1, the latest version of the DisplayPort specification, which is backward compatible with and supersedes the previous version of DisplayPort (DisplayPort 2.0). VESA has been working closely with member companies to ensure that products supporting DisplayPort 2.0 would actually meet the newer, more demanding DisplayPort 2.1 spec. Due to this effort, all previously certified DisplayPort 2.0 products including UHBR (Ultra-high Bit Rate) capable products – whether GPUs, docking station chips, monitor scalar chips, PHY repeater chips such as re-timers, or DP40/DP80 cables (including both passive and active, and using full-size DisplayPort, Mini DisplayPort or USB Type-C connectors) – have already been certified to the stricter DisplayPort 2.1 spec.
+
+Achieving a robust, end-to-end user visual experience remains the utmost priority for VESA’s DisplayPort specification, whether across a native DisplayPort cable, via DisplayPort Alt Mode (DisplayPort over the USB Type-C connector), or tunneled through the USB4 link. As such, DisplayPort 2.1 has tightened its alignment with the USB Type-C specification as well as the USB4 PHY specification to facilitate a common PHY servicing both DisplayPort and USB4. In addition, DisplayPort 2.1 has added a new DisplayPort bandwidth management feature to enable DisplayPort tunneling to coexist with other I/O data traffic more efficiently over the USB4 link. This increased efficiency is on top of mandated support for VESA’s visually lossless Display Stream Compression (DSC) codec and VESA’s Panel Replay capability. DSC bitstream support can reduce DisplayPort transport bandwidth in excess of 67 percent without visual artifacts, while VESA’s Panel Replay capability can reduce DisplayPort tunneling packet transport bandwidth in excess of 99 percent when Panel Replay operation is taking place.
+
+“Achieving greater alignment between DisplayPort and USB on a common PHY has been a particularly important effort within VESA given the significant overlap in use case models between the DisplayPort and USB4 ecosystems,” stated Alan Kobayashi, VESA Board Chair and VESA DisplayPort Task Group Chair. “DisplayPort 2.1 brings DisplayPort into convergence with USB4 PHY specifications to ensure the highest video performance across a broad range of consumer products. Display transport through DisplayPort, with its higher bit rates and proven visual quality of DSC compression even for HDR content, offers ample bandwidth for the needs of virtually every practical application. Features such as driving multiple displays over a single cable, or enabling multiple functions on a single port like video, power and data transfer, no longer require any compromise in video format choice. The advanced capabilities of the DisplayPort video interface are enabled by the invaluable contributions by our more than 300 member companies from across the electronics ecosystem.”
+
+DisplayPort 2.1 has also updated the DisplayPort cable specification to provide greater robustness and enhancements to full-size and Mini DisplayPort cable configurations that enable improved connectivity and longer cable lengths (beyond two meters for DP40 cables and beyond one meter for DP80 cables) without diminishing UHBR performance. VESA certified DP40 cables support up to the UHBR10 link rate (10 Gbps), with four lanes, providing a maximum throughput of 40 Gbps, while VESA certified DP80 cables support up to the UHBR20 link rate (20 Gbps), with four lanes, providing a maximum throughput of 80 Gbps.
+VESA certified DP40 and DP80 UHBR cables guarantee display connectivity and operation at the highest performance levels for products supporting DisplayPort 2.1. Source: VESA.
+
+“For all of our standards including DisplayPort, VESA has invested significant resources in testing and auditing procedures, including interoperability testing of products incorporating VESA specifications. This is to ensure that products that are introduced to market that claim support of VESA’s standards meet the high-quality benchmarks that we have established,” stated James Choate, compliance program manager for VESA. “VESA continues to investigate and develop new procedures to improve our auditing process in order to ensure robust implementation of quality products supporting DisplayPort and other VESA specs in the market. Thanks to the contributions by test equipment vendors, VESA has a solid test infrastructure in place to support wider testing and deployment of DisplayPort 2.1 certified devices in the marketplace.”
+
+About VESA
+
+The Video Electronics Standards Association (VESA) is an international, non-profit standards association representing a global network of more than 300 hardware, software, computer, display and component manufacturers committed to developing and promoting the electronics industry. For more than 30 years, VESA has created and supported simple, universal and cross-product solutions for today’s video and electronics industry. The association’s standards include DisplayPort™, the industry replacement for DVI, LVDS and VGA. DisplayPort utilizes a state-of-the-art digital protocol and provides an expandable foundation to enable astonishing digital display experiences. For more information on VESA, please visit http://www.vesa.org/.
+
+VESA® is a registered trademark and DisplayPort™ is a trademark of VESA. All other trademarks, service marks, registered trademarks, and registered service marks are the property of their respective owners.
+
+Contacts:
+
+Bill Lempesis, Executive Director, VESA, Tel: (503) 619-0505, E-mail: bill@vesa.org
+
+David Moreno, Principal, Open Sky Communications, Tel: (415) 519-3915, E-mail: dmoreno@openskypr.com
+
+Menu
+
+About VESA
+
+VESA Membership
+
+Standards & Specifications
+
+Free Standards
+
+News & Events
+
+FAQs
+
+Automotive
+
+VESA Display Codecs Bibliography
+
+VESA Display Compression Codecs
+
+VESA Certified AdaptiveSync Display
+
+Emeritus Members
+
+VESA Privacy Policy
+
+VESA at CES 2026
+
+About VESA
+
+VESA’s vision is continual growth in technical standards development and evolution into an international trade association, with world-wide membership driving standards initiatives, product implementations, and market implementation.
+
+Contact VESA
+
+3855 SW 153rd Drive
+
+Beaverton, OR 97003
+
+E-Mail: moderator@vesa.org
+
+© VESA 2026. All rights reserved. Website by Computer Courage.

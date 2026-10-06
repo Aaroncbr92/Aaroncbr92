@@ -1,0 +1,108 @@
+URL: https://learn.microsoft.com/es-es/windows/deployment/windows-autopilot/windows-autopilot
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Introducción a Windows Autopilot
+
+- Se aplica a: ✅ Windows 11, ✅ Windows 10, ✅ Windows Holographic
+
+## 
+
+Windows Autopilot es un conjunto de tecnologías que se utilizan para configurar y preconfigurar nuevos dispositivos, preparándolos para un uso productivo. Windows Autopilot se puede usar para implementar PC Windows o dispositivos HoloLens 2. Para obtener más información sobre la implementación de HoloLens 2 con Windows Autopilot, vea Windows Autopilot para HoloLens 2.
+
+Windows Autopilot también se puede usar para restablecer, reajustar y recuperar dispositivos. Esta solución permite a un departamento de TI lograr estos objetivos con poca o ninguna infraestructura para administrar, con un proceso que es fácil y simple.
+
+Windows Autopilot simplifica el ciclo de vida del dispositivo Windows, tanto para TI como para los usuarios finales, desde la implementación inicial hasta el final de la vida útil. Uso de servicios basados en la nube, Windows Autopilot:
+
+- Reduce el tiempo que el departamento de TI dedica a implementar, administrar y retirar dispositivos.
+
+- Reduce la infraestructura necesaria para el mantenimiento de los dispositivos.
+
+- Maximiza la facilidad de uso para todo tipo de usuarios finales.
+
+Vea el siguiente vídeo:
+
+Nota:
+
+Este artículo trata sobre Windows Autopilot. Para obtener información sobre la preparación de dispositivos con Windows Autopilot, consulte Información general sobre la preparación de dispositivos con Windows Autopilot.
+
+## Información general sobre el proceso
+
+Cuando se implementan inicialmente nuevos dispositivos Windows, Windows Autopilot usa la versión optimizada para OEM del cliente de Windows. Esta versión viene preinstalada en el dispositivo, por lo que no es necesario mantener imágenes y controladores personalizados para cada modelo de dispositivo. En lugar de volver a crear una imagen del dispositivo, la instalación de Windows existente se puede transformar en un estado "listo para empresas" que pueda:
+
+- Aplicar configuraciones y directivas.
+
+- Instale las aplicaciones.
+
+- Cambiar la edición de Windows que se usa para admitir funciones avanzadas. Por ejemplo, de Windows Pro a Windows Enterprise.
+
+Una vez implementado, los dispositivos Windows se pueden administrar con:
+
+- Microsoft Intune.
+
+- Directivas de cliente de Windows Update.
+
+- Microsoft Configuration Manager.
+
+- Otras herramientas similares de partes que no son de Microsoft.
+
+## Requisitos
+
+Se requiere una versión compatible del canal semestral de Windows para usar Windows Autopilot. Para obtener más información, consulte Requisitos de licencia, redes, configuración y softwarede Windows Autopilot.
+
+## Resumen
+
+Tradicionalmente, los profesionales de TI dedican mucho tiempo a crear y personalizar imágenes que luego se implementan en los dispositivos. Windows Autopilot presenta un nuevo enfoque.
+
+- Desde el punto de vista del usuario, solo se requieren algunas operaciones sencillas para que el dispositivo esté listo para su uso.
+
+- Desde el punto de vista de los profesionales de TI, la única interacción necesaria por parte del usuario final es conectarse a una red y comprobar sus credenciales. Todo lo demás está automatizado.
+
+Windows Autopilot habilita las siguientes funcionalidades:
+
+- Unión automática de dispositivos a Microsoft Entra ID o Active Directory (a través de la unión híbrida de Microsoft Entra). Para obtener más información sobre las diferencias entre estas dos opciones de unión, consulte Introducción a la administración de dispositivos en Microsoft Entra ID.
+
+- Inscripción automática de dispositivos en servicios de administración de dispositivos móviles (MDM), como Microsoft Intune (requiere una suscripción de Microsoft Entra ID P1 o P2 para la configuración).
+
+- Creación y asignación automática de dispositivos a grupos de configuración basados en el perfil de un dispositivo.
+
+- Personalización del contenido de la configuración rápida (OOBE) específico de la organización.
+
+El dispositivo existente también se puede preparar rápidamente para un nuevo usuario con el restablecimiento de Windows Autopilot. La funcionalidad Restablecer también es útil en escenarios de interrupción o corrección para devolver rápidamente un dispositivo a un estado listo para la empresa.
+
+## Tutorial
+
+Para obtener un tutorial con instrucciones detalladas sobre cómo configurar Windows Autopilot, consulte Escenarios de Windows Autopilot.
+
+## Contenido relacionado
+
+- 
+ Inscriba dispositivos Windows en Intune mediante Windows Autopilot.
+
+- 
+ Escenarios y funcionalidades de Windows Autopilot.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-08-19

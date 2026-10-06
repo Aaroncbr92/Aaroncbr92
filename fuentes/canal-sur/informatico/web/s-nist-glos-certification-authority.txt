@@ -1,0 +1,24 @@
+URL: https://csrc.nist.gov/glossary/term/certification_authority
+Leído: 2026-10-05
+
+Definitions:
+A trusted entity that issues and revokes public key certificates.
+Sources:
+FIPS 201-3
+under Certification Authority
+NIST SP 1800-12b
+under Certification Authority
+NISTIR 7711
+under Certification Authority
+The entity in a Public Key Infrastructure (PKI) that is responsible for issuing certificates and exacting compliance with a PKI policy.
+Sources:
+FIPS 186-5
+under Certification Authority (CA)
+NIST SP 800-89
+under Certification Authority (CA)
+The entity in a public-key infrastructure (PKI) that is responsible for issuing certificates and exacting compliance with a PKI policy.
+Sources:
+FIPS 204
+An entity authorized to create, sign, issue, and revoke public key certificates.
+Sources:
+CNSSI 4009-2022

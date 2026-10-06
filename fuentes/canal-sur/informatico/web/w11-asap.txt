@@ -1,0 +1,120 @@
+URL: https://support.microsoft.com/es-es/windows/get-windows-updates-as-soon-as-they-re-available-for-your-device-cad7b32b-001e-435b-9110-f18309b54168
+Leído: 2026-10-05
+
+# Obtener actualizaciones de Windows tan pronto como estén disponibles para el dispositivo
+
+ Se aplica a
+Windows 11 Windows 10 
+
+- 
+
+ Windows 11
+
+- 
+
+ Windows 10
+
+## Resumen
+
+Nos comprometemos a ofrecer innovación continua mediante la publicación de nuevas características y mejoras en Windows 11 con más frecuencia. Los dispositivos Windows obtienen nuevas funcionalidades en diferentes momentos a medida que Microsoft ofrece actualizaciones, correcciones, mejoras y mejoras no relacionadas con la seguridad a través de varias tecnologías de mantenimiento, incluido el lanzamiento controlado de características (CFR ). Con este enfoque, las actualizaciones se pueden implementar gradualmente en los dispositivos.
+
+Puede optar por obtener las últimas actualizaciones no relacionadas con la seguridad y las características tan pronto como estén disponibles para su dispositivo (ahora y en el futuro). Aquí le explicamos cómo hacerlo:
+
+- 
+Selecciona Inicio>Configuración>:Windows Update.
+
+ Buscar actualizaciones de Windows
+
+- 
+Activar el botón de alternancia Obtenga las últimas actualizaciones tan pronto como estén disponibles.
+
+Nota
+
+Si establece el botón de alternancia en Desactivado o Activado, seguirá recibiendo las actualizaciones de seguridad normales como de costumbre. El botón de alternancia determina la rapidez con la que se obtienen las actualizaciones adicionales no relacionadas con la seguridad, las correcciones, las actualizaciones de características y las mejoras. ¿Quiere más información sobre las actualizaciones mensuales de Windows? Encontrará información detallada en el blog Windows IT Pro .
+
+- 
+(Opcional) Selecciona Buscar actualizaciones y, si hay actualizaciones disponibles, el dispositivo las descargará e instalará. Si se te pide, reinicia el dispositivo para aplicar las actualizaciones.
+
+El dispositivo ya está listo para recibir las actualizaciones más recientes en el futuro.
+
+Si quieres obtener más información sobre las actualizaciones instaladas, seleccionaConfiguración>de Inicio>Windows Update>Historial de actualizaciones. 
+
+Para obtener información sobre los cambios de configuración, expanda la sección Otras actualizaciones y seleccione el vínculo Más información junto a la última actualización de configuración de Windows para ver qué mejoras se realizaron como parte de esa actualización.
+
+Al activarObtener las últimas actualizaciones en cuanto estén disponibles, puede estar seguro de que tendrá acceso a los cambios más recientes en cuanto estén disponibles para su dispositivo, se le dará prioridad para futuras actualizaciones y seguirá recibiendo las actualizaciones de seguridad como de costumbre.
+
+Nota
+
+ El soporte técnico para Windows 10 finalizó el 14 de octubre de 2025
+
+- Después del 14 de octubre de 2025, Microsoft ya no proporcionará actualizaciones de software gratuitas desde Windows Update, asistencia técnica ni correcciones de seguridad para Windows 10. El PC seguirá funcionando, pero recomendamos que se cambie a Windows 11.
+
+- 
+ Más información
+
+## Resumen
+
+Puede optar por obtener las últimas actualizaciones no relacionadas con la seguridad y las características tan pronto como estén disponibles para su dispositivo (ahora y en el futuro). Aquí le explicamos cómo hacerlo:
+
+- 
+Seleccione Inicio>, Configuración>,Actualización & Seguridad>Windows Update.
+
+ Buscar actualizaciones de Windows
+
+- 
+Activar el botón de alternancia Obtenga las últimas actualizaciones tan pronto como estén disponibles.
+
+Nota
+
+Si establece el botón de alternancia en Desactivado o Activado, seguirá recibiendo las actualizaciones de seguridad normales como de costumbre. El botón de alternancia determina la rapidez con la que se obtienen las actualizaciones, correcciones, características y mejoras adicionales no relacionadas con la seguridad.
+
+- 
+(Opcional) Selecciona Buscar actualizaciones y, si hay actualizaciones disponibles, el dispositivo las descargará e instalará. Si se te pide, reinicia el dispositivo para aplicar las actualizaciones.
+
+El dispositivo ya está listo para recibir las actualizaciones más recientes en el futuro.
+
+Si quieres obtener más información sobre las actualizaciones instaladas, seleccionaConfiguración>de Inicio>Windows Update>Historial de actualizaciones. 
+
+Para obtener información sobre los cambios de configuración, expanda la sección Otras actualizaciones y seleccione el vínculo Más información junto a la última actualización de configuración de Windows para ver qué mejoras se realizaron como parte de esa actualización.
+
+Al activar el botón de alternancia Obtener las últimas actualizaciones en cuanto estén disponibles, puede estar seguro de que tendrá acceso a los cambios más recientes tan pronto como estén disponibles para su dispositivo y seguirá recibiendo las actualizaciones de seguridad como de costumbre.
+
+## Preguntas más frecuentes
+
+Seleccione cualquier encabezado a continuación para obtener más información.
+
+## ¿Se instalarán las actualizaciones de configuración de Windows durante las horas activas?
+
+Al igual que con actualizaciones anteriores, respetamos sus horas activas. Los cambios habilitados a través de la nube tardan un par de segundos en instalarse, por lo que no interrumpirán su trabajo ni gastarán recursos del dispositivo. El reinicio se puede programar en cualquier momento que le resulte conveniente.
+
+## ¿Qué debo esperar después de activar el botón de alternancia?
+
+Después de activar el botón de alternancia , el dispositivo estará entre los primeros en obtener las últimas actualizaciones, correcciones, mejoras y mejoras no relacionadas con la seguridad en el momento en que estén disponibles para el dispositivo. Solo necesita establecer esta opción una vez y permanecerá activada (aunque siempre tendrá la opción de desactivarla más tarde).
+
+## ¿Se instalarán las actualizaciones tan pronto como estén disponibles?
+
+Sí. Al activar esta configuración, se da prioridad a su dispositivo para recibir las últimas actualizaciones disponibles tan pronto como se ofrezcan para su dispositivo.
+
+Para ayudar a reducir los reinicios, Windows puede combinar algunas actualizaciones que requieren un reinicio (como determinadas actualizaciones de controladores de dispositivo o Microsoft .NET) e instalarlas junto con la siguiente actualización acumulativa (LCU) más reciente.
+
+Este enfoque mantiene el dispositivo actualizado y minimiza el número de reinicios.
+
+## ¿Recibiré actualizaciones de seguridad?
+
+Dado que Microsoft se compromete a mantener seguros y protegidos los dispositivos Windows de todo el mundo, existen actualizaciones de seguridad periódicas. Ya sea que tenga activado odesactivado el botón de alternancia, seguirá recibiendo estas actualizaciones de seguridad recomendadas instaladas como de costumbre de forma regular.
+
+## ¿Mi dispositivo se reiniciará con más frecuencia?
+
+Si activaste el botón de alternancia , el dispositivo recibirá las últimas actualizaciones, correcciones, mejoras y mejoras. Puede haber más reinicios al mes: estos reinicios son necesarios para aplicar los cambios.
+
+## ¿Puedo desactivar el botón de alternancia después de activarlo?
+
+Sí, puedes establecer el botón de alternancia en Desactivado en cualquier momento. Sin embargo, los cambios y actualizaciones que se aplicaron antes permanecerán en tu dispositivo.
+
+## ¿Está disponible esta opción en dispositivos administrados?
+
+Si el dispositivo está administrado, el administrador puede administrar el botón de alternancia Obtener las últimas actualizaciones tan pronto como estén disponibles con la directiva de cliente AllowOptionalContent .
+
+## Temas relacionados
+
+ Ofrecer innovación continua en Windows 11

@@ -1,0 +1,129 @@
+URL: https://learn.microsoft.com/es-es/azure/virtual-desktop/overview
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# ¿Qué es Azure Virtual Desktop?
+
+## 
+
+Importante
+
+Azure Virtual Desktop clásico se retira el 30 de septiembre de 2026. Las conexiones a los recursos clásicos se bloquearán después de la retirada.
+
+Para evitar interrupciones, migre los recursos clásicos restantes a grupos de hosts basados en Azure Resource Manager antes del 30 de septiembre de 2026.
+
+Azure Virtual Desktop es un servicio de escritorio y de virtualización de aplicaciones que se ejecuta en Azure. Estos son algunos de los aspectos más destacados:
+
+- 
+Ofrezca una experiencia completa de Windows con Windows 11, Windows 10 o Windows Server. Usa sesión única para asignar dispositivos a un solo usuario o usa varias sesiones para escalabilidad.
+
+- 
+Ofrezca escritorios completos o use RemoteApp para entregar aplicaciones individuales.
+
+- 
+Presente las Aplicaciones Microsoft 365 para empresas y optimícelo para ejecutarlo en escenarios virtuales de varios usuarios.
+
+- 
+Instale sus aplicaciones personalizadas o de línea de negocio que puede ejecutar desde cualquier lugar, incluidas aplicaciones en los formatos Win32, MSIX y Appx.
+
+- 
+Ofrezca software como servicio (SaaS) para uso externo.
+
+- 
+Reemplace las implementaciones de Servicios de Escritorio remoto (RDS) existentes.
+
+- 
+Administre escritorios y aplicaciones de diferentes sistemas operativos Windows y Windows Server con una experiencia de administración unificada.
+
+- 
+Hospede escritorios y aplicaciones locales con el hipervisor de su elección con Azure Virtual Desktop Hybrid o Azure Virtual Desktop para Azure Local.
+
+## Vídeo de introducción
+
+Obtenga información sobre Azure Virtual Desktop (anteriormente Windows Virtual Desktop), por qué es único y novedades en este vídeo:
+
+Puede encontrar más vídeos sobre Azure Virtual Desktop en Microsoft Mechanics.
+
+## Principales funcionalidades
+
+Con Azure Virtual Desktop, puede configurar un entorno escalable y flexible:
+
+- 
+Cree un entorno de virtualización de escritorio completo en su suscripción de Azure sin ejecutar ningún servidor de puerta de enlace.
+
+- 
+Configuraciones flexibles para adaptarse a sus diversas cargas de trabajo.
+
+- 
+Traiga su propia imagen para cargas de trabajo de producción o prueba de la galería de Azure.
+
+- 
+Reduzca los costos con recursos agrupados de varias sesiones. Con la nueva funcionalidad multisesión de Windows 11 y Windows 10 Enterprise, exclusiva de Azure Virtual Desktop o Windows Server, puede reducir considerablemente el número de máquinas virtuales y la sobrecarga del sistema operativo sin dejar de proporcionar los mismos recursos a los usuarios.
+
+- 
+Proporcione una propiedad individual a través de los escritorios personales (persistente).
+
+- 
+Aumente o disminuya automáticamente la capacidad según la hora del día, días específicos de la semana o según cambie la demanda con escalabilidad automática, lo que ayuda a administrar los costos.
+
+Puede implementar y administrar aplicaciones y escritorios virtuales:
+
+- 
+Utilice la Azure Portal, la CLI de Azure, el Azure PowerShell y la API de REST para crear y configurar grupos de hosts, grupos de aplicaciones y áreas de trabajo, asignar usuarios y publicar recursos.
+
+- 
+Publique un escritorio completo o aplicaciones individuales desde un único grupo de hosts, cree grupos de aplicaciones individuales para distintos conjuntos de usuarios o incluso asigne usuarios a varios grupos de aplicaciones para reducir el número de imágenes.
+
+- 
+Al administrar su entorno, use el acceso delegado integrado para asignar roles y recopilar diagnósticos para comprender diversos errores de configuración o de usuario.
+
+- 
+Obtenga información y métricas clave sobre su entorno y los usuarios que se conectan a él con Azure Virtual Desktop Insights.
+
+- 
+Administre solo la imagen y las máquinas virtuales que usa para las sesiones de su suscripción de Azure, no la infraestructura. No es necesario administrar personalmente los roles de infraestructura auxiliares, como una puerta de enlace o un agente, como lo hace con los Servicios de Escritorio remoto.
+
+Conectar usuarios:
+
+- 
+Una vez asignado, los usuarios pueden conectarse a sus aplicaciones y escritorios de Windows publicados mediante Aplicación de Windows o el cliente de Escritorio remoto. Conéctate desde cualquier dispositivo a través de una aplicación nativa en el dispositivo o mediante un explorador web con el cliente web HTML5.
+
+- 
+Establezca usuarios de forma segura a través de conexiones inversas al servicio, por lo que no es necesario abrir ningún puerto de entrada.
+
+## Pasos siguientes
+
+Estos son algunos otros artículos para obtener información sobre Azure Virtual Desktop:
+
+- Obtenga información sobre la terminología usada para Azure Virtual Desktop.
+
+- Puede ver una configuración arquitectónica típica de Azure Virtual Desktop para la empresa en nuestra documentación de arquitectura.
+
+- Comprenda los requisitos previos antes de implementar Azure Virtual Desktop.
+
+- Cuando esté listo para probar Azure Virtual Desktop, use el inicio rápido para implementar un entorno de Azure Virtual Desktop de ejemplo con Windows 11 Empresas multisesión.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-09-18

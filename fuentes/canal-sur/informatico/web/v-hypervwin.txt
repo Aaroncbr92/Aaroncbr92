@@ -1,0 +1,252 @@
+URL: https://learn.microsoft.com/es-es/virtualization/hyper-v-on-windows/about/
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Virtualización de Hyper-V en Windows Server y Windows
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Hyper-V es la tecnología de hipervisor de nivel empresarial de Microsoft integrada en Windows Server y Windows. Proporciona funcionalidades de virtualización de hardware que permiten a las organizaciones crear, administrar y ejecutar máquinas virtuales a escala. Como hipervisor de tipo 1, Hyper-V se ejecuta directamente en el hardware informático, lo que proporciona un rendimiento casi nativo y un aislamiento sólido para cargas de trabajo virtualizadas.
+
+Virtualizar las cargas de trabajo con Hyper-V le permite maximizar el uso de hardware, simplificar las operaciones de TI y mejorar la continuidad empresarial. Admite una amplia gama de sistemas operativos para máquinas virtuales invitadas, incluidas muchas versiones de Windows, Linux y FreeBSD, lo que lo convierte en una solución versátil para diversos entornos de TI.
+
+Tanto si va a consolidar servidores como si abarca proveedores de nube locales e hiperescala, o habilita entornos de desarrollo y pruebas flexibles, Hyper-V ofrece soluciones escalables para las necesidades modernas de TI.
+
+Hyper-V en Windows Server y Windows tienen diferentes funcionalidades y características, pero ambas proporcionan una base sólida para la virtualización. Hyper-V en Windows Server está diseñado para implementaciones empresariales con características avanzadas, como la migración en vivo, la alta disponibilidad y la recuperación ante desastres. Hyper-V en Windows proporciona a los profesionales de TI y a los desarrolladores una solución ligera adecuada para escenarios de desarrollo y pruebas.
+
+En esta introducción se explican las ventajas, las características clave y los casos de uso comunes de Hyper-V, y se proporcionan instrucciones sobre cómo empezar.
+
+## Ventajas de Hyper-V
+
+Hyper-V ofrece importantes ventajas organizativas en muchas áreas, entre las que se incluyen:
+
+- 
+
+ Optimización de costos: reduzca los costos de adquisición y mantenimiento de hardware a través de la consolidación del servidor, al tiempo que reduce los requisitos de espacio, energía y refrigeración del centro de datos. Las organizaciones pueden lograr altas relaciones de consolidación, lo que reduce drásticamente el costo total de propiedad. Hyper-V se incluye con Windows Server y Windows, lo que elimina los costos adicionales de licencias de hipervisor.
+
+- 
+
+ Eficiencia operativa: optimice las operaciones de TI con administración centralizada, aprovisionamiento automatizado y procesos simplificados de copia de seguridad y recuperación ante desastres. Las plantillas de máquina virtual y la automatización de PowerShell reducen el tiempo de implementación de horas a minutos.
+
+- 
+
+ Agilidad empresarial: aprovisione rápidamente nuevos entornos para admitir iniciativas empresariales, escalar o reducir verticalmente los recursos en función de la demanda y adaptarse rápidamente a las condiciones de mercado cambiantes sin largos ciclos de adquisición de hardware.
+
+- 
+
+ Seguridad mejorada: implemente un aislamiento de carga de trabajo seguro, use máquinas virtuales blindadas para datos confidenciales y mantenga entornos seguros con características como arranque seguro y compatibilidad con TPM 2.0.
+
+- 
+
+ Resistencia mejorada: minimice el tiempo de inactividad a través de características de alta disponibilidad, implemente estrategias de recuperación ante desastres completas con Hyper-V Réplica y garantice la continuidad empresarial con las funcionalidades de migración en vivo.
+
+- 
+
+ Aceleración de desarrollo: permite la creación rápida de entornos de desarrollo y pruebas, admite prácticas de DevOps con una infraestructura coherente y reduce el tiempo de comercialización de nuevas aplicaciones y servicios.
+
+- 
+
+ Cumplimiento simplificado: cumple los requisitos normativos con mayor facilidad a través de configuraciones coherentes, supervisión centralizada y seguimientos de auditoría completos en entornos virtualizados.
+
+## Funcionalidades técnicas de Hyper-V
+
+Este es un vídeo que proporciona una descripción técnica completa de Hyper-V, que cubre su arquitectura de hipervisor, características de rendimiento y características de escalabilidad. Muestra cómo Hyper-V ofrece funcionalidades de virtualización de nivel empresarial, analiza las características de alta disponibilidad y agrupación en clústeres y muestra escenarios de implementación reales para las organizaciones que buscan implementar soluciones de virtualización.
+
+En las secciones siguientes se proporciona información general sobre algunas de las características clave de nivel empresarial disponibles en Hyper-V que abordan los requisitos empresariales críticos en torno a la seguridad, la disponibilidad, la administración y la optimización de costos.
+
+### Extensibilidad e integración
+
+Un aspecto importante de Hyper-V es su extensibilidad e integración con otras características de Windows Server y otros productos y servicios de Microsoft y que no son de Microsoft para crear una solución de virtualización completa lista para las implementaciones empresariales.
+
+Por ejemplo, Hyper-V funciona perfectamente con clústeres de conmutación por error de Windows Server para proporcionar alta disponibilidad, se conecta a una variedad de proveedores de almacenamiento para opciones de almacenamiento flexibles, admite la integración de Azure para escenarios de nube híbrida e se integra con Windows Admin Center o System Center Virtual Machine Manager para la administración avanzada.
+
+Hyper-V también es un componente clave de Azure Local, lo que permite a las organizaciones ejecutar servicios de Azure de forma local con experiencias de desarrollo y administración coherentes. Esta integración permite escenarios de nube híbrida en los que las cargas de trabajo se pueden mover sin problemas entre entornos locales y Azure, lo que proporciona flexibilidad y escalabilidad.
+
+### Seguridad y aislamiento
+
+Las características de seguridad sólidas ayudan a proteger las máquinas virtuales y sus datos, lo que garantiza que las cargas de trabajo se ejecutan en entornos aislados:
+
+- 
+
+ Las máquinas virtuales blindadas proporcionan protección completa para cargas de trabajo confidenciales a través del cifrado de BitLocker, la comprobación de arranque seguro y la atestación de TPM 2.0. El Servicio de protección de host (HGS) garantiza que solo los hosts autorizados puedan ejecutar máquinas virtuales blindadas, protegiendo contra administradores comprometidos y usuarios internos malintencionados.
+
+- 
+
+ Las máquinas virtuales de generación 2 ofrecen seguridad mejorada con firmware UEFI, funcionalidades de arranque seguro y resistencia mejorada al malware. La compatibilidad con TPM 2.0 virtual permite el cifrado de BitLocker en sistemas operativos invitados y admite la autenticación de Windows Hello para empresas.
+
+- 
+
+ El aislamiento de red a través de REDES virtuales (VLAN), conmutadores virtuales privados y redes definidas por software (SDN) crea segmentos de red seguros que impiden el movimiento lateral no autorizado entre cargas de trabajo.
+
+### Flexibilidad de almacenamiento
+
+Las opciones de almacenamiento flexibles cumplen diversos requisitos de la organización, desde discos locales hasta soluciones hiperconvergidas rentables a las implementaciones de SAN existentes:
+
+- 
+
+ Espacios de almacenamiento directo crea una infraestructura hiperconvergida agrupando el almacenamiento local entre nodos de clúster en un único espacio de nombres de almacenamiento de alta disponibilidad. Esta solución de almacenamiento definida por software elimina los requisitos tradicionales de SAN al ofrecer características de clase empresarial, como tolerancia a errores, reparación automática y optimización del rendimiento. Las organizaciones obtienen menores costos de almacenamiento en comparación con las soluciones de SAN tradicionales, al tiempo que obtienen una administración simplificada y un rendimiento mejorado a través de NVMe y compatibilidad con la memoria persistente.
+
+- 
+
+ Espacios de almacenamiento permite arquitecturas de almacenamiento desagregadas al agrupar discos JBOD (Just a Bunch of Disks) en grupos de almacenamiento resistentes con niveles de redundancia configurables. Este enfoque proporciona flexibilidad para escalar el almacenamiento independientemente de los recursos de proceso y mantener la alta disponibilidad a través de configuraciones de reflejo, paridad o paridad dual.
+
+- 
+
+ Las opciones de almacenamiento local admiten varios escenarios de implementación desde entornos de desarrollo mediante unidades únicas a cargas de trabajo de producción con matrices NVMe. El almacenamiento conectado directo proporciona un rendimiento óptimo para las aplicaciones intensivas de E/S, a la vez que reduce la complejidad de implementaciones más pequeñas o escenarios de informática perimetral.
+
+- 
+
+ La conectividad SAN admite protocolos iSCSI y Canal de fibra para la integración con la infraestructura de almacenamiento empresarial existente. La E/S de múltiples rutas (MPIO) garantiza una alta disponibilidad y equilibrio de carga en varias rutas de acceso de almacenamiento, mientras que la compatibilidad con SMB 3.0 y NFS permite escenarios de almacenamiento basados en archivos con características como la conmutación por error transparente y la agrupación en clústeres de servidores de archivos de escalabilidad horizontal.
+
+### Alta disponibilidad y continuidad empresarial
+
+Las características completas de alta disponibilidad y continuidad empresarial ayudan a garantizar que las cargas de trabajo críticas permanezcan operativas:
+
+- 
+
+ Los clústeres de conmutación por error con volúmenes compartidos de clúster (CSV) permiten la conmutación automática por error de máquinas virtuales entre nodos de clúster, lo que proporciona un tiempo de actividad valioso para las aplicaciones críticas. La migración en vivo permite el mantenimiento planeado sin interrupción del servicio. La caché CSV mejora el rendimiento mediante el almacenamiento en memoria de datos a los que se accede con frecuencia, mientras que la caché de bloques CSV utiliza la memoria del sistema en nodos ricos en almacenamiento para acelerar las operaciones de lectura.
+
+- 
+
+ Hyper-V Réplica ofrece una recuperación ante desastres rentable mediante la replicación asincrónica de máquinas virtuales en sitios secundarios a través de conexiones de red estándar, lo que elimina los costosos requisitos de replicación de SAN. Los objetivos de punto de recuperación (RPO) pueden ser tan bajos como 30 segundos para garantizar una pérdida de datos mínima.
+
+- 
+
+ Migración en vivo sin compartir nada permite mover máquinas virtuales entre hosts sin almacenamiento compartido, permitiendo una asignación de recursos flexible y un equilibrio de carga a lo largo del clúster. Esta característica admite escenarios en los que los hosts tienen configuraciones de almacenamiento diferentes o al migrar cargas de trabajo entre sitios distribuidos geográficamente.
+
+- 
+
+ La migración de almacenamiento permite mover el almacenamiento de máquinas virtuales entre diferentes matrices de almacenamiento sin tiempo de inactividad, lo que facilita las actualizaciones de almacenamiento y el equilibrio de carga en toda la infraestructura.
+
+- 
+
+ Azure Site Recovery amplía las capacidades de recuperación ante desastres de Hyper-V a la nube, proporcionando replicación automatizada, conmutación por error y reversión para máquinas virtuales. Esta integración permite a las organizaciones usar Azure como sitio secundario para la recuperación ante desastres sin configuración compleja ni hardware adicional.
+
+### Rendimiento y escalabilidad
+
+El alto rendimiento y la escalabilidad ayudan a satisfacer las cargas de trabajo empresariales exigentes:
+
+- 
+
+ La memoria dinámica ajusta automáticamente la asignación de memoria en función de las demandas reales de carga de trabajo, lo que maximiza el uso del host al tiempo que mantiene el rendimiento. Las tasas de sobreasignación de memoria y la paginación inteligente permiten mayores tasas de consolidación.
+
+- 
+
+ SR-IOV y compatibilidad con RDMA ofrece un rendimiento de red casi nativo omitiendo el hipervisor para escenarios de red de baja latencia y alto ancho de banda.
+
+- 
+
+ La creación de particiones de GPU (GPU-P) permite que varias máquinas virtuales compartan recursos de GPU para cargas de trabajo de IA y gráficos.
+
+- 
+
+ La integración de memoria persistente proporciona acceso de almacenamiento de latencia ultra baja para bases de datos y escenarios de computación en memoria.
+
+### Funcionalidades de administración avanzadas
+
+Una gama de herramientas de administración y funcionalidades de automatización simplifican las operaciones y mejoran la productividad:
+
+- 
+
+ Windows Admin Center proporciona administración moderna basada en web con supervisión de infraestructura hiperconvergida, análisis de rendimiento y flujos de trabajo de solución de problemas optimizados accesibles desde cualquier dispositivo.
+
+- 
+
+ El modo de virtualización de Windows Admin Center es una experiencia de administración creada específicamente para la infraestructura de virtualización, lo que permite la administración centralizada de Hyper-V hosts, clústeres, almacenamiento y redes a gran escala. A diferencia del modo de administración de Windows Admin Center, que se centra en la administración general del servidor, el modo de virtualización está orientado a la gestión de infraestructura para entornos a gran escala. Para obtener más información, consulta Introducción al modo de virtualización de Windows Admin Center y la entrada de blog Introducción al modo de virtualización de Windows Admin Center.
+
+- 
+
+ Hyper-V Manager proporciona una administración gráfica intuitiva para las operaciones diarias, mientras que el módulo Hyper-V para Windows PowerShell habilita escenarios avanzados de scripting y automatización.
+
+- 
+
+ System Center Virtual Machine Manager ofrece administración a escala empresarial con aprovisionamiento automatizado, supervisión de cumplimiento, planeamiento de capacidad y portales de autoservicio para la administración delegada.
+
+- 
+
+ PowerShell Direct permite la administración segura de máquinas virtuales sin conectividad de red, lo que simplifica la automatización y la solución de problemas. Amplia biblioteca de cmdlets de PowerShell que admite las prácticas de Infraestructura como Código.
+
+- 
+
+ Integración directa de Active Directory como Hyper-V usa la infraestructura de autenticación de Windows existente sin ninguna configuración adicional. Los hosts unidos a un dominio heredan automáticamente la configuración de directiva de grupo y las configuraciones de seguridad existentes.
+
+### Características de optimización de costos
+
+Optimización de los costos asociados con la virtualización:
+
+- 
+
+ Las licencias existentes de Windows Server le permiten ejecutar una máquina virtual sin costos adicionales de licencias de hipervisor. Hyper-V se incluye con Windows Server y Windows, con la edición Datacenter de Windows Server que proporciona derechos ilimitados de máquina virtual, lo que significa que puede ejecutar máquinas virtuales de Windows Server sin costo adicional. Este enfoque simplifica los cálculos de licencias y reduce los costos generales.
+
+- 
+
+ La desduplicación y la compresión reducen considerablemente los requisitos de almacenamiento en escenarios como la infraestructura de escritorio virtual (VDI) y la copia de seguridad de datos.
+
+- 
+
+ La virtualización anidada permite ejecutar hipervisores dentro de máquinas virtuales, admitir escenarios de desarrollo y entornos de nube multiinquilino sin hardware adicional.
+
+## Ventajas para desarrolladores y profesionales de TI
+
+Hyper-V en Windows Server y Windows proporciona a los desarrolladores y profesionales de TI funcionalidades de virtualización eficaces que aceleran los flujos de trabajo de desarrollo y simplifican las operaciones de TI para entornos de Windows y Linux. Los desarrolladores pueden crear rápidamente entornos de desarrollo y pruebas aislados que reflejen las configuraciones de producción, lo que les permite probar aplicaciones en varios sistemas operativos y versiones sin necesidad de hardware dedicado. Los profesionales de TI se benefician de la capacidad de aprovisionar rápidamente entornos de espacio aislado para probar revisiones, actualizaciones y nuevas configuraciones antes de implementarlos en sistemas de producción.
+
+La capacidad de realizar instantáneas de máquinas virtuales antes de realizar cambios proporciona una red de seguridad para escenarios de experimentación y reversión, mientras que las plantillas de máquina virtual y la automatización de PowerShell permiten el aprovisionamiento coherente del entorno en minutos en lugar de horas. Esta funcionalidad es valiosa para los equipos de desarrollo que crean entornos de compilación estandarizados y equipos de TI que mantienen configuraciones de infraestructura coherentes.
+
+Para los usuarios de Windows 11, Hyper-V ofrece Creación rápida para la configuración simplificada de máquinas virtuales, lo que facilita la puesta en marcha de entornos de desarrollo para diferentes proyectos o crear entornos de prueba aislados para escenarios de evaluación de TI. La integración con Visual Studio y las herramientas de desarrollo, combinadas con características como la virtualización anidada, permite a los desarrolladores crear aplicaciones complejas de varios niveles y probar cargas de trabajo en contenedores localmente, mientras que los profesionales de TI pueden evaluar nuevas tecnologías y soluciones en entornos aislados.
+
+## Introducción a Hyper-V
+
+Hyper-V está disponible fácilmente como rol de servidor en todas las ediciones de Windows Server 2025, con varias opciones de instalación para satisfacer diferentes necesidades organizativas. Las organizaciones pueden elegir entre Servidor con experiencia de escritorio para la administración completa de la GUI o Server Core para reducir el uso de recursos y superficie de ataque.
+
+Para Windows 11, Hyper-V se incluye en las ediciones Pro, Enterprise y Education, lo que permite a los desarrolladores y profesionales de TI usar funcionalidades de virtualización directamente en sus escritorios.
+
+ Instalación de Hyper-V
+
+## Contenido relacionado
+
+Estos son algunos recursos adicionales que le ayudarán a obtener más información sobre Hyper-V y sus funcionalidades:
+
+- 
+ Requisitos de hardware para Hyper-V.
+
+- 
+ Planee las redes de Hyper-V.
+
+- 
+ Arquitecturas de almacenamiento para Hyper-V.
+
+- 
+ Generaciones de máquinas virtuales.
+
+- 
+ Sistemas operativos de máquina virtual Windows compatibles.
+
+- 
+ Sistemas operativos de máquina virtual Linux y FreeBSD compatibles.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-13

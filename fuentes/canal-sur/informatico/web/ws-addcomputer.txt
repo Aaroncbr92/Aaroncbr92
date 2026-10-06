@@ -1,0 +1,1119 @@
+URL: https://learn.microsoft.com/es-es/powershell/module/microsoft.powershell.management/add-computer?view=powershell-5.1
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Add-Computer
+
+Módulo:
+
+Microsoft.PowerShell.Management Module
+
+## 
+
+Agrega el equipo local a un dominio o grupo de trabajo.
+
+## Sintaxis
+
+### 
+ Domain (valor predeterminado)
+
+`Add-Computer
+ [-DomainName] <String>
+ -Credential <PSCredential>
+ [-ComputerName <String[]>]
+ [-LocalCredential <PSCredential>]
+ [-UnjoinDomainCredential <PSCredential>]
+ [-OUPath <String>]
+ [-Server <String>]
+ [-Unsecure]
+ [-Options <JoinOptions>]
+ [-Restart]
+ [-PassThru]
+ [-NewName <String>]
+ [-Force]
+ [-WhatIf]
+ [-Confirm]
+ [<CommonParameters>]
+`
+
+### 
+ Workgroup
+
+`Add-Computer
+ [-WorkgroupName] <String>
+ [-ComputerName <String[]>]
+ [-LocalCredential <PSCredential>]
+ [-Credential <PSCredential>]
+ [-Restart]
+ [-PassThru]
+ [-NewName <String>]
+ [-Force]
+ [-WhatIf]
+ [-Confirm]
+ [<CommonParameters>]
+`
+
+## Description
+
+El cmdlet `Add-Computer` agrega el equipo local o los equipos remotos a un dominio o grupo de trabajo, o los mueve de un dominio a otro. También crea una cuenta de dominio si el equipo se agrega al dominio sin una cuenta.
+
+Puede usar los parámetros de este cmdlet para especificar una unidad organizativa (OU) y un controlador de dominio o para realizar una combinación no segura.
+
+Para obtener los resultados del comando, use el detallado de y parámetros de PassThru.
+
+## Ejemplos
+
+### Ejemplo 1: Agregar un equipo local a un dominio y, a continuación, reiniciar el equipo
+
+`Add-Computer -DomainName Domain01 -Restart
+`
+
+Este comando agrega el equipo local al dominio Domain01 y, a continuación, reinicia el equipo para que el cambio sea efectivo.
+
+### Ejemplo 2: Agregar un equipo local a un grupo de trabajo
+
+`Add-Computer -WorkgroupName WORKGROUP-A
+`
+
+Este comando agrega el equipo local al grupo de trabajo Workgroup-A.
+
+### Ejemplo 3: Agregar un equipo local a un dominio
+
+`Add-Computer -DomainName Domain01 -Server Domain01\DC01 -PassThru -Verbose
+`
+
+Este comando agrega el equipo local al dominio Domain01 mediante el `Domain01\DC01` controlador de dominio.
+
+El comando usa los parámetros PassThru y parámetros detallados para obtener información detallada sobre los resultados del comando.
+
+### Ejemplo 4: Adición de un equipo local a un dominio mediante el parámetro OUPath
+
+`Add-Computer -DomainName Domain02 -OUPath "OU=testOU,DC=domain,DC=Domain,DC=com"
+`
+
+Este comando agrega el equipo local al dominio Domain02. Usa el parámetro OUPath para especificar la unidad organizativa de las nuevas cuentas.
+
+### Ejemplo 5: Agregar un equipo local a un dominio mediante credenciales
+
+`$addComputerSplat = @{
+ ComputerName = 'Server01'
+ LocalCredential = 'Server01\Admin01'
+ DomainName = 'Domain02'
+ Credential = 'Domain02\Admin02'
+ Restart = $true
+ Force = $true
+}
+Add-Computer @addComputerSplat
+`
+
+Este comando agrega el equipo Server01 al dominio Domain02. Usa el parámetro LocalCredential para especificar una cuenta de usuario que tenga permiso para conectarse al equipo Server01. Usa el parámetro Credential para especificar una cuenta de usuario que tenga permiso para unir equipos al dominio. Usa el parámetro Restart para reiniciar el equipo una vez completada la operación de unión y el parámetro Force para suprimir los mensajes de confirmación del usuario.
+
+### Ejemplo 6: Traslado de un grupo de equipos a un nuevo dominio
+
+`$addComputerSplat = @{
+ ComputerName = 'Server01', 'Server02', 'localhost'
+ DomainName = 'Domain02'
+ LocalCredential = 'Domain01\User01'
+ UnjoinDomainCredential = 'Domain01\Admin01'
+ Credential = 'Domain02\Admin01'
+ Restart = $true
+}
+Add-Computer @addComputerSplat
+`
+
+Este comando mueve los equipos Server01 y Server02 y el equipo local, de Domain01 a Domain02.
+
+Usa el parámetro LocalCredential para especificar una cuenta de usuario que tenga permiso para conectarse a los tres equipos afectados. Usa el parámetro UnjoinDomainCredential para especificar una cuenta de usuario que tenga permiso para descomprimir los equipos del dominio Domain01 y el parámetro Credential para especificar una cuenta de usuario que tenga permiso para unir los equipos al dominio Domain02. Usa el parámetro Restart para reiniciar los tres equipos una vez completado el traslado.
+
+### Ejemplo 7: Mover un equipo a un nuevo dominio y cambiar el nombre del equipo
+
+`$addComputerSplat = @{
+ ComputerName = 'Server01'
+ DomainName = 'Domain02'
+ NewName = 'Server044'
+ Credential = 'Domain02\Admin01'
+ Restart = $true
+}
+Add-Computer @addComputerSplat
+`
+
+Este comando mueve el equipo Server01 al dominio02 y cambia el nombre de la máquina a Server044.
+
+El comando usa la credencial del usuario actual para conectarse al equipo Server01 y quitarla de su dominio actual. Usa el parámetro Credential para especificar una cuenta de usuario que tenga permiso para unir el equipo al dominio Domain02.
+
+### Ejemplo 8: Agregar equipos enumerados en un archivo a un nuevo dominio
+
+`$addComputerSplat = @{
+ ComputerName = (Get-Content Servers.txt)
+ DomainName = 'Domain02'
+ Credential = 'Domain02\Admin02'
+ Options = 'Win9xUpgrade'
+ Restart = $true
+}
+Add-Computer @addComputerSplat
+`
+
+Este comando agrega los equipos que aparecen en el `Servers.txt` archivo al dominio Domain02. Usa el parámetro Opciones de para especificar la opción Win9xUpgrade. El parámetro Restart reinicia todos los equipos recién agregados una vez completada la operación de unión.
+
+### Ejemplo 9: Agregar un equipo a un dominio mediante credenciales de equipo predefinidas
+
+Un administrador debe ejecutar este primer comando desde un equipo que ya esté unido al dominio `Domain03`:
+
+`$newADComputerSplat = @{
+ Name = "Server02"
+ AccountPassword = (ConvertTo-SecureString -String 'TempJoinPA$$' -AsPlainText -Force)
+}
+New-ADComputer @newADComputerSplat
+
+# Then this command is run from `Server02` which is not yet domain-joined:
+
+$joinCred = New-Object pscredential -ArgumentList ([pscustomobject]@{
+ UserName = $null
+ Password = (ConvertTo-SecureString -String 'TempJoinPA$$' -AsPlainText -Force)[0]
+})
+$addComputerSplat = @{
+ DomainName = "Domain03"
+ Options = 'UnsecuredJoin', 'PasswordPass'
+ Credential = $joinCred
+}
+Add-Computer @addComputerSplat
+`
+
+Esta combinación de comandos crea una nueva cuenta de equipo con un nombre predefinido y una contraseña de unión temporal en un dominio mediante un equipo unido a un dominio existente. A continuación, un equipo con el nombre predefinido combina el dominio con solo el nombre del equipo y la contraseña de combinación temporal.
+La contraseña predefinida solo se usa para admitir la operación de unión y se reemplaza como parte de los procedimientos normales de la cuenta de equipo después de que el equipo complete la unión.
+
+### Ejemplo 10: Agregar un equipo a un dominio con un nuevo nombre
+
+El uso de esta combinación de comandos evita varios reinicios y varias escrituras en Active Directory escribe para el mismo objeto cuando el equipo se une al dominio con el nuevo nombre.
+
+`Rename-Computer -NewName "MyNewPC" -Force
+$addComputerSplat = @{
+ DomainName = 'Contoso.com'
+ Credential = 'contoso\administrator'
+ Options = 'JoinWithNewName', 'AccountCreate'
+}
+Add-Computer @addComputerSplat
+`
+
+## Parámetros
+
+### -ComputerName
+
+Especifica los equipos que se van a agregar a un dominio o grupo de trabajo.
+El valor predeterminado es el equipo local.
+
+Escriba el nombre NetBIOS, una dirección IP (Protocolo de Internet) o un nombre de dominio completo de cada uno de los equipos remotos. Para especificar el equipo local, escriba el nombre del equipo, un punto (`.`) o "localhost".
+
+Este parámetro no se basa en la comunicación remota de Windows PowerShell. Puede usar el parámetro ComputerName de `Add-Computer` incluso si el equipo no está configurado para ejecutar comandos remotos.
+
+Este parámetro se presenta en Windows PowerShell 3.0.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | 
+String[]
+
+ | Valor predeterminado:
+
+ | Local computer
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+#### Conjuntos de parámetros
+
+ (All) 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | True
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | True
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -Confirm
+
+Le pide confirmación antes de ejecutar el cmdlet.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | SwitchParameter
+
+ | Valor predeterminado:
+
+ | False
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+ | Alias:
+
+ | cf
+
+#### Conjuntos de parámetros
+
+ (All) 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -Credential
+
+Especifica una cuenta de usuario que tiene permiso para unir los equipos a un nuevo dominio.
+El valor predeterminado es el usuario actual.
+
+Escriba un nombre de usuario, como "User01" o "Domain01\User01", o escriba un objeto de PSCredential, como uno generado por el cmdlet `Get-Credential`. Si escribe un nombre de usuario, se le pedirá una contraseña.
+
+Para especificar una cuenta de usuario que tenga permiso para quitar el equipo de su dominio actual, use el parámetro UnjoinDomainCredential. Para especificar una cuenta de usuario que tenga permiso para conectarse a un equipo remoto, use el parámetro localCredential.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | PSCredential
+
+ | Valor predeterminado:
+
+ | None
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+ | Alias:
+
+ | DomainCredential
+
+#### Conjuntos de parámetros
+
+ Domain 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | True
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+ Workgroup 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -DomainName
+
+Especifica el dominio al que se agregan los equipos. Este parámetro es necesario al agregar los equipos a un dominio.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | String
+
+ | Valor predeterminado:
+
+ | None
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+ | Alias:
+
+ | DN, Dominio
+
+#### Conjuntos de parámetros
+
+ Domain 
+
+ | Posición:
+
+ | 0
+
+ | Mandatory:
+
+ | True
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -Force
+
+Suprime el mensaje de confirmación del usuario. Sin este parámetro, `Add-Computer` requiere que confirme la adición de cada equipo.
+
+Este parámetro se presenta en Windows PowerShell 3.0.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | SwitchParameter
+
+ | Valor predeterminado:
+
+ | False
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+#### Conjuntos de parámetros
+
+ (All) 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -LocalCredential
+
+Especifica una cuenta de usuario que tiene permiso para conectarse a los equipos especificados por el parámetro computerName . El valor predeterminado es el usuario actual.
+
+Escriba un nombre de usuario, como "User01" o "Domain01\User01", o escriba un objeto de PSCredential, como uno generado por el cmdlet `Get-Credential`. Si escribe un nombre de usuario, se le pedirá una contraseña.
+
+Para especificar una cuenta de usuario que tenga permiso para agregar los equipos a un nuevo dominio, use el parámetro credential . Para especificar una cuenta de usuario que tenga permiso para quitar los equipos de su dominio actual, use el parámetro UnjoinDomainCredential.
+
+Este parámetro se presenta en Windows PowerShell 3.0.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | PSCredential
+
+ | Valor predeterminado:
+
+ | Current user
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+#### Conjuntos de parámetros
+
+ (All) 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -NewName
+
+Especifica un nuevo nombre para el equipo en el nuevo dominio. Este parámetro solo es válido cuando se agrega o mueve un equipo.
+
+Este parámetro se presenta en Windows PowerShell 3.0.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | String
+
+ | Valor predeterminado:
+
+ | None
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+#### Conjuntos de parámetros
+
+ (All) 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | True
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -Options
+
+Especifica opciones avanzadas para la operación de `Add-Computer` combinación. Escriba uno o varios valores en una cadena separada por comas.
+
+Los valores aceptables para este parámetro son:
+
+- 
+
+ cuentaCrear: crea una cuenta de dominio. El cmdlet `Add-Computer` crea automáticamente una cuenta de dominio cuando agrega un equipo a un dominio. Esta opción se incluye por integridad.
+
+- 
+
+ win9XUpgrade: indica que la operación de unión forma parte de una actualización del sistema operativo Windows.
+
+- 
+
+ UnsecuredJoin: realiza una combinación no seguro. Para solicitar una combinación no segura, use el parámetro unsecure o esta opción. Si desea pasar una contraseña de máquina, debe usar esta opción en combinación con `PasswordPass` la opción .
+
+- 
+
+ PasswordPass: establece la contraseña del equipo en el valor del parámetro Credential(DomainCredential) después de realizar una combinación no segura. Esta opción también indica que el valor del parámetro Credential (DomainCredential) es una contraseña de máquina, no una contraseña de usuario. Esta opción solo es válida cuando se especifica la `UnsecuredJoin` opción. Al usar esta opción, la credencial proporcionada al `-Credential` parámetro debe tener un nombre de usuario nulo.
+
+- 
+
+ JoinWithNewName: cambia el nombre del equipo en el nuevo dominio al nombre especificado por el parámetro NewName. Cuando se usa el parámetro NewName, esta opción se establece automáticamente. Esta opción está diseñada para usarse con el cmdlet Rename-Computer. Si usa el cmdlet `Rename-Computer` para cambiar el nombre del equipo, pero no reinicia el equipo para que el cambio sea efectivo, puede usar este parámetro para unir el equipo a un dominio con su nuevo nombre.
+
+- 
+
+ JoinReadOnly: usa una cuenta de máquina existente para unir el equipo a un controlador de dominio de solo lectura. La cuenta de equipo debe agregarse a la lista de permitidos para la directiva de replicación de contraseñas y la contraseña de la cuenta debe replicarse en el controlador de dominio de solo lectura antes de la operación de unión.
+
+- 
+
+ installInvoke: establece las marcas create (0x2) y delete (0x4) del parámetro FJoinOptions del método JoinDomainOrWorkgroup. Para obtener más información sobre el método JoinDomainOrWorkgroup , vea Método JoinDomainOrWorkgroup de la clase Win32_ComputerSystem.
+Para obtener más información sobre estas opciones, consulte Función NetJoinDomain.
+
+Este parámetro se introdujo en Windows PowerShell 3.0.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | JoinOptions
+
+ | Valor predeterminado:
+
+ | None
+
+ | Valores aceptados:
+
+ | AccountCreate, Win9XUpgrade, UnsecuredJoin, PasswordPass, DeferSPNSet, JoinWithNewName, JoinReadOnly, InstallInvoke
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+#### Conjuntos de parámetros
+
+ Domain 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -OUPath
+
+Especifica una unidad organizativa (OU) para la cuenta de dominio. Escriba entre comillas el nombre distintivo de la unidad organizativa. El valor predeterminado es la unidad organizativa predeterminada para los objetos de equipo del dominio.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | String
+
+ | Valor predeterminado:
+
+ | None
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+ | Alias:
+
+ | UNIDAD ORGANIZATIVA
+
+#### Conjuntos de parámetros
+
+ Domain 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -PassThru
+
+Devuelve un objeto que representa el elemento con el que está trabajando. De forma predeterminada, este cmdlet no genera ninguna salida.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | SwitchParameter
+
+ | Valor predeterminado:
+
+ | None
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+#### Conjuntos de parámetros
+
+ (All) 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -Restart
+
+Reinicia los equipos que se agregaron al dominio o al grupo de trabajo. A menudo, se requiere un reinicio para hacer que el cambio sea efectivo.
+
+Este parámetro se presenta en Windows PowerShell 3.0.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | SwitchParameter
+
+ | Valor predeterminado:
+
+ | False
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+#### Conjuntos de parámetros
+
+ (All) 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -Server
+
+Especifica el nombre de un controlador de dominio que agrega el equipo al dominio. Escriba el nombre en formato FQDN. De forma predeterminada, no se especifica ningún controlador de dominio.
+
+A partir de agosto de 2024, la protección de seguridad para la unión a un dominio requiere que use el FQDN del controlador de dominio. Por ejemplo: `DC1.contoso.com`. Para obtener más información, consulte Cambios de protección de la unión a un dominio de NetJoin.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | String
+
+ | Valor predeterminado:
+
+ | None
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+ | Alias:
+
+ | Distrito de Columbia
+
+#### Conjuntos de parámetros
+
+ Domain 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -UnjoinDomainCredential
+
+Especifica una cuenta de usuario que tiene permiso para quitar los equipos de sus dominios actuales. El valor predeterminado es el usuario actual.
+
+Escriba un nombre de usuario, como "User01" o "Domain01\User01", o escriba un objeto de PSCredential, como uno generado por el cmdlet `Get-Credential`. Si escribe un nombre de usuario, se le pedirá una contraseña.
+
+Use este parámetro cuando mueva equipos a otro dominio. Para especificar una cuenta de usuario que tenga permiso para unirse al nuevo dominio, use el parámetro credential . Para especificar una cuenta de usuario que tenga permiso para conectarse a un equipo remoto, use el parámetro localCredential.
+
+Este parámetro se presenta en Windows PowerShell 3.0.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | PSCredential
+
+ | Valor predeterminado:
+
+ | None
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+#### Conjuntos de parámetros
+
+ Domain 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -Unsecure
+
+Realiza una unión no segura al dominio especificado.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | SwitchParameter
+
+ | Valor predeterminado:
+
+ | None
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+#### Conjuntos de parámetros
+
+ Domain 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -WhatIf
+
+Muestra lo que sucedería si el cmdlet se ejecuta.
+El cmdlet no se ejecuta.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | SwitchParameter
+
+ | Valor predeterminado:
+
+ | False
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+ | Alias:
+
+ | Wi
+
+#### Conjuntos de parámetros
+
+ (All) 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -WorkgroupName
+
+Especifica el nombre de un grupo de trabajo al que se agregan los equipos. El valor predeterminado es "WORKGROUP".
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | String
+
+ | Valor predeterminado:
+
+ | None
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+ | Alias:
+
+ | WGN
+
+#### Conjuntos de parámetros
+
+ Workgroup 
+
+ | Posición:
+
+ | 0
+
+ | Mandatory:
+
+ | True
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### CommonParameters
+
+Este cmdlet admite los parámetros comunes: -Debug, -ErrorAction, -ErrorVariable, -InformationAction, -InformationVariable, -OutBuffer, -OutVariable, -PipelineVariable, -ProgressAction, -Verbose, -WarningAction y -WarningVariable. Para obtener más información, vea about_CommonParameters.
+
+## Entradas
+
+### String
+
+Puede canalizar nombres de equipo y nuevos nombres al cmdlet `Add-Computer`.
+
+## Salidas
+
+### ComputerChangeInfo
+
+Cuando se usa el parámetro PassThru, `Add-Computer` devuelve un objeto ComputerChangeInfo.
+De lo contrario, este cmdlet no genera ninguna salida.
+
+## Notas
+
+- En Windows PowerShell 2.0, el parámetro Server de `Add-Computer` produce un error incluso cuando el servidor está presente. En Windows PowerShell 3.0, la implementación del parámetro Server se cambia para que funcione de forma confiable.
+
+## Vínculos relacionados
+
+- Checkpoint-Computer
+
+- Remove-Computer
+
+- Restart-Computer
+
+- Rename-Computer
+
+- Restore-Computer
+
+- Stop-Computer
+
+- Test-Connection (Prueba de conexión)
+
+ Colaborar con nosotros en GitHub
+
+ El origen de este contenido se puede encontrar en GitHub, donde también puede crear y revisar problemas y solicitudes de incorporación de cambios. Para más información, consulte nuestra guía para colaboradores.
+
+ PowerShell
+
+ Abrir incidencia con la documentación
+
+ Proporcionar comentarios sobre el producto
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?

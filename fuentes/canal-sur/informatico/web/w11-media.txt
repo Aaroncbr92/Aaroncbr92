@@ -1,0 +1,55 @@
+URL: https://support.microsoft.com/es-es/windows/deployment/install-upgrade/create-installation-media-for-windows
+Leído: 2026-10-05
+
+# Crear medios de instalación para Windows
+
+ Se aplica a
+Windows 11 Windows 10 
+
+Los medios de instalación, como una unidad flash USB, se pueden usar para instalar una nueva copia de Windows, realizar una instalación limpia de Windows o reinstalar Windows.
+
+Para crear un medio de instalación, ve al sitio web de descarga de software, donde encontrarás instrucciones paso a paso. En ese sitio web, puedes seleccionar una versión de Windows y crear medios de instalación en un flash USB. Como alternativa, se puede crear un archivo ISO para su uso en máquinas virtuales (VM) o para grabar los medios de instalación en un DVD:
+
+- 
+
+ Windows 11
+
+- 
+
+ Windows 10
+
+- Ve al sitio Windows 11 Descárgalo.
+
+- En Crear Windows 11 medios de instalación, selecciona Descargar ahora. Se descarga la herramienta MediaCreationTool.exe .
+
+- Ejecute MediaCreationTool.exe. La herramienta de creación de medios le guiará por la creación de medios de instalación.
+
+Nota
+
+ El soporte técnico para Windows 10 finalizó el 14 de octubre de 2025
+
+- Después del 14 de octubre de 2025, Microsoft ya no proporcionará actualizaciones de software gratuitas desde Windows Update, asistencia técnica ni correcciones de seguridad para Windows 10. El PC seguirá funcionando, pero recomendamos que se cambie a Windows 11.
+
+- 
+ Más información
+
+- Ve al sitio Windows 10 Descárgalo.
+
+- En Crear Windows 10 medios de instalación, selecciona Descargar ahora. Se descarga la herramienta MediaCreationTool.exe . Es posible que la versión del .exe tenga anexada, como MediaCreationTool_22H2.exe. 
+
+- Ejecute MediaCreationTool.exe. La herramienta de creación de medios le guiará por la creación de medios de instalación.
+
+Importante
+
+Antes de instalar o reinstalar Windows en tu PC, haz una copia de seguridad de los archivos. 
+ Obtenga información sobre cómo hacerlo.
+
+Se necesitan los siguientes elementos para crear los medios de instalación:
+
+- Un equipo con una conexión estable a Internet. El tiempo de descarga varía según la conexión a Internet.
+
+- Una unidad flash USB. Una unidad flash USB vacía con al menos 8 GB de espacio. Se recomienda usar una unidad flash USB en blanco porque se elimina cualquier contenido de la unidad. Para las máquinas virtuales, no es necesaria una unidad flash USB. En su lugar, se puede crear una iso para su uso en máquinas virtuales. También se puede usar una iso para crear los medios de instalación en un DVD.
+
+- Una clave de producto. Podría ser necesaria una clave de producto de 25 caracteres (no es necesaria para las licencias digitales). Para obtener ayuda para encontrar la clave de producto, ve a Encontrar la clave de producto de Windows. Muchos dispositivos modernos contienen la clave de producto incrustada en el firmware del dispositivo. Si la clave de producto está incrustada en el firmware del dispositivo, no es necesario escribirla manualmente. En su lugar, si la clave de producto del firmware coincide con la versión y edición de Windows que se está instalando, la clave de producto se aplica automáticamente.
+
+Una vez creado el medio de instalación, se puede restablecer o reinstalar Windows. Para obtener más información, ve a Opciones de recuperación de Windows.

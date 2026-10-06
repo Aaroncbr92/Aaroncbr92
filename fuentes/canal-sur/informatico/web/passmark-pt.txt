@@ -1,0 +1,494 @@
+URL: https://www.passmark.com/products/performancetest/
+Leído: 2026-10-05
+
+
+
+ PassMark PerformanceTest - PC benchmark software
+
+ Software
+
+ BurnInTest
+ PC Reliability and Load Testing
+
+ Learn More
+ Free Trial
+ Buy
+
+ PerformanceTest
+ Easy PC Benchmarking
+
+ Learn More
+ Free Trial
+ Buy
+
+ OSForensics
+ Extract forensic data from a PC
+
+ Learn More
+ Free Trial
+ Buy
+
+ MemTest86
+ Industry standard for memory testing
+
+ Learn More
+ Free Trial
+ Buy
+
+ WirelessMon
+ Monitor WiFi hot spots in real time
+
+ Learn More
+ Free Trial
+ Buy
+
+ Management Console
+ Test Results Database
+
+ Learn More
+ Demo
+ Buy
+
+ All Software Products 
+
+ Hardware
+
+ USB-C 20G Loopback Plugs
+ For testing USB-C ports up to 20Gb/s
+
+ Learn More
+ Buy
+
+ USB3.0 Loopback Plugs
+ For testing USB3.0 ports on PCs
+
+ Learn More
+ Buy
+
+ USB2.0 Loopback Plugs
+ For testing USB2.0 ports on PCs
+
+ Learn More
+ Buy
+
+ USB Power Delivery Tester PRO
+ For testing USB power delivery
+
+ Learn More
+ Buy
+
+ USB Power Delivery Tester
+ For testing USB ports and USB chargers
+
+ Learn More
+ Buy
+
+ PCIe Test Cards
+ For testing PCIe slots
+
+ Learn More
+ Buy
+
+ All Hardware Products 
+
+ Benchmarks
+
+ CPU Benchmarks
+
+ Learn More
+
+ Video Card Benchmarks
+
+ Learn More
+
+ Hard Drive Benchmarks
+
+ Learn More
+
+ RAM Benchmarks
+
+ Learn More
+
+ PC Systems Benchmarks
+
+ Learn More
+
+ Software Marketshare
+
+ Learn More
+
+ Database Benchmarks
+
+ Learn More
+
+ Android Benchmarks
+
+ Learn More
+
+ iOS Benchmarks
+
+ Learn More
+
+ Internet Bandwidth
+
+ Learn More
+
+ Services
+
+ Software Customization
+
+ Independent Benchmarking Labs
+
+ Hardware & Software Market Trends
+
+ Benchmark Reports
+
+ Store
+
+ Purchase
+
+ Products
+ Purchase our software & hardware
+
+ Software
+ Hardware
+
+ Upgrades
+ Purchasing Software Upgrades
+
+ Site Licenses
+ Purchasing Site Licenses
+
+ Support
+ Purchasing and Renewing Support
+
+ Support
+ Support for site licenses
+
+ INFO
+
+ Purchase Orders
+ How to order with a PO
+
+ FAQ
+ Information about ordering & 
+ shipping
+
+ Resellers
+ Local Distributors
+
+ Support
+
+ About Us
+
+ Company
+
+ Contact Us
+
+ The Press Room
+
+ Forums
+
+ Sign In
+
+ FAQ
+
+ What's New
+
+ Pricing
+
+ Download
+
+ Free download
+ Buy now
+
+Easy PC Benchmarking
+
+For Windows, Linux, macOS and, Android and iOS
+
+ Compare the performance of your PC to similar computers around the world.
+
+Measure the effect of configuration changes and hardware upgrades.
+
+Free license for Standard Tests
+
+Paid license for Advanced Tests
+
+Industry standard since 1998.
+
+Standard Test Suites
+
+CPU tests
+
+2D graphics tests
+
+3D graphics tests
+
+Disks tests
+
+Memory tests
+
+ Extensive CPU testing supporting hyper-threading and multiple CPUs.
+ Executes complex mathematical calculations involving compression,
+ encryption and physics simulations.
+
+ This suite tests the ability of your video card to carry out 2D graphics operations for
+ every day applications such as Word Processing, Web browsing and CAD drawing. This includes
+ rendering of simple and complex vectors, Fonts and Text,
+ Windows User Interface components, Image filters, Image Rendering, and Direct 2D.
+
+ Measure the performance of the 3D graphics hardware installed on your computer.
+ Supports DirectX 9 to DirectX 12 in 4K resolution, DirectCompute and OpenCL.
+
+ This suite will exercise the mass storage units (hard disk, solid state drives, optical drives, etc.)
+ connected to your computer.
+ Involves sequential read, sequential write, random seek read+write and IOPS measurements.
+
+ This suite exercises the memory (RAM) sub-system of your computer.
+ This includes database operations, cached and uncached reads, write,
+ latency, and threaded read tests.
+
+Is your PC performing at its best?
+
+Compare your results
+
+PassMark Rating
+
+Create your own tests
+
+ Compare your PC with over a million
+ computers worldwide through our searchable baseline database
+ as submitted by other PerformanceTest users.
+
+ After running the test, PerformanceTest provides you with an overall
+ “PassMark Rating” that has been a standard for quantifying PC performance since 1998.
+
+ Use the Advanced Tests to create your own benchmark scenarios.
+ This allows you to pinpoint and quantify the actual
+ performance differences from your hardware upgrades or configuration changes.
+
+Millions of computers compared
+
+ PassMark has collected the baselines benchmarks of over a
+ million computers and made them available in our network of industry
+ recognized benchmark sites such as
+ pcbenchmarks.net,
+ cpubenchmark.net,
+ videocardbenchmark.net,
+ harddrivebenchmark.net and more.
+
+ Using PerformanceTest, you can search and download these baselines, and submit your own benchmark to our site.
+
+Run from USB
+
+ You can run PerformanceTest directly from a USB drive.
+ No network connection required. Perfect for IT admins, technicians and computer enthusiasts on the go.
+
+No Nonsense Licensing
+
+ Flexible, no nonsense licensing. Once purchased, you can move the software between computers as required. 
+
+ PerformanceTests’ standard features are free, no license required 
+
+ Advanced tests continue to be available for free during the trial period and beyond that with a license purchase 
+
+ Technical support available with license purchase 
+
+ No hardware locking. 
+
+ No online activation process. 
+
+ No time based expiry. 
+
+ No annual fees. 
+
+ Multi-user and site licenses also available. 
+
+ See here for more licensing information. 
+
+Advanced Testing
+
+ Seven advanced configurable tests allow experienced users to create their own test scenarios and conduct in-depth analysis of their hardware’s behavior.
+
+Disk
+
+CPU
+
+3D graphics
+
+Networking
+
+Memory
+
+Visualized Physics
+
+GPU Compute
+
+ Test the speed of your disk using different file sizes,
+ block sizes and caching options. Test with multiple threads and measure IOPS. 
+
+ Read more
+
+ Test the cabaility of your CPU by running our advanced individual CPU tests on a specified number of threads.
+ Read more
+
+ Test the speed of your 3D video card by selecting from options such as fogging,
+ lighting, alpha blending, wire frame, texturing, resolution, color depth, object
+ rotation and object displacement.
+
+ Separate tests for DirectX 9,10,11 & 12. Supports 4K resolution.
+ Read more
+
+ Measure the network speed between any two computers using TCP/IP.
+ The network speed test can be conducted across a company LAN or across the
+ Internet to determine the point to point throughput.
+
+ Adjust parameters such as the host name,
+ IP address, port number and block size. Works with dialup modems, ADSL, cable and LANs.
+ Read more
+
+ Measure the read and write speed of your RAM. Parameters include data size
+ (8 bits to 64 bits) and a selection of two test modes. Linear sequential
+ access across various block sizes or non sequential access with a varying step size.
+
+ This allows both the effect of RAM
+ caching and the optimizations in the memory controller to be investigated.
+ Read more
+
+ View a visual representation of what the standard CPU Physics test is doing.
+ You can also tweak the simulation parameters to get different effects.
+ Read more
+
+ Test your Videocard's compute performance with a series of tests. Both DirectCompute and OpenCL.
+ Read more
+
+Multi-Platform Support
+
+ Versions of Performance Test are avilable for FREE on Linux, Mac, Android, and iOS.
+
+ All CPU Tests have been designed to be fully comparable across all operating systems and CPU architectures.
+
+Linux
+
+Mac
+
+Mobile
+
+ PerformanceTest Linux
+
+ Available for both x86 and ARM Linux systems.
+
+ Our full suite of CPU, and Memory Tests in a convenient command line tool.
+
+ PerformanceTest Mac
+
+ Both a Mac App and command line tool are available. 
+
+ Support for Intel and Apple Silicon Mac Computers.
+
+ PerformanceTest Mobile
+
+ Our entire Suite of tests; CPU, Memory, Disk, Graphics.
+
+ Available on iOS and Android devices.
+
+Understanding your PerformanceTest Results
+
+ In this video, we will look at understanding our PerformanceTest results through the various charts available in PerformanceTest.
+
+ Right-click to download in MP4 format. 49MB
+
+Standard Tests
+
+are now free with no limitations
+
+Advanced Tests
+
+ are available during the trial period and beyond that with a license
+
+ Software
+
+ BurnInTest
+
+ PerformanceTest
+
+ OSForensics
+
+ MemTest86
+
+ WirelessMon
+
+ Management Console
+
+ Zoom Search Engine
+
+ Free Software
+
+ Hardware
+
+ USB3.0 Loopback Plugs 
+
+ USB2.0 Loopback Plugs
+
+ PCIe Test Cards
+
+ USB Power Delivery Tester
+
+ Serial and Parallel Loopback Plugs
+
+ USB Short Circuit Testers
+
+ Benchmarks
+
+ CPU Benchmarks
+
+ Video Card Benchmarks
+
+ Hard Drive Benchmarks
+
+ RAM Benchmarks
+
+ PC Systems Benchmarks
+
+ Software Marketshare
+
+ Database Benchmarks
+
+ Android Benchmarks
+
+ iOS Benchmarks
+
+ Internet Bandwidth
+
+ About Us
+
+ Company
+
+ Contact Us
+
+ The Press Room
+
+ Services
+
+ Store
+
+ Support
+
+ Forums
+
+ Compliance
+
+ International
+
+ Disclaimer
+
+ Refunds
+
+ Privacy
+
+ Social
+
+Copyright © 2026 PassMark® Software
+
+ X
+

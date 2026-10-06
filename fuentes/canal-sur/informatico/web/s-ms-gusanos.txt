@@ -1,0 +1,77 @@
+URL: https://learn.microsoft.com/es-es/defender-endpoint/malware/worms-malware
+Leído: 2026-10-05
+
+Gusanos - Microsoft Defender for Endpoint | Microsoft Learn
+Ir al contenido principal
+Omisión de la experiencia de chat de Ask Learn
+Este explorador ya no se admite.
+Actualice a Microsoft Edge para aprovechar las características y actualizaciones de seguridad más recientes, y disponer de soporte técnico.
+Descargar Microsoft Edge
+Más información sobre Internet Explorer y Microsoft Edge
+Tabla de contenido
+Salir del modo de editor
+Preguntar a Learn
+Preguntar a Learn
+Modo de lectura
+Tabla de contenido
+Leer en inglés
+Agregar
+Añadir a Planes
+Copiar Markdown
+Imprimir
+Nota:
+El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+Gusanos
+Comentarios
+En este artículo
+Un gusano es un tipo de malware que puede copiarse a sí mismo y, a menudo, se propaga a través de una red aprovechando las vulnerabilidades de seguridad. Puede propagarse a través de datos adjuntos de correo electrónico, mensajes de texto, programas de uso compartido de archivos, sitios de redes sociales, recursos compartidos de red, unidades extraíbles y vulnerabilidades de software.
+Funcionamiento de los gusanos
+Los gusanos representan una gran categoría de malware. Los gusanos diferentes usan métodos diferentes para infectar dispositivos. Dependiendo de la variante, pueden robar información confidencial, cambiar la configuración de seguridad, enviar información a hackers malintencionados, impedir que los usuarios accedan a archivos y otras actividades malintencionadas.
+Jenxcus (también conocido como Dunihi), Gamarue (también conocido como Androm) y Bondat han permanecido constantemente en la parte superior de la lista de malware que infecta a los usuarios que ejecutan software de Microsoft. Aunque estos gusanos comparten algunas características comunes, es interesante tener en cuenta que también tienen características distintas.
+Jenxcus tiene capacidades de no solo infectar unidades extraíbles, sino que también puede actuar como una puerta trasera que se conecta de nuevo a su servidor. Esta amenaza suele entrar en un dispositivo desde un ataque de descarga de unidad por unidad, lo que significa que se instala cuando los usuarios simplemente visitan una página web en peligro.
+Gamarue suele llegar a través de campañas de spam, vulnerabilidades de seguridad, descargadores, sitios de redes sociales y unidades extraíbles. Cuando Gamarue infecta un dispositivo, se convierte en un canal de distribución para otro malware. Hemos visto que distribuye otro malware, como los ladrones de información, los spammers, los clickers, los descargadores y los pícaros.
+Bondat suele llegar a través de nullsoft Scriptable Install System (NSIS), instaladores de Java y unidades extraíbles ficticias. Cuando Bondat infecta un sistema, recopila información sobre la máquina, como el nombre del dispositivo, el identificador único global (GUID) y la compilación del sistema operativo. A continuación, envía esa información a un servidor remoto.
+Tanto Bondat como Gamarue tienen formas inteligentes de ocultarse para eludir la detección. Al ocultar lo que están haciendo, intentan evitar la detección por parte del software de seguridad.
+WannaCrypt también merece una mención aquí. A diferencia de los gusanos más antiguos que a menudo se propagan solo porque podían, los gusanos modernos a menudo se propagan para soltar una carga útil (como ransomware).
+Esta imagen muestra cómo un gusano puede propagarse rápidamente a través de una unidad USB compartida.
+Figura de la propagación de gusanos desde una unidad USB compartida
+Protección contra gusanos
+Habilite Microsoft Defender Antivirus en Windows 10. Proporciona protección en tiempo real contra amenazas y detecta y elimina software no deseado conocido.
+En caso de que la eliminación de amenazas no sea correcta, lea sobre la solución de problemas de detección y eliminación de malware.
+Para obtener sugerencias más generales, consulte prevención de la infección por malware.
+Comentarios
+¿Le ha resultado útil esta página?
+Sí
+No
+No
+¿Necesita ayuda con este tema?
+¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+Preguntar a Learn
+Preguntar a Learn
+¿Sugerir una corrección?
+Recursos adicionales
+Last updated on
+2024-10-30
+En este artículo
+¿Le ha resultado útil esta página?
+¿Necesita ayuda con este tema?
+¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+Preguntar a Learn
+Preguntar a Learn
+¿Sugerir una corrección?
+es-es
+Sus opciones de privacidad
+Tema
+Claro
+Oscuro
+Contraste alto
+Declinación de responsabilidades de IA
+Versiones anteriores
+Blog
+Contribuir
+Privacidad
+Privacidad de estado del consumidor
+Términos de uso
+Marcas comerciales
+© Microsoft 2026

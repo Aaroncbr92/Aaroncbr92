@@ -1,0 +1,510 @@
+URL: https://support.microsoft.com/es-es/windows/experience/backup-recovery/windows-file-recovery
+Leído: 2026-10-05
+
+
+# Recuperación de archivos de Windows
+
+ Se aplica a
+Windows 11 Windows 10 
+
+Nota
+
+ El soporte técnico para Windows 10 finalizó el 14 de octubre de 2025
+
+- Después del 14 de octubre de 2025, Microsoft ya no proporcionará actualizaciones de software gratuitas desde Windows Update, asistencia técnica ni correcciones de seguridad para Windows 10. El PC seguirá funcionando, pero recomendamos que se cambie a Windows 11.
+
+- 
+ Más información
+
+Si no puedes encontrar un archivo perdido en la copia de seguridad, puedes usar Windows File Recovery, que es una aplicación de línea de comandos disponible en Microsoft Store. Usa esta aplicación para intentar recuperar los archivos perdidos que se han eliminado del dispositivo de almacenamiento local (incluidas las unidades internas, unidades externas y dispositivos USB) y no se puede restaurar desde la Papelera de reciclaje. No se admite la recuperación en recursos compartidos de archivos y almacenamiento en la nube.
+
+Importante
+
+Si quieres aumentar las posibilidades de recuperar un archivo, minimiza o evita usar el equipo. En el sistema de archivos de Windows, el espacio usado por un archivo eliminado se marca como espacio libre, lo que significa que los datos del archivo aún pueden existir y recuperarse. Sin embargo, cualquier uso de su equipo puede crear archivos, lo que puede sobrescribir este espacio libre en cualquier momento.
+
+## Pasos básicos
+
+- 
+Si es necesario, instala la aplicación desde Microsoft Store:
+
+ Recuperación de archivos de Windows
+
+- 
+Presiona la tecla Windows, escribe Windows File Recovery en el cuadro de búsqueda y, a continuación, selecciona Windows File Recovery.
+
+- 
+Cuando se te pida que permitas que la aplicación realice cambios en el dispositivo, selecciona Sí.
+
+- 
+En la ventana Símbolo del sistema , escriba el comando con el siguiente formato:
+
+winfr source-drive: destination-drive: [/mode] [/switches]
+
+- 
+Hay 2 modos básicos que puede utilizar para recuperar archivos: Regular y Extenso.
+
+ Ejemplos de modo normal
+
+Recupera la carpeta Documentos desde la unidad C: a la carpeta de recuperación en una unidad E:. No olvide la barra diagonal inversa (\) al final de la carpeta.
+
+Winfr C: E: /regular /n \Users\<username>\Documents\ 
+
+Recupera archivos PDF y Word desde la unidad C: a la carpeta de recuperación en una unidad E:.
+
+Winfr C: E: /regular /n *.pdf /n *.docx 
+
+ Ejemplos de modo extensivo
+
+Recupere cualquier archivo con la cadena "factura" en el nombre de archivo usando caracteres comodín.
+
+Winfr E: C: /extensive /n *invoice* 
+
+Recupera fotos jpeg y png desde la carpeta Imágenes a la carpeta de recuperación en una unidad E:.
+
+Winfr C: E: /extensive /n \Users\<username>\Pictures\*.JPEG /n\Users\<username>\Pictures\*.PNG 
+
+Las unidades de origen y destino deben ser diferentes. Al recuperar desde la unidad del sistema operativo (a menudo C: ), usa los /n <filter> modificadores para especificar los archivos de usuario o la carpeta.
+
+Microsoft crea automáticamente una carpeta de recuperación para la que has llamado, Recovery_<date and time> en la unidad de destino.
+
+- 
+Cuando se le pida confirmación para continuar, escriba Y para iniciar la operación de recuperación. Dependiendo del tamaño de la unidad de origen, esto puede tardar un rato. Para detener el proceso de recuperación, presione Ctrl + C.
+
+## Acerca de los modos y sistemas de archivos
+
+La siguiente información puede ayudarle a decidir qué sistema de archivos tiene y qué modo usar.
+
+ Sistemas de archivos
+
+ | 
+ Sistema de archivos
+ | 
+ Ejemplos
+
+ | FAT y exFAT
+ | Tarjetas SD, flash o unidades USB (< 4 GB)
+
+ | NTFS
+ | Equipos (HDD, SSD), discos duros externos, unidades flash o USB (> 4 GB)
+
+Hay varios sistemas de archivos compatibles con Windows que varían según el dispositivo de almacenamiento o el sistema operativo. La recuperación de archivos desde sistemas de archivos que no sean NTFS solo es compatible con el modo extensivo. Para ver qué sistema de archivos tienes, haz clic con el botón derecho en una unidad en Explorador de archivos y selecciona Propiedades.
+
+ Decidir qué modo usar
+
+Use la tabla siguiente para ayudarle a decidir qué modo usar. Si no está seguro, empiece con el modo Normal.
+
+ | distribuidos
+ | Circunstancias
+ | Modo recomendado
+
+ | NTFS
+ | Eliminado recientemente
+ | Regular
+
+ | NTFS
+ | Eliminado hace un tiempo
+ | Amplia
+
+ | NTFS
+ | Después de dar formato a un disco
+ | Amplia
+
+ | NTFS
+ | Un disco dañado
+ | Amplia
+
+ | FAT y exFAT
+ | Cualquiera
+ | Amplia
+
+## Sintaxis de la línea de comandos
+
+ Sintaxis general
+
+En la tabla siguiente se resume para qué se usa cada modificador avanzado.
+
+ | 
+ Parámetro /modificador
+ | 
+ Descripción
+ | 
+ Modo(s) compatible
+
+ | Source-drive:
+ | Especifica el dispositivo de almacenamiento donde se perdieron los archivos. Debe ser diferente de la unidad de destino.
+ | Todo
+
+ | Destination-drive:
+ | Especifica el dispositivo de almacenamiento y la carpeta en la que colocar los archivos recuperados. Debe ser diferente de la unidad de origen.
+ | Todo
+
+ | /regular
+ | Modo normal, la opción de recuperación estándar para unidades NTFS no dañadas
+ | Regular
+
+ | /extensive
+ | Modo extensivo, una opción de recuperación exhaustiva adecuada para todos los sistemas de archivos
+ | Amplia
+
+ | /n<filter>
+ | Busca un archivo específico con un nombre de archivo, una ruta de acceso de archivo, un tipo de archivo o caracteres comodín. Por ejemplo:
+
+- File name: /n myfile.docx
+- File path: /n /users/<username>/Documents/
+- Wildcard: /n myfile.*
+- /n *.docx
+- /n *<string>*
+ | Todo
+
+ | /?
+ | Resumen de sintaxis y modificadores para usuarios generales.
+ | Todo
+
+ | /!
+ | Resumen de sintaxis y modificadores para usuarios avanzados.
+ | Todo
+
+ Sintaxis avanzada
+
+En la tabla siguiente se resume para qué se usa cada modificador avanzado.
+
+ | 
+ Modificador
+ | 
+ Descripción
+ | 
+ Modos compatibles
+
+ | /ntfs
+ | Modo NTFS, una opción de recuperación rápida para unidades NTFS en buen estado con la tabla de archivos maestra
+ | NTFS
+
+ | /segment
+ | Modo de segmento, opción de recuperación para unidades NTFS usando segmentos de registros de archivo
+ | Segmento
+
+ | /signature
+ | Modo de firma, opción de recuperación para todos los tipos de sistema de archivos con encabezados de archivo
+ | Firma
+
+ | /y:<type(s)>
+ | Recuperar grupos de extensión específicos separados por comas
+ | Firma
+
+ | /#
+ | Grupos de extensiones de modo de firma y tipos de archivo admitidos.
+ | Firma
+
+ | /p:<folder>
+ | Guarda un archivo de registro de la operación de recuperación en una ubicación diferente a la ubicación predeterminada de la unidad de recuperación (por ejemplo, D:\logfile).
+ | Todo
+
+ | /a
+ | Reemplaza las solicitudes de usuario, que son útiles en un archivo de script.
+ | Todo
+
+ | /u
+ | Recupera archivos no eliminados, por ejemplo, de la Papelera de reciclaje.
+ | NTFS
+ Segmento
+
+ | /k
+ | Recupera archivos del sistema.
+ | NTFS
+ Segmento
+
+ | /o:<a\|n\|b>
+ | Especifica si desea siempre (a), nunca (n) o conservar ambos siempre(b) al elegir si desea sobrescribir un archivo. La acción predeterminada es solicitar que se sobrescriba.
+ | NTFS
+ Segmento
+
+ | /g
+ | Recupera archivos sin secuencias de datos principales.
+ | NTFS
+ Segmento
+
+ | /e
+ | Para mantener los resultados manejables y centrarse en los archivos de usuario, algunos tipos de archivo se filtran de forma predeterminada, pero este modificador quita ese filtro. Para obtener una lista completa de estos tipos de archivo, vea la información después de esta tabla.
+ | NTFS
+ Segmento
+
+ | /e:<extension>
+ | Especifica qué tipos de archivo se filtran. Para obtener una lista completa de estos tipos de archivo, vea la información después de esta tabla.
+ | NTFS
+ Segmento
+
+ | /s:<sectors>
+ | Especifica el número de sectores en el dispositivo de origen. Para buscar información del sector, use fsutil.
+ | Segmento
+ Firma
+
+ | /b:<bytes>
+ | Especifica el tamaño del clúster (unidad de asignación) en el dispositivo de origen.
+ | Segmento
+ Firma
+
+ Lista de filtros de extensión de archivo
+
+Los siguientes tipos de archivo se filtran de los resultados de forma predeterminada. Use el /e modificador para deshabilitar este filtro o el /e:<extension> filtro para especificar los tipos de archivo que no se deben filtrar.
+
+_, adm, admx, appx, appx, ascx, asm, aspx, aux, ax, bin, browser, c, cab, cat cdf-ms, catalogItem, cdxm, cmake, cmd, coffee, config, cp, cpp, cs, cshtm, css, cur, dat, dll, et, evtx, exe, fon, gpd, h, hbakedcurve, htm, htm, ico, id, ildl, ilpdb, iltoc, iltocpdb, in, inf, inf_loc, ini, js, json, lib, lnk, log, man, manifest, map, metadata, mf, mof, msc, msi, mui, mui, mum, mun, nls, npmignore, nupkg, nuspec, obj, p7s, p7x, pak, pckdep, pdb, pf, pkgdef, plist, pnf, pp, pri, props, ps1, ps1xm, psd1, psm1, py, resjson, resw, resx, rl, rs, sha512, snippet, sq, sys, t4, targets, th, tlb, tmSnippet, toc, ts, tt, ttf, vb, vbhtm, vbs, vsdir, vsix, vsixlangpack, vsixmanifest, vstdir, vstemplate, vstman, winmd, xam, xbf, xm, xrm-ms, xs, xsd, ym
+
+## Preguntas frecuentes
+
+ ¿Puede dar algunos consejos para ayudarme a usar la sintaxis correcta?
+
+- Use siempre letras de unidad en la ruta de origen y destino, no olvide los dos puntos (:) después de la letra de unidad y asegúrese de que hay un espacio entre el origen y el destino.
+
+- Cuando especifique solo un nombre de carpeta, como /n \Myfolder\, agregue una barra diagonal inversa (\) al final de la misma.
+
+- Si el nombre de un archivo o carpeta tiene espacios, indíquelo entre comillas. Por ejemplo:
+
+winfr C: E: /regular /n "\Users\<username>\Documents\Quarterly Statement.docx" 
+
+ <¿Qué significa nombre de usuario> en los ejemplos de comandos?
+
+En la barra de direcciones Explorador de archivos, escriba C:\usuarios para ver una lista de posibles usuarios en el equipo. Puede haber varios usuarios en el equipo, incluidos usted, el administrador y la cuenta predeterminada. Cuando ve <el nombre de usuario> en una ruta de acceso de archivo, es un marcador de posición para el nombre de usuario actual en el equipo.
+
+ ¿Por qué recibo este mensaje: "El origen y el destino no pueden hacer referencia a la misma partición física?"
+
+La ruta de origen y destino de la unidad o partición no debe ser la misma. Si solo tienes una unidad, usa una unidad de disco duro USB o externa como ruta de destino. No crees una partición después de perder datos, ya que esto reduce la posibilidad de una recuperación correcta.
+
+ ¿Por qué tarda tanto la operación de recuperación?
+
+Dependiendo del tamaño del disco, puede tardar algún tiempo en recuperar el archivo, especialmente si está utilizando el modo extenso.
+
+ ¿Por qué se recuperan archivos adicionales de la unidad del sistema operativo?
+
+En segundo plano, Windows crea y elimina constantemente archivos. De forma predeterminada, Windows File Recovery filtra estos archivos, pero algunos se deslizan. Para evitar esto, use el filtro> /n <como se muestra en los ejemplos de este artículo.
+
+ ¿Cuál es la carpeta $Recycle.Bin?
+
+Para los modos NTFS y de segmento, también puedes ver archivos perdidos recuperados de la Papelera de reciclaje (archivos en la Papelera de reciclaje o que se eliminaron permanentemente) con el nombre $files.xxx y almacenados en una carpeta denominada $RECYCLE. BIN.
+
+ ¿Qué sucede si la unidad de destino está llena?
+
+Si ves el siguiente mensaje: "El disco de destino está lleno, libera espacio antes de reanudar: (R)esume, (S)kip file, o (A)bort", libera espacio en la unidad de disco de destino y, a continuación, elige una de las opciones.
+
+ No pude recuperar el archivo, ¿y ahora qué?
+
+Si ha usado el modo Regular, inténtelo de nuevo en modo extenso si el tipo de archivo es compatible. Es posible que el espacio libre se sobrescriba, especialmente en una unidad de estado sólido (SSD). Si necesita ayuda, póngase en contacto con el administrador.
+
+## ¿Te resultó útil esta información?
+
+ Sí
+ No
+
+ Thank you! Any more feedback for Microsoft?
+
+ Can you help us improve? (Send feedback to Microsoft so we can help.)
+
+ How satisfied are you with the translation quality?
+
+ What affected your experience?
+
+ Resolved my issue
+
+ Clear instructions
+
+ Easy to follow
+
+ No jargon
+
+ Pictures helped
+
+ Translation quality
+
+ Didn't match my screen
+
+ Incorrect instructions
+
+ Too technical
+
+ Not enough information
+
+ Not enough pictures
+
+ Translation quality
+
+ Any additional feedback? (Optional)
+
+ Submit feedback
+
+ By pressing submit, your feedback will be used to improve Microsoft products and services.
+ Your IT admin will be able to collect this data.
+ Privacy Statement.
+
+## ¡Gracias por sus comentarios!
+
+ ×
+
+Novedades
+
+- 
+ Surface Pro
+
+- 
+ Surface Laptop
+
+- 
+ Explorar Copilot
+
+- 
+ Microsoft 365
+
+- 
+ Explora los productos de Microsoft
+
+- 
+ Aplicaciones de Windows 11
+
+Microsoft Store
+
+- 
+ Perfil de la cuenta
+
+- 
+ Centro de descarga
+
+- 
+ Soporte de Microsoft Store
+
+- 
+ Devoluciones
+
+- 
+ Seguimiento de pedidos
+
+- 
+ Reciclar 
+
+- 
+ Garantías comerciales
+
+Educación
+
+- 
+ Microsoft Educación
+
+- 
+ Dispositivos para educación
+
+- 
+ Microsoft Teams para Educación
+
+- 
+ Microsoft 365 Educación
+
+- 
+ Office Educación
+
+- 
+ Formación y desarrollo de educadores
+
+- 
+ Ofertas para estudiantes y padres
+
+- 
+ Azure para estudiantes
+
+Empresas
+
+- 
+ Microsoft AI
+
+- 
+ Seguridad de Microsoft
+
+- 
+ Azure
+
+- 
+ Dynamics 365
+
+- 
+ Microsoft 365
+
+- 
+ Microsoft Copilot
+
+- 
+ Microsoft Teams
+
+- 
+ Pequeñas empresas
+
+Desarrolladores y TI
+
+- 
+ Desarrollador de Microsoft
+
+- 
+ Microsoft Learn
+
+- 
+ Soporte técnico para aplicaciones del marketplace de IA
+
+- 
+ Microsoft Tech Community
+
+- 
+ Microsoft Marketplace
+
+- 
+ Microsoft Power Platform
+
+- 
+ Empresas de software
+
+- 
+ Visual Studio
+
+Compañía
+
+- 
+ Oportunidades de empleo
+
+- 
+ Acerca de Microsoft
+
+- 
+ Noticias de la compañía
+
+- 
+ Privacidad en Microsoft
+
+- 
+ Inversores
+
+ Español (España, alfabetización internacional)
+
+ Icono de exclusión de opciones de privacidad
+
+ Tus opciones de privacidad
+
+ Privacidad de la salud del consumidor
+
+- 
+ Ponte en contacto con Microsoft
+
+- 
+ Privacidad
+
+- 
+ Gestionar cookies
+
+- 
+ Condiciones de uso 
+
+- 
+ Marcas registradas
+
+- 
+ Sobre nuestra publicidad
+
+- 
+ Docs de cumplimiento de la UE
+
+- © Microsoft 2026
+
+

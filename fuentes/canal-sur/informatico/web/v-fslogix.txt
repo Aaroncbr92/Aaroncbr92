@@ -1,0 +1,93 @@
+URL: https://learn.microsoft.com/es-es/fslogix/overview-what-is-fslogix
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# ¿Qué es FSLogix?
+
+## 
+
+Importante
+
+Un próximo cambio en Windows, incluido en la actualización de abril de 2026 de Windows Server, el tipo de cifrado Kerberos predeterminado cambia de RC4 a AES-SHA1.
+
+Los recursos compartidos de archivos que hospedan contenedores de FSLogix que no se actualizan a AES-SHA1 podrían tener problemas de acceso después de aplicar este cambio. Para evitar interrupciones, complete la actualización a AES-SHA1 antes de instalar la actualización.
+
+Los clientes que ya se han actualizado a AES-SHA1 no se ven afectados.
+
+Para obtener más información, consulte el blog de FSLogix: Acción requerida: El refuerzo de Windows Kerberos (RC4) puede afectar a los perfiles de FSLogix en el almacenamiento SMB.
+
+FSLogix mejora y permite una experiencia coherente para los perfiles de usuario de Windows en entornos informáticos de escritorios virtuales. FSLogix no se limita a entornos de escritorio virtual, sino que puede usarse en escritorios físicos en los que se desee una experiencia de usuario más portátil.
+
+Estas son algunas de las cosas que proporciona FSLogix:
+
+- Transferencia de datos de usuario entre hosts de sesiones informáticas remotas.
+
+- Minimización de los tiempos de inicio de sesión de los entornos de escritorio virtual.
+
+- Optimizar la E/S de archivos entre el host o cliente y el almacenamiento remoto de perfiles.
+
+- Proporcionar una experiencia de perfil local, eliminando la necesidad de perfiles móviles.
+
+- Simplificación de la administración de aplicaciones e "imágenes doradas".
+
+FSLogix proporciona a los clientes facilidad de configuración y diversos niveles de flexibilidad. Esto puede dar lugar a opciones de configuración ilimitadas que pueden tener consecuencias no deseadas. FSLogix puede ser una solución compleja con diversas dependencias de otros sistemas e infraestructuras. Se recomienda interactuar con recursos que tengan el siguiente conjunto de aptitudes o que tengan estas aptitudes inherentemente:
+
+- Identidad y autenticación
+
+- Diseño y arquitectura de almacenamiento
+
+- Active Directory, Azure Active Directory o Azure Active Directory Domain Services
+
+- Implementación de Windows (servidor o escritorio)
+
+- Compatibilidad de aplicaciones
+
+Nota:
+
+FSLogix proporciona una integración y unas ventajas únicas cuando se usa en un entorno de Azure Virtual Desktop.
+
+## Principales capacidades
+
+- Redireccionamiento de los perfiles de usuario a un proveedor de almacenamiento . El montaje y el uso del perfil de un proveedor de almacenamiento elimina los retrasos asociados a menudo con soluciones que copian perfiles hacia y desde una ubicación de red.
+
+- Redirigir solo la parte del perfil que contiene datos de Office1 mediante un contenedor de ODFC. El contenedor de ODFC permite que una organización ya use una soluciónde perfil alternativa 2 para habilitar aplicaciones de Microsoft 365 en entornos de escritorio de varias sesiones.
+
+- Las aplicaciones usan el perfil del usuario como si estuviera en el disco local. FSLogix usa un controlador de filtro para virtualizar y redirigir el perfil a nivel de sistema de archivos. Las aplicaciones no saben que el perfil está en la red. Ocultar el redireccionamiento es importante porque muchas aplicaciones no pueden funcionar correctamente con un perfil almacenado de forma remota.
+
+- Contenedores de Perfil usados con Caché en la nube para proporcionar soluciones de perfiles de alta disponibilidad y recuperación ante desastres.
+
+- Los conjuntos de reglas de aplicación administran el acceso a una aplicación, fuente, impresora u otros elementos. El acceso se puede controlar mediante usuarios, grupos, direcciones IP y otros criterios. Los conjuntos de reglas de aplicación reducen significativamente la complejidad de administrar grandes cantidades de imágenes doradas.
+
+ 1 Los datos de Office incluyen, pero no se limita a las aplicaciones de Microsoft 365, OneDrive, Teams, SharePoint y OneNote.
+2 En la mayoría de las circunstancias, los contenedores de ODFC no se usan simultáneamente con contenedores de perfil.
+
+## Pasos siguientes
+
+ Requisitos previos de FSLogix
+
+ Notas de la versión de FSLogix
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-03-30

@@ -1,0 +1,183 @@
+URL: https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/vssadmin
+Leído: 2026-10-05
+
+ 
+
+ vssadmin | Microsoft Learn
+
+ Skip to main content
+
+ Skip to Ask Learn chat experience
+
+This browser is no longer supported.
+
+ Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+
+ Download Microsoft Edge
+
+ More info about Internet Explorer and Microsoft Edge
+
+ Table of contents 
+
+ Exit editor mode
+
+ Ask Learn
+
+ Ask Learn
+
+ Reading mode
+
+ Table of contents
+
+ Read in English
+
+ Add
+
+ Add to Plans
+
+ Edit
+
+ Copy Markdown
+
+ Print
+
+ Note
+
+ Access to this page requires authorization. You can try signing in or changing directories.
+
+ Access to this page requires authorization. You can try changing directories.
+
+vssadmin
+
+Applies to: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+ Feedback
+
+ Summarize this article for me
+
+ In this article
+
+Shows current volume shadow copy backups and all installed shadow copy writers and providers. The following table lists the available vssadmin commands. Select a command name to view its syntax.
+
+ | Command
+
+ | Description
+
+ | Availability
+
+ | vssadmin delete shadows
+
+ | Deletes volume shadow copies.
+
+ | Client and Server
+
+ | vssadmin list providers
+
+ | Lists registered volume shadow copy providers.
+
+ | Client and Server
+
+ | vssadmin list shadows
+
+ | Lists existing volume shadow copies.
+
+ | Client and Server
+
+ | vssadmin list shadowstorage
+
+ | Lists volume shadow copy storage associations.
+
+ | Client and Server
+
+ | vssadmin list volumes
+
+ | Lists volumes eligible for shadow copies.
+
+ | Client and Server
+
+ | vssadmin list writers
+
+ | Lists all subscribed volume shadow copy writers on the system.
+
+ | Client and Server
+
+ | vssadmin resize shadowstorage
+
+ | Resizes the maximum size for a shadow copy storage association.
+
+ | Client and Server
+
+Related links
+
+Command-Line Syntax Key
+
+Feedback
+
+ Was this page helpful?
+
+ Yes
+
+ No
+
+ No
+
+ Need help with this topic?
+
+ Want to try using Ask Learn to clarify or guide you through this topic?
+
+ Ask Learn
+
+ Ask Learn
+
+ Suggest a fix? 
+
+ Additional resources
+
+ Last updated on 
+ 2026-09-08
+
+In this article
+
+ Was this page helpful?
+
+ Need help with this topic?
+
+ Want to try using Ask Learn to clarify or guide you through this topic?
+
+ Ask Learn
+
+ Ask Learn
+
+ Suggest a fix? 
+
+ en-us
+
+ Your Privacy Choices
+
+ Theme
+
+ Light 
+
+ Dark 
+
+ High contrast 
+
+ AI Disclaimer
+
+ Previous Versions
+
+ Blog
+
+ Contribute
+
+ Privacy
+
+ Consumer Health Privacy
+
+ Terms of Use
+
+ Trademarks
+
+© Microsoft 2026
+
+ 

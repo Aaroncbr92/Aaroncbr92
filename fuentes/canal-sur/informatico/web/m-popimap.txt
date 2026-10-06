@@ -1,0 +1,125 @@
+URL: https://learn.microsoft.com/es-es/exchange/clients-and-mobile-in-exchange-online/pop3-and-imap4/pop3-and-imap4
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# POP3 e IMAP4 en Exchange Online
+
+## 
+
+De forma predeterminada, POP3 e IMAP4 están habilitados para todos los usuarios en Exchange Online.
+
+- 
+Para habilitar o deshabilitar POP3 e IMAP4 para usuarios individuales, consulte Habilitar o deshabilitar el acceso POP3 o IMAP4 para un usuario.
+
+- 
+Para personalizar la configuración de POP3 e IMAP4 de un usuario, vea Establecer la configuración de POP3 o IMAP4 para un usuario.
+
+Nota:
+
+Si ha habilitado los valores predeterminados de seguridad en su organización, POP3 e IMAP4 se deshabilitan automáticamente en Exchange Online. Para obtener más información, vea Valores predeterminados de seguridad en Microsoft Entra ID.
+
+Para proteger el inquilino de Exchange Online frente a ataques por fuerza bruta o de difusión de contraseñas, la organización deberá deshabilitar la autenticación básica en Exchange Online y solo usar la autenticación moderna para Outlook en Exchange Online. Deshabilitar la autenticación básica bloqueará los protocolos heredados, como POP e IMAP.
+
+Los usuarios pueden usar cualquier programa de correo electrónico que admita POP3 e IMAP4 para conectarse a Exchange Online (por ejemplo, Outlook, Windows Mail y Mozilla Thunderbird). Las características admitidas son diferentes en cada programa de cliente de correo electrónico. Para más información sobre las características que ofrecen determinados programas de cliente POP3 e IMAP4, vea la documentación que se suministra con cada aplicación.
+
+POP3 e IMAP4 proporcionan acceso a las características básicas de correo electrónico de Exchange Online y permiten el acceso al correo electrónico sin conexión, pero no ofrecen correo electrónico enriquecido, calendario y administración de contactos, ni otras características que estén disponibles cuando los usuarios se conecten a Outlook, Exchange ActiveSync, Outlook en la Web (anteriormente conocido como Outlook Web App) o Outlook Voice Access.
+
+Nota:
+
+Cada vez que una persona accede a un programa de correo electrónico basado en POP o IMAP para abrir su correo electrónico de Microsoft 365 o Office 365, ese usuario experimentará un retraso de varios segundos. El retraso se debe al uso de un servidor proxy, que introduce un salto extra para la autenticación. El servidor proxy busca primero el servidor pod asignado (servidor de acceso de cliente) y, a continuación, realiza la autenticación con este.
+
+## Opciones que los usuarios utilizan para configurar el acceso POP3 o IMAP4 a sus buzones de Exchange Online
+
+Después de habilitar el acceso de cliente POP3 e IMAP4, hay que proporcionar a los usuarios la información reflejada en la siguiente tabla para poder conectar sus programas de correo electrónico a sus buzones de Exchange Online.
+
+Los programas de correo electrónico POP3 e IMAP4 no usan POP3 ni IMAP4 para enviar mensajes al servidor de correo electrónico. Los programas de correo electrónico que usan POP3 e IMAP4 se basan en SMTP para enviar mensajes.
+
+ | Protocolo
+
+ | Nombre del servidor
+
+ | Puerto
+
+ | Método de cifrado
+
+ | POP3
+
+ | Outlook.office365.com
+
+ | 995
+
+ | SSL/TLS
+
+ | IMAP4
+
+ | Outlook.office365.com
+
+ | 993
+
+ | SSL/TLS
+
+ | SMTP
+
+ | Smtp.office365.com
+
+ | 587
+
+ | STARTTLS
+
+## Descripción de las diferencias entre POP3 e IMAP4
+
+De forma predeterminada, los clientes POP3 quitan los mensajes descargados del servidor de correo electrónico. Este comportamiento dificulta el acceso al correo electrónico en varios equipos, ya que los mensajes descargados se almacenan en el equipo local. Sin embargo, normalmente puede configurar un cliente POP3 para mantener copias de los mensajes descargados en el servidor.
+
+Los programas cliente POP3 descargan mensajes en una sola carpeta del equipo cliente (normalmente, la Bandeja de entrada). POP3 no puede sincronizar varias carpetas en el servidor de correo electrónico con varias carpetas en el equipo cliente. POP3 tampoco admite el acceso a carpetas públicas.
+
+Los clientes IMAP4 son mucho más flexibles y, por lo general, ofrecen más características que los clientes POP3. De forma predeterminada, los clientes IMAP4 no quitan los mensajes descargados del servidor de correo electrónico. Este comportamiento facilita el acceso a mensajes de correo electrónico desde varios equipos.
+
+Los clientes IMAP4 admiten la creación y el acceso a varias carpetas de correo electrónico en el servidor de correo electrónico. Por ejemplo, la mayoría de los clientes IMAP4 se pueden configurar para mantener una copia de los elementos enviados en el servidor para que estos mensajes sean accesibles desde cualquier equipo.
+
+IMAP4 admite características adicionales compatibles con la mayoría de los clientes IMAP4 (por ejemplo, ver remitentes de mensajes y asuntos antes de descargar todo el mensaje).
+
+## Opciones de envío y recepción de los programas de correo electrónico POP3 e IMAP4
+
+Los clientes POP3 e IMAP4 permiten a los usuarios elegir cuándo quieren conectarse al servidor de correo electrónico para enviar y recibir correo electrónico. En esta sección se describen algunas de las opciones de conectividad más comunes y se proporcionan algunos factores que los usuarios deben tener en cuenta al elegir las opciones de conexión disponibles en sus clientes de correo electrónico POP3 e IMAP4.
+
+### Opciones de configuración habituales
+
+Tres de las opciones de conexión más comunes que se pueden configurar en la aplicación cliente POP3 o IMAP4 son:
+
+- 
+Enviar y recibir mensajes cada vez que la aplicación de correo electrónico se inicia. Si se usa esta opción, solo se envía y se recibe correo al iniciar la aplicación de correo electrónico.
+
+- 
+Enviar y recibir mensajes de forma manual. Si se usa esta opción, solo se envían y se reciben mensajes cuando el usuario hace clic en una opción "enviar y recibir" de la interfaz de usuario del cliente.
+
+- 
+Enviar y recibir mensajes después de un número de minutos definido. Si se usa esta opción, la aplicación cliente se conecta al servidor transcurrido un número de minutos definido para enviar y descargar nuevos mensajes.
+
+Para más información sobre cómo configurar estas opciones de la aplicación de correo electrónico que esté usando, vea la documentación de ayuda que se suministró con la aplicación correspondiente.
+
+### Consideraciones al seleccionar las opciones de envío y recepción
+
+La configuración predeterminada de algunos programas de correo electrónico consiste en no conservar ninguna copia de los mensajes en el servidor una vez que se recuperan. Por lo tanto, si el usuario quiere poder acceder a los mensajes desde varios dispositivos o programas de correo electrónico, conviene que mantenga una copia de los mensajes en el servidor.
+
+Para los clientes siempre conectados, el usuario podría configurar la aplicación de correo electrónico para enviar y recibir mensajes cada número establecido de minutos. La conexión al servidor de correo electrónico a intervalos frecuentes permite al usuario mantener actualizada la aplicación de correo electrónico con la información más reciente del servidor.
+
+Sin embargo, si el cliente no siempre está conectado a Internet, el usuario podría configurar la aplicación de correo electrónico para enviar y recibir mensajes manualmente.
+
+Nota:
+
+Si el cliente IMAP4 admite el comando IMAP4 IDLE, las transferencias de correo electrónico hacia y desde el buzón de Exchange Online pueden producirse casi en tiempo real.
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2023-10-31

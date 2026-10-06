@@ -1,0 +1,121 @@
+URL: https://nvmexpress.org/specifications/
+Leído: 2026-10-05
+
+
+
+ Specifications - NVM Express
+
+ Skip to content
+
+ About
+
+ About
+
+ Board of Directors
+
+ Frequently Asked Questions
+
+ Technology Ecosystem
+
+ Contact us
+
+ Membership
+
+ Membership
+
+ Join NVM Express
+
+ Membership List
+
+ NVM Express Working Groups
+
+ Members Only
+
+ Specifications
+
+ Specifications
+
+ Drivers
+
+ Education
+
+ Compliance
+
+ Testing & Compliance
+
+ Product Listings
+
+ Product Submissions
+
+ Trademark and Logo License
+
+ News
+
+ Media Coverage
+
+ Press Releases
+
+ Members in the News
+
+ Events
+
+ Blog
+
+Specifications
+
+NVMe Set of Specifications Overview
+
+The NVM Express® (NVMe®) specifications define how host software communicates with non-volatile memory across multiple transports like PCI Express® (PCIe®), RDMA, TCP and more. It is the industry standard for solid state drives (SSDs) in all form factors (U.2, M.2, AIC, EDSFF). NVM Express is the non-profit consortium of tech industry leaders defining, managing and marketing NVMe technology. The latest versions in the NVMe set of specifications were released on August 4, 2026.
+
+Guide to the NVM Express Specification Set
+
+The NVMe 2.4 specifications consists of multiple documents, including the NVMe Base specification, Command Set specifications (e.g., Computational Programs Command Set Specification, NVM Command Set specification, SLM Command Set Specification, KV Command Set Specification, ZNS Command Set specification), Transport specifications (e.g., NVMe over PCIe Transport specification, NVMe over RDMA Transport specification and NVMe over TCP Transport specification), NVMe Boot specification, and the NVMe Management Interface specification.
+
+The NVM Express Base (NVM Express Base) Specification defines a protocol for host software to communicate with non-volatile memory subsystems over a variety of memory-based transports and message-based transports.
+
+The NVM Express Management Interface (NVMe-MI) Specification defines an optional management interface for all NVM Express Subsystems.
+
+NVM Express I/O Command Set Specifications define data structures, features, log pages, commands, and status values that extend the NVM Express Base Specification. NVM Express Transport specifications define the binding of the NVMe protocol including controller properties to a specific transport.
+
+The NVM Express Boot Specification (NVMe Boot) defines constructs and guidelines for booting from NVM Express interfaces.
+
+Please note that the webpage includes obsolete specifications (i.e., the NVMe-oF Specification) as a historical reference.
+
+Ratified Technical Proposals and Engineering Change Notices are available by specification.
+
+View All Archived Specifications 
+
+ About
+
+ Membership
+
+ Specifications
+
+ Education
+
+ Compliance
+
+ News
+
+ Events
+
+ Blog
+
+Newsletter Signup
+
+Email
+
+ Name
+
+ First
+
+ Last
+
+CAPTCHA
+
+ Submit 
+
+Δ
+
+ © 2026 NVM Express
+

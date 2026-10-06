@@ -1,0 +1,407 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/msiexec
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# msiexec
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Proporciona los medios para instalar, modificar y realizar operaciones en Windows Installer desde la línea de comandos.
+
+## Install options
+
+Establezca el tipo de instalación para iniciar un paquete de instalación.
+
+### Syntax
+
+`msiexec.exe [/i][/a][/j{u|m|/g|/t}][/x] <path_to_package>
+`
+
+#### Parameters
+
+ | Parameter
+
+ | Description
+
+ | /i
+
+ | Especifica la instalación normal.
+
+ | /a
+
+ | Especifica la instalación administrativa.
+
+ | /ju
+
+ | Anuncie el producto al usuario actual.
+
+ | /jm
+
+ | Anuncie el producto a todos los usuarios.
+
+ | /j/g
+
+ | Especifica el identificador de idioma utilizado por el paquete anunciado.
+
+ | /j/t
+
+ | Aplica la transformación al paquete anunciado.
+
+ | /x
+
+ | Desinstala el paquete.
+
+ | `<path_to_package>`
+
+ | Especifica la ubicación y el nombre del archivo del paquete de instalación.
+
+#### Examples
+
+Para instalar un paquete llamado example.msi desde la unidad C:, mediante un proceso de instalación normal, escriba:
+
+`msiexec.exe /i "C:\example.msi"
+`
+
+## Display options
+
+Puede configurar lo que un usuario ve durante el proceso de instalación, en función del entorno de destino. Por ejemplo, si va a distribuir un paquete a todos los clientes para la instalación manual, debe haber una interfaz de usuario completa. Sin embargo, si va a implementar un paquete mediante la directiva de grupo, que no requiere ninguna interacción del usuario, no debe haber ninguna interfaz de usuario implicada.
+
+### Syntax
+
+`msiexec.exe /i <path_to_package> [/quiet][/passive][/q{n|b|r|f}]
+`
+
+#### Parameters
+
+ | Parameter
+
+ | Description
+
+ | `<path_to_package>`
+
+ | Especifica la ubicación y el nombre del archivo del paquete de instalación.
+
+ | /quiet
+
+ | Especifica el modo silencioso, lo que significa que no se requiere ninguna interacción del usuario.
+
+ | /passive
+
+ | Especifica el modo desatendido, lo que significa que la instalación solo muestra una barra de progreso.
+
+ | /qn
+
+ | Especifica que no hay ninguna interfaz de usuario durante el proceso de instalación.
+
+ | /qn+
+
+ | Especifica que no hay ninguna interfaz de usuario durante el proceso de instalación, excepto para un cuadro de diálogo final al final.
+
+ | /qb
+
+ | Especifica que hay una interfaz de usuario básica durante el proceso de instalación.
+
+ | /qb+
+
+ | Especifica que hay una interfaz de usuario básica durante el proceso de instalación, incluido un cuadro de diálogo final al final.
+
+ | /qr
+
+ | Especifica una experiencia de interfaz de usuario reducida durante el proceso de instalación.
+
+ | /qf
+
+ | Especifica una experiencia de interfaz de usuario completa durante el proceso de instalación.
+
+Remarks
+
+- El cuadro modal no se muestra si el usuario cancela la instalación. Puede usar qb+! o qb!+ para ocultar el botón CANCELAR .
+
+#### Examples
+
+Para instalar el paquete C:\example.msi, mediante un proceso de instalación normal y sin interfaz de usuario, escriba:
+
+`msiexec.exe /i "C:\example.msi" /qn
+`
+
+## Restart options
+
+Si el paquete de instalación sobrescribe los archivos o intenta cambiar los archivos que están en uso, es posible que se requiera un reinicio antes de que se complete la instalación.
+
+### Syntax
+
+`msiexec.exe /i <path_to_package> [/norestart][/promptrestart][/forcerestart]
+`
+
+#### Parameters
+
+ | Parameter
+
+ | Description
+
+ | `<path_to_package>`
+
+ | Especifica la ubicación y el nombre del archivo del paquete de instalación.
+
+ | /norestart
+
+ | Impide que el dispositivo se reinicie una vez completada la instalación.
+
+ | /promptrestart
+
+ | Solicita al usuario si se requiere un reinicio.
+
+ | /forcerestart
+
+ | Reinicia el dispositivo una vez completada la instalación.
+
+#### Examples
+
+Para instalar el paquete C:\example.msi, utilizando un proceso de instalación normal sin reinicio al final, escriba:
+
+`msiexec.exe /i "C:\example.msi" /norestart
+`
+
+## Logging options
+
+Si necesita depurar el paquete de instalación, puede establecer los parámetros para crear un archivo de registro con información específica.
+
+### Syntax
+
+`msiexec.exe [/i][/x] <path_to_package> [/L{i|w|e|a|r|u|c|m|o|p|v|x+|!|*}] <path_to_log>
+`
+
+#### Parameters
+
+ | Parameter
+
+ | Description
+
+ | /i
+
+ | Especifica la instalación normal.
+
+ | /x
+
+ | Desinstala el paquete.
+
+ | `<path_to_package>`
+
+ | Especifica la ubicación y el nombre del archivo del paquete de instalación.
+
+ | /li
+
+ | Activa el registro e incluye mensajes de estado en el archivo de registro de salida.
+
+ | /lw
+
+ | Activa el registro e incluye advertencias no graves en el archivo de registro de salida.
+
+ | /le
+
+ | Activa el registro e incluye todos los mensajes de error en el archivo de registro de salida.
+
+ | /la
+
+ | Activa el registro e incluye información sobre cuándo se inició una acción en el archivo de registro de salida.
+
+ | /lr
+
+ | Activa el registro e incluye registros específicos de la acción en el archivo de registro de salida.
+
+ | /lu
+
+ | Activa el registro e incluye información de solicitud de usuario en el archivo de registro de salida.
+
+ | /lc
+
+ | Activa el registro e incluye los parámetros iniciales de la interfaz de usuario en el archivo de registro de salida.
+
+ | /lm
+
+ | Activa el registro e incluye información de salida insuficiente o irrecuperable en el archivo de registro de salida.
+
+ | /lo
+
+ | Activa el registro e incluye mensajes de espacio fuera del disco en el archivo de registro de salida.
+
+ | /lp
+
+ | Activa el registro e incluye propiedades de terminal en el archivo de registro de salida.
+
+ | /lv
+
+ | Activa el registro e incluye la salida detallada en el archivo de registro de salida.
+
+ | /lx
+
+ | Activa el registro e incluye información adicional de depuración en el archivo de registro de salida.
+
+ | /l+
+
+ | Activa el registro y anexa la información a un archivo de registro existente.
+
+ | /l!
+
+ | Activa el registro y vacía cada línea en el archivo de registro.
+
+ | /l*
+
+ | Activa el registro y registra toda la información, excepto la información detallada (/lv) o la información de depuración adicional (/lx).
+
+ | `<path_to_logfile>`
+
+ | Especifica la ubicación y el nombre del archivo de registro de salida.
+
+#### Examples
+
+Para instalar el paquete C:\example.msi, utilizando un proceso de instalación normal con toda la información de registro proporcionada, incluida la salida detallada, y almacenando el archivo de registro de salida en C:\package.log, escriba:
+
+`msiexec.exe /i "C:\example.msi" /L*V "C:\package.log"
+`
+
+## Update options
+
+Puede aplicar o quitar actualizaciones mediante un paquete de instalación.
+
+### Syntax
+
+`msiexec.exe [/p][/update][/uninstall[/package<product_code_of_package>]] <path_to_package>
+`
+
+#### Parameters
+
+ | Parameter
+
+ | Description
+
+ | /p
+
+ | Instala una revisión. Si está instalando de forma silenciosa, también debe establecer la propiedad REINSTALLMODE en ecmus y REINSTALL en ALL. De lo contrario, la revisión solo actualiza la MSI almacenada en caché en el dispositivo de destino.
+
+ | /update
+
+ | Opción Instalar revisiones. Si va a aplicar varias actualizaciones, debe separarlas mediante un punto y coma (;).
+
+ | /package
+
+ | Instala o configura un producto.
+
+#### Examples
+
+`msiexec.exe /p "C:\MyPatch.msp"
+msiexec.exe /p "C:\MyPatch.msp" /qb REINSTALLMODE="ecmus" REINSTALL="ALL"
+msiexec.exe /update "C:\MyPatch.msp"
+`
+
+`msiexec.exe /uninstall {1BCBF52C-CD1B-454D-AEF7-852F73967318} /package {AAD3D77A-7476-469F-ADF4-04424124E91D}
+`
+
+Donde el primer GUID es el GUID de revisión y el segundo es el código de producto MSI al que se aplicó la revisión.
+
+## Repair options
+
+Puede usar este comando para reparar un paquete instalado.
+
+### Syntax
+
+`msiexec.exe [/f{p|o|e|d|c|a|u|m|s|v}] <product_code>
+`
+
+#### Parameters
+
+ | Parameter
+
+ | Description
+
+ | /fp
+
+ | Repara el paquete si falta un archivo.
+
+ | /fo
+
+ | Repara el paquete si falta un archivo o si se instala una versión anterior.
+
+ | /fe
+
+ | Repara el paquete si falta el archivo o si hay instalada una versión igual o anterior.
+
+ | /fd
+
+ | Repara el paquete si falta el archivo o si se instala una versión diferente.
+
+ | /fc
+
+ | Repara el paquete si falta el archivo o si la suma de comprobación no coincide con el valor calculado.
+
+ | /fa
+
+ | Obliga a volver a instalar todos los archivos.
+
+ | /fu
+
+ | Repara todas las entradas del Registro específicas del usuario necesarias.
+
+ | /fm
+
+ | Repara todas las entradas del Registro específicas del equipo necesarias.
+
+ | /fs
+
+ | Repara todos los accesos directos existentes.
+
+ | /fv
+
+ | Se ejecuta desde el origen y vuelve a almacenar en caché el paquete local.
+
+#### Examples
+
+Para forzar la reinstalación de todos los archivos en función del código de producto MSI que se va a reparar, {AAD3D77A-7476-469F-ADF4-04424124E91D}, escriba:
+
+`msiexec.exe /fa {AAD3D77A-7476-469F-ADF4-04424124E91D}
+`
+
+## Establecimiento de propiedades públicas
+
+Puede establecer propiedades públicas a través de este comando. Para obtener información sobre las propiedades disponibles y cómo establecerlas, vea Propiedades públicas.
+
+## Related links
+
+- 
+
+ Clave de sintaxis de línea de comandos
+
+- 
+
+ opciones deMsiexec.exe Command-Line
+
+- 
+
+ opciones del instalador estándar de Command-Line
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

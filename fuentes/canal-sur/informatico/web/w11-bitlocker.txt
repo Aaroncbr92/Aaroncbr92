@@ -1,0 +1,242 @@
+URL: https://learn.microsoft.com/es-es/windows/security/operating-system-security/data-protection/bitlocker/
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Introducción a BitLocker
+
+- Se aplica a: ✅ Windows 11, ✅ Windows 10, ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+Nota
+
+Este artículo está destinado a profesionales de TI y administradores de dispositivos. Si eres un usuario final o un consumidor que busca ayuda con BitLocker, consulta Información general sobre BitLocker.
+
+BitLocker es una característica de seguridad de Windows que proporciona cifrado para volúmenes enteros, que aborda las amenazas de robo de datos o la exposición de dispositivos perdidos, robados o retirados inapropiadamente.
+
+Los datos de un dispositivo perdido o robado son vulnerables a un acceso no autorizado, mediante la ejecución de una herramienta de ataques de software contra ellos o mediante la transferencia del disco duro del dispositivo a otro dispositivo. BitLocker ayuda a mitigar el acceso a datos no autorizados mejorando las protecciones de archivo y de sistema, haciendo que los datos sean inaccesibles cuando los dispositivos protegidos con BitLocker se retiran o reciclan.
+
+## BitLocker y TPM
+
+BitLocker ofrece máxima protección cuando se usa con un Módulo de plataforma segura (TPM), que es un componente de hardware común instalado en dispositivos Windows. El TPM funciona con BitLocker para asegurarse de que un dispositivo no se haya manipulado mientras el sistema está sin conexión.
+
+ Además del TPM, BitLocker puede bloquear el proceso de inicio normal hasta que el usuario proporcione un número de identificación personal (PIN) o inserte un dispositivo extraíble que contenga una clave de inicio. Estas medidas de seguridad proporcionan autenticación multifactor y la garantía de que el dispositivo no puede iniciarse o reanudarse desde la hibernación hasta que se ofrezca el PIN o la clave de inicio correctos.
+
+En los dispositivos que no tengan un TPM, BitLocker todavía se puede usar para cifrar la unidad del sistema operativo. Esta implementación requiere que el usuario:
+
+- Usa una clave de inicio, que es un archivo almacenado en una unidad extraíble que se usa para iniciar el dispositivo o reanudarlo del modo de hibernación.
+
+- Usa una contraseña. Esta opción no es segura, ya que está sujeta a ataques de fuerza bruta, ya que no existe una lógica de bloqueo de contraseña. Por lo tanto, la opción de contraseña se desaconseja y se deshabilita de forma predeterminada.
+
+Ambas opciones no proporcionan la comprobación de integridad del sistema previa al arranque ofrecida por BitLocker con un TPM.
+
+En las capturas de pantalla siguientes se muestra la pantalla de preinicio de BitLocker cuando se requiere una clave de inicio, PIN o contraseña para iniciar el dispositivo:
+
+ Pantalla de preinicio de BitLocker con clave de inicio:
+
+ Pantalla de preinicio de BitLocker con PIN:
+
+ Pantalla de preinicio de BitLocker con contraseña:
+
+## Requisitos del sistema
+
+BitLocker presenta los siguientes requisitos:
+
+- 
+Para que BitLocker use la verificación de integridad del sistema proporcionada por un TPM, el dispositivo debe tener TPM 1.2 o posterior. Si un dispositivo no tiene un TPM, es obligatorio guardar una clave de inicio en una unidad extraíble al habilitar BitLocker.
+
+- 
+Un dispositivo con un TPM también debe tener un firmware de BIOS o UEFI compatible con Trusted Computing Group (TCG). El firmware de BIOS o UEFI establece una cadena de confianza para el inicio previo al arranque y debe incluir compatibilidad con la raíz estática de Trust Measurement especificada por TCG. Si un equipo no tiene un TPM, no se requiere firmware compatible con TCG.
+
+- 
+El firmware de BIOS o UEFI del sistema (para dispositivos TPM y no TPM) debe admitir la clase de dispositivo de almacenamiento masivo USB y la lectura de archivos de una unidad USB en el entorno de prearranque.
+
+Nota
+
+TPM 2.0 no se admite en los modos heredado y de módulo de soporte de compatibilidad (CSM) del BIOS. Los dispositivos con TPM 2.0 deben tener configurado el modo BIOS solo como UEFI nativa. Las opciones de heredado y módulo de soporte de compatibilidad (CSM) deben deshabilitarse. Para mayor seguridad, habilite la característica de arranque seguro .
+
+El sistema operativo instalado en el hardware en modo heredado impide que el sistema operativo arranque cuando se cambia el modo BIOS a UEFI. Use la herramienta `mbr2gpt.exe` antes de cambiar el modo BIOS que preparará el sistema operativo y el disco para admitir UEFI.
+
+- 
+El disco duro debe particionarse con al menos dos unidades:
+
+- 
+La unidad del sistema operativo (o la unidad de arranque) contiene el sistema operativo y sus archivos de compatibilidad. Debe estar formateada con el sistema de archivos NTFS.
+
+- 
+La unidad del sistema contiene los archivos necesarios para arrancar, descifrar y cargar el sistema operativo. BitLocker no está habilitado en esta unidad. Para que BitLocker funcione, la unidad del sistema:
+
+- no deben estar cifrados.
+
+- Debe ser diferente de la unidad del sistema operativo.
+
+- debe estar formateado con el sistema de archivos FAT32 en equipos que usan firmware basado en UEFI o con el sistema de archivos NTFS en equipos que usan firmware BIOS.
+
+- se recomienda que tenga un tamaño aproximado de 350 MB. Una vez activado BitLocker, habrá unos 250 MB de espacio libre aproximadamente.
+
+Importante
+
+Cuando se instala en un dispositivo nuevo, Windows crea automáticamente las particiones necesarias para BitLocker.
+
+Si la unidad se preparó como un único espacio contiguo, BitLocker requiere un nuevo volumen para contener los archivos de arranque. 
+ `BdeHdCfg.exe` puede crear el volumen. Para obtener más información sobre el uso de la herramienta, consulte Bdehdcfg en la Referencia de Command-Line.
+
+Nota
+
+Al instalar el componente opcional de BitLocker en un servidor, se debe instalar la característica Almacenamiento mejorado . La característica se usa para admitir unidades de hardware cifradas.
+
+## Requisitos de licencia y de la edición de Windows
+
+En la tabla siguiente se enumeran las ediciones de Windows que admiten la habilitación de BitLocker:
+
+ | Windows Pro
+
+ | Windows Enterprise
+
+ | Windows Pro Education/SE
+
+ | Windows Education
+
+ | Sí
+
+ | Sí
+
+ | Sí
+
+ | Sí
+
+Las siguientes licencias conceden derechos de licencia de habilitación de BitLocker:
+
+ | Windows Pro/Pro Education/SE
+
+ | Windows Enterprise E3
+
+ | Windows Enterprise E5
+
+ | Windows Education A3
+
+ | Windows Education A5
+
+ | Sí
+
+ | Sí
+
+ | Sí
+
+ | Sí
+
+ | Sí
+
+Se puede obtener más información sobre las licencias de Windows en Información general sobre las licencias de Windows.
+
+Nota
+
+Los requisitos de licencia para habilitar BitLocker son diferentes de los requisitos de licencia para la administración de BitLocker. Para obtener más información, revisa la guía paso a paso: Configurar BitLocker.
+
+## Cifrado de dispositivo
+
+ El cifrado de dispositivos es una característica de Windows que proporciona una manera sencilla para que algunos dispositivos habiliten automáticamente el cifrado de BitLocker. El cifrado de dispositivos está disponible en todas las versiones de Windows y requiere que un dispositivo cumpla los requisitos de seguridad de modo de espera moderno o HSTI. El cifrado de dispositivos no puede tener puertos accesibles externamente que permitan el acceso DMA. El cifrado de dispositivo cifra solo la unidad del sistema operativo y las unidades fijas, no las unidades externas o USB.
+
+Importante
+
+A partir de Windows 11, versión 24H2, se eliminan los requisitos previos de DMA y HSTI/Modo de espera moderno. Como resultado, más dispositivos son aptos para el cifrado automático y manual de dispositivos.
+Para obtener más información, consulte Cifrado de unidad BitLocker en Windows 11 para OEM.
+
+A diferencia de una implementación estándar de BitLocker, el cifrado del dispositivo se habilita automáticamente para que el dispositivo esté siempre protegido. Cuando se completa una instalación limpia de Windows y finaliza la configuración rápida, el dispositivo está preparado para su primer uso. Como parte de esta preparación, el cifrado de dispositivos se inicializa en la unidad del sistema operativo y en unidades de datos fijas del equipo con una clave sin cifrar que equivale al estado suspendido estándar de BitLocker. En este estado, la unidad se muestra con un icono de advertencia en el Explorador de Windows. El icono de advertencia amarillo se quita después de crear el protector de TPM y realizar una copia de seguridad de la clave de recuperación.
+
+- Si el dispositivo está unido a Microsoft Entra o a un dominio de Active Directory, la clave sin cifrado se quita una vez que se realiza una copia de seguridad correcta de la clave de recuperación en Microsoft Entra ID o en Servicios de dominio de Active Directory (AD DS). La siguiente configuración de directiva debe estar habilitada para que se realice una copia de seguridad de la clave de recuperación: Elige cómo se pueden recuperar unidades del sistema operativo protegidas con BitLocker.
+
+- Para dispositivos unidos a Microsoft Entra: la contraseña de recuperación se crea automáticamente cuando el usuario se autentica en Microsoft Entra ID y, a continuación, se realiza una copia de seguridad de la clave de recuperación en Microsoft Entra ID, se crea el protector de TPM y se quita la clave sin cifrar.
+
+- Para dispositivos unidos a AD DS: la contraseña de recuperación se crea automáticamente cuando el equipo se une al dominio. A continuación, se realiza una copia de seguridad de la clave de recuperación en AD DS, se crea el protector de TPM y se quita la clave sin cifrar.
+
+- Si el dispositivo no está unido a Microsoft Entra o a un dominio de Active Directory, se requiere una cuenta de Microsoft con privilegios administrativos en el dispositivo. Cuando el administrador usa una cuenta de Microsoft para iniciar sesión, se quita la clave sin cifrar, se carga una clave de recuperación en la cuenta de Microsoft online y se crea un protector TPM. Si un dispositivo requiere la clave de recuperación, se guía al usuario para que use un dispositivo alternativo y navegue hasta una dirección URL de acceso a la clave de recuperación para recuperar la clave de recuperación con las credenciales de su cuenta Microsoft.
+
+- Si un dispositivo usa solo cuentas locales, permanece desprotegido aunque los datos estén cifrados.
+
+Importante
+
+De forma predeterminada, el cifrado del dispositivo usa el método de `XTS-AES 128-bit` cifrado. En caso de que configure una configuración de directiva para usar un método de cifrado diferente, puede usar la página Estado de inscripción para evitar que el dispositivo comience el cifrado con el método predeterminado. BitLocker tiene una lógica que no inicia el cifrado hasta el final de OOBE, una vez completada la fase de configuración de dispositivos de la página de estado de inscripción. Esta lógica da a un dispositivo tiempo suficiente para recibir la configuración de directiva de BitLocker antes de iniciar el cifrado.
+
+Si se necesita un método de cifrado o una intensidad de cifrado diferentes, pero el dispositivo ya está cifrado, primero se debe descifrar antes de que se pueda aplicar el nuevo método de cifrado o la intensidad de cifrado. Una vez descifrado el dispositivo, puedes aplicar diferentes configuraciones de BitLocker.
+
+Si un dispositivo no cumple inicialmente los requisitos para el cifrado de dispositivo, pero luego se realiza un cambio que hace que el dispositivo cumpla los requisitos (por ejemplo, activando el arranque seguro), el cifrado de dispositivo habilita BitLocker automáticamente en cuanto lo detecta.
+
+Puedes comprobar si un dispositivo cumple los requisitos de cifrado de dispositivos en la aplicación Información del sistema (`msinfo32.exe`). Si el dispositivo cumple los requisitos, Información del sistema muestra una línea con la siguiente línea:
+
+ | Elemento
+
+ | Valor
+
+ | Compatibilidad con el cifrado de dispositivos
+
+ | Cumple con los requisitos previos
+
+Nota
+
+Si Windows detecta actividad de usuario durante el cifrado, es posible que el cifrado automático de dispositivo se retrase o se detenga temporalmente. Esto es especialmente cierto si el dispositivo funciona con batería para ahorrar energía.
+
+### Diferencia entre BitLocker y el cifrado de dispositivos
+
+- El cifrado de dispositivo activa BitLocker automáticamente en los dispositivos aptos para el cifrado de dispositivo, con la clave de recuperación automáticamente respaldada en Microsoft Entra ID, AD DS o la cuenta de Microsoft del usuario.
+
+- El cifrado de dispositivo agrega una configuración de cifrado de dispositivo en la aplicación Configuración, que se puede usar para activar o desactivar el cifrado de dispositivo.
+
+- La interfaz de usuario de configuración no muestra el cifrado de dispositivo habilitado hasta que se completa el cifrado.
+
+Nota
+
+Si el cifrado de dispositivo está desactivado, ya no se habilitará automáticamente en el futuro. El usuario debe habilitarla manualmente en Configuración.
+
+### Deshabilitar el cifrado de dispositivo
+
+Se recomienda mantener el cifrado de dispositivo activado para cualquier sistema que lo admita. Sin embargo, puedes impedir el proceso de cifrado automático del dispositivo cambiando la siguiente configuración del Registro:
+
+ | Ruta de acceso
+
+ | Nombre
+
+ | Tipo
+
+ | Valor
+
+ | `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\BitLocker`
+
+ | `PreventDeviceEncryption`
+
+ | REG_DWORD
+
+ | 0x1
+
+Para obtener más información sobre el cifrado de dispositivos, consulta Requisitos de hardware de cifrado de dispositivos de BitLocker.
+
+## Pasos siguientes
+
+Obtén información sobre las tecnologías y características para protegerse contra ataques a la clave de cifrado de BitLocker:
+
+ Contramedidas de BitLocker >
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-08-24

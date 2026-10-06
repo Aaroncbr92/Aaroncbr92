@@ -1,0 +1,158 @@
+URL: https://www.pwg.org/ipp/everywhere.html
+Leído: 2026-10-05
+
+
+
+IPP Everywhere™ - Printer Working Group
+
+ Toggle navigation
+
+ Login
+
+Home
+
+About 
+
+About the PWG
+
+Joining
+
+Members
+
+Officers
+
+BOF Sessions
+
+Mailing Lists
+
+Meetings
+
+Participating
+
+Privacy Policy
+
+Our Work 
+
+Publications
+
+Informational Documents
+
+Namespaces
+
+Standards
+
+Technologies
+
+3D Printing
+
+IPP Everywhere™
+
+PWG Semantic Model
+
+Workgroups 
+
+Active Workgroups
+
+Imaging Device Security
+
+Internet Printing Protocol
+
+Inactive Workgroups
+
+Cloud Imaging Model
+
+Semantic Model
+
+Workgroup for Imaging Management Solutions
+
+Search
+
+Search PWG
+
+ ×
+
+ Close
+
+IPP Everywhere™
+
+A PWG standard that allows personal computers and mobile devices to find and print to networked and USB printers without using vendor-specific software.
+
+Find Printers
+
+Frequently Asked Questions
+
+How to Use the Internet Printing Protocol
+
+How to Use the IPP Everywhere Printer Self-Certification Tools
+
+The Evolution of Digital Printing
+
+Today’s IPP printers offer state-of-the-art printing capabilities, output quality, and ease of use without the need to download and install driver software or configure print queues.
+
+Features: Printer discovery, full range of print media, 2-sided printing, photo printing, finishers (stapling, punching, folding, etc.), and more!
+
+IPP Everywhere Clients
+
+Many clients already support IPP Everywhere. For those that don’t, operating system and desktop environment developers can leverage existing open source software to quickly provide IPP Everywhere printing support.
+
+Popular clients: Chrome OS, CUPS, Linux, macOS, Windows
+
+Sample Software
+
+Technical Specification
+
+Implementor's Guide
+
+IPP Everywhere Printers and Print Servers
+
+98% of all printers sold today support IPP/2.0 and DNS-SD. Support generic file formats to enable IPP Everywhere printing.
+
+Required: IPP/2.0, DNS-SD, PWG Raster and JPEG JFIF file formats (JPEG only required for color printers)
+
+ Recommended: PDF, IPP-USB
+
+Submission Portal
+
+Technical Specification
+
+Self-Certification Manual
+
+Cloud, Enterprise, and Managed Printing
+
+Cloud, enterprise, and managed print services can utilize the IPP Shared Infrastructure Extensions to act as an intermediary between clients and printers. Clients continue to use the same printing interface while printers use the “proxy” interface provided by the print service to collect print jobs as needed.
+
+Features: Cloud printing, centralized accounting and access control, “release” printing
+
+Technical Specification
+
+Files
+
+IPP Everywhere Self-Certification Guide - Start Here
+
+IPP Everywhere Specification v1.1
+
+IPP Everywhere Self-Certification Manual v1.1
+
+Resources
+
+IPP Mailing List
+
+IPP Sample Code
+
+Self-Certification Mailing List
+
+Self-Certification Issue Tracker
+
+How to Use the Internet Printing Protocol:
+ HTML
+ PDF
+ EPUB
+
+IPP Implementor's Guide v2.0
+
+IPP Shared Infrastructure Extensions Specification
+
+Comments are owned by the poster. All other material is Copyright © 2001-2026 The Printer Working Group. All rights reserved. IPP Everywhere, the IPP Everywhere logo, and the PWG logo are trademarks of the ISTO.
+
+About the PWG · Privacy Policy · PWG Webmaster
+

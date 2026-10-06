@@ -1,0 +1,69 @@
+URL: https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/plan/forest-design-models
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Modelos de diseño de bosque
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+Puede aplicar uno de los siguientes tres modelos de diseño de bosque en el entorno de Active Directory:
+
+- 
+Modelo de bosque organizativo
+
+- 
+Modelo de bosque de recursos
+
+- 
+Modelo de bosque de acceso restringido
+
+Es probable que tenga que usar una combinación de estos modelos para satisfacer las necesidades de todos los distintos grupos de su organización.
+
+## Modelo de bosque organizativo
+
+En el modelo de bosque organizativo, el bosque contiene las cuentas de usuario y los recursos, que se administran de forma independiente. El bosque organizativo se puede usar para proporcionar autonomía del servicio, aislamiento del servicio o aislamiento de datos si el bosque está configurado para impedir el acceso a cualquier persona fuera del bosque.
+
+Si los usuarios de un bosque organizativo necesitan acceder a los recursos de otros bosques (o a la inversa), se pueden establecer relaciones de confianza entre un bosque organizativo y otros bosques. Esto permite a los administradores conceder acceso a los recursos de otros bosques. En la siguiente ilustración se muestra el modelo de bosque organizativo.
+
+Cada diseño de Active Directory incluye al menos un bosque organizativo.
+
+## Modelo de bosque de recursos
+
+En el modelo de bosque de recursos, se usa un bosque independiente para administrar los recursos. Un bosque de recursos solo contiene las cuentas de usuario necesarias para administrar el servicio y para proporcionar acceso alternativo a los recursos de ese bosque, si las cuentas de usuario del bosque organizativo no están disponibles. Las confianzas de bosque se establecen para que los usuarios de otros bosques puedan acceder a los recursos contenidos en el bosque de recursos. En la siguiente ilustración se muestra el modelo de bosque de recursos.
+
+Los bosques de recursos proporcionan aislamiento del servicio, el cual se usa para proteger las áreas de la red que necesitan mantener un estado de alta disponibilidad. Por ejemplo, si su empresa tiene una planta de fabricación que necesita seguir en funcionamiento cuando hay problemas en el resto de la red, puede crear un bosque de recursos independiente para el grupo de fabricación.
+
+## Modelo de bosque de acceso restringido
+
+En el modelo de bosque de acceso restringido, se crea un bosque independiente para contener cuentas de usuario y datos que deben estar aislados del resto de la organización. Los bosques de acceso restringido proporcionan aislamiento de datos en situaciones en las que las consecuencias de poner en peligro los datos del proyecto son graves. En la ilustración siguiente se muestra un modelo de bosque de acceso restringido.
+
+No se puede conceder acceso a los usuarios de otros bosques a los datos restringidos porque no existe relación de confianza. En este modelo, los usuarios tienen una cuenta en un bosque organizativo para acceder a los recursos generales de la organización y una cuenta de usuario independiente en el bosque de acceso restringido para acceder a los datos clasificados. Estos usuarios deben tener dos estaciones de trabajo independientes, una conectada al bosque organizativo y otra conectada al bosque de acceso restringido. Esto protege frente a la posibilidad de que un administrador de servicios de un bosque pueda obtener acceso a una estación de trabajo del bosque restringido.
+
+En casos extremos, el bosque de acceso restringido podría mantenerse en una red física independiente. Las organizaciones que trabajan en proyectos gubernamentales clasificados a veces mantienen bosques de acceso restringido en redes independientes para cumplir los requisitos de seguridad.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-05-12

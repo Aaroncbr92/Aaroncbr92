@@ -1,0 +1,109 @@
+ 
+ 
+ USB 3.2 Specification 
+Language Usage Guidelines from USB-IF 
+ 
+USB-IF emphasizes the importance and value of consistent messaging on USB product 
+packaging, marketing materials, and advertising. Inconsistent use of terminology creates 
+confusion in the marketplace, can be misleading to consumers and potentially diminishes 
+USB-IF’s trademark rights.  
+The USB usage model is evolving. The USB ecosystem has expanded to include multiple 
+connectors, performance levels, and power capabilities to meet the needs of manufacturers 
+and developers. When referring to a product that is based on and compliant with the USB 
+3.2 specification, it is critical for manufacturers to clearly identify the performance 
+capabilities of that device separately from other product benefits and/or physical 
+characteristics.   
+USB 3.2 Specification  
+The USB 3.2 specification defines multi-lane operation for new USB 3.2 hosts and devices, 
+allowing for up to two lanes of 10Gbps operation to realize a 20Gbps data transfer rate. 
+While USB hosts and devices were originally designed as single-lane solutions, USB TypeC™ cables were designed from the outset to support multi-lane operation to ensure a path 
+for scalable performance.   
+The USB 3.2 specification absorbed all prior 3.x specifications. USB 3.2 identifies three 
+transfer rates, USB 3.2 Gen 1 at 5Gbps, USB 3.2 Gen 2 at 10Gbps and USB 3.2 Gen 2x2 at 
+20Gbps. It is important that vendors clearly communicate the performance signaling that a 
+product delivers in the product’s packaging, advertising content, and any other marketing 
+materials.   
+• 
+USB 3.2 Gen 1  
+o 
+Product capability: product signals at 5Gbps  
+o 
+Marketing name: SuperSpeed USB 
+• 
+USB 3.2 Gen 2  
+o 
+Product capability: product signals at 10Gbps  
+o 
+Marketing name: SuperSpeed USB 10Gbps 
+• 
+USB 3.2 Gen 2x2 
+o 
+Product capability: product signals at 20Gbps 
+o 
+Marketing name: SuperSpeed USB 20Gbps 
+ 
+NOTE: SuperSpeed Plus, Enhanced SuperSpeed and SuperSpeed+ are defined in the USB 
+specifications however these terms are not intended to be used in product names, 
+messaging, packaging or any other consumer-facing content.     
+USB 3.2 Key Messages  
+• 
+Defines multi-lane operation for new USB 3.2 hosts and devices, allowing for up to 
+two lanes of 10Gbps operation to realize a 20Gbps data transfer rate, without 
+sacrificing cable length. 
+• 
+Delivers compelling performance boosts to meet requirements for demanding USB 
+storage, display, and docking applications. 
+• 
+Enables end-users to move content across devices quickly, conveniently and without 
+worrying about compatibility.  
+• 
+Backwards compatible with all existing USB products; will operate at lowest common 
+speed capability. 
+
+ 
+ 
+• 
+Enables devices from different vendors to interoperate in an open architecture, while 
+maintaining and leveraging the existing USB infrastructure. 
+• 
+Allows system OEMs and peripheral developers adequate room for product versatility 
+and market differentiation without the burden of carrying obsolete interfaces or 
+losing compatibility.  
+ 
+USB 3.2 Naming and Packaging Recommendations  
+ 
+To avoid consumer confusion, USB-IF’s recommended nomenclature for consumers is 
+“SuperSpeed USB” for 5Gbps products, “SuperSpeed USB 10Gbps” for 10Gbps products and 
+“SuperSpeed USB 20Gbps” for 20Gbps products.  
+In order to identify performance capabilities, USB-IF strongly recommends submitting 
+products to the USB-IF Compliance Program and then, once successful, using the logos for 
+consumer recognition. The USB-IF logo guidelines are available here: 
+http://www.usb.org/developers/logo_license/.  
+The SuperSpeed USB 20Gbps Compliance and Logo Program is currently under development 
+and will be announced once available.  
+It is critical for manufacturers to distinguish between USB 3.2 Gen 1, USB 3.2 Gen 2 and 
+USB 3.2 Gen 2x2 products. USB-IF also strongly urges manufacturers to identify the 
+performance capabilities of a product separately from other protocols or physical 
+characteristics in product names and marketing materials.  
+Please note the following:  
+- 
+USB 3.2 only defines the transfer rate of a product.  
+o 
+USB 3.2 is not USB Type-C™, USB Standard-A, Micro-USB, or any other USB 
+cable or connector. 
+o 
+USB 3.2 is not USB Power Delivery or USB Battery Charging. 
+ 
+There are separate Language and Packaging Usage Guidelines for the USB Type-C™ Cable 
+and Connector Specification, found here: 
+http://www.usb.org/developers/usbtypec/USB_TypeC_Language_Product_and_Packaging_Guidelines_FINAL.pdf.   
+ 
+USB Compliance Messages  
+• 
+Only products that have passed the requirements of the USB Compliance Program 
+can utilize the USB-IF logo licensing program. Please reference the Trademark 
+License Agreement (found here: http://www.usb.org/developers/logo_license/) for 
+more information.  
+• 
+USB-IF logos may be used solely in conjunction with product as set forth in the USB 
+Logo Usage Guidelines.  

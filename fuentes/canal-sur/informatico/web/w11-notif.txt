@@ -1,0 +1,239 @@
+URL: https://support.microsoft.com/es-es/windows/cambiar-la-notificaci%C3%B3n-y-la-configuraci%C3%B3n-r%C3%A1pida-en-windows-ddcbbcd4-0a02-f6e4-fe14-6766d850f294
+Leído: 2026-10-05
+
+# Notificaciones y No molestar en Windows
+
+ Se aplica a
+Windows 11 Windows 10 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo reviso mis notificaciones?
+
+ ¿Cómo activo No molestar automáticamente?
+
+ ¿Cómo configuro No molestar?
+
+- 
+
+ Windows 11
+
+- 
+
+ Windows 10
+
+## Resumen
+
+Las notificaciones de Windows están diseñadas para mantenerle informado sobre actualizaciones, mensajes y alertas importantes. Ya sea un nuevo correo electrónico, un recordatorio del calendario o una actualización del sistema, las notificaciones te ayudan a mantenerte al día de las cosas sin tener que revisar constantemente tus aplicaciones.
+
+Para ayudarte a administrar estas notificaciones y minimizar las distracciones, Windows ofrece una función denominadaNo molestar. Esta característica te permite silenciar las notificaciones durante momentos o actividades específicos, lo que garantiza un enfoque ininterrumpido.
+
+## Cómo funcionan las notificaciones
+
+Las notificaciones en Windows pueden aparecer como banners en la pantalla y también se puede acceder a ellas en el centro de notificaciones. Puede personalizar qué aplicaciones pueden enviarle notificaciones, la prioridad y el estilo de estas alertas.
+
+Cuando tenga notificaciones nuevas, se iluminará el icono de campana de notificación de la barra de tareas.
+
+Para las notificaciones que se muestran como banners, puede seleccionar los botones de acción rápida dentro del banner para realizar tareas específicas, como descartar un aviso o posponer una alarma.
+
+Para comprobar las notificaciones que te has perdido, abre el centro de notificaciones mediante una de las siguientes opciones:
+
+- Seleccione el icono del reloj o de la campana de notificación en la barra de tareas
+
+- Presione la tecla
+ + de Windows N
+
+- Deslice el dedo desde el lateral de la pantalla
+
+### Acciones sobre las notificaciones en el centro de notificaciones
+
+En el centro de notificaciones, puedes realizar diferentes acciones en las notificaciones:
+
+- Lea más detalles o realice una acción, como responder a un mensaje sin abrir la aplicación relacionada
+
+- Si una notificación tiene una flecha junto a la hora, selecciónela para expandirla y comprobar más detalles o acciones adicionales
+
+- Seleccione el botón cerrar de una notificación para borrarla. También puede seleccionar el botón cerrar junto al nombre de la aplicación para borrar todas las notificaciones de una aplicación específica
+
+- Desactivar todas las notificaciones de una aplicación específica: seleccione el botón>Más Desactivar todas las notificaciones
+
+- Selecciona el botón Borrar todo para quitar todas las notificaciones del centro de notificaciones
+
+## Configurar notificaciones
+
+Administrar las notificaciones es fundamental para evitar verse abrumado por las alertas constantes. Al personalizar la configuración de notificaciones, puede asegurarse de que solo recibirá las actualizaciones más importantes, lo que le permitirá mantenerse centrado y productivo sin interrupciones innecesarias.
+
+Expande cada sección para obtener más información:
+
+### Activar o desactivar las notificaciones
+
+- 
+Selecciona Inicio>Configuración>Notificaciones del sistema>.
+
+ Abrir la configuración de Notificaciones
+
+- 
+Activa o desactiva lasnotificaciones.
+
+### Configurar las notificaciones para cada aplicación
+
+Para ajustar la configuración de notificaciones de cada aplicación en el dispositivo Windows:
+
+- 
+Selecciona Inicio>Configuración>Notificaciones del sistema>.
+
+ Abrir la configuración de Notificaciones
+
+- 
+Seleccione la aplicación en Notificaciones de aplicaciones y otros remitentes. Ajuste las preferencias de notificación, estas son las opciones disponibles:
+
+- Activar o desactivar las notificaciones: deshabilita las notificaciones de aplicaciones específicas si ya no quieres recibirlas
+
+- 
+ Mostrar banners de notificación: habilitar o deshabilitar banners emergentes para notificaciones
+
+- 
+ Mostrar notificaciones en el centro de notificaciones: elige si las notificaciones deben aparecer en el centro de notificaciones
+
+- 
+ Ocultar contenido cuando las notificaciones están en la pantalla de bloqueo: evitar que se muestren notificaciones confidenciales en la pantalla de bloqueo
+
+- 
+ Reproducir un sonido: alternar el sonido de las notificaciones entrantes
+
+- 
+ Prioridad de las notificaciones: establezca la prioridad en Superior, Alta o Normal. Solo se puede establecer una aplicación como de máxima prioridad, y las notificaciones de prioridad alta aparecerán encima de las normales en el centro de notificaciones
+
+Ajuste esta configuración para asegurarse de que se resaltan las alertas importantes y se minimizan las menos críticas.
+
+### Additional Settings
+
+Hay dos configuraciones de notificación adicionales que es posible que quiera revisar.
+
+- 
+Selecciona Inicio>Configuración>Notificaciones del sistema>.
+
+ Abrir la configuración de Notificaciones
+
+- 
+
+ Mostrar la experiencia de bienvenida de Windows después de las actualizaciones y cuando se ha iniciado sesión para mostrar las novedades y sugerencias: Active esta casilla para obtener una pantalla de bienvenida con nuevas características y sugerencias después de las actualizaciones o al iniciar sesión.
+
+- 
+
+ Obtener sugerencias y sugerencias al usar Windows: Active esta casilla para recibir sugerencias y sugerencias útiles mientras usa Windows
+
+## No molestar
+
+ No molestar en Windows está diseñado para ayudarte a mantenerte centrado silenciando las notificaciones durante las horas críticas. Esta característica se puede activar manualmente o establecer para que se active automáticamente con Foco o en condiciones específicas.
+
+Para activar manualmente la opción No molestar, abre el centro de notificaciones y selecciona el icono de campana con zZ . Esto silenciará todas las notificaciones hasta que lo desactives manualmente.
+
+Cuando estés listo para recibir notificaciones nuevamente, regresa al centro de notificaciones y selecciona el mismo botón para deshabilitar No molestar. A continuación, puedes revisar las notificaciones que te perdiste mientras no molestar estaba activo.
+
+Con No molestar activado, solo recibirá banners de alarmas, recordatorios y aplicaciones de su elección. Otras notificaciones se envían directamente al centro de notificaciones hasta que lo desactives.
+
+## Configurar No molestar
+
+Para configurar no molestar, establece las condiciones para que se active automáticamente y ajusta las notificaciones de prioridad. Expande cada sección para obtener más información:
+
+### Activar "No molestar" automáticamente
+
+- 
+Selecciona Inicio>Configuración>Notificaciones del sistema>.
+
+ Abrir la configuración de Notificaciones
+
+- 
+Expandir Active la opción No molestar automáticamente y configure las condiciones, entre las que se incluyen:
+
+- Durante cierta hora del día
+
+- Al duplicar la pantalla
+
+- Al jugar a un juego
+
+- Cuando se usa una aplicación en modo de pantalla completa
+
+- Durante la primera hora después de una actualización de características de Windows
+
+### Establecer notificaciones de prioridad
+
+Con la configuración de notificación de prioridad, puedes configurar si se permiten las llamadas, los recordatorios y determinadas notificaciones de aplicación mientras la opción de no molestar está activada:
+
+- 
+Selecciona Inicio>Configuración>Notificaciones del sistema>.
+
+ Abrir la configuración de Notificaciones
+
+- 
+En Llamadas y recordatorios, selecciona las casillas para permitir llamadas entrantes o recordatorios mientras la opción de no molestar está activada.
+
+- 
+En Aplicaciones, seleccione qué aplicaciones pueden enviar notificaciones mientras no molestar está activado seleccionando el botón Agregar aplicaciones.
+
+## Artículos relacionados
+
+ Concentración: manténgase concentrado en la tarea sin distracciones en Windows
+
+Nota
+
+ El soporte técnico para Windows 10 finalizó el 14 de octubre de 2025
+
+- Después del 14 de octubre de 2025, Microsoft ya no proporcionará actualizaciones de software gratuitas desde Windows Update, asistencia técnica ni correcciones de seguridad para Windows 10. El PC seguirá funcionando, pero recomendamos que se cambie a Windows 11.
+
+- 
+ Más información
+
+## Resumen
+
+Las notificaciones de Windows están diseñadas para mantenerle informado sobre actualizaciones, mensajes y alertas importantes. Ya sea un nuevo correo electrónico, un recordatorio del calendario o una actualización del sistema, las notificaciones te ayudan a mantenerte al día de las cosas sin tener que revisar constantemente tus aplicaciones.
+
+## Cómo funcionan las notificaciones
+
+Las notificaciones de Windows pueden aparecer como banners en la pantalla y también son accesibles en el centro de actividades. Puede personalizar qué aplicaciones pueden enviarle notificaciones, la prioridad y el estilo de estas alertas.
+
+### Comprobar las notificaciones
+
+Cuando tengas nuevas notificaciones, se iluminará el botón Notificación de la barra de tareas.
+
+Para las notificaciones que se muestran como banners, puede seleccionar los botones de acción rápida dentro del banner para realizar tareas específicas, como descartar un aviso o posponer una alarma.
+
+Para comprobar las notificaciones que te has perdido, abre el centro de notificaciones mediante una de las siguientes opciones:
+
+- Seleccione el icono del botón de notificación en la barra de tareas
+
+- Presione la tecla
+ + A de Windows
+
+- Deslice el dedo desde el lateral de la pantalla
+
+### Acciones sobre las notificaciones en el centro de notificaciones
+
+En el centro de notificaciones, puedes realizar diferentes acciones en las notificaciones:
+
+- Lea más detalles o realice una acción, como responder a un mensaje sin abrir la aplicación relacionada
+
+- Si una notificación tiene una flecha junto a la hora, selecciónela para expandirla y comprobar más detalles o acciones adicionales
+
+- Seleccione el botón cerrar de una notificación para borrarla. También puede seleccionar el botón cerrar junto al nombre de la aplicación para borrar todas las notificaciones de una aplicación específica
+
+- Desactivar todas las notificaciones de una aplicación específica: seleccione el botón > configuración Desactivar todas las notificaciones
+
+- Seleccione Borrar todas las notificaciones para quitar todas las notificaciones del centro de notificaciones
+
+## Configurar notificaciones
+
+Puedes cambiar la configuración de notificaciones desde la aplicación Configuración.
+
+- En la aplicación Configuración de tu dispositivo Windows, selecciona Notificaciones del sistema>& acciones
+
+- Para cambiar la configuración de notificaciones de todos los remitentes, en Notificaciones, establezca Obtener notificaciones de aplicaciones y otros remitentes en Activado o Desactivado. Active las casillas de cualquiera de las siguientes opciones: puede mostrar notificaciones en la pantalla de bloqueo, puede mostrar avisos y llamadas VoIP entrantes en la pantalla de bloqueo, o puede permitir que las notificaciones reproduzcan sonidos
+
+- También puede buscar una aplicación individual en Obtener notificaciones de estos remitentes, seleccionarla y decidir si desea que las notificaciones de esta aplicación estén activadas o desactivadasy, si las quiere activadas, si quiere que esa aplicación Mostrar banners de notificación, Mostrar notificaciones en el centro de actividades o Reproducir un sonido cuando llega una notificación, así como cuántos aparecen y cómo se priorizan
+
+Para obtener información sobre cómo personalizar la barra de tareas y las acciones rápidas disponibles en el centro de actividades, consulta Personalizar la barra de tareas en Windows.
+
+## Artículos relacionados
+
+ Concentración: manténgase concentrado en la tarea sin distracciones en Windows

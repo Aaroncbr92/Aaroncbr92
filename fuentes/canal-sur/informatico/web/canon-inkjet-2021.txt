@@ -1,0 +1,537 @@
+URL: https://global.canon/en/technology/ij2021s.html
+Leído: 2026-10-05
+
+
+
+Inkjet Printers
+
+ 日本語
+
+ Support
+
+ Search
+
+ About Canon 
+
+ About Canon Top
+
+ Vision
+
+ CEO Message 
+
+ Philosophy 
+
+ Business Strategies 
+
+ Corporate Profile
+
+ Basic Info 
+
+ Organization 
+
+ Management 
+
+ Locations 
+
+ Group Directory 
+
+ History 
+
+ Canon Logo 
+
+ Publications 
+
+ Video Square 
+
+ Canon's Activities
+
+ Intellectual Property 
+
+ Design 
+
+ Commitment to Quality 
+
+ Monozukuri 
+
+ Procurement Info 
+
+ Close 
+
+ Our Business 
+
+ Our Business Top
+
+ Printing
+
+ Medical
+
+ Imaging
+
+ Industrial
+
+ Other Products
+
+ Materials 
+
+ Components 
+
+ Close 
+
+ News 
+
+ News Top
+
+ News Releases
+
+ IR News
+
+ Close 
+
+ Sustainability 
+
+ Sustainability Top
+
+ CEO Message on Sustainability
+
+ Sustainability at Canon
+
+ Environment
+
+ Top Page of Environment 
+
+ Environmentally Conscious Management 
+
+ Climate Change 
+
+ Resource Efficiency 
+
+ Chemical Substances 
+
+ Biodiversity 
+
+ Water Resources 
+
+ Society
+
+ Top Page of Society 
+
+ Respecting Human Rights 
+
+ Hiring and Treatment of Human Resources 
+
+ Diversity, Equity and Inclusion 
+
+ Occupational Safety and Health and Productivity Management 
+
+ Human Resource Development 
+
+ Product Responsibility 
+
+ Supply Chain Management 
+
+ Sociocultural Support 
+
+ Governance
+
+ Top Page of Governance 
+
+ Corporate Governance 
+
+ Risk Management 
+
+ Information Security 
+
+ Intellectual Property Management 
+
+ Brand Management 
+
+ Sustainability Report
+
+ Close 
+
+ Investor Relations 
+
+ Investor Relations Top
+
+ Management Policy
+
+ Segment Info
+
+ ESG Activities
+
+ Financial Info
+
+ IR Library
+
+ IR Events
+
+ Stock Info
+
+ IR News
+
+ Disclosure Policy
+
+ Close 
+
+ Technology 
+
+ Technology Top
+
+ CTO Message
+
+ Canon's R&D
+
+ Canon's Technology
+
+ Developers' Story
+
+ Customer/
+ Collaboration Case
+
+ Science Lab
+
+ Close 
+
+ Search
+
+ Close
+
+Vision
+
+CEO Message
+
+Philosophy
+
+Business Strategies
+
+Corporate Profile
+
+Basic Info
+
+Organization
+
+Management
+
+Locations
+
+Group Directory
+
+History
+
+Canon Logo
+
+Publications
+
+Video Square
+
+Canon's Activities
+
+Intellectual Property
+
+Design
+
+Commitment to Quality
+
+Monozukuri
+
+Procurement Info
+
+Printing
+
+Medical
+
+Imaging
+
+Industrial 
+
+Other Products
+
+Materials
+
+Components
+
+News Releases
+
+IR News
+
+CEO Message on Sustainability
+
+Sustainability at Canon
+
+Environment
+
+Environment
+
+Climate Change
+
+Resource Efficiency
+
+Chemical Substances
+
+Biodiversity
+
+Water Resources
+
+Society
+
+Respecting Human Rights
+
+Hiring and Treatment of Human Resources
+
+Diversity, Equity and Inclusion
+
+Occupational Safety and Health and Productivity Management
+
+Human Resource Development
+
+Product Responsibility
+
+Supply Chain Management
+
+Sociocultural Support
+
+Governance
+
+Corporate Governance
+
+Risk Management
+
+Information Security
+
+Intellectual Property Management
+
+Brand Management
+
+Sustainability Report
+
+Management Policy
+
+Segment Info
+
+ESG Activities
+
+Financial Info
+
+IR Library
+
+IR Events
+
+Stock Info
+
+IR News
+
+Disclosure Policy
+
+CTO Message
+
+Canon's R&D
+
+Canon's Technology
+
+Developers' Story
+
+Customer/Collaboration Case
+
+Science Lab
+
+ Technology 
+
+ Top 
+
+ Technology 
+
+ Canon's Technology 
+
+ Inkjet Printers 
+
+Printing
+
+Product Mechanisms and Technologies
+
+Mechatronics
+
+Semiconductor
+
+Material
+
+ March 17, 2022
+
+Making it Easy to Perform All Kinds of Printing, from High-Quality Photo Prints to Low Running Cost Printing
+
+Inkjet Printers
+
+Inkjet printers, which make it easy to create high-quality photo prints, are a combination of high-precision technologies and chemical technologies requiring wide-ranging expertise in such technologies as ink, print heads and paper feed mechanisms.
+
+Table of Contents
+
+How Inkjet Printers Work
+
+Inkjet printers process data sent to them by computers and spray extremely fine droplets of ink onto paper. These droplets have volumes of mere picoliters (one trillionth of a liter). Within the printer, paper is precisely controlled by rubber rollers which feed it little by little to the printing area. The print head moves from side to side across the paper, dropping ink that is affixed to the paper. A wide range of colors are produced by combining the primary printing colors of cyan, magenta, and yellow, together with black, and adjusting their density on the page. The smaller the droplet of ink ejected by the print head, the greater the printing resolution and the smoother the gradients that can be achieved. However, making ink droplets smaller requires even more of them to be rapidly and accurately dropped onto the paper surface. This makes it essential to develop technologies for more rapidly and accurately placing ultra-small droplets on the paper.
+There are two main types of ink ejection mechanism. The thermal process (bubble jet process) uses a heater to create air bubbles in the ink, which pushes the ink out of the nozzle. In printers that use the piezoelectric process, voltage is applied to a piezoelectric element, which changes shape as a result. This compresses the ink, ejecting it from the nozzle. The thermal process allows for a more simple nozzle structure and a greater nozzle density, so it can eject even smaller ink droplets at high speeds. The piezoelectric process, on the other hand, ejects ink using piezoelectric elements whose shape changes when voltage is applied, so the amount of ink that is ejected can be changed by adjusting the voltage that is applied.
+
+Technologies Used in Inkjet Printers
+
+FINE（Full-photolithography Inkjet Nozzle Engineering） 
+
+Controlling Microscopic Ink Droplets 
+
+Ever since Canon developed the basic bubble jet mechanisms used in inkjet printers in the mid-1970s, the company has continued to foster new ideas and create original technologies. The key technology behind these innovations is FINE. FINE's ink ejection mechanism and print head manufacturing technology have enabled Canon to achieve dramatic improvements in print image quality, gradation and image stability.
+
+Ejection Mechanism for Accurate Placement of Ink Droplets 
+
+Microscopic ink droplets and precise ejection are essential to achieving high-quality photo printing. With conventional ejection systems, however, the finer the ink droplets, the more vulnerable they are to airflow disturbances from print head movement and to changes in ink viscosity caused by temperature fluctuations, resulting in inconsistent ejection volumes and ink dot placement. Canon's FINE print heads ensure that almost all of the ink under the heater is pushed out in a single ejection to ensure stable droplet volume. Furthermore, the ink droplet ejection speed has been increased to more than 1.5 times that of conventional systems, reducing its susceptibility to airflow disturbances caused by print head movement and enabling increased placement accuracy.
+
+Print Head Manufacturing Technologies That Achieve Nanometer Precision, Made Possible with Semiconductor Lithography Equipment 
+
+Achieving smaller ink droplet sizes and faster print speeds requires the placement of a greater number of nozzles over a wider area with even greater precision. FINE print heads fit 6,000 or more nozzles on a single chip measuring just approximately 20 mm x 16 mm. This is made possible by integrating the heaters and nozzles into a single unit with a semiconductor wafer using Canon's expertise in semiconductor production, as well as its original material technologies and innovative processing technologies.
+
+ChromaLife100+ 
+
+Beautiful, Long-Lasting Photos 
+
+ChromaLife100+ is a system for preserving the beauty of photos that combines Canon's genuine dye inks1 and genuine photo paper to produce photos with an approximately 300-year album storage period, approximately 40-year light fastness, and approximately 10-year gas fastness against ozone and approximately 20-year gas fastness against mixed gasses2. Ink for bubble jet inkjet printers must meet a variety of requirements: It must be thermally stable, preventing degradation caused by the heat of the heating element; it must maintain a fine droplet configuration (with ink droplets forming proper spheres) during actual use; and it must be safe. Vivid coloration, high ink density, and resistance to color fading are also vital. In Canon's genuine dye inks, the dye architecture of the ink has been modified and an agent has been added to improve the longevity of the photo paper’s ink-receiving layer. These innovations have led to significant improvements in gas fastness and light fastness. What’s more, the reproduction of colors in the red spectrum has been expanded, making it possible to maintain rich, vivid colors over an extended period of time.
+
+1 A type of ink in which dye is dissolved at the molecular level, unlike pigment inks, in which it remains in particle form, undissolved.
+
+2 The approximately 300-year album storage period, approximately 40-year light fastness, and approximately 10-year gas fastness (ozone) and approximately 20-year gas fastness (mixed gasses) permanence figures are projections based on simulations conducted by Canon using accelerated testing and are not guaranteed.
+
+Premium Six-Color Hybrid-Ink
+
+More Beautiful, Detailed Photos
+
+In the premium six-color hybrid-ink used by the PIXUS XK80, released in 2018, magenta ink was developed from the ground up. This ink makes possible more vivid reproduction of colors in the red spectrum. Canon also developed a new Photo Blue ink that improves the expression of colors achieved through the combination of cyan and magenta inks while simultaneously reducing graininess in the blue and white spectrums. This makes possible even smoother and more beautiful reproduction of faint colors such as those found in scenery and skin.
+
+Another Articles
+
+Search All Articles
+
+Recommended Articles
+
+Article Ranking
+
+Table of Contents
+
+Another Articles
+
+Search All Articles
+
+Recommended Articles
+
+Article Ranking
+
+ --> 
+
+ About Canon
+
+ CEO Message
+
+ Philosophy
+
+ Business Strategies
+
+ Basic Info
+
+ Organization
+
+ Management
+
+ Locations
+
+ Group Directory
+
+ History
+
+ Canon Logo
+
+ Publications
+
+ Video Square
+
+ Intellectual Property
+
+ Design
+
+ Commitment to Quality
+
+ Monozukuri
+
+ Procurement Info
+
+ Our Business
+
+ Printing
+
+ Medical
+
+ Imaging
+
+ Industrial
+
+ Other Products
+
+ News
+
+ News Releases
+
+ IR News
+
+ Sustainability
+
+ CEO Message on Sustainability
+
+ Sustainability at Canon
+
+ Environment
+
+ Society
+
+ Governance
+
+ Sustainability Report
+
+ Investor Relations
+
+ Management Policy
+
+ Segment Info
+
+ ESG Activities
+
+ Financial Info
+
+ IR Library
+
+ IR Events
+
+ Stock Info
+
+ IR News
+
+ Disclosure Policy
+
+ Technology
+
+ CTO Message
+
+ Canon's R&D
+
+ Canon's Technology
+
+ Developers' Story
+
+ Customer/Collaboration Case
+
+ Science Lab
+
+ Official Social Media Account Lists
+
+ Site Map
+ Contact Us
+
+ Terms of Use
+ Privacy Policy
+
+ Official Social Media Account Lists
+
+© Canon Inc.
+

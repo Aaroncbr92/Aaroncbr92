@@ -1,0 +1,622 @@
+URL: https://learn.microsoft.com/es-es/powershell/module/microsoft.powershell.management/get-service
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Get-Service
+
+Módulo:
+
+Microsoft.PowerShell.Management Module
+
+## 
+
+Obtiene los servicios del equipo.
+
+## Sintaxis
+
+### 
+ Default (valor predeterminado)
+
+`Get-Service
+ [[-Name] <String[]>]
+ [-DependentServices]
+ [-RequiredServices]
+ [-Include <String[]>]
+ [-Exclude <String[]>]
+ [<CommonParameters>]
+`
+
+### 
+ DisplayName
+
+`Get-Service
+ -DisplayName <String[]>
+ [-DependentServices]
+ [-RequiredServices]
+ [-Include <String[]>]
+ [-Exclude <String[]>]
+ [<CommonParameters>]
+`
+
+### 
+ InputObject
+
+`Get-Service
+ [-DependentServices]
+ [-RequiredServices]
+ [-Include <String[]>]
+ [-Exclude <String[]>]
+ [-InputObject <ServiceController[]>]
+ [<CommonParameters>]
+`
+
+## Description
+
+ Este cmdlet solo está disponible en la plataforma Windows.
+
+El cmdlet `Get-Service` obtiene objetos que representan los servicios de un equipo, incluidos los servicios en ejecución y detenidos. De forma predeterminada, cuando `Get-Service` se ejecuta sin parámetros, se devuelven todos los servicios del equipo local.
+
+Puede indicar a este cmdlet que obtenga solo determinados servicios especificando el nombre del servicio o el nombre para mostrar de los servicios, o puede canalizar objetos de servicio a este cmdlet.
+
+## Ejemplos
+
+### Ejemplo 1: Obtener todos los servicios del equipo
+
+Este ejemplo obtiene todos los servicios del equipo. Se comporta como si escribeste `Get-Service *`. La pantalla predeterminada muestra el estado, el nombre del servicio y el nombre para mostrar de cada servicio.
+
+`Get-Service
+`
+
+### Ejemplo 2: Obtener servicios que comienzan con una cadena de búsqueda
+
+En este ejemplo se recuperan los servicios con nombres de servicio que comienzan por `WMI` (Instrumental de administración de Windows).
+
+`Get-Service "wmi*"
+`
+
+### Ejemplo 3: Mostrar servicios que incluyen una cadena de búsqueda
+
+Este ejemplo muestra servicios con un nombre de visualización que incluye la palabra `network`. Al buscar el nombre para mostrar se encuentran servicios relacionados con la red incluso cuando el nombre del servicio no incluye `Net`, como xmlprov, el servicio de aprovisionamiento de red.
+
+`Get-Service -DisplayName "*network*"
+`
+
+### Ejemplo 4: Obtener servicios que comienzan con una cadena de búsqueda y una exclusión
+
+En este ejemplo solo se obtienen los servicios con nombres de servicio que comienzan por `win`, excepto para el servicio WinRM.
+
+`Get-Service -Name "win*" -Exclude "WinRM"
+`
+
+### Ejemplo 5: Mostrar servicios que están activos actualmente
+
+En este ejemplo solo se muestran los servicios con un estado de `Running`.
+
+`Get-Service | Where-Object {$_.Status -eq "Running"}
+`
+
+ `Get-Service` obtiene todos los servicios del equipo y envía los objetos por la pipeline. El cmdlet `Where-Object`, selecciona solo los servicios con una propiedad Status que sea igual a `Running`.
+
+Status solo es una propiedad de los objetos de servicio. Para ver todas las propiedades, escriba `Get-Service | Get-Member`.
+
+### Ejemplo 6: Enumeración de los servicios en el equipo que tienen servicios dependientes
+
+Este ejemplo obtiene los servicios que tienen servicios dependientes.
+
+`Get-Service | Where-Object {$_.DependentServices} |
+ Format-List -Property Name, DependentServices, @{
+ Label = "NoOfDependentServices"
+ Expression = {$_.DependentServices.Count}
+ }
+`
+
+`Name : AudioEndpointBuilder
+DependentServices : {AudioSrv}
+NoOfDependentServices : 1
+
+Name : Dhcp
+DependentServices : {WinHttpAutoProxySvc}
+NoOfDependentServices : 1
+...
+`
+
+El cmdlet `Get-Service` obtiene todos los servicios del equipo y envía los objetos por la pipeline. El cmdlet `Where-Object` selecciona los servicios cuya propiedad DependentServices no sea nula.
+
+Los resultados se envían por la pipeline al cmdlet `Format-List`. El parámetro Property muestra el nombre del servicio, el nombre de los servicios dependientes y una propiedad calculada que muestra el número de servicios dependientes para cada servicio.
+
+### Ejemplo 7: Ordenar servicios por valor de propiedad
+
+En este ejemplo se muestra que cuando se ordenan los servicios en orden ascendente por el valor de su propiedad Status, los servicios detenidos aparecen antes que los servicios en ejecución. Esto sucede porque el valor de Status es una enumeración, en la que `Stopped` tiene un valor de `1`y `Running` tiene un valor de `4`. Para obtener más información, consulte ServiceControllerStatus.
+
+Para enumerar primero los servicios en ejecución, use el parámetro descendente de del cmdlet `Sort-Object`.
+
+`Get-Service "s*" | Sort-Object Status
+`
+
+`Status Name DisplayName
+------ ---- -----------
+Stopped stisvc Windows Image Acquisition (WIA)
+Stopped SwPrv MS Software Shadow Copy Provider
+Stopped SysmonLog Performance Logs and Alerts
+Running Spooler Print Spooler
+Running srservice System Restore Service
+Running SSDPSRV SSDP Discovery Service
+Running ShellHWDetection Shell Hardware Detection
+Running Schedule Task Scheduler
+Running SCardSvr Smart Card
+Running SamSs Security Accounts Manager
+Running SharedAccess Windows Firewall/Internet Connectio...
+Running SENS System Event Notification
+Running seclogon Secondary Logon
+`
+
+### Ejemplo 8: Obtener los servicios dependientes de un servicio
+
+En este ejemplo se obtienen los servicios que requiere el servicio WinRM. Se devuelve el valor de la propiedad ServicesDependedOn del servicio.
+
+`Get-Service "WinRM" -RequiredServices
+`
+
+### Ejemplo 9: Obtención de un servicio mediante el operador de canalización
+
+En este ejemplo se obtiene el servicio WinRM en el equipo local. La cadena de nombre del servicio, entre comillas, se envía por la pipeline a `Get-Service`.
+
+`"WinRM" | Get-Service
+`
+
+## Parámetros
+
+### -DependentServices
+
+Indica que este cmdlet obtiene solo los servicios que dependen del servicio especificado.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | SwitchParameter
+
+ | Valor predeterminado:
+
+ | False
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+ | Alias:
+
+ | DS
+
+#### Conjuntos de parámetros
+
+ (All) 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -DisplayName
+
+Especifica, como matriz de cadenas, los nombres visibles de los servicios que vas a recuperar. Se permiten los caracteres comodín.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | 
+String[]
+
+ | Valor predeterminado:
+
+ | None
+
+ | Admite caracteres comodín:
+
+ | True
+
+ | DontShow:
+
+ | False
+
+#### Conjuntos de parámetros
+
+ DisplayName 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | True
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -Exclude
+
+Especifica, como una matriz de cadenas, un servicio o servicios que este cmdlet excluye de la operación.
+El valor de este parámetro condiciona el parámetro Name. Escriba un elemento de nombre o patrón, como `s*`. Se permiten los caracteres comodín.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | 
+String[]
+
+ | Valor predeterminado:
+
+ | None
+
+ | Admite caracteres comodín:
+
+ | True
+
+ | DontShow:
+
+ | False
+
+#### Conjuntos de parámetros
+
+ (All) 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -Include
+
+Especifica, como matriz de cadenas, un servicio o servicios que este cmdlet incluye en la operación. El valor de este parámetro condiciona el parámetro Name. Escriba un elemento de nombre o patrón, como `s*`. Se permiten los caracteres comodín.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | 
+String[]
+
+ | Valor predeterminado:
+
+ | None
+
+ | Admite caracteres comodín:
+
+ | True
+
+ | DontShow:
+
+ | False
+
+#### Conjuntos de parámetros
+
+ (All) 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -InputObject
+
+Especifica ServiceController objetos que representan los servicios que se van a recuperar. Escriba una variable que contenga los objetos, o escriba un comando o expresión que obtenga los objetos. Puede canalizar un objeto de servicio a este cmdlet.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | 
+ServiceController[]
+
+ | Valor predeterminado:
+
+ | None
+
+ | Admite caracteres comodín:
+
+ | False
+
+ | DontShow:
+
+ | False
+
+#### Conjuntos de parámetros
+
+ InputObject 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | True
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -Name
+
+Especifica los nombres de servicio de los servicios que se van a recuperar. Se permiten los caracteres comodín.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | 
+String[]
+
+ | Valor predeterminado:
+
+ | None
+
+ | Admite caracteres comodín:
+
+ | True
+
+ | DontShow:
+
+ | False
+
+ | Alias:
+
+ | NombreDelServicio
+
+#### Conjuntos de parámetros
+
+ Default 
+
+ | Posición:
+
+ | 0
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | True
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | True
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### -RequiredServices
+
+Indica que este cmdlet obtiene solo los servicios que requiere este servicio. Este parámetro obtiene el valor de la propiedad ServicesDependedOn del servicio.
+
+#### Propiedades de parámetro
+
+ | Tipo:
+
+ | SwitchParameter
+
+ | Valor predeterminado:
+
+ | False
+
+ | Admite caracteres comodín:
+
+ | True
+
+ | DontShow:
+
+ | False
+
+ | Alias:
+
+ | SDO, ServicesDependedOn
+
+#### Conjuntos de parámetros
+
+ (All) 
+
+ | Posición:
+
+ | Named
+
+ | Mandatory:
+
+ | False
+
+ | Valor de la canalización:
+
+ | False
+
+ | Valor de la canalización por nombre de propiedad:
+
+ | False
+
+ | Valor de los argumentos restantes:
+
+ | False
+
+### CommonParameters
+
+Este cmdlet admite los parámetros comunes: -Debug, -ErrorAction, -ErrorVariable, -InformationAction, -InformationVariable, -OutBuffer, -OutVariable, -PipelineVariable, -ProgressAction, -Verbose, -WarningAction y -WarningVariable. Para obtener más información, vea about_CommonParameters.
+
+## Entradas
+
+### ServiceController
+
+Puede canalizar un objeto de servicio a este cmdlet.
+
+### String
+
+Puede canalizar un nombre de servicio a este cmdlet.
+
+## Salidas
+
+### ServiceController
+
+Este cmdlet devuelve objetos que representan los servicios del equipo.
+
+## Notas
+
+PowerShell incluye los siguientes alias para `Get-Service`:
+
+- Windows: 
+
+- `gsv`
+
+Este cmdlet solo está disponible en plataformas Windows.
+
+PowerShell 6.0 introdujo los siguientes cambios:
+
+- Los objetos ServiceController ahora incluyen las siguientes propiedades: 
+
+- 
+ UserName
+
+- 
+ Descripción
+
+- 
+ DelayedAutoStart
+
+- 
+ BinaryPathName
+
+- 
+ StartupType
+
+- El comando ya no incluye el parámetro ComputerName . Para usar este comando en un equipo remoto, use para `Invoke-Command` dirigirse a un sistema remoto.
+
+Este cmdlet solo puede mostrar servicios cuando el usuario actual tiene permiso para verlos. Si este cmdlet no muestra servicios, es posible que no tenga permiso para verlos.
+
+Para ver el nombre de servicio y el nombre para mostrar de los servicios del sistema, escriba `Get-Service`. Los nombres de servicio aparecen en la columna Name y los nombres para mostrar aparecen en la columna DisplayName.
+
+Nota:
+
+Normalmente, `Get-Service` devuelve información sobre servicios y no sobre controladores. Sin embargo, si especifica el nombre de un controlador, `Get-Service` devuelve información sobre el controlador.
+
+- La enumeración no incluye servicios de controladores de dispositivos
+
+- Cuando se especifica un carácter comodín, el cmdlet solo devuelve servicios de Windows.
+
+- Si se especifica Name o DisplayName que coincide exactamente con un nombre de servicio de dispositivo, se devuelve la instancia del dispositivo.
+
+Al ordenar por valor de estado ascendente, los servicios `Stopped` aparecen antes que los servicios `Running`. El Estado propiedad de un servicio es un valor enumerado en el que los nombres de los estados representan valores enteros. La ordenación se basa en el valor entero, no en el nombre. 
+ `Running` aparece antes de `Stopped` porque `Stopped` tiene un valor de `1`y `Running` tiene un valor de `4`. Para obtener más información, consulte ServiceControllerStatus.
+
+## Vínculos relacionados
+
+- Invoke-Command
+
+- Nuevo Servicio
+
+- Reiniciar servicio
+
+- Resume-Service
+
+- Set-Service
+
+- Start-Service
+
+- Stop-Service
+
+- Suspend-Service
+
+- Remove-Service
+
+ Colaborar con nosotros en GitHub
+
+ El origen de este contenido se puede encontrar en GitHub, donde también puede crear y revisar problemas y solicitudes de incorporación de cambios. Para más información, consulte nuestra guía para colaboradores.
+
+ PowerShell
+
+ Abrir incidencia con la documentación
+
+ Proporcionar comentarios sobre el producto
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?

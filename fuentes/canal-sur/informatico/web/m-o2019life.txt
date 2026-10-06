@@ -1,0 +1,54 @@
+URL: https://learn.microsoft.com/es-es/lifecycle/products/microsoft-office-2019
+Leído: 2026-10-05
+
+Leer en inglés
+
+# 
+ Microsoft Office 2019.
+
+Microsoft Office 2019 se rige por la directiva de ciclo de vida fijo.
+
+Se aplica a las siguientes ediciones: Hogar y Empresas, Hogar y Estudiantes, Personal, Profesional, Profesional Académico, Profesional Plus, Standard
+
+Las fechas de soporte técnico se muestran en la zona horaria del Pacífico: Redmond, Washington (Estados Unidos).
+
+## Fechas de soporte técnico
+
+ | Lista
+
+ | Fecha de inicio
+
+ | Fecha de finalización estándar
+
+ | Fecha de finalización ampliada
+
+ | Microsoft Office 2019.
+
+ | 
+ 9/24/2018 8:00:00 AM
+
+ | 
+ 10/11/2023 6:59:59 AM
+
+ | 
+ 10/15/2025 6:59:59 AM
+
+## Vínculos
+
+- Guía de migración
+
+## Ediciones
+
+- Hogar y Empresa
+
+- Hogar y Estudiantes
+
+- Personal
+
+- Professional
+
+- Profesional Académico
+
+- Professional Plus
+
+- Estándar

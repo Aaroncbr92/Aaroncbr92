@@ -1,0 +1,76 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/convert-gpt
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# convert gpt
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Convierte un disco básico vacío con el estilo de partición de registro de arranque maestro (MBR) en un disco básico con el estilo de partición de la tabla de particiones GUID (GPT). Se debe seleccionar un disco MBR básico para que esta operación se realice correctamente. Use el comando seleccionar disco para seleccionar un disco básico y desplazar el foco a él.
+
+Important
+
+El disco debe estar vacío para convertirlo en un disco básico. Realice una copia de seguridad de los datos y elimine todas las particiones o volúmenes antes de convertir el disco. El tamaño mínimo de disco necesario para la conversión a GPT es de 128 megabytes.
+
+Note
+
+Para obtener instrucciones sobre cómo usar este comando, consulte Cambiar un disco de registro de arranque maestro en un disco de tabla de particiones GUID.
+
+## Syntax
+
+`convert gpt [noerr]
+`
+
+### Parameters
+
+ | Parameter
+
+ | Description
+
+ | noerr
+
+ | Solo para scripting. Cuando se produce un error, DiskPart continúa procesando comandos como si no se produjera el error. Sin este parámetro, un error hace que DiskPart salga con un código de error.
+
+## Examples
+
+Para convertir un disco básico del estilo de partición MBR al estilo de partición GPT, escriba:
+
+`convert gpt
+`
+
+## Related links
+
+- 
+
+ Clave de sintaxis de línea de comandos
+
+- 
+
+ convert command
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-07-13

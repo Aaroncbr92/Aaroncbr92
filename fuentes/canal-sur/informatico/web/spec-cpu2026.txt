@@ -1,0 +1,476 @@
+URL: https://www.spec.org/cpu2026/
+Leído: 2026-10-05
+
+
+
+ SPEC CPU 2026
+
+ Products
+
+ Cloud
+
+ SPEC Cloud IaaS 2018
+
+ CPU
+
+ SPEC CPU 2026
+
+ SPEC CPU 2017
+
+ Embedded
+
+ ADASMark
+
+ AudioMark
+
+ AutoBench
+
+ BrowsingBench
+
+ CoreMark
+
+ CoreMark-Pro
+
+ DENBench
+
+ FPMark
+
+ IoTMark
+
+ MLMark
+
+ MultiBench
+
+ Networking
+
+ OABench
+
+ SecureMark
+
+ TeleBench
+
+ ULPMark
+
+ Graphics/Workstation
+
+ High Performance (HPG)
+
+ SPECaccel 2023
+
+ SPEChpc 2021
+
+ SPEC MPI 2007
+
+ SPEC OMP 2012
+
+ Java Client/Server
+
+ SPECjbb2015
+
+ SPECjEnterprise 2018 Web Profile
+
+ SPECjEnterprise 2010
+
+ SPECjvm 2008
+
+ Power
+
+ SPECpower_ssj2008
+
+ SPEC PTDaemon Interface
+
+ SPEC Chauffeur WDK
+
+ SERT Suite
+
+ Storage
+
+ SPECstorage Solution 2020
+
+ Virtualization
+
+ SPECvirt Datacenter 2021
+
+ SPEC virt_sc 2013
+
+ Retired Benchmarks
+
+ Results
+
+ Cloud
+
+ SPEC Cloud IaaS 2018
+
+ SPEC Cloud IaaS 2016
+
+ CPU
+
+ SPEC CPU 2026
+
+ SPEC CPU 2017
+
+ SPEC CPU 2006
+
+ SPEC CPU 2000
+
+ Embedded
+
+ AndEBench-Pro Results
+
+ AudioMark Results
+
+ CoreMark Results
+
+ CoreMark-Pro Results
+
+ MLBench Results
+
+ Graphics/Workstation
+
+ SPECapc for 3ds Max
+
+ SPECapc for Creo
+
+ SPECapc for Maya
+
+ SPECapc for Siemens NX
+
+ SPECapc for Solidworks
+
+ SPECviewperf
+
+ SPECworkstation
+
+ High Performance (HPG)
+
+ SPECaccel 2023
+
+ SPEC ACCEL
+
+ SPEChpc 2021
+
+ SPEC MPI 2007
+
+ SPEC OMP 2012
+
+ Java Client/Server
+
+ SPECjAppServer 2004
+
+ SPECjAppServer 2002
+
+ SPECjAppServer 2001
+
+ SPECjbb 2015
+
+ SPECjbb 2013
+
+ SPECjbb 2005
+
+ SPECjbb 2000
+
+ SPECjEnterprise 2018 Web Profile
+
+ SPECjEnterprise 2010
+
+ SPEC JMS 2007
+
+ SPECjvm 2008
+
+ SPECjvm 98
+
+ Mail Server
+
+ SPECmail 2009
+
+ SPECmail 2008
+
+ SPECmail 2001
+
+ Power
+
+ SPECpower_ssj 2008
+
+ Storage
+
+ SPECstorage Solution 2020
+
+ SPEC SFS 2014
+
+ SPEC SFS 2008
+
+ SPEC SFS 97_R1
+
+ SPEC SFS 97
+
+ Virtualization
+
+ SPEC VIRT Datacenter 2021
+
+ SPEC VIRT_SC 2013
+
+ SPEC VIRT_SC 2010
+
+ Web Server
+
+ SPECweb 2009
+
+ SPECweb 2005
+
+ SPECweb 99_SSL
+
+ SPECweb 99
+
+ SPECweb 96
+
+ Result Fair Use
+
+ News
+
+ SPEC Blog
+
+ SPEC Newsletter
+
+ Press Releases
+
+ Media Coverage
+
+ Info
+
+ About SPEC
+
+ SPEC Groups
+
+ Embedded Group
+
+ Graphics & Workstation Performance Group
+
+ High Performance Computing Group
+
+ International Standards Group
+
+ Open Systems Group
+
+ Research Group
+
+ Contact SPEC
+
+ Joining SPEC
+
+ Order SPEC Benchmarks
+
+ Submit Benchmark Results
+
+ SPEC Fair Use Rules
+
+ SPEC Trademarks
+
+ SPEC Website Search
+
+ SPEC Mirror Sites
+
+ Published Results
+
+ All SPEC CPU 2026 Results
+
+ All SPECspeed 2026 Floating Point Results
+
+ All SPECspeed 2026 Integer Results
+
+ All SPECrate 2026 Floating Point Results
+
+ All SPECrate 2026 Integer Results
+
+ Fair Use Policy
+
+ Documentation
+
+ What's New?
+
+ System Requirements
+
+ Run Rules
+
+ Using SPEC CPU 2026
+
+ SPEC CPU 2026 benchmarks
+
+ Support
+
+ Technical Support
+
+ Known Issues
+
+ Frequently Asked Questions
+
+ Purchase
+
+ Purchase SPEC CPU 2026
+
+ Purchase SPEC CPU 2026 upgrade from SPEC CPU 2017
+
+ Purchase SPEC CPU 2026 at non-profit pricing
+
+ Request a free academic license for SPEC CPU 2026
+
+ Press and Resources
+
+ SPEC CPU 2026 V1.0 Press Release
+
+ SPEC CPU 2026 Article
+
+ SPEC CPU 2026 Presentation
+
+ SPEC CPU 2026 Quotes
+
+SPEC CPU® 2026 benchmark
+
+The SPEC CPU® 2026 benchmark package contains SPEC's next-generation, industry-standardized, CPU intensive suites for measuring
+and comparing compute intensive performance, stressing a system's processor, memory subsystem and compiler.
+
+The SPEC CPU 2026 benchmark price is $3000 for new customers with reduced
+pricing of $2,000 available until November 3, 2026 for existing licensees
+of SPEC CPU 2017 prior to May 5, 2026. The price for qualified non-profit
+organizations is $750, and accredited academic institutions are eligible
+for a free license.
+
+Academic licenses are granted to accredited educational institutions and
+must be requested by a professor or full-time staff member affiliated with
+the organization. Eligibility for upgrade, non-profit pricing and
+academic license requests will be verified before the purchase is
+completed. Students interested in obtaining an academic license should
+coordinate with a professor or full-time staff member, who must place the
+order on behalf of the institution.
+
+To find out if your organization has an existing license for a SPEC product please contact SPEC at info@spec.org.
+
+Purchase SPEC CPU® 2026
+
+Purchase SPEC CPU® 2026 upgrade from SPEC CPU® 2017
+
+Purchase SPEC CPU® 2026 with non-profit pricing
+
+Request a free SPEC CPU® 2026 academic license
+
+SPEC designed these suites to provide a comparative measure of compute-intensive performance across the widest practical range of hardware using workloads developed from real user applications. The benchmarks are provided as source code and require the use of compiler commands as well as other commands via a shell or command prompt window. SPEC CPU 2026 also includes an optional metric for measuring energy consumption.
+
+The SPEC CPU 2026 benchmark package contains 52 benchmarks, organized into four suites:
+
+The SPECspeed® 2026 Integer and SPECspeed® 2026 Floating Point suites are used for comparing time for a computer to complete single tasks.
+
+The SPECrate® 2026 Integer and SPECrate® 2026 Floating Point suites measure the throughput or work per unit of time.
+
+More information:
+
+Suites
+
+Benchmarks
+
+SPECspeed and SPECrate metrics
+
+What's new in the SPEC CPU 2026 benchmark package
+
+All documentation
+
+Results
+
+Submitted Results
+
+Text, HTML, CSV, PDF, and Configuration file outputs for the SPEC CPU 2026 metrics; includes all of the results submitted to SPEC from the SPEC member companies and other licensees of the benchmark package.
+
+Search across all the SPEC CPU 2026 benchmark results in SPEC's online result database.
+
+Flags
+
+Flag Descriptions - explanations from the testers for what the flags in the results' notes section really mean.
+
+Benchmark Documentation
+
+Index of SPEC CPU 2026 documentation, the Run and Reporting Rules, benchmark descriptions, etc. All documentation available for the benchmark distribution is found/maintained/updated here.
+
+Updating Your Copy
+
+If you have already purchased SPEC CPU 2026 and would like to check for and download/apply any available updates, please see the instructions for updating your software. The update process requires an internet connection to check for and download any available updates.
+
+Support
+
+If help is needed with running the SPEC CPU 2026 benchmark suites, please see the technical support page. You may also want to check the FAQ and the known issues pages.
+
+Benchmark Press Releases
+
+Press release material, documents, and announcements:
+
+SPEC Releases the SPEC CPU 2026 Benchmark Suites to Address the Latest Advances in CPU, Memory, and Compiler Technology (05/05/2026)
+
+SPEC CPU 2026 Media Presentation
+
+Related Publications
+
+SPEC CPU 2026 Benchmark Suites – Why the World Still Trusts SPEC to Measure What Matters Frédérique Silber-Chaussumier, Chair of the SPEC CPU Committee
+
+SPEC CPU 2026 Benchmark Suites Poster presentation at ICPE 2026
+
+SPEC CPU: The Next Generation Madhav, M., Lee, A., Mejia, A., Moore, B., Soppadandi, C., Cambly, C., Müllner, C., Bowers, D., Reiner, D., Bakhvalov, D. and Zhao, D., 2026.
+
+ Published Results
+
+ All SPEC CPU 2026 Results
+
+ All SPECspeed 2026 Floating Point Results
+
+ All SPECspeed 2026 Integer Results
+
+ All SPECrate 2026 Floating Point Results
+
+ All SPECrate 2026 Integer Results
+
+ Fair Use Policy
+
+ Documentation
+
+ What's New?
+
+ System Requirements
+
+ Run Rules
+
+ Using SPEC CPU 2026
+
+ SPEC CPU 2026 benchmarks
+
+ Support
+
+ Technical Support
+
+ Known Issues
+
+ Frequently Asked Questions
+
+ Purchase
+
+ Purchase SPEC CPU 2026
+
+ Purchase SPEC CPU 2026 upgrade from SPEC CPU 2017
+
+ Purchase SPEC CPU 2026 at non-profit pricing
+
+ Request a free academic license for SPEC CPU 2026
+
+ Press and Resources
+
+ SPEC CPU 2026 V1.0 Press Release
+
+ SPEC CPU 2026 Article
+
+ SPEC CPU 2026 Presentation
+
+ SPEC CPU 2026 Quotes
+
+© 1995 - 2026 Standard Performance Evaluation Corporation
+
+ Privacy
+ |
+ Trademarks
+ |
+ Fair Use
+

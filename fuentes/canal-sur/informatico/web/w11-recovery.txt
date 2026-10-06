@@ -1,0 +1,318 @@
+URL: https://support.microsoft.com/es-es/windows/experience/backup-recovery/recovery-options-in-windows
+Leído: 2026-10-05
+
+# Opciones de recuperación en Windows
+
+ Se aplica a
+Windows 11 Windows 10 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo creo una unidad de recuperación?
+
+ ¿Qué opciones de recuperación ofrece Windows?
+
+ ¿Cómo regreso a una versión anterior de Windows?
+
+Si tienes problemas con tu equipo, esta página te ayuda a encontrar la solución correcta. Comience con la primera opción recomendada como la menos disruptiva. Pruebe las siguientes opciones solo si es necesario.
+
+Importante
+
+ Antes de empezar: Algunas opciones de recuperación pueden provocar la pérdida de datos. 
+ Haz una copia de seguridad de tus archivos importantes y habilita las Copias de seguridad de Windows (Cuentas> de configuración>:Copias de seguridad de Windows) para guardar las aplicaciones y la configuración antes de continuar.
+
+## ¿Qué está pasando con tu PC?
+
+ Escenario A: Mi equipo se inicia, pero algo no va bien
+
+Es lento, se bloquea, se congela o se comporta de forma inesperada.
+
+ Escenario B: Mi equipo no se inicia o está en un bucle de reinicio
+
+Está atascado en una pantalla negra o azul, mostrando un error o atascado en un bucle de reinicio.
+
+## Escenario A: Mi equipo se inicia, pero algo no va bien
+
+Prueba estas opciones en orden. Comience con la opción 1: es la menos disruptiva.
+
+ | 
+
+ | 
+ Opción de recuperación
+
+ | 
+ Disponibilidad
+
+ | 
+ 1
+
+ | 
+
+ Ejecutar un solucionador de problemas 
+
+Windows cuenta con solucionadores de problemas integrados que pueden buscar y corregir automáticamente problemas comunes. Vaya a Configuración>,Solución>de problemas del sistema>, otros solucionadores de problemas y ejecute el que coincida con el problema.
+
+ | Windows 10 y Windows 11
+
+ | 
+ 2
+
+ | 
+
+ Reinstalar Windows
+
+Esta acción reinstala la versión actual sin afectar a los archivos, las aplicaciones ni la configuración.
+
+ | Windows 11, versión 22H2 o posterior
+
+ | 
+ 3
+
+ | 
+
+ Desinstalar una actualización de Windows
+
+Si el problema comenzó después de una actualización reciente de Windows, desinstalarla podría solucionar el problema. Sus archivos y aplicaciones no se ven afectados. 
+
+Si el problema comenzó después de actualizar a una nueva versión de Windows, intenta volver a la versión anterior (disponible durante 10 días después de la actualización).
+
+ | Windows 10 y Windows 11
+
+ | 
+ 4
+
+ | 
+
+ Restauración a un momento dado [¡NUEVO!]
+
+Esta acción revierte todo el equipo, incluidas las aplicaciones, la configuración y los archivos personales, a un punto de restauración automática reciente. En primer lugar, compruebe si tiene un punto de restauración disponible antes de que se produjera el problema navegando aRestauración a un momento dado derecuperación> del sistema> y viendo los puntos de restauración. Si es así, arranca en WinRE desde la configuración navegando alinicio avanzadode recuperación> y selecciona Reiniciar ahora. En WinRE, selecciona Solucionar> problemasde restauración a un momento dado y, a continuación, elige un punto de restauración. Solo se perderán los cambios realizados después del punto de restauración seleccionado.
+
+ | Windows 11, versión 24H2 o posterior
+
+ | 
+ 5
+
+ | 
+
+ Restablecer este PC
+
+Esta acción reinstala Windows desde cero. Puede optar por conservar sus archivos personales o quitarlos todos. Prueba primero las opciones anteriores. Esta opción es muy perturbadora.
+
+ | Windows 10 y Windows 11
+
+ Opciones adicionales
+
+- 
+
+ Restauración del sistema: revierte los archivos y la configuración del sistema (pero no los archivos personales) y está disponible tanto en Windows 10 como en Windows 11. Se puede usar en el caso de que la restauración a un momento dado no esté disponible o necesite volver a un punto de restauración anterior a 3 días.
+
+- 
+
+ Reinstalar Windows desde medios de recuperación: Para obtener la mejor compatibilidad, considera la posibilidad de descargar medios de recuperación del fabricante del dispositivo (OEM) de tu PC mediante su sitio web. Las imágenes de recuperación proporcionadas por el fabricante suelen incluir controladores específicos de hardware y aplicaciones de fábrica que podrían no incluirse al reinstalar Windows con medios de instalación genéricos de Microsoft.
+
+- 
+
+ Reinstala Windows con medios de instalación: si sospechas que el dispositivo se ha infectado con malware, o si nada más funciona. Esto quita todo del dispositivo.
+
+- 
+
+ Reinstalar Windows con una unidad de recuperación: si creaste una unidad de recuperación cuando el equipo estaba funcionando, puedes arrancar desde ella para reinstalar Windows.
+
+¿Aún tiene problemas? Si ninguna de las opciones anteriores resolvió el problema y el equipo está administrado por su trabajo o escuela, póngase en contacto con el departamento de TI. Es posible que puedan ayudar de forma remota.
+
+## Escenario B: Mi equipo no se inicia
+
+En caso de una interrupción masiva, si el dispositivo ejecuta Windows 11, versión 24H2 o posterior, y la recuperación rápida de la máquina está habilitada, detecta automáticamente errores de arranque repetidos e intenta aplicar una corrección de Windows Update, sin necesidad de que hagas nada. 
+ Prueba a reiniciar el equipo en primer lugar para ver si el problema ya se ha resuelto.
+
+Nota
+
+Si BitLocker está habilitado en el dispositivo, necesitarás la clave de recuperación de BitLocker para acceder a la mayoría de las opciones de recuperación de WinRE.
+
+Si el equipo sigue sin iniciarse, prueba estas opciones desde el Entorno de recuperación de Windows (WinRE):
+
+ | 
+
+ | 
+ Opción de recuperación
+
+ | 
+ Disponibilidad
+
+ | 
+ 1
+
+ | 
+
+ Restauración a un momento dado [¡NUEVO!]
+
+Esta acción revierte todo el equipo, incluidas las aplicaciones, la configuración y los archivos personales, a un punto de restauración automática reciente. En WinRE, selecciona Solucionar> problemasde restauración a un momento dado y, a continuación, elige un punto de restauración. Solo se perderán los cambios realizados después del punto de restauración seleccionado.
+
+ | Windows 11, versión 24H2 o posterior
+
+ | 
+ 2
+
+ | 
+
+ Desinstalar actualizaciones 
+
+Si el problema comenzó después de una actualización reciente de Windows, desinstalarla podría solucionar el problema. Sus archivos y aplicaciones no se ven afectados. En WinRE, seleccione Solucionar> problemasOpciones avanzadas>Desinstalar actualizaciones.
+
+ | Windows 10 y Windows 11
+
+ | 
+ 3
+
+ | 
+
+ Restablecer este PC
+
+Reinstala Windows. Puede optar por conservar sus archivos personales o quitarlos todos. En WinRE, seleccione Solucionar> problemasRestablecer este equipo.
+
+ | Windows 10 y Windows 11
+
+ | 
+ 4
+
+ | 
+ Reinstalar Windows desde medios de recuperación
+
+Para obtener la mejor compatibilidad, considera la posibilidad de descargar medios de recuperación del fabricante del dispositivo (OEM) de tu PC mediante su sitio web. Las imágenes de recuperación proporcionadas por el fabricante suelen incluir controladores específicos de hardware y aplicaciones de fábrica que podrían no incluirse al reinstalar Windows con medios de instalación genéricos de Microsoft.
+
+Como alternativa, puedes reinstalar Windows con medios de instalación: descarga Windows en otro equipo que funcione, crea una unidad USB de arranque y úsala para reinstalar Windows. Esto quita todo del dispositivo.
+
+ | Windows 10 y Windows 11
+
+ Opciones adicionales
+
+- 
+ Restauración del sistema Revierte los archivos y la configuración del sistema (pero no los archivos personales) y está disponible tanto en Windows 10 como en Windows 11. Se puede usar en el caso de que la restauración a un momento dado no esté disponible o necesite volver a un punto de restauración anterior a 3 días.
+
+- 
+ Reinstalar Windows mediante una unidad de recuperación Si creaste una unidad de recuperación cuando el equipo estaba funcionando, puedes arrancar desde ella para reinstalar Windows.
+
+- 
+ Reinstalar Windows con medios de instalación Descarga Windows en otro equipo que funcione, crea una unidad USB de arranque y úsala para reinstalar Windows. Esto quita todo del dispositivo.
+
+¿Aún tiene problemas? Si ninguna de las opciones anteriores resolvió el problema y el equipo está administrado por su trabajo o escuela, póngase en contacto con el departamento de TI. Es posible que puedan ayudar de forma remota.
+
+## Prepárese ahora para una mejor experiencia de recuperación
+
+ Habilitar Copias de seguridad de Windows: guarda las aplicaciones y la configuración en la nube para que se puedan restaurar automáticamente después de una recuperación. Vaya a Configuración>Cuentas>Copias de seguridad de Windows. 
+ Obtener más información. 
+
+ Conozca la clave de recuperación de BitLocker: si BitLocker está habilitado, necesitará esta clave para la mayoría de las opciones de recuperación. 
+ Obtener más información.
+
+ Crear una unidad de recuperación: mientras el equipo está funcionando, cree una unidad de recuperación en una unidad USB como última opción. 
+ Obtener más información. 
+
+## Preguntas más frecuentes (FAQ)
+
+ ¿Qué debo hacer antes de iniciar cualquier proceso de recuperación?
+
+ Haz una copia de seguridad de tus archivos importantes y habilita Copias de seguridad de Windows (cuentas de configuración>>,copias de seguridad de Windows) para guardar tus aplicaciones y configuraciones. Si BitLocker está habilitado, también necesitarás la clave de recuperación de BitLocker para la mayoría de las opciones de recuperación de WinRE.
+
+ ¿Perderé mis archivos?
+
+Depende de la opción de recuperación seleccionada: 
+
+- 
+
+ Desinstalar una actualización : se conservan los archivos personales, las aplicaciones y la configuración, pero se quitan los cambios de la actualización seleccionada. Algunas actualizaciones no se pueden desinstalar. 
+
+- 
+
+ Volver a una versión anterior de Windows : se conservan sus archivos personales, pero se quitan las aplicaciones, los controladores y la configuración agregados o cambiados después de la actualización. 
+
+- 
+
+ Reinstalar Windows con Windows Update : se conservan sus archivos personales, aplicaciones y configuración. 
+
+- 
+
+ Restauración a un momento dado : el equipo se restaura a un punto anterior en el tiempo. Los cambios realizados después de ese punto de restauración se pierden. Los archivos almacenados en OneDrive u otro servicio en la nube no se ven afectados. 
+
+- 
+
+ Restauración del sistema : se conservan sus archivos personales, pero se deshacen los cambios del sistema realizados después del punto de restauración. Esto puede afectar a las aplicaciones, controladores, actualizaciones o configuración instalados recientemente. 
+
+- 
+
+ Restablecer este equipo : puedes elegir si quieres conservar o quitar tus archivos personales. Se quitan las aplicaciones y la configuración. 
+
+- 
+
+ Reinstalar Windows con medios de instalación : puedes elegir qué conservar: archivos personales y aplicaciones, solo archivos personales o nada. 
+
+- 
+
+ Reinstalar Windows con una unidad de recuperación : se quitan los archivos, las aplicaciones y la configuración personales. Haga una copia de seguridad de sus archivos antes de usar esta opción.
+
+ ¿Qué es la recuperación rápida de equipo?
+
+ La recuperación rápida de equipo ayuda a los dispositivos Windows 11 a recuperarse de errores de inicio repetidos causados por un problema conocido y generalizado. Si Windows no se puede iniciar, el dispositivo puede entrar en el modo de recuperación, conectarse a Internet y comprobar si Windows Update tiene una corrección proporcionada por Microsoft. 
+
+Si hay una corrección disponible, Windows la aplica automáticamente y reinicia el equipo. No restablece el equipo ni afecta a los archivos, las aplicaciones o la configuración. Si no se encuentra ninguna corrección, aún puedes usar otras opciones de recuperación. 
+
+Está disponible en Windows 11, versión 24H2 o posterior. En Windows 11 Home, está habilitado de forma predeterminada. En los dispositivos Pro y Enterprise, es posible que un administrador de TI deba habilitarlo. 
+
+ ¿Cuál es la diferencia entre la restauración a un momento dado y la restauración del sistema?
+
+Ambos revierten el equipo a un estado anterior, pero funcionan de forma diferente: 
+
+- 
+
+ La restauración a un momento dado revierte todo: los archivos personales, las aplicaciones y la configuración a una instantánea automática. Requiere Windows 11, versión 24H2 o posterior y mantiene los puntos de restauración hasta 3 días. La restauración a un momento dado minimiza el impacto en el espacio de almacenamiento y admite la administración remota en dispositivos administrados. 
+
+- 
+
+ Restaurar sistema solo revierte la configuración y los archivos del sistema. Los archivos personales no se ven afectados. Está disponible tanto en Windows 10 como en Windows 11. Si ambas están disponibles, pruebe primero la restauración a un momento dado, ya que es la más completa. 
+
+ ¿Cuál es la diferencia entre restablecer y reinstalar Windows?
+
+- 
+
+ Restablecer este equipo reinstala Windows directamente desde el dispositivo. Puedes elegir mantener o quitar tus archivos personales. No requiere ningún medio externo y se puede hacer desde Configuración o WinRE. 
+
+- 
+
+ Reinstalar con Windows Update reinstala la versión actual de Windows conservando los archivos, las aplicaciones y la configuración. Esta es la opción de reinstalación menos disruptiva. 
+
+- 
+
+ Reinstalar con medios de instalación te permite reinstalar Windows desde una unidad USB. Si realiza una instalación limpia, se quitan los archivos personales, las aplicaciones y la configuración. En función de cómo inicies la configuración, podrás elegir qué mantener
+
+- 
+
+ Reinstalar Windows con la unidad de recuperación , restaura el dispositivo con una unidad de recuperación y quita los archivos personales, las aplicaciones y la configuración. Haga una copia de seguridad de sus archivos antes de usar esta opción.
+
+ ¿Qué ocurre si sospecho que hay una infección de virus o malware?
+
+Si sospechas que el dispositivo tiene algún virus, prueba primero a ejecutar un examen de virus con Seguridad de Windows (Configuración>,Privacidad & Seguridad>de Windows). Si el problema persiste, vuelva a instalar Windows con medios de instalación y elija la opción de instalación limpia. Esto quita Windows, los archivos personales, las aplicaciones y la configuración de la unidad seleccionada, lo que puede ayudar a quitar malware de la instalación de Windows. 
+
+ ¿Qué ocurre si mi equipo no se inicia y ninguna de las opciones de recuperación funciona?
+
+Si el equipo no responde a ninguna opción de recuperación de WinRE: 
+
+- 
+Prueba a usar una unidad de recuperación , si creaste una anteriormente. 
+
+- 
+Si no tienes una unidad de recuperación, crea un medio de instalación con otro PC en funcionamiento y vuelve a instalar Windows desde la unidad USB. 
+
+- 
+Si tu PC está administrado por tu trabajo o centro educativo, ponte en contacto con el departamento de TI. Es posible que tengan herramientas adicionales para recuperar el dispositivo de forma remota. 
+
+ ¿Qué ocurre si no tengo una unidad de recuperación o un medio de instalación?
+
+Puedes crear medios de instalación con otro equipo en funcionamiento. Visita microsoft.com/software-download para descargar la herramienta de instalación de Windows. A continuación, use una unidad USB (al menos 8 GB) para crear medios de instalación de arranque. Para obtener más información, consulte Reinstalar Windows con medios de instalación. 
+
+ ¿Cuánto tiempo dura la recuperación?
+
+Por lo general, de 30 minutos a 2 horas, según el método. Las opciones más ligeras suelen tardar menos tiempo que restablecer o reinstalar Windows. Estas opciones incluyen la ejecución de un solucionador de problemas, la realización de una restauración a un momento dado o la desinstalación de una actualización.
+
+ ¿Cómo creo una unidad de recuperación para usarla en el futuro?
+
+Mientras el equipo está funcionando, puedes crear una unidad de recuperación con una unidad USB vacía. Busca Unidad de recuperación en el cuadro de búsqueda de Windows, asegúrate de que está seleccionada la opción Hacer una copia de seguridad de los archivos del sistema en la unidad de recuperación y sigue las instrucciones. Este proceso borra todo lo que ya esté en la unidad USB. Para obtener más información, consulta cómo crear una unidad de recuperación.

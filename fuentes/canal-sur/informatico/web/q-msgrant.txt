@@ -1,0 +1,429 @@
+URL: https://learn.microsoft.com/es-es/sql/t-sql/statements/grant-transact-sql?view=sql-server-ver17
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# 
+ GRANT (Transact-SQL)
+
+## 
+
+ Aplica a:SQL ServerAzure SQL DatabaseAzure SQL Managed InstanceAzure Synapse AnalyticsEndpoint de analítica SQL en Microsoft FabricAlmacén en Microsoft FabricBase de datos SQL en Microsoft Fabric
+
+Concede permisos sobre un elemento protegible a una entidad de seguridad. El concepto general es para `GRANT <some permission> ON <some object> TO <some user, login, or group>`. Para ver conceptos generales sobre los permisos, vea Permisos (Motor de base de datos).
+
+ Convenciones de sintaxis de Transact-SQL
+
+## Syntax
+
+Sintaxis para SQL Server, Azure SQL Database y Fabric SQL Database.
+
+`-- Simplified syntax for GRANT
+GRANT { ALL [ PRIVILEGES ] }
+ | permission [ ( column [ , ...n ] ) ] [ , ...n ]
+ [ ON [ class :: ] securable ] TO principal [ , ...n ]
+ [ WITH GRANT OPTION ] [ AS principal ]
+`
+
+Syntax for Azure Synapse Analytics and Microsoft Fabric warehouse.
+
+`GRANT
+ <permission> [ , ...n ]
+ [ ON [ <class_type> :: ] securable ]
+ TO principal [ , ...n ]
+ [ WITH GRANT OPTION ]
+[;]
+
+<permission> ::=
+{ see the tables below }
+
+<class_type> ::=
+{
+ LOGIN
+ | DATABASE
+ | OBJECT
+ | ROLE
+ | SCHEMA
+ | USER
+}
+`
+
+## Arguments
+
+#### ALL
+
+Esta opción ha quedado desusada y solo se mantiene por razones de compatibilidad con versiones anteriores. No concede todos los permisos posibles. Conceder `ALL` es equivalente a conceder los permisos siguientes.
+
+ | Securable
+
+ | Permissions
+
+ | Database
+
+ | 
+ `BACKUP DATABASE`, `BACKUP LOG`, `CREATE DATABASE`, `CREATE DEFAULT`, `CREATE FUNCTION`, `CREATE PROCEDURE`, `CREATE RULE`, `CREATE TABLE`y `CREATE VIEW`
+
+ | Función escalar
+
+ | 
+ `EXECUTE` y `REFERENCES`
+
+ | Función con valores de tabla
+
+ | 
+ `DELETE`, `INSERT`, `REFERENCES`, `SELECT` y `UPDATE`
+
+ | Procedimiento almacenado
+
+ | `EXECUTE`
+
+ | Table
+
+ | 
+ `DELETE`, `INSERT`, `REFERENCES`, `SELECT` y `UPDATE`
+
+ | View
+
+ | 
+ `DELETE`, `INSERT`, `REFERENCES`, `SELECT` y `UPDATE`
+
+#### PRIVILEGES
+
+Incluido por compatibilidad con ISO. No cambia el comportamiento de `ALL`.
+
+#### 
+ permission
+
+Nombre de un permiso. Las asignaciones válidas de permisos a elementos protegibles se describen en las secciones siguientes.
+
+#### 
+ column
+
+Especifica el nombre de una columna de una tabla en la que se van a conceder los permisos. Los paréntesis `(` y `)` son necesarios.
+
+#### 
+ class
+
+Especifica la clase del elemento protegible en el que se va a conceder el permiso. Se requiere el calificador `::` de ámbito.
+
+#### 
+ securable
+
+Especifica el elemento protegible para el que se va a conceder el permiso.
+
+#### 
+ TO director
+
+Nombre de una entidad de seguridad. Las entidades de seguridad a las que se pueden conceder permisos para un elemento protegible varían según el elemento protegible. Consulte las secciones siguientes para ver combinaciones válidas.
+
+#### 
+ GRANT OPCIÓN
+
+Indica que el receptor también podrá conceder el permiso especificado a otras entidades de seguridad.
+
+#### 
+ Director AS
+
+Use la `AS <principal>` cláusula para indicar que la entidad de seguridad registrada como receptor del permiso debe ser una entidad de seguridad distinta de la persona que ejecuta la instrucción. Por ejemplo, supongamos que el usuario `Mary` tiene un `principal_id` de `12`y el usuario `Raul` es la entidad de seguridad `15`. Mary ejecuta `GRANT SELECT ON OBJECT::X TO Steven WITH GRANT OPTION AS Raul;` Ahora la `sys.database_permissions` tabla indica que `grantor_principal_id` era `15` (`Raul`) aunque el usuario `12` ejecutó realmente la instrucción (`Mary`).
+
+El uso de la `AS` cláusula normalmente no se recomienda a menos que necesite definir explícitamente la cadena de permisos. Para obtener más información, vea Resumen del algoritmo de comprobación de permisos.
+
+El uso de `AS` en esta instrucción no implica la capacidad de suplantar a otro usuario.
+
+## Remarks
+
+La sintaxis completa de la `GRANT` instrucción es compleja. El diagrama de sintaxis anterior se ha simplificado para llamar la atención sobre su estructura. La sintaxis completa para conceder permisos en elementos protegibles específicos se describe en los artículos enumerados más adelante en este artículo.
+
+La `REVOKE` instrucción se puede usar para quitar permisos concedidos y la `DENY` instrucción se puede usar para evitar que una entidad de seguridad obtenga un permiso específico a través de .`GRANT`
+
+Conceder un permiso quita `DENY` o `REVOKE` de ese permiso en el elemento protegible especificado. Si se deniega el mismo permiso en un ámbito superior que contiene el elemento protegible, `DENY` tiene prioridad. Pero revocar el permiso concedido en un ámbito superior no tiene prioridad.
+
+Los permisos de nivel de base de datos se conceden en el ámbito de la base de datos especificada. Si un usuario necesita permisos para objetos de otra base de datos, cree la cuenta del usuario en la otra base de datos o conceda a la cuenta del usuario acceso a la otra base de datos y a la base de datos actual.
+
+Caution
+
+Un nivel `DENY` de tabla no tiene prioridad sobre un nivel `GRANT`de columna . Esta incoherencia en la jerarquía de permisos se ha mantenido por motivos de compatibilidad con versiones anteriores. Se eliminará en una próxima versión.
+
+El `sp_helprotect` procedimiento almacenado del sistema notifica permisos en un nivel de base de datos protegible.
+
+En Microsoft Fabric, `CREATE USER` no se puede ejecutar explícitamente actualmente. Cuando se ejecuta `GRANT` o `DENY`, el usuario se crea automáticamente.
+
+## CON GRANT OPCIÓN
+
+ `GRANT ... WITH GRANT OPTION` especifica que la entidad de seguridad que recibe el permiso tiene la capacidad de conceder el permiso especificado a otras cuentas de seguridad. Cuando la entidad de seguridad que recibe el permiso es un rol o un grupo de Windows, la `AS` cláusula debe usarse cuando el permiso de objeto tenga que concederse más a los usuarios que no son miembros del grupo o rol. Dado que solo un usuario, en lugar de un grupo o rol, puede ejecutar una `GRANT` instrucción , un miembro específico del grupo o rol debe usar la `AS` cláusula para invocar explícitamente el rol o la pertenencia a grupos al conceder el permiso. En el `WITH GRANT OPTION` ejemplo siguiente se muestra cómo se usa cuando se concede a un rol o grupo de Windows.
+
+`-- Execute the following as a database owner
+GRANT EXECUTE ON TestProc TO TesterRole WITH GRANT OPTION;
+EXEC sp_addrolemember TesterRole, User1;
+
+-- Execute the following as User1
+-- The following fails because User1 does not have the permission as the User1
+GRANT EXECUTE ON TestProc TO User2;
+
+-- The following succeeds because User1 invokes the TesterRole membership
+GRANT EXECUTE ON TestProc TO User2 AS TesterRole;
+`
+
+## Gráfico de los permisos de SQL Server
+
+Para obtener un gráfico de tamaño de póster de todos los permisos de Motor de base de datos en formato PDF, consulte https://aka.ms/sql-permissions-poster.
+
+## Permissions
+
+El otorgante del permiso (o la entidad de seguridad especificada con la opción `AS`) debe tener el permiso con `GRANT OPTION` o un permiso superior que implique el permiso que se va a conceder. Si usa la `AS` opción , se aplican requisitos adicionales. Para obtener más detalles, vea el artículo específico de los elementos protegibles.
+
+Los propietarios de objetos pueden conceder permisos para los objetos que poseen. Las entidades de seguridad con `CONTROL` permiso en un elemento protegible pueden conceder permiso para ese elemento protegible.
+
+Los receptores de `CONTROL SERVER` permisos, como los miembros del rol fijo de servidor sysadmin , pueden conceder cualquier permiso en cualquier elemento protegible en el servidor. Los receptores de permiso en una base de `CONTROL` datos, como los miembros del rol fijo de base de datos db_owner , pueden conceder cualquier permiso en cualquier elemento protegible de la base de datos. Los receptores de permiso en `CONTROL` un esquema pueden conceder cualquier permiso en cualquier objeto del esquema.
+
+## Examples
+
+En esta tabla se enumeran los elementos protegibles y los artículos en los que se describe la sintaxis específica de estos.
+
+ | Securable
+
+ | Sintaxis de `GRANT`
+
+ | Rol de aplicación
+
+ | 
+
+ GRANT Permisos principales de base de datos (Transact-SQL)
+
+ | Assembly
+
+ | 
+
+ GRANT Permisos de ensamblaje (Transact-SQL)
+
+ | Clave asimétrica
+
+ | 
+
+ GRANT Permisos de clave asimétrica (Transact-SQL)
+
+ | Grupo de disponibilidad
+
+ | 
+
+ GRANT Permisos de grupos de disponibilidad (Transact-SQL)
+
+ | Certificate
+
+ | 
+
+ GRANT Permisos de Certificados (Transact-SQL)
+
+ | Contract
+
+ | 
+
+ GRANT Permisos de Service Broker (Transact-SQL)
+
+ | Database
+
+ | 
+
+ GRANT Permisos de base de datos (Transact-SQL)
+
+ | Credencial de ámbito de base de datos
+
+ | 
+
+ GRANT Credencial con alcance de base de datos (Transact-SQL)
+
+ | Endpoint
+
+ | 
+
+ GRANT Permisos de punto de conexión (Transact-SQL)
+
+ | Full-Text Catálogo
+
+ | 
+
+ GRANT Full-Text Permisos (Transact-SQL)
+
+ | Full-Text Lista de paradas
+
+ | 
+
+ GRANT Full-Text Permisos (Transact-SQL)
+
+ | Function
+
+ | 
+
+ GRANT Permisos de objeto (Transact-SQL)
+
+ | Login
+
+ | 
+
+ GRANT Permisos del principal del servidor (Transact-SQL)
+
+ | Tipo de mensaje
+
+ | 
+
+ GRANT Permisos de Service Broker (Transact-SQL)
+
+ | Object
+
+ | 
+
+ GRANT Permisos de objeto (Transact-SQL)
+
+ | Queue
+
+ | 
+
+ GRANT Permisos de objeto (Transact-SQL)
+
+ | Enlace de servicio remoto
+
+ | 
+
+ GRANT Permisos de Service Broker (Transact-SQL)
+
+ | Role
+
+ | 
+
+ GRANT Permisos principales de base de datos (Transact-SQL)
+
+ | Route
+
+ | 
+
+ GRANT Permisos de Service Broker (Transact-SQL)
+
+ | Schema
+
+ | 
+
+ GRANT Permisos de esquema (Transact-SQL)
+
+ | Lista de propiedades de búsqueda
+
+ | 
+
+ GRANT Permisos de búsqueda en la lista de propiedades (Transact-SQL)
+
+ | Server
+
+ | 
+
+ GRANT Permisos de servidor (Transact-SQL)
+
+ | Service
+
+ | 
+
+ GRANT Permisos de Service Broker (Transact-SQL)
+
+ | Procedimiento almacenado
+
+ | 
+
+ GRANT Permisos de objeto (Transact-SQL)
+
+ | Clave simétrica
+
+ | 
+
+ GRANT Permisos de clave simétrica (Transact-SQL)
+
+ | Synonym
+
+ | 
+
+ GRANT Permisos de objeto (Transact-SQL)
+
+ | Objetos del sistema
+
+ | 
+
+ GRANT Permisos de objeto del sistema (Transact-SQL)
+
+ | Table
+
+ | 
+
+ GRANT Permisos de objeto (Transact-SQL)
+
+ | Type
+
+ | 
+
+ GRANT Permisos de Tipo (Transact-SQL)
+
+ | User
+
+ | 
+
+ GRANT Permisos principales de base de datos (Transact-SQL)
+
+ | View
+
+ | 
+
+ GRANT Permisos de objeto (Transact-SQL)
+
+ | Colección de esquemas XML
+
+ | 
+
+ GRANT Permisos de Colección de Esquemas XML (Transact-SQL)
+
+## Contenido relacionado
+
+- 
+
+ DENY (Transact-SQL)
+
+- 
+
+ REVOKE (Transact-SQL)
+
+- 
+ sys.sp_addlogin (Transact-SQL)
+
+- 
+ sys.sp_adduser (Transact-SQL)
+
+- 
+ sys.sp_changedbowner (Transact-SQL)
+
+- 
+ sys.sp_dropuser (Transact-SQL)
+
+- 
+ sys.sp_helprotect (Transact-SQL)
+
+- 
+ sys.sp_helpuser (Transact-SQL)
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-09-21

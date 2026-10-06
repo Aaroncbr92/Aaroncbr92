@@ -1,0 +1,438 @@
+URL: http://www.hp.com/products1/ISO/MMDPP/index.html
+Leído: 2026-10-05
+
+
+
+ISO/IEC 24734 Method for Measuring Digital Printing Productivity
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | United States-English
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | » 
+
+ Contact HP
+
+ | 
+
+ | 
+
+ | Search:
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ Home & Home office
+
+ All of HP US
+
+ | 
+
+ | 
+
+ | 
+ Learn about how HP measures printer speed  >  ISO/IEC 24734 Method for Measuring Digital Printing Productivity
+
+ISO/IEC 24734 Method for Measuring Digital Printing Productivity
+
+ | 
+
+ | 
+
+ | » 
+
+ | 
+Home & Home Office
+
+ | 
+
+ | 
+
+ | 
+
+ | »
+
+ | 
+ Everyday Printing 
+
+ | 
+
+ | »
+
+ | 
+ Digital Photography 
+
+ | 
+
+ | »
+
+ | 
+ Everyday Computing 
+
+ | 
+
+ | »
+
+ | 
+ Digital Entertainment 
+
+ | 
+
+ | »
+
+ | 
+ Activity Center 
+
+ | 
+
+ | »
+
+ | 
+ Free online classes 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+Browse & Buy
+
+ | 
+
+ | »
+
+ | Home & Home Office Store
+
+ | 
+
+ | »
+
+ | Rebate Center
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+Product Support
+
+ | 
+
+ | »
+
+ | Support & troubleshooting
+
+ | 
+
+ | »
+
+ | Software & Drivers
+
+ | 
+
+ | »
+
+ | Warranties & services
+
+ | 
+
+ | »
+
+ | Register your product
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Many digital printing devices may produce printed pages at a different rate than their nominal speed due to various factors. These include but are not limited to host computer, driver, application, operating system, and type of connection to the printer (USB, Ethernet, wireless). In addition, job characteristics such as black-and-white vs. color, the number of pages to be printed, single-sided or double-sided output, quality setting, number of copies, paper type and size, document content, and document complexity can affect print speed.
+
+ISO/IEC 24734 specifies a method for measuring the productivity of digital printing devices using varying test files, office applications, and print job characteristics on plain paper in default mode. It is applicable to black-and-white and color devices, and to single-function and multi-function devices, regardless of print technology (e.g. inkjet, laser, etc).
+ ISO/IEC 24734 allows manufacturers of digital printing devices to measure the productivity of different digital printing devices with a standard measurement method.
+
+ | 
+
+ | 
+
+ | 
+Testing Overview
+
+ | 
+
+ | 
+
+ | 
+
+ | Tests are conducted with the device set to plain paper with the quality level at the factory default. For color devices, black-and-white tests are run by setting the device to print in black-only mode. Testing is done with single-sided printing, as well as with two-sided printing if automatic two-sided printing is standard on the device.
+
+Four-page files are printed through Adobe Reader™, Microsoft Word™, and Microsoft Excel™ with the number of sets (copies) varied to create print jobs of arbitrary length.
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+Adobe Reader™ Test File
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+Microsoft Word™ Test File
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+Microsoft Excel™ Test File
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+Three different job lengths are tested
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+Short Jobs
+
+1 set
+
+Medium Jobs
+
+1 set plus about 30 seconds of additional printing
+
+Long Jobs
+
+1 set plus about 4 minutes of additional printing (Adobe Reader™, single-sided only)
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+Three different methods of timing are used
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+Time from the initiation of the print job on the host computer until the last page (4th page) of the first set lands in the output tray
+
+The time resulting from this measurement is referred to as First Set Out Time (FSOT).
+
+Time from the initiation of the print job on the host computer until the last page of the job lands in the output tray
+
+A PPM resulting from this measurement is referred to as Effective Throughput (EFTP).
+
+Time from when the last page in the first set (4th page) lands in the output tray until the last page of the job lands in the output tray
+
+A PPM resulting from this measurement is referred to as Estimated Saturated Throughput (ESAT).
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+The following results are reported for each file as well as the average of all files
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+FSOT for the short job.
+
+EFTP for the short, medium, and long jobs.
+
+ESAT for the medium job. HP generally advertises the average single-sided ESAT PPM.
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+What is ISO?
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | ISO (International Organization for Standardization) is the world's largest developer and publisher of International Standards.
+
+ISO is a network of the national standards institutes of 157 countries, one member per country, with a Central Secretariat in Geneva, Switzerland, that coordinates the system.
+
+ISO is a non-governmental organization that forms a bridge between the public and private sectors. Many of its member institutes are part of the governmental structure of their countries, or are mandated by their government. Other members have their roots uniquely in the private sector, having been set up by national partnerships of industry associations.
+
+Therefore, ISO enables a consensus to be reached on solutions that meet both the requirements of business and the broader needs of society. For more information on ISO see www.iso.org .
+
+Details of the ISO/IEC printing standards are available at www.iso.org .
+
+ | 
+
+ | Printable version
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Privacy statement
+
+ | Using this site means you accept its terms
+
+ | 
+
+ | 
+
+ | © 2009 Hewlett-Packard Development Company, L.P.
+

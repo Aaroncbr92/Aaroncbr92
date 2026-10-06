@@ -1,0 +1,81 @@
+URL: https://learn.microsoft.com/es-es/defender-endpoint/malware/macro-malware
+Leído: 2026-10-05
+
+Malware de macro - Microsoft Defender for Endpoint | Microsoft Learn
+Ir al contenido principal
+Omisión de la experiencia de chat de Ask Learn
+Este explorador ya no se admite.
+Actualice a Microsoft Edge para aprovechar las características y actualizaciones de seguridad más recientes, y disponer de soporte técnico.
+Descargar Microsoft Edge
+Más información sobre Internet Explorer y Microsoft Edge
+Tabla de contenido
+Salir del modo de editor
+Preguntar a Learn
+Preguntar a Learn
+Modo de lectura
+Tabla de contenido
+Leer en inglés
+Agregar
+Añadir a Planes
+Copiar Markdown
+Imprimir
+Nota:
+El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+Malware de macro
+Comentarios
+En este artículo
+Las macros son una manera eficaz de automatizar tareas comunes en Microsoft Office y pueden hacer que las personas sean más productivas. Sin embargo, el malware de macro usa esta funcionalidad para infectar el dispositivo.
+Funcionamiento del malware de macro
+El malware de macro se oculta en archivos de Microsoft Office y se entrega como datos adjuntos de correo electrónico o dentro de archivos ZIP. Estos archivos usan nombres destinados a inducir o asustar a las personas para que los abran. A menudo parecen facturas, recibos, documentos legales, etc.
+El malware de macro era bastante común hace varios años porque las macros se ejecutaban automáticamente cada vez que se abría un documento. En las versiones recientes de Microsoft Office, las macros están deshabilitadas de forma predeterminada. Ahora, los autores de malware deben convencer a los usuarios de que activen macros para que su malware pueda ejecutarse. Intentan asustar a los usuarios mostrando advertencias falsas cuando se abre un documento malintencionado.
+Hemos visto amenazas de descarga de malware macro de las siguientes familias:
+Ransom:MSIL/Swappa
+Ransom:Win32/Teerac
+TrojanDownloader:Win32/Chanitor
+TrojanSpy:Win32/Ursnif
+Win32/Fynloski
+Worm:Win32/Gamarue
+Protección contra el malware de macro
+Asegúrese de que las macros están deshabilitadas en las aplicaciones de Microsoft Office. En las empresas, los administradores de TI establecen la configuración predeterminada para las macros:
+Habilitar o deshabilitar macros en documentos de Office
+No abra correos electrónicos sospechosos ni datos adjuntos sospechosos.
+Elimine los correos electrónicos de personas desconocidas o con contenido sospechoso. Los correos electrónicos no deseados son la principal forma en que se propaga el malware de macro.
+Las empresas pueden impedir que el malware de macro ejecute contenido ejecutable mediante reglas de ASR
+Para obtener más sugerencias sobre cómo protegerse de correos electrónicos sospechosos, consulte suplantación de identidad (phishing).
+Para obtener sugerencias más generales, consulte prevención de la infección por malware.
+Comentarios
+¿Le ha resultado útil esta página?
+Sí
+No
+No
+¿Necesita ayuda con este tema?
+¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+Preguntar a Learn
+Preguntar a Learn
+¿Sugerir una corrección?
+Recursos adicionales
+Last updated on
+2024-04-26
+En este artículo
+¿Le ha resultado útil esta página?
+¿Necesita ayuda con este tema?
+¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+Preguntar a Learn
+Preguntar a Learn
+¿Sugerir una corrección?
+es-es
+Sus opciones de privacidad
+Tema
+Claro
+Oscuro
+Contraste alto
+Declinación de responsabilidades de IA
+Versiones anteriores
+Blog
+Contribuir
+Privacidad
+Privacidad de estado del consumidor
+Términos de uso
+Marcas comerciales
+© Microsoft 2026

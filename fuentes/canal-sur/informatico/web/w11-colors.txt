@@ -1,0 +1,87 @@
+URL: https://support.microsoft.com/es-es/windows/personalizar-los-colores-en-windows-3290d30f-d064-5cfe-6470-2fe9c6533e37
+Leído: 2026-10-05
+
+# Personalizar los colores en Windows
+
+ Se aplica a
+Windows 11 Windows 10 
+
+## Resumen
+
+Cambiar el modo de color y los colores de énfasis en el dispositivo puede mejorar significativamente la experiencia del usuario al proporcionar una interfaz más personalizada y visualmente atractiva. Tanto si prefiere un tema claro u oscuro como si desea agregar un toque de color a su interfaz de usuario, ajustar esta configuración es sencillo y se puede hacer en unos pocos pasos.
+
+## Modo de color
+
+Windows admite dos modos de color principal: claro y oscuro. El modo claro ofrece un aspecto brillante y limpio, ideal para entornos bien iluminados, mientras que el modo oscuro proporciona una interfaz más oscura que es más agradable a la vista en condiciones de poca luz. Cambiar entre estos modos puede ayudar a reducir la fatiga visual y mejorar la legibilidad en función de su entorno.
+
+Ejemplo de modo claro: 
+
+Ejemplo de modo oscuro: 
+
+Nota
+
+Algunas aplicaciones permiten configurar el modo oscuro o claro individualmente, independientemente del modo de color de Windows. Además, no todas las aplicaciones admiten el modo oscuro.
+
+Para cambiar el modo de color:
+
+- En la aplicación Configuración de su dispositivo Windows
+
+seleccione Colores de personalización>.
+
+ Abrir configuración de color
+
+- En Elegir el modo, puedes seleccionar el modo Claro, Oscuro o Personalizado :
+
+- 
+El modo oscuro tiene colores diseñados para funcionar bien en un entorno con poca luz. Esta opción es para el menú Inicio, la barra de tareas y el centro de actividades.
+
+- 
+El modo de luz está diseñado para funcionar bien durante las horas del día.
+
+Nota
+
+El modo claro no personaliza el color del menú Inicio, la barra de tareas y el centro de actividades (esa opción solo está disponible para los modos oscuro y personalizado).
+
+- 
+El modo personalizado le ofrece opciones entre claro y oscuro.
+
+## Resaltar color
+
+El color de énfasis se usa para resaltar elementos importantes en la interfaz de usuario, como botones, vínculos y otros componentes interactivos. El color se puede personalizar para que coincida con sus preferencias personales o para complementar el tema general de su dispositivo. Al seleccionar un color de énfasis, puede agregar un toque de personalidad a su interfaz, haciéndola más atractiva y visualmente cohesiva.
+
+Para cambiar el color de énfasis:
+
+- En la aplicación Configuración de su dispositivo Windows
+
+seleccione Colores de personalización>.
+
+ Abrir configuración de color
+
+- 
+Puede permitir que Windows elija automáticamente un color de énfasis del fondo o puede elegir su propio color.
+
+- Para que Windows elija automáticamente un color de énfasis, seleccione Automático.
+
+- Para seleccionar manualmente un color de énfasis, seleccione Manual. A continuación, seleccione un color en Colores recientes o Colores de Windows, o seleccione Ver colores para obtener una opción aún más detallada.
+
+### Mostrar color de énfasis en Inicio y la barra de tareas
+
+Esta opción le permite personalizar su experiencia en Windows aplicando el color de énfasis elegido al menú Inicio, la barra de tareas y el centro de actividades. Cuando se habilita, el color de énfasis que seleccione se mostrará de forma destacada en estos elementos, lo que proporciona al escritorio un aspecto coherente y personalizado. Esta configuración solo está disponible si seleccionas oscuro o personalizado como modo de color de Windows.
+
+### Mostrar color de énfasis en barras de título y bordes de ventana
+
+Esta opción permite aplicar el color de énfasis seleccionado a las barras de título y bordes de las ventanas. Cuando se habilita, el color de énfasis aparecerá en la barra horizontal de la parte superior de cada ventana y en los bordes alrededor de las ventanas, lo que proporciona una apariencia coherente y personalizada en todo el escritorio.
+
+## Efectos de transparencia
+
+Los efectos de transparencia se pueden habilitar o deshabilitar según sus preferencias. Estos efectos hacen que algunos fondos y superficies de ventanas parezcan ligeramente transparentes con un desenfoque acrílico. Esto puede mejorar el atractivo visual de su escritorio al agregar una sensación de profundidad y capas a la interfaz.
+
+## Filtros de color y temas de contraste
+
+Windows proporciona opciones sólidas para configurar temas de contraste y filtros de color, lo que facilita a los usuarios con discapacidades visuales o necesidades específicas de accesibilidad interactuar con sus dispositivos.
+
+- Los temas de contraste mejoran la visibilidad del texto y los elementos de la interfaz de usuario mediante combinaciones de colores distintas, que se pueden personalizar para adaptarse a las preferencias individuales.
+
+- Los filtros de color cambian la paleta de colores en la pantalla para ayudar a los usuarios a distinguir entre cosas que solo difieren por color.
+
+Para obtener más información, consulta Cambiar el contraste de color en Windows y Usar filtros de color en Windows.

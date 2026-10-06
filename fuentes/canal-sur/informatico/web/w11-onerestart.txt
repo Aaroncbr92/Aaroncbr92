@@ -1,0 +1,77 @@
+URL: https://support.microsoft.com/es-es/servicing/os/windows/docs/2026/07/kb5121772-one-restart-a-month-for-windows-updates
+Leído: 2026-10-05
+
+# Un reinicio al mes para las actualizaciones de Windows
+
+ Se aplica a
+Windows 11 version 24H2, all editions Windows 11 version 25H2, all editions Windows 11 version 26H1, all editions 
+
+ Fecha de publicación original: 14 de agosto de 2026
+
+ Id. de KB: 5121772
+
+## Introducción
+
+Windows ayuda a mantener el dispositivo seguro y confiable descargando e instalando actualizaciones automáticamente. Algunas de estas actualizaciones necesitan que el dispositivo se reinicie antes de que finalice la instalación. En el pasado, cada uno de los distintos tipos de actualizaciones podía pedirte que reiniciaras en distintos momentos del mes, lo que suponía más interrupciones de las necesarias.
+
+A partir de las actualizaciones de Windows publicadas el 28 de julio de 2026, Windows reúne estas actualizaciones, por lo que solo podrá reiniciar el equipo una vez al mes. En lugar de reiniciarse para cada actualización a medida que llega y se instala, Windows contiene las actualizaciones que necesitan reinicio y las instala junto con la actualización de seguridad mensual. El resultado es una experiencia de actualización más predecible con menos interrupciones.
+
+## Qué se puede esperar
+
+- Las novedades que necesitan reinicio esperan silenciosamente en segundo plano hasta que esté lista la siguiente actualización de seguridad mensual.
+
+- Cuando la actualización mensual está lista, Windows instala todo junto y prepara un único reinicio.
+
+- Verá estas actualizaciones enumeradas en Configuración>:Windows UpdateActualizaciones>disponibles.
+
+- El dispositivo se reiniciará fuera de las horas activas siempre que sea posible, por lo que es menos probable que le interrumpa.
+
+## Qué actualizaciones se combinan
+
+Windows alinea las siguientes actualizaciones a la actualización de seguridad mensual, por lo que comparten un reinicio:
+
+- Actualizaciones de controladores entregadas a través de Windows Update
+
+- Actualizaciones de .NET
+
+- Actualizaciones de firmware
+
+La actualización de seguridad mensual, que normalmente se publica el segundo martes de cada mes, es la actualización con la que todo lo demás se alinea. Dado que las actualizaciones de seguridad siguen instaladas en su programación mensual normal, el mantenimiento combinado no retrasa la protección de seguridad.
+
+## Cuando se produce el reinicio
+
+- Windows espera a que la actualización de seguridad mensual esté lista y, a continuación, instala las actualizaciones combinadas.
+
+- Una vez preparadas las actualizaciones, Windows programa el reinicio fuera de las horas activas. Para reiniciar antes, siga uno de estos procedimientos:
+
+- Vaya a Configuración>:Windows Update y, a continuación, seleccione Reiniciar ahora.
+
+- Vaya a Inicio>de inicio/apagado y, luego, seleccione Actualizar y reiniciar o Actualizar y apagar.
+
+- Selecciona el icono de la bandeja de Windows Update y luego selecciona Reiniciar ahora.
+
+- Para elegir las horas en las que Windows no debe reiniciar el dispositivo, ve a Configuración>:Windows UpdateOpciones>avanzadas>Horas activas.
+
+## Novedades que aún se instalan inmediatamente
+
+Para mantener el dispositivo protegido, algunas actualizaciones no se conservan para el reinicio mensual y se instalan tan pronto como están disponibles. Incluyen:
+
+- Actualizaciones de inteligencia de seguridad de Microsoft Defender
+
+- Actualizaciones de componentes de IA
+
+- Actualizaciones críticas o aceleradas de controladores
+
+- Actualizaciones de emergencia y fuera de banda, incluidas las correcciones publicadas fuera de la programación mensual normal
+
+Muchas actualizaciones también se instalan sin ningún reinicio, por lo que no las notará.
+
+## Si necesita más tiempo
+
+Si no estás listo para actualizar, puedes pausar las actualizaciones hasta 35 días. Vaya a Configuración>:Windows Update y seleccione Elegir una fecha en Pausar actualizaciones. Cuando finaliza la pausa, Windows comprueba si hay actualizaciones e instala las más recientes. Para obtener más información, consulta Pausar actualizaciones en Windows.
+
+Nota
+
+- Esta experiencia se está implementando gradualmente y es posible que aún no esté disponible en todos los dispositivos.
+
+- Windows no publicará actualizaciones indefinidamente. Si una actualización combinada ha estado esperando mucho tiempo, Windows la instalará y reiniciará para mantener el dispositivo actualizado y protegido.

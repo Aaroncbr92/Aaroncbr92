@@ -1,0 +1,367 @@
+URL: https://learn.microsoft.com/es-es/windows-server/virtualization/hyper-v/manage/choose-between-standard-or-production-checkpoints-in-hyper-v
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Uso de puntos de control para revertir las máquinas virtuales a un estado anterior
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Una de las grandes ventajas de la virtualización es la capacidad de guardar fácilmente el estado de una máquina virtual. En Hyper-V esto se realiza mediante el uso de puntos de control de máquina virtual. Es posible que desee crear un punto de control de máquina virtual antes de realizar cambios en la configuración de software, aplicar una actualización de software o instalar software nuevo. Si un cambio del sistema provocaba un problema, la máquina virtual se puede revertir al estado en el que se tomó el punto de control.
+
+Windows 10 y 11 Hyper-V incluye dos tipos de puntos de control:
+
+- 
+
+ Puntos de control estándar: toma una instantánea de la máquina virtual y el estado de memoria de la máquina virtual en el momento en que se inicia el punto de control. Una instantánea no es una copia de seguridad completa y puede causar problemas de coherencia de datos con sistemas que replican datos entre distintos nodos, como Active Directory. Hyper-V solo ofrecía puntos de control estándar (anteriormente denominados instantáneas) antes de Windows 10.
+
+- 
+
+ Puntos de control de producción: usa el servicio de instantáneas de volumen o la inmovilización del sistema de archivos en una máquina virtual Linux para crear una copia de seguridad coherente con los datos de la máquina virtual. No se toma ninguna instantánea del estado de memoria de la máquina virtual.
+
+Los puntos de control de producción se seleccionan de forma predeterminada, pero esto se puede cambiar mediante el administrador de Hyper-V o PowerShell.
+
+Nota:
+
+El módulo Hyper-V PowerShell tiene varios alias para que el punto de control y la instantánea se puedan usar indistintamente.
+
+Este documento usa el punto de control, pero tenga en cuenta que es posible que vea comandos similares mediante la instantánea de términos.
+
+## Cambio del tipo de punto de control
+
+- 
+
+ administrador deHyper-V
+
+- 
+
+ PowerShell
+
+- 
+Abra Hyper-V Manager.
+
+- 
+Haga clic con el botón derecho en una máquina virtual y seleccione la configuración.
+
+- 
+En Administración, seleccione Puntos de control.
+
+- 
+Seleccione el tipo de punto de control deseado.
+
+Los siguientes comandos se pueden ejecutar para cambiar el punto de control con PowerShell.
+
+Establézcalo en Punto de control estándar:
+
+`Set-VM -Name <vmname> -CheckpointType Standard
+`
+
+Establezca en Punto de control de producción, si se produce un error en el punto de control de producción, se crea un punto de control estándar:
+
+`Set-VM -Name <vmname> -CheckpointType Production
+`
+
+Establézcalo en Punto de control de producción, si el punto de control de producción no se crea un punto de control estándar.
+
+`Set-VM -Name <vmname> -CheckpointType ProductionOnly
+`
+
+## Creación de puntos de control
+
+Crea un punto de control del tipo configurado para la máquina virtual. Consulte la sección Configuring Checkpoint Type (Configurar el tipo de punto de control ) anteriormente en este documento para obtener instrucciones sobre cómo cambiar este tipo.
+
+- 
+
+ administrador deHyper-V
+
+- 
+
+ PowerShell
+
+Para crear un punto de control:
+
+- 
+En Hyper-V Manager, seleccione la máquina virtual.
+
+- 
+Haga clic con el botón derecho en el nombre de la máquina virtual y, a continuación, haga clic en Punto de control.
+
+- 
+Una vez completado el proceso, el punto de control aparecerá en Puntos de control en el administrador deHyper-V.
+
+Cree un punto de control mediante el comando CheckPoint-VM .
+
+`Checkpoint-VM -Name <VMName>
+`
+
+Cuando se haya completado el proceso de punto de comprobación, vea una lista de puntos de comprobación de una máquina virtual mediante el comando Get-VMCheckpoint .
+
+`Get-VMCheckpoint -VMName <VMName>
+`
+
+## Aplicación de puntos de control
+
+Si desea revertir la máquina virtual a un momento dado anterior, puede aplicar un punto de control existente.
+
+- 
+
+ administrador deHyper-V
+
+- 
+
+ PowerShell
+
+- 
+En Hyper-V Manager, en Máquinas virtuales, seleccione la máquina virtual.
+
+- 
+En la sección Puntos de control, haga clic con el botón derecho en el punto de control que desea usar y haga clic en Aplicar.
+
+- 
+Aparece un cuadro de diálogo con las siguientes opciones:
+
+- 
+ Crear punto de control y aplicar: crea un nuevo punto de control de la máquina virtual antes de aplicar el punto de control anterior.
+
+- 
+ Aplicar: aplica solo el punto de control que ha elegido. No es posible deshacer esta acción.
+
+- 
+ Cancelar: cierra el cuadro de diálogo sin hacer nada.
+
+Seleccione la opción Aplicar para crear el punto de control.
+
+- 
+Para ver una lista de puntos de control de una máquina virtual, use el comando Get-VMCheckpoint .
+
+`Get-VMCheckpoint -VMName <VMName>
+`
+
+- 
+Para aplicar el punto de control, use el comando Restore-VMCheckpoint .
+
+`Restore-VMCheckpoint -Name <checkpoint name> -VMName <VMName> -Confirm:$false
+`
+
+## Cambiar el nombre de los puntos de control
+
+Muchos puntos de control se crean en un punto específico. Si se les asigna un nombre identificable, es más fácil recordar detalles sobre el estado del sistema cuando se creó el punto de control.
+
+De forma predeterminada, el nombre de un punto de control es el nombre de la máquina virtual combinada con la fecha y hora en que se tomó el punto de control. Este es el formato estándar:
+
+`virtual_machine_name (MM/DD/YYY -hh:mm:ss AM\PM)
+`
+
+Los nombres están limitados a 100 caracteres y el nombre no puede estar en blanco.
+
+- 
+
+ administrador deHyper-V
+
+- 
+
+ PowerShell
+
+- 
+En Hyper-V Manager, seleccione la máquina virtual.
+
+- 
+Haga clic con el botón derecho en el punto de control y seleccione Cambiar nombre.
+
+- 
+Escriba en el nuevo nombre del punto de control. Debe tener menos de 100 caracteres y el campo no puede estar vacío.
+
+- 
+Seleccione ENTRAR cuando haya terminado.
+
+`Rename-VMCheckpoint -VMName <virtual machine name> -Name <checkpoint name> -NewName <new checkpoint name>
+`
+
+## Eliminación de puntos de control
+
+La eliminación de puntos de control puede ayudar a crear espacio en el host de Hyper-V.
+
+En segundo plano, los puntos de control se almacenan como archivos .avhdx en la misma ubicación que los archivos .vhdx de la máquina virtual. Al eliminar un punto de control, Hyper-V combina los archivos .avhdx y .vhdx. Una vez completado, el archivo .avhdx del punto de control se eliminará del sistema de archivos.
+
+No debe eliminar los archivos .avhdx directamente.
+
+- 
+
+ administrador deHyper-V
+
+- 
+
+ PowerShell
+
+Para eliminar limpiamente un punto de control:
+
+- 
+En Hyper-V Manager, seleccione la máquina virtual.
+
+- 
+En la sección Puntos de control , haga clic con el botón derecho en el punto de control que desea eliminar y seleccione Eliminar. También puede eliminar un punto de control y todos los puntos de control posteriores. Para ello, haga clic con el botón derecho en el punto de comprobación más antiguo que quiera eliminar y, a continuación, seleccione Eliminar subárbol de punto de control.
+
+- 
+Es posible que se le pida que compruebe que desea eliminar el punto de control. Confirme que es el punto de control correcto y, a continuación, seleccione Eliminar.
+
+`Remove-VMCheckpoint -VMName <virtual machine name> -Name <checkpoint name>
+`
+
+## Exportación de puntos de control
+
+Exporta agrupa el punto de control como una máquina virtual para que el punto de control se pueda mover a una nueva ubicación. Una vez importado, el punto de control se restaura como una máquina virtual. Los puntos de control exportados se pueden usar para la copia de seguridad.
+
+- 
+
+ administrador deHyper-V
+
+- 
+
+ PowerShell
+
+Para exportar un punto de control:
+
+- 
+En Hyper-V Manager, seleccione la máquina virtual.
+
+- 
+En la sección Puntos de control , haga clic con el botón derecho en el punto de control que desea exportar y seleccione Exportar.
+
+- 
+Escriba la ubicación donde desea guardar el punto de control exportado y, a continuación, seleccione Exportar.
+
+El proceso de exportación puede tardar algún tiempo, en función del tamaño del punto de control. Compruebe el estado de la columna Estado en el administrador deHyper-V para la máquina virtual.
+
+`Export-VMCheckpoint -VMName <virtual machine name> -Name <checkpoint name> -Path <path for export>
+`
+
+## Habilitación o deshabilitación de puntos de control
+
+- 
+En Hyper-V Administrador, haga clic con el botón derecho en el nombre de la máquina virtual y seleccione Configuración.
+
+- 
+En la sección Administración , seleccione Puntos de control.
+
+- 
+Para permitir que los puntos de control se desactiven de esta máquina virtual, asegúrese de que habilitar puntos de control está seleccionado; este es el comportamiento predeterminado. Para deshabilitar los puntos de control, anule la selección de la casilla Habilitar puntos de control .
+
+- 
+Seleccione Aplicar para aplicar los cambios. Si ha terminado, seleccione Aceptar para cerrar el cuadro de diálogo.
+
+## Configuración de la ubicación del punto de control
+
+Si la máquina virtual no tiene puntos de control, puede cambiar dónde se almacenan la configuración del punto de control y los archivos de estado guardados.
+
+- 
+En Hyper-V Administrador, haga clic con el botón derecho en el nombre de la máquina virtual y seleccione Configuración.
+
+- 
+En la sección Administración , seleccione Puntos de comprobación o Ubicación del archivo de punto de control.
+
+- 
+En Ubicación del archivo de punto de control, escriba la ruta de acceso a la carpeta donde desea almacenar los archivos.
+
+- 
+Seleccione Aplicar para aplicar los cambios. Si ha terminado, seleccione Aceptar para cerrar el cuadro de diálogo.
+
+La ubicación predeterminada para almacenar los archivos de configuración del punto de control es: `%systemroot%\ProgramData\Microsoft\Windows\Hyper-V\Snapshots`.
+
+## Uso de puntos de control estándar
+
+En este ejercicio se explica cómo crear y aplicar un punto de control estándar frente a un punto de control de producción. En este ejemplo, realizará un cambio sencillo en la máquina virtual y observará el comportamiento diferente.
+
+### Creación de un punto de control estándar
+
+- 
+Inicie sesión en la máquina virtual y cree un archivo de texto en el escritorio.
+
+- 
+Abra el archivo con el Bloc de notas y escriba el texto "This is a Standard Checkpoint". 
+ No guarde el archivo ni cierre el Bloc de notas.
+
+- 
+Cambie el punto de control a estándar. Siga las instrucciones para cambiar los puntos de control.
+
+- 
+Cree un nuevo punto de control.
+
+### Aplicación del punto de control estándar con Hyper-V Manager
+
+Ahora que existe un punto de control, realice una modificación en la máquina virtual y, a continuación, aplique el punto de control para revertir la máquina virtual al estado guardado.
+
+- 
+Cierre el archivo de texto si sigue abierto y elimínelo del escritorio de la máquina virtual.
+
+- 
+Abra Hyper-V Manager, haga clic con el botón derecho en el punto de control estándar y seleccione Aplicar.
+
+- 
+Seleccione Aplicar en la ventana Aplicar notificación de punto de control.
+
+Una vez aplicado el punto de control, observe que no solo está presente el archivo de texto, sino que el sistema tiene el estado exacto de que era cuando se creó el punto de control. En este caso, el Bloc de notas está abierto y el archivo de texto cargado.
+
+## Uso de puntos de control de producción
+
+Ahora vamos a examinar los puntos de control de producción. Este proceso es casi idéntico a trabajar con un punto de control estándar, pero tendrá resultados ligeramente diferentes. Antes de empezar, asegúrese de tener una máquina virtual y de que haya cambiado el tipo de punto de control a Puntos de control de producción.
+
+### Modificación de la máquina virtual y Creación de un punto de control de producción
+
+- 
+Inicie sesión en la máquina virtual y cree un nuevo archivo de texto. Si ha seguido el ejercicio anterior, puede usar el archivo de texto existente.
+
+- 
+Escriba "This is a Production Checkpoint". en el archivo de texto, guarde el archivo, pero no cierre el Bloc de notas.
+
+- 
+Abra Hyper-V Manager, haga clic con el botón derecho en la máquina virtual y seleccione Punto de control.
+
+- 
+Seleccione Aceptar en la ventana Punto de control de producción creado.
+
+### Aplicar el punto de control de producción con Hyper-V Manager
+
+Ahora que existe un punto de control, realice una modificación en el sistema y, a continuación, aplique el punto de control para revertir la máquina virtual al estado guardado.
+
+- 
+Cierre el archivo de texto si sigue abierto y elimínelo del escritorio de la máquina virtual.
+
+- 
+Abra Hyper-V Manager, haga clic con el botón derecho en el punto de control de producción y seleccione Aplicar.
+
+- 
+Seleccione Aplicar en la ventana Aplicar notificación de punto de control.
+
+Una vez aplicado el punto de control de producción, observe que la máquina virtual está en estado desactivado.
+
+- 
+Inicie e inicie sesión en la máquina virtual.
+
+- 
+Tome nota de que se ha restaurado el archivo de texto. Pero a diferencia del punto de control estándar, el Bloc de notas no está abierto.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-15

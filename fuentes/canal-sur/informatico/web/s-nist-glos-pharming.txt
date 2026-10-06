@@ -1,0 +1,59 @@
+URL: https://csrc.nist.gov/glossary/term/pharming
+Leído: 2026-10-06
+
+Definitions:
+Using technical means to redirect users into accessing a fake Web site masquerading as a legitimate one and divulging personal information.
+Sources:
+NIST SP 800-44 Version 2
+An attack in which an attacker causes the subscriber to be redirected to a fraudulent website, typically a fraudulent verifier/RP in the context of authentication. This could cause the subscriber to reveal sensitive information (e.g., a password) to the attacker, download harmful software, or contribute to a fraudulent act. This may be accomplished by corrupting an infrastructure service (e.g., the DNS) or the subscriber’s endpoint.
+Sources:
+NIST SP 800-63-4
+[
+]
+under pharming
+About
+See the identified Source document to understand each term-definition pair in its proper context.
+Send inquiries about terminology to the Source's authors; NIST publications will usually include a contact email for that Source.
+For other inquiries, such as comments about the Glossary's presentation and functionality, use
+this link
+.
+See the
+Glossary homepage
+for more guidance.
+HEADQUARTERS
+100 Bureau Drive
+Gaithersburg, MD 20899
+X
+(link is external)
+facebook
+(link is external)
+linkedin
+(link is external)
+instagram
+(link is external)
+youtube
+(link is external)
+rss
+govdelivery
+(link is external)
+Want updates about CSRC and our publications?
+Subscribe
+Contact Us
+|
+Our Other Offices
+Send inquiries to
+[email protected]
+Site Privacy
+Accessibility
+Privacy Program
+Copyrights
+Vulnerability Disclosure
+No Fear Act Policy
+FOIA
+Environmental Policy
+Scientific Integrity
+Information Quality Standards
+Commerce.gov
+Science.gov
+USA.gov
+Vote.gov

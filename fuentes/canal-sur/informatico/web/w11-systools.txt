@@ -1,0 +1,190 @@
+URL: https://support.microsoft.com/es-es/windows/experience/system-configuration-tools-in-windows
+Leído: 2026-10-05
+
+# Herramientas de configuración del sistema en Windows
+
+ Se aplica a
+Windows 11 Windows 10 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo utilizo herramientas de configuración del sistema?
+
+ ¿Cómo navego por la configuración de Windows?
+
+ ¿Cómo utilizo herramientas de configuración del sistema?
+
+## Resumen
+
+Windows proporciona una variedad de herramientas de configuración adaptadas para satisfacer las necesidades de distintos usuarios. Estas herramientas integradas facilitan la personalización y supervisión de tu dispositivo, permitiéndote cambiar la configuración de Windows para adaptarla a tus preferencias y requisitos con precisión.
+
+En este artículo se describen las herramientas esenciales que puede usar para administrar Windows y en cada sección de este artículo se proporciona una descripción general concisa de una herramienta específica. Encontrará una breve descripción de la funcionalidad de la herramienta, sus aplicaciones e instrucciones sobre cómo acceder a ella. Este enfoque estructurado garantiza que pueda identificar rápidamente la herramienta que necesita y comprender cómo usarla de manera efectiva para sus requisitos particulares.
+
+Expande cada sección para obtener más información sobre cada herramienta y descubre cómo Windows se adapta tanto a usuarios novatos como avanzados, garantizando que todos puedan optimizar su sistema con facilidad.
+
+## Configuración
+
+ | 
+
+ | 
+ Configuración es la aplicación principal para personalizar y administrar la configuración de Windows. Está diseñado teniendo en cuenta la simplicidad, la accesibilidad y la facilidad de uso, lo que proporciona una experiencia más intuitiva y fácil de usar que el Panel de control tradicional. La aplicación está organizada en categorías, para navegar rápidamente y ajustar la configuración a sus preferencias y necesidades.
+
+La aplicación Configuración se actualiza continuamente para admitir las características más recientes de Windows.
+
+En Configuración, también puede encontrar soporte técnico y ayuda para la solución de problemas, lo que lo convierte en un centro para mantener el estado y la funcionalidad de Windows.
+
+Para abrir la Configuración, puede usar uno de los siguientes métodos:
+
+- Haga clic con el botón derecho en Inicio y seleccione Configuración.
+
+- Use el método abreviado de teclado +I.
+
+- Utilice el siguiente vínculo:
+
+ Configuración
+
+## Administrador de tareas
+
+ | 
+
+ | 
+ El Administrador de tareas es una aplicación que sirve como monitor del sistema y administrador de inicio para Windows, lo que proporciona información sobre el rendimiento y el consumo de recursos del dispositivo. Le permite ver y administrar aplicaciones en ejecución, evaluar la carga de la CPU, el uso de memoria, la actividad del disco y el uso de la red.
+
+Con el Administrador de tareas, puede finalizar programas que no responden, ajustar las aplicaciones de inicio y monitorear las sesiones de usuario activas, lo que garantiza un rendimiento óptimo del sistema y el control del usuario.
+
+Para abrir el Administrador de tareas, puede usar uno de los siguientes métodos:
+
+- Haga clic con el botón derecho en Inicio y seleccione Administrador de tareas.
+
+- Use el método abreviado de teclado CTRL+MAYÚS+ESC.
+
+## Administración de equipos
+
+ | 
+
+ | La consola de administración de equipo es un complemento de Microsoft Management Console (MMC) que proporciona una ubicación centralizada para administrar diversos componentes, servicios y configuraciones del sistema en Windows. Incluye herramientas para administrar discos, servicios, dispositivos, carpetas compartidas y usuarios, entre otras tareas administrativas.
+
+La consola es especialmente útil para profesionales de TI y usuarios avanzados que necesitan realizar tareas administrativas en equipos locales o remotos.
+
+Para abrir la consola de administración del equipo, puede usar uno de los métodos siguientes:
+
+- Búscalo en el menú Inicio.
+
+- Haga clic con el botón derecho en Inicio y seleccione Administración de equipos.
+
+- Use el método abreviado de teclado +R, escriba compmgmt.msc y presione Entrar.
+
+## Visor de eventos
+
+ | 
+
+ | El Visor de eventos es un complemento de Microsoft Management Console (MMC) que puede usar para ver y administrar registros de eventos. Proporciona un registro detallado de los eventos del sistema, la seguridad y las aplicaciones en un dispositivo Windows, lo que puede ser muy útil para solucionar problemas y supervisar el estado del sistema.
+
+El Visor de eventos puede mostrar información como el origen de un evento, la fecha y hora en que se produjo, y cualquier código de error o mensaje asociado.
+
+El Visor de eventos está organizado en categorías como registros de Windows, registros de aplicaciones y servicios y suscripciones. Los usuarios pueden filtrar los registros por criterios como el nivel de evento, la fecha y las palabras clave para localizar rápidamente los eventos relevantes. El Visor de eventos también permite a los usuarios guardar archivos de registro para su análisis y exportar datos de eventos para uso externo.
+
+Para los profesionales de TI, el Visor de eventos es una herramienta eficaz para diagnosticar problemas, auditar la actividad del sistema y garantizar el cumplimiento de las directivas de seguridad. También se usa para realizar un seguimiento del estado de los servidores y otros componentes de infraestructura crítica.
+
+Para abrir el Visor de eventos, puede utilizar uno de los métodos siguientes:
+
+- Búscalo en el menú Inicio.
+
+- Haga clic con el botón derecho en Inicio y seleccione Visor de eventos.
+
+- Use el método abreviado de teclado +R, escriba eventvwr.msc y presione Entrar.
+
+## Panel de control
+
+ | 
+
+ | El Panel de control es una característica que ha formado parte de Windows durante mucho tiempo. Proporciona una ubicación centralizada para ver y manipular la configuración y los controles del sistema. Mediante una serie de applets, puede ajustar varias opciones que van desde la hora y fecha del sistema hasta la configuración de hardware, las configuraciones de red y más. Muchos de los valores de configuración del Panel de control se están migrando a la aplicación Configuración, que ofrece una experiencia más moderna y optimizada.
+
+ Sugerencia: aunque el Panel de control sigue existiendo por motivos de compatibilidad y para proporcionar acceso a algunas configuraciones que aún no se han migrado, se recomienda usar la aplicación Configuración, siempre que sea posible.
+
+Para abrir el Panel de control, puede utilizar uno de los siguientes métodos:
+
+- Búscalo en el menú Inicio.
+
+- Use el método abreviado de teclado +R, escriba control y presione Entrar.
+
+## Configuración del sistema
+
+ | 
+
+ | 
+ Configuración del sistema es una utilidad del sistema que le permite solucionar problemas de inicio de Windows. Proporciona opciones para personalizar el proceso de inicio, incluida la capacidad de habilitar o deshabilitar software, controlar los servicios de inicio y acceder a otras configuraciones avanzadas del sistema. La configuración del sistema puede ser especialmente útil cuando se diagnostican problemas de rendimiento o conflictos de software, ya que le permite iniciar selectivamente el sistema con solo los servicios y programas esenciales en ejecución.
+
+La utilidad incluye varias pestañas como General, Arranque, Servicios, Inicio y Herramientas, cada una de las cuales ofrece diferentes funciones para administrar el comportamiento de inicio del sistema. Por ejemplo, la pestaña Servicios le permite deshabilitar los servicios que podrían estar causando problemas, mientras que la pestaña Inicio (que redirige al Administrador de tareas en versiones más recientes de Windows) le permite administrar los programas que se inician al inicio.
+
+ Precaución: La configuración del sistema es una herramienta poderosa y debe usarse con precaución. La configuración incorrecta del sistema puede provocar inestabilidad en el sistema o impedir que Windows se inicie correctamente. Por lo tanto, se recomienda crear una copia de seguridad del sistema antes de realizar cambios con Configuración del sistema.
+
+Para abrir Configuración del sistema, puede usar uno de los siguientes métodos:
+
+- Búscalo en el menú Inicio.
+
+- Use el método abreviado de teclado +R, escriba MSConfigy presione Entrar.
+
+## Información del sistema
+
+ | 
+
+ | 
+ Información del sistema es una utilidad del sistema que proporciona una vista completa del hardware, los componentes del sistema y el entorno de software en un dispositivo Windows. Es especialmente útil para recopilar información que puede ayudar a diagnosticar problemas con la configuración de un dispositivo. La herramienta puede mostrar una amplia gama de detalles, incluido el hardware instalado, los controladores del sistema, los servicios y los procesos en ejecución, entre otros.
+
+Para abrir Información del sistema, puede usar uno de los siguientes métodos:
+
+- Búscalo en el menú Inicio.
+
+- Use el método abreviado de teclado +R, escriba msinfo32y presione Entrar.
+
+ Consejo: abra Información del sistema con privilegios de administrador para garantizar la creación de informes precisos de los controladores y servicios del sistema.
+
+## Editor del Registro
+
+ | 
+
+ | El Editor del Registro es una potente herramienta que se utiliza para ver y modificar el Registro del sistema. El Registro es una base de datos que almacena la configuración de bajo nivel para Windows y para las aplicaciones que optan por usarlo.
+
+El Editor del Registro permite cambiar la configuración que no se expone en la interfaz de usuario, incluidas las directivas del sistema, las aplicaciones instaladas y los tipos de archivos que pueden abrir determinadas aplicaciones.
+
+Para abrir el Editor del Registro, puede usar uno de los métodos siguientes:
+
+- Búscalo en el menú Inicio.
+
+- Use el atajo de teclado +R, escriba regedit y presione Enter.
+
+ Precaución: Al usar el Editor del Registro, es importante proceder con precaución. Los cambios inapropiados en el Registro pueden causar problemas importantes, como inestabilidad del sistema, errores de aplicación o incluso impedir que Windows se inicie. Asegúrese siempre de haber realizado una copia de seguridad del Registro antes de realizar cualquier cambio y solo modifique la configuración del Registro si está seguro de que comprende el impacto potencial. Se recomienda seguir una guía confiable o consultar con un profesional de TI en caso de duda.
+
+## Editor de directivas de grupo local
+
+ | 
+
+ | El Editor de directivas de directiva de grupo local es un complemento de Microsoft Management Console (MMC) que proporciona una única interfaz de usuario a través de la cual se puede administrar toda la configuración del objeto de directiva de grupo local. Lo usan los administradores para configurar directivas para un equipo local, sin afectar a otros usuarios o equipos de la red. El editor incluye una amplia gama de configuraciones que controlan diversos aspectos del sistema operativo, como las opciones de seguridad, los comportamientos del sistema, la configuración del entorno del usuario y mucho más.
+
+ Nota: El Editor de directivas de grupo local no está disponible en la edición Windows Home.
+
+El Editor de directivas de grupo local es especialmente útil para administrar dispositivos que no forman parte de un dominio o que no están administrados centralmente por una organización. En el caso de los dispositivos que son miembros de un dominio, el departamento de TI suele administrar la configuración de la directiva de grupo de forma centralizada. mediante la Consola de administración de la directiva de grupo o una solución de Administración de dispositivos móviles (MDM). Sin embargo, para las directivas locales, el Editor de directivas de grupo local es la herramienta de referencia. Permite a los administradores aplicar configuraciones específicas que no están disponibles a través de la aplicación Configuración o el Panel de control.
+
+Para abrir el Editor de directivas de grupo local, puede usar uno de los métodos siguientes:
+
+- Búscalo en el menú Inicio.
+
+- Use el método abreviado de teclado +R, escriba gpedit.msc y presione Entrar.
+
+ Precaución: Los cambios realizados en el Editor de directivas de grupo local pueden afectar significativamente al funcionamiento del equipo, por lo que se recomienda que solo los administradores experimentados usen esta herramienta, y que planeen y prueben cuidadosamente cualquier cambio antes de aplicarlo a los entornos de producción.
+
+## Configuración avanzada del sistema
+
+ | 
+
+ | 
+ La Configuración avanzada del sistema es una utilidad del sistema que puede utilizar para acceder y modificar configuraciones que normalmente no están disponibles en Configuración o en el Panel de control. Esta utilidad es especialmente útil para profesionales de TI o usuarios avanzados que necesitan configurar las propiedades del sistema, las variables de entorno, la configuración de rendimiento y los perfiles de usuario para obtener un rendimiento óptimo del sistema.
+
+ Precaución: la realización de cambios mediante la configuración avanzada del sistema debe hacerse con precaución, ya que una configuración incorrecta puede afectar a la estabilidad del sistema.
+
+Para abrir la Configuración avanzada del sistema, puede usar uno de los siguientes métodos:
+
+- Búscalo en el menú Inicio.
+
+- Use el método abreviado de teclado +R, escriba SystemPropertiesAdvanced y presione Entrar.

@@ -1,0 +1,261 @@
+URL: https://learn.microsoft.com/es-es/windows-server/identity/laps/laps-overview
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# ¿Qué es Windows LAPS?
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows 11, ✅ Windows 10
+
+## 
+
+La solución de contraseñas de administrador local de Windows (Windows LAPS) es una característica de Windows que administra y realiza automáticamente copias de seguridad de la contraseña de una cuenta de administrador local en los dispositivos unidos a Microsoft Entra o unidos a Active Directory de Windows Server. También puedes usar Windows LAPS para gestionar y respaldar la contraseña de la cuenta de Directory Services Restore Mode (DSRM) en tus controladores de dominio Windows Server Active Directory.
+
+Las cuentas de administrador local suelen compartir la misma contraseña en muchos dispositivos, que los actores malintencionados pueden aprovechar para moverse lateralmente por tu entorno. Windows LAPS te ayuda a cerrar esa brecha rotando regularmente la contraseña local de cada dispositivo, almacenándola de forma segura y permitiendo que los administradores autorizados la recuperen para iniciar sesión o recuperar un dispositivo.
+
+Este artículo presenta las plataformas que soporta Windows LAPS, sus escenarios clave y beneficios, y en qué se diferencia del producto heredado de Microsoft LAPS, para que puedas decidir cómo usar Windows LAPS en tu entorno.
+
+## Plataformas compatibles con Windows LAPS
+
+Windows LAPS está disponible en las siguientes plataformas del sistema operativo:
+
+### Cliente de Windows
+
+- Windows 11 23H2 y versiones posteriores.
+
+- Otras versiones del cliente de Windows que recibieron la actualización del 11 de abril de 2023 o posteriores, incluyendo:
+
+- 
+ Windows 11 22H2: actualización del 11 de abril de 2023 y posteriores.
+
+- 
+ Windows 11 21H2: actualización del 11 de abril de 2023 y versiones posteriores.
+
+- 
+ Windows 10: actualización de abril de 11 de 2023 y versiones posteriores.
+
+Windows 10 llegó a la finalización del soporte el 14 de octubre de 2025. Windows LAPS sigue disponible solo en dispositivos con Windows 10 que continúan recibiendo actualizaciones, como a través del programa Extended Security Updates (ESU). Para conocer el servicio y fechas de ciclo de vida de Windows 10 compatibles, consulta las preguntas frecuentes sobre el ciclo de vida de Windows. Para nuevos despliegues, utiliza Windows 11 o una versión compatible de Windows Server.
+
+La configuración de Gestión Automática de Cuentas en el proveedor de servicios de configuración Windows LAPS requiere Windows 11, versión 24H2 o posterior, o Windows Server 2025 o posterior.
+
+### Servidor de Windows
+
+- Windows Server 2025 y versiones posteriores.
+
+- 
+ Canal anual de Windows Server para contenedores, 23H2 y versiones posteriores.
+
+- Otras versiones de Windows Server que recibieron la actualización del 11 de abril de 2023 o posteriores, incluyendo:
+
+- 
+ Windows Server 2022: actualización del 11 de abril de 2023 y versiones posteriores.
+
+- 
+ Windows Server 2019: actualización del 11 de abril de 2023 y versiones posteriores.
+
+Windows LAPS está disponible en todas las ediciones compatibles de estas plataformas, incluidas las ediciones de canales de mantenimiento a largo plazo (LTSC). Introducir la función LAPS de Windows no modifica las políticas estándar del ciclo de vida de los productos de Microsoft.
+
+## Windows LAPS y Microsoft Entra ID
+
+La compatibilidad de Windows LAPS con Microsoft Entra ID y Microsoft Intune está disponible de forma general a partir del 23 de octubre de 2023. Para obtener más información, consulte Solución de contraseña de administrador local de Windows con microsoft Entra ID ahora disponible con carácter general! y Solución de contraseña de administrador local de Windows en Microsoft Entra ID.
+
+## Ventajas de usar Windows LAPS
+
+Use Windows LAPS para rotar y administrar regularmente las contraseñas de la cuenta de administrador local y obtener estas ventajas:
+
+- Protección contra ataques Pass-the-Hash y lateral-transversal
+
+- Seguridad mejorada para escenarios remotos del departamento de soporte técnico
+
+- Capacidad de iniciar sesión y recuperar dispositivos que, de lo contrario, no son accesibles
+
+- Un modelo de seguridad detallado (listas de control de acceso y cifrado opcional de contraseñas) para proteger contraseñas almacenadas en Windows Server Active Directory
+
+- Soporte para el modelo de control de acceso basado en roles de Microsoft Entra para asegurar contraseñas almacenadas en Microsoft Entra ID
+
+## Vídeos informativos de Windows LAPS
+
+Los siguientes vídeos te ofrecen más información sobre la función LAPS de Windows. Como estos vídeos no incluyen contenido de texto, utiliza los artículos circundantes para la guía autorizada de Windows LAPS.
+
+Presentación del despegue técnico de Windows (noviembre de 2022):
+
+Discusión técnica de Windows (agosto de 2023):
+
+## Escenarios clave de Windows LAPS
+
+Puede usar Windows LAPS para varios escenarios principales:
+
+- 
+Copia de seguridad de contraseñas de cuenta de administrador local en Microsoft Entra ID (para dispositivos unidos a Microsoft Entra)
+
+- 
+Hacer una copia de seguridad de las contraseñas de cuenta de administrador local para Windows Server Active Directory (para clientes y servidores unidos a Windows Server Active Directory)
+
+- 
+Hacer una copia de seguridad de las contraseñas de cuenta de DSRM en Windows Server Active Directory (para controladores de dominio de Windows Server Active Directory)
+
+- 
+Realiza una copia de seguridad de las contraseñas de las cuentas de administrador local en Active Directory de Windows Server mediante el modo de emulación heredado de Microsoft LAPS, en el que Windows LAPS nativo respeta la configuración existente de la Directiva de grupo de Microsoft LAPS durante la migración
+
+En cada escenario puede aplicar diferentes configuraciones de directiva.
+
+## Descripción de las restricciones de estado de unión a dispositivos
+
+Si un dispositivo está unido a Microsoft Entra ID o Windows Server Active Directory determina cómo puede usar Windows LAPS.
+
+- Los dispositivos unidos solo a Microsoft Entra ID solo pueden realizar copias de seguridad de contraseñas en Microsoft Entra ID.
+
+- Los dispositivos unidos solo a Windows Server Active Directory pueden realizar copias de seguridad de contraseñas solo en Windows Server Active Directory.
+
+- Los dispositivos unidos a un entorno híbrido (unidos a Microsoft Entra ID y Windows Server Active Directory) pueden realizar copias de seguridad de sus contraseñas en microsoft Entra ID o en Windows Server Active Directory.
+
+No se pueden realizar copias de seguridad de contraseñas en Microsoft Entra ID y en Windows Server Active Directory.
+
+Windows LAPS no admite que se unan clientes al área de trabajo de Microsoft Entra.
+
+## Establecer la directiva de Windows LAPS
+
+Para configurar y administrar la directiva para la implementación de Windows LAPS tiene varias opciones:
+
+- 
+ Proveedor de servicios de configuración (CSP) de Windows LAPS
+
+- 
+ Directiva de grupo de Windows LAPS
+
+- 
+ Modo de emulación Microsoft LAPS heredado, en el que el Windows LAPS nativo lee tus configuraciones de Directiva de Grupo Microsoft LAPS heredadas
+
+## Administrar y supervisar Windows LAPS
+
+Tienes varias opciones para gestionar y monitorizar Windows LAPS.
+
+Entre las opciones para Windows se incluyen:
+
+- El cuadro de diálogo de propiedades Usuarios y equipos de Active Directory. Para más información, consulta Empezar con Windows LAPS y Windows Server Active Directory.
+
+- Un canal de registro de eventos dedicado. Para más información, consulte la guía de solución de problemas de Windows LAPS.
+
+- Un módulo de Windows PowerShell específico de Windows LAPS. Para más información, consulte la referencia del módulo LAPS PowerShell.
+
+Cuando haces una copia de seguridad de las contraseñas de Microsoft Entra ID, obtienes soluciones de monitorización e informes basadas en Microsoft Entra ID.
+
+## Desuso del producto LAPS heredado de Microsoft
+
+Important
+
+El producto MICROSOFT LAPS heredado está en desuso a partir de Windows 11 23H2 y versiones posteriores. Las versiones más recientes del sistema operativo bloquean la instalación del paquete heredado Microsoft LAPS Microsoft Installer (MSI). Microsoft ya no considera cambios de código para el producto heredado Microsoft LAPS.
+
+Utiliza Windows LAPS para gestionar las contraseñas de las cuentas de administrador local. Windows LAPS está disponible en Windows Server 2019 y versiones posteriores, y en clientes de Windows 10 y Windows 11 compatibles.
+
+Microsoft continuará soportando el producto heredado Microsoft LAPS en las versiones anteriores de Windows (anteriores a Windows 11 23H2) que lo soportaban anteriormente. Ese soporte finaliza con el fin del soporte habitual para esas versiones del sistema operativo.
+
+## Windows LAPS vs. Microsoft LAPS heredado
+
+Windows LAPS incorpora muchos de los conceptos de diseño del antiguo Microsoft LAPS. Si conoces el Microsoft LAPS antiguo, reconoces muchas funciones de Windows LAPS. Una diferencia clave es que Windows LAPS es una implementación totalmente independiente que es nativa de Windows. Windows LAPS también agrega muchas características que no están disponibles en Microsoft LAPS heredado. Puedes usar Windows LAPS para realizar copias de seguridad de contraseñas en microsoft Entra ID, cifrar contraseñas en Windows Server Active Directory y almacenar el historial de contraseñas.
+
+Windows LAPS no requiere que instale Microsoft LAPS anterior. Puede implementar y utilizar plenamente todas las funciones de Windows LAPS sin necesidad de instalar o referirse al antiguo Microsoft LAPS. Para ayudar a migrar un despliegue heredado de Microsoft LAPS, Windows LAPS ofrece el modo de emulación legacy de Microsoft LAPS. Recuerda que el producto heredado de Microsoft LAPS está obsoleto en las versiones más recientes de Microsoft OS. Para obtener más información, consulte Desuso del producto heredado Microsoft LAPS.
+
+## De Microsoft LAPS heredado a Windows LAPS nativo
+
+Debido a que el producto heredado de Microsoft LAPS está obsoleto y las versiones más recientes de Windows bloquean su instalador, el Windows LAPS nativo es la forma compatible para gestionar las contraseñas locales de administrador. El Windows LAPS nativo no requiere descarga ni instalación separada. Está integrado en las versiones compatibles de Windows y Windows Server, así que no necesitas instalar Microsoft LAPS antiguo para adoptarlo.
+
+Para planificar y completar el traslado a dispositivos que actualmente ejecutan Microsoft LAPS heredados, véase Migrar a Windows LAPS desde LAPS heredado. Ese artículo es la fuente autorizada para los requisitos previos de migración, las opciones de migración disponibles, cómo validar que Windows LAPS nativo gestiona correctamente tus cuentas y cómo eliminar el software heredado de Microsoft LAPS tras la transición.
+
+## Modo de emulación heredado de Microsoft LAPS
+
+Si no puedes pasar directamente a Windows LAPS nativo, puedes ejecutar Windows LAPS en modo de emulación de Microsoft LAPS heredado como opción transicional. En este modo, Windows LAPS respeta la configuración de Directiva de Grupo de Microsoft LAPS heredada mientras completa la migración.
+
+El modo de emulación tiene dos requisitos críticos:
+
+- No instales la extensión heredada de Microsoft LAPS Group Policy para el cliente (CSE) en el dispositivo gestionado. Si el CSE heredado está presente, Windows LAPS recurre a él y desactiva el modo de emulación para evitar conflictos.
+
+- Las configuraciones nativas de políticas LAPS de Windows tienen prioridad. Si configuras un dispositivo con configuraciones nativas de políticas LAPS de Windows y configuraciones antiguas de políticas LAPS de Microsoft, Windows LAPS aplica los ajustes nativos e ignora los ajustes heredados emulados.
+
+El modo emulación tiene limitaciones de seguridad. Al igual que la versión heredada de Microsoft LAPS, almacena las contraseñas en Windows Server Active Directory únicamente en texto sin formato, por lo que no puede usar las funciones de cifrado de contraseñas ni de historial de contraseñas de Windows LAPS nativo. Trata el modo emulación como un paso temporal y planea migrar a Windows LAPS nativo para aprovechar sus funciones de seguridad. Para obtener más información, consulta Introducción a Windows LAPS en el modo de emulación heredado de Microsoft LAPS.
+
+## Declaración de soporte para Windows LAPS y Microsoft LAPS heredada
+
+Microsoft lanzó el producto legado Microsoft LAPS en 2016 en el Centro de descarga de Microsoft. Windows LAPS se lanzó como parte de Windows Updates lanzada el 11 de abril de 2023 para las plataformas listadas en las plataformas compatibles con Windows LAPS.
+
+Microsoft y su organización de distribución de soporte ofrecen soporte asistido tanto para Microsoft LAPS heredados como para Windows LAPS, incluyendo la interoperabilidad entre ambos productos. Microsoft ha dejado obsoleto el producto heredado de Microsoft LAPS en versiones más recientes de Microsoft OS. Para obtener más información, consulte Desuso del producto heredado Microsoft LAPS.
+
+Te recomendamos encarecidamente que empieces ya a planificar la migración de tus sistemas con compatibilidad para Windows LAPS desde Microsoft LAPS heredado a la característica Windows LAPS. Windows LAPS ofrece muchas características de seguridad nuevas y un mantenimiento mejorado del producto.
+
+Pregunta directamente sobre limitaciones y preocupaciones de interoperabilidad entre herramientas locales de gestión de contraseñas de cuentas de terceros y Windows LAPS al desarrollador de la aplicación de terceros, no a Microsoft.
+
+## Requisitos de licencia Windows LAPS
+
+La función Windows LAPS está disponible sin coste en todas las plataformas Windows compatibles.
+
+Puede realizar copias de seguridad de contraseñas en Windows Server Active Directory sin otros requisitos de licencia.
+
+Puede realizar copias de seguridad de contraseñas en microsoft Entra ID con una licencia Gratis o superior de Microsoft Entra ID.
+
+Otras funciones de Microsoft Entra ID o Microsoft Intune pueden tener otros requisitos de licencia.
+
+## Envía comentarios sobre Windows LAPS
+
+¿Desea enviar comentarios? Para enviar preguntas específicas de cada documento, utiliza los enlaces de comentarios al final de esta página.
+
+También puede enviar comentarios y otras solicitudes en la página de Tech Community Comentarios sobre Windows LAPS.
+
+Si tu feedback es específico sobre la funcionalidad LAPS relacionada con Microsoft Entra ID o Intune, envía tus comentarios a través del foro de feedback de Microsoft Entra.
+
+Si no está seguro de dónde deben ir sus comentarios, envíelos mediante cualquiera de estas opciones.
+
+## Contenido relacionado
+
+- 
+ Conceptos clave en Windows LAPS
+
+- 
+ Introducción a Windows LAPS y Windows Server Active Directory
+
+- 
+ Introducción a Windows LAPS y Microsoft Entra ID
+
+- 
+ Comenzar con Windows LAPS en el modo de emulación heredado de Microsoft LAPS
+
+- 
+ Migrar a Windows LAPS desde LAPS heredado
+
+- 
+ Windows LAPS CSP
+
+- 
+ Referencia del módulo de PowerShell de LAPS
+
+- 
+ Guía de solución de problemas de Windows LAPS
+
+- 
+ Compatibilidad de Microsoft Intune con Windows LAPS
+
+- 
+ Solución de contraseñas de administrador local de Windows en Microsoft Entra ID
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-09-16

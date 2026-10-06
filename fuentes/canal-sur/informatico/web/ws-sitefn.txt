@@ -1,0 +1,62 @@
+URL: https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/plan/site-functions
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Funciones de sitio
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+Windows Server 2008 usa información del sitio para muchos propósitos, como el enrutamiento de la replicación, la afinidad de cliente, la replicación del volumen del sistema (SYSVOL), los Espacios de nombres del Sistema de archivos distribuido (DFSN) y la ubicación del servicio.
+
+## Replicación del enrutamiento
+
+Active Directory Domain Services (AD DS) usa un método de replicación de almacenamiento y reenvío con varios maestros. Un controlador de dominio comunica los cambios de directorio a un segundo controlador de dominio, que luego se comunica con un tercero, y así sucesivamente hasta que todos los controladores de dominio hayan recibido el cambio. Para lograr el mejor equilibrio entre reducir la latencia de la replicación y reducir el tráfico, la topología del sitio controla la replicación de Active Directory al distinguir entre la replicación que se produce dentro de un sitio y la replicación que se produce entre sitios.
+
+Dentro de los sitios, la replicación está optimizada para la velocidad, las actualizaciones de datos desencadenan la replicación y los datos se envían sin la sobrecarga requerida por la compresión de datos. Por el contrario, la replicación entre sitios se comprime para minimizar el costo de la transmisión mediante vínculos de red de área extensa (WAN). Cuando se produce la replicación entre sitios, un único controlador de dominio por cada dominio en cada sitio recopila y almacena los cambios de directorio y los comunica a la hora programada a un controlador de dominio de otro sitio.
+
+## Afinidad de cliente
+
+Los controladores de dominio usan la información del sitio para informar a los clientes de Active Directory sobre los controladores de dominio presentes en el sitio más cercano como cliente. Por ejemplo, imagine un cliente del sitio de Seattle que no conoce su afiliación de sitio y se pone en contacto con un controlador de dominio del sitio de Atlanta. En función de la dirección IP del cliente, el controlador de dominio de Atlanta determina desde qué sitio procede realmente el cliente y envía la información del sitio al cliente. El controlador de dominio también informa al cliente de si el controlador de dominio elegido es el más cercano a él. El cliente almacena en caché la información del sitio proporcionada por el controlador de dominio de Atlanta, consulta el registro de recursos del servicio específico del sitio (SRV) (un registro de recursos del Sistema de nombres de dominio (DNS) utilizado para buscar controladores de dominio para AD DS) y, por tanto, busca un controlador de dominio en el mismo sitio.
+
+Al buscar un controlador de dominio en el mismo sitio, el cliente evita las comunicaciones mediante vínculos WAN. Si no hay controladores de dominio ubicados en el sitio del cliente, el controlador de dominio que tenga las conexiones de menor costo en comparación a otros sitios conectados se anuncia a sí mismo (registra un registro de recursos del servicio específico del sitio (SRV) en el sistema DNS) en el sitio que no tiene un controlador de dominio. Los controladores de dominio que se publican en el sistema DNS son los del sitio más cercano, tal y como se define en la topología del sitio. Este proceso garantiza que cada sitio tenga un controlador de dominio preferido para la autenticación.
+
+Para obtener más información sobre el proceso de búsqueda de un controlador de dominio, consulte Colección de Active Directory.
+
+## Replicación SYSVOL
+
+SYSVOL es una colección de carpetas del sistema de archivos que existe en cada controlador de dominio de un dominio. Las carpetas SYSVOL proporcionan una ubicación predeterminada de Active Directory para los archivos que se deben replicar en todo un dominio, incluidos los objetos de directiva de grupo (GPO), los scripts de inicio y apagado, y los scripts de inicio y cierre de sesión. Windows Server 2008 puede usar el Servicio de replicación de archivos (FRS) o la Replicación del Sistema de archivos distribuido (DFSR) para replicar los cambios realizados en las carpetas de SYSVOL de un controlador de dominio a otros controladores de dominio. FRS y DFSR replican estos cambios según la programación que cree durante el diseño de la topología de sitio.
+
+## DFSN
+
+DFSN usa la información del sitio para dirigir a un cliente al servidor en el que se hospedan los datos solicitados dentro del sitio. Si DFSN no encuentra una copia de los datos en el mismo sitio que el cliente, usa la información del sitio de AD DS para determinar qué servidor de archivos que tenga datos compartidos de DFSN es el más cercano al cliente.
+
+## Ubicación del servicio
+
+Al publicar servicios como servicios de archivo e impresión en AD DS, permite a los clientes de Active Directory buscar el servicio solicitado en el mismo sitio o el más cercano. Los servicios de impresión usan el atributo de ubicación almacenado en AD DS para permitir que los usuarios busquen impresoras por ubicación sin conocer su ubicación precisa. Para más información sobre cómo diseñar e implementar servidores de impresión, consulte Diseño e implementación de servidores de impresión.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-05-12

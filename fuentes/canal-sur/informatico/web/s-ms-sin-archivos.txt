@@ -1,0 +1,105 @@
+URL: https://learn.microsoft.com/es-es/defender-endpoint/malware/fileless-threats
+Leído: 2026-10-05
+
+Amenazas sin archivos - Microsoft Defender for Endpoint | Microsoft Learn
+Ir al contenido principal
+Omisión de la experiencia de chat de Ask Learn
+Este explorador ya no se admite.
+Actualice a Microsoft Edge para aprovechar las características y actualizaciones de seguridad más recientes, y disponer de soporte técnico.
+Descargar Microsoft Edge
+Más información sobre Internet Explorer y Microsoft Edge
+Tabla de contenido
+Salir del modo de editor
+Preguntar a Learn
+Preguntar a Learn
+Modo de lectura
+Tabla de contenido
+Leer en inglés
+Agregar
+Añadir a Planes
+Copiar Markdown
+Imprimir
+Nota:
+El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+Amenazas sin archivos
+Comentarios
+En este artículo
+¿Qué son exactamente las amenazas sin archivos? El término "sin archivos" sugiere que una amenaza no aparece en un archivo, como una puerta trasera que solo se encuentra en la memoria de una máquina. Sin embargo, no hay ninguna definición para el malware sin archivos. El término se usa ampliamente y, a veces, para describir las familias de malware que dependen de archivos para funcionar.
+Los ataques implican varias fases de funcionalidades como la ejecución, la persistencia o el robo de información. Algunas partes de la cadena de ataques pueden estar sin archivos, mientras que otras pueden implicar el sistema de archivos de algún modo.
+Para mayor claridad, las amenazas sin archivos se agrupan en diferentes categorías.
+Figura 1. Diagrama completo de malware sin archivos
+Las amenazas sin archivos se pueden clasificar por su punto de entrada, lo que indica cómo el malware sin archivos puede llegar a una máquina. Pueden llegar a través de una vulnerabilidad de seguridad, a través de hardware en peligro o mediante la ejecución regular de aplicaciones y scripts.
+A continuación, enumere la forma del punto de entrada. Por ejemplo, las vulnerabilidades de seguridad se pueden basar en archivos o datos de red, los periféricos PCI son un tipo de vector de hardware y los scripts y ejecutables son subcategorías del vector de ejecución.
+Por último, clasifique el host de la infección. Por ejemplo, una aplicación Flash puede contener una variedad de amenazas, como una vulnerabilidad de seguridad, un ejecutable simple y un firmware malintencionado desde un dispositivo de hardware.
+La clasificación le ayuda a dividir y clasificar los distintos tipos de amenazas sin archivos. Algunos son más peligrosos pero también más difíciles de implementar, mientras que otros se usan con más frecuencia a pesar de que (o precisamente por) no ser muy avanzados.
+A partir de esta categorización, puede obtener tres tipos principales de amenazas sin archivos en función de la cantidad de huella digital que pueden dejar en las máquinas infectadas.
+Tipo I: no se realizó ninguna actividad de archivo
+Un malware totalmente sin archivos se puede considerar uno que nunca requiere escribir un archivo en el disco. ¿Cómo infectaría este tipo de malware una máquina en primer lugar? Un ejemplo es donde una máquina de destino recibe paquetes de red malintencionados que aprovechan la vulnerabilidad EternalBlue. La vulnerabilidad permite la instalación de la puerta trasera DoublePulsar, que termina residiendo solo en la memoria del kernel. En este caso, no hay ningún archivo ni ningún dato escrito en un archivo.
+Un dispositivo en peligro también puede tener código malintencionado oculto en el firmware del dispositivo (como un BIOS), un periférico USB (como el ataque BadUSB) o en el firmware de una tarjeta de red. Todos estos ejemplos no requieren que se ejecute un archivo en el disco y, teóricamente, solo pueden vivir en memoria. El código malintencionado sobreviviría a reinicios, formatos de disco y reinstalaciones del sistema operativo.
+Las infecciones de este tipo pueden ser especialmente difíciles de detectar porque la mayoría de los productos antivirus no tienen la capacidad de inspeccionar el firmware. En los casos en los que un producto tiene la capacidad de inspeccionar y detectar firmware malintencionado, todavía hay desafíos importantes asociados con la corrección de amenazas en este nivel. Este tipo de malware sin archivos requiere altos niveles de sofisticación y, a menudo, depende de una configuración de hardware o software determinada. No es un vector de ataque que se pueda aprovechar de forma fácil y confiable. Aunque son peligrosas, las amenazas de este tipo son poco comunes y no son prácticas para la mayoría de los ataques.
+Tipo II: actividad de archivo indirecto
+Hay otras maneras en que el malware puede lograr la presencia sin archivos en una máquina sin necesidad de un esfuerzo de ingeniería significativo. El malware sin archivos de este tipo no escribe directamente archivos en el sistema de archivos, pero pueden terminar usando archivos indirectamente. Por ejemplo, con los atacantes poshspy backdoor instalaron un comando malintencionado de PowerShell en el repositorio WMI y configuraron un filtro WMI para ejecutar el comando periódicamente.
+Es posible realizar dicha instalación a través de la línea de comandos sin necesidad de que una puerta trasera ya esté en el archivo. El malware se puede instalar y ejecutar teóricamente sin tocar nunca el sistema de archivos. Sin embargo, el repositorio WMI se almacena en un archivo físico en un área de almacenamiento central administrada por el Administrador de objetos CIM y normalmente contiene datos legítimos. Aunque la cadena de infección utiliza técnicamente un archivo físico, se considera un ataque sin archivos porque el repositorio WMI es un contenedor de datos de uso múltiple que no se puede detectar y quitar.
+Tipo III: Files necesario para funcionar
+Algunos malware pueden tener una especie de persistencia sin archivos, pero no sin usar archivos para funcionar. Un ejemplo para este escenario es Kovter, que crea un controlador de verbos abiertos de shell en el Registro para una extensión de archivo aleatoria. Abrir un archivo con esta extensión conducirá a la ejecución de un script a través de la herramienta legítima mshta.exe.
+Figura 2. Clave del Registro de Kovter
+Cuando se invoca el verbo abierto, se inicia el comando asociado desde el Registro, lo que da como resultado la ejecución de un script pequeño. Este script lee los datos de una clave del Registro adicional y los ejecuta, lo que a su vez conduce a la carga de la carga final. Sin embargo, para desencadenar el verbo abierto en primer lugar, Kovter tiene que quitar un archivo con la misma extensión dirigida por el verbo (en el ejemplo anterior, la extensión es .bbf5590fd). También tiene que establecer una clave de ejecución automática configurada para abrir dicho archivo cuando se inicia la máquina.
+Kovter se considera una amenaza sin archivos porque el sistema de archivos no es de uso práctico. Los archivos con extensiones aleatorias contienen datos no deseados que no se pueden usar para comprobar la presencia de la amenaza. Los archivos que almacenan el registro son contenedores que no se pueden detectar y eliminar si hay contenido malintencionado.
+Categorización de amenazas sin archivos por parte del host de infección
+Una vez descritas las amplias categorías, ahora podemos profundizar en los detalles y proporcionar un desglose de los hosts de infección. Esta clasificación completa cubre el panorama de lo que normalmente se conoce como malware sin archivos. Impulsa nuestros esfuerzos para investigar y desarrollar nuevas características de protección que neutralizan las clases de ataques y garantizan que el malware no obtenga la ventaja en la carrera armamentística.
+Vulnerabilidades de seguridad
+Basado en archivos (tipo III: ejecutable, Flash, Java, documentos): un archivo inicial puede aprovechar el sistema operativo, el explorador, el motor de Java, el motor flash, etc. para ejecutar un shellcode y entregar una carga en memoria. Aunque la carga no tiene archivos, el vector de entrada inicial es un archivo.
+Basado en red (tipo I): una comunicación de red que aprovecha una vulnerabilidad en la máquina de destino puede lograr la ejecución de código en el contexto de una aplicación o del kernel. Un ejemplo es WannaCry, que aprovecha una vulnerabilidad previamente fija en el protocolo SMB para entregar una puerta trasera dentro de la memoria del kernel.
+Hardware
+Basado en dispositivos (tipo I: tarjeta de red, disco duro): los dispositivos como discos duros y tarjetas de red requieren chipsets y software dedicado para funcionar. El software que reside y se ejecuta en el chipset de un dispositivo se denomina firmware. Aunque es una tarea compleja, el firmware puede estar infectado por malware.
+Basado en CPU (tipo I): las CPU modernas son complejas y pueden incluir subsistemas que ejecutan firmware con fines de administración. Este firmware puede ser vulnerable al secuestro y permitir la ejecución de código malintencionado que funcionaría desde dentro de la CPU. En diciembre de 2017, dos investigadores notificaron una vulnerabilidad que puede permitir a los atacantes ejecutar código dentro del motor de administración (ME) presente en cualquier CPU moderna de Intel. Mientras tanto, se ha observado que el grupo de atacantes PLATINUM tiene la capacidad de usar la tecnología de administración activa (AMT) de Intel para realizar comunicaciones de red invisibles, omitiendo el sistema operativo instalado. Me y AMT son básicamente micro-ordenadores autónomos que viven dentro de la CPU y que funcionan a un nivel muy bajo. Dado que el propósito de estas tecnologías es proporcionar capacidad de administración remota, tienen acceso directo al hardware, son independientes del sistema operativo y se pueden ejecutar incluso si el equipo está apagado.
+Además de ser vulnerables en el nivel de firmware, las CPU podrían fabricarse con puertas traseras insertadas directamente en el circuito de hardware. Este ataque ha sido investigado y demostrado ser posible en el pasado. Se ha informado de que ciertos modelos de procesadores x86 contienen un núcleo de CPU secundario integrado de RISC que puede proporcionar eficazmente una puerta trasera a través de la cual las aplicaciones regulares pueden obtener una ejecución con privilegios.
+Basado en USB (Tipo I): los dispositivos USB de todo tipo se pueden reprogramar con firmware malintencionado capaz de interactuar con el sistema operativo de maneras nefastas. Por ejemplo, la técnica BadUSB permite que un stick USB reprogramado actúe como un teclado que envía comandos a las máquinas a través de pulsaciones de tecla o como una tarjeta de red que puede redirigir el tráfico a voluntad.
+Basado en BIOS (tipo I): un BIOS es un firmware que se ejecuta dentro de un chipset. Se ejecuta cuando una máquina está encendida, inicializa el hardware y, a continuación, transfiere el control al sector de arranque. El BIOS es un componente importante que funciona en un nivel bajo y se ejecuta antes del sector de arranque. Es posible reprogramar el firmware del BIOS con código malintencionado, como ha ocurrido en el pasado con el rootkit de Mebromi.
+Basado en hipervisor (tipo I): las CPU modernas proporcionan compatibilidad con el hipervisor de hardware, lo que permite al sistema operativo crear máquinas virtuales sólidas. Una máquina virtual se ejecuta en un entorno confinado y simulado y, en teoría, no es consciente de la emulación. Un malware que toma el control de una máquina puede implementar un pequeño hipervisor para ocultarse fuera del dominio del sistema operativo en ejecución. Malware de este tipo se ha teorizado en el pasado, y finalmente se han observado rootkits de hipervisor reales, aunque pocos se conocen hasta la fecha.
+Ejecución e inyección
+Basado en archivos (tipo III: ejecutables, archivos DLL, archivos LNK, tareas programadas): este es el vector de ejecución estándar. Un archivo ejecutable simple se puede iniciar como un malware de primera fase para ejecutar una carga adicional en la memoria o se puede insertar en otros procesos de ejecución legítimos.
+Basado en macros (tipo III: documentos de Office): el lenguaje VBA es una herramienta flexible y eficaz diseñada para automatizar las tareas de edición y agregar funcionalidad dinámica a los documentos. Como tal, los atacantes pueden abusar de él para llevar a cabo operaciones malintencionadas como descodificar, ejecutar o insertar una carga ejecutable, o incluso implementar un ransomware completo, como en el caso de qkG. Las macros se ejecutan en el contexto de un proceso de Office (por ejemplo, Winword.exe) y se implementan en un lenguaje de scripting. No hay ningún archivo ejecutable binario que un antivirus pueda inspeccionar. Aunque las aplicaciones de Office requieren el consentimiento explícito del usuario para ejecutar macros desde un documento, los atacantes usan técnicas de ingeniería social para engañar a los usuarios para que permitan la ejecución de macros.
+Basado en scripts (tipo II: archivo, servicio, registro, repositorio WMI, shell): los lenguajes de scripting de JavaScript, VBScript y PowerShell están disponibles de forma predeterminada en las plataformas Windows. Los scripts tienen las mismas ventajas que las macros, son archivos textuales (no ejecutables binarios) y se ejecutan en el contexto del intérprete (como wscript.exe, powershell.exe), que es un componente limpio y legítimo. Los scripts son versátiles y se pueden ejecutar desde un archivo (haciendo doble clic en ellos) o ejecutarse directamente en la línea de comandos de un intérprete. La ejecución en la línea de comandos permite que el malware codifique scripts malintencionados como servicios de inicio automático dentro de las claves del Registro de ejecución automática como suscripciones de eventos WMI desde el repositorio WMI. Además, un atacante que haya obtenido acceso a una máquina infectada puede escribir el script en el símbolo del sistema.
+Basado en disco (tipo II: registro de arranque): el registro de arranque es el primer sector de un disco o volumen y contiene el código ejecutable necesario para iniciar el proceso de arranque del sistema operativo. Amenazas como Petya son capaces de infectar el registro de arranque sobrescribiendo con código malintencionado. Cuando se inicia la máquina, el malware obtiene inmediatamente el control. El registro de arranque reside fuera del sistema de archivos, pero el sistema operativo puede acceder a él. Los productos antivirus modernos tienen la capacidad de examinarlo y restaurarlo.
+Derrota del malware sin archivos
+En Microsoft, supervisamos activamente el panorama de seguridad para identificar nuevas tendencias de amenazas y desarrollar soluciones para mitigar las clases de amenazas. Instrumentamos protecciones duraderas que son eficaces contra una amplia gama de amenazas. A través de la interfaz de examen antimalware (AMSI), la supervisión del comportamiento, el examen de memoria y la protección del sector de arranque, Microsoft Defender para punto de conexión puede inspeccionar las amenazas sin archivos incluso con una ofuscación pesada. Las tecnologías de aprendizaje automático en la nube nos permiten escalar estas protecciones frente a amenazas nuevas y emergentes.
+Para obtener más información, lea: Fuera de la vista pero no invisible: Derrota del malware sin archivos con la supervisión del comportamiento, AMSI y ANTIVIRUS de próxima generación
+Recursos e información adicionales
+Obtenga información sobre cómo implementar funcionalidades de protección contra amenazas en Microsoft 365 E5.
+Comentarios
+¿Le ha resultado útil esta página?
+Sí
+No
+No
+¿Necesita ayuda con este tema?
+¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+Preguntar a Learn
+Preguntar a Learn
+¿Sugerir una corrección?
+Recursos adicionales
+Last updated on
+2024-04-27
+En este artículo
+¿Le ha resultado útil esta página?
+¿Necesita ayuda con este tema?
+¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+Preguntar a Learn
+Preguntar a Learn
+¿Sugerir una corrección?
+es-es
+Sus opciones de privacidad
+Tema
+Claro
+Oscuro
+Contraste alto
+Declinación de responsabilidades de IA
+Versiones anteriores
+Blog
+Contribuir
+Privacidad
+Privacidad de estado del consumidor
+Términos de uso
+Marcas comerciales
+© Microsoft 2026

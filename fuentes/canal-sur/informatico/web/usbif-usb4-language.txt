@@ -1,0 +1,117 @@
+USB4® Specification  
+Language Usage Guidelines from USB-IF 
+USB-IF emphasizes the importance and value of consistent messaging on USB product packaging, 
+marketing materials, and advertising. Inconsistent use of terminology creates confusion in the 
+marketplace, can be misleading to consumers, and potentially diminishes USB-IF’s trademark rights.  
+The USB usage model is evolving. The USB ecosystem has expanded to include multiple connectors, 
+performance levels, and power capabilities to meet the needs of manufacturers and developers. When 
+referring to a product that is based on and compliant with the USB4® specification, manufacturers must 
+clearly identify the performance capabilities of that device separately from other product benefits 
+and/or physical characteristics.  
+USB4® Specification 
+The USB4® specification compliments and build upon the existing USB 3.2 and USB 2.0 specifications. 
+The USB4® architecture defines a method to share a single high-speed link with multiple end device 
+types dynamically that best serves the transfer of data by type and application.  
+As the USB Type-C® connector has evolved into the role of the external display port of many host 
+products, the USB4® specification provides the host the ability to optimally scale allocations for display 
+data flow. Even as the USB4® specification introduces a new underlying protocol, compatibility with 
+existing USB 3.2, USB 2.0 and Thunderbolt 3 hosts and devices is supported; the resulting connection 
+scales to the best mutual capability of the devices being connected.  
+ 
+USB4® identifies two transfer rates, USB4® 20Gbps at 20Gbps and USB4® 40Gbps at 40Gbps. Vendors 
+must clearly communicate the performance signaling that a product delivers in the product’s packaging, 
+advertising content, and any other marketing materials.  
+ 
+• 
+Marketing name: USB4® 20Gbps  
+o Product capability: product signals at 20Gbps  
+• 
+Marketing name: USB4® 40Gbps  
+o Product capability: product signals at 40Gbps  
+USB4® Key Messages  
+• 
+Two-lane operation using existing USB Type-C® cables  
+• 
+Doubles the bandwidth to extend USB Type-C® performance 
+• 
+Up to 40Gbps operation over 40Gbps-certified cables 
+• 
+Enables multiple simultaneous data and display protocols 
+• 
+Multiple data and display protocols efficiently share the total available bus bandwidth  
+• 
+USB4® hosts can optimally scale allocations for display data flow  
+• 
+Backward compatibility with USB 3.2, USB 2.0 and Thunderbolt 3 
+ 
+Trademarks  
+“USB4®” is a registered trademark of USB Implementers Forum and is only intended for use with 
+products based on and compliant with the USB4® specification.  
+
+The registered trademark notice symbol ® must be included in the first instance of  
+“USB4®” in any material. USB4® should not be translated into languages other than English.  
+The following trademark attribution statement should be included in any materials using the word mark 
+“USB4®”: 
+USB4® is a registered trademark of USB Implementers Forum.  
+USB4® 
+When referring to a product that is based on and compliant with the USB4® specification, the word mark 
+“USB4®” is acceptable terminology in all print and/or digital circumstances. No other variation is 
+recommended by USB-IF.  
+ 
+USB-IF recommends “USB4®” be used in at least the first mention in the following materials:  
+• 
+Press releases 
+• 
+Technology bulletins 
+• 
+Product announcements 
+• 
+Product spec sheets 
+• 
+Product manuals   
+• 
+Product websites 
+ 
+USB-IF Product Data Base Notice to OEMs and Manufacturers  
+The term(s) “TBT3” or “Thunderbolt” should not be used in the USB-IF product/marketing description of 
+products being listed in the USB-IF data base that are being submitted/certified by the USB-IF.  
+Note, companies may choose to use these term(s) “TBT3” or “Thunderbolt” as part of their actual 
+product information as authorized by Intel, but these terms do not belong in the USB-IF data base.   
+Notice to retailers, resellers or distributors  
+Online retailers, resellers and distributors are responsible for ensuring the products sold via their 
+channels using USB4® trademarks are compliant with the USB4® specification. The USB-IF website 
+features a public product search that lists the products certified to bear the USB-IF logo(s). The product 
+search can be found here: https://www.usb.org/products. Inquiries regarding retail marketing for USB4® 
+products can be sent to admin@usb.org.   
+Approved use in educational resources  
+Requests to use USB4® in educational materials must be submitted to USB-IF for consideration and will 
+be decided upon on an individual basis. Please submit requests via email to admin@usb.org.  
+ 
+ USB4® Naming and Packaging Recommendations 
+To avoid consumer confusion, USB-IF’s recommended nomenclature for consumers is “USB4® 20Gbps” 
+for 20Gbps products and “USB4® 40Gbps” for 40Gbps products.  
+
+In order to identify performance capabilities, USB-IF strongly recommends submitting products to the 
+USB-IF Compliance Program and then, once successful, using the logos for consumer recognition. The 
+USB-IF logo guidelines are available here: http://www.usb.org/developers/logo_license/.  
+USB-IF also strongly urges manufacturers to identify the performance capabilities of a product 
+separately from other protocols or physical characteristics in product manuals, data sheets and 
+marketing materials.  
+Please note the following:  
+• 
+USB4® protocol specification only defines the performance capabilities that may be 
+implemented in a product.  
+o USB4® is not SuperSpeed USB, USB Type-C®, USB Standard-A, Micro-USB, or any other 
+USB cable or connector. 
+o USB4® is not USB Power Delivery or USB Battery Charging.  
+There are separate Language and Packaging Usage Guidelines for the USB Type-C® Cable and Connector 
+Specification, found here: https://www.usb.org/sites/default/files/usb_typec_language_product_and_packaging_guidelines_final.pdf. 
+USB Compliance Messages  
+• 
+Only products that have passed the requirements of the USB Compliance Program can 
+utilize the USB-IF logo licensing program. Please reference the Trademark License 
+Agreement (found here: http://www.usb.org/developers/logo_license/) for more 
+information.  
+• 
+USB-IF logos may be used solely in conjunction with a product as set forth in the USB Logo 
+Usage Guidelines. 

@@ -1,0 +1,515 @@
+Scanner Technical Brief—Page 1
+6/07
+This technical brief provides detailed information on the Image Quality, Performance, and Flexibility of Epson 
+Scanners.
+Image Quality—Factors affecting image quality
+When comparing scanners, hardware resolution and color pixel depth are two features often used to gauge 
+image quality. These two features are important, but there are a number of factors that determine image 
+quality in a scanner, such as the following: (Many of these elements will be discussed in detail in upcoming 
+sections of this document.)
+The Epson Expression® and GT series scanners are Epson’s professional series scanners designed for excellence with respect to image quality, speed, usability, versatility, and durability. These scanners include the 
+highest quality components.
+Precision stepper motor 
+for high quality sub-scan 
+resolution
+Dynamic range control
+Type of lamp system used
+Optic system
+Optical resolution and 
+color bit depth
+Quality of the Analog to Digital converter (ADC); Epson scanners have 
+optimum performance for minimal 
+noise and tight color registration.
+Type of focus method
+Color vs. monochrome CCD
+The Epson Perfection® series scanners are designed for home and entry-level corporate and graphics arts 
+users, and are designed with the highest quality components in their price class.
+Image Quality—Resolution
+A scanner’s resolution determines the amount of data that is read by the scanner. As resolution increases, so 
+does the ﬁle size. Resolution is measured in a variety of ways.
+1. Optical resolution: This is the actual number of pixels read by the CCD (Charge Coupled Device), which 
+measures the intensity of the light that is reﬂected from the image to be scanned, and converts it to an 
+analog voltage. If a scanner has a resolution of 600 x 2400 dpi, its optical resolution is 600 dpi, which 
+means that it can resolve 600 bits of data per inch.
+2. Hardware resolution: Using a precision stepper motor to double-step or 
+quadruple-step the carriage, the scanner’s sub-scanner resolution can be 
+increased. For example, a scanner can have an optical resolution of 1200 
+dpi, but a hardware resolution of 1200 x 2400 dpi (because it double-steps 
+the carriage to increase the vertical resolution).
+ 
+ 
+2400 dpi
+1200 dpi
+
+Scanner Technical Brief—Page 2
+6/07
+Image Quality—Resolution (cont.)
+3. Interpolated resolution: Interpolation is a method to increase the resolution of an image. It uses a 
+complex algorithm to “add” pixels to an image based on the mathematical probability of surrounding 
+pixels.
+ 
+For example, if a scanner has a hardware resolution of 1200 x 2400 dpi, and a maximum resolution of 
+9600 x 9600 dpi, the scanning software uses interpolation to create scanned images with resolutions 
+greater than the hardware resolution.
+4. Beneﬁts of higher optical resolution: Higher resolution allows you to scan the following types of images without using interpolation. Using actual image data instead of interpolated data results in more 
+accurate images.
+Line Art
+When scanning black and white line art, image pixels translate exactly 
+to the printed dots. Therefore, high resolution is required to capture 
+and print the sharp lines and edges of an image.
+Enlarging a small original
+In order to capture enough detail to enlarge an image, you must 
+increase the scanned resolution in proportion to the increase in image 
+size. If you don’t, then you will have to interpolate image data to 
+maintain the same resolution in the larger image.
+Precise pixel editing
+Many graphic artists scan images at high resolutions for precise pixel 
+editing. It is always better to capture the image data when the image 
+is being scanned and use true image data than to use interpolation if 
+more data is needed later.
+Image Quality—Pixel depth
+Pixel depth refers to the number of bits of data captured for each picture element (pixel). Each pixel can 
+have two states (On or Off); therefore the number of colors or gray scales that a scanner can recognize is 
+computed by taking the pizel depth as an exponent of two. The following charts lists the number of colors 
+recognized for each different scan mode.
+Scan mode
+Number of colors recognized
+Bi-level (1 bit per pixel) 21 = 2 colors (black and white)
+8-bit gray scale 28 = 256 shades of gray
+10-bit gray scale 210 = 1,024 shades of gray
+8-bit  color (indexed color) 28 = 256 colors
+24-bit RGB (8 bits per pixel, per color) 224 = 16.7 millions colors
+36-bit RGB (12 bits per pixel, per color 236 = Over 68 billion colors
+48-bit RGB (16 bits per pixel, per color) 248 = Over 250 trillion colors
+2 x 2.5 inch 
+image scanned 
+at 1200 dpi
+If enlarged to 8 x 
+10 inches, effective 
+resolution: 300 dpi
+
+Scanner Technical Brief—Page 3
+6/07
+Image Quality—Pixel depth (cont.)
+Key Differences 42-bit, or 48-bit Internal/ 24-bit External Color 
+Depth
+36-bit, 42-bit, or 48-bit Internal and External
+Color Depth
+How it works The scanner captures 42-, or 48-bit image
+data, but “downsamples” an image to
+24-bits, keeping the most signiﬁ cant color
+data.
+The scanner captures 36-, 42-, or 48bit image data and outputs all data to a 
+software aplication that supports 48-bit
+image ﬁ les (such as Adobe® Photoshop®).
+Image quality Because the scanner captures data that
+never could have been read by a 24-bit or
+30-bit scanner (such as the detail in dark 
+areas and slight color transitions), the 
+scanner delivers more accurate images
+With a 48-bit image ﬁ le, you always have
+access to full image data, which is especially important to graphic artists and
+designers.
+48-bit capture
+24-bit transfer
+48-bit capture
+48-bit transfer 
+All Epson scanners have a 42-bit or 48-bit color depth. but some of the models support 24-bit external color 
+depth, which is the data that is sent from the scanner to the computer. Here are the differences between 
+output color depth:
+A greater color bit depth generally results in more accurate color reproduction, smoother gradations with 
+fewer sudden shifts in color, and detailed shadows and highlights.
+Image Quality—Epson ColorTrue® Imaging System
+Epson scanners use the Epson ColorTrue II Imaging System which is made up of three main elements 
+(hardware, optics, and processing) and result in superior image quality with fast processing speeds.
+Precise scan carriage
+Simultaneous RGB scanning
+Pixel optimization
+Custom ASIC
+High resolution CCD
+Custom glass lenses
+
+Scanner Technical Brief—Page 4
+6/07
+Image Quality—Epson ColorTrue® Imaging System (cont.)
+1. Hardware components: Epson scanners use a precise scan carriage with better motors to achieve subscan 
+resolutions that are double or quadruple the scanner’s optical resolution. Additionally, Epson scanners 
+capture Red, Green, and Blue simultaneously, versus other scanners that use one-pass scanning but 
+alternate Red, Green, and Blue lights for each line of a scan. Epson advantages are:
+ Better color registration
+ Faster scanning speeds
+ Higher quality sub-scan resolutions
+Through a combination of these hardware, optics, and processing features, the Epson ColorTrue Imaging 
+System and Epson ColorTrue II Imaging System deliver scanned images with:
+Smooth gradations
+Smooth edges and 
+minimal color fringing
+Greater detail in shadows
+Accurate colors
+Greater detail in 
+highlights
+Sharp image quality 
+without distortion
+Epson Method
+(1/2 or 1/4 step carriage movement)
+Single-Pass Alternate RGB Method 
+(1/2 step carriage movement)
+Simultaneous RGB Capture
+One pass
+Red Capture
+Green Capture
+Blue Capture
+One pass
+2. Optics: Epson scanners use custom lenses that are designed speciﬁcally to work with Epson technology 
+and the scanner’s CCD. These lenses feature:
+ Larger “sweet spot” and precision lenses for reduced distortion
+ Accurately aligned lens elements to control sharpness
+ Glass lenses (versus plastic lenses used by many competitors) 
+which offer better reﬂective qualities, providing greater image 
+quality.
+ Better image quality than competitive off-the-shelf lenses 
+because Epson scanners feature custom-made lenses that 
+match the CCD.
+Small “sweet spot” 
+can allow edge 
+distortion
+Larger “sweet 
+spot” minimizes 
+distortion
+
+Scanner Technical Brief—Page 5
+6/07
+3. Processing: Many Epson scanners use a custom ASIC (Application Speciﬁ c Integrated Circuit) for fast 
+scanning. Key features include:
+ Line correction captures and processes full RGB color for every pixel and minimizes color fringing in 
+subscan direction.
+ Zoom capability enables smoothest edges along diagonal or curved lines and achieves higher 
+interpolated resolution
+ On-board memory allows for Auto Area Segmentation (AAS) and Text Enhancement Technology (TET) 
+processing within the scanner—AAS and TET are independent from PC or Macintosh processing, 
+allowing the scanner to work with better “raw” data.
+Additionally, Epson scanners have a pixel optimization feature 
+that uses the full resolution of the scanner’s CCD, even scanning 
+at a lesser resolution. The beneﬁ t of this feature is truer image 
+quality.
+ For example, on one of the Epson 600 dpi Perfection 
+scanners, when scanning an image at 300 dpi, the scanner 
+still uses all 600 pixels per inch to scan the image, then 
+averages the data to yield the lower resolution image.
+ Some competitive models lower resolution by turning off 
+some pixels to capture less image data.
+Image Quality—Epson ColorTrue® Imaging System (cont.)
+Image Quality—Color CCD
+All Epson scanners use a color CCD which uses a single white light source, instead of a monochrome CCD 
+and three light sources. The color CCD results in faster scanning speeds and the ability to scan threedimensional objects without producing color “ghosts.”
+Key Differences Color CCD
+Monochrome CCD
+How it works Red, green, and blue are quickly captured
+in the color CCD illuminated by a single
+light source.
+three separate lamps are ﬁ red for eachline
+of a scan, slowing the scanning speed.
+Result when
+scanning threedimensional objects
+Single light source allows precise
+alignment when scanning non-ﬂ at
+surfaces
+The three lamps can cause misalignment
+when reﬂ ected from non-ﬂ at surfaces.
+Glass
+Monochrome 
+CCD
+Red light 
+source
+Green light 
+source
+Blue light 
+source
+Glass
+Color CCD
+White light 
+source
+On
+Off
+On
+Off
+On
+Off
+Epson Method:
+Competitive Method:
+Average
+Average
+Average
+600 dpi
+600 dpi
+300 dpi
+300 dpi
+
+Scanner Technical Brief—Page 6
+6/07
+Image Quality—Dynamic Range
+Dynamic range measures the difference between the lightest highlights and darkest shadows that a scanner 
+can perceive (on a scale of 3.0 to 4.0). The maximum density rating is referred to as Dmax.
+A dynamic range measurement is important for 
+designers who scan transparent media (such as slides, 
+transparencies, and negatives) because the media 
+itself generally has a dynamic range of 3.2. Reﬂective 
+media, such as a photograph, generally does not have 
+a dynamic range greater than 2.0.
+ A high dynamic range results in scanned images 
+with superior detail in highlights and in shadows— 
+especially when scanning transparent media.
+Superior detail 
+in highlights
+Superior detail 
+in shadows
+Image Quality—Focus Method
+1. Fixed Focus: With this type of focus system, the lens is set to record everything sharply from a ﬁxed 
+distance—from the lens to the glass scanning bed. The Epson Perfection and GT series scanners use a 
+ﬁxed focus optics system. The newest Epson scanners have a ﬁxed focal point just above the surface of the 
+glass for optimized ﬁlm scanning.
+3. Dual-Focus mechanism: One of the Epson Expression series scanners uses a 
+Dual-Focus mechanism. When using the scanner’s custom ﬁlm holders to scan 
+transparent media, you can set the scanner’s focal distance to compensate for the 
+2.5mm distance between the glass and the media. This method eliminates the 
+“Newton Ring” problem that plagues less sophisticated scanners. Newton Rings are the circular rainbowcolored patterns that appear in a scanned image, caused by surface tension. This effect is similar to the 
+rainbows that appear in soap bubbles.
+Epson scanners use a ﬁxed focus system, AutoFocus optics system, or a Dual-Focus mechanism.
+Standard ﬁxed focus
+Epson automatic/manual focus
+2. AutoFocus optics system: Epson highest-end graphic 
+arts scanners use an AutoFocus optics system that can 
+be used in AutoFocus mode or manual mode. This 
+system offers these beneﬁts:
+ The Epson manual/automatic focus optics system 
+gives you precised sharpness control, especially 
+when scanning three-dimensional objects and 
+transparencies.
+ With three-dimensional images, you can pick 
+your point of focus so that background items are 
+captured with sharp detail, as shown in the glove 
+and towel in the images to the right.
+ For super sharpness when scanning transparencies 
+or slides mounted in holders, you can set the focus 
+to compensate for the 2.5mm distance between the 
+glass and the slide.
+
+Scanner Technical Brief—Page 7
+6/07
+Image Quality—Dual Lens System
+A unique Dual Lens System, available on some Epson 
+scanners, automatically selects from two lenses for 
+the desired scan resolution.
+Some Epson Perfection scanners 
+offers 4800 dpi optical resolution 
+with the High Resolution lens.  
+For a higher resolution of  6400 dpi, 
+the Super Resolution Lens can scan 
+slides and ﬁ lm with the bundled ﬁ lm 
+holders with a scanning width of 5.9 
+inches.
+Dual Lens System offers 
+two lenses for two 
+different resolutions.
+High Resolution lens
+Super Resolution lens
+Document (8.5”)
+Film Area Guide (8”)
+High resolution lens
+Super resolution lens
+Film Holder (5.9”)
+Image Quality—High-Pass Optics
+Ghost image
+Epson High Pass Optics includes anti-reﬂ ection optical coatings and a high reﬂ ection mirror.
+ There is typically a small percentage of unwanted reﬂ ection with standard CCD glass which can 
+cause abnormal ghost images. The anti-reﬂ ection optical coating on the CCD cover glass minimizes 
+this reﬂ ection and reduces ghost images.
+ With a higher reﬂ ection rate, ﬁ lm scanning speed is faster.
+Improved 
+image quality
+Scanned with normal CCD glass
+Scanned with anti-reﬂ ection 
+optical coating
+
+Scanner Technical Brief—Page 8
+6/07
+Performance—Batch Scanning
+Epson scanning software supports batch 
+scanning:
+ Without batch scanning, you must scan 
+each image separately.
+ With batch scanning you can deﬁ ne 
+customized settings for each framed 
+original, then capture each one as a 
+separate ﬁ le—all with one scan.
+Place originals on 
+the scanning bed
+Select and deﬁ ne frames in 
+the scanner driver, and scan!
+Performance—High-Performance Interfaces
+In general, Epson scanners targeted to home and small ofﬁ ce users have a USB interface for maximum ease 
+of use. Epson scanners targeted to corporate and graphic arts uses have USB and/or SCSI-2 interfaces for 
+maximum performance. An optional interface for some scanners is the IEEE-1394 (FireWire®) interface.
+The key differences between the scanner interfaces are:
+Key Differences USB 1.1/2.0
+SCSI-2 narrow/wide
+FireWire
+Macintosh
+connection
+Direct connection to
+USB-ready Macintosh
+computers
+Direct connection to SCSI
+port or installed Fast SCSI
+PCI interface card
+Direct connection to FireWireready Power Macintosh computers and to any PCI Macintosh
+with an Apple® FireWire Kit
+PC connection Direct connection to
+USB port
+Requires Fast SCSI PCI interface card
+Direct connection to FireWire
+port or an installed FireWire card
+Daisy chaining Yes, up to 127 devices 
+via USB hub
+Yes, up to 8 devices
+Yes, up to 63 devices
+Hot plugging* Yes
+No
+Yes
+Performance Up to 1.5/60 MBps
+Up to 10/20 MBps
+Up to 50 MBps
+* Hot plugging allows you to attach or detach the cable without powering off/on the scanner or computer.
+Most Epson scanners that include a USB port offer the newer USB 2.0 (Hi-Speed USB). 
+ Hi-Speed USB is backward compatible with USB 1.1, so if you have an older computer with a USB 
+port, it will work with a new Epson scanner.
+ You will see only the highest speeds on your scanner if you have a Hi-Speed USB port on both your 
+computer and your scanner.
+Flexibility—Intelligent Negative Scanning
+With a transparency unit attached, Epson scanners can 
+scan color negatives (such as 35mm negative strips) and 
+convert them directly to positive images.
+ Some other scanners can only scan positive 
+transparent media, such as color transparencies 
+and slides.
+Negative
+Positive
+to
+
+Scanner Technical Brief—Page 9
+6/07
+Flexibility—Network Scanning
+Newer networkable Epson scanners offer the ability to connect to the network as a device (through a 
+network card) and don’t have to connect through a speciﬁ c scan server.
+Some other Epson scanners can be shared over a network, using the following procedure:
+ Attach the scanner to a single computer on the network.
+ Install Epson Scan Server (Windows only) on that computer.
+ Install the Epson TWAIN Pro Network scanner driver on all computers that will access the scanner 
+over the network.
+Flexibility—Epson Scan with Epson Easy Photo Fix™ Scanning Software
+Epson Easy Photo Fix technology is a combination of powerful elements included in the latest Epson Scan 
+driver:
+ Epson Dust Removal instantly 
+cleans up slides and negatives 
+— with just one click!
+ Epson exclusive Onetouch Color Restoration 
+instantly (with just one 
+click!) restores faded and 
+discolored photographs, 
+slides and negatives.
+Original
+Color corrected
+Original
+Dust removed and color corrected
+ Epson Scan Grain Reduction smooths the grain that is sometimes evident at high scanning resolutions. 
+When you scan a slide or ﬁ lm at a high resolution, the scanner is sensitive enough to pick up the slight 
+shadows created by the individual crystal structures in the emulsion. When you choose Grain Reduction 
+in the Epson Scan driver, the driver uses a slight blur effect to smooth out the grain.
+
+Scanner Technical Brief—Page 10
+6/07
+DIGITAL ICE technology 
+from Applied Science 
+Fiction(ASF™) is a scanner 
+feature that combines 
+hardware and software to 
+remove dust and scratches 
+on ﬁlm and remove tears, 
+folds, creases, and deep 
+scratches on photos. This 
+feature is not available on 
+all Epson scanners.
+Color photo before DIGITAL ICE
+Color photo after DIGITAL ICE
+Scratch
+Fold
+Flexibility—DIGITAL ICE™ technology from Applied Science Fiction™
+Flexibility—Epson Scan
+ Full Auto Mode: 
+For the novice user—Epson Scan automatically previews the images and recognizes the document 
+source and type. This mode then automatically crops, uses the auto-exposure settings to optimize 
+images, and scans the image.
+ Home Mode: 
+For the intermediate user—allowing adjustments of the basic image settings. Icons represent 
+common scan settings. Available options include automatic sizing, one-touch color restoration, 
+brightness and contrast adjustment, and destination/resolution choices. This mode allows the 
+advanced amateur to select the best of automated features and user-controlled settings.
+ Professional Mode: 
+For the advanced user—many options are available to give you greater control over your scanning. 
+This mode allows the advanced user to have complete control over many sophisticated elements of 
+pre-scanning. These elements include the Densitometer (a tool that allows a user to hit a speciﬁc 
+color via numerical data), Multiple Marquee (for batch scanning), and Histogram (to correct tonal 
+distribution).
+ Ofﬁce Mode: 
+For the business user—the Ofﬁce Mode is helpful when you need to scan a large number of 
+documents with the same size, using the optional Automatic Document Feeder. You can scan 
+documents easily and quickly without preview in this mode. 
+Epson Scan software differs slightly by scanner model. Different scanners offer three of these four distinct 
+scan modes to meet the needs of novice, intermediate, advanced, and business users.
+
+Scanner Technical Brief—Page 11
+6/07
+Flexibility—Epson Smart Panel™ software
+Epson Smart Panel allows you to scan and send data directly to an assigned application or to the Epson 
+photo-sharing site. You can also obtain photos and documents in digital form quickly and easily. 
+This version of the Epson Smart Panel 
+includes the following features: 
+ RePrint Photos
+ Scan and Save
+ Copy Center
+ Edit Text
+ Business Card
+ Scan for Creativity
+ Scan to Application
+ Scan to E-mail
+ Epson Photo Site
+Flexibility—Fluid Mount Accessory
+In cases where ﬁlm holders are not the best solutions for ﬁlm 
+scanning, the ﬂuid mount accessory offers:
+ Scratch removal from ﬁlm not supported by DIGITAL 
+ICE™ technology such as black and white ﬁlm
+ Easy scanning of ﬁlm that won’t ﬁt into standard ﬁlm 
+holders
+ Reduction of grain and 
+prevention of Newton rings 
+from curved ﬁlm
+Scanned 
+on the 
+document 
+glass, this 
+image shows 
+Newton rings 
+and scratches.
+Scanned 
+using the 
+ﬂuid mount 
+accessory, the 
+scratches and 
+Newton rings 
+are reduced.
+Fluid Mount Accessory
+EPSON is a registered trademark and Exceed Your Vision is a trademark of Seiko Epson Corporation. Epson Expression, Epson Perfection, and ColorTrue are 
+registered trademarks and Micro Step Drive, Easy Photo Fix, Epson Smart Panel, are trademarks of Epson America, Inc. All other products and brands are 
+trademarks and/or registered trademarks of their respective companies. Epson disclaims any and all rights in those marks. DIGITAL ICE is a trademark of 
+Eastman Kodak Company.
+©2007 Epson America, Inc.

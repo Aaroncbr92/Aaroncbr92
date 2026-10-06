@@ -1,0 +1,27 @@
+URL: https://csrc.nist.gov/glossary/term/virtual_private_network
+Leído: 2026-10-05
+
+Definitions:
+Protected information system link utilizing tunneling, security controls, and endpoint address translation giving the impression of a dedicated line.
+Sources:
+CNSSI 4009-2022
+Restricted-use logical computer network that is constructed from the system resources of a physical network by using encryption and/or by tunneling links of the virtual network across the real network.
+Sources:
+CNSSI 4009-2022
+from
+IETF RFC 4949 Ver 2
+- adapted
+Protected information system link utilizing tunneling, security controls, and endpoint address translation giving the impression of a dedicated line.
+Sources:
+NIST SP 1800-21B
+under Virtual Private Network
+from
+CNSSI 4009-2022
+NIST SP 800-53 Rev. 5
+under virtual private network
+from
+CNSSI 4009-2022
+A virtual network built on top of existing networks that can provide a secure communications mechanism for data and IP information transmitted between networks.
+Sources:
+NIST SP 800-113
+under Virtual Private Network

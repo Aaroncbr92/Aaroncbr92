@@ -1,0 +1,94 @@
+URL: https://learn.microsoft.com/es-es/sql/t-sql/statements/statements?view=sql-server-ver17
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Transact-SQL declaraciones
+
+## 
+
+ Aplica a:SQL ServerAzure SQL DatabaseAzure SQL Managed InstanceAzure Synapse AnalyticsEndpoint de analítica SQL en Microsoft FabricAlmacén en Microsoft FabricBase de datos SQL en Microsoft Fabric
+
+Una instrucción SQL es una unidad atómica de trabajo y, o bien tiene éxito o falla por completo. Una instrucción SQL es un conjunto de instrucciones que consta de identificadores, parámetros, variables, nombres, tipos de datos y palabras reservadas de SQL que se compila correctamente. Analysis Services crea una transacción implícita para una instrucción SQL si un comando `BeginTransaction` no especifica el inicio de una transacción. Analysis Services siempre confirma una transacción implícita si la instrucción se ejecuta correctamente y revierte una transacción implícita si el comando produce un error.
+
+Hay muchos tipos de instrucciones. Quizá lo más importante es la instrucción SELECT que recupera filas de la base de datos y habilita la selección de una o varias filas o columnas de una o varias tablas en SQL Server. En este artículo se resumen las categorías de instrucciones para utilizarlas con Transact-SQL (T-SQL), además de la instrucción `SELECT`. Puede encontrar todas las instrucciones que aparecen en el panel de navegación izquierdo.
+
+Para obtener información sobre la compatibilidad con T-SQL en un punto de conexión de análisis de SQL en Microsoft Fabric o Warehouse en Microsoft Fabric, consulte Área expuesta de T-SQL en Microsoft Fabric.
+
+## Copia de seguridad y restauración
+
+Las instrucciones de copia de seguridad y restauración proporcionan formas de crear copias de seguridad y restauración a partir de copias de seguridad. Para obtener más información, consulte Realizar copias de seguridad y restaurar bases de datos.
+
+## Lenguaje de definición de datos
+
+Las instrucciones del lenguaje de definición de datos (DDL) definen estructuras de datos. Use estas instrucciones para crear, modificar o quitar estructuras de datos en una base de datos. Estas instrucciones incluyen las siguientes:
+
+- ALTER
+
+- Collations
+
+- CREATE
+
+- DROP
+
+- DISABLE TRIGGER
+
+- ENABLE TRIGGER
+
+- RENAME
+
+- UPDATE STATISTICS
+
+- TRUNCATE TABLE
+
+## Lenguaje de manipulación de datos
+
+El lenguaje de manipulación de datos (DML) afecta a la información almacenada en la base de datos. Use estas instrucciones para insertar, actualizar y cambiar las filas de la base de datos.
+
+- BULK INSERT
+
+- DELETE
+
+- INSERT
+
+- SELECT
+
+- UPDATE
+
+- MERGE
+
+## Instrucciones de permisos
+
+Las instrucciones de permisos determinan qué usuarios e inicios de sesión pueden tener acceso a datos y realizar operaciones. Para obtener más información sobre la autenticación y el acceso, consulte el Centro de seguridad.
+
+## Instrucciones de Service Broker
+
+Service Broker es una característica que proporciona compatibilidad nativa para las aplicaciones de mensajería y de cola. Para obtener más información, vea Service Broker.
+
+## Configuración de sesión
+
+ SET Las sentencias determinan cómo la sesión actual gestiona los ajustes de tiempo de ejecución. Para una visión general, véanseSET declaraciones.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-09-21

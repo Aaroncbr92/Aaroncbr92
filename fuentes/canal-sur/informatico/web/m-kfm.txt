@@ -1,0 +1,148 @@
+URL: https://learn.microsoft.com/es-es/sharepoint/redirect-known-folders
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Redirigir y mover las carpetas conocidas de Windows a OneDrive
+
+## 
+
+Este artículo está destinado a los administradores de TI que administran la aplicación Sincronización de OneDrive.
+
+Hay dos ventajas principales de mover o redirigir carpetas conocidas de Windows (escritorio, documentos, imágenes, capturas de pantalla y rollo de cámara) a Microsoft OneDrive para los usuarios de su dominio:
+
+- 
+Los usuarios pueden seguir usando las carpetas con las que están familiarizados. No tienen que cambiar sus hábitos de trabajo diario para guardar archivos en OneDrive.
+
+- 
+Al guardar archivos en OneDrive, se realizan copias de seguridad de los datos de los usuarios en la nube y se les proporciona acceso a sus archivos desde cualquier dispositivo.
+
+Por estos motivos, se recomienda mover (redirigir) carpetas conocidas a OneDrive si es una empresa o una organización grande. 
+ Consulte todas nuestras recomendaciones para configurar la aplicación de sincronización. Es posible que a las pequeñas o medianas empresas también le resulte útil este proceso, pero tenga en cuenta que necesita cierta experiencia en la configuración de directivas. Para obtener información sobre la experiencia del usuario final, consulta Proteger los archivos guardándolos en OneDrive.
+
+## Preparación para mover carpetas conocidas en dispositivos existentes
+
+Se recomienda actualizar a la compilación disponible más reciente antes de realizar la implementación.
+
+Para obtener información sobre los problemas que pueden impedir que las carpetas se muevan, consulte Solucionar problemas con la protección de carpetas. El movimiento de carpetas conocido no funciona para los usuarios que sincronizan archivos de OneDrive en SharePoint Server.
+
+Importante
+
+Si su organización es grande y los usuarios tienen muchos archivos en sus carpetas conocidas, asegúrese de implementar la configuración lentamente para minimizar el impacto en la red de la carga de archivos. Para los usuarios que tienen muchos archivos en sus carpetas conocidas, considere la posibilidad de usar la directiva Limitar la tasa de carga de la aplicación de sincronización a un porcentaje de rendimiento temporalmente para minimizar el impacto en la red y, a continuación, deshabilitar la directiva una vez completadas las cargas.
+
+### Carpetas redirigidas a otras organizaciones
+
+Si las carpetas Documentos, Imágenes o Escritorio de un usuario se redirigen actualmente a OneDrive en otra organización, redirigir a OneDrive de la organización crea nuevas carpetas Documentos, Imágenes o Escritorio y el usuario ve un escritorio vacío. El usuario tiene que migrar manualmente los archivos de OneDrive de la otra organización a OneDrive de la organización. Se recomienda deshabilitar la redirección a la otra organización antes de redirigirla a su organización si es posible.
+
+## Acerca de las directivas de movimiento de carpetas conocidas
+
+Las directivas de OneDrive se pueden establecer mediante directiva de grupo, Intune Windows 10 plantillas administrativas o mediante la configuración de la configuración del Registro. Para obtener una referencia completa de las directivas disponibles y su configuración del Registro, consulte Uso de directivas de OneDrive para controlar la configuración de sincronización.
+
+Las siguientes directivas controlan la característica Movimiento de carpetas conocidas:
+
+- 
+
+ Preguntar a los usuarios si quieren mover las carpetas conocidas de Windows a OneDrive
+
+Use esta configuración para proporcionar a los usuarios una llamada a la acción para mover sus carpetas conocidas de Windows.
+
+Si los usuarios descartan el aviso, aparecerá una notificación de aviso en el centro de actividad hasta que muevan todas las carpetas conocidas o se produzca un error con el traslado, en cuyo caso se puede descartar la notificación de aviso.
+
+Importante
+
+Se recomienda implementar la directiva de aviso solo para dispositivos existentes y limitar la implementación a 5000 dispositivos al día y no superar los 20 000 dispositivos a la semana entre macOS y Windows.
+
+- 
+
+ Mover silenciosamente las carpetas conocidas de Windows a OneDrive
+
+Use esta configuración para redirigir y mover carpetas conocidas a OneDrive sin ninguna interacción del usuario. Mueva todas las carpetas o seleccione las carpetas individuales deseadas. Después de mover una carpeta, la directiva no volverá a afectar a la carpeta, incluso si cambia la selección de la carpeta.
+
+Puede elegir mostrar una notificación a los usuarios después de que se hayan redirigido sus carpetas.
+
+También se recomienda usar esta configuración junto con Preguntar a los usuarios que muevan carpetas conocidas de Windows a OneDrive. Si el movimiento de las carpetas conocidas no se realiza correctamente, se pedirá a los usuarios que corrijan el error y continúen.
+
+Importante
+
+Se recomienda implementar la directiva silenciosa para dispositivos existentes y nuevos dispositivos, al tiempo que se limita la implementación de dispositivos existentes a 1000 dispositivos al día y no se superan los 4000 dispositivos a la semana entre macOS y Windows.
+
+- 
+
+ Impedir que los usuarios desactiven el movimiento de carpetas conocidas
+
+Use esta configuración para requerir que los usuarios mantengan sus carpetas conocidas dirigidas a OneDrive.
+
+Nota:
+
+Los usuarios pueden dirigir sus carpetas conocidas abriendo Sincronización de OneDrive configuración de la aplicación, haciendo clic en la pestaña Copia de seguridad y, a continuación, haciendo clic en Administrar copia de seguridad.
+
+- 
+
+ Impedir que los usuarios muevan sus carpetas conocidas de Windows a OneDrive
+
+Use esta configuración para evitar que los usuarios muevan sus carpetas conocidas a cualquier cuenta de OneDrive.
+
+Para obtener información sobre cómo usar las directivas de OneDrive, consulta Usar directiva de grupo para controlar Sincronización de OneDrive configuración de la aplicación.
+
+## Transición desde los objetos directiva de grupo redirección de carpetas de Windows
+
+El movimiento de carpetas conocidas de OneDrive directiva de grupo objetos no funciona si usó anteriormente el redireccionamiento de carpetas de Windows directiva de grupo objetos para redirigir las carpetas Documentos, Imágenes o Escritorio a una ubicación distinta de OneDrive. Los objetos de directiva de grupo de OneDrive no afectan a las carpetas Música y Vídeos, por lo que puede mantenerlos redirigidos con los objetos directiva de grupo de Windows. Siga estos pasos para cambiar al uso de los objetos Directiva de grupo mover carpeta conocida.
+
+Nota:
+
+No se admite la ampliación del ámbito de las carpetas sincronizadas por OneDrive mediante el redireccionamiento de carpetas de Windows directiva de grupo.
+
+- 
+Si las carpetas se han redirigido a OneDrive mediante el redireccionamiento de carpetas de Windows directiva de grupo:
+
+- Deshabilite el directiva de grupo redirección de carpetas de ventana y asegúrese de dejar la carpeta y el contenido en OneDrive.
+
+- Habilite la directiva de grupo de movimiento de carpetas conocidas. Las carpetas conocidas permanecen en OneDrive.
+
+- 
+Si las carpetas se han redirigido a una ubicación en un equipo local:
+
+- Deshabilite el directiva de grupo redirección de carpetas de ventana y asegúrese de dejar la carpeta y el contenido en la ubicación redirigida.
+
+- Habilite la directiva de grupo de movimiento de carpetas conocidas. Las carpetas conocidas se mueven a OneDrive.
+
+- 
+Si las carpetas se han redirigido a un recurso compartido de archivos de red:
+
+- 
+
+ Use el Administrador de migración para copiar contenido en la ubicación del recurso compartido de archivos de red en OneDrive de un usuario, asegurándose de que todo el contenido vaya a las carpetas Documentos, Imágenes o Escritorio existentes.
+
+Nota:
+
+Si el Administrador de migración crea las carpetas Documentos, Imágenes o Escritorio, asegúrese de que no se selecciona Conservar permisos de recurso compartido de archivos al realizar la migración.
+
+- 
+Deshabilite el directiva de grupo redirección de carpetas de ventana y asegúrese de dejar la carpeta y el contenido en el recurso compartido de archivos de red.
+
+- 
+Habilite la directiva de grupo de movimiento de carpetas conocidas. Las carpetas conocidas se mueven a OneDrive y se combinarán con las carpetas Desktop, Documents e Pictures existentes, que contienen todo el contenido del recurso compartido de archivos que movió en el primer paso.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-03-27

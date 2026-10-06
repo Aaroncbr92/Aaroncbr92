@@ -1,0 +1,219 @@
+URL: https://www.sede.fnmt.gob.es/certificados/persona-fisica/obtener-certificado-software/configuracion-previa
+Leído: 2026-10-05
+
+Configuración Previa - Sede
+Descarga software generación de claves
+×
+La Fábrica Nacional de Moneda y Timbre ha desarrollado esta aplicación para solicitar las claves necesarias en la obtención de un certificado digital. Puede ser ejecutada en cualquier navegador y sistema Operativo.
+Descargue e instale el software necesario para su sistema operativo.
+Los antivirus y proxies pueden impedir el uso de esta aplicación, por favor no utilice proxy o permita el acceso a esta aplicación en su proxy.
+WINDOWS
+Configurador FNMT-RCM para Windows 64 bits
+MAC
+Configurador FNMT-RCM para MacOS
+Si al instalar en MacOS aparece un mensaje indicando que no se puede instalar el software por proceder de un desarrollador no identificado debe ir a Preferencias del sistema / Seguridad y Privacidad / Pestaña GENERAL, en la sección Permitir apps descargadas de, debe permitir la ejecución de la aplicación para que continúe el proceso de instalación. En MacOS Ventura debe de ir a Ajustes del sistema > Privacidad y Seguridad > apartado de Seguridad aparecerá la opción de permitir apps descargadas.
+MAC con chip M  ¿Cómo puedo comprobar qué chip tiene mi MAC?
+Una vez instalado el programa Configurador FNMT-RCM para MacOS vaya al launchpad y ejecute el programa instalado. Si no tuviera instalada la aplicación Rosetta le pedirá que la instale, permita su instalación. Ahora podrá solicitar el certificado desde Mozilla Firefox o Google Chrome.
+LINUX
+Configurador FNMT-RCM para GNU/Linux 64 bits (DEB)
+Configurador FNMT-RCM para GNU/Linux 64 bits (RPM)
+Navegación
+FNMT
+Ceres
+Sede Electrónica
+Museo Casa de la Moneda
+SIAEN
+Escuela de Grabado
+Tienda Virtual
+05/10/2026
+es
+Seleccionar  Lenguaje :
+Bienvenido Benvinguda Benvido Ongi etorri Welcome
+x
+Buscar :
+x
+Inicio
+Cert. Electrónico Ciudadano
+Mostrar/Ocultar
+App Móvil
+Certificado con Vídeo Identificación
+Mostrar/Ocultar
+Configuración previa
+Solicitar Certificado
+Acreditar Identidad
+Descargar Certificado
+Certificado con Acreditación Presencial
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar Identidad
+Descargar Certificado
+Certificado con DNIe
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Descargar Certificado
+Verificar Estado
+Renovar Certificado
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Renovación
+Descargar Certificado
+Lista de Precios
+Facturas
+Anular
+Mostrar/Ocultar
+Solicitar Anulación
+Cert. Electrónico Empresa
+Mostrar/Ocultar
+Administrador Único o Solidario
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Mostrar/Ocultar
+Solicitud con certificado
+Solicitud con DNIe
+Descargar Certificado
+Persona Jurídica
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar identidad
+Descargar Certificado
+Entidad sin Personalidad Jurídica
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar identidad
+Descargar Certificado
+Verificar Estado
+Lista de Precios - Política de devolución
+Facturas
+Anular
+Mostrar/Ocultar
+Solicitar Anulación
+Cert. Electrónico Sector Público
+Mostrar/Ocultar
+Información General
+Certificado de empleado público
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar Identidad
+Descargar Certificado
+Certificado con Seudónimo
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar Identidad
+Descargar Certificado
+Certificado Seudónimo Adm. Justicia
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar Identidad
+Descargar Certificado
+Certificado de Firma Centralizada
+Mostrar/Ocultar
+Solicitud Certificado de Firma Centralizada
+Acreditar Identidad
+Portal de Gestión de identidades
+Certificado Seudónimo Adm. Justicia Firma Centralizada
+Mostrar/Ocultar
+Solicitud Cert Seudonimo Firma Centralizada Justicia
+Acreditar identidad
+Portal de Gestión de Identidades
+Preguntas Frecuentes
+Verificar Estado
+Soporte Técnico
+Mostrar/Ocultar
+Atención a Usuarios
+Consultas
+Descargas
+Mostrar/Ocultar
+Certificados raíz de la FNMT
+Descarga de Software
+Contratos
+Carta de Servicios
+Trámites
+Mostrar/Ocultar
+Formulario de propósito general
+Quejas y sugerencias
+Ofertas de empleo
+Trazabilidad productos de tabaco
+Configuración Previa
+Configuración Previa
+-->
+-->
+Inicio
+Cert. Electrónico Ciudadano
+Certificado con Acreditación Presencial
+Configuración Previa
+1
+Configuración Previa
+2
+Solicitar Certificado
+3
+Acreditar Identidad
+4
+Descargar Certificado
+1. Configuración previa
+Antes de comenzar con el proceso de solicitud de tu Certificado, deberás asegurarte de que tu equipo tiene instalado el software necesario para la generación de claves. CONFIGURADOR FNMT-RCM
+Por favor, lee y sigue atentamente las siguientes instrucciones para evitar posibles errores durante el proceso de obtención de su certificado:
+Recordatorios imprescindibles:
+No formatear el ordenador, entre el proceso de solicitud y el de descarga del certificado.
+Se debe realizar todo el proceso de obtención desde el mismo equipo y mismo usuario.
+Es importante leer atentamente la Declaración de Prácticas de Certificación previamente a la solicitud del certificado. En ella se encuentran las condiciones bajo las cuales se prestan los servicios de certificación.
+Navegadores compatibles
+Última versión de cualquiera de los siguientes navegadores:
+Mozilla Firefox
+Google Chrome
+Microsoft EDGE
+Opera
+Safari
+Software necesario para la solicitud del certificado
+CONFIGURADOR FNMT-RCM
+La Fábrica Nacional de Moneda y Timbre ha desarrollado esta aplicación para solicitar las claves necesarias en la obtención de un certificado digital. Puede ser ejecutada en cualquier navegador y sistema Operativo.
+Una vez descargado e instalado el software no es necesario hacer nada, este se ejecutará cuando el navegador lo requiera.
+Área de Descarga de Configurador FNMT
+Información Relacionada
+Recomendación: Custodia de Certificados
+Buenas Prácticas para una correcta Vídeo Identificación
+Manual de Buenas Prácticas
+Utilidad de Firma y Verificación
+Atención a Usuarios
+Certificados electrónicos válidos para el sistema VERI*FACTU
+Oculto
+Sobre la Sede
+Resolución de creación de la Sede
+Resolución creación Registro Electrónico
+Fecha y hora oficial
+Calendario de días inhábiles
+Declaración de Conformidad
+Código Identificación de la FNMT-RCM (DIR3)
+Normativa
+Declaración de Prácticas de Certificación
+Administración digital y Firma electrónica
+Reglamento General de Protección de Datos
+Política Integrada y de Seguridad
+Calidad
+Descargas
+Certificados raíz de la FNMT
+Descarga de Software
+Contratos
+Carta de Servicios
+Otros servicios
+Ofertas de Empleo Público
+Perfil de Contratante
+Preguntas Frecuentes
+Atención a Usuarios
+Accesibilidad
+Aviso legal
+Mapa web
+Facebook
+Twitter
+Youtube
+Blog
+Linkedin
+INFORMACIÓN SOBRE COOKIES
+La página Web de la FNMT-RCM utiliza cookies propias y de terceros para facilitar la navegación por la página web así como almacenar las preferencias seleccionadas por el usuario durante su navegación. No empleamos las cookies para almacenar o tratar datos de carácter personal. Si continúa navegando, consideramos que acepta su uso ACEPTO . Más Información .

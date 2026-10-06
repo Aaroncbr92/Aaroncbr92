@@ -1,0 +1,260 @@
+URL: https://learn.microsoft.com/es-es/sharepoint/introduction
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Introducción a SharePoint y OneDrive en Microsoft 365 para administradores
+
+## 
+
+ SharePoint y OneDrive en Microsoft 365 son servicios basados en la nube que ayudan a las organizaciones a compartir y administrar contenido, conocimientos y aplicaciones para:
+
+- Potenciar el trabajo en equipo
+
+- Encuentre información rápidamente
+
+- Colabore sin problemas en toda la organización
+
+Los recursos de esta página están pensados para ayudarle a empezar. En función de las necesidades de su organización, es posible que desee leer sobre las opciones de migración y gobernanza antes de empezar a implementar SharePoint y OneDrive para sus usuarios.
+
+Si está listo para empezar a trabajar con SharePoint y OneDrive, lea Plan para SharePoint y OneDrive en Microsoft 365 y siga los artículos de planificación e implementación que se enumeran en ese artículo.
+
+Si está empezando a usar SharePoint y OneDrive, obtenga información sobre los servicios de incorporación y adopción de FastTrack, cómo buscar un asociado certificado de SharePoint o visitar la comunidad de SharePoint.
+
+Una vez que use SharePoint y OneDrive, obtenga la aplicación de Sincronización de OneDrive y la aplicación móvil.
+
+## Migración
+
+Si tiene archivos que necesita mover a SharePoint y OneDrive, los recursos de esta sección pueden ayudarle a empezar.
+
+ | Si busca esta información:
+
+ | Vea este recurso:
+
+ | Obtenga información sobre cómo incluir la migración como parte de su plan para implementar SharePoint y OneDrive
+
+ | 
+ Planificación de la migración para la implementación de SharePoint y OneDrive
+
+ | Cómo migrar contenido desde recursos compartidos de archivos u otros proveedores de nube mediante el Administrador de migración
+
+ | 
+ Migrar el contenido a Microsoft 365
+
+ | Cómo migrar sitios y contenido de SharePoint Server
+
+ | 
+ Información general sobre la Herramienta de migración de SharePoint (SPMT)
+
+## Gobierno
+
+Si su organización tiene requisitos legales u otros requisitos que rigen el tratamiento de datos, o si tiene información confidencial o sensible que desea proteger, estas referencias pueden ayudarle a configurar SharePoint para los estándares y directivas de gobierno.
+
+ | Si busca esta información:
+
+ | Vea este recurso:
+
+ | Cómo planear los requisitos de cumplimiento para SharePoint y OneDrive
+
+ | 
+ Requisitos de cumplimiento de planes para SharePoint y OneDrive
+
+ | Cómo garantizar que conserva los archivos durante un período de tiempo especificado o eliminarlos según una programación especificada
+
+ | 
+ Información general sobre las directivas de retención
+
+ Retención y eliminación de OneDrive
+
+ | Cómo clasificar documentos en función de la confidencialidad de la información
+
+ | 
+ Información general de etiquetas de confidencialidad
+
+ Habilitar etiquetas de confidencialidad para los archivos de Office en SharePoint y OneDrive
+
+ | Cómo evitar la pérdida o exfiltración de datos importantes en documentos, correos electrónicos
+
+ | 
+ Obtener información sobre la prevención de pérdida de datos
+
+ | Buscar elementos locales, como correo electrónico, documentos y conversaciones de mensajería instantánea
+
+ | 
+ Búsqueda de contenido en Microsoft 365
+
+Si usa OneDrive en su organización y desea proteger los archivos importantes guardándolos en la nube, controlar la cantidad de espacio de almacenamiento que obtienen los usuarios o controlar cómo los usuarios sincronizan los archivos, estas referencias le ayudarán a configurar las directivas.
+
+ | Si busca esta información:
+
+ | Vea este recurso:
+
+ | Proteger los archivos importantes en los escritorios de los usuarios o en su carpeta Documentos
+
+ | 
+ Redirigir y mover carpetas conocidas de Windows a OneDrive y Redirigir y mover carpetas de escritorio y documentos de macOS a OneDrive
+
+ | Controlar cómo los usuarios sincronizan los archivos con sus dispositivos
+
+ | 
+ Usar la directiva de grupo para controlar la configuración de Sincronización de OneDrive e Implementar y configurar la aplicación de Sincronización de OneDrive para Mac
+
+ | Configurar la cantidad de espacio de almacenamiento que los usuarios tienen en OneDrive
+
+ | 
+ Establecer el espacio de almacenamiento predeterminado para los usuarios de OneDrive
+
+## Microsoft Teams
+
+SharePoint está totalmente integrado en Teams. Los Files que se almacenan en Teams se almacenan en sitios de SharePoint. Al administrar sitios de SharePoint en el Centro de administración de SharePoint, es posible que muchos de ellos estén conectados a Teams. Use estos recursos para comprender cómo se integran SharePoint y Teams.
+
+ | Si busca esta información:
+
+ | Vea este recurso:
+
+ | Obtenga información sobre cómo funcionan juntos Teams y SharePoint
+
+ | 
+ Información general sobre la integración de Teams y SharePoint
+
+ | Obtenga información sobre cómo administrar la configuración y los permisos cuando Teams y SharePoint están integrados
+
+ | 
+ Administrar la configuración y los permisos cuando SharePoint y Teams están integrados
+
+## Colaboración
+
+SharePoint y OneDrive proporcionan un entorno de colaboración enriquecido en el que las personas dentro y fuera de la organización pueden trabajar juntas en coautoría de documentos. Microsoft 365 ofrece una variedad de opciones para ayudarle a crear un entorno de colaboración de archivos seguro y productivo que se ajuste a las necesidades de su organización. Use estos recursos para empezar.
+
+ | Si busca esta información:
+
+ | Vea este recurso:
+
+ | Más información sobre la colaboración segura en Microsoft 365
+
+ | 
+ Configurar la colaboración segura con Microsoft 365
+
+ | Obtenga información sobre la colaboración de archivos y cómo planear su implementación
+
+ | 
+ Introducción a la colaboración de archivos en Microsoft 365
+
+ Colaboración de archivos en SharePoint con Microsoft 365
+
+ | Obtenga información sobre cómo colaborar con personas ajenas a su organización
+
+ | 
+ Información general sobre el uso compartido externo
+
+ Colaborar con invitados
+
+ | Use las características de seguridad y cumplimiento de Microsoft 365 para ayudar a proteger el entorno de uso compartido de invitados
+
+ | 
+ Crear un entorno seguro de uso compartido para invitados
+
+## Intranet moderna
+
+SharePoint proporciona un amplio conjunto de herramientas para ayudarle a crear y mantener la intranet de su organización. Use estos recursos para empezar.
+
+ | Si busca esta información:
+
+ | Vea este recurso:
+
+ | Obtenga información sobre los distintos tipos de sitios de SharePoint
+
+ | 
+ Planear el sitio de SharePoint
+
+ | Seleccione si desea permitir que los usuarios creen sus propios sitios
+
+ | 
+ Administrar la creación de sitios
+
+ | Obtenga información sobre cómo planear una intranet inteligente para su organización
+
+ | 
+ Planear una intranet inteligente de SharePoint
+
+ Planear los sitios centrales de SharePoint
+
+## Formación
+
+A menudo se pide a los administradores que enseñen a otros en la organización cómo usar las nuevas tecnologías. Use estos recursos para ayudar a los usuarios a tener éxito con SharePoint y OneDrive.
+
+ | Si busca esta información:
+
+ | Vea este recurso:
+
+ | Obtener una lista de recursos de aprendizaje para los usuarios
+
+ | 
+ Aprendizaje y administración de cambios para implementar SharePoint y OneDrive
+
+ | Configurar un portal de aprendizaje personalizable con contenido de aprendizaje de Microsoft para su organización
+
+ | 
+ Formas de aprendizaje de Microsoft 365
+
+ | Mostrar a los usuarios los conceptos básicos de SharePoint
+
+ | 
+ Ayuda & aprendizaje de SharePoint
+
+ | Mostrar a los usuarios los conceptos básicos de OneDrive
+
+ | 
+ Ayuda de OneDrive & aprendizaje
+
+## Personalización
+
+SharePoint ofrece una amplia gama de opciones de personalización. Se recomienda usar las características y funcionalidades listas para usar tanto como sea posible para satisfacer las necesidades de su organización. Si necesita personalizar SharePoint, vea estas referencias.
+
+ | Si busca esta información:
+
+ | Vea este recurso:
+
+ | Comprender cómo personalizar SharePoint con herramientas y técnicas modernas
+
+ | 
+ Personalizar SharePoint
+
+ | Cree soluciones, aplicaciones, complementos y soluciones de SharePoint Framework
+
+ | 
+ Desarrollo de SharePoint
+
+## Temas relacionados
+
+ Límites de SharePoint
+
+ Introducción al Shell de administración de SharePoint Online
+
+ Centro de partners de Microsoft
+
+ Sugerencias y trucos para navegar por la documentación técnica de Microsoft 365
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-08-27

@@ -1,0 +1,924 @@
+12806942.2
+EXHIBIT P 
+USB Logo 
+Usage 
+Guidelines 
+
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+USB Logo Usage Guidelines
+Basic-Speed and Hi-Speed USB Packaging 
+Logos 
+USB Type-C® Charging Trident Logos
+Certified USB Charger Logos 
+USB-IF Word Marks 
+USB Type-C® 
+USB-C®
+Logo Usage Guidelines for Certified USB 5Gbps, USB 10Gbps, USB 20Gbps, USB 40Gbps, and USB 80Gbps Performance Logos can be found here. 
+Logo Usage Guidelines for Certified USB Type-C® Cables Logos can be found here.
+
+USB Logo Usage Guidelines
+2
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Introduction
+The Universal Serial Bus (USB) has gone beyond its original intent to connect peripherals to PCs and is now a
+dominate standard in the interconnect market. USB can be found everywhere from PCs to consumer 
+electronics to mobile devices. Because of its ease of use, speed and expandability, USB is the preferred 
+connection for many consumers. This presents a continued market opportunity for the future. 
+In order to realize this opportunity, USB products must continue to enhance the consumers' experience 
+through high quality and ease of use. That's why USB Implementers Forum, Inc. (USB-IF) developed  
+trademark-protected Basic-Speed USB Logo(s), Hi-Speed USB Logo(s), USB Type-C® Charging Trident 
+Logo(s), the Certified USB Charger Logo(s), and the Certified USB Fast Charger Logo(s) for use by 
+qualified parties. To qualify for the right to display these logos, products must pass the specified USB-IF 
+compliance testing for product quality. 
+
+USB Logo Usage Guidelines
+3
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Table of Contents
+    Logos and Word Marks 5
+Logo Usage 14 
+Basic-Speed USB Versions 
+Hi-Speed USB Versions   
+USB Type-C® Charging Trident Logo  
+Certified USB Charger Logo 
+Certified USB Fast Charger Logo
+Logo Color 20
+Logo Don’ts 26
+Layout 27
+Packaging       
+Collateral       
+Advertisements  
+Manuals 
+Art Files 30
+
+USB Logo Usage Guidelines
+4
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+General Logo Usage Guidelines
+Your company name, logo, or product name must appear on any products or related materials where the 
+Basic-Speed USB Logo(s), Hi-Speed USB Logo(s), the USB Type-C® Charging Trident Logo(s), or the Certified USB Charger 
+Logo(s), or the Certified USB Fast Charger Logo(s) are used. The Logos cannot be larger or more prominent than your 
+product name, trademark, logo, or company name. 
+You must use the logos exactly as they are shown in the USB-IF digital artwork files; you may not imitate the Basic-Speed 
+USB Logo(s), Hi-Speed USB Logo(s), the USB Type-C® Charging Trident Logo(s), the Certified USB Charger Logo(s), or the 
+Certified USB Fast Charger Logo(s) in any of your materials. 
+You may not combine the  Basic-Speed USB Logo(s), Hi-Speed USB Logo(s), the USB Type-C®  Charging Trident Logo(s), or 
+the Certified USB Charger Logo(s), or the Certified USB Fast Charger Logo(s) with any other feature, including other marks, 
+words, graphics, photos, slogans, numbers, design features, or symbols.   
+The Basic-Speed USB Logo(s), Hi-Speed USB Logo(s), the USB Type-C®  Charging Trident Logo(s), or the Certified USB 
+Charger Logo(s), or the Certified USB Fast Charger Logo(s) may not be used as a design feature on any of your materials. 
+IMPORTANT: Please refer to the USB-IF Trademark License Agreement Mark Requirements Chart for details 
+regarding the USB-IF Test Procedures and other requirements. 
+
+USB Logo Usage Guidelines
+ 5
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Word Marks
+“USB Type-C®” and “USB-C®” are registered trademarks of 
+USB Implementers Forum and are only for use with 
+products based on and compliant with the USB Type-C® 
+cable and connector specification. 
+The registered trademark notice symbol ® must be 
+included in the first instance of “USB Type-C®” or “USB-C®” 
+in any material. USB Type-C® and USB-C® should not be 
+translated into languages other than English. 
+The trademark attribution statement should be included in 
+any materials using the word marks “USB Type-C®” and/or 
+“USB-C®”
+USB Type-C® 
+ USB-C®
+USB-IF Word Marks
+Trademark Attribution Statement
+USB Type-C®and USB-C® are registered trademarks of USB 
+Implementers Forum. 
+
+USB Logo Usage Guidelines
+6
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+The Basic-Speed USB Logo must be used with Basic-Speed (12 
+Mbps or 1.5 Mbps) Product. The Hi-Speed USB Logo must be 
+used with Hi-Speed (480 Mbps) Product. THE HI-SPEED 
+VERSIONS  OF THE LOGOS CANNOT BE USED WITH BASICSPEED PRODUCT.
+The Basic-Speed USB Logo and the Hi-Speed USB Logo may be 
+reproduced only in the versions shown in this document and may 
+not be altered in any way. 
+Please note that the registered trademark (®) and the word 
+“certified”are integral parts of the Logos. They are considered 
+part of the Logo art and should not be  altered in any way. The 
+Logos must be reproduced from the USB-IF digital artwork files.
+Basic-Speed USB 
+Hi-Speed USB 
+Logos
+
+USB Logo Usage Guidelines
+ 7
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+The USB-IF USB Type-C® Charging Trident Logo may be used solely in 
+conjunction with Product consisting of hub, peripheral device, add-in 
+card, or motherboard (anything that is not a USB Host end product, 
+or a cable and connector assembly) that has been submitted to and 
+passed the Basic or Hi-Speed Test Procedure and USB Type-C® 
+testing requirements (see USB Compliance Program website for all 
+test procedures); or with Product not consisting of hub, peripheral 
+device, add-in card, or motherboard, that is based on and compliant 
+with the USB-IF USB Type-C® specification and the appropriate USB 
+Power Delivery specification.
+Logos
+USB Type-C® Charging
+Trident Logo 
+
+USB Logo Usage Guidelines
+ 8
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Logos
+The USB-IF Certified USB Charger Logo and Certified USB 
+Fast Charger Logo are available with various wattage 
+labels. Companies should contact admin@usb.org with 
+specific requests. The Certified USB Charger Logo and 
+Certified USB Fast Charger Logo must be used solely in 
+conjunction with Product that has been submitted to and 
+passed the appropriate USB-IF Test Procedures and that 
+has been posted on the USB-IF Integrators List.  
+The Certified USB Charger Logo and Certified USB Fast 
+Charger Logo may be reproduced only in the versions 
+shown in this document and may not be altered in any way. 
+Please note that the registered trademark (®) and the 
+wattage number are integral parts of the Logo(s). They are 
+considered part of the Logo art and should not be altered in 
+any way. The Logo(s) must be reproduced from the USB-IF 
+digital artwork files. 
+The Certified USB Charger Logo and Certified USB Fast 
+Charger Logo must be used solely in conjunction with 
+Product as defined in the usage guidelines. Certified USB 
+Chargers must comply with one of the Certified USB Charger 
+Categories defined in the USB Logo Usage Guidelines.
+Certified USB Charger Logo
+Certified USB Fast Charger Logo
+
+USB Logo Usage Guidelines
+ 9
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Logos
+Certified USB Charger Categories 
+Category 1   -   Single-port Assured Capacity USB Type-C® Charger 
+Category 2   -   Multi-port Assured Capacity USB Type-C® Charger 
+Category 3   -   Multi-port Shared Capacity USB Type-C® Charger
+Category 4   -   Multi-port USB Type-C® Charger with both Assured and Shared ports
+Note: Products that include USB Standard-A ports are required to supply a minimum of 2.5W on each 
+USB Standard-A port, independent of the loading of the other ports.
+
+USB Logo Usage Guidelines
+10
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Logos
+Category 1
+Single-port Assured Capacity USB Type-C® Charger
+•
+•
+•
+The Product must have a single USB Type-C® port and may have USB Standard-A Charging ports. 
+The USB Type-C® port must be able to supply a minimum of 7.5W.
+The USB Type-C® port must be labeled to identify the highest capable power level of that port. 
+The USB Type-C®port must be able to supply the stated power capability.
+The Certified USB Charger Logo wattage label must match the single USB Type-C® port that has the highest power capability.
+Products that also include USB Standard-A ports are required to supply a minimum of 2.5W on each USB Standard-A port, 
+independent of the loading of the other ports.
+The Product must meet the appropriate requirements as defined in the USB-IF Trademark License Agreement Mark 
+Requirements Chart for either the Certified USB Charger Logo or the Certified USB Fast Charger Logo.
+•
+Requirements: 
+•
+45 W
+Example:
+45W Single-port Assured Capacity  USB Type-C® Charger
+USB Type-C® port  wattage label
+Packaging and/or Product Logo
+•
+•
+
+USB Logo Usage Guidelines
+11
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Logos
+Multi-port Assured Capacity USB Type-C® Charger
+The Product must have multiple USB Type-C® ports and may have USB Standard-A Charging ports. 
+Each USB Type-C® port must be able to supply a minimum of 7.5W.
+Each USB Type-C® port must be labeled to identify the highest capable power  level of that port.
+Each USB Type-C® port must be able to supply the stated power capability, independent of the loading of the other ports. 
+The Certified USB Charger Logo wattage label must match the USB Type-C® port that has the highest power capability. 
+Products that also include USB Standard-A ports are required to supply a minimum of 2.5W on each USB Standard-A port, 
+independent of the loading of the other ports.
+The Product must meet the appropriate requirements as defined in the USB-IF Trademark License Agreement Mark 
+Requirements Chart for either the Certified USB Charger Logo or the Certified USB Fast Charger Logo.
+Requirements:
+•
+•
+Example:
+45W Multi-port Assured Capacity USB Type-C® Charger
+45 W
+15 W
+15 W
+USB Type-C® port labels
+Category 2
+•
+•
+•
+•
+•
+Packaging and/or Product Logo
+
+USB Logo Usage Guidelines
+12
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Logos
+The Product must have multiple USB Type-C® ports and may have USB Standard-A Charging ports. 
+ Each USB Type-C® port must be able to supply a minimum of 7.5W, independent of the loading of the other ports.
+Each USB Type-C® port must be labeled to identify the highest capable power level of that port.
+Prior to any USB Type-C® ports being connected to a power sink, each USB Type-C® port must be capable of the same maximum power capability. 
+Each USB Type-C® port is not required to supply the stated power level at all times.
+As USB Type-C® ports are connected and a power contract is established, the remaining unconnected USB Type-C® ports must equally offer the 
+remaining available power capability.
+The Product labeling and packaging must inform consumers that when a single port is supplying the highest power rating, the remaining ports will 
+supply different power ratings.
+The total combined power level must be indicated on the Product.
+The Certified USB Charger Logo wattage label must match the single USB Type-C® port that has the highest power capability.
+Products that also include USB Standard-A ports are required to supply a minimum of 2.5W on each USB Standard-A port, independent of the loading 
+of the other ports.
+The Product must meet the appropriate requirements as defined in the USB-IF Trademark License Agreement Mark Requirements Chart for either the 
+Certified USB Charger Logo or the Certified USB Fast Charger Logo.
+Multi-port Shared Capacity USB Type-C® Charger 
+Requirements:
+•
+60 W
+45 W
+45 W
+Example: 45W Multi-port Shared Capacity USB Type-C® Charger
+USB Type-C® port labels
+Category 3
+45 W
+•
+•
+•
+•
+•
+•
+Packaging and/or Product Logo
+•
+•
+•
+•
+
+USB Logo Usage Guidelines
+13
+Logos
+• Each USB Type-C® port must be labeled according to the appropriate Certified USB Charger Category.
+Each USB Type-C® port must supply the power level according to the appropriate Certified USB Charger Category.
+Each USB Type-C® port must be able to supply a minimum of 7.5W, independent of the loading of the other ports.
+The Certified USB Charger Logo wattage label must match the single USB Type-C® port that has the highest power capability.
+Products that also include USB Standard-A ports must be able to supply a minimum of  2.5W on each USB Standard-A port,
+independent of the loading of the other ports.
+The Product must meet the appropriate requirements as defined in the USB-IF Trademark License Agreement Mark
+Requirements Chart for either the Certified USB Charger Logo or the Certified USB Fast Charger Logo.
+Category 4
+Multi-port USB Type-C® Charger with  both Assured and Shared ports 
+Requirements:
+•
+•
+•
+•
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Example: 45W Shared Multi-port USB Type-C® and 27W Assured Multi-port USB Type-C® Port Charger 
+27 W
+15 W
+15 W
+Shared USB Type-C® ports 
+Assured USB Type-C® ports
+60 W
+45 W
+45 W
+45 W
+Packaging and/or Product Logo
+•
+
+USB Logo Usage Guidelines
+14
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Basic-Speed USB Version 
+To be effective, the USB-IF Basic-Speed 
+USB Logo must be treated 
+appropriately and consistently.
+Clear space, minimum size, and Logo 
+position requirements must be 
+followed.
+Clear Space
+Avoid visual clutter by maintaining a minimum 
+amount of clear space around the Logo that is 
+equal to the height of the blue bar that 
+contains the word “certified” for the size 
+selected. Please note that when the Logo 
+reverses out of a dark background, it includes a 
+key line around it. The clear space does not 
+include the key line.
+Minimum Size for Print
+The minimum width is 0.5 inch (13 mm) and 
+the minimum height is 0.17 inch (4.3 mm).
+Minimum Size for On-Screen
+The minimum width of the Logo is 100 pixels. 
+The supplied on-screen Logos are created with 
+the clear space built into the files. The smallest 
+file available (100 pixels) is set to the minimum 
+size requirement and should not be scaled 
+down.
+Logo Position
+To position the Logo correctly, use the left 
+corner of the Logo as the vertical guideline. Use 
+the top edge of the Logo as the horizontal 
+guideline.
+Logo Usage
+0.17 inch
+0.5 inch
+100 pixels
+
+USB Logo Usage Guidelines
+15
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Hi-Speed USB Version 
+These requirements apply to use of 
+the USB-IF Hi-Speed USB Logo.
+Clear Space
+Avoid visual clutter by maintaining a minimum 
+amount of clear space around the Logo that is 
+equal to the height of the blue bar that 
+contains the word “certified” for the size 
+selected. Please note that when the Logo 
+reverses out of a dark background, it includes a 
+key line around it. The clear space does not 
+include the key line. 
+Minimum Size for Print
+The minimum width is 0.5 inch (13 mm) and 
+the minimum height is 0.23 inch (5.85 mm).
+Minimum Size for On-Screen
+The minimum width of the Logo is 100 pixels. 
+The supplied on-screen Logos are created with 
+the clear space built into the files. The smallest 
+file available (100 pixels) is set to the minimum 
+size requirement and should not be scaled 
+down.
+Logo Position
+To position the Logo correctly, use the left 
+corner of the Logo as the vertical guideline. 
+Use the top edge of the Logo as the horizontal 
+guideline.
+Logo Usage
+0.23 inch
+0.5 inch
+100 pixels
+
+USB Logo Usage Guidelines
+16
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+USB Type-C®Charging Trident Logo
+These requirements apply to use of 
+the USB-IF USB Type-C® Charging 
+Trident Logo.
+Clear Space
+Avoid visual clutter by maintaining a 
+minimum amount of clear space around the 
+Logo that is equal to the width of the battery 
+terminal  for the size selected. 
+Minimum Size 
+The minimum size of the largest dimension 
+of the Logo is 5mm (0.2 inches). 
+Measurement does not include the “®”.
+Logo Position
+The Logo can be oriented horizontally with 
+the battery terminal to the right or vertically 
+with  the battery terminal to the top. 
+Logo Usage
+5 mm
+Licensee in not obligated to use the “®” and 
+may omit the trademark ® symbol on the USB 
+Type-C®  Charging Trident Logo for mobile and 
+non-mobile Product, for which the Licensee is 
+printing/engraving on chassis where the 
+reasonable alternatives for the location and 
+size of the Logos do not allow for the symbol to 
+have a maximum dimension of 15mm or more. 
+This permission is limited only to these exact 
+situations.
+Where the symbol is so omitted, the 
+manufacture/Licensees must include the 
+following statement in their user’s manual/
+printed materials accompanying the Product: 
+“The USB Type-C® Charging  Trident Logos is 
+a registered trademark of USB Implementers 
+Forum, Inc.” and must be accompanied with 
+the proper USB Type-C® Charging Trident 
+image of themark with the correct rendering 
+of the ®.
+
+USB Logo Usage Guidelines
+17
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Logo Usage
+Certified USB Charger Logo 
+These requirements apply to use of the 
+Certified USB Charger Logo.
+Clear Space
+Avoid visual clutter by maintaining a 
+minimum amount of clear space around the 
+Logo that is equal to the height of the word 
+“certified”. 
+Minimum Size for Print
+The minimum width of the Logo is 0.75 
+inch (19 mm) and the minimum height 
+for the  Logo is 0.48 inch (12.15 mm).
+Minimum Size for On-Screen
+The minimum width of the Logo is 125 
+pixels. The supplied on-screen Logos are 
+created with  the clear space built into the 
+files. The smallest  file available (125 pixels) 
+is set to the minimum size requirement and 
+should not be scaled down.
+Logo Position
+To position the Logo correctly, use the left 
+edge of the word “charger” as the vertical 
+guideline. Use the top of the lightning bolt 
+symbol as the horizontal guideline.
+0.75 inch
+0.48 inch
+125 pixels
+
+USB Logo Usage Guidelines
+18
+© 2000-2019 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Logo Usage
+Certified USB Fast Charger Logo 
+These requirements apply to use of the 
+Certified USB Fast Charger Logo.
+Clear Space
+Avoid visual clutter by maintaining a 
+minimum amount of clear space around the 
+Logo that is equal to the height of the word 
+“certified”. 
+Minimum Size for Print
+The minimum width of the Logo is 0.75 
+inch (19 mm) and the minimum height 
+for the  Logo is 0.48 inch (12.15 mm).
+Minimum Size for On-Screen
+The minimum width of the Logo is 125 
+pixels. The supplied on-screen Logos are 
+created with  the clear space built into the 
+files. The smallest  file available (125 pixels) 
+is set to the minimum size requirement and 
+should not be scaled down.
+Logo Position
+To position the Logo correctly, use the left 
+edge of the word “fast” as the vertical 
+guideline. Use the top of the lightning bolt 
+symbol as the horizontal guideline.
+0.75 inch
+0.48 inch
+125 pixels
+
+USB Logo Usage Guidelines
+19
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Logo Color
+Basic-Speed USB Logo
+The USB-IF Basic-Speed USB Logo 
+has been created as a 1-color Logo. 
+(Other color versions are shown on 
+the following pages). It is best to 
+reproduce the Logo using the 
+PANTONE® numbers shown at the 
+right. When reproducing these 
+colors in 4-color process inks, or on 
+screen (RGB), the screen tints listed 
+here should be used.
+Different color models may 
+reproduce the USB Blue with slight 
+color variations, e.g., a Logo printed 
+using USB Blue as a spot color may 
+result in a slightly different hue of 
+blue when compared to one printed 
+using  4-color process or compared 
+to an on screen (RGB) Logo.
+PANTONE® 653C
+USB Blue
+Use PANTONE® 653C
+4-color 
+Cyan	
+100% 
+Magenta	 62% 
+Yellow	
+0% 
+Black	
+20%
+RGB 
+Red	
+0 
+Green	
+82 
+Blue	
+149
+PANTONE Colors displayed here may not match PANTONE-identified 
+standards. Consult current PANTONE Color Publications for accurate color. 
+PANTONE® is the property of Pantone, Inc.
+
+USB Logo Usage Guidelines
+20
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Logo Color
+Hi-Speed USB Logo
+The USB-IF Hi-Speed USB Logo has 
+been created as a 2-color Logo. 
+(Other color versions are shown on 
+the following pages). It is best to 
+reproduce the Logo using the 
+PANTONE® numbers shown  at the 
+right. When reproducing these 
+colors in 4-color process inks, or on 
+screen (RGB), the screen tints listed 
+here should be used.
+Different color models may 
+reproduce the USB Red and USB 
+Blue with slight color variations, 
+e.g. a Logo printed using USB Red 
+as a spot color may result in a 
+slightly different hue of red when 
+compared to one printed using 4color process or compared to an 
+on screen (RGB) Logo.
+PANTONE® 185C
+PANTONE® 653C
+USB Red
+Use PANTONE® 185C
+4-color 
+Cyan	
+0% 
+Magenta	 91% 
+Yellow	
+76% 
+Black	
+0%
+RGB 
+Red	
+239 
+Green	
+62 
+Blue	
+66
+USB Blue
+Use PANTONE® 653C
+4-color 
+Cyan	
+100% 
+Magenta	 62% 
+Yellow	
+0% 
+Black	
+20%
+RGB 
+Red	
+0 
+Green	
+82 
+Blue	
+149
+PANTONE Colors displayed here may not match PANTONE-identified 
+standards. Consult current PANTONE Color Publications for accurate color. 
+PANTONE® is the property of Pantone, Inc.
+
+USB Logo Usage Guidelines
+21
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Logo Color
+Certified USB Charger Logo and 
+Certified USB Fast Charger Logo 
+The USB-IF Certified USB Charger 
+Logo(s) have been created as 3-color 
+Logos. (Other color versions are shown 
+on the following pages). It is best to 
+reproduce the Logo(s) using the 
+PANTONE® numbers shown at the 
+right. When reproducing these colors 
+in 4-color process inks, or on screen 
+(RGB), the screen tints listed here 
+should be used.
+Different color models may reproduce 
+the USB Red, USB Blue and Gray with 
+slight color variations, e.g., a Logo 
+printed using USB Red as a spot color 
+may result in a slightly different hue of 
+red when compared to one printed 
+using 4-color process or compared to 
+an on screen (RGB) Logo.
+Wattage Gray
+70% Black
+4-color 
+Cyan 	
+0% 
+Magenta	 0% 
+Yellow 	
+0% 
+Black 	
+70%
+RGB 
+Red 	
+120 
+Green 	
+120 
+Blue 	
+120
+USB Red
+Use PANTONE® 185C
+4-color 
+Cyan	
+0% 
+Magenta	 91% 
+Yellow	
+76% 
+Black	
+0%
+RGB 
+Red	
+239 
+Green	
+62 
+Blue	
+66
+USB Blue
+Use PANTONE® 653C
+4-color 
+Cyan	
+100% 
+Magenta	 62% 
+Yellow	
+0% 
+Black	
+20%
+RGB 
+Red	
+0 
+Green	
+82 
+Blue	
+149
+PANTONE Colors displayed here may not match PANTONE-identified 
+standards. Consult current PANTONE Color Publications for accurate color. 
+PANTONE® is the property of Pantone, Inc.
+PANTONE® 653C
+PANTONE® 185C
+PANTONE® 185C
+70% Black
+PANTONE® 185C
+PANTONE® 185C
+PANTONE® 653C
+70% Black
+
+USB Logo Usage Guidelines
+22
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Logo Color
+Basic-Speed USB Versions
+Basic-Speed USB Logo
+The USB-IF Basic-Speed USB Logo has 
+been created as a 1-color Logo. The 
+1-color (USB Blue) version is the preferred 
+version of the Basic-Speed USB Logo.
+The 1-color, black, version of the BasicSpeed USB Logo should be used for 
+single-color applications.
+Choose either the reversed version 
+of the Basic-Speed USB Logo, or the 
+1-color (USB Blue) version when the 
+Basic-Speed USB Logo is used on 
+a dark background. A key line has 
+been added to the 1-color (USB Blue) 
+version to ensure readability over a 
+background of color.
+1-Color Logo 
+USB Blue PANTONE® 653C
+1-Color Logo 
+Black
+Reverse Logo 
+On a dark colored background
+1-Color Logo 
+On a dark colored background
+PANTONE Colors displayed here may not match PANTONE-identified 
+standards. Consult current PANTONE Color Publications for accurate color. 
+PANTONE® is the property of Pantone, Inc.
+
+USB Logo Usage Guidelines
+23
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Logo Color
+Hi-Speed USB Versions
+Hi-Speed USB Logo
+The 2-color version is the preferred 
+version of the USB-IF Hi-Speed 
+USB Logo.
+The 1-color, black version of the HiSpeed USB Logo should be used for 
+single-color applications. 
+Choose either the reversed version of 
+the Hi-Speed USB Logo, or the 2-color 
+version when the Hi-Speed USB Logo 
+is used on a dark background. A key 
+line has been added to the 2-color 
+version to ensure readability over a 
+background of color.
+2-Color Logo
+USB Red PANTONE® 185
+USB Blue PANTONE® 653
+1-Color Logo
+Black
+Reverse Logo 
+On a dark colored background
+2-Color Logo 
+On a dark colored background
+PANTONE Colors displayed here may not match PANTONE-identified 
+standards. Consult current PANTONE Color Publications for accurate color. 
+PANTONE® is the property of Pantone, Inc.
+
+USB Logo Usage Guidelines
+24
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Logo Color
+Certified USB Charger and 
+Certified USB Fast Charger Versions
+Certified USB Charger Logo(s)
+The 3-color version is the preferred version of the 
+USB-IF Certified USB Charger Logo(s).
+The 1-color, black, blue or red version of the 
+Certified USB Charger Logo(s) should be used for 
+single-color applications.
+Choose the reversed version of the Certified USB 
+Charger Logo when the it is used on a dark 
+background.
+3-Color Logo
+USB Red PANTONE® 185C
+USB Blue PANTONE® 653C
+70% Black
+1-Color Logo
+Black
+1-Color Logo
+Blue PANTONE® 653C
+1-Color Logo
+Red PANTONE® 185C
+Reverse Logo 
+On a dark colored background
+PANTONE Colors displayed here may not match PANTONE-identified 
+standards. Consult current PANTONE Color Publications for accurate color. 
+PANTONE® is the property of Pantone, Inc.
+
+USB Logo Usage Guidelines
+25
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Proper use of the USB Logos strengthens its effectiveness each time they are seen. The following examples depict 
+unacceptable uses of the USB Logos for both print and on screen applications.
+Note: The “Logo don’ts” guidelines apply to all of the Logo versions.
+Don’t place the Logo on a busy background. A 
+busy background would not follow the clear 
+space guidelines, spelled out earlier in this 
+document.
+Don’t change the colors of the Logo.
+Don’t use any Hi-Speed version of the 
+Logos without the word “Hi-Speed.”
+Don’t use any version of the Logos without 
+the word “certified.”
+Don’t use the Logo without the trademark  
+® symbol.
+Don’t use the Logo without the wattage label.
+Don’t use the Logo without the “®” symbol.
+Don’t use the Logo without the word 
+“CERTIFIED”.
+Logo Don’ts
+
+USB Logo Usage Guidelines
+26
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Incorporating the Basic-Speed USB Logo(s), the Hi-Speed USB Logo(s), or the Certified USB Charger 
+Logo(s), or the Certified USB Fast Charger Logo(s) into your packaging, marketing materials, 
+advertisements and manuals strengthens your marketing efforts by informing your consumers of the 
+USB compatibility of your product(s). The following pages show samples of various marketing materials 
+and examples of the USB Logo placement. 
+Layout
+Packaging
+Packaging is printed in a variety of ways. Coarse 
+printing, such as flexography on corrugate or 
+screen printing on various materials, may benefit 
+from using the 1-color or the reverse Logo. 
+Product that is printed using finer printing 
+methods, such as 4-color process can choose 
+any Logo that best fits their Product box’s design. 
+The goal is to choose the Logo that will 
+reproduce most attractively onto the material 
+which it is being printed.
+Lor
+ALL
+em ipsum
+ NEW
+Don
+consectetur adipiscin
+ dolor sit amet, 
+effi
+g elit. 
+ficitur vehicu
+ec faucibus erat ut 
+qua
+purus venenatis, com
+la. Quisque u
+modo 
+m id, vulputate mi. 
+V
+tellu
+a magna a, placerat su
+ivamus velit mi, elementum 
+prim
+s. Vestibulum ante
+scipit 
+et ult
+is
+ci l
+ ipsum 
+Cura
+rices posuere cub
+uctus 
+to
+Curae; Duis no
+ in faucibus or
+ilia 
+rtor. Etiam eu tor
+n rhon
+tor felis. 
+2GB 
+TD-200F
+Thumbdrive
+
+USB Logo Usage Guidelines
+27
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Layout
+Collateral
+Where you are not restricted by color, the full 
+color Logo can be used for your print material. 
+In situations where color is restricted, use the 
+black, or if appropriate, 1-color or reverse 
+versions of the Logo.
+XYZcompany
+Lorem ipsum dolor sit amet, cons ectetur adipiscing elit. Aliquam eget 
+consequat neque. In a risus vel nibh consectetur lacinia. Quisq ue tincidunt 
+vehicula ornare. Morbi augue odio, pharetra quis blandit sit amet, tempor 
+nec eros.  Curabitur eu sodales est. Morbi est lorem, pharetra non congue 
+vitae, sodales nec nibh. Praesent vestibulum purus laoreet tellus consequat 
+ut euismod leo lacinia. 
+TD-200F
+2GB Thumbdrive
+XYZcompany
+Advertisements
+For 1-color newspaper  advertisements, use the 
+black or reverse version of the Logo. Full color 
+magazine ads may use the 1-color, reverse or full 
+color versions of the Logo, choosing the Logo 
+that works best with the design of the ad.
+
+USB Logo Usage Guidelines
+28
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Layout
+Manuals
+Where the ® symbol of the USB-IF USB Type-C® Charging Trident 
+Logos have been omitted on the printing/engraving on Product 
+chassis, the manufacturer/Licensees must include the following 
+statement in their user’s manual/printed materials 
+accompanying the Product:
+“The USB Type-C® Charging Trident Logos are registered 
+trademarks of USB Implementers Forum, Inc.”
+The statement must be accompanied with the proper 
+USB Type-C® Charging Trident image of the mark(s) with the 
+correct rendering of the ®.
+The USB Type-C® Charging Trident Logo is a 
+registered trademark of USB Implementers 
+Forum, Inc.
+User’s Manual
+
+USB Logo Usage Guidelines
+29
+© 2000-2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+The Basic-Speed USB Logo(s), the Hi-Speed USB Logo(s), USB Type-C® Charging Trident Logo(s), and the 
+Certified USB Charger Logo(s), and the Certified USB Fast Charger Logo(s) are available in various digital file 
+formats.
+Print Applications
+Encapsulated Postscript (EPS) files were created in Adobe* Illustrator* and can be reproduced at any size without 
+compromising quality. Use these versions for printing. Each version is a separate file. Logos can be printed using either 
+PANTONE® colors or the 4-color process mix specified on page 6. Type has been converted to outlines; no fonts are 
+required to reproduce the Logos. The files have been saved for both Macintosh* and PC.
+On Screen Applications
+These versions are for on screen applications such as the Web or Microsoft* PowerPoint* presentations. They have 
+been created in RGB color mode, and should not be used for offset printing. These versions were rasterized in Adobe* 
+Photoshop* from Adobe Illustrator files (with the exception of the EPS files). Keep in mind that these files look their best 
+when placed at 100% size, or smaller. 
+PNG and or JPG files are provided for use in on-screen applications.
+EPS files were created in Adobe* Illustrator* and are saved in RGB color format. These files are to be used in software 
+applications that utilize vector-based artwork, e.g., Adobe* Flash*.
+*Third party names and brands are the property of their respective owners. PANTONE® is the property of Pantone, Inc.
+Art Files

@@ -1,0 +1,46 @@
+USB Data Performance  
+Language Usage Guidelines from USB-IF 
+USB-IF emphasizes the importance and value of consistent messaging on USB product packaging, marketing materials, 
+and advertising. Inconsistent use of terminology creates confusion in the marketplace, can be misleading to consumers, 
+and potentially diminishes USB-IF’s trademark rights.  
+When referring to a product that is based on and compliant with the USB Data Performance specifications (i.e., USB4®, 
+USB 3.2, and USB 2.0) manufacturers must clearly identify the performance capabilities of that device separately from 
+other product benefits and/or physical characteristics in product manuals, data sheets and marketing materials. 
+In order to identify performance capabilities, USB-IF strongly recommends submitting products to the USB-IF 
+Compliance Program and then, once successful, using the logos for consumer recognition. The USB-IF logo guidelines are 
+available here: http://www.usb.org/developers/logo_license/.  
+USB Data Performance Overview 
+The USB4® and USB 3.2 specifications together identify five transfer rates – 80Gbps, 40Gbps, 20Gbps, 10Gbps, and 
+5Gbps. Vendors must clearly communicate the performance signaling that a product delivers in the product’s packaging, 
+advertising content, and any other marketing materials.  
+To avoid consumer confusion, USB-IF’s recommended nomenclature for consumers is listed below: 
+•
+Marketing name: USB 80Gbps
+o
+Product capability: product signals at 80Gbps
+•
+Marketing name: USB 40Gbps
+o
+Product capability: product signals at 40Gbps
+•
+Marketing name: USB 20Gbps
+o
+Product capability: product signals at 20Gbps
+•
+Marketing name: USB 10Gbps
+o
+Product capability: product signals at 10Gbps
+•
+Marketing name: USB 5Gbps
+o
+Product capability: product signals at 5Gbps
+NOTE: USB4® Version 2.0, USB4® Version 1.0, USB 3.2, SuperSpeed Plus, Enhanced SuperSpeed and SuperSpeed+ are 
+defined in the USB specifications however these terms are not intended to be used in product names, messaging, 
+packaging or any other consumer-facing content.     
+There are separate Language and Packaging Usage Guidelines for the USB Type-C® Cable and Connector Specification, 
+found here: https://www.usb.org/sites/default/files/usb_typec_language_product_and_packaging_guidelines_20230320.pdf  
+USB-IF Product Data Base Notice to OEMs and Manufacturers 
+The term(s) “TBT3” or “Thunderbolt” should not be used in the USB-IF product/marketing description of products being 
+listed in the USB-IF data base that are being submitted/certified by the USB-IF.  
+Note, companies may choose to use these term(s) “TBT3” or “Thunderbolt” as part of their actual product information 
+as authorized by Intel, but these terms do not belong in the USB-IF data base.   

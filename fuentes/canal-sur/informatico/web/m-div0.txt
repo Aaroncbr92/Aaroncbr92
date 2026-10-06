@@ -1,0 +1,67 @@
+URL: https://support.microsoft.com/en-us/excel/how-to-correct-a-div-0-error
+Leído: 2026-10-05
+
+# How to correct a #DIV/0! error
+
+ Applies To
+Excel for Microsoft 365 Excel for Microsoft 365 for Mac Excel 2024 Excel 2024 for Mac Excel 2021 Excel 2021 for Mac Excel 2019 Excel 2016 Excel for iPad Excel Web App Excel for iPhone Excel for Android tablets Excel for Android phones Excel for Windows Phone 10 Excel Mobile 
+
+Get help with Copilot
+
+ How can I use IFERROR to suppress the #div/0! error?
+
+ Show me how to use the correct a #value! error in the if
+
+ Explain how to correct a #DIV/0! error.
+
+Microsoft Excel shows the #DIV/0! error when a number is divided by zero (0). It happens when you enter a simple formula like =5/0, or when a formula refers to a cell that has 0 or is blank, as shown in this picture.
+
+To correct the error, do any of the following:
+
+- Make sure the divisor in the function or formula isn't zero or a blank cell.
+
+- Change the cell reference in the formula to another cell that doesn't have a zero (0) or blank value.
+
+- Enter #N/A in the cell that's referenced as the divisor in the formula, which will change the formula result to #N/A to indicate the divisor value isn't available.
+
+Many times the #DIV/0! error can't be avoided because your formulas are waiting for input from you or someone else. In that case, you don't want the error message to display at all, so there are a few error handling methods that you can use to suppress the error while you wait for input. 
+
+## Evaluate the denominator for 0 or no value
+
+The simplest way to suppress the #DIV/0! error is to use the IF function to evaluate the existence of the denominator. If it's a 0 or no value, then show a 0 or no value as the formula result instead of the #DIV/0! error value, otherwise calculate the formula.
+
+For example, if the formula that returns the error is =A2/A3, use =IF(A3,A2/A3,0) to return 0 or =IF(A3,A2/A3,"") to return an empty string. You could also display a custom message like this: =IF(A3,A2/A3,"Input Needed"). With the QUOTIENT function from the first example you would use =IF(A3,QUOTIENT(A2,A3),0). This tells Excel IF(A3 exists, then return the result of the formula, otherwise ignore it).
+
+### Use IFERROR to suppress the #DIV/0! error
+
+You can also suppress this error by nesting your division operation inside the IFERROR function. Again, using A2/A3, you can use =IFERROR(A2/A3,0). This tells Excel if your formula evaluates to an error, then return 0, otherwise return the result of the formula.
+
+Note: both the IFERROR and IF(ISERROR()) methods are blanket error handlers, in that they will suppress all errors, not just #DIV/0!. You need to make sure your formula works properly before applying any error handling, otherwise you might not realize that your formula isn't working as you expect.
+
+Tip
+
+If error checking is turned on in Excel, you can select 
+
+ next to cell that shows the error. Select Show Calculation Steps if it's available, and pick the resolution that works for your data.
+
+## Need more help?
+
+You can always ask an expert in the Excel Tech Community or get support in Communities.
+
+## See Also
+
+IF function
+
+IFERROR function
+
+IS functions
+
+Overview of formulas in Excel
+
+How to avoid broken formulas
+
+Detect errors in formulas
+
+Excel functions (alphabetical)
+
+Excel functions (by category)

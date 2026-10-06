@@ -1,0 +1,231 @@
+URL: https://support.microsoft.com/es-es/office/cambiar-el-estado-en-microsoft-teams-ce36ed14-6bc9-4775-a33e-6629ba4ff78e
+Leído: 2026-10-05
+
+# Cambiar su estado en Microsoft Teams
+
+ Se aplica a
+Teams Microsoft Teams 
+
+Obtener ayuda con Copilot
+
+ ¿Puedo establecer una duración para el estado en Microsoft Teams?
+
+ ¿Cómo configuro un mensaje de estado en Microsoft Teams gratis?
+
+ Cambia mi estado en Microsoft Teams por mí.
+
+- 
+
+ Escritorio
+
+- 
+
+ Móvil
+
+- 
+
+ Web
+
+### Cambiar de estado
+
+Si desea asegurarse de que los usuarios sepan cuándo está ocupado o ausente de su escritorio, configure su estado en Teams. El pequeño punto de su perfil indica si está disponible o no.
+
+Para cambiar su estado, seleccione su imagen de perfil en la parte superior derecha de Teams. Seleccione su estado actual para elegir otro estado de la lista.
+
+Teams establecerá automáticamente el estado en algunos casos, como cuando está en una llamada.
+
+También puede actualizar su estado desde el cuadro de búsqueda escribiendo los siguientes comandos:
+
+ | 
+ /disponible
+
+ | 
+ Disponible
+
+ | 
+ /ocupado
+
+ | 
+ No disponible
+
+ | 
+ /no molestar
+
+ | 
+ No molestar
+
+ | 
+ /vuelvo enseguida
+
+ | 
+ Ahora vuelvo
+
+ | 
+ /ausente
+
+ | 
+ Ausente
+
+ | 
+ /sin conexión
+
+ | 
+ Sin conexión
+
+Recomendación
+
+Obtenga más información sobre el uso de comandos aquí: Usar comandos en Microsoft Teams. 
+
+Aquí tienes más detalles sobre cada estado:
+
+- 
+
+ Disponible es cuando está activo en Teams y no tiene nada en el calendario (por ejemplo, ni reuniones ni llamadas). Tenga en cuenta que Teams establecerá automáticamente su estado de Disponible a Ausente cuando bloquee el equipo o cuando entre en modo de inactividad o de suspensión. En dispositivos móviles, esto ocurrirá cuando la aplicación Teams esté en segundo plano.
+
+- 
+
+ Ocupado es cuando quieres centrarte en algo y aún quieres seguir recibiendo notificaciones. Si se encuentra en una reunión o llamada, Teams cambiará automáticamente su estado a En una reunión o En una llamada (ocupado) cuando no se establece en No molestar.
+
+- 
+
+ No molestar es cuando quieres enfocar o presentar tu pantalla y no quieres recibir notificaciones.
+
+- 
+
+ Vuelvo en seguida: cuando quiera comunicar que su ausencia es temporal. Nunca se configura automáticamente.
+
+- 
+
+ Aparecer como ausente: cuando necesita trabajar y no desea o puede responder inmediatamente.
+
+- 
+
+ Desconectado es cuando quiere indicar que no ha iniciado sesión en Teams, por lo que no responderá hasta que vuelva a estar en línea. Seguirás recibiendo notificaciones si alguien te envía un mensaje.
+
+Nota
+
+Si es cliente de MyAnalytics, use el complemento MyAnalytics Outlook para reservar tiempo de productividad en su calendario. Cuando se inicie el tiempo de concentración, el estado de Teams cambiará al Modo de concentración y se silenciarán todas las notificaciones hasta que finalice el tiempo de concentración.
+
+### Establecer una duración para el estado
+
+Cuando desee cambiar su estado para un período de tiempo específico (por ejemplo, para establecer No molestar durante una hora de trabajo concentrado), puede establecer una duración para que Teams restablezca automáticamente su estado al final del tiempo asignado.
+
+Puede establecer duraciones para cualquier estado excepto Disponible. Sin embargo, un estado más disponible (como Ocupado) no invalidará un estado menos disponible (como Ausente) incluso si se establece su duración. Para obtener más información sobre la prioridad de estado, consulte Presencia en Teams. 
+
+- 
+Seleccione su imagen>de perfil Estado> actualEstado de duración .
+
+- 
+En Estado, selecciona el estado que quieres mostrar en el futuro. 
+
+- 
+En Restablecer estado después de, selecciona la cantidad de tiempo que quieres que dure ese estado.
+
+O bien, si ninguno de los períodos de tiempo sugeridos funciona, seleccione Personalizado en Restablecer estado después y escriba la fecha y la hora.
+
+- 
+Seleccione Listo.
+
+Al final del período especificado, Teams restablecerá automáticamente su estado en función de su actividad, su calendario y el estado de su equipo.
+
+### Deshacer una duración de estado
+
+Solo tiene que seleccionar un nuevo estado. Como alternativa, puedes seleccionar tu imagen de perfil, tu estado actual y, a continuación, Restablecer estado.
+
+### Desactivar No molestar durante la presentación
+
+Puede elegir si desea pasar automáticamente al estado No molestar durante la presentación.
+
+Ir a Configuración y más icono > de >Configuración Privacidad>Establecer mi estado en No molestar cuando comparto mi pantalla.
+
+No molestar está activado de forma predeterminada, lo que significa que no se le interrumpirá durante la presentación. Si desactiva la casilla, podrá seguir recibiendo notificaciones mientras comparte la pantalla. 
+
+### Ver quién está en línea
+
+Si alguien está disponible actualmente en Teams, verá un círculo verde con una marca de verificación junto a su imagen de perfil.
+
+Para ver quién en un equipo está en línea en este momento, vaya al nombre del equipo y seleccione Más opciones>Más opciones Administrar miembros delequipo>. Todos los usuarios que estén en línea en este momento tienen el círculo verde con una marca de verificación junto a su nombre.
+
+### Cambiar de estado
+
+Para cambiar su estado, toque el botón Menú . Después, pulse su estado para ver las opciones.
+
+Aquí tiene más información sobre cada tipo de estado:
+
+- 
+
+ Disponible: cuando está activo en Teams y no tiene nada en su calendario (por ejemplo, reuniones o llamadas). Teams establecerá automáticamente su estado de Disponible a Ausente cuando la aplicación Teams esté en segundo plano. En el escritorio y en la web, esto ocurrirá cuando bloquee el equipo o cuando entre en el modo de inactividad o de suspensión.
+
+Nota
+
+Cambia la configuración de reposo o inactividad de tu dispositivo para que requiera más tiempo antes de que tu estado cambie de Disponible a Ausente.
+
+- 
+Ocupado: cuando quiera concentrarse en algo, pero desea ver notificaciones. Si se encuentra en una reunión o en una llamada, Teams cambiará automáticamente su estado a En una reunión o En una llamada (Ocupado) cuando este no esté establecido en No molestar.
+
+- 
+
+ No molestar: cuando quiera concentrarse o hacer presentaciones en su pantalla y no desee ver notificaciones.
+
+- 
+
+ Vuelvo en seguida: cuando quiera comunicar que su ausencia es temporal. Nunca se configura automáticamente.
+
+- 
+
+ Aparecer como ausente: cuando necesita trabajar y no desea o puede responder inmediatamente.
+
+- 
+
+ Desconectado es cuando quiere indicar que no ha iniciado sesión en Teams, por lo que no responderá hasta que vuelva a estar en línea. Seguirás recibiendo notificaciones si alguien te envía un mensaje.
+
+### Establecer una duración para el estado
+
+Cuando desee cambiar su estado para un período de tiempo específico, por ejemplo, para establecer "No molestar" para una hora de trabajo concentrado, puede establecer una duración para que Teams restablezca automáticamente su estado al final del tiempo asignado.
+
+- 
+Selecciona tu imagen de perfil, tu estado actual y, a continuación, selecciona Duración.
+
+- 
+En Estado, selecciona el estado que quieres mostrar en el futuro.
+
+En Restablecer estado después de, selecciona la cantidad de tiempo que quieres que dure ese estado.
+
+O bien, si ninguno de los períodos de tiempo sugeridos le funciona, seleccione Personalizado en Restablecer estado después e introduzca la fecha y la hora manualmente.
+
+- 
+Seleccione Listo.
+
+Al final del período de tiempo introducido, Teams restablecerá automáticamente su estado en función de su actividad, su calendario y el estado de su equipo.
+
+### Deshacer una duración de estado
+
+Solo tiene que seleccionar un nuevo estado. Como alternativa, puedes seleccionar tu imagen de perfil, tu estado actual y, a continuación, Restablecer estado.
+
+### Ver quién está en línea
+
+Verá un círculo verde con una marca de verificación junto a la imagen de perfil de las personas que están en línea.
+
+Para ver quién en un equipo está en línea en este momento, pulse Más opciones junto al nombre del equipo y seleccione Ver miembros. Todos los usuarios que estén en línea en este momento tienen el círculo verde con una marca de verificación junto a su imagen de perfil.
+
+### Cambiar de estado
+
+Cuando usa Teams en un explorador web, puede controlar cómo se muestra su estado a los demás. Para cambiar su estado, seleccione su imagen de perfil. A continuación, seleccione su estado actual para elegir otro estado de la lista.
+
+Para obtener más información sobre las opciones de estado, consulte la pestaña de escritorio de este artículo.
+
+### Mantenga su estado actual cuando esté activo fuera de Teams
+
+Active esta opción para evitar que su estado cambie a "Ausente" cuando trabaje en otras pestañas o aplicaciones del explorador. Sus compañeros de trabajo verán el estado correcto, incluso si no está trabajando en Teams.
+
+- En Teams para Web, seleccione el .
+
+- Vaya a Notificaciones ypresencia de actividad>.
+
+- Active el botón de alternancia junto a Mantener mi estado actual cuando estoy activo fuera de Teams en la web.
+
+Cuando habilite esta configuración, el explorador mostrará una solicitud de permiso en la que se le preguntará si Teams puede detectar su actividad en otras pestañas o aplicaciones.
+
+- Seleccione Permitir para conceder permiso. Esto permite a Teams saber cuándo está activo fuera de la aplicación para que su estado sea preciso.
+
+- Si selecciona Bloquear, Teams no detectará actividad fuera de la aplicación y su estado puede cambiar a "Ausente" incluso si está trabajando en otro lugar.

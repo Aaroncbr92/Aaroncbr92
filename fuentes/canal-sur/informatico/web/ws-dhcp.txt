@@ -1,0 +1,135 @@
+URL: https://learn.microsoft.com/es-es/windows-server/networking/technologies/dhcp/dhcp-top
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# ¿Qué es el servidor del Protocolo de configuración dinámica de host (DHCP) en Windows Server?
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Azure Local 2311.2 and later
+
+## 
+
+El servidor del Protocolo de configuración dinámica de host (DHCP) en Windows Server automatiza la asignación y administración de direcciones IP y configuraciones de red relacionadas. Al centralizar estas tareas, el servidor DHCP reduce el esfuerzo manual, minimiza los errores y garantiza un uso eficaz de los recursos de direcciones IP en toda la red.
+
+Windows Server incluye el servidor DHCP como un rol de servidor de red opcional que puede implementar para administrar y ofrecer concesiones de direcciones IP y otra información a los clientes DHCP. Todos los sistemas operativos cliente basados en Windows incluyen el cliente DHCP (habilitado de forma predeterminada) como parte de TCP/IP.
+
+El Protocolo de configuración dinámica de host (DHCP) es un protocolo cliente-servidor que proporciona automáticamente un host de protocolo de Internet (IP) con su dirección IP y otra información de configuración relacionada, como la máscara de subred y la puerta de enlace de predeterminada. En RFC 2131 y RFC 2132, DHCP se define como un estándar del Grupo de trabajo de ingeniería de Internet (IETF) basado en el protocolo de arranque (BOOTP), con el que DHCP comparte muchos detalles de implementación. DHCP permite a los hosts obtener la información de configuración de TCP/IP necesaria de un servidor DHCP.
+
+## ¿Por qué usar DHCP?
+
+Cada dispositivo de una red basada en TCP/IP debe tener una dirección IP de unidifusión única para acceder a la red y sus recursos. Sin DHCP, las direcciones IP de los equipos nuevos o de los equipos que se mueven de una subred a otra deben configurarse manualmente, mientras que las direcciones IP de los equipos que se quitan de la red deben recuperarse manualmente.
+
+Con DHCP, todo este proceso está automatizado y se administra de forma centralizada. El servidor DHCP mantiene un grupo de direcciones IP y concede una dirección a cualquier cliente habilitado para DHCP cuando se inicia en la red. Dado que las direcciones IP son dinámicas (concedidas) en lugar de estáticas (asignadas permanentemente), las direcciones que ya no están en uso se devuelven automáticamente al grupo para la reasignación.
+
+El administrador de red establece servidores DHCP que mantienen la información de configuración de TCP/IP y proporcionan la configuración de direcciones a los clientes habilitados para DHCP en forma de oferta de concesión. El servidor DHCP almacena la información de configuración en una base de datos que incluye lo siguiente:
+
+- 
+Parámetros de configuración de TCP/IP válidos para todos los clientes de la red.
+
+- 
+Direcciones IP válidas, mantenidas en un grupo para la asignación a clientes, así como direcciones excluidas.
+
+- 
+Direcciones IP reservadas asociadas a determinados clientes DHCP. Esto permite una asignación coherente de una única dirección IP a un único cliente DHCP.
+
+- 
+La duración de la concesión, o el período de tiempo durante el que se puede usar la dirección IP antes de que se requiera una renovación de la concesión.
+
+Cuando un cliente habilitado para DHCP acepta una oferta de concesión, recibe lo siguiente:
+
+- 
+Una dirección IP válida para la subred a la que se conecta.
+
+- 
+Las opciones DHCP solicitadas, que son parámetros adicionales que un servidor DHCP está configurado para asignar a los clientes. Algunos ejemplos de opciones DHCP son Enrutador (puerta de enlace predeterminada), Servidores DNS y Nombre de dominio DNS.
+
+## Ventajas del servidor DHCP
+
+DHCP proporciona las ventajas siguientes.
+
+- 
+
+ Configuración fiable de la dirección IP. DHCP minimiza los errores de configuración causados por la configuración manual de direcciones IP, como errores tipográficos o conflictos de direcciones causados por la asignación de una dirección IP a más de un equipo al mismo tiempo.
+
+- 
+
+ Administración de red reducida. DHCP incluye las características siguientes para reducir la administración de red:
+
+- 
+Configuración de TCP/IP centralizada y automatizada.
+
+- 
+Capacidad de definir configuraciones TCP/IP desde una ubicación central.
+
+- 
+Capacidad de asignar un intervalo completo de valores de configuración de TCP/IP adicionales mediante opciones DHCP.
+
+- 
+Control eficaz de los cambios de dirección IP para los clientes que deben actualizarse con frecuencia, como los de dispositivos portátiles que se mueven a ubicaciones diferentes en una red inalámbrica.
+
+- 
+Reenvío de mensajes DHCP iniciales mediante un agente de retransmisión DHCP, lo que elimina la necesidad de un servidor DHCP en cada subred.
+
+## Características del servidor DHCP
+
+El servidor DHCP en Windows Server incluye las siguientes características:
+
+- 
+
+ Directivas DHCP. Esta característica le permite crear directivas que apliquen opciones y configuración dhcp en función de las características del cliente, como la dirección MAC o la clase de proveedor.
+
+- 
+
+ Registro de auditoría DHCP. Esta característica permite realizar un seguimiento de la actividad del servidor DHCP, incluidas las asignaciones de concesión y las renovaciones.
+
+- 
+
+ Administración del servidor DHCP. Esta característica permite administrar servidores DHCP mediante Windows PowerShell, la consola DHCP o Windows Admin Center.
+
+- 
+
+ Autorización del servidor DHCP. Esta característica permite autorizar servidores DHCP en Active Directory, lo que impide que los servidores no autorizados proporcionen direcciones IP a los clientes.
+
+- 
+
+ Integración del servidor DHCP con DNS. El DNS dinámico actualiza automáticamente los registros DNS cuando se asignan o renuevan concesiones DHCP, lo que garantiza que los clientes puedan resolver los nombres de host a las direcciones IP.
+
+- 
+
+ Integración del servidor DHCP con IPv4 e IPv6. Esta característica permite asignar direcciones IPv4 e IPv6 a los clientes que usan DHCP, lo que proporciona compatibilidad con ambos estándares de direccionamiento IP.
+
+- 
+
+ Conmutación por error dhcp. Esta característica permite que dos servidores DHCP compartan un único ámbito, lo que proporciona redundancia y equilibrio de carga.
+
+- 
+
+ Integración del servidor DHCP con IPAM. Esta característica permite administrar servidores DHCP mediante la administración de direcciones IP (IPAM), lo que proporciona una ubicación centralizada para administrar asignaciones y concesiones de direcciones IP.
+
+## Introducción a DHCP
+
+Para obtener información sobre cómo instalar y configurar DHCP en Windows Server, consulte Inicio rápido: Instalación y configuración del servidor DHCP.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-07-14

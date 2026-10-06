@@ -1,0 +1,112 @@
+URL: https://www.nomoreransom.org/es/index.html
+Leído: 2026-10-05
+
+
+
+ Inicio | The No More Ransom Project
+
+ No more Ransom
+
+ Menu
+
+ Inicio
+
+ Crypto Sheriff
+
+ Preguntas más frecuentes
+
+ Consejos de prevención
+
+ Herramientas de descifrado
+
+ Denuncia el delito
+
+ Quiénes somos
+
+ Sobre el proyecto
+
+ Bahasa Indonesia Dansk Deutsch English Español Français Italiano Latviešu Lietuvių Magyar Malay Nederlands Norsk Papiamentu Polski Português Română Slovenčina Slovenščina Suomi Svenska Türkçe eesti hrvatski Čeština ελληνικά Русский Українська български עברית العربية فارسی தமிழ் ไทย 中文 中文(正體) 日本語 한국어 
+
+¿NECESITAS AYUDA para desbloquear tu vida digital sin pagar el rescate a tus atacantes*?
+
+ SÍ
+ NO
+
+Por el momento, no todos los tipos de ransomware tienen solución. Sigue visitando este Sitio Web para consultar las nuevas nuevas claves y aplicaciones que son añadidas regularmente.
+
+El ransomware es malware capaz de bloquear tu PC y dispositivos móviles o de cifrar tus archivos. Cuando ésto ocurre no puedes recuperar la información sin pagar el rescate. Sin embargo, pagar no te garantiza la solución, así es que ¡No lo hagas!
+
+ Previous
+
+Nuevo descifrador para Jett disponible, por favor pulse aquí.
+Nuevo descifrador para Midnight / Endpoint disponible, por favor pulse aquí.
+Nuevo descifrador para FunkSec disponible, por favor pulse aquí.
+Nuevo descifrador para Phobos / 8base disponible, por favor pulse aquí.
+Nuevo descifrador para DoNex disponible, por favor pulse aquí. 
+
+ Next
+
+BUENAS NOTICIAS
+
+Prevenir es posible. Siguiendo unos simples consejos de ciberseguridad, puedes evitar convertirte en una víctima de ransomware.
+
+MALAS NOTICIAS
+
+Desafortunadamente, en muchos casos, una vez el ransomware ha sido ejecutado en tu dispositivo, poco puedes hacer sin contar con una copia de seguridad o algún software de seguridad.
+
+BUENAS NOTICIAS
+
+En algunas ocasiones es posible ayudar a los usuarios infectados a recuperar sus archivos cifrados, o desbloquear sus dispositivos sin tener que pagar. Hemos creado un repositorio de claves y aplicaciones que pueden descifrar los datos cifrados por distintos tipos de ransomware.
+
+DESCIFRADOS
+
+La batalla para estas amenazas de ransomware ha terminado. Si has sido infectado por alguno de estos tipos de ransomware, pulsa en el enlace de abajo que te llevará a la herramienta de descifrado.
+
+Ver todo
+
+Jett
+Midnight / Endpoint
+FunkSec
+Phobos / 8base
+DoNex
+HomuWitch
+BlackBasta
+Rhysida
+Lockbit 3.0
+Akira
+Ragnar
+Bianlian 
+
+Ransomware Q&A
+
+Se ofrece aquí respuesta a una selección de las preguntas más frecuentes planteadas sobre ransomware y el proyecto No More Ransom.
+
+Leer más
+
+¿Debo pagar el rescate si he sido infectado?
+
+¿Por qué es tan difícil encontrar una solución contra el ransomware?
+
+¿Quiénes son las víctimas del ransomware?
+
+La recomendación general es no pagar el rescate. Enviando tu dinero a los cibercriminales contribuirás a que el ransomware continúe, además no existe garantía de que recibas la clave después del pago.
+
+ Europol
+
+ Politie
+
+Alimentado por 
+
+ Amazon Web Services
+
+ Barracuda
+
+ Exención de responsabilidad del Sitio Web
+
+© 2021 - NO MORE RANSOM
+
+ Ir arriba
+
+Este sitio web utiliza cookies para el correcto funcionamiento y visualización del sitio web por parte del usuario. Para más información, visite nuestra página Exención de responsabilidades del Sitio Web.
+ OK, LO HE LEÍDO
+

@@ -1,0 +1,3458 @@
+URL: https://www.juniper.net/documentation/us/en/software/junos/user-access/topics/topic-map/802-1x-authentication-switching-devices.html
+Leído: 2026-10-05
+
+802.1X Authentication | Junos OS | Juniper Networks
+
+Help us improve your experience.
+
+Let us know what you think. 
+
+Do you have time for a two-minute survey?
+
+ON THIS PAGE
+
+- 
+802.1X for Switches Overview
+
+- 
+802.1X Authentication on Layer 2 Interfaces
+
+- 
+Configuring 802.1X Interface Settings (CLI Procedure)
+
+- 
+Understanding RADIUS-Initiated Changes to an Authorized User
+Session
+
+- 
+Filtering 802.1X Supplicants by Using RADIUS Server Attributes
+
+- 
+Example: Connecting a RADIUS Server for 802.1X to an EX Series
+Switch
+
+- 
+Understanding Dynamic Filters Based on RADIUS Attributes
+
+- 
+Understanding Dynamic VLAN Assignment Using RADIUS Attributes
+
+- 
+Configuring VLAN Groups on EX Series Switches
+
+- 
+Understanding Guest VLANs for 802.1X on Switches
+
+- 
+Example: Configuring 802.1X Authentication Options When the
+RADIUS Server Is Unavailable to an EX Series Switch
+
+- 
+Example: Configuring Fallback Options on EX Series Switches
+for EAP-TTLS Authentication and Odyssey Access Clients
+
+- 
+Monitoring 802.1X Authentication 
+
+- 
+Verifying 802.1X Authentication
+
+- 
+Troubleshooting Authentication of End Devices on EX Series
+Switches
+
+- 
+RADIUS Attributes and Juniper Networks Vendor-Specific Attributes (VSAs) Supported by
+ 802.1X
+
+- 
+Benefits of Using RADIUS Standard Attributes and VSAs
+
+- 
+Radius Attributes and VSA list supported by 802.1X
+
+- 
+802.1X Supported RADIUS Attributes
+
+- 
+Juniper Networks VSAs
+
+# 802.1X Authentication
+
+IEEE 802.1X standard for port-based network access control and protects Ethernet LANs
+ from unauthorized user access. It blocks all traffic
+ from
+ a supplicant (client) at the interface until the supplicant's credentials are presented
+ and matched on the authentication server (a RADIUS server). When the supplicant is
+ authenticated, the switch stops blocking access and opens the interface to the
+ supplicant. Read this topic for more information.
+
+## 802.1X for Switches Overview
+
+- How 802.1X Authentication Works
+
+- 802.1X Features Overview
+
+- 802.1X Authentication on Trunk Ports
+
+- 802.1X Authentication on Layer 3 Interfaces
+
+- 802.1X
+ Support
+ on Junos OS Evolved
+ Software
+
+### How 802.1X Authentication Works
+
+ 802.1X authentication works by using an authenticator port access entity (the
+ switch) to block ingress traffic from a supplicant (end device) at the port until
+ the supplicant's credentials are presented and match on the authentication server (a
+ RADIUS server). When authenticated, the switch stops blocking traffic and opens the
+ port to the supplicant.
+
+The end device is authenticated in single supplicant mode,
+ single-secure supplicant mode, or multiple
+ supplicant mode:
+
+- 
+
+single supplicant—Authenticates only the first end device. All other end
+ devices that connect later to the port are allowed full access without any
+ further authentication. They effectively piggyback on the first end
+ device’s authentication.
+
+- 
+
+single-secure supplicant—Allows only one end device to connect to the port.
+ No other end device is allowed to connect until the first device logs
+ out.
+
+- 
+
+multiple supplicant—Allows multiple end devices to connect to the port. Each
+ end device is authenticated individually.
+
+Network access can be further defined by using VLANs and firewall filters, both of
+ which act as filters to separate and match groups of end devices to the areas of the
+ LAN they require. For example, you can configure VLANs to handle different
+ categories of authentication failures depending upon:
+
+- 
+
+Whether or not the end device is 802.1X-enabled.
+
+- 
+
+Whether or not MAC RADIUS authentication is configured on the switch
+ interfaces to which the hosts are connected.
+
+- 
+
+Whether the RADIUS authentication server becomes unavailable or sends a
+ RADIUS access-reject message. See Configuring RADIUS Server Fail Fallback (CLI Procedure).
+
+### 802.1X Features Overview
+
+The following 802.1X features are supported on Juniper Networks Ethernet
+ Switches:
+
+- 
+
+Guest VLAN—Provides limited access to a LAN, typically only to the Internet,
+ for nonresponsive end devices that are not 802.1X-enabled when MAC RADIUS
+ authentication is not configured on the switch interfaces to which the hosts
+ are connected. Also, a guest VLAN can be used to provide limited access to a
+ LAN for guest users. Typically, the guest VLAN provides access only to the
+ Internet and to other guests’ end devices.
+
+- 
+
+Server-reject VLAN—Provides limited access to a LAN, typically only to the
+ Internet, for responsive end devices that are 802.1X-enabled but that have
+ sent the wrong credentials. If the end device that is authenticated using
+ the server-reject VLAN is an IP phone, voice traffic is not allowed.
+
+- 
+
+Server-fail VLAN—Provides limited access to a LAN, typically only to the
+ Internet, for 802.1X end devices during a RADIUS server timeout.
+
+- 
+
+Dynamic VLAN—Enables an end device, after authentication, to be a member of a
+ VLAN dynamically.
+
+- 
+
+Private VLAN—Enables configuration of 802.1X authentication on interfaces
+ that are members of private VLANs (PVLANs).
+
+- 
+
+Dynamic changes to a user session—Enables the switch administrator to
+ terminate an already authenticated session. This feature is based on support
+ of the RADIUS Disconnect Message defined in RFC 3576.
+
+- 
+
+VoIP VLAN—Supports IP telephones. The implementation of a voice VLAN on an IP
+ telephone is vendor-specific. If the phone is 802.1X-enabled, it is
+ authenticated as any other supplicant is. If the phone is not
+ 802.1X-enabled, but has another 802.1X-compatible device connected to its
+ data port, that device is authenticated, and then VoIP traffic can flow to
+ and from the phone (provided that the interface is configured in single
+ supplicant mode and not in single-secure supplicant mode).
+
+Note: 
+
+Configuring a VoIP VLAN on private VLAN (PVLAN) interfaces is not
+ supported.
+
+- 
+
+RADIUS accounting—Sends accounting information to the RADIUS accounting
+ server. Accounting information is sent to the server whenever a subscriber
+ logs in or logs out and whenever a subscriber activates or deactivates a
+ subscription. 
+
+- 
+
+RADIUS server attributes for 802.1X—The
+ `Juniper-Switching-Filter` is a vendor-specific attribute
+ (VSA) that can be configured on the RADIUS server to further define a
+ supplicant's access during the 802.1X authentication process. Centrally
+ configuring attributes on the authentication server obviates the need to
+ configure these same attributes in the form of firewall filters on every
+ switch in the LAN to which the supplicant might connect to the LAN. The
+ `Juniper-Switching-Filter` is equivalent to the
+ NAS-Filter-Rule referenced in Attribute 92 of
+ RFC4849.
+
+- 
+
+Microsoft Challenge Handshake Authentication Protocol version 2
+ (MS-CHAPv2)—Enables MS-CHAPv2 authentication for 802.1X EAP capable
+ clients.
+
+- 
+
+Micro and Macro Segmentation with GBP using Mist Access Assurance—You can
+ apply microsegmentation and macrosegmentation in a Virtual Extensible LAN
+ (VXLAN) architecture by using group-based policy (GBP). GBP leverages the
+ underlying VXLAN technology to provide location-agnostic endpoint access
+ control. With GBP, you can implement consistent security policies across the
+ enterprise network domains. Thereby you can avoid configuring a large number
+ of firewall filters on all your switches and simplify your network
+ configuration. The network access control (NAC) of the Juniper Mist cloud
+ dynamically assigns GBP tags during a RADIUS transaction. With RADIUS 802.1X
+ authentication, network operators can automatically authenticate and
+ authorize a user or device and let them into the network. Juniper Mist
+ Access Assurance uses user and device identity to determine the role and the
+ network segment that the network assigns to each user. The network uses VLAN
+ or GBP to group the users into network segments. Juniper Mist Access
+ Assurance then applies network policies associated with each segment
+
+We currently support this on EX4100,
+ EX4400,
+ and on 
+ EX4650
+ virtual chassis. 
+
+For more information, see Microsegmentation Using Group-Based Policies.
+
+The following features are supported to authenticate devices that are not
+ 802.1X-enabled:
+
+- 
+
+Static MAC bypass—Provides a bypass mechanism to authenticate devices that
+ are not 802.1X-enabled (such as printers). Static MAC bypass connects these
+ devices to 802.1X-enabled ports, bypassing 802.1X authentication. 
+
+- 
+
+MAC RADIUS authentication—Provides a means to permit hosts that are not
+ 802.1X-enabled to access the LAN. MAC-RADIUS simulates the supplicant
+ functionality of the client device, using the MAC address of the client as
+ username and password.
+
+### 802.1X Authentication on Trunk Ports
+
+Starting in Junos OS Release 18.3R1, you can configure
+ 802.1X authentication on trunk interfaces, which allows the network access device
+ (NAS) to authenticate an access point (AP) or another connected Layer 2 device. An
+ AP or switch connected to the NAS will support multiple VLANs, so must connect to a
+ trunk port. Enabling 802.1X authentication on the trunk interface protects the NAS
+ from a security breach in which an attacker might disconnect the AP and connect a
+ laptop to get free access to network for all the configured VLANs. 
+
+Please note the following caveats when configuring 802.1X authentication on trunk
+ interfaces. 
+
+- 
+
+Only single and single-secure supplicant modes are supported on trunk
+ interfaces.
+
+- 
+
+You must configure 802.1X authentication locally on the trunk interface. If
+ you configure 802.1X authentication globally using the `set protocol
+ dot1x interface all` command, the configuration is not applied
+ to the trunk interface.
+
+- 
+
+Dynamic VLANS are not supported on trunk interfaces.
+
+- 
+
+Guest VLAN and server-reject VLAN are not supported on trunk interfaces.
+
+- 
+
+Server fail fallback for VoIP clients is not supported on trunk interfaces
+ (`server-fail-voip`).
+
+- 
+
+`Server-fail (permit, use-cache, vlan-name), Server-reject (vlan
+ vlan-name)`are not supported for EAP-TLS clients.
+
+- 
+
+Authentication on trunk port is not supported using captive portal.
+
+- 
+
+Authentication on trunk port is not supported on aggregated interfaces.
+
+- 
+
+Configuration of 802.1X authentication on interfaces that are members of
+ private VLANs (PVLANs) is not supported on trunk ports. 
+
+### 802.1X Authentication on Layer 3 Interfaces
+
+Starting in Junos OS Release 20.2R1, you can configure
+ 802.1X authentication on layer 3 interfaces. Please note the following caveats when
+ configuring 802.1X authentication on layer 3 interfaces: 
+
+- 
+
+Only EAP-capable clients are supported.
+
+- 
+
+Only single supplicant mode is supported.
+
+- 
+
+You must configure 802.1X authentication locally on layer 3 interfaces. If
+ you configure 802.1X authentication globally using the `set protocol
+ dot1x interface all` command, the configuration is not applied
+ to layer 3 interfaces.
+
+- 
+
+Support for layer 3 interfaces does not include IRB or sub-interfaces.
+
+- 
+
+Guest VLAN, server-reject VLAN, and server-fail VLAN are not supported. 
+
+- 
+
+Server fail fallback for VoIP clients is not supported
+ (`server-fail-voip`).
+
+- 
+
+Only the following attributes are accepted from the authentication server as
+ part of RADIUS access-accept or COA messages for clients authenticated on
+ layer 3 interfaces: 
+
+- 
+
+User-Name
+
+- 
+
+Session-Timeout
+
+- 
+
+Calling-Station-ID
+
+- 
+
+Acct-Session-ID
+
+- 
+
+NAS-Port-Id
+
+- 
+
+Port-Bounce
+
+### 802.1X
+ Support
+ on Junos OS Evolved
+ Software
+
+Starting
+ in Junos OS Evolved Release 22.3R1, you can configure 802.1X authentication on layer
+ 2 interfaces. Follow caveats apply for 802.1X authentication on layer 2
+ interfaces.
+
+- 
+
+Unsupported features include:
+
+- 
+
+Guest VLAN, server-reject VLAN, and server-fail VLAN
+
+- 
+
+Server fail fallback for VoIP clients (server-fail-voip)
+
+- 
+
+Dynamic VLAN
+
+- 
+
+Authentication on layer 2 interfaces using captive portal and central
+ Web authentication (CWA).
+
+- 
+
+Unsupported attributes from the authentication server of RADIUS access-accept
+ or COA messages for clients authenticated on layer 2 interfaces include:
+
+- 
+
+Ip-Mac-Session-Binding
+
+- 
+
+Juniper-CWA-Redirect
+
+- 
+
+Juniper-Switching-Filter
+
+- 
+
+Filter-Id
+
+- 
+
+Tunnel-Medium-Type
+
+- 
+
+Juniper-VoIP-VLAN
+
+- 
+
+Egress-VLAN-Name
+
+- 
+
+Egress-VLAN-ID
+
+- 
+
+Tunnel-Type
+
+- 
+
+Tunnel-Private-Group-Id
+
+- 
+
+If IRB is in the bridge domain, 802.1x enabled ports do not drop routed
+ traffic for single-secure and multiple supplicant modes, even if the user is
+ not authenticated. 802.1x enabled ports on layer 2 interface drop routed
+ traffic only for single supplicant mode
+ configuration.
+
+### See Also
+
+- 
+Understanding Authentication on Switches
+
+- 
+Understanding 802.1X and VoIP on EX Series Switches
+
+- 
+Understanding LLDP and LLDP-MED on EX Series Switches
+
+- 
+Understanding 802.1X and RADIUS Accounting on Switches
+
+- 
+Understanding Server Fail Fallback and Authentication
+on Switches
+
+## 802.1X Authentication on Layer 2 Interfaces
+
+- Overview
+
+- Configuration
+
+### Overview
+
+The IEEE 802.1X standard for port-based network access control (PNAC) provides a
+ mechanism to authenticate users of devices attached to a LAN port. The 802.1X
+ standard verifies the user's credentials in a local or remote user database. The
+ authentication mechanism allows only users with the correct credentials to access
+ the network. It denies access for all other users, thereby controlling network
+ access. 
+
+The three basic components of a network with 802.1X authentication are:
+
+- 
+
+Authenticator port access entity (PAE): A switch or router port to which a
+ client connects. Authenticator PAEs form the control gate that blocks all
+ traffic to and from the clients until 802.1X authenticates the clients.
+
+- 
+
+Supplicants: Clients that are trying to access the network and need to be
+ authenticated. Supplicants connect to authenticator PAEs.
+
+- 
+
+Authentication server: The back-end database containing information about the
+ users that are allowed to connect to the network. When a supplicant attempts
+ to log in, 802.1X sends the supplicant's credentials to this server for
+ authentication. 
+
+After the authentication server authenticates the supplicant's credentials, the
+ device stops blocking access on the PAE. The device opens the interface to the
+ supplicant and allows it to access the network. You (the network administrator) can
+ configure 802.1X on Layer 2 (L2) interfaces. 
+
+The 802.1X IEEE standard allows you to use any authentication server for client
+ authentication. RADIUS servers are most commonly used because those servers are easy
+ to configure. RADIUS servers also provide the option to define proprietary, or
+ vendor-specific, attributes. The device and the server can exchange these
+ attributes.
+
+#### Benefits
+
+- 
+
+Authenticate users.
+
+- 
+
+Prevent bad actors from accessing your network.
+
+- 
+
+Control network access.
+
+### Configuration
+
+- 
+ Configure the L2 interface. 
+
+For example:
+
+set interfaces et-0/0/0 unit 0 family ethernet-switching interface-mode access
+set interfaces et-0/0/0 unit 0 family ethernet-switching vlan members v10
+set vlans v10 vlan-id 10
+
+- 
+ Enable 802.1X authentication using the `authenticator`
+ statement.
+
+- 
+ Single-supplicant mode:
+
+set protocols dot1x authenticator interface et-0/0/0.0 supplicant single
+
+- 
+ Single-secure-supplicant mode:
+
+set protocols dot1x authenticator interface et-0/0/0.0 supplicant single-secure
+
+- 
+ Multiple-supplicant mode:
+
+set protocols dot1x authenticator interface et-0/0/0.0 supplicant multiple
+
+- 
+ Create the 802.1X profiles and associate the profiles to 802.1X, the RADIUS
+ authentication server, and the RADIUS accounting server. 
+
+For example:
+
+set access profile dot1x-auth-profile authentication-order radius
+set access profile dot1x-auth-profile radius authentication-server address
+set access profile dot1x-auth-profile radius accounting-server address 
+set protocols dot1x authenticator authentication-profile-name dot1x-auth-profile
+set access profile dot1x-accounting authentication-order radius
+set access profile dot1x-accounting accounting order radius
+
+- 
+ Configure the RADIUS authentication server. 
+
+For example:
+
+set access radius-server address port 1812
+set access radius-server address secret secret
+set access radius-server address timeout 3
+set access radius-server address retry 3
+set access radius-server address source-address source-address
+
+- 
+ Verify the configuration using the following commands.
+
+- 
+
+`show vlans`
+
+- 
+
+`show ethernet-switching
+ table`
+
+- 
+
+`show mac-vrf forwarding
+ mac-table`
+
+- 
+
+`show dot1x interface
+ detail`
+
+## Configuring 802.1X Interface Settings (CLI Procedure)
+
+IEEE 802.1X authentication provides network edge security,
+protecting Ethernet LANs from unauthorized user access by blocking
+all traffic to and from a supplicant (client) at the interface until
+the supplicant's credentials are presented and matched on the authentication server (a RADIUS server). When the supplicant
+is authenticated, the switch stops blocking access and opens the interface
+to the supplicant.
+
+Note: 
+
+- 
+You can also specify an 802.1X exclusion list to specify
+supplicants that can bypass authentication and be automatically connected
+to the LAN. See Configuring Static MAC Bypass of 802.1X and MAC
+RADIUS Authentication (CLI Procedure).
+
+- 
+You cannot configure 802.1X user authentication on interfaces
+that have been enabled for Q-in-Q tunneling.
+
+Before you begin, specify the RADIUS server
+or servers to be used as the authentication server. See Specifying RADIUS Server Connections on Switches
+(CLI Procedure).
+
+To configure 802.1X on an interface:
+
+- Configure the supplicant mode as single (authenticates
+the first supplicant), single-secure (authenticates only
+one supplicant), or multiple (authenticates multiple supplicants):
+
+[edit protocols dot1x]
+user@switch# set authenticator interface interface-name supplicant multiple
+
+Note: 
+Multiple supplicant mode is not supported on trunk interfaces.
+
+- Enable reauthentication and specify the reauthentication
+interval:
+
+[edit protocols dot1x]
+user@switch# set authenticator interface interface-name reauthentication interval seconds
+
+- Configure the interface timeout value for the response
+from the supplicant:
+
+[edit protocols dot1x]
+user@switch# set authenticator interface interface-name supplicant-timeout seconds
+
+- Configure the timeout for the interface before it resends
+an authentication request to the RADIUS server:
+
+[edit protocols dot1x]
+user@switch# set authenticator interface interface-name server-timeout seconds
+
+- Configure how long, in seconds, the interface waits before
+retransmitting the initial EAPOL PDUs to the supplicant:
+
+[edit protocols dot1x]
+user@switch# set authenticator interface interface-name transmit-period seconds
+
+- Configure the maximum number of times an EAPOL request
+packet is retransmitted to the supplicant before the authentication
+session times out:
+
+[edit protocols dot1x]
+user@switch# set authenticator interface interface-name maximum-requests number
+
+- Configure the number of times the switch attempts to authenticate the port
+ after an initial failure. The port remains in a wait state during the quiet
+ period after the authentication attempt.
+
+[edit protocols dot1x]
+user@switch# set authenticator interface interface-name retries number
+
+Note: 
+
+If the RADIUS authentication servers become unavailable or inaccessible the
+ server fail fallback is triggered. By default, the `deny` option
+ is configured under `server-fail`, which force fails the
+ supplicant authentication. However, there are other options that you can
+ configure as actions to be taken for end devices awaiting authentication when
+ the server times out.
+
+For more information, see 
+ interface (802.1X)
+
+Note: 
+
+This setting specifies the number of attempts before the switch puts the
+ interface in a HELD state.
+
+### See Also
+
+- 
+Configuring 802.1X Authentication
+(J-Web Procedure)
+
+- 
+Example: Setting Up VoIP with 802.1X and LLDP-MED
+on an EX Series Switch
+
+- 
+Configuring LLDP (CLI Procedure)
+
+- 
+Understanding Authentication on Switches
+
+## Understanding RADIUS-Initiated Changes to an Authorized User
+Session
+
+When using an authentication service that is
+based on a client/server RADIUS model, requests are typically initiated
+by the client and sent to the RADIUS server. There are instances in
+which a request might be initiated by the server and sent to the client
+in order to dynamically modify an authenticated user session already
+in progress. The client that receives and processes the messages is
+the switch, which acts as the network access server, or NAS. The server
+can send the switch a Disconnect message requesting to terminate a
+session, or a Change of Authorization (CoA) message requesting to
+modify the session authorization attributes. 
+
+The switch listens for unsolicited RADIUS requests on UPD port
+3799, and accepts requests only from a trusted source. Authorization
+to send a Disconnect or CoA request is determined based on the source
+address and the corresponding shared secret, which must be configured
+on the switch as well as on the RADIUS server. For more information
+about configuring the source address and shared secret on the switch,
+see Example: Connecting a RADIUS Server for 802.1X to
+an EX Series Switch.
+
+- Disconnect Messages
+
+- Change of Authorization Messages
+
+- CoA Request Port Bounce
+
+- Error-Cause Codes
+
+### Disconnect Messages
+
+The RADIUS server sends a Disconnect-Request message to the
+switch in order to terminate a user session and discard all associated
+session context. The switch responds to a Disconnect-Request packet
+with a Disconnect-ACK message if the request is successful, that is,
+all associated session context is discarded and the user session is
+no longer connected, or with a Disconnect-NAK packet if the request
+fails, that is, the authenticator is unable to disconnect the session
+and discard all associated session context. 
+
+In Disconnect-Request messages, RADIUS attributes are used to
+uniquely identify the switch (NAS) and the user session. The combination
+of NAS identification attributes and session identification attributes
+included in the message must match at least one session for the request
+to be successful; otherwise, the switch responds with a Disconnect-NAK
+message. A Disconnect-Request message can contain only NAS and session
+identification attributes; if any other attributes are included, the
+switch responds with a Disconnect-NAK message.
+
+### Change of Authorization Messages
+
+Change of Authorization (CoA) messages contain information for
+dynamically modifying the authorization attributes for a user session
+to change the authorization level. This occurs as part of a two-step
+authentication process, in which the endpoint is first authenticated
+using MAC RADIUS authentication, and is then profiled based on the
+type of device. The CoA message is used to apply an enforcement policy
+that is appropriate for the device, typically by changing the data
+filters or the VLAN.
+
+The switch responds to a CoA message with a CoA-ACK message
+if the authorization change is successful, or a with CoA-NAK message
+if the change is unsuccessful. If one or more authorization changes
+specified in a CoA-Request message cannot be carried out, the switch
+responds with a CoA-NAK message. 
+
+In CoA-Request messages, RADIUS attributes are used to uniquely
+identify the switch (acting as the NAS) and the user session. The
+combination of NAS identification attributes and session identification
+attributes included in the message must match the identification attributes
+of at least one session for the request to be successful; otherwise,
+the switch responds with a CoA-NAK message.
+
+CoA-Request packets also include the session authorization attributes
+that will be modified if the request is accepted. The supported session
+authorization attributes are listed below. The CoA message can contain
+any or all of these attributes. If any attribute is not included as
+part of the CoA-Request message, the NAS assumes that the value for
+that attribute is to remain unchanged. 
+
+- 
+Filter-ID 
+
+- 
+Tunnel-Private-Group-ID
+
+- 
+Juniper-Switching-Filter
+
+- 
+Juniper-VoIP-VLAN
+
+- 
+Session-Timeout
+
+### CoA Request Port Bounce
+
+When a CoA message is used to change the VLAN for an authenticated
+host, end devices such as printers do not have a mechanism to detect
+the VLAN change, so they do not renew the lease for their DHCP address
+in the new VLAN. Starting
+in Junos OS Release 17.3, the port bounce feature can be used to force
+the end device to initiate DHCP re-negotiation by causing a link flap
+on the authenticated port.
+
+The command to bounce the port is sent from the RADIUS server
+using a Juniper Networks vendor-specific attribute (VSA). The port
+is bounced if the following VSA attribute-value pair is received in
+the CoA message from the RADIUS server: 
+
+- 
+Juniper-AV-Pair = “Port-Bounce” 
+
+To enable the port bounce feature, you must update the Junos
+dictionary file (juniper.dct) on
+the RADIUS server with the Juniper-AV-Pair VSA. Locate the dictionary
+file and add the following text to the file:
+
+ATTRIBUTE Juniper-AV-Pair Juniper-VSA(52, string) r
+
+For more information about adding the VSA, consult the FreeRADIUS
+documentation.
+
+You can disable the feature
+by configuring the `ignore-port-bounce` statement at the
+[`edit protocols dot1x authenticator interface interface-name`] hierachy level. 
+
+### Error-Cause Codes
+
+When a disconnect or CoA operation is unsuccessful, an Error-Cause
+attribute (RADIUS attribute 101) can be included in the response message
+sent by the NAS to the server to provide detail about the cause of
+the problem. If the detected error does not map to one of the supported
+Error-Cause attribute values, the router sends the message without
+an error-cause attribute. See Table 1 for descriptions of error-cause codes that can be included in response
+messages sent from the NAS. 
+
+Table 1: Error-Cause Codes
+(RADIUS Attribute 101)
+
+ | 
+Code
+
+ | 
+Value
+
+ | 
+Description
+
+ | 
+201
+
+ | 
+Residual session context removed
+
+ | 
+Sent in response to a Disconnect-Request message if one or more
+user sessions are no longer active, but residual session context was
+found and successfully removed. This code is sent only within a Disconnect-ACK
+message. 
+
+ | 
+401
+
+ | 
+Unsupported attribute
+
+ | 
+The request contains an attribute that is not supported (for
+example, a third-party attribute). 
+
+ | 
+402
+
+ | 
+Missing attribute
+
+ | 
+A critical attribute (for example, the session identification
+attribute) is missing from a request.
+
+ | 
+403
+
+ | 
+NAS identification mismatch
+
+ | 
+Request contains one or more NAS identification attributes that
+do not match the identity of the NAS receiving the request.
+
+ | 
+404
+
+ | 
+Invalid request
+
+ | 
+Some other aspect of the request is invalid—for example,
+if one or more attributes are not formatted properly. 
+
+ | 
+405
+
+ | 
+Unsupported service
+
+ | 
+The Service-Type attribute included with the request contains
+an invalid or unsupported value. 
+
+ | 
+406
+
+ | 
+Unsupported extension
+
+ | 
+The entity receiving the request (either an NAS or a RADIUS
+proxy) does not support RADIUS-initiated requests.
+
+ | 
+407
+
+ | 
+Invalid attribute value
+
+ | 
+The request contains an attribute with an unsupported value. 
+
+ | 
+501
+
+ | 
+Administratively prohibited
+
+ | 
+The NAS is configured to prohibit honoring of Disconnect-Request
+or CoA-Request messages for the specified session. 
+
+ | 
+503
+
+ | 
+Session context not found
+
+ | 
+The session context identified in the request does not exist
+on the NAS. 
+
+ | 
+504
+
+ | 
+Session context not removable
+
+ | 
+The subscriber identified by attributes in the request is owned
+by a component that is not supported. This code is sent only within
+a Disconnect-NAK message. 
+
+ | 
+506
+
+ | 
+Resources unavailable
+
+ | 
+A request could not be honored because of lack of available
+NAS resources (such as memory). 
+
+ | 
+507
+
+ | 
+Request initiated
+
+ | 
+The CoA-Request message includes a Service-Type attribute with
+a value of Authorize Only. 
+
+ | 
+508
+
+ | 
+Multiple session selection unsupported
+
+ | 
+The session identification attributes included in the request
+match multiple sessions, but the NAS does not support requests that
+apply to multiple sessions. 
+
+## Filtering 802.1X Supplicants by Using RADIUS Server Attributes
+
+There are two ways to configure the a RADIUS server with port firewall filters
+ (Layer 2 firewall filters):
+
+- 
+
+Include one or more filter terms in the Juniper-Switching-Filter
+ attribute. The Juniper-Switching-Filter attribute is a
+ vendor-specific attribute (VSA) listed under attribute ID
+ number 48 in the Juniper dictionary on the RADIUS server.
+ Use this VSA to configure simple filter conditions for
+ 802.1X authenticated users. Nothing needs to be configured
+ on the switch; all of the configuration is on the RADIUS
+ server. 
+
+- 
+
+Configure a local firewall filter on each switch and apply that
+ firewall filter to users authenticated through the RADIUS
+ server. Use this method for more complex filters. The
+ firewall filter must be configured on each switch. 
+
+Note: 
+
+If the firewall filter configuration is modified after
+ users are authenticated using the 802.1X
+ authentication, then the established 802.1X
+ authentication session must be terminated and
+ re-established for the firewall filter configuration
+ changes to take effect.
+
+This topic includes the following tasks:
+
+- Configuring
+ Firewall Filters on the RADIUS Server
+
+- Applying a Locally Configured Firewall Filter from the RADIUS Server
+
+### Configuring
+ Firewall Filters on the RADIUS Server
+
+Starting in Junos OS Evolved Release 22.4R1, you can configure
+ multiple source and destination ports (or port ranges)
+ within a single line without having to repeat the match
+ condition again. This feature enables shorter VSA lengths
+ and also helps reduce the size of radius response packets. 
+
+The switching-filter allows provisioning a list of values for
+ ether type, IP, source tag, source port, and destination
+ port. 
+
+`Juniper-Switching-Filter = match dst-port [ 80 25 443 ]
+ src-port [5060 1025-2000] action allow`
+
+`Juniper-Switching-Filter = match dst-port 500 source-tag
+ [ 100, 200 ] action allow`
+
+`Juniper-Switching-Filter = match src-port 9090 ip-proto [
+ 25 17] action allow`
+
+`Juniper-Switching-Filter = match ether-type [ 3000-4000
+ 8000 ] action allow`
+
+You can configure simple filter conditions by using the
+ Juniper-Switching-Filter attribute in the Juniper dictionary
+ on the RADIUS server. These filters are sent to a switch
+ whenever a new user is authenticated successfully. The
+ filters are created and applied on all EX Series switches
+ that authenticate users through that RADIUS server without
+ the need for you to configure anything on each individual
+ switch. 
+
+Note: 
+
+This procedure describes using FreeRADIUS software to
+ configure the Juniper-Switching-Filter VSA. For
+ specific information about configuring your server,
+ consult the AAA documentation included with your
+ server.
+
+To configure the Juniper-Switching-Filter attribute, enter one or
+ more filter terms by using the CLI for the RADIUS server.
+ Each filter term consists of match conditions with a
+ corresponding action. Enter the filter terms enclosed within
+ quotation marks (" ") by using the following syntax: 
+
+`Juniper-Switching-Filter = “match <destination-mac mac-address> <source-vlan vlan-name> <source-dot1q-tag tag> <destination-ip ip-address> <ip-protocol protocol-id> <source-port port> <destination-port port> action (allow | deny) <loss-priority (low | medium | high)>”`
+
+More than one match condition can be included in a filter term.
+ When multiple conditions are specified in a filter term,
+ they must all be fulfilled for the packet to match the
+ filter term. For example, the following filter term requires
+ a packet to match both the destination IP address and
+ the destination MAC address to meet the term criteria: 
+
+`Juniper-Switching-Filter = “match destination-ip 10.10.10.8 destination-mac 00:00:00:01:02:03 action allow”`
+
+Multiple filter terms should be separated with commas—for
+ example:
+
+`Juniper-Switching-Filter = “match destination-mac 00:00:00:01:02:03 action allow, match destination-port 80 destination-mac 00:aa:bb:cc:dd:ee action allow”`
+
+See Juniper-Switching-Filter VSA Match Conditions and
+ Actions for definitions of match conditions
+ and actions.
+
+Note: 
+
+On EX9200 switches, and in a Junos Fusion Enterprise with
+ EX9200 as the aggregate device, the dynamic firewall
+ filter is strictly applied for all IP packets. If
+ the filter is configured to allow only a specific
+ destination IP address, packets with other IP
+ addresses as the destination IP will be dropped per
+ the filter rules. This includes any IP protocol
+ packets, such as DHCP, IGMP and ARP packets. 
+
+To configure match conditions on the RADIUS server:
+
+- 
+ Verify that the Juniper dictionary is loaded on your
+ RADIUS server and includes the filtering attribute
+ Juniper-Switching-Filter
+ (attribute ID 48):
+
+[root@freeradius]# cat /usr/local/share/freeradius/dictionary.juniper
+
+# dictionary.juniper
+#
+# Version: $Id: dictionary.juniper,v 1.2.6.1 2005/11/30 22:17:25 aland Exp
+$
+# VENDOR Juniper 2636
+BEGIN-VENDOR Juniper
+ATTRIBUTE Juniper-Local-User-Name 1 string
+ATTRIBUTE Juniper-Allow-Commands 2 string
+ATTRIBUTE Juniper-Deny-Commands 3 string
+ATTRIBUTE Juniper-Allow-Configuration 4 string
+ATTRIBUTE Juniper-Deny-Configuration 5 string
+ATTRIBUTE Juniper-Switching-Filter 48 string
+ATTRIBUTE Juniper-VoIP-Vlan 49 string
+ATTRIBUTE Juniper-CWA-Redirect 50 string
+ATTRIBUTE Juniper-AV-Pair 52 string
+<—
+
+- 
+ Enter the match conditions and actions. For
+ example:
+
+- 
+
+To deny authentication based on the 802.1Q tag
+ (here, the 802.1Q tag is
+ 10):
+
+[root@freeradius]# 
+cd /usr/local/etc/raddb
+vi users
+
+For each relevant user, add the
+ Juniper-Switching-Filter
+ attribute:
+
+Juniper-Switching-Filter = "Match Source-dot1q-tag 10 Action deny"
+
+- 
+
+To deny access based on a destination IP
+ address:
+
+[root@freeradius]# cd /usr/local/etc/raddb
+vi users
+
+For each relevant user, add the
+ Juniper-Switching-Filter
+ attribute:
+
+Juniper-Switching-Filter = “Match Destination-ip 192.168.1.0/31 Action deny”
+
+- 
+
+To set the packet loss priority (PLP) to
+ high based on a destination
+ MAC address and the IP protocol:
+
+[root@freeradius]# cd /usr/local/etc/raddb
+vi users
+
+For each relevant user, add the
+ Juniper-Switching-Filter
+ attribute:
+
+Juniper-Switching-Filter = "Match Destination-mac 00:04:0f:fd:ac:fe, Ip-protocol 2, Action loss-priority high"
+
+- 
+ Stop and restart the RADIUS process to activate the
+ configuration.
+
+### Applying a Locally Configured Firewall Filter from the RADIUS Server
+
+You can apply a port firewall filter (Layer 2 firewall filter) to
+ user policies centrally from the RADIUS server. The RADIUS
+ server can then specify the firewall filters that are to be
+ applied to each user that requests authentication, reducing
+ the need to configure the same firewall filter on multiple
+ switches. Use this method when the firewall filter contains
+ a large number of conditions or you want to use different
+ conditions for the same filter on different switches. The
+ firewall filters must be configured on each switch.
+
+For more information about firewall filters, see Firewall Filters for EX Series Switches
+ Overview.
+
+To apply a port firewall filter centrally from the RADIUS
+ server:
+
+Note: 
+
+If port firewall filters are also configured locally for
+ the interface, then the firewall filters configured
+ by using VSAs take precedence if they conflict with
+ the locally configured port firewall filters. If
+ there is no conflict, they are merged.
+
+- Create the firewall filter on the local switch. See
+ Configuring Firewall Filters (CLI
+ Procedure) for more information on
+ configuring a port firewall filter.
+
+- On the RADIUS server, open the
+ users file to display the
+ local user profiles of the end devices to which you
+ want to apply the filter:
+
+[root@freeradius]# 
+cat /usr/local/etc/raddb/usersvi users
+
+- Apply the filter to each user profile by adding the
+ Filter-ID attribute with the filter name as the
+ attribute value:
+
+Filter-Id =filter-name
+
+For example, the user profile below for
+ `supplicant1` includes the
+ Filter-ID attribute with the filter name
+ `filter1`:
+
+[root@freeradius]# cat /usr/local/etc/raddb/users
+
+supplicant1 Auth-Type := EAP, User-Password == "supplicant1"
+ Tunnel-Type = VLAN,
+ Tunnel-Medium-Type = IEEE-802,
+ Tunnel-Private-Group-Id = "1005",
+ Filter-Id = "filter1"
+
+Note: 
+
+Multiple filters are not supported on a single
+ interface. However, you can support multiple
+ filters for multiple users that are connected to
+ the switch on the same interface by configuring a
+ single filter with policies for each of those
+ users.
+
+- Stop and restart the RADIUS process to activate the
+ configuration.
+
+### See Also
+
+- 
+Example: Applying a Firewall Filter to 802.1X-Authenticated
+ Supplicants by Using RADIUS Server Attributes on an EX Series
+ Switch
+
+- Example: Configuring Firewall Filters for Port, VLAN, and Router
+ Traffic on EX Series Switches
+
+## Example: Connecting a RADIUS Server for 802.1X to an EX Series
+Switch
+
+802.1X is the IEEE standard for port-based network
+access control (PNAC). You use 802.1X to control network access. Only
+users and devices providing credentials that have been verified against
+a user database are allowed access to the network. You can use a RADIUS
+server as the user database for 802.1X authentication, as well as
+for MAC RADIUS authentication.
+
+This example describes how to connect a RADIUS server to an
+EX Series switch, and configure it for 802.1X:
+
+- Requirements
+
+- Overview and Topology
+
+- Configuration
+
+- Verification
+
+### Requirements
+
+This example uses the following software and hardware
+components:
+
+- 
+Junos OS Release 9.0 or later for EX Series switches
+
+- 
+One EX Series switch acting as an authenticator port access
+entity (PAE). The ports on the authenticator PAE form a control gate
+that blocks all traffic to and from supplicants until they are authenticated.
+
+- 
+One RADIUS authentication server that supports 802.1X.
+The authentication server acts as the backend database and contains
+credential information for hosts (supplicants) that have permission
+to connect to the network.
+
+Before you connect the server to the switch,
+be sure you have:
+
+- 
+Performed basic bridging and VLAN configuration on the
+switch. See the documentation that describes setting up basic bridging
+and a VLAN for your switch. If you are using a switch that supports
+the Enhanced Layer 2 Software (ELS) configuration style, see Example: Setting Up Basic Bridging and a VLAN for
+an EX Series Switch with ELS Support . For all other switches,
+see Example: Setting Up Basic Bridging and a VLAN for
+an EX Series Switch.
+
+Note: 
+For more about ELS, see Using the Enhanced Layer 2 Software CLI.
+
+- 
+Configured users on the RADIUS authentication server.
+
+### Overview and Topology
+
+The EX Series switch acts as an authenticator PAE. It blocks
+all traffic and acts as a control gate until the supplicant (client)
+is authenticated by the server. All other users and devices are denied
+access.
+
+Figure 1 shows one EX4200 switch
+that is connected to the devices listed in Table 2.
+
+Figure 1: Topology for Configuration
+
+Table 2: Components of the Topology
+
+ | Property
+
+ | Settings
+
+ | 
+Switch hardware
+
+ | 
+EX4200 access switch, 24 Gigabit Ethernet ports: 8 PoE
+ports (ge-0/0/0 through ge-0/0/7) and 16 non-PoE ports (ge-0/0/8 through
+ge-0/0/23)
+
+ | 
+VLAN name
+
+ | 
+default
+
+ | 
+One RADIUS server
+
+ | 
+Backend database with an address 10.0.0.100 connected
+to the switch at port ge-0/0/10
+
+In this example, connect the RADIUS server to access port ge-0/0/10
+on the EX4200 switch. The switch acts as the authenticator and forwards
+credentials from the supplicant to the user database on the RADIUS
+server. You must configure connectivity between the EX4200 and the
+RADIUS server by specifying the address of the server and configuring
+the secret password. This information is configured in an access profile
+on the switch.
+
+Note: 
+For more information about authentication, authorization,
+and accounting (AAA) services, see the Junos OS System Basics Configuration Guide.
+
+### Configuration
+
+#### Procedure
+
+- CLI Quick Configuration
+
+- Step-by-Step Procedure
+
+- Results
+
+CLI Quick Configuration
+
+To quickly connect the RADIUS server to the
+switch, copy the following commands and paste them into the switch
+terminal window: 
+
+[edit]
+set access radius-server 10.0.0.100 secret juniper
+set access radius-server 10.0.0.200 secret juniper
+set access profile profile1 authentication-order radius
+set access profile profile1 radius authentication-server [10.0.0.100 10.0.0.200]
+
+Step-by-Step Procedure
+
+To connect the RADIUS server to the switch: 
+
+- 
+Define the address of the servers, and configure the secret
+password. The secret password on the switch must match the secret
+password on the server:
+
+[edit]
+user@switch# set access radius-server 10.0.0.100 secret juniper
+user@switch# set access radius-server 10.0.0.200 secret juniper
+
+- 
+Configure the authentication order, making radius the first method of authentication:
+
+[edit]
+user@switch# set access profile profile1 authentication-order radius
+
+- 
+Configure a list of server IP addresses to be tried in
+sequential order to authenticate the supplicant:
+
+[edit]
+user@switch# set access profile profile1 radius authentication-server [10.0.0.100 10.0.0.200]
+
+Results
+
+Display the results of the configuration:
+
+user@switch> show configuration access
+radius-server {
+ 10.0.0.100
+ port 1812;
+ secret "$ABC123"; ## SECRET-DATA
+ }
+ }
+ profile profile1{
+ authentication-order radius;
+ radius {
+ authentication-server 10.0.0.100 10.0.0.200;
+ }
+ }
+}
+
+### Verification
+
+To confirm that the configuration is working
+properly, perform these tasks:
+
+#### Verify That the Switch and RADIUS Server Are Properly Connected
+
+- Purpose
+
+- Action
+
+- Meaning
+
+Purpose
+
+Verify that the RADIUS server is connected to the switch
+on the specified port.
+
+Action
+
+Ping the RADIUS server to verify the connection between
+the switch and the server:
+
+user@switch> ping 10.0.0.100
+PING 10.0.0.100 (10.0.0.100): 56 data bytes
+64 bytes from 10.93.15.218: icmp_seq=0 ttl=64 time=9.734 ms
+64 bytes from 10.93.15.218: icmp_seq=1 ttl=64 time=0.228 ms
+
+Meaning
+
+ICMP echo request packets are sent from the switch
+to the target server at 10.0.0.100 to test whether the server is reachable
+across the IP network. ICMP echo responses are being returned from
+the server, verifying that the switch and the server are connected.
+
+### See Also
+
+- 
+Example: Setting Up 802.1X
+for Single-Supplicant or Multiple-Supplicant Configurations on an
+EX Series Switch
+
+- 
+Example: Setting Up 802.1X
+in Conference Rooms to Provide Internet Access to Corporate Visitors
+on an EX Series Switch
+
+- 
+Example: Setting Up VoIP with 802.1X and LLDP-MED
+on an EX Series Switch
+
+- 
+Configuring 802.1X RADIUS Accounting (CLI Procedure)
+
+## Understanding Dynamic Filters Based on RADIUS Attributes
+
+You can use RADIUS server attributes to implement port firewall
+filters on a RADIUS authentication server. These filters can be dynamically
+applied to supplicants that request authentication through that server.
+RADIUS server attributes are clear-text fields encapsulated in Access-Accept
+messages sent from the authentication server to the switch when a
+supplicant connected to the switch is successfully authenticated.
+The switch, acting as the authenticator, uses the information in the
+RADIUS attributes to apply the related filters to the supplicant.
+Dynamic filters can be applied to multiple ports on the same switch,
+or to multiple switches that the use same authentication server, providing
+centralized access control for the network. 
+
+You can define firewall filters directly on the RADIUS server
+by using the Juniper-Switching-Filter attribute, which is a RADIUS
+attribute specific to Juniper Networks, also known as a vendor-specific
+attribute (VSA). VSAs are described in RFC 2138, Remote
+Authentication Dial In User Service (RADIUS). The Juniper-Switching-Filter
+VSA is listed under attribute ID number 48 in the Juniper dictionary
+on the RADIUS server, with the vendor ID set to the Juniper Networks
+ID number 2636. Using this attribute, you define filters on the
+authentication server, which are applied on all switches that authenticate
+supplicants through that server. This method eliminates the need to
+configure the same filters on multiple switches. 
+
+Alternatively, you can apply a port firewall filter to multiple
+ports on the same switch by using the Filter-ID attribute, which is
+RADIUS attribute ID number 11. To use the Filter-ID attribute,
+you must first configure a filter on the switch, and then add the
+filter name to user policies on the RADIUS server as the value of
+the Filter-ID attribute. When a supplicant defined in one of those
+policies is authenticated by the RADIUS server, the filter is applied
+to the switch port that has been authenticated for the supplicant.
+Use this method when the firewall filter has complex conditions, or
+if you want to use different conditions for the same filter on different
+switches. The filter named in the Filter-ID attribute must be configured
+locally on the switch at the [`edit firewall family ethernet-switching
+filter`] hierarchy level. 
+
+VSAs are supported only for 802.1X single supplicant configurations
+and multiple supplicant configurations.
+
+### See Also
+
+- 
+Understanding Authentication on Switches
+
+- 
+Example: Applying a Firewall Filter to 802.1X-Authenticated
+Supplicants by Using RADIUS Server Attributes on an EX Series Switch
+
+- Configuring Firewall Filters
+(CLI Procedure)
+
+- 
+Juniper-Switching-Filter VSA Match Conditions and
+Actions
+
+## Understanding Dynamic VLAN Assignment Using RADIUS Attributes
+
+VLANs can be dynamically assigned by a RADIUS server to supplicants
+requesting 802.1X authentication through that server. You configure
+the VLAN on the RADIUS server using RADIUS server attributes, which
+are clear-text fields encapsulated in messages sent from the authentication
+server to the switch when a supplicant connected to the switch requests
+authentication. The switch, acting as the authenticator, uses the
+information in the RADIUS attributes to assign the VLAN to the supplicant.
+Based on the results of the authentication, a supplicant that began
+authentication in one VLAN might be assigned to another VLAN. 
+
+Successful authentication requires that the VLAN ID or VLAN
+name is configured on the switch acting as 802.1X authenticator, and
+that it matches the VLAN ID or VLAN name sent by the RADIUS server
+during authentication. If neither exists, the end device is not authenticated.
+If a guest VLAN is established, the unauthenticated end device is
+automatically moved to the guest VLAN.
+
+The RADIUS server attributes used for dynamic VLAN assignment
+described in RFC 2868, RADIUS Attributes for Tunnel Protocol
+Support. 
+
+- 
+Tunnel-Type—Defined as RADIUS attribute type 64.
+The value should be set to `VLAN`.
+
+- 
+Tunnel-Medium-Type—Defined as RADIUS attribute type 65.
+The value should be set to `IEEE-802`.
+
+- 
+Tunnel-Private-Group-ID—Defined as RADIUS attribute
+type 81. The value should be set to the VLAN ID or the VLAN name. 
+
+For more information about configuring dynamic VLANs on your
+RADIUS server, see the documentation for your RADIUS server.
+
+### See Also
+
+- 
+Example: Configuring MAC RADIUS Authentication on
+an EX Series Switch
+
+- 
+Example: Setting Up 802.1X
+in Conference Rooms to Provide Internet Access to Corporate Visitors
+on an EX Series Switch
+
+## Configuring VLAN Groups on EX Series Switches
+
+With the VLAN group feature, you can distribute clients across the VLANs. When you enable
+ this feature, you can align a single wireless LAN (WLAN) to a single VLAN or to multiple
+ VLANs. When you configure VLAN group, a client gets assigned to one of the configured
+ VLANs. This feature supports dynamic load balancing of users across VLANs in a VLAN group.
+ This feature follows the round-robin algorithm to assign users to the next available VLAN in
+ a VLAN group.
+
+For dynamic VLAN load balancing, you add the VLAN group name instead of a regular VLAN ID
+ or a VLAN name in the `Tunnel-Private-Group-ID` attribute (defined in RFC
+ 2868 as RADIUS attribute type 81). Subsequently, you send this information in the RADIUS
+ response when a supplicant requests 802.1X authentication through the RADIUS server. When
+ the switch receives the VLAN group name, the switch assigns the endpoint to one of the VLANs
+ in that group using the round-robin algorithm. The VLAN group enables allocating a VLAN from
+ a preconfigured list, thus reducing the need for administrators to load balance the
+ network.
+
+When you configure a VLAN group, note that:
+
+- 
+
+You can configure a maximum of 4096 VLAN groups.
+
+- 
+
+You must create a VLAN before allocating it to clients. Any VLAN that does not exist on
+ the switch is ignored during allocation.
+
+- 
+
+A VLAN name cannot be the same as the VLAN group name.
+
+- 
+
+A VoIP VLAN should not be part of vlan-group. A VoIP VLAN, if present, will be ignored. 
+
+- 
+
+When you delete a VLAN, all the 802.1X authenticated sessions associated with that VLAN
+ are terminated.
+
+- 
+
+You can delete a VLAN group without causing any disruption for the clients that have
+ already been allocated to VLANs in that VLAN group.
+
+- 
+
+You can remove a VLAN from a VLAN group without causing any disruption to the clients
+ that have already been allocated to that VLAN. However, a client may face disruption
+ if:
+
+- 
+
+ The client session expires. 
+
+- 
+
+A reauthentication or a change of role is performed using change of authorization
+ (CoA) request.
+
+To configure VLAN groups on EX Series switches:
+
+- 
+ Configure `vlans vlan-groups vlan_group_name`. Use
+ the following command:
+
+[edit]
+user@switch# set vlans vlan-groups vlan_group_name vlan-id-list vlan-id-list
+
+[edit]
+user@switch# set vlans vlan-groups group1 vlan-id-list [500 600 700-750]
+
+- 
+ Commit the configuration and exit configuration mode.
+
+[edit]
+user@switch# commit
+
+- 
+ To verify results of the configuration on a switch:
+
+[edit]
+user@switch> show vlans vlan-groups
+
+user@switch> show vlans vlan-groups
+
+Vlan Group Name: Last vlan used: Associated Vlan Ids:
+group1 0
+ 500, 600, 700-750
+
+### See Also
+
+- No link title
+
+- No link title
+
+## Understanding Guest VLANs for 802.1X on Switches
+
+Guest VLANs can be configured on switches that are using
+802.1X authentication to provide limited access—typically only
+to the Internet—for corporate guests. Guest VLAN is used as
+a fallback when:
+
+- 
+The supplicant is not 802.1X-enabled and does not respond
+to EAP messages.
+
+- 
+MAC RADIUS authentication has not been configured on the
+switch interfaces to which the supplicant is connected.
+
+- 
+Captive portal has not been configured on the switch interfaces
+to which the supplicant is connected.
+
+A guest VLAN is not used for supplicants that send incorrect
+credentials. Those supplicants are directed to the server-reject VLAN
+instead.
+
+For end devices that are not 802.1X-enabled, a guest VLAN can
+allow limited access to a server from which the non-802.1X-enabled
+end device can download the supplicant software and attempt authentication
+again.
+
+### See Also
+
+- 
+Example: Setting Up 802.1X
+in Conference Rooms to Provide Internet Access to Corporate Visitors
+on an EX Series Switch
+
+- 
+Understanding Authentication on Switches
+
+## Example: Configuring 802.1X Authentication Options When the
+RADIUS Server Is Unavailable to an EX Series Switch
+
+Server fail fallback enables you to specify
+how 802.1X supplicants connected to the switch are supported if the
+RADIUS authentication server becomes unavailable.
+
+You use 802.1X to control network access. Only users and devices
+(supplicants) providing credentials that have been verified against
+a user database are allowed access to the network. You use a RADIUS
+server as the user database.
+
+This example describes how to configure an interface to move
+a supplicant to a VLAN in the event of a RADIUS server timeout:
+
+- Requirements
+
+- Overview and Topology
+
+- Configuration
+
+- Verification
+
+### Requirements
+
+This example uses the following software and hardware
+components:
+
+Note: 
+This example also applies to QFX5100 switches.
+
+- 
+Junos OS Release 9.3 or later for EX Series switches
+
+- 
+One EX Series switch acting as an authenticator port access
+entity (PAE). The ports on the authenticator PAE form a control gate
+that blocks all traffic to and from supplicants until they are authenticated.
+
+- 
+One RADIUS authentication server that supports 802.1X.
+The authentication server acts as the backend database and contains
+credential information for hosts (supplicants) that have permission
+to connect to the network.
+
+Before you connect the server to the switch,
+be sure you have:
+
+- 
+Performed basic bridging and VLAN configuration on the
+switch. See the documentation that describes setting up basic bridging
+and a VLAN for your switch. If you are using a switch that supports
+the Enhanced Layer 2 Software (ELS) configuration style, see Example: Setting Up Basic Bridging and a VLAN for
+an EX Series Switch with ELS Support or Example: Setting Up Basic Bridging and a VLAN on
+Switches. For all other switches, seeExample: Setting Up Basic Bridging and a VLAN for
+an EX Series Switch.
+
+Note: 
+For more about ELS, see Using the Enhanced Layer 2 Software CLI.
+
+- 
+Set up a connection between the switch and the RADIUS
+server. See Example: Connecting a RADIUS Server for 802.1X to
+an EX Series Switch.
+
+- 
+Configured users on the authentication server.
+
+### Overview and Topology
+
+A RADIUS server timeout occurs if no authentication RADIUS servers
+are reachable when a supplicant logs in and attempts to access the
+LAN. Using server fail fallback, you configure alternative options
+for supplicants attempting LAN access. You can configure the switch
+to accept or deny access to supplicants or to maintain the access
+already granted to supplicants before the RADIUS server timeout. Additionally,
+you can configure the switch to move supplicants to a specific VLAN
+if a RADIUS timeout occurs.
+
+ Figure 2 shows
+the topology used for this example. The RADIUS server is connected
+to the EX4200 switch on access port ge-0/0/10. The switch
+acts as the authenticator port access entity (PAE) and forwards credentials
+from the supplicant to the user database on the RADIUS server. The
+switch blocks all traffic and acts as a control gate until the supplicant
+is authenticated by the authentication server. A supplicant is connected
+to the switch through interface ge-0/0/1.
+
+Note: 
+This figure also applies to QFX5100 switches.
+
+Figure 2: Topology for Configuring
+802.1X Options
+
+ Table 3 describes the components in this topology.
+
+Table 3: Components of the
+Topology
+
+ | Property
+
+ | Settings
+
+ | 
+Switch hardware
+
+ | 
+EX4200 access switch, 24 Gigabit Ethernet ports: 16 non-PoE
+ports and 8 PoE ports. 
+
+ | 
+VLAN names
+
+ | 
+default VLAN
+
+ vlan-sf VLAN
+
+ | 
+Supplicant
+
+ | 
+Supplicant attempting access on interface ge-0/0/1 
+
+ | 
+One RADIUS server
+
+ | 
+Backend database with an address of 10.0.0.100 connected to the switch at port ge-0/0/10 
+
+In this example, configure interface ge-0/0/1 to move a supplicant
+attempting access to the LAN during a RADIUS timeout to another VLAN.
+A RADIUS timeout prevents the normal exchange of EAP messages that
+carry information from the RADIUS server to the switch and permit
+the authentication of a supplicant. The default VLAN is configured
+on interface ge-0/0/1. When a RADIUS timeout occurs, supplicants on
+the interface will be moved from the default VLAN to the VLAN named
+vlan-sf. 
+
+#### Topology
+
+### Configuration
+
+#### Procedure
+
+- CLI Quick Configuration
+
+- Step-by-Step Procedure
+
+- Results
+
+CLI Quick Configuration
+
+To quickly configure server fail fallback
+on the switch, copy the following commands and paste them into the
+switch terminal window: 
+
+[edit protocols dot1x authenticator]
+set interface ge-0/0/1 server-fail vlan-name vlan-sf
+
+Step-by-Step Procedure
+
+To configure an interface to divert supplicants to a
+specific VLAN when a RADIUS timeout occurs (here, the VLAN is vlan-sf): 
+
+- 
+Define the VLAN to which supplicants are diverted:
+
+[edit protocols dot1x authenticator]
+user@switch# set interface ge-0/0/1 server-fail vlan-name vlan-sf 
+
+Results
+
+Display the results of the configuration:
+
+user@switch> show configuration 
+ interfaces {
+ ge-0/0/1 {
+ unit 0 {
+ family ethernet-switching {
+ vlan {
+ members default;
+ }
+ }
+ }
+ }
+ protocols {
+ dot1x {
+ authenticator {
+ interface {
+ ge-0/0/1.0 {
+ server-fail vlan-name vlan-sf;
+ }
+ }
+ }
+ }
+ }
+}
+
+### Verification
+
+To confirm that the configuration is working
+properly, perform these tasks:
+
+#### Verifying That the Supplicants Are Moved to an Alternative
+VLAN During a RADIUS Timeout
+
+- Purpose
+
+- Action
+
+- Meaning
+
+Purpose
+
+Verify that the interface moves supplicants to an alternative
+VLAN during a RADIUS timeout.
+
+Note: 
+On switches running Junos OS for EX Series with support
+for ELS, the output for the `show vlans` command will contain
+additional information. If your switch runs software that supports
+ELS, see show vlans.
+For ELS details, see Using the Enhanced Layer 2 Software CLI
+
+Action
+
+Display the VLANs configured on the switch; the interface ge-0/0/1.0 is a member of the default VLAN:
+
+user@switch> show vlans 
+Name Tag Interfaces
+default 
+ ge-0/0/0.0, ge-0/0/1.0*, ge-0/0/5.0*, ge-0/0/10.0,
+ ge-0/0/12.0*, ge-0/0/14.0*, ge-0/0/15.0, ge-0/0/20.0
+v2 77 
+ None
+vlan—sf 50 
+ None
+mgmt 
+ me0.0*
+
+Display 802.1X protocol information on the switch to
+view supplicants that are authenticated on interface `ge-0/0/1.0`:
+
+user@switch> show dot1x interface brief 
+802.1X Information:
+Interface Role State MAC address User
+ge-0/0/1.0 Authenticator Authenticated 00:00:00:00:00:01 abc 
+ge-0/0/10.0 Authenticator Initialize 
+ge-0/0/14.0 Authenticator Connecting 
+ge-0/0/15.0 Authenticator Initialize 
+ge-0/0/20.0 Authenticator Initialize 
+
+A RADIUS server timeout occurs. Display the Ethernet
+switching table to show that the supplicant with the MAC address 00:00:00:00:00:01 previously accessing the LAN through the default VLAN is now being learned on the VLAN named vlan-sf:
+
+user@switch> show ethernet-switching table 
+Ethernet-switching table: 3 entries, 1 learned
+ VLAN MAC address Type Age Interfaces
+ v1 * Flood - All-members
+ vlan—sf 00:00:00:00:00:01 Learn 1:07 ge-0/0/1.0
+ default * Flood - All-members
+
+Display 802.1X protocol information to show that interface ge-0/0/1.0 is connecting and will open LAN access to supplicants:
+
+user@switch> show dot1x interface brief 
+
+802.1X Information:
+Interface Role State MAC address User
+ge-0/0/1.0 Authenticator Connecting 
+ge-0/0/10.0 Authenticator Initialize 
+ge-0/0/14.0 Authenticator Connecting 
+ge-0/0/15.0 Authenticator Initialize 
+ge-0/0/20.0 Authenticator Initialize 
+
+Meaning
+
+The `show vlans` command displays interface ge-0/0/1.0 as a member of the default VLAN. The `show dot1x interface brief` command shows that a supplicant
+(abc) is authenticated on interface ge-0/0/1.0 and
+has the MAC address 00:00:00:00:00:01. A RADIUS server timeout
+occurs, and the authentication server cannot be reached by the switch.
+The show-ethernet-switching table command shows that MAC
+address 00:00:00:00:00:01 is learned on VLAN vlan-sf. The supplicant has been moved from the default VLAN to
+the vlan-sf VLAN. The supplicant is then connected to the
+LAN through the VLAN named vlan-sf.
+
+### See Also
+
+- 
+Example: Setting Up 802.1X
+for Single-Supplicant or Multiple-Supplicant Configurations on an
+EX Series Switch
+
+- 
+Configuring RADIUS Server Fail Fallback (CLI Procedure)
+
+- 
+Configuring 802.1X RADIUS Accounting (CLI Procedure)
+
+- 
+Understanding Server Fail Fallback and Authentication
+on Switches
+
+## Example: Configuring Fallback Options on EX Series Switches
+for EAP-TTLS Authentication and Odyssey Access Clients
+
+For 802.1X user authentication, EX Series switches
+support RADIUS authentication servers that are using Extensible Authentication
+Protocol–Tunneled TLS (EAP-TTLS) to authenticate Odyssey Access
+Client (OAC) supplicants. OAC networking software runs on endpoint
+computers (desktop, laptop, or notepad computers and supported wireless
+devices) and provides secure access to both wired and wireless networks. 
+
+This example describes how to configure an 802.1X-enabled interface
+on the switch to provide fallback support for OAC users who have entered
+incorrect login credentials:
+
+- Requirements
+
+- Overview and Topology
+
+- Configuration
+
+- Verification
+
+### Requirements
+
+This example uses the following software and hardware
+components:
+
+Note: 
+This example also applies to QFX5100 switches.
+
+- 
+Junos OS Release 11.2 or later for EX Series switches
+
+- 
+One EX Series switch acting as an authenticator port access
+entity (PAE). The ports on the authenticator PAE form a control gate
+that blocks all traffic to and from supplicants until they are authenticated.
+
+- 
+One RADIUS authentication server that supports 802.1X.
+The authentication server acts as the backend database and contains
+credential information for hosts (supplicants) that have permission
+to connect to the network.
+
+- 
+One OAC end device acting as a supplicant. 
+
+Before you begin configuring the fallback
+option, ensure that you have:
+
+- 
+Set up a connection between the switch and the RADIUS
+server. See Example: Connecting a RADIUS Server for 802.1X to
+an EX Series Switch.
+
+- 
+Configured EAP-TTLS on the server. See your RADIUS server
+documentation.
+
+- 
+Configured users on the RADIUS server. See your RADIUS
+server documentation.
+
+### Overview and Topology
+
+OAC is networking software that runs on endpoint computers (desktop,
+laptop, or notepad) and supported wireless devices. OAC provides full
+support for EAP, which is required for secure wireless LAN access.
+
+In this topology, OAC is deployed with an 802.1X-enabled switch
+and a RADIUS server. The switch functions as an enforcement point
+in the network security architecture. This topology:
+
+- 
+Ensures that only authorized users can connect.
+
+- 
+Maintains privacy of login credentials.
+
+- 
+Maintains data privacy over the wireless link.
+
+This example includes the configuration of a server-reject VLAN
+on the switch, which can be used to prevent accidental lockout for
+users who have entered incorrect login credentials. These users can
+be given limited LAN access.
+
+However, this fallback configuration is complicated by the fact
+that the OAC supplicant and RADIUS server are using EAP-TTLS. EAP-TTLS
+creates a secure encrypted tunnel between the server and the end device
+to complete the authentication process. When the user enters incorrect
+login credentials, the RADIUS server sends EAP failure messages directly
+to the client through this tunnel. The EAP failure message causes
+the client to restart the authentication procedure, so that the switch’s
+802.1X authentication process tears down the session that was established
+with the switch using the server-reject VLAN. You can enable the remedial
+connection to continue by configuring:
+
+- 
+eapol-block—Enable the EAPoL block timer
+on the 802.1X interface that is configured to belong to the server-reject
+VLAN. The block timer causes the authentication port access entity
+to ignore EAP start messages from the client, attempting to restart
+the authentication procedure. 
+
+Note: 
+The EAPoL block timer is triggered only after the configured
+number of allowed reattempts (using the retries option) on
+the 802.1X interface have been exhausted. You can configure retries to specify the number of times the switch attempts to authenticate
+the port after an initial failure. The default is three retries.
+
+- 
+block-interval—Configure the amount of
+time that you want the EAPoL block timer to continue to ignore EAP
+start messages. If you do not configure the block interval, the EAPoL
+block timer defaults to 120 seconds.
+
+When the 802.1X interface ignores the EAP start messages from
+the client, the switch allows the existing remedial session that was
+established through the server-reject VLAN to remain open. 
+
+These configuration options apply to single, single-secure,
+and multiple supplicant authentication modes. In this example, the
+802.1X interface is configured in single supplicant mode. 
+
+Figure 3 shows an EX Series
+switch connecting an OAC end device to a RADIUS server, and indicates
+the protocols being used to connect the network entities.
+
+Note: 
+This figure also applies to QFX5100 switches.
+
+Figure 3: EX Series Switch Connecting
+OAC to RADIUS Server Using EAP-TTLS Authentication
+
+#### Topology
+
+ Table 4 describes
+the components in this OAC deployment:.
+
+Table 4: Components of the OAC Deployment
+
+ | Property
+
+ | Settings
+
+ | 
+Switch hardware
+
+ | 
+EX Series switch
+
+ | 
+VLANs
+
+ | 
+default 
+
+ server-reject-vlan: VLAN name is remedial and VLAN ID is 700
+
+ | 
+802.1X interface
+
+ | 
+ge-0/0/8
+
+ | 
+OAC supplicant
+
+ | 
+EAP-TTLS 
+
+ | 
+One RADIUS authentication server
+
+ | 
+EAP-TTLS 
+
+### Configuration
+
+- Procedure
+
+- Results
+
+#### Procedure
+
+- CLI Quick Configuration
+
+- Step-by-Step Procedure
+
+CLI Quick Configuration
+
+To quickly configure the fallback options
+for EAP-TTLS and OAC supplicants, copy the following commands and
+paste them into the switch terminal window:
+
+[edit]
+set vlans remedial vlan-id 700
+set protocols dot1x authenticator interface ge-0/0/8 retries 4
+set protocols dot1x authenticator interface ge-0/0/8 server-reject-vlan remedial
+set protocols dot1x authenticator interface ge-0/0/8 server-reject-vlan eapol-block
+set protocols dot1x authenticator interface ge-0/0/8 server-reject-vlan block-interval 130 
+
+Step-by-Step Procedure
+
+To configure the fallback options for EAP-TTLS and OAC
+supplicants:
+
+Tip: 
+In this example, the switch has only one server-reject
+VLAN. Therefore, the configuration specifies eapol-block and block-interval directly after server-reject-vlan. However,
+if you have configured multiple VLANs on the switch, you must include
+the VLAN name or VLAN ID directly after server-reject-vlan to indicate which VLAN is being modified.
+
+- 
+Configure a VLAN that will function as the server-reject
+VLAN to provide limited LAN access for users who have entered incorrect
+login credentials:
+
+[edit]
+user@switch# set vlans remedial vlan-id 700
+
+- 
+Configure the number of times for the client to be prompted
+for username and password before an incorrect login is directed to
+the server-reject VLAN:
+
+[edit protocols dot1x authenticator interface ge-0/0/8]
+user@switch# set retries 4
+
+- 
+Configure the 802.1X authenticator interface to use the
+server-reject VLAN as a fallback for incorrect logins: 
+
+[edit protocols dot1x authenticator interface ge-0/0/8]
+user@switch# set server-reject-vlan remedial
+
+- 
+Enable the EAPoL block timer on the 802.1X interface that
+is configured to belong to the server-reject VLAN. 
+
+[edit protocols dot1x authenticator interface ge-0/0/8]
+user@switch# set server-reject-vlan eapol-block
+
+- 
+Configure the amount of time for the EAPoL block to remain
+in effect:
+
+[edit protocols dot1x authenticator interface ge-0/0/8]
+user@switch# set server-reject-vlan block-interval 130
+
+#### Results
+
+Check the results of the configuration:
+
+user@switch> show configuration 
+ protocols {
+ dot1x {
+ authenticator {
+ interface {
+ ge-0/0/8.0 {
+ supplicant single;
+ retries 4;
+ server-reject-vlan remedial block-interval 130 eapol-block;
+ }
+
+### Verification
+
+To confirm that the configuration and the fallback
+options are working correctly, perform this task:
+
+#### Verifying the Configuration of the 802.1X Interface
+
+- Purpose
+
+- Action
+
+- Meaning
+
+Purpose
+
+Verify that the 802.1X interface is configured with
+the desired options.
+
+Action
+
+user@switch> show dot1x interface ge-0/0/8.0 detail 
+ge-0/0/8.0
+ Role: Authenticator
+ Administrative state: Auto
+ Supplicant mode: Single
+ Number of retries: 4
+ Quiet period: 60 seconds
+ Transmit period: 30 seconds
+ Mac Radius: Disabled
+ Mac Radius Restrict: Disabled
+ Reauthentication: Enabled
+ Configured Reauthentication interval: 120 seconds
+ Supplicant timeout: 30 seconds
+ Server timeout: 30 seconds
+ Maximum EAPoL requests: 2
+ Guest VLAN member: guest
+ Number of connected supplicants: 1
+ Supplicant: tem, 2A:92:E6:F2:00:00
+ Operational state: Authenticated
+ Backend Authentication state: Idle
+ Authentication method: Radius
+ Authenticated VLAN: remedial 
+ Session Reauth interval: 120 seconds
+ Reauthentication due in 68 seconds 
+
+Meaning
+
+The `show dot1x ge-0/0/8 detail` command output
+shows that the ge-0/0/8 interface is in the Authenticated state and that it is using the remedial VLAN.
+
+### See Also
+
+- 
+Understanding Authentication on Switches
+
+## Monitoring 802.1X Authentication 
+
+- Purpose
+
+- Action
+
+- Meaning
+
+### Purpose
+
+Note: 
+This topic applies only to the J-Web Application package.
+
+Use the monitoring feature to display details of authenticated
+users and users that failed authentication. 
+
+### Action
+
+To display authentication details in the J-Web interface,
+select Monitoring > Security > 802.1X.
+
+To display authentication details in the CLI, enter the following
+commands:
+
+- 
+`show dot1x interface detail | display xml`
+
+- 
+ `show dot1x interface detail <interface> | display xml` 
+
+- 
+`show dot1x auth-failed-users ` 
+
+### Meaning
+
+The details displayed include: 
+
+- 
+A list of authenticated users.
+
+- 
+The number of connected users.
+
+- 
+A list of users that failed authentication.
+
+You can also specify an interface for which the details must
+be displayed.
+
+### See Also
+
+- 
+Configuring 802.1X Authentication
+(J-Web Procedure)
+
+- 
+Example: Setting Up 802.1X
+for Single-Supplicant or Multiple-Supplicant Configurations on an
+EX Series Switch
+
+## Verifying 802.1X Authentication
+
+- Purpose
+
+- Action
+
+- Meaning
+
+### Purpose
+
+Verify that supplicants are being authenticated on
+an interface on a switch with the interface configured for 802.1X
+authentication, and display the method of authentication being used.
+
+### Action
+
+Display detailed information about an interface configured
+for 802.1X (here, the interface is ge-0/0/16):
+
+user@switch> show dot1x interface ge-0/0/16.0 detail
+ge-0/0/16.0
+ Role: Authenticator
+ Administrative state: Auto
+ Supplicant mode: Single
+ Number of retries: 3
+ Quiet period: 60 seconds
+ Transmit period: 30 seconds
+ Mac Radius: Enabled
+ Mac Radius Strict: Disabled
+ Reauthentication: Enabled Reauthentication interval: 40 seconds
+ Supplicant timeout: 30 seconds
+ Server timeout: 30 seconds
+ Maximum EAPOL requests: 1
+ Guest VLAN member: <not configured>
+ Number of connected supplicants: 1
+ Supplicant: user5, 00:30:48:8C:66:BD
+ Operational state: Authenticated
+ Authentication method: Radius
+ Authenticated VLAN: v200
+ Reauthentication due in 17 seconds
+
+### Meaning
+
+The sample output from the `show dot1x interface
+detail` command shows that the `Number of connected
+supplicants` is 1. The supplicant that was authenticated
+and is now connected to the LAN is known as user5 on the
+RADIUS server and has the MAC address 00:30:48:8C:66:BD.
+The supplicant was authenticated by means of the 802.1X authentication
+method called RADIUS authentication, as indicated by `Radius` in the output. When RADIUS authentication
+is used, the supplicant is configured on the RADIUS server, the RADIUS
+server communicates this to the switch, and the switch opens LAN access
+on the interface to which the supplicant is connected. The sample
+output also shows that the supplicant is connected to VLAN v200.
+
+Other 802.1X authentication methods supported on EX Series switches
+in addition to RADIUS authentication are:
+
+- 
+Guest VLAN—A nonresponsive host is granted Guest-VLAN
+access.
+
+- 
+MAC Radius—A nonresponsive host is authenticated
+based on its MAC address. The MAC address is configured as permitted
+on the RADIUS server, the RADIUS server notifies the switch that the
+MAC address is a permitted address, and the switch grants LAN access
+to the nonresponsive host on the interface to which it is connected.
+
+- 
+Server-fail deny—If the RADIUS servers time out,
+all supplicants are denied access to the LAN, preventing traffic from
+the supplicant from traversing through the interface. This is the
+default.
+
+- 
+Server-fail permit—When the RADIUS server is unavailable,
+a supplicant is still permitted access to the LAN as if the supplicant
+were successfully authenticated by the RADIUS server.
+
+- 
+Server-fail use-cache—If the RADIUS servers time
+out during reauthentication, previously authenticated supplicants
+are granted LAN access, but new supplicants are denied LAN access.
+
+- 
+Server-fail VLAN—A supplicant is configured to be
+moved to a specified VLAN if the RADIUS server is unavailable to reauthenticate
+the supplicant. (The VLAN must already exist on the switch.)
+
+### See Also
+
+- 
+Configuring 802.1X Authentication
+(J-Web Procedure)
+
+- 
+Configuring MAC RADIUS Authentication (CLI Procedure)
+
+- 
+Configuring RADIUS Server Fail Fallback (CLI Procedure)
+
+## Troubleshooting Authentication of End Devices on EX Series
+Switches
+
+- Problem
+
+- Cause
+
+- Solution
+
+### Problem
+
+#### Description
+
+End devices configured using static MAC
+addresses lose connection to the switch after the clear dot1x interface
+command is run to clear all learned MAC addresses.
+
+Before clearing MAC addresses:
+
+user@switch# run show ethernet-switching table
+Ethernet-switching table: 3 entries, 1 learned, 0 persistent entries
+ VLAN MAC address Type Age Interfaces
+ vlan100 * Flood - All-members
+ default * Flood - All-members
+ default 00:a0:d4:00:03:00 Learn 0 ge-3/0/16.0
+
+user@switch> show dot1x authentication-bypassed-users
+MAC address Interface VLAN
+00:a0:d4:00:03:00 ge-3/0/16.0 configured/default
+
+To clear MAC addresses:
+
+user@switch> clear dot1x interface 
+
+After clearing MAC addresses:
+
+user@switch> show ethernet-switching table
+Ethernet-switching table: 2 entries, 0 learned, 0 persistent entries
+ VLAN MAC address Type Age Interfaces
+ vlan100 * Flood - All-members
+ default * Flood - All-members
+
+user@switch> show dot1x authentication-bypassed-users
+
+Note that there are no end devices on the authentication bypass
+list.
+
+### Cause
+
+Static MAC addresses are treated the same as other learned
+MAC addresses on an interface. When the clear dot1x interface command
+is run, it clears all learned MAC addresses from the interface, including
+the static MAC bypass list (also known as the exclusion list).
+
+### Solution
+
+If you run the clear dot1x interfaces command for
+an interface that has static MAC addresses configured for authentication
+bypass, re-add the static MAC addresses to the static MAC bypass list. 
+
+### See Also
+
+- clear dot1x
+
+- 
+Understanding Authentication on Switches
+
+## RADIUS Attributes and Juniper Networks Vendor-Specific Attributes (VSAs) Supported by
+ 802.1X
+
+Authenticator (Network Access Server), supplicant (client), and the authentication
+ server are all involved in 802.1X authentication (RADIUS-server). The RADIUS
+ protocol is used as a request/response mechanism for communication between the NAS
+ and Radius-server. There are zero or more Type Length Values (TLVs/Attributes) in
+ both requests and responses.
+
+Each applicant's access can be restricted by using a standard set of defined features
+ and vendor-specific attributes enabled by 802.1X. (client). Certain attributes may
+ be utilised more than once in order to support longer values because the Radius
+ Class attribute has a maximum size of 253 bytes. 
+
+## Benefits of Using RADIUS Standard Attributes and VSAs
+
+To connect with an external RADIUS server for subscriber authentication,
+ authorization, and accounting, RADIUS standard attributes are required.
+
+VSAs enable the implementation of numerous valuable features that are necessary for
+ subscriber management and service support, extending the RADIUS server's capability
+ beyond what is provided by public standard attributes. 
+
+## Radius Attributes and VSA list supported by 802.1X
+
+Table 5 lists the RADIUS
+ Attributes and VSAs supported by 802.1X, and the defining RFC for each attribute.
+
+Table 5: Radius Attributes and VSA list supported by 802.1X
+
+ | Type
+
+ | Attribute
+
+ | Definition
+
+ | 
+
+1
+
+ | User-Name 
+
+ | 
+
+RFC 2865
+
+ | 
+
+6
+
+ | Service-Type
+
+ | 
+
+RFC 2865
+
+ | 
+
+11
+
+ | Filter-Id
+
+ | 
+
+RFC 2865
+
+ | 
+
+24
+
+ | State
+
+ | 
+
+RFC 2865
+
+ | 
+
+25
+
+ | Class
+
+ | 
+
+RFC 2865
+
+ | 
+
+26
+
+ | Vendor-Specific
+
+ | 
+
+RFC 2865
+
+ | 
+
+27
+
+ | Session-Timeout
+
+ | 
+
+RFC 2865
+
+ | 
+
+56
+
+ | Egress-VLANID
+
+ | 
+
+RFC 4675
+
+ | 
+
+57
+
+ | Egress-VLAN-Name
+
+ | 
+
+RFC 4675
+
+ | 
+
+61
+
+ | NAS-Port-Type
+
+ | 
+
+RFC 2865
+
+ | 
+
+64
+
+ | Tunnel-Type
+
+ | 
+
+RFC 2868
+
+ | 
+
+65
+
+ | Tunnel-Medium-Type
+
+ | 
+
+RFC 2868
+
+ | 
+
+81
+
+ | Tunnel-Private-Group-ID
+
+ | 
+
+RFC 2868
+
+ | 
+
+85
+
+ | Acct-Interim-Interval
+
+ | 
+
+RFC 2869
+
+ | 
+
+102
+
+ | EAP-Key-Name
+
+ | 
+
+RFC 4072
+
+Table 6lists the Vendor IDs and
+ Juniper VSAs. 
+
+Table 6: Vendor IDs and Juniper VSAs
+
+ | Vendor ID
+
+ | Number
+
+ | Juniper VSAs
+
+ | Microsoft VSAs
+
+ | Cisco VSA
+
+ | 2636
+
+ | 48
+
+ | Juniper-Switching-Filter
+
+ | 
+
+ | 
+
+ | 49
+
+ | Juniper-VoIP-Vlan
+
+ | 50
+
+ | Juniper-CWA-Redirect-URL
+
+ | 52
+
+ | Juniper-AV-Pair =
+Port-Bounce
+
+ | 
+
+Juniper-AV-Pair = Juniper Ip-Mac-Session-Binding
+
+ | 
+
+Juniper-AV-Pair = No-Mac-Binding-Reauth
+
+ | 
+
+Juniper-AV-Pair = Supplicant-Mode-Single
+
+ | 
+
+Juniper-AV-Pair = Supplicant-Mode-Single-Secure
+
+ | 
+
+Juniper-AV-Pair = Retain-Mac-Aged-Session
+
+ | 53
+
+ | 
+
+Juniper-Event-Type
+
+ | 
+
+ | 
+
+ | 54
+
+ | Juniper-Sub-Event-Type
+
+ | 
+
+ | 
+
+ | 55
+
+ | Juniper-Generic-Message
+
+ | 
+
+ | 
+
+ | 311
+
+ | 16
+
+ | 
+
+ | MS-MPPE-Send-Key
+
+ | 
+
+ | 17
+
+ | MS-MPPE-Recv-Key
+
+ | 9
+
+ | 1
+
+ | 
+
+ | 
+
+ | 
+
+Cisco-AVPair = 
+
+ "subscriber:command=bounce-host-port"
+
+ | 
+
+Cisco-AVPair = "subscriber:command=reauthenticate" 
+
+ | 
+
+Cisco-AVPair = 
+
+ "subscriber:reauthenticate-type=rerun"
+
+ | "subscriber:reauthenticate-type=last" 
+
+ | "url-redirect" 
+
+## 802.1X Supported RADIUS Attributes
+
+User-Name:
+
+The name of the user who has to be verified is indicated by this attribute. If
+ available, Access-Request packets must be used to send this attribute. The RADIUS
+ type for this attribute is 1.
+
+Filter-Id:
+
+On the RADIUS server,
+ user policies can be subject to a firewall filter. The RADIUS server can then be
+ utilised to specify the firewall filters to be applied to each user who submits an
+ authentication request. Each switch needs to be configured with firewall
+ filters.
+
+You must set up firewall filter on the local switch in order to apply
+ filter centrally from the RADIUS server.
+ [root@freeradius]#
+ cd /usr/local/pool/raddb
+ vi users
+
+Add the filter for each relevant user. 
+
+`Filter-Id
+ = Filter1`
+
+To activate the configuration, restart
+ the RADIUS server now. 
+Note: VSAs take precedence over filters if port firewall filters
+ are also locally specified for the interface. VSAs and local port firewall filters
+ are integrated if they do not clash. Moreover, more than one filter cannot be
+ implemented on a single interface. But, by establishing a single filter with
+ policies for each of those users, you can support multiple filters for numerous
+ users who are connected to the switch on the same interface.
+
+State:
+
+Between the device and the RADIUS server, state information can be
+ preserved with the use of the String attribute. The RADIUS type for this attribute
+ is 24. 
+
+Egress-VLANID:
+
+A permitted IEEE 802 Egress VLANID for
+ this port is represented by the Egress-VLANID attribute, which also specifies
+ whether the VLANID is permitted for tagged or untagged frames in addition to VLANID.
+ The Egress-VLANID attribute is defined in In RFC 4675.
+
+Egress-VLANID
+ attributes from the Access-Request, Access-Accept, or CoA-Request packets may
+ include multiple values. No Access-Challenge, Access-Reject, Disconnect-Request,
+ Disconnect-ACK, Disconnect-NAK, CoA-ACK, or CoA-NAK may include this characteristic.
+ Every attribute adds the provided VLAN to the port's list of permitted egress VLANs.
+
+If the frames on VLAN are tagged (0x31) or untagged (0x32), the Tag
+ Indication field, which is one octet in length states it. The VLANID is 12 bits in
+ length and contains the VLAN VID value.
+
+For
+ Egress-VLAN-ID:
+
+0x31 = tagged
+0x32 = untagged
+
+For example, the following RADIUS profile includes one
+ tagged and one untagged
+ VLAN:
+
+001094001177 Cleartext-Password := "001094001177"
+Tunnel-Type = VLAN,
+Tunnel-Medium-Type = IEEE-802,
+Egress-VLANID += 0x3100033, 
+Egress-VLANID += 0x3200034,
+
+Egress-VLAN-Name:
+
+Egress-VLAN-Name
+ represents a permitted VLAN for this port. Similar to the Egress-VLANID attribute,
+ however instead of using the VLAN-ID, which is defined or known, the VLAN name is
+ used to identify the VLAN within the system. RFC 4675 contains a definition for the
+ Egress-VLAN-Name attribute.
+
+The VLAN name is the second part of the two-part
+ Egress-VLAN-Name attribute, which also specifies whether frames on the VLAN for this
+ port should be displayed in tagged or untagged format. 
+
+For Egress-VLAN-Name:
+ 1 = tagged and 2 = untagged 
+
+The example below shows that VLAN 1vlan-2 is tagged,
+ while VLAN 2vlan-3 is not.
+
+001094001144 Cleartext-Password := "001094001144"
+Tunnel-Type = VLAN,
+Tunnel-Medium-Type = IEEE-802,
+Egress-VLAN-Name += 1vlan-2, 
+Egress-VLAN-Name += 2vlan-3,
+
+Tunnel-Type:
+
+This
+ attribute specifies either the tunnelling protocol currently in use or the
+ tunnelling protocol that will be used (in the case of a tunnel initiator) (in the
+ case of a tunnel terminator). RFC 2868 specifies the Tunnel-Type attribute. The
+ RADIUS type for this attribute is 64
+
+Tunnel-Private-Group-Id:
+
+The
+ VLAN ID or NAME for the session is displayed by the Tunnel-Medium-Type attribute.
+ The device verifies if the string it receives is a VLAN name or an ID after getting
+ a value supplied for the Tunnel-Private-Group-ID attribute from the radius and
+ checks to see if the device is setup with a VLAN.
+
+If a VLAN has been
+ configured, the client port is added to that VLAN. Otherwise, due to a failure in
+ the VLAN validation, the client won't be permitted and will be maintained in a held
+ status.
+
+The RADIUS type for this attribute is 81, as per RFC
+ 2868.
+
+[root@freeradius]# cat /usr/local/etc/raddb/users
+supplicant1 Auth-Type := EAP, User-Password == "supplicant1"
+Tunnel-Type = VLAN,
+Tunnel-Medium-Type = IEEE-802,
+Tunnel-Private-Group-Id = "1005",
+
+ Acct-Interim-Interval:
+
+The value of the Acct-Interim-Interval attribute
+ represents the time interval in seconds between each transmittal of an interim
+ update for a particular session. The number of seconds that have passed since the
+ last accounting update message is the value of this attribute.
+
+A minimum value
+ may also be set by an administrator locally on a RADIUS client, however this value
+ always takes precedence over any Acct-Interim-Interval values detected in an
+ Access-Accept packet. The RADIUS type for this attribute is 85.
+
+## Juniper Networks VSAs
+
+Juniper-Switching-Filter:
+
+The Juniper-Switching-Filter attribute
+ in the Juniper dictionary on the RADIUS server allows you to specify straightforward
+ filter criteria. After that, whenever a new user is successfully authorised, these
+ filters are delivered to a switch.
+
+Switches that use RADIUS server for user
+ authentication automatically construct and apply the filters without requiring any
+ switch-specific configuration. Enter one or more match conditions, actions, and user
+ associations in the RADIUS server to configure the Juniper-Switching-Filter
+ property.
+
+For longer switching-filters, use multiple instances of the
+ Juniper-switching-filter attribute with a maximum limit of 20 match conditions and a
+ maximum total size of 4000 characters. The maximum length of any radius attribute is
+ 253 characters, so each line of the "Juniper-switching-filter" attribute should also
+ be less than 253 characters.
+
+ spirent123 Auth-Type := EAP, User-Password := "spirent123"
+ Juniper-Switching-Filter = "match src-tag dst-port [ 80 25 443 ] src-port [5060 1025-2000] action allow ",
+ Juniper-Switching-Filter += "match src-port 500 dst-port 600 src-tag [ 100, 200 ] action allow ",
+ Juniper-Switching-Filter += "match ip-proto src-port 9090 ip-proto [ 25 17] action allow ",
+ Juniper-Switching-Filter += "match src-port 100-120 200-220 300-320 src-tag ip-proto 26 18 action allow ",
+ Juniper-Switching-Filter += "match ether-type [ 3000-4000 8000 ] ip-proto 240 action allow "
+
+The
+ following filter match conditions are
+ supported:
+
+· destination-mac / dst-mac
+· destination-port / dst-port
+· destination-ip / dst
+· ip-protocol / ip-proto
+· source-port / src-port
+· source-dot1q-tag / src-tag
+· ether-type
+The following filter actions are supported: 
+- Allow
+· Deny
+· GBP
+· Trap to CPU
+· Loss-Priority
+To
+ configure match conditions on the RADIUS server: 
+i) Verify that the Juniper
+ dictionary is loaded on your RADIUS server and includes the filtering attribute
+ Juniper-Switching-Filter, attribute ID
+ 48:
+
+[root@freeradius]# cat /usr/local/share/freeradius/dictionary.juniper
+# dictionary.juniper
+#
+$
+# VENDOR Juniper 2636
+BEGIN-VENDOR Juniper
+ATTRIBUTE Juniper-Local-User-Name 1 string
+ATTRIBUTE Juniper-Allow-Commands 2 string
+ATTRIBUTE Juniper-Deny-Commands 3 string
+ATTRIBUTE Juniper-Allow-Configuration 4 string
+ATTRIBUTE Juniper-Deny-Configuration 5 string
+ATTRIBUTE Juniper-Switching-Filter 48 string
+ATTRIBUTE Juniper-VoIP-Vlan 49 string
+ATTRIBUTE Juniper-CWA-Redirect 50 string
+ATTRIBUTE Juniper-AV-Pair 52 string
+END-VENDOR Juniper
+
+ii)
+ Enter the match conditions and actions. 
+
+[root@freeradius]#
+cd /usr/local/etc/raddb
+vi users
+
+For each relevant user, add the Juniper-Switching-Filter
+ attribute. To deny or allow access based on the destination MAC,
+ use
+
+Juniper-Switching-Filter = "Match Destination mac 00:00:00:01:02:03 Action allow",
+
+ or
+
+Juniper-Switching-Filter = "Match Destination-mac 00:00:00:01:02:03 Action deny",
+
+To
+ deny or allow access based on the destination IP
+ address:
+
+Juniper-Switching-Filter = "match destination-ip 192.168.1.0/31 action deny"
+
+ or
+
+Juniper-Switching-Filter = "match destination-ip 192.168.1.0/31 action allow"
+
+To
+ send multiple filters with different matches and
+ actions:
+
+spirent123 Auth-Type := EAP, User-Password := "spirent123"
+ Juniper-Switching-Filter += "Match Ip-protocol 1 Destination-port 53 Action allow,",
+ Juniper-Switching-Filter += "Match ip-proto [ 17, 25 ] dst-port 53 Action allow,",
+ Juniper-Switching-Filter += "Match Ip-protocol 2 src-port 67 Action allow,",
+ Juniper-Switching-Filter += "match ether-type [ 3000-4000 8000] action deny,",
+ Juniper-Switching-Filter += "Match destination-port 23 Action allow,",
+ Juniper-Switching-Filter += "Match Ip-protocol 6 Destination-port 80 Action trap,",
+
+ or
+
+Juniper-Switching-Filter = "Match Ip-protocol 6 Destination-port 53 Action allow , Match Ip-protocol [ 17 25] Destination-port 53 Action allow , Match Ether-type [2054-2070] Action deny, Match Ip-protocol 6 Destination-port 443 Action trap"
+
+To
+ set the packet loss priority (PLP) to high based on a destination MAC address and
+ the IP
+ protocol:
+
+Juniper-Switching-Filter = "match destination-mac 00:04:0f:fd:ac:fe, ip-protocol 2, action loss-priority high"
+iii)
+ For the configuration to take effect, stop and restart the RADIUS process.
+
+Juniper-VoIP-Vlan:
+
+The VOIP vlan is retrieved from the radius
+ server using the VSA Juniper-VoIP-Vlan in an access-accept message or COA request
+ message. This attribute is number
+ 49.
+
+ Juniper-VoIP-Vlan = "voip_vlan"
+
+VoIP allows you to
+ connect IP phones to the switch and set up IEEE 802.1X authentication for IP phones
+ that are 802.1X-compatible.
+
+Ethernet LANs are secured against illegal user
+ access thanks to the 802.1X authentication. A protocol known as VoIP is used to
+ transmit voice over packet-switched networks. A network connection, as opposed to an
+ analog phone line, is used by VoIP to transmit voice calls. When VoIP is used with
+ 802.1X, the RADIUS server verifies the phone's identity while Link Layer Discovery
+ Protocol-Media Endpoint Discovery (LLDP-MED) gives the phone the class-of-service
+ (CoS) parameters. 
+
+ Juniper-CWA-Redirect:
+
+With the
+ Juniper-CWA-Redirect VSA, which is attribute number 50 in the Juniper RADIUS
+ dictionary, the redirect URL can be centrally configured on the AAA server. The
+ dynamic firewall filter and URL are both delivered by the AAA server to the switch
+ in the same RADIUS Access-Accept message. As a backup authentication mechanism,
+ central Web authentication (CWA) redirects the host's web browser to a central Web
+ authentication server. The user can enter a username and password on the CWA
+ server's web interface. The user is authenticated and given access to the network if
+ the CWA server accepts their credentials. 
+
+After a host fails MAC RADIUS
+ authentication, central Web authentication is used. The switch, acting as the
+ authenticator, receives a RADIUS Access-Accept message from the AAA server that
+ contains a dynamic firewall filter and a redirect URL for central Web
+ authentication.
+
+For the central Web authentication procedure to be activated,
+ both the redirect URL and the dynamic firewall filter need to be present. To use the
+ Juniper-Switching-Filter VSA for central Web authentication, you must configure the
+ filter terms directly on the AAA server. The filter must include a term to match the
+ destination IP address of the CWA server with the action allow.
+
+For
+ example:
+
+ 001122334455 Auth-Type := EAP, Cleartext-Password :="001122334455" Session-Timeout = "300",
+ Juniper-CWA-Redirect-URL = "https://10.10.10.10",
+ Juniper-Switching-Filter = "Match Destination-ip 10.10.10.10 Action allow, Match ip-protocol 17 Action allow, Match Destination-mac 00:01:02:33:44:55 Action deny"
+
+Note: 
+
+For the redirect URL, the switch does not resolve DNS queries. To enable the CWA
+ server's destination IP address, you must configure the Juniper-Switching-Filter
+ property. 
+
+Juniper-AV-Pair:
+
+The Juniper-AV-Pair attribute is a Juniper
+ Networks vendor-specific attribute (VSA). In order to provide numerous important
+ features required for subscriber management and service support, it is used to
+ enhance the capabilities of the RADIUS server beyond that offered by the public
+ standard attributes. 
+
+ i) Port-Bounce: 
+
+ With the CoA bounce host
+ port command, a session is ended and the port is bounced (initiates a link down
+ event followed by a link up event). The request is sent by the radius server in a
+ typical CoA-Request message with the VSA listed below:
+
+ Juniper-AV-Pair = "Port-Bounce".
+
+This command requires
+ one or more of the session identification attributes listed in the "Session
+ Identification" section because it is session-oriented. The device sends a CoA-NAK
+ message with the error-code attribute "Session Context Not Found" if the session
+ cannot be found.
+
+The device shuts the hosting port for 4 seconds, enables it
+ again (port bounce), and then returns a CoA-ACK if the session has been located.
+
+ ii) Ip-Mac-Session-Binding:
+
+This is used to stop the
+ authentication session for that device from being terminated when a device's MAC
+ address ages out and needs to be re-learned. We receive this attribute-value from a
+ VSA Juniper AV Pair on an access-accept or COA request message.
+
+Configure the
+ RADIUS server with both of the following attribute-value pairs in order to maintain
+ the authentication session based on IP-MAC address bindings.
+
+ Juniper-AV-Pair = "IP-Mac-Session-Binding
+ Juniper-AV-Pair = "No-Mac-Binding-Reauth"
+
+ iii)
+ No-Mac-Binding-reauth:
+
+This is used to block client reauthentication
+ and stop the authentication session from being terminated when a device's MAC
+ address becomes outdated. This property value gets sent to us by a VSA Juniper AV
+ Pair on an access-accept or COA request message.
+
+ Juniper-AV-Pair = "No-Mac-Binding-Reauth"
+ Detailed information is provided in the document: 
+ Retain the Authentication Session Using IP-MAC Bindings 
+
+ iv)
+ Supplicant-Mode-Single:
+
+The device switches from the current set mode to
+ single in response to receiving this attribute-value from a VSA Juniper-AV-Pair on an
+ access-accept or COA request message.
+
+ Juniper-AV-Pair = "Supplicant-Mode-Single"
+
+ v)
+ Supplicant-Mode-Single-Secure:
+
+The device switches from its current
+ set mode to single-secure in response to receiving this attribute-value from a VSA
+ Juniper-AV-Pair on an access-accept or COA request message.
+
+ Juniper-AV-Pair = "Supplicant-Mode-Single-Secure"
+
+ vi) Retain-Mac-Aged-Session:
+
+If this attribute-value is received from a
+ VSA Juniper-AV-Pair on an access-accept message for an 802.11X client, the client stays
+ active even if the mac has aged out, and the mac is re-learned.
+
+ Juniper-AV-Pair = "Retain-Mac-Aged-Session"
+
+ MS-MPPE-Send-Key & MS-MPPE-Recv-Key:
+
+These are the MACSEC CAK
+ generation keys together with the EAP key name that are utilised in dynamic CAK
+ scenarios. 
+ Cisco-AVPair:
+
+Cisco Systems, IANA private enterprise number 9,
+ uses a single VSA, Cisco-AVPair (26-1). Based on the values it has, this VSA transmits
+ various pieces of information. In some subscriber access networks with a BNG connected
+ to a RADIUS server and a Cisco BroadHop application that serves as the Policy Control
+ and Charging Rules Function (PCRF) server for provisioning services using RADIUS change
+ of authorization (CoA) messages, you can use this VSA in RADIUS messages to activate and
+ deactivate services.
+When the BNG delivers RADIUS messages, you cannot change any of
+ the properties in the accounting, CoA, or authentication answers. 
+
+i)
+ Cisco-AVPair = "subscriber:command=bounce-host-port"
+
+A session is
+ ended and the port is bounced via the CoA bounce host port command (initiates a link
+ down event followed by a link up event). The request is sent by the AAA server in a
+ typical CoA-Request message with the VSA listed below.
+
+ Cisco:Avpair=“subscriber:command=bounce-host-port”
+
+This
+ command requires one or more of the session identification attributes listed in the
+ "Session Identification" section because it is session-oriented. The device sends a
+ CoA-NAK message with the error-code attribute "Session Context Not Found" if the
+ session cannot be found. The device shuts the hosting port for 4 seconds, enables it
+ again (port bounce), and then returns a CoA-ACK if the session has been located.
+
+ ii) Cisco-AVPair Reauthenticate command
+
+To initiate session
+ authentication, the AAA server sends a standard CoA-Request message containing the
+ following
+ VSAs:
+
+ Cisco:Avpair=“subscriber:command=reauthenticate”
+ Cisco:Avpair=“subscriber:reauthenticate-type=<last | rerun>”
+
+`reauthenticate-type`
+ defines whether the CoA reauthentication request uses the authentication method that
+ last succeeded on the session or whether the authentication process is completely
+ rerun.
+
+`"subscriber:command=reauthenticate"` must be present to
+ cause a reauthentication. The default action is to repeat the previous successful
+ authentication method used for the session if "subscriber:reauthenticate-type" is
+ not given. If the method successfully reauthenticates, all previous authorization
+ data is swapped out for the newly reauthenticated authorization data.
+
+Only
+ when "subscriber:command=reauthenticate" is also present is
+ "subscriber:reauthenticate-type" valid. The VSA is disregarded if it is contained in
+ another CoA command. 
+
+### Related Documentation
+
+- 
+RADIUS Server Configuration for Authentication
+
+- 
+802.1X and RADIUS Accounting
+
+- 
+MAC RADIUS Authentication
+
+- 
+Example: Setting Up 802.1X for Single-Supplicant or Multiple-Supplicant
+ Configurations on an EX Series Switch
+
+- 
+Example: Setting Up 802.1X in Conference Rooms to Provide Internet Access to
+ Corporate Visitors on an EX Series Switch
+
+## Change History Table
+
+Feature support is determined by the platform and release you are using. Use Feature Explorer to determine if a feature is supported on your platform.
+
+Release
+
+Description
+
+20.2R1
+
+Starting in Junos OS Release 20.2R1, you can configure
+802.1X authentication on layer 3 interfaces
+
+18.4R1
+
+Starting in Junos OS Release 18.3R1, you can configure
+802.1X authentication on trunk interfaces, which allows the network
+access device (NAS) to authenticate an access point (AP) or another
+connected Layer 2 device. 
+
+17.3R1
+
+Starting
+in Junos OS Release 17.3, the port bounce feature can be used to force
+the end device to initiate DHCP re-negotiation by causing a link flap
+on the authenticated port.

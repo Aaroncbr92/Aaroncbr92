@@ -1,0 +1,770 @@
+URL: https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/deploy/rodc/install-a-windows-server-2012-active-directory-read-only-domain-controller--rodc---level-200-
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Instalar un controlador de dominio de solo lectura (RODC) de Windows Server 2012 Active Directory (nivel 200)
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+En este artículo se explica cómo crear una cuenta de RODC preconfigurada y, después, cómo conectar un servidor a esa cuenta durante la instalación del RODC. En este artículo también se explica cómo instalar un RODC sin una instalación preconfigurada.
+
+## Flujo de trabajo de preconfiguración del RODC
+
+Una instalación de controlador de dominio preconfigurado de solo lectura (RODC) se realiza en dos fases distintas:
+
+- 
+Preconfigurar una cuenta de equipo no ocupada
+
+- 
+Conectar un RODC a esa cuenta durante la promoción
+
+El diagrama siguiente ilustra el proceso de preconfiguración del controlador de dominio de solo lectura de los Servicios de dominio de Active Directory, en el que se crea una cuenta de equipo de RODC vacía en el dominio usando el Centro de administración de Active Directory (Dsac.exe).
+
+## 
+ Preconfigurar un RODC en Windows PowerShell
+
+ | ADDSDeployment Cmdlet
+
+ | Argumentos (se requieren argumentos negrita . Los argumentos en cursiva se pueden especificar mediante Windows PowerShell o el Asistente para configuración de AD DS).
+
+ | Add-addsreadonlydomaincontrolleraccount
+
+ | -SkipPreChecks
+
+ -DomainControllerAccountName
+
+ -DomainName
+
+ -SiteName
+
+ -AllowPasswordReplicationAccountName
+
+ -Credential
+
+ -DelegatedAdministratorAccountName
+
+ -DenyPasswordReplicationAccountName
+
+ -NoGlobalCatalog
+
+ -InstallDNS
+
+-ReplicationSourceDC
+
+Note
+
+El argumento -credential solo es necesario si aún no ha iniciado sesión como miembro del grupo Administradores de dominio.
+
+## Flujo de trabajo de conexión del RODC
+
+El diagrama siguiente ilustra el proceso de configuración de Active Directory Domain Services, en el que ya has instalado el rol AD DS, has preconfigurado la cuenta de RODC y has iniciado Promover este servidor a controlador de dominio usando el Administrador del servidor para crear un nuevo RODC en un dominio existente y conectarlo a la cuenta de equipo preconfigurada.
+
+## 
+ Asociar un RODC en Windows PowerShell
+
+ | ADDSDeployment Cmdlet
+
+ | Argumentos (se requieren argumentos negrita . Los argumentos en cursiva se pueden especificar mediante Windows PowerShell o el Asistente para configuración de AD DS).
+
+ | Install-AddsDomaincontroller
+
+ | -SkipPreChecks
+
+ -DomainName
+
+ -SafeModeAdministratorPassword
+
+ -ApplicationPartitionsToReplicate
+
+ -CreateDNSDelegation
+
+ -Credential
+
+-CriticalReplicationOnly
+
+ -DatabasePath
+
+ -DNSDelegationCredential
+
+ -InstallationMediaPath
+
+ -LogPath
+
+-Norebootoncompletion
+
+ -ReplicationSourceDC
+
+ -SystemKey
+
+ -SYSVOLPath
+
+ -UseExistingAccount
+
+Note
+
+El argumento -credential solo es necesario si aún no ha iniciado sesión como miembro del grupo Administradores de dominio.
+
+## Staging
+
+Para realizar la operación de almacenamiento provisional de una cuenta de equipo del controlador de dominio de solo lectura, abra el Centro de administración de Active Directory (Dsac.exe). Seleccione el nombre del dominio en el panel de navegación. Haga doble clic en Controladores de dominio en la lista de administración. Seleccione Crear previamente una cuenta de controlador de dominio de solo lectura en el panel de tareas.
+
+Para más información sobre el Centro de administración de Active Directory, consulte Administración avanzada de AD DS con el Centro de administración de Active Directory (Nivel 200) y revise Centro de administración de Active Directory: Introducción.
+
+Si ya tiene experiencia en la creación de controladores de dominio de solo lectura, descubrirá que el asistente para instalación tiene la misma interfaz gráfica que se ve cuando se usa el antiguo complemento Usuarios y equipos de Active Directory de Windows Server 2008, y usa el mismo código, que incluye exportar la configuración en el formato de archivo desatendido que usa el obsoleto dcpromo.
+
+Windows Server 2012 incorpora un nuevo cmdlet ADDSDeployment para el almacenamiento provisional de cuentas de equipo de RODC, pero el asistente no usa el cmdlet para esta operación. Las secciones siguientes muestran el cmdlet y los argumentos equivalentes para que la información asociada a cada uno sea más fácil de comprender.
+
+El vínculo Crear previamente una cuenta de controlador de dominio de solo lectura en el panel de tareas del Centro de administración de Active Directory equivale al cmdlet del módulo ADDSDeployment de Windows PowerShell:
+
+`Add-addsreadonlydomaincontrolleraccount
+
+`
+
+### Welcome
+
+El cuadro de diálogo Asistente para la instalación de Active Directory Domain Services tiene una opción llamada Usar la instalación en modo avanzado. Seleccione esta opción y seleccione Siguiente para mostrar las opciones de directiva de replicación de contraseñas. Desactiva esta opción para usar los valores predeterminados de las opciones de directiva de replicación de contraseñas (este punto se trata más adelante en esta sección).
+
+### Credenciales de red
+
+La opción nombre de dominio del cuadro de diálogo Credenciales de red muestra el dominio destinado al Centro de administración de Active Directory de forma predeterminada. De forma predeterminada se usan las credenciales actuales. Si no incluyen pertenencia al grupo Administradores de dominio, seleccione Credenciales alternativas y seleccione Establecer para proporcionar al asistente un nombre de usuario y una contraseña que sea miembro de administradores de dominio.
+
+El argumento equivalente en el módulo ADDSDeployment de Windows PowerShell es:
+
+`-credential <pscredential>
+`
+
+Recuerde que el sistema de almacenamiento provisional es un puerto directo desde Windows Server 2008 R2 y no proporciona la nueva funcionalidad Adprep. Si tiene previsto implementar cuentas de RODC preconfiguradas, primero tiene que implementar un RODC sin preconfigurar en ese dominio para que la operación rodcprep automática funcione, o bien ejecutar primero adprep.exe /rodcprep de forma manual.
+
+De lo contrario, se producirá un error. No podrá instalar un controlador de dominio de solo lectura en este dominio porque todavía no se ha ejecutado adprep /rodcprep.
+
+### Especifique el nombre del equipo
+
+En el cuadro de diálogo Especifique el nombre del equipo tendrá que especificar el Nombre de equipo con una sola etiqueta de un controlador de dominio que no existe. El controlador de dominio que configurará y asociará más adelante a esta cuenta tendrá el mismo nombre, o bien la operación de promoción no detectará la cuenta preconfigurada.
+
+El argumento equivalente en el módulo ADDSDeployment de Windows PowerShell es:
+
+`-domaincontrolleraccountname <string>
+`
+
+### Seleccione un sitio
+
+El cuadro de diálogo Seleccione un sitio muestra una lista de los sitios de Active Directory para el bosque actual. Para que el controlador de dominio preconfigurado de solo lectura funcione, tienes que seleccionar un único sitio en la lista. El RODC usa esta información para crear su objeto de configuración NTDS en la partición Configuración, y para unirse al sitio correcto cuando se inicie por primera vez después de la implementación.
+
+El argumento equivalente en el módulo ADDSDeployment de Windows PowerShell es:
+
+`-sitename <string>
+`
+
+### Opciones adicionales del controlador de dominio
+
+El cuadro de diálogo Opciones adicionales del controlador de dominio permite especificar que un controlador de dominio incluya la ejecución como Servidor DNS y Catálogo global. Microsoft recomienda que los controladores de dominio de solo lectura proporcionen servicios de DNS y GC, por lo que ambos se instalan de forma predeterminada; uno de los objetivos del rol RODC es los escenarios de sucursales, en los que puede que la red de área extensa no esté disponible y, sin esos servicios de DNS y catálogo global, los equipos de la sucursal no podrán usar los recursos y la funcionalidad de AD DS.
+
+La opción Controlador de dominio de solo lectura (RODC) está preseleccionada y no se puede deshabilitar. Los argumentos equivalentes en el módulo ADDSDeployment de Windows PowerShell son:
+
+`-installdns <string>
+-NoGlobalCatalog <{$true | $false}>
+
+`
+
+Note
+
+De forma predeterminada, el valor -NoGlobalCatalog es $false, lo que significa que el controlador de dominio será un servidor de catálogo global si no se especifica el argumento.
+
+### Especificar la directiva de replicación de contraseñas
+
+El cuadro de diálogo Especificar la directiva de replicación de contraseñas permite modificar la lista predeterminada de cuentas que tienen permisos para almacenar en caché sus contraseñas en este controlador de dominio de solo lectura. Las cuentas de la lista configuradas con Deny o que no están en la lista (implícita) no almacenan en caché su contraseña. Las cuentas que no tienen permiso para almacenar en caché las contraseñas en el RODC y que no pueden conectarse ni autenticarse en un controlador de dominio de escritura, no pueden acceder a los recursos ni a la funcionalidad que proporciona Active Directory.
+
+Important
+
+El asistente muestra este cuadro de diálogo solo si activas la casilla Usar la instalación en modo avanzado en la pantalla inicial. Si desactivas esta casilla, el asistente usará los siguientes grupos y valores predeterminados:
+
+- Administradores: Denegar
+
+- Operadores de servidor: Denegar
+
+- Operadores de copia de seguridad: Denegar
+
+- Operadores de cuenta: Denegar
+
+- Grupo de replicación de contraseña RODC denegada: Denegar
+
+- Grupo de replicación de contraseña RODC permitida: Denegar
+
+Los argumentos equivalentes en el módulo ADDSDeployment de Windows PowerShell son:
+
+`-allowpasswordreplicationaccountname <string []>
+-denypasswordreplicationaccountname <string []>
+`
+
+### Delegación de instalación y administración de RODC
+
+El cuadro de diálogo Delegación de instalación y administración de RODC permite configurar un usuario o un grupo de usuarios con permisos para asociar el servidor a la cuenta de equipo de RODC. Seleccione Establecer para examinar el dominio de un usuario o grupo. El usuario o grupo especificado en este cuadro de diálogo obtiene permisos administrativos locales en el RODC. El usuario o los miembros del grupo especificados pueden realizar operaciones en el RODC con privilegios equivalentes en el grupo Administradores del equipo. No* son miembros del grupo Admins. del dominio ni del grupo Administradores integrado del dominio.
+
+Usa esta opción para delegar la administración de sucursales sin conceder al administrador de la sucursal la pertenencia al grupo Admins. del dominio. No es necesario delegar la administración de RODC.
+
+El argumento equivalente en el módulo ADDSDeployment de Windows PowerShell es:
+
+`-delegatedadministratoraccountname <string>
+`
+
+### Summary
+
+El cuadro de diálogo Resumen le permite confirmar la configuración. Esta es la última oportunidad de detener la instalación antes de que el asistente cree la cuenta preconfigurada. Seleccione Siguiente cuando esté listo para crear la cuenta de equipo RODC almacenada provisionalmente. Seleccione Exportar configuración para guardar un archivo de respuesta en el formato de archivo desatendido dcpromo obsoleto.
+
+### Creation
+
+El Asistente para instalación de Active Directory Domain Services crea el controlador de dominio preconfigurado de solo lectura en Active Directory. Una vez que se haya iniciado esta operación, no se puede cancelar.
+
+Usa el siguiente cmdlet para preconfigurar una cuenta de equipo de controlador de dominio de solo lectura usando el módulo ADDSDeployment de Windows PowerShell:
+
+`Add-addsreadonlydomaincontrolleraccount
+
+`
+
+En Preconfigurar un RODC en Windows PowerShell encontrarás los argumentos necesarios y opcionales.
+
+Dado que Add-addsreadonlydomaincontrolleraccount solo tiene una acción con dos fases (comprobación de requisitos previos e instalación), las capturas de pantalla siguientes muestran la fase de instalación con los argumentos mínimos necesarios.
+
+La operación de preconfiguración de RODC crea la cuenta de equipo de RODC en Active Directory. El Centro de administración de Active Directory muestra el Tipo de controlador de dominio como una Cuenta de controlador de dominio no ocupada. Este tipo de controlador de dominio indica que la cuenta de RODC preconfigurada está lista para que un servidor se asocie a ella como controlador de dominio de solo lectura.
+
+Important
+
+El Centro de administración de Active Directory ya no necesita asociar un servidor a una cuenta de equipo de controlador de dominio de solo lectura. Use el Administrador del servidor y el Asistente para configuración de Active Directory Domain Services o el cmdlet install-AddsDomainController del módulo de Windows PowerShell ADDSDeployment para asociar un nuevo RODC a su cuenta almacenada provisionalmente. Los pasos son similares a agregar un nuevo controlador de dominio de escritura a un dominio existente, excepto que las cuentas de equipo de RODC preconfiguradas contienen opciones de configuración que se deciden en el momento de preconfigurar la cuenta de equipo de RODC.
+
+## Attaching
+
+### Configuración de implementación
+
+El Administrador del servidor comienza cada promoción del controlador de dominio con la página Configuración de implementación . Las opciones restantes y los campos requeridos cambian en esta página y en las páginas siguientes, según qué operación de implementación se seleccione.
+
+Para agregar un controlador de dominio de solo lectura a un dominio existente, seleccione Agregar un controlador de dominio a un dominio existente y después el botón Seleccionar para Especificar la información de dominio para esta operación. El Administrador del servidor le pide automáticamente credenciales válidas o puede seleccionar Cambiar.
+
+Para asociar un RODC es necesario pertenecer al grupo Admins. del dominio en Windows Server 2012. El Asistente para configuración de Active Directory Domain Services le pedirá confirmación si las credenciales actuales no tienen los permisos o la pertenencia a grupos adecuados.
+
+Los argumentos y cmdlets de Windows PowerShell de configuración de implementación ADDSDeployment son:
+
+`Install-AddsDomainController
+-domainname <string>
+-credential <pscredential>
+`
+
+### Opciones del controlador de dominio
+
+La página Opciones del controlador de dominio muestra las opciones del nuevo controlador de dominio. Cuando esta página se carga, el Asistente para configuración de Active Directory Domain Services envía una consulta LDAP a un controlador de dominio existente para comprobar las cuentas no ocupadas. Si la consulta encuentra una cuenta de equipo de controlador de dominio no ocupada que tiene el mismo nombre que el equipo actual, el asistente muestra un mensaje informativo en la parte superior de la página que indica lo siguiente: En el directorio existe una cuenta RODC creada previamente que coincide con el nombre del servidor de destino. Elija si quiere usar la cuenta RODC existente o reinstalar este controlador de dominio. El asistente usa la opción Usar cuenta RODC existente como configuración predeterminada.
+
+Important
+
+Puedes usar la opción Volver a instalar el controlador de dominio si el controlador de dominio ha sufrido un problema físico y no puede volver a funcionar correctamente. Dejar la cuenta de equipo de dominio y los metadatos del objeto en Active Directory permite ahorrar tiempo a la hora de configurar el controlador de dominio de sustitución. Instale el nuevo equipo con el mismo nombre y lo promueva como controlador de dominio en el dominio. La opción Reinstall this domain controller (Volver a instalar el controlador de dominio) no está disponible si se quitaron los metadatos del objeto de controlador de dominio de Active Directory (limpieza de metadatos).
+
+No puede configurar las opciones de controlador de dominio si conecta un servidor a una cuenta de equipo de RODC. Puedes configurar las opciones de controlador de dominio al crear la cuenta de equipo de RODC preconfigurada.
+
+La Contraseña del modo de restauración de servicios de directorio debe cumplir la directiva de contraseñas aplicada al servidor. Siempre elija una contraseña segura y compleja o, preferentemente, una frase de contraseña.
+
+Los argumentos correspondientes a las Opciones del controlador de dominio en el módulo ADDSDeployment de Windows PowerShell son:
+
+`-UseExistingAccount <{$true | $false}>
+-SafeModeAdministratorPassword <secure string>
+`
+
+Important
+
+El nombre del sitio ya debe existir cuando se proporciona como argumento a -sitename. El cmdlet install-AddsDomainController no crea nombres de sitio. Puede usar el cmdlet new-adreplicationsite para crear nuevos sitios.
+
+Los argumentos Install-ADDSDomainController siguen los mismos valores predeterminados que el Administrador del servidor si no se especifica.
+
+La operación del argumento SafeModeAdministratorPassword es especial:
+
+- 
+Si no se especifica como argumento, el cmdlet le pide que escriba y confirme una contraseña enmascarada. Este es el uso preferido cuando se ejecuta el cmdlet en forma interactiva.
+
+Por ejemplo, para crear un nuevo RODC en corp.contoso.com y que te pida que escribas y confirmes una contraseña enmascarada:
+
+`Install-ADDSDomainController -DomainName corp.contoso.com -credential (get-credential)
+`
+
+- 
+Si se especifica con un valor, este debe ser una cadena segura. Este no es el uso preferido cuando el cmdlet se ejecuta de manera interactiva.
+
+Por ejemplo, puede solicitar manualmente una contraseña mediante el cmdlet Read-Host para solicitar al usuario una cadena segura:
+
+`-safemodeadministratorpassword (read-host -prompt Password: -assecurestring)
+
+`
+
+Warning
+
+Como la opción anterior no confirma la contraseña, tenga mucho cuidado: la contraseña no es visible.
+
+También puedes proporcionar una cadena segura como una variable no cifrada convertida, pero te recomendamos encarecidamente que no lo hagas.
+
+`-safemodeadministratorpassword (convertto-securestring Password1 -asplaintext -force)
+`
+
+Por último, puedes almacenar la contraseña cifrada en un archivo y reutilizarla más adelante, sin que la contraseña aparezca descifrada en ningún momento. Por ejemplo:
+
+`$file = c:\pw.txt
+$pw = read-host -prompt Password: -assecurestring
+$pw | ConvertFrom-SecureString | Set-Content $file
+
+-safemodeadministratorpassword (Get-Content $File | ConvertTo-SecureString)
+
+`
+
+Warning
+
+No se recomienda proporcionar ni almacenar contraseñas no cifradas. Cualquier persona que ejecute este comando en un script o que mire sobre su hombro sabrá la contraseña de DSRM de ese controlador de dominio. Cualquier persona que tenga acceso al archivo podría invertir la contraseña cifrada. Con esos conocimientos, pueden iniciar sesión en un controlador de dominio iniciado en DSRM y suplantar al propio controlador de dominio, elevando sus privilegios al máximo nivel en el bosque de AD. Se recomienda un conjunto adicional de pasos mediante System.Security.Cryptography para cifrar los datos del archivo de texto, pero fuera del ámbito. El procedimiento recomendado es no almacenar la contraseña en absoluto.
+
+### Opciones adicionales
+
+La página Opciones adicionales proporciona opciones de configuración para asignar un nombre a un controlador de dominio como origen de replicación o puede usar cualquier controlador de dominio como origen de replicación.
+
+También puede eligir instalar el controlador de dominio con medios con copia de seguridad mediante la opción Instalar desde medios (IFM). Una vez que se activa, la casilla Instalar desde el medio proporciona una opción de exploración y debe seleccionar Comprobar para asegurarse de que la ruta proporcionada es un medio válido.
+
+Directrices para el origen de IFM:
+
+- Los medios usados por la opción IFM solo se crean con Copias de seguridad de Windows Server o Ntdsutil.exe desde otro controlador de dominio de Windows Server existente con la misma versión del sistema operativo. Por ejemplo, no se puede usar un sistema operativo Windows Server 2008 R2 o una versión anterior para crear medios para un controlador de dominio de Windows Server 2012.
+
+- Los datos de origen de IFM deben ser de un controlador de dominio grabable. Aunque un origen de RODC funcionará técnicamente para crear un RODC, hay advertencias de replicación de falsos positivos de que el RODC de origen de IFM no se replica.
+
+Para obtener más información sobre los cambios en IFM, consulta Cambios en Instalar desde el medio de Ntdsutil.exe. Si usas medios protegidos con SYSKEY, el Administrador del servidor pregunta la contraseña de la imagen durante la comprobación.
+
+Los argumentos del cmdlet ADDSDeployment de opciones adicionales son:
+
+`-replicationsourcedc <string>
+-installationmediapath <string>
+-systemkey <secure string>
+`
+
+### Paths
+
+La página Rutas de acceso permite invalidar las ubicaciones de carpetas predeterminadas de la base de datos de AD DS, los registros de transacciones de base de datos y el recurso compartido SYSVOL. Las ubicaciones predeterminadas siempre están en subdirectorios de %systemroot%. Los argumentos del cmdlet ADDSDeployment de Rutas de acceso son:
+
+`-databasepath <string>
+-logpath <string>
+-sysvolpath <string>
+`
+
+### Revisión de opciones y visualización del script
+
+La página Opciones de revisión le permite validar la configuración y asegurarse de que cumplen sus requisitos antes de iniciar la instalación. Esta no es la última oportunidad para detener la instalación con el Administrador del servidor. Esta página simplemente permite revisar y confirmar la configuración antes de continuar con esta. La página Opciones de revisión del Administrador del servidor también ofrece un botón Ver script opcional para crear un archivo de texto Unicode que contenga la configuración de ADDSDeployment actual como un solo script de Windows PowerShell. Esto le permite usar la interfaz gráfica del Administrador del servidor como un estudio de implementación de Windows PowerShell. Use el Asistente para configuración de Servicios de dominio de Active Directory para configurar las opciones, exportar la configuración y, a continuación, cancele el asistente. Este proceso crea un ejemplo válido y sintácticamente correcto para realizar más modificaciones o la utilización directa. Por ejemplo:
+
+`#
+# Windows PowerShell Script for AD DS Deployment
+#
+
+Import-Module ADDSDeployment
+Install-ADDSDomainController `
+-Credential (Get-Credential) `
+-CriticalReplicationOnly:$false `
+-DatabasePath C:\Windows\NTDS `
+-DomainName corp.contoso.com `
+-LogPath C:\Windows\NTDS `
+-SYSVOLPath C:\Windows\SYSVOL `
+-UseExistingAccount:$true `
+-Norebootoncompletion:$false
+-Force:$true
+
+`
+
+Note
+
+Normalmente, el Administrador del servidor rellena todos los argumentos con valores al realizar la promoción y no se basa en los valores predeterminados (dado que pueden cambiar entre las futuras versiones de Windows o los Service Pack). La única excepción a esto es el argumento -safemodeadministratorpassword . Para forzar la aparición de un aviso de confirmación, omite el valor al ejecutar el cmdlet de forma interactiva
+
+Use el argumento Whatif opcional con el cmdlet Install-ADDSDomainController para revisar la información de configuración. Esto te permite ver los valores explícitos e implícitos de los argumentos de un cmdlet.
+
+### Comprobación de requisitos previos
+
+ La comprobación de requisitos previos es una nueva característica en la configuración del dominio de AD DS. Esta nueva fase valida la capacidad de la configuración del servidor para admitir un nuevo bosque de AD DS.
+
+Al instalar un nuevo dominio raíz de bosque, el Asistente para configuración de Servicios de dominio de Active Directory del Administrador del servidor invoca una serie de pruebas modulares en serie. Las pruebas te envían alertas con opciones de reparación sugeridas. Puedes ejecutar las pruebas tantas veces como sea necesario. El proceso de instalación del controlador de dominio no puede continuar hasta que todas las comprobaciones de los requisitos previos sean correctas.
+
+ La comprobación de requisitos previos también muestra información relevante, como los cambios de seguridad que afectan a los sistemas operativos más antiguos. Para obtener más información sobre las comprobaciones de requisitos previos, consulte Comprobación de requisitos previos.
+
+No puede omitir la comprobación de requisitos previos al usar el Administrador del servidor, pero puede omitir el proceso al usar el cmdlet de implementación de AD DS mediante el siguiente argumento:
+
+`-skipprechecks
+
+`
+
+Warning
+
+Microsoft no recomienda omitir la comprobación de requisitos previos: omitirla puede hacer que los controladores de dominio se promuevan parcialmente o puede provocar daños en el bosque de AD DS.
+
+Seleccione Instalar para iniciar el proceso de promoción del controlador de dominio. Esta es la última oportunidad para cancelar la instalación. Una vez que se inicie, el proceso de promoción no se puede cancelar. El equipo se reiniciará automáticamente al finalizar la promoción, independientemente del resultado de la misma.
+
+### Installation
+
+Cuando se muestra la página Instalación, la configuración del controlador de dominio comienza y no se puede detener ni cancelar. Las operaciones detalladas se muestran en esta página y se escriben en los registros:
+
+- 
+%systemroot%\debug\dcpromo.log
+
+- 
+%systemroot%\debug\dcpromoui.log
+
+Para instalar un nuevo bosque de Active Directory con el módulo ADDSDeployment, utiliza este cmdlet:
+
+`Install-addsdomaincontroller
+
+`
+
+En Asociar un RODC en Windows PowerShell encontrarás los argumentos necesarios y opcionales.
+
+El cmdlet Install-addsdomaincontroller solo tiene dos fases (comprobación de requisitos previos e instalación). Las dos figuras siguientes muestran la fase de instalación con los argumentos mínimos necesarios de -domainname, -useexistingaccount y -credential. Tenga en cuenta cómo, al igual que el Administrador del servidor, Install-ADDSDomainController le recuerda que la promoción reiniciará el servidor automáticamente:
+
+Para aceptar el mensaje de reinicio automáticamente, use los argumentos -force o -confirm:$false con cualquier cmdlet de Windows PowerShell ADDSDeployment. Para evitar que el servidor se reinicie automáticamente al final de la promoción, use el argumento -norebootoncompletion .
+
+Warning
+
+No se recomienda invalidar el reinicio. El controlador de dominio debe reiniciarse para funcionar correctamente.
+
+### Results
+
+La página Resultados muestra el éxito o error de la promoción y cualquier información administrativa importante. El controlador de dominio se reiniciará automáticamente 10 segundos después.
+
+## Flujo de trabajo de un RODC no preconfigurado
+
+En el diagrama siguiente se ilustra el proceso de configuración de Active Directory Domain Services, cuando ya se ha instalado el rol AD DS y se ha iniciado el Asistente para configuración de Active Directory Domain Services con el Administrador del servidor para crear un controlador de dominio de solo lectura no preconfigurado en un dominio de Windows Server 2012 existente.
+
+## RODC no preconfigurado en Windows PowerShell
+
+ | ADDSDeployment Cmdlet
+
+ | Argumentos (se requieren argumentos negrita . Los argumentos en cursiva se pueden especificar mediante Windows PowerShell o el Asistente para configuración de AD DS).
+
+ | Install-AddsDomainController
+
+ | -SkipPreChecks
+
+ -DomainName
+
+ -SafeModeAdministratorPassword
+
+ -SiteName
+
+ -ApplicationPartitionsToReplicate
+
+ -CreateDNSDelegation
+
+ -Credential
+
+ -CriticalReplicationOnly
+
+ -DatabasePath
+
+ -DNSDelegationCredential
+
+-DNSOnNetwork
+
+ -InstallationMediaPath
+
+ -InstallDNS
+
+ -LogPath
+
+-MoveInfrastructureOperationMasterRoleIfNecessary
+
+ -NoGlobalCatalog
+
+-Norebootoncompletion
+
+ -ReplicationSourceDC
+
+-SkipAutoConfigureDNS
+
+ -SystemKey
+
+ -SYSVOLPath
+
+ -AllowPasswordReplicationAccountName
+
+ -DelegatedAdministratorAccountName
+
+ -DenyPasswordReplicationAccountName
+
+ -ReadOnlyReplica
+
+Note
+
+El argumento -credential solo es necesario si aún no ha iniciado sesión como miembro del grupo Administradores de dominio.
+
+## Implementación de un RODC no preconfigurado
+
+### Configuración de implementación
+
+El Administrador del servidor comienza cada promoción del controlador de dominio con la página Configuración de implementación . Las opciones restantes y los campos requeridos cambian en esta página y en las páginas siguientes, según qué operación de implementación se seleccione.
+
+Para agregar un controlador de dominio de solo lectura no preconfigurado a un dominio de Windows Server 2012 existente, seleccione Agregar un controlador de dominio a un dominio existente y después el botón Seleccionar para Especificar la información de dominio para esta operación. El Administrador del servidor le pide automáticamente credenciales válidas o puede seleccionar Cambiar.
+
+Para asociar un RODC es necesario pertenecer al grupo Admins. del dominio en Windows Server 2012. El Asistente para configuración de Active Directory Domain Services le pedirá confirmación si las credenciales actuales no tienen los permisos o la pertenencia a grupos adecuados.
+
+Los argumentos y cmdlets de Windows PowerShell de configuración de implementación ADDSDeployment son:
+
+`Install-AddsDomainController
+-domainname <string>
+-credential <pscredential>
+`
+
+### Opciones del controlador de dominio
+
+La página Opciones del controlador de dominio especifica las funcionalidades del nuevo controlador de dominio. Las funcionalidades configurables del controlador de dominio son servidor DNS, Catálogo global y controlador de dominio de solo lectura. Microsoft recomienda que todos los controladores de dominio proporcionen servicios de DNS y GC para alta disponibilidad en entornos distribuidos. GC siempre está seleccionado de forma predeterminada y el servidor DNS está seleccionado de forma predeterminada si el dominio actual ya hospeda un DNS en sus controladores de dominio según la consulta de Inicio de autoridad.
+
+La página Opciones del controlador de dominio también permite elegir el nombre de sitio lógico apropiado de Active Directory de la configuración del bosque. De forma predeterminada, selecciona el sitio con la subred más correcta. Si solo hay un sitio, lo selecciona automáticamente.
+
+Important
+
+Si el servidor no pertenece a una subred de Active Directory y hay más de un sitio de Active Directory, no se selecciona nada y el botón Siguiente no está disponible hasta que elija un sitio de la lista.
+
+La Contraseña del modo de restauración de servicios de directorio debe cumplir la directiva de contraseñas aplicada al servidor. Elige siempre una contraseña segura y compleja o, preferentemente, una frase de contraseña. Los argumentos correspondientes a las Opciones del controlador de dominio en el módulo ADDSDeployment de Windows PowerShell son:
+
+`-UseExistingAccount <{$true | $false}>
+-SafeModeAdministratorPassword <secure string>
+`
+
+Important
+
+El nombre del sitio ya debe existir cuando se proporciona como argumento a -sitename. El cmdlet install-AddsDomainController no crea nombres de sitio. Puede usar el cmdlet new-adreplicationsite para crear nuevos sitios.
+
+Los argumentos Install-ADDSDomainController siguen los mismos valores predeterminados que el Administrador del servidor si no se especifica.
+
+La operación del argumento SafeModeAdministratorPassword es especial:
+
+- 
+Si no se especifica como argumento, el cmdlet le pide que escriba y confirme una contraseña enmascarada. Este es el uso preferido cuando se ejecuta el cmdlet en forma interactiva.
+
+Por ejemplo, para crear un nuevo RODC en corp.contoso.com y que te pida que escribas y confirmes una contraseña enmascarada:
+
+`Install-ADDSDomainController -DomainName corp.contoso.com -credential (get-credential)
+`
+
+- 
+Si se especifica con un valor, este debe ser una cadena segura. Este no es el uso preferido cuando el cmdlet se ejecuta de manera interactiva.
+
+Por ejemplo, puede solicitar manualmente una contraseña mediante el cmdlet Read-Host para solicitar al usuario una cadena segura:
+
+`-safemodeadministratorpassword (read-host -prompt Password: -assecurestring)
+
+`
+
+Warning
+
+Como la opción anterior no confirma la contraseña, tenga mucho cuidado: la contraseña no es visible.
+
+También puedes proporcionar una cadena segura como una variable no cifrada convertida, pero te recomendamos encarecidamente que no lo hagas.
+
+`-safemodeadministratorpassword (convertto-securestring Password1 -asplaintext -force)
+`
+
+Por último, puedes almacenar la contraseña cifrada en un archivo y reutilizarla más adelante, sin que la contraseña aparezca descifrada en ningún momento. Por ejemplo:
+
+`$file = c:\pw.txt
+$pw = read-host -prompt Password: -assecurestring
+$pw | ConvertFrom-SecureString | Set-Content $file
+
+-safemodeadministratorpassword (Get-Content $File | ConvertTo-SecureString)
+
+`
+
+Warning
+
+No se recomienda proporcionar ni almacenar contraseñas no cifradas. Cualquier persona que ejecute este comando en un script o que mire sobre su hombro sabrá la contraseña de DSRM de ese controlador de dominio. Cualquier persona que tenga acceso al archivo podría invertir la contraseña cifrada. Con esos conocimientos, pueden iniciar sesión en un controlador de dominio iniciado en DSRM y suplantar al propio controlador de dominio, elevando sus privilegios al máximo nivel en el bosque de AD. Se recomienda un conjunto adicional de pasos mediante System.Security.Cryptography para cifrar los datos del archivo de texto, pero fuera del ámbito. El procedimiento recomendado es no almacenar la contraseña en absoluto.
+
+### Opciones de RODC
+
+La página Opciones de RODC permite modificar la configuración:
+
+- 
+Cuenta de administrador delegada
+
+- 
+Cuentas con permiso para replicar contraseñas en el RODC
+
+- 
+Cuentas sin permiso para replicar contraseñas en el RODC
+
+Las cuentas de administrador delegadas obtienen permisos administrativos locales para RODC. Estos usuarios pueden trabajar con privilegios equivalentes al grupo Administradores del equipo local. No son miembros de los grupos Admins del dominio o de las cuentas predefinidas de administrador del dominio. Esta opción es útil para delegar la administración de la sucursal sin dar permisos administrativos de dominio. No es necesario configurar la delegación de la administración.
+
+El argumento equivalente en el módulo ADDSDeployment de Windows PowerShell es:
+
+`-delegatedadministratoraccountname <string>
+`
+
+Las cuentas que no tienen permiso para almacenar en caché las contraseñas en el RODC y que no pueden conectarse ni autenticarse en un controlador de dominio de escritura, no pueden acceder a los recursos ni a la funcionalidad que proporciona Active Directory.
+
+Important
+
+Si no se modifican, se usan los grupos y opciones de configuración predeterminados:
+
+- Administradores: Denegar
+
+- Operadores de servidor: Denegar
+
+- Operadores de copia de seguridad: Denegar
+
+- Operadores de cuenta: Denegar
+
+- Grupo de replicación de contraseña RODC denegada: Denegar
+
+- Grupo de replicación de contraseña RODC permitida: Denegar
+
+Los argumentos equivalentes en el módulo ADDSDeployment de Windows PowerShell son:
+
+`-allowpasswordreplicationaccountname <string []>
+-denypasswordreplicationaccountname <string []>
+`
+
+### Opciones adicionales
+
+La página Opciones adicionales proporciona opciones de configuración para asignar un nombre a un controlador de dominio como origen de replicación o puede usar cualquier controlador de dominio como origen de replicación.
+
+También puede eligir instalar el controlador de dominio con medios con copia de seguridad mediante la opción Instalar desde medios (IFM). Una vez que se activa, la casilla Instalar desde el medio proporciona una opción de exploración y debe seleccionar Comprobar para asegurarse de que la ruta proporcionada es un medio válido.
+
+Directrices para el origen de IFM:
+
+- Los medios usados por la opción IFM solo se crean con Copias de seguridad de Windows Server o Ntdsutil.exe desde otro controlador de dominio de Windows Server existente con la misma versión del sistema operativo. Por ejemplo, no se puede usar un sistema operativo Windows Server 2008 R2 o una versión anterior para crear medios para un controlador de dominio de Windows Server 2012.
+
+- Los datos de origen de IFM deben ser de un controlador de dominio grabable. Aunque un origen de RODC funcionará técnicamente para crear un RODC, hay advertencias de replicación de falsos positivos de que el RODC de origen de IFM no se replica.
+
+Para obtener más información sobre los cambios en IFM, consulta Cambios en Instalar desde el medio de Ntdsutil.exe. Si usas medios protegidos con SYSKEY, el Administrador del servidor pregunta la contraseña de la imagen durante la comprobación.
+
+Los argumentos del cmdlet de ADDSDeployment correspondientes a las Opciones adicionales son:
+
+`-replicationsourcedc <string>
+-installationmediapath <string>
+-systemkey <secure string>
+`
+
+### Paths
+
+La página Rutas de acceso permite invalidar las ubicaciones de carpetas predeterminadas de la base de datos de AD DS, los registros de transacciones de base de datos y el recurso compartido SYSVOL. Las ubicaciones predeterminadas siempre están en subdirectorios de %systemroot%. Los argumentos del cmdlet ADDSDeployment de Rutas de acceso son:
+
+`-databasepath <string>
+-logpath <string>
+-sysvolpath <string>
+`
+
+### Opciones de preparación
+
+La página Opciones de preparación le avisa de que la configuración de AD DS incluye la extensión del esquema (bosqueprep) y la actualización del dominio (domainprep). Solo verá esta página si el bosque o dominio no han sido preparados en una instalación de controlador de dominio anterior de Windows Server 2012 o mediante la ejecución manual de Adprep.exe. Por ejemplo, el Asistente para configuración de Servicios de dominio de Active Directory suprime esta página si agregas un nuevo controlador de dominio de réplica al dominio raíz de un bosque de Windows Server 2012 existente.
+
+La extensión del esquema y la actualización del dominio no se producen al seleccionar Siguiente. Estos eventos solo se producen durante la fase de instalación. Esta página simplemente informa de los eventos que se producirán más adelante en la instalación.
+
+Esta página también comprueba que las credenciales de usuario actuales pertenecen a los grupos Administradores de esquema o Administradores de organización, porque necesitas pertenecer a estos grupos para extender el esquema o preparar un dominio. Seleccione Cambiar para proporcionar las credenciales de usuario adecuadas si la página le informa de que las credenciales actuales no proporcionan permisos suficientes.
+
+El argumento del cmdlet de ADDSDeployment correspondiente a las Opciones adicionales es:
+
+`-adprepcredential <pscredential>
+`
+
+Important
+
+Al igual que con las versiones anteriores de Windows Server, la preparación automatizada de dominios de Windows Server 2012 no ejecuta GPPREP. Ejecute adprep.exe /gpprep manualmente para todos los dominios que no estaban preparados previamente para Windows Server 2003, Windows Server 2008 o Windows Server 2008 R2. Ejecuta GPPrep solo una vez en el historial de un dominio, no con cada actualización. Adprep.exe no ejecuta /gpprep automáticamente porque podría hacer que todos los archivos y carpetas que hay en la carpeta SYSVOL se vuelvan a replicar en todos los controladores de dominio.
+
+RODCPrep se ejecuta automáticamente cuando se promueve el primer RODC sin preconfigurar de un dominio. Esto no sucede cuando se promueve el primer controlador de dominio de Windows Server 2012 de escritura. También puede ejecutar manualmente adprep.exe /rodcprep si planea implementar controladores de dominio de solo lectura.
+
+### Revisión de opciones y visualización del script
+
+La página Opciones de revisión le permite validar la configuración y asegurarse de que cumplen sus requisitos antes de iniciar la instalación. Esta no es la última oportunidad para detener la instalación con el Administrador del servidor. Esta página simplemente permite revisar y confirmar la configuración antes de continuar con esta.
+
+La página Opciones de revisión del Administrador del servidor también ofrece un botón Ver script opcional para crear un archivo de texto Unicode que contenga la configuración de ADDSDeployment actual como un solo script de Windows PowerShell. Esto le permite usar la interfaz gráfica del Administrador del servidor como un estudio de implementación de Windows PowerShell. Use el Asistente para configuración de Servicios de dominio de Active Directory para configurar las opciones, exportar la configuración y, a continuación, cancele el asistente. Este proceso crea un ejemplo válido y sintácticamente correcto para realizar más modificaciones o la utilización directa. Por ejemplo:
+
+`#
+# Windows PowerShell Script for AD DS Deployment
+#
+
+Import-Module ADDSDeployment
+Install-ADDSDomainController `
+-AllowPasswordReplicationAccountName @(CORP\Allowed RODC Password Replication Group, CORP\Chicago RODC Admins, CORP\Chicago RODC Users and Computers) `
+-Credential (Get-Credential) `
+-CriticalReplicationOnly:$false `
+-DatabasePath C:\Windows\NTDS `
+-DelegatedAdministratorAccountName CORP\Chicago RODC Admins `
+-DenyPasswordReplicationAccountName @(BUILTIN\Administrators, BUILTIN\Server Operators, BUILTIN\Backup Operators, BUILTIN\Account Operators, CORP\Denied RODC Password Replication Group) `
+-DomainName corp.contoso.com `
+-InstallDNS:$true `
+-LogPath C:\Windows\NTDS `
+-ReadOnlyReplica:$true `
+-SiteName Default-First-Site-Name `
+-SYSVOLPath C:\Windows\SYSVOL
+-Force:$true
+
+`
+
+Note
+
+Normalmente, el Administrador del servidor rellena todos los argumentos con valores al realizar la promoción y no se basa en los valores predeterminados (dado que pueden cambiar entre las futuras versiones de Windows o los Service Pack). La única excepción a esto es el argumento -safemodeadministratorpassword . Para forzar la aparición de un aviso de confirmación, omite el valor al ejecutar el cmdlet de forma interactiva.
+
+Use el argumento opcional Whatif con el cmdlet Install-ADDSDomainController para revisar la información de la configuración. Esto te permite ver los valores explícitos e implícitos de los argumentos de un cmdlet.
+
+### Comprobación de requisitos previos
+
+ La comprobación de requisitos previos es una nueva característica en la configuración del dominio de AD DS. Esta nueva fase valida la capacidad de la configuración del servidor para admitir un nuevo bosque de AD DS.
+
+Al instalar un nuevo dominio raíz de bosque, el Asistente para configuración de Servicios de dominio de Active Directory del Administrador del servidor invoca una serie de pruebas modulares en serie. Las pruebas te envían alertas con opciones de reparación sugeridas. Puedes ejecutar las pruebas tantas veces como sea necesario. El proceso del controlador de dominio no puede continuar hasta que se superen todas las pruebas de requisitos previos.
+
+ La comprobación de requisitos previos también muestra información relevante, como los cambios de seguridad que afectan a los sistemas operativos más antiguos.
+
+No puede omitir la comprobación de requisitos previos al usar el Administrador del servidor, pero puede omitir el proceso al usar el cmdlet de implementación de AD DS mediante el siguiente argumento:
+
+`-skipprechecks
+
+`
+
+Seleccione Instalar para iniciar el proceso de promoción del controlador de dominio. Esta es la última oportunidad para cancelar la instalación. Una vez que se inicie, el proceso de promoción no se puede cancelar. El equipo se reiniciará automáticamente al finalizar la promoción, independientemente del resultado de la misma.
+
+### Installation
+
+Cuando se muestra la página Instalación , la configuración del controlador de dominio comienza y no se puede detener ni cancelar. Las operaciones detalladas se muestran en esta página y se escriben en los registros:
+
+- 
+%systemroot%\debug\dcpromo.log
+
+- 
+%systemroot%\debug\dcpromoui.log
+
+Para instalar un nuevo bosque de Active Directory con el módulo ADDSDeployment, utiliza este cmdlet:
+
+`Install-addsdomaincontroller
+
+`
+
+Consulte la tabla ADDSDeployment Cmdlet al principio de esta sección para ver los argumentos obligatorios y opcionales.
+
+El cmdlet Install-addsdomaincontroller solo tiene dos fases (comprobación de requisitos previos e instalación). Las dos figuras siguientes muestran la fase de instalación con los argumentos mínimos necesarios de -domainname, -readonlyreplica, -sitename y -credential. Tenga en cuenta cómo, al igual que el Administrador del servidor, Install-ADDSDomainController le recuerda que la promoción reiniciará el servidor automáticamente:
+
+Para aceptar el mensaje de reinicio automáticamente, use los argumentos -force o -confirm:$false con cualquier cmdlet de Windows PowerShell ADDSDeployment. Para evitar que el servidor se reinicie automáticamente al final de la promoción, use el argumento -norebootoncompletion .
+
+Warning
+
+Se recomienda no invalidar el reinicio. El controlador de dominio debe reiniciarse para funcionar correctamente. Si cierras sesión en el controlador de dominio, no puedes volver a iniciar sesión interactivamente hasta que lo reinicies.
+
+### Results
+
+La página Resultados muestra el éxito o error de la promoción y cualquier información administrativa importante. El controlador de dominio se reiniciará automáticamente 10 segundos después.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

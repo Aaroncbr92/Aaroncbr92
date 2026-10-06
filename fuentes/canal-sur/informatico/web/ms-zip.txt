@@ -1,0 +1,293 @@
+URL: https://support.microsoft.com/en-us/windows/experience/storage-filemanagement/zip-and-unzip-files
+Leído: 2026-10-05
+
+
+# Zip and unzip files
+
+ Applies To
+Windows 11 Windows 10 
+
+## Summary
+
+Zipped (compressed) files reduce file size and bundle multiple files for easier sharing. In Windows, users can create ZIP files via the right‑click menu or File Explorer tools. Contents can be extracted using “Extract All” or by dragging files out of the archive. Zipped folders behave like regular folders but may affect encryption and compression outcomes.
+
+Zipped (compressed) files take up less storage space and can be transferred to other computers more quickly than uncompressed files. In Windows, you work with zipped files and folders in the same way that you work with uncompressed files and folders. Combine several files into a single zipped folder to more easily share a group of files.
+
+## To zip (compress)
+
+- 
+Locate the file or folder that you want to zip.
+
+- 
+Right-click (or press and hold) the file or folder, select Show more options > Send to > Compressed (zipped) folder.
+
+A new zipped folder with the same name is created in the same location. To rename it, press and hold (or right-click) the folder, select Rename, and then type the new name.
+
+## To unzip (extract)
+
+- 
+Locate the zipped folder that you want to unzip (extract) files or folders from.
+
+- 
+Do one of the following:
+
+- To unzip a single file or folder, open the zipped folder, then drag the file or folder from the zipped folder to a new location.
+
+- To unzip all the contents of the zipped folder, right-click (or press and hold) the folder, select Extract All..., and then follow the instructions.
+
+Note
+
+- To add files or folders to a zipped folder you created earlier, drag them to the zipped folder.
+
+- If you add encrypted files to a zipped folder, they'll be unencrypted when they're unzipped, which might result in unintentional disclosure of personal or sensitive information. For that reason, we recommend that you avoid zipping encrypted files.
+
+- Some types of files, like JPEG images, are already highly compressed. If you zip several JPEG pictures into a folder, the total size of the folder will be about the same as the original collection of pictures.
+
+## Frequently asked questions
+
+### Which archive formats are supported?
+
+Windows 11, version 24H2 supports ZIP, RAR. 7z and TAR archive formats. 
+
+### Are encrypted compressed files supported?
+
+Windows 11, version 24H2 supports compression and decompression of various formats, including 7-Zip. However, it does not support operations on encrypted archive files. To create/decompress encrypted archives, consider using non-Microsoft applications such as 7-zip or WinRAR.
+
+## Was this information helpful?
+
+ Yes
+ No
+
+ Thank you! Any more feedback for Microsoft?
+
+ Can you help us improve? (Send feedback to Microsoft so we can help.)
+
+ What affected your experience?
+
+ Resolved my issue
+
+ Clear instructions
+
+ Easy to follow
+
+ No jargon
+
+ Pictures helped
+
+ Other
+
+ Didn't match my screen
+
+ Incorrect instructions
+
+ Too technical
+
+ Not enough information
+
+ Not enough pictures
+
+ Other
+
+ Any additional feedback? (Optional)
+
+ Submit feedback
+
+ By pressing submit, your feedback will be used to improve Microsoft products and services.
+ Your IT admin will be able to collect this data.
+ Privacy Statement.
+
+## Thank you for your feedback!
+
+ ×
+
+What's new
+
+- 
+ Surface Pro
+
+- 
+ Surface Laptop
+
+- 
+ Surface Laptop Ultra
+
+- 
+ Surface RTX Spark Dev Box
+
+- 
+ Explore Copilot
+
+- 
+ Explore Microsoft products
+
+- 
+ Windows 11 apps
+
+Microsoft Store
+
+- 
+ Account profile
+
+- 
+ Download Center
+
+- 
+ Microsoft Store support
+
+- 
+ Returns
+
+- 
+ Order tracking
+
+- 
+ Certified Refurbished
+
+- 
+ Microsoft Store Promise
+
+- 
+ Flexible Payments
+
+Education
+
+- 
+ Microsoft in education
+
+- 
+ Devices for education
+
+- 
+ Microsoft Teams for Education
+
+- 
+ Microsoft 365 Education
+
+- 
+ How to buy for your school
+
+- 
+ Educator training and development
+
+- 
+ Deals for students and parents
+
+- 
+ AI for education
+
+Business
+
+- 
+ Microsoft AI
+
+- 
+ Microsoft Security
+
+- 
+ Dynamics 365
+
+- 
+ Microsoft 365
+
+- 
+ Microsoft Power Platform
+
+- 
+ Microsoft Teams
+
+- 
+ Microsoft Copilot
+
+- 
+ Small Business
+
+Developer & IT
+
+- 
+ Azure
+
+- 
+ Microsoft Developer
+
+- 
+ Microsoft Learn
+
+- 
+ Support for AI marketplace apps
+
+- 
+ Microsoft Tech Community
+
+- 
+ Microsoft Marketplace
+
+- 
+ Software companies
+
+- 
+ Visual Studio
+
+Company
+
+- 
+ Careers
+
+- 
+ About Microsoft
+
+- 
+ Company news
+
+- 
+ Privacy at Microsoft
+
+- 
+ Investors
+
+- 
+ Diversity and inclusion
+
+- 
+ Accessibility
+
+- 
+ Sustainability
+
+ English (United States)
+
+ Your Privacy Choices Opt-Out Icon
+
+ Your Privacy Choices
+
+ Consumer Health Privacy
+
+- 
+ Sitemap
+
+- 
+ Contact Microsoft
+
+- 
+ Privacy 
+
+- 
+ Manage cookies
+
+- 
+ Terms of use
+
+- 
+ Trademarks
+
+- 
+ Safety & eco
+
+- 
+ Recycling
+
+- 
+ About our ads
+
+- © Microsoft 2026
+
+

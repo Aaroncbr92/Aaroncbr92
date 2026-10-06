@@ -1,0 +1,263 @@
+HDMI 2.2 Specification Overview
+
+ If you are having problems seeing website images please make sure you update your browser to the latest version.
+
+ ×
+
+ Chinese
+
+|
+
+ Extranet Login
+
+ Home
+
+ Specifications
+
+ Specifications Overview
+
+ HDMI Specification 2.2
+
+ HDMI 2.2 Overview
+
+ Bandwidths and Resolutions
+
+ Ultra96 HDMI Cable and Ultra High Speed HDMI Cable
+
+ Ultra96 Feature Name
+
+ Latency Indication Protocol (LIP)
+
+ Dynamic HDR
+
+ Source-Based Tone Mapping (SBTM)
+
+ Enhanced Audio Return Channel (eARC)
+
+ Enhanced Gaming Features
+
+ Variable Refresh Rate (VRR)
+
+ Auto Low Latency Mode (ALLM)
+
+ Quick Frame Transport (QFT)
+
+ Quick Media Switching (QMS)
+
+ Cable Power
+
+ HDMI Specification 1.4b
+
+ Premium Cable
+
+ HDMI Passive Adapter
+
+ Adopters
+
+ Becoming an Adopter
+
+ New HDMI Adopters
+
+ HDMI Founders
+
+ HDMI Adopters
+
+ Embedded Licensees
+
+ Terminated Adopters
+
+ Enforcement Search Tool
+
+ About HDMI Forum
+
+ Adopter-Only Extranet
+
+ Resources
+
+ Resources Overview
+
+ HDMI Cables
+
+ Testing Resources
+
+ Testing Policies
+
+ Test Equipment Manufacturers
+
+ Authorized Test Centers (ATC)
+
+ Licensing and Trademarks
+
+ HDMI as a Brand
+
+ Trademarks Guidelines
+
+ Royalty Discounts
+
+ HDMI Logos
+
+ Brand Enforcement
+
+ Enforcement Search Tool
+
+ Report an Infringer 
+
+ Approved Connectors
+
+ Press Events Social
+
+ Press Releases
+
+ Announcements
+
+ Events & Plugfests
+
+ HDMI Blog Posts
+
+ Tweets @HDMI Licensing
+
+ Press Resources
+
+ Archives
+
+ Press Releases
+
+ Announcements
+
+ Blogs
+
+HDMI 2.2 Specification Technology Overview
+
+HDMI® Specification 2.2 is the most recent update of the HDMI specification and supports a range of higher video resolutions and refresh rates including 8K60 and 4K120, and resolutions up to 10K. 2.2 Ultra96
+
+HDMI® 2.2 Specification
+
+ The HDMI 2.2 Specification is the most recent update of the HDMI Specification and delivers enhanced options for the vast HDMI ecosystem with more advanced solutions to create, distribute and experience the best end-user outcome. Higher 96Gbps bandwidth and next-gen HDMI Fixed Rate Link technology provide optimal audio and video for a wide range of device applications. An end-user can be assured that their displays support a native video format in the best way possible and can deliver a seamless and reliable experience. 
+
+ Higher resolutions and refresh rates will be supported including up to 12K@120 and 16K@60. Additionally, more high-quality options will be supported including uncompressed full chroma formats such as 8K@60/4:4:4 and 4K@240/4:4:4 at 10-bit and 12-bit color
+
+ Supported Resolutions
+
+HDMI 2.2 Specification feature highlights include:
+
+ Up to 96Gbps bandwidth and next-gen HDMI Fixed Rate Link technology provide optimal audio and video for a wide range of device applications. Supported resolutions include 4K240 and 8K60, both uncompressed and with full chroma and 10/12-bit color. Also included is support for 10K, 12K and 16K resolutions.
+ More Info...
+
+The new Ultra96 HDMI Cable supports up to 96Gbps bandwidth and is the only cable that supports all HDMI 2.2 Specification applications. It has very low EMI emission, can be used with existing HDMI devices and is part of the official Ultra Cable Certification Program.
+ More Info...
+
+ “Ultra96” is a feature name that manufacturers are encouraged to use to indicate a product supports a maximum of 64Gbps, 80Gbps or 96Gbps bandwidth in compliance with the HDMI 2.2 Specification, and require the Ultra96 HDMI® Cable to ensure a product’s maximum bandwidth is properly supported.
+ More Info...
+
+The Ultra High Speed HDMI Cable was introduced in the HDMI 2.1 Specification and entered the market in 2020. It is applicable for system configurations supporting up to 48Gbps maximum bandwidth. 
+ More Info...
+
+ How to identify Ultra HDMI Cables
+
+ Download Graphic
+
+Latency Indication Protocol (LIP) is an advancement over existing A/V sync methods for improving audio and video synchronization, especially for multiple-hop system configurations such as those with an audio video receiver or soundbar.More Info...
+
+Dynamic HDR support ensures every moment of a video is displayed at its ideal values for depth, detail, brightness, contrast and wider color gamuts—on a scene-by-scene or even a frame-by-frame basis.More Info...
+
+Source-Based Tone Mapping (SBTM) is a new HDR feature that allows a portion of the HDR mapping to be performed by the Source device instead of the Display device. SBTM is especially useful in cases where HDR and SDR video or graphics are combined together into a single picture, such as picture-in-picture or a program guide with an integrated video window. 
+ SBTM also enables PCs and gaming devices to automatically produce an optimized HDR signal in order to maximize the utilization of the display’s HDR capabilities without manual user configuration of the Source device.More Info...
+
+eARC simplifies connectivity, provides greater ease of use, and supports the most advanced audio formats and highest audio quality. It ensures full compatibility between audio devices and upcoming HDMI 2.2 products.More Info...
+
+ Enhanced gaming features ensure an added level of smooth and seamless motion and transitions for gaming, movies and video.More Info... They include:
+
+Variable Refresh Rate (VRR) reduces or eliminates lag, stutter and frame tearing for more fluid and better detailed gameplay.More Info...
+
+Auto Low Latency Mode (ALLM) allows the ideal latency setting to automatically be set allowing for smooth, lag-free and uninterrupted viewing and interactivity.More Info...
+
+Quick Frame Transport (QFT) reduces latency for smoother no-lag gaming, and real-time interactive virtual reality.More Info...
+
+Quick Media Switching (QMS) for movies and video eliminates the delay that often occurs when a device changes from one HDMI frame rate to another. More Info...
+
+HDMI Cable Power enables active HDMI Cables to be powered directly from the HDMI Connector, without attaching a separate power cable. This makes attaching and using active HDMI Cables as easy as using passive, wired HDMI Cables.More Info...
+
+HDMI 2.2 Specification is backward compatible with earlier versions of the Specification and is available to all HDMI 2.1 Adopters. 
+
+Supporting Materials
+
+Supporting graphics, photos, and multi-language overview presentations on HDMI 2.2 are available for download and reproduction. Please attribute content you reproduce to HDMI Licensing Administrator, Inc.
+
+The HDMI Forum
+
+HDMI 2.2 Specification was developed by the HDMI Forum’s Technical Working Group. The HDMI Forum, Inc. is comprised of the world’s leading manufacturers of consumer electronics, personal computers, mobile devices, cables, components, silicon; and also includes movie studios, service providers, test labs and test equipment manufacturers. An open trade association, The HDMI Forum’s mission is to foster broader industry participation in the development of future versions of the HDMI specification and to further expand the ecosystem of interoperable, HDMI-enabled products. The HDMI Forum currently has a membership of over 90 companies. Information is available about the HDMI Forum and how to become a member.
+
+(FAQ)
+
+(FAQ)
+
+(FAQ)
+
+(FAQ)
+
+(FAQ)
+
+(FAQ)
+
+(FAQ)
+
+(FAQ)
+
+(FAQ)
+
+(FAQ)
+
+(FAQ)
+
+(FAQ)
+
+The Adopted Trademarks Ultra High Speed HDMI and the Ultra High Speed HDMI Cable Name Logo are trademarks or registered trademarks of HDMI Licensing Administrator, Inc.
+
+USB Type-C® is a registered trademark of USB Implementers Forum.
+
+HDMI® Licensing Administrator, Inc. (HDMI LA) is the agent appointed by the HDMI Forum to license Version 2.2 of the HDMI Specification and is the agent appointed by the HDMI Founders to license earlier HDMI Specifications.
+
+Latest Posts
+
+ Upcoming Events
+
+ HDMI Blog Posts
+
+ Follow HDMI LA on X
+
+Useful Links
+
+ About HDMI Technology
+
+ Becoming an Adopter
+
+ Trademarks & Logos
+
+Our Contacts
+
+USA
+
+ HDMI® Licensing Administrator, Inc.
+
+ 550 S. Winchester Blvd,
+Suite 515
+
+ San Jose, CA 95128, USA
+
+ Contact HDMI LA
+
+2026 © All Rights Reserved.
+
+ Privacy Policy
+
+ |
+
+ Terms of Use
+
+ |
+
+ Login 
+
+ The terms HDMI, HDMI High-Definition Multimedia Interface, HDMI Trade Dress and the HDMI Logos are trademarks or registered trademarks of HDMI Licensing Administrator, Inc.
+
+Last updated:

@@ -1,0 +1,450 @@
+URL: https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/manage-user-accounts-in-windows-server
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Administrar cuentas de usuario en usuarios y equipos de Active Directory
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+Puede crear, eliminar y administrar entidades de seguridad, incluidas las cuentas de usuario, en la consola de Usuarios y equipos de Active Directory. Esta consola está disponible cuando los componentes active Directory Domain Services (AD DS) y Active Directory Lightweight Directory Services (AD LDS) de las Herramientas de administración remota del servidor están instalados en un equipo cliente o Windows Server. Para crear, eliminar y administrar permisos de seguridad, debe tener los permisos adecuados. De forma predeterminada, los miembros del grupo Administradores de dominio y Administradores de empresa pueden administrar cuentas de usuario, grupo y equipo. Los miembros del grupo Operadores de cuenta pueden crear, modificar y eliminar cuentas de usuario, pero no pueden administrar grupos o permisos.
+
+## Prerrequisitos
+
+- 
+Un equipo que ejecuta Windows Server o un sistema operativo cliente de Windows con los componentes AD DS y AD LDS de las herramientas de administración remota del servidor instalado.
+
+- 
+El equipo debe estar unido a un dominio y la cuenta de usuario que usa debe tener los permisos adecuados para administrar cuentas de usuario en ese dominio.
+
+## Administración de cuentas de usuario
+
+En las secciones siguientes de este artículo se proporciona información sobre cómo administrar las cuentas de usuario en el servidor:
+
+- 
+ Crear una cuenta de usuario
+
+- 
+ Administrar pertenencias a grupos
+
+- 
+ Restablecer una contraseña de usuario
+
+- 
+ Deshabilitar una cuenta de usuario
+
+- 
+ Habilitación de una cuenta de usuario
+
+- 
+ Quitar una cuenta de usuario
+
+- 
+ Propiedades de la cuenta de usuario
+
+### Crear una cuenta de usuario
+
+Al agregar una cuenta de usuario, el usuario asignado puede iniciar sesión en un equipo unido a un dominio. Puede conceder al usuario permiso para acceder a recursos de red, como carpetas compartidas, impresoras y aplicaciones. Para crear una cuenta de usuario mediante Usuarios y equipos de Active Directory, siga estos pasos:
+
+- En la consola Usuarios y equipos de Active Directory, expanda el árbol de dominio y seleccione el contenedor o la unidad organizativa que desea hospedar la cuenta de usuario.
+
+- En el menú Acción , seleccione Nuevo y, a continuación, seleccione Usuario.
+
+- En el cuadro de diálogo Nuevo objeto - Usuario , proporcione la siguiente información y seleccione Siguiente: 
+
+- 
+ Nombre: nombre del usuario (opcional)
+
+- 
+ Iniciales: iniciales del usuario (opcional)
+
+- 
+ Apellidos: apellidos del usuario (opcional)
+
+- 
+ Nombre completo: nombre completo del usuario (obligatorio)
+
+- 
+ Nombre de inicio de sesión de usuario: nombre de cuenta de usuario (obligatorio)
+
+- En la segunda página del cuadro de diálogo Nuevo objeto : usuario , proporcione la siguiente información y seleccione Siguiente: 
+
+- 
+ Contraseña: puede ser la contraseña asignada o una contraseña temporal que el usuario cambia en su siguiente inicio de sesión.
+
+- 
+ Confirmar: un duplicado de la contraseña asignada o la contraseña temporal.
+
+- 
+ El usuario debe cambiar la contraseña en el siguiente inicio de sesión. Active esta casilla si desea forzar al usuario a cambiar la contraseña en el siguiente inicio de sesión.
+
+- 
+ El usuario no puede cambiar la contraseña. Active esta casilla si desea restringir que el usuario cambie la contraseña.
+
+- 
+ La contraseña nunca expira. Active esta casilla si desea excluir la cuenta de las directivas de contraseña.
+
+- 
+ La cuenta está deshabilitada. Active esta casilla si desea crear la cuenta en un estado deshabilitado.
+
+- Revise la página de resumen del cuadro de diálogo Nuevo objeto - Usuario . Seleccione Finalizar para crear la cuenta.
+
+### Administrar pertenencias a grupos
+
+Los permisos de seguridad, como los de carpetas compartidas, se asignan con más frecuencia a grupos de seguridad en lugar de a cuentas de usuario individuales. Al administrar de qué grupos es miembro un usuario, a menudo se administran los recursos a los que tiene acceso la cuenta de usuario. Para administrar la pertenencia a grupos de una cuenta, realice los pasos siguientes.
+
+- En la consola Usuarios y equipos de Active Directory, busque y seleccione la cuenta de usuario de la que desea administrar la pertenencia.
+
+- En el menú Acción , seleccione Propiedades.
+
+- En el cuadro de diálogo propiedades de la cuenta del usuario, seleccione la pestaña Miembro de .
+
+- Si desea quitar la cuenta de usuario de un grupo, seleccione el grupo enumerado, seleccione Quitar y, a continuación, seleccione Aceptar para cerrar el cuadro de diálogo de propiedades de la cuenta de usuario.
+
+- Si desea agregar la cuenta de usuario a un grupo, seleccione Agregar.
+
+- En el cuadro de diálogo Seleccionar grupos , escriba el nombre del grupo al que desea agregar la cuenta y, a continuación, seleccione Aceptar. Si no está seguro del nombre del grupo, use el botón Avanzadas para buscar el dominio de los grupos y el botón Comprobar nombres para comprobar el nombre.
+
+- Seleccione Aceptar para cerrar el cuadro de diálogo de propiedades de la cuenta de usuario y aplicar los cambios.
+
+### Restablecimiento de una contraseña de usuario
+
+Para restablecer una contraseña de cuenta de usuario mediante la consola usuarios y equipos de Active Directory, siga estos pasos:
+
+- En la consola usuarios y equipos de Active Directory, busque la cuenta de usuario para la que desea restablecer la contraseña.
+
+- En el menú Acción , seleccione Restablecer contraseña.
+
+- En el cuadro de diálogo Restablecer contraseña , proporcione la siguiente información y seleccione Aceptar.
+
+- 
+ Nueva contraseña: nueva contraseña para el usuario.
+
+- 
+ Confirmar contraseña: vuelva a escribir la misma contraseña.
+
+- 
+ El usuario debe cambiar la contraseña en el siguiente inicio de sesión. Active esta casilla si desea forzar al usuario a cambiar la contraseña la próxima vez que inicie sesión.
+
+- 
+ Desbloquee la cuenta de usuario. Si la cuenta está bloqueada porque el usuario escribió demasiadas contraseñas incorrectas, active esta casilla para desbloquear la cuenta.
+
+### Deshabilitar una cuenta de usuario
+
+Para deshabilitar una cuenta de usuario mediante la consola Usuarios y equipos de Active Directory, siga estos pasos:
+
+- En la consola usuarios y equipos de Active Directory, busque la cuenta de usuario que desea deshabilitar.
+
+- En el menú Acción , seleccione Deshabilitar cuenta.
+
+- En el cuadro de diálogo Active Directory Domain Services , seleccione Aceptar. La cuenta está deshabilitada.
+
+Cuando se deshabilita una cuenta, un usuario que ha iniciado sesión permanece iniciado sesión, pero no puede realizar nuevos inicios de sesión.
+
+### Habilitación de una cuenta de usuario
+
+Para habilitar una cuenta de usuario mediante la consola Usuarios y equipos de Active Directory, siga estos pasos:
+
+- En la consola usuarios y equipos de Active Directory, busque la cuenta de usuario que desea habilitar.
+
+- En el menú Acción , seleccione Habilitar cuenta.
+
+- En el cuadro de diálogo Active Directory Domain Services , seleccione Aceptar. La cuenta está habilitada.
+
+### Quitar una cuenta de usuario
+
+Al quitar una cuenta de Active Directory, se elimina la cuenta. El procedimiento recomendado es deshabilitar las cuentas antes de eliminarlas en caso de que la cuenta tenga permisos para los recursos a los que no se puede acceder a través de otros métodos. Para eliminar una cuenta mediante la consola usuarios y equipos de Active Directory, siga estos pasos:
+
+- En la consola usuarios y equipos de Active Directory, busque la cuenta de usuario que desea habilitar.
+
+- En el menú Acción , seleccione Eliminar.
+
+- En el cuadro de diálogo Active Directory Domain Services , seleccione Aceptar. Se elimina la cuenta.
+
+Puede recuperar cuentas eliminadas mediante la papelera de reciclaje de Active Directory si habilita la papelera de reciclaje antes de eliminar la cuenta. Si la papelera de reciclaje no está habilitada, debe realizar una restauración autoritativa de AD DS mediante una copia de seguridad de AD DS que incluya la cuenta.
+
+## Propiedades de la cuenta de usuario
+
+En la lista siguiente se incluyen todas las pestañas de la página de propiedades de la cuenta de usuario, incluidas las pestañas visibles solo si la opción Características avanzadas está habilitada. Puede habilitar esta opción desde el menú Ver en la consola de usuarios y equipos de Active Directory. Esta información se almacena con la cuenta como atributos del objeto de cuenta de AD DS.
+
+- 
+ General
+
+- 
+ Dirección
+
+- 
+ Cuenta
+
+- 
+ Perfil
+
+- 
+ Teléfonos
+
+- 
+ Organización
+
+- 
+ Perfil de Servicios de Escritorio remoto
+
+- 
+ COM+
+
+- 
+ Editor de atributos
+
+- 
+ Seguridad
+
+- 
+ Medio ambiente
+
+- 
+ Sesiones
+
+- 
+ Control remoto
+
+- 
+ Certificados publicados
+
+- 
+ Miembro de
+
+- 
+ Replicación de contraseñas
+
+- 
+ Marcado
+
+- 
+ Objeto
+
+### General
+
+La pestaña General de la página de propiedades de la cuenta de usuario incluye los siguientes campos relacionados con el nombre y la descripción del usuario:
+
+- Nombre
+
+- Initials
+
+- Apellido
+
+- Nombre para mostrar
+
+- Descripción
+
+- Oficina
+
+- Número de teléfono
+
+- Página web
+
+### Dirección
+
+La pestaña Dirección de la página de propiedades de la cuenta de usuario permite almacenar información de ubicación con la cuenta e incluye los siguientes campos:
+
+- Calle
+
+- Apartado de Correos
+
+- Ciudad
+
+- Estado o provincia
+
+- Código postal
+
+- País o región
+
+### Cuenta
+
+La pestaña Cuenta de la página de propiedades de la cuenta de usuario permite configurar varias opciones de cuenta. Entre ellas se incluyen las horas de inicio de sesión, los equipos específicos en los que la cuenta puede iniciar sesión y los tipos de cifrado que admite la cuenta. También puede establecer si la cuenta se puede delegar y especificar si la cuenta debe expirar o cuándo debe expirar. Esta pestaña incluye la siguiente configuración:
+
+- Nombre de inicio de sesión de usuario, incluido el dominio de inicio de sesión de usuario
+
+- Nombre de inicio de sesión de usuario (anterior a Windows 2000)
+
+- Horas de inicio de sesión
+
+- Iniciar sesión en
+
+- Desbloquear cuenta
+
+- El usuario debe cambiar la contraseña en el siguiente inicio de sesión
+
+- El usuario no puede cambiar la contraseña
+
+- La contraseña nunca expira
+
+- Almacenamiento de contraseñas mediante cifrado reversible
+
+- La cuenta está deshabilitada
+
+- La tarjeta inteligente es necesaria para un inicio de sesión interactivo
+
+- La cuenta es confidencial y no se puede delegar
+
+- Usar solo los tipos de cifrado DES de Kerberos para esta cuenta
+
+- Esta cuenta admite el cifrado de 128 bits de Kerberos AES
+
+- Esta cuenta admite el cifrado de 256 bits de Kerberos AES
+
+- No pedir la autenticación Kerberos previa
+
+- Expira la cuenta
+
+### Perfil
+
+La pestaña Perfil de la página de propiedades de la cuenta de usuario permite configurar la información de perfil móvil, el script de inicio de sesión y la configuración de la carpeta principal. Esta pestaña contiene los siguientes campos:
+
+- Ruta de acceso al perfil
+
+- Script de inicio de sesión
+
+- Carpeta principal
+
+### Teléfonos
+
+La pestaña Teléfonos de la página de propiedades de la cuenta de usuario permite almacenar la información del número de teléfono con una cuenta de usuario. Contiene los siguientes campos:
+
+- Hogar
+
+- Buscapersonas
+
+- Móvil
+
+- Fax
+
+- Teléfono IP
+
+- Notas
+
+### Organización
+
+La pestaña Organización de la página de propiedades de la cuenta de usuario permite almacenar información sobre un usuario, incluido el puesto de trabajo y el departamento. También puede usar esta pestaña para especificar un administrador y ver qué cuentas de usuario aparecen como informes directos. Esta pestaña contiene los siguientes campos:
+
+- Título del Puesto
+
+- Departamento
+
+- Empresa
+
+- Gerente
+
+- Informes directos
+
+### Perfil de Servicios de Escritorio remoto
+
+La pestaña Perfil de servicio de Escritorio remoto de la página de propiedades de la cuenta de usuario le permite configurar un perfil de usuario de Servicio de Escritorio remoto. Esta pestaña incluye la siguiente configuración:
+
+- Ruta de perfil de usuario de Servicios de Escritorio remoto
+
+- Carpeta principal de Servicios de Escritorio Remoto
+
+- Denegar los permisos de este usuario para iniciar sesión en el servidor host de sesión de Escritorio remoto.
+
+### COM+
+
+La pestaña COM+ de la página de propiedades de la cuenta de usuario permite especificar con qué partición COM+ está asociada una cuenta de usuario.
+
+### Editor de atributos
+
+La pestaña Editor de atributos de la página de propiedades de la cuenta de usuario permite editar directamente cada atributo de cuenta. El Editor de atributos también muestra atributos que no se exponen a través de la interfaz de página de propiedades del usuario.
+
+### Seguridad
+
+La pestaña Seguridad de la página de propiedades de la cuenta de usuario le permite ver los permisos de seguridad que se aplican a la cuenta. Al seleccionar el botón Avanzadas , también puede configurar la auditoría del uso de estos permisos.
+
+### Medio ambiente
+
+La pestaña Entorno de la página de propiedades de la cuenta de usuario permite configurar programas específicos para que se inicien en el inicio de sesión en el entorno de Servicios de Escritorio remoto y si se deben conectar unidades de cliente, impresoras y la impresora cliente principal al iniciar sesión.
+
+### Sesiones
+
+La pestaña Sesiones de la página de propiedades de la cuenta de usuario permite configurar los valores de tiempo de espera y reconexión de Servicios de Escritorio remoto. Puede configurar las siguientes opciones en esta pestaña:
+
+- Finalizar una sesión desconectada
+
+- Límite de sesión activo
+
+- Límite de sesión inactiva
+
+- Qué acción realizar cuando se alcanza un límite de sesión o se interrumpe la conexión
+
+- Si se permite la reconexión desde cualquier cliente o solo el cliente de origen
+
+### Control remoto
+
+La pestaña Control remoto de la página de propiedades de la cuenta de usuario permite configurar las opciones de control remoto de Servicios de Escritorio remoto. Esta pestaña contiene los siguientes campos:
+
+- Habilitación del control remoto
+
+- Requerir el permiso del usuario
+
+- Nivel de control (vista/interacción)
+
+### Certificados publicados
+
+La pestaña Certificados publicados de la página de propiedades de la cuenta de usuario muestra todos los certificados X509 publicados para la cuenta de usuario y almacenados en Active Directory.
+
+### Miembro de
+
+La pestaña Miembro de la página de propiedades de la cuenta de usuario permite agregar o quitar la pertenencia a grupos de seguridad.
+
+### Replicación de contraseñas
+
+La pestaña Replicación de contraseñas de la página de propiedades de la cuenta de usuario permite especificar qué controladores de dominio de solo lectura almacenan copias almacenadas en caché de la contraseña de la cuenta de usuario.
+
+### Marcado
+
+La pestaña Acceso telefónico de la página de propiedades de la cuenta de usuario permite configurar los siguientes permisos de acceso a la red del servidor de directivas de red:
+
+- Permitir acceso
+
+- Denegación del acceso
+
+- Control del acceso a través de la Política de red NPS
+
+- Comprobar ID de autor de llamada
+
+- Sin devolución de llamada
+
+- Establecido por llamador
+
+- Siempre devolver la llamada a
+
+- Asignar direcciones IP estáticas
+
+- Aplicar rutas estáticas
+
+### Objeto
+
+La pestaña Objeto de la página de propiedades de la cuenta de usuario permite ver información sobre el objeto de seguridad principal y configurar la opción Proteger el objeto contra la eliminación accidental.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-07-25

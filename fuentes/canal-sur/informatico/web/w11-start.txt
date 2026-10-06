@@ -1,0 +1,221 @@
+URL: https://support.microsoft.com/es-es/windows/experience/personalization/customize-the-windows-start-menu
+Leído: 2026-10-05
+
+# Personalizar el menú Inicio de Windows
+
+ Se aplica a
+Windows 11 Windows 10 
+
+- 
+
+ Windows 11
+
+- 
+
+ Windows 10
+
+El menú Inicio de Windows es una característica clave del sistema operativo que proporciona acceso rápido a las aplicaciones, la configuración y los archivos. Incluye una potente función de búsqueda y le permite anclar sus aplicaciones, carpetas y sitios web favoritos para facilitar el acceso. Las opciones de personalización le permiten organizar sus pines en grupos y cambiar el diseño del menú Inicio para que se ajuste a sus preferencias.
+
+## Estructura del menú Inicio
+
+El menú Inicio está organizado en seis áreas principales:
+
+- 
+ Búsqueda: encuentra rápidamente aplicaciones, archivos y configuraciones escribiendo palabras clave
+
+- 
+ Chinchetas: aplicaciones, archivos, carpetas y sitios web anclados en formato de cuadrícula para facilitar el acceso. 
+ Todas las aplicaciones muestra una lista alfabética de todas las aplicaciones instaladas
+
+- 
+ Recomendaciones: aplicaciones agregadas recientemente y usadas con frecuencia, además de archivos abiertos recientemente
+
+- 
+ Todas: aplicaciones instaladas que se pueden ver en la vista de categoría, cuadrícula o lista.
+
+- 
+ Cuenta: icono de Perfil para la configuración de la cuenta, el cambio de cuentas o el cierre de sesión. También puede agregar accesos directos para facilitar el acceso a carpetas comunes. El botón de encendido te permite bloquear, suspender, apagar o reiniciar tu dispositivo
+
+- 
+ Compañero de dispositivo móvil: vea el contenido de su teléfono, como mensajes, llamadas y notificaciones a través de Enlace Móvil directamente desde el menú Inicio.
+
+## Configurar el menú Inicio
+
+Estas son las personalizaciones comunes para el menú Inicio. Expande cada sección para obtener más información.
+
+### Anclar y desanclar aplicaciones o accesos directos
+
+Hay diferentes maneras de anclar aplicaciones o accesos directos al menú Inicio. Por ejemplo:
+
+- En el cuadro de búsqueda de la barra de tareas o en el menú Inicio, escribe el nombre de la aplicación que quieres anclar. Haga clic con el botón derecho en la aplicación y luego seleccione Anclar a Inicio
+
+- En el Explorador, haga clic con el botón derecho en una carpeta y seleccione Anclar a Inicio
+
+- Para sitios web, abre Edge y navega al sitio web que quieres anclar. Después, seleccione el menú >de más opcionesMás herramientas>Anclar a Inicio
+
+ Desanclar un elemento del menú Inicio
+
+Para quitar una aplicación anclada o un acceso directo del menú Inicio, haga clic con el botón derecho en él y seleccione Desanclar de Inicio .
+
+## Reorganizar y agrupar las chinchetas
+
+Cuando quieras cambiar el orden de las chinchetas en el menú Inicio, arrastra la chincheta desde su posición actual a otra.
+
+ Organizar las chinchetas en carpetas
+
+La agrupación de pines en carpetas en el menú Inicio ayuda a mantener las aplicaciones organizadas, reduce el desorden y facilita la búsqueda y el acceso rápidamente a las aplicaciones relacionadas. También permite una mejor administración del espacio y personalización, lo que proporciona a su menú Inicio un diseño más limpio y eficiente.
+
+- Para crear una carpeta, arrastre un elemento anclado sobre otro para crear una carpeta. La carpeta se creará automáticamente y podrá cambiarle el nombre
+
+- Para agregar más anclas a la carpeta, arrástralas a ella
+
+- Para quitar una chincheta de una carpeta, ábrela y arrastra la chincheta fuera de ella
+
+- Cuando solo queda un pin, la carpeta se quita del menú Inicio
+
+### Personalizar el diseño
+
+Puedes personalizar el diseño del menú Inicio de varias formas.
+
+Las secciones Anclados y Todas recuerdan la última vista utilizada. Por ejemplo, si prefiere ver todas las aplicaciones ancladas de forma predeterminada, seleccione Mostrar todo y la sección permanecerá expandida la próxima vez que abra Inicio. 
+
+Lo mismo se aplica a la sección Todas . Puedes elegir entre diferentes vistas para las aplicaciones instaladas, como Categoría, Cuadrícula y Lista. Puede cambiar entre estas vistas en cualquier momento y Inicio recordará la última selección. 
+
+Además, los usuarios pueden desanclar aplicaciones o desactivar diferentes proveedores para iniciar recomendado. Si los usuarios desanclan todo o desactivan todos los proveedores recomendados en Configuración, esas secciones se contraen y los usuarios no las verán. 
+
+### Personalizar el área de cuenta
+
+Puedes elegir qué carpetas aparecen junto al botón de encendido en el menú Inicio. Estas carpetas pueden incluir ubicaciones comunes como Documentos, Descargas, Música, Imágenes, Vídeos, Red y Carpetas personales.
+
+Solo tiene que alternar los conmutadores de las carpetas que desea agregar. Esta personalización le permite acceder rápidamente a las carpetas usadas con frecuencia directamente desde el menú Inicio, lo que mejora su flujo de trabajo y hace que la navegación sea más eficaz.
+
+- 
+Selecciona Inicio, haz clic con el botón derecho en la parte inferior del menú Inicio y selecciona Configuración de Inicio , o usa el siguiente acceso directo:
+
+ Inicio
+
+- 
+Seleccione Carpetas y active la opción en Todas las carpetas que desee que aparezcan junto al botón de Inicio/Apagado
+
+### Mover Inicio a un lado
+
+Normalmente, el menú Inicio está centrado, pero puede cambiar la alineación al lado de la barra de tareas.
+
+- 
+Haga clic con el botón derecho en la barra de tareas y seleccione Configuración de la barra de tareas, o use el siguiente acceso directo:
+
+ Barra de tareas
+
+- 
+
+ Expanda los comportamientos de la barra de tareas y seleccione la opción que desee para alinear la barra de tareas
+
+Para obtener más información, consulta Personalizar la barra de tareas en Windows.
+
+Nota
+
+ El soporte técnico para Windows 10 finalizó el 14 de octubre de 2025
+
+- Después del 14 de octubre de 2025, Microsoft ya no proporcionará actualizaciones de software gratuitas desde Windows Update, asistencia técnica ni correcciones de seguridad para Windows 10. El PC seguirá funcionando, pero recomendamos que se cambie a Windows 11.
+
+- 
+ Más información
+
+El menú Inicio de Windows es una característica clave del sistema operativo que proporciona acceso rápido a las aplicaciones, la configuración y los archivos. Incluye una potente función de búsqueda y le permite anclar sus aplicaciones, carpetas y sitios web favoritos para facilitar el acceso. Las opciones de personalización te permiten cambiar el tamaño de los iconos, organizarlos en grupos y cambiar la apariencia del menú Inicio para que se ajuste a tus preferencias.
+
+## Estructura del menú Inicio
+
+El menú Inicio está organizado en diferentes áreas:
+
+- 
+ Cuenta: icono de Perfil para la configuración de la cuenta, el cambio de cuentas o el cierre de sesión. También puede agregar accesos directos para facilitar el acceso a carpetas comunes. El botón de encendido te permite apagar, reiniciar o poner el dispositivo en suspensión
+
+- 
+ Lista de aplicaciones: muestra las aplicaciones agregadas recientemente en la parte superior y una lista alfabética de todas las aplicaciones instaladas
+
+- 
+ Iconos anclados: esta área presenta iconos dinámicos y accesos directos a aplicaciones, sitios web y carpetas que se usan con frecuencia. Los iconos se pueden cambiar de tamaño, mover y agrupar en secciones con nombre para una mejor organización.
+
+## Configurar el menú Inicio
+
+Estas son las personalizaciones comunes para el menú Inicio. Expande cada sección para obtener más información.
+
+### Cambiar el tamaño del menú Inicio
+
+Windows 10 ofrece flexibilidad para configurar el menú Inicio, lo que le permite cambiar su tamaño arrastrando sus bordes o establecerlo en pantalla completa. Esta personalización le ayuda a adaptar el menú Inicio a sus necesidades y preferencias específicas.
+
+Optar por un menú Inicio de pantalla completa puede ser beneficioso si prefiere una interfaz más inmersiva y organizada. Este diseño proporciona un lienzo más grande, lo que facilita el acceso a todas las aplicaciones e iconos a la vez. Es especialmente útil en el modo tableta, donde una interfaz táctil mejora la facilidad de uso.
+
+Cambie el tamaño del botón Inicio arrastrando los bordes:
+
+- Para abrir el menú Inicio, seleccione el botón Inicio
+
+- Coloque el cursor en el borde superior o lateral del menú Inicio hasta que cambie a una flecha de dos puntas
+
+- Selecciona y arrastra el borde para cambiar el tamaño del menú Inicio a la altura y anchura que prefieras
+
+Cambie el tamaño del Inicio convirtiéndolo en pantalla completa:
+
+- 
+En la aplicación Configuración de tu dispositivo Windows, selecciona Inicio de personalización>o usa el siguiente acceso directo:
+
+ Inicio
+
+- 
+Active la opción Usar pantalla completa de Usar
+
+### Anclar y desanclar aplicaciones o accesos directos
+
+Hay diferentes maneras de anclar aplicaciones o accesos directos al menú Inicio. Por ejemplo:
+
+- En el cuadro de búsqueda de la barra de tareas, escriba el nombre de la aplicación que desea anclar. Haga clic con el botón derecho en la aplicación y luego seleccione Anclar a Inicio
+
+- En el Explorador, haga clic con el botón derecho en una carpeta y seleccione Anclar a Inicio
+
+- Para sitios web, abre Edge y navega al sitio web que quieres anclar. Después, seleccione el menú >de más opcionesMás herramientas>Anclar a Inicio
+
+Para quitar un icono del menú Inicio, haga clic con el botón derecho en él y seleccione Desanclar de Inicio .
+
+## Reorganizar y agrupar los iconos
+
+Siempre que quieras cambiar el orden de los iconos en el menú Inicio, arrastra un icono de su posición actual a otra.
+
+ Organizar los iconos en carpetas
+
+La agrupación de iconos en carpetas en el menú Inicio ayuda a mantener las aplicaciones organizadas, reduce el desorden y facilita la búsqueda y el acceso rápidamente a las aplicaciones relacionadas. También permite una mejor administración del espacio y personalización, lo que proporciona a su menú Inicio un diseño más limpio y eficiente.
+
+- Para crear una carpeta, arrastre un icono sobre otro para crear una carpeta. La carpeta se creará automáticamente y podrá cambiarle el nombre
+
+- Para agregar más iconos a la carpeta, arrástralos a ella
+
+- Para quitar un icono de una carpeta, ábrela y arrastra el icono fuera de ella
+
+- Para eliminar una carpeta, mueva todos los iconos fuera de ella
+
+### Ocultar lista de aplicaciones
+
+Al ocultar la lista de aplicaciones, puede lograr una apariencia más limpia del menú Inicio. Esto puede ser útil si prefieres un aspecto minimalista o si principalmente usas mosaicos anclados para tener acceso rápido a las aplicaciones más usadas. Además, puede ayudar a reducir el desorden visual, lo que facilita centrarse en las aplicaciones y los accesos directos que más le importan.
+
+Para ocultar la lista de aplicaciones en el menú Inicio, sigue estos pasos:
+
+- En la aplicación Configuración de su dispositivo Windows
+
+ seleccione Inicio de personalización>o use el siguiente acceso directo:
+
+ Inicio
+
+- Cambie a activado la opción Mostrar lista de aplicaciones en el menú Inicio
+
+### Personalizar el área de cuenta
+
+Puedes elegir qué carpetas aparecen encima del botón de encendido en el menú Inicio. Estas carpetas pueden incluir ubicaciones comunes como Documentos, Descargas, Música, Imágenes, Vídeos, Red y Carpetas personales.
+
+Esta personalización le permite acceder rápidamente a las carpetas usadas con frecuencia directamente desde el menú Inicio, lo que mejora su flujo de trabajo y hace que la navegación sea más eficaz.
+
+- En la aplicación Configuración de su dispositivo Windows
+
+ seleccione Inicio de personalización>o use el siguiente acceso directo:
+
+ Inicio
+
+- Selecciona Elegir qué carpetas aparecen en Inicio y, después, alterna a En todas las carpetas que quieras que aparezcan junto al botón de Inicio/Apagado

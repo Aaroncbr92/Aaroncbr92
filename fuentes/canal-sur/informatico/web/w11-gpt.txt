@@ -1,0 +1,164 @@
+URL: https://learn.microsoft.com/es-es/windows-hardware/manufacture/desktop/configure-uefigpt-based-hard-drive-partitions
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Particiones de disco duro basadas en UEFI/GPT
+
+## 
+
+Crear diseños de partición personalizados para las unidades de disco duro (HDD), unidades de estado sólido (SSD) y otras unidades al implementar Windows en dispositivos basados en UNIFIED Extensible Firmware Interface (UEFI).
+
+Nota:
+
+Si utiliza un diseño de particiones personalizado, actualice el script de recuperación mediante botón para que las herramientas de recuperación puedan recrear el diseño de particiones personalizado cuando sea necesario.
+
+## Requisitos de partición
+
+Al implementar Windows en un dispositivo basado en UEFI, debes dar formato al disco duro que incluye la partición de Windows mediante un sistema de archivos de tabla de particiones GUID (GPT). Las unidades adicionales pueden usar el formato de archivo GPT o del registro de arranque maestro (MBR).
+
+Una unidad GPT puede tener hasta 128 particiones.
+
+Cada partición puede tener un máximo de 18 exabytes (~18,8 millones de terabytes) de espacio.
+
+### Partición del sistema
+
+El dispositivo debe contener una partición del sistema. En las unidades GPT, esto se conoce como partición del sistema EFI o ESP. Normalmente, esta partición se almacena en el disco duro principal. El dispositivo arranca en esta partición.
+
+La partición del sistema EFI debe cumplir los siguientes requisitos mínimos de tamaño para el tipo de dispositivo de almacenamiento:
+
+- Tamaño del sector de 512 bytes nativo o 512e: mínimo 200 MB
+
+- Tamaño de sector nativo de 4K: mínimo de 300 MB
+
+La partición del sistema EFI debe tener formato con el formato de archivo FAT32.
+
+El sistema operativo administra esta partición y no debe contener ningún otro archivo, incluidas las herramientas de Windows RE.
+
+### Partición reservada de Microsoft (MSR)
+
+El tamaño de MSR es de 16 MB.
+
+Agregar un MSR a cada unidad GPT para ayudar con la administración de particiones. MSR es una partición reservada que no recibe un identificador de partición. No puede almacenar datos de usuario.
+
+### Otras particiones de utilidad
+
+Cualquier otra partición de utilidad no gestionada por Windows debe ubicarse antes de las particiones de Windows, datos e imagen de recuperación. Esto permite a los usuarios finales realizar acciones como cambiar el tamaño de la partición de Windows sin que afecte a las utilidades del sistema.
+
+Protege a los usuarios finales de la modificación accidental de particiones de utilidad identificándolos con un atributo GPT. Esto impide que estas particiones aparezcan en Explorador de archivos.
+
+#### Para definir las particiones como particiones de utilidad
+
+- Al implementar Windows mediante DiskPart, usa el conjunto de volúmenes de atributos GPT_ATTRIBUTE_PLATFORM_REQUIRED comando después de crear la partición para identificar la partición como una partición de utilidad. Para obtener más información, consulta el tema de MSDN: PARTITION_INFORMATION_GPT estructura.
+
+#### Para comprobar que existen particiones de sistema y de utilidad
+
+- Haz clic en Inicio, haz clic con el botón derecho en Este equipo y, a continuación, haz clic en Administrar. Se abre la ventana Administración de equipos.
+
+- Haz clic en Administración de discos. Aparece la lista de unidades y particiones disponibles.
+
+- En la lista de unidades y particiones, confirma que las particiones del sistema y de la utilidad están presentes y no tienen asignada una letra de unidad.
+
+### Partición de Windows
+
+- La partición debe tener al menos 20 gigabytes (GB) de espacio en unidad para versiones de 64 bits o 16 GB para versiones de 32 bits.
+
+- Se debe dar formato a la partición de Windows usando el formato de archivo NTFS.
+
+- La partición de Windows debe tener 16 GB de espacio libre después de que el usuario haya completado la Out Of Box Experience (OOBE) y de que el Mantenimiento automático haya finalizado.
+
+### Partición de recuperación
+
+Para determinar el tamaño mínimo de la partición de recuperación, agregue los tres valores siguientes. El resultado proporciona a la partición suficiente espacio para contener la imagen del entorno de recuperación (WinRE) de Windows y las personalizaciones, al tiempo que deja espacio libre para el mantenimiento:
+
+- Tamaño de la imagen de recuperación predeterminada, `winre.wim`. Use el tamaño del archivo tal como aparece en la imagen del sistema operativo Windows que va a implementar, en `\Windows\System32\Recovery\winre.wim`.
+
+- Tamaño combinado de las personalizaciones que realices en la imagen winRE (por ejemplo, idiomas adicionales, controladores y herramientas personalizadas) que agregas a `winre.wim`.
+
+- Un espacio libre adicional de 250 MB, que Windows requiere para atender correctamente WinRE.
+
+Esta partición también debe cumplir los siguientes requisitos:
+
+- Debe configurarse con el identificador de tipo: `DE94BBA4-06D1-4D40-A16A-BFD50179D6AC`.
+
+- Debe estar separada de la partición de Windows para permitir la conmutación automática por fallo y el arranque de particiones cifradas con Cifrado de unidad BitLocker de Windows.
+
+- Debe colocarse inmediatamente después de la partición de Windows. Esto permite a Windows modificar y volver a crear la partición más adelante si las actualizaciones futuras requieren una imagen de recuperación más grande.
+
+### Particiones de datos
+
+Los diseños de partición recomendados no incluyen particiones de datos. Sin embargo, si se necesitan particiones de datos, deben ubicarse después de la partición RE de Windows. Esto permite que las actualizaciones futuras Windows RE aumenten la partición de Windows RE reduciendo la partición de Windows.
+
+Este diseño hace que sea más difícil para los usuarios finales quitar la partición de datos y combinar el espacio con la partición de Windows. Para ello, la partición de Windows RE debe moverse al final del espacio no utilizado reclamado de la partición de datos, de modo que se pueda extender la partición de Windows.
+
+Los sistemas operativos Windows no incluyen funcionalidad ni utilidad para facilitar este proceso. Sin embargo, los fabricantes pueden desarrollar y proporcionar esta utilidad si los equipos se envían con particiones de datos.
+
+## Diseño de partición
+
+El diseño de partición predeterminado para equipos basados en UEFI es: una partición del sistema, un MSR, una partición de Windows y una partición de recuperación.
+
+Este diseño le permite usar el cifrado de unidad BitLocker de Windows a través de Windows y a través del entorno de recuperación de Windows.
+
+## Archivos de ejemplo: configurar particiones de unidad mediante scripts de Windows PE y DiskPart
+
+Para la implementación basada en imágenes, arranca el equipo en Windows PE y, a continuación, usa la herramienta DiskPart para crear las estructuras de partición en los equipos de destino.
+
+Nota:
+
+En estos ejemplos de DiskPart, a las particiones se les asignan las letras: System=S, Windows=W y Recovery=R. La partición MSR no recibe una letra de unidad.
+
+Cambia la letra de unidad de Windows a una letra que esté cerca del final del alfabeto, como W, para evitar conflictos de letras de unidad. No use X, ya que esta letra de unidad está reservada para Windows PE. Una vez se ha reiniciado el dispositivo, se asigna la letra C a la partición de Windows y las otras particiones no reciben ninguna letra de unidad.
+
+Si se reinicia, Windows PE reasigna letras de disco alfabéticamente, empezando por la letra C, sin tener en cuenta la configuración en el programa de instalación de Windows. Esta configuración puede cambiar en función de la presencia de unidades diferentes, como unidades flash USB.
+
+En los pasos siguientes se describe cómo particionar las unidades de disco duro y prepararse para aplicar imágenes. Puedes usar el código de las secciones siguientes para completar estos pasos.
+
+### Para particionar unidades de disco duro y preparar la aplicación de imágenes
+
+- 
+Copia y guarda el archivo CreatePartitions-UEFI.txt en una unidad flash USB.
+
+- 
+Usa Windows PE para arrancar el equipo de destino.
+
+- 
+Limpia y particiona la unidad. En este ejemplo, F es la letra de la unidad flash USB.
+
+`DiskPart /s F:\CreatePartitions-UEFI.txt
+`
+
+- Si utiliza un diseño de particiones personalizado, actualice el script de recuperación mediante botón para que las herramientas de recuperación puedan recrear el diseño de particiones personalizado cuando sea necesario.
+
+Importante
+
+Para evitar problemas en el arranque de la recuperación bare metal debido al tamaño de la partición, los fabricantes deben permitir que el script de generación automática de la función de recuperación bare metal cree la partición utilizada para el WIM de recuperación. Si el fabricante desea utilizar un script DISKPART personalizado para crear particiones, el tamaño mínimo de partición recomendado es de 990 MB con un mínimo de 250 MB de espacio libre.
+
+## Pasos siguientes
+
+Usa un script de implementación para aplicar las imágenes de Windows en las particiones recién creadas. Para obtener más información, consulta Capturar y aplicar particiones de Windows, de sistema y de recuperación.
+
+## Temas relacionados
+
+ Muestras de scripts
+
+ Configurar particiones del disco duro basadas en BIOS/MBR
+
+ Cifrado de unidad BitLocker
+
+ WinPE: Instalar en un disco duro (arranque plano o sin RAM)
+
+ Preguntas frecuentes sobre Windows y GPT
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-09-24

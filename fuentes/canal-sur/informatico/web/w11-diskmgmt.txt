@@ -1,0 +1,134 @@
+URL: https://learn.microsoft.com/es-es/windows-server/storage/disk-management/overview-of-disk-management
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Introducción a la Administración de discos
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10
+
+## 
+
+Administración de discos es una utilidad del sistema de Windows que permite realizar operaciones de almacenamiento avanzadas. Puede usar la utilidad para ver información sobre cada unidad del equipo y todas las particiones de cada unidad. La utilidad muestra los detalles de la partición, incluidas las estadísticas y la cantidad de espacio asignado o usado.
+
+Algunas de las tareas que puede completar con administración de discos incluyen:
+
+- Configuración de una nueva unidad en el equipo mediante la inicialización de un nuevo disco
+
+- 
+ Extensión de un volumen básico en un espacio no reclamado en un volumen de la misma unidad
+
+- 
+ Reducir un volumen o partición básico, como para habilitar la extensión en una partición vecina
+
+- 
+ Cambiar una letra de unidad o asignar una letra de unidad nueva
+
+## Visualización de unidades y particiones
+
+En la imagen siguiente se muestra la información general de Administración de discos de varias unidades. 
+ El disco 0 tiene tres particiones y El disco 1 tiene dos particiones. En disco 0, la unidad C: para Windows usa más espacio en disco. Las otras dos particiones para las operaciones del sistema y la recuperación usan una cantidad menor de espacio en disco.
+
+Windows normalmente incluye tres particiones en la unidad principal, que suele ser la unidad C:\ :
+
+ | Partición
+
+ | Propósito
+
+ | 
+ Disco local (C:)
+
+ | Almacena la instalación del sistema operativo Windows. Ubicación de almacenamiento común para otras aplicaciones y archivos.
+
+ | 
+ Sistema EFI
+
+ | Permite el proceso de inicio (arranque) para el ordenador y el sistema operativo en ordenadores modernos.
+
+ | 
+ Recuperación
+
+ | Almacena herramientas que admiten operaciones de recuperación de Windows cuando el equipo no se inicia o en otros escenarios de problemas. Para obtener más información, consulte Opciones de recuperación en Windows.
+
+Importante
+
+Administración de discos podría mostrar las particiones del sistema EFI y de recuperación como 100 por ciento libre. Sin embargo, estas particiones almacenan archivos críticos necesarios para que el equipo funcione correctamente. Por eso, las particiones suelen estar casi llenas. La práctica recomendada es no modificar estas particiones de ninguna manera.
+
+## Preparación de recursos para tareas
+
+Algunas tareas de administración de discos requieren información especial sobre el sistema, como una clave de recuperación de BitLocker, o un recurso existente, como un punto de restauración. Los siguientes artículos pueden ayudarle a preparar la información y los recursos que necesita para completar las tareas:
+
+- 
+ Crear una unidad de recuperación
+
+- 
+ Creación de un punto de restauración para el sistema en Windows
+
+- 
+ Copia de seguridad y restauración del equipo con Copias de seguridad de Windows
+
+- 
+ Buscar su clave de recuperación de BitLocker
+
+- 
+ Buscar archivos perdidos después de actualizar a Windows
+
+## Uso de otras herramientas para tareas
+
+La utilidad Administración de discos admite una amplia gama de tareas de unidad, pero algunas tareas solo se pueden completar mediante otra herramienta.
+
+Estas son algunas tareas comunes de administración de discos que debe completar mediante otras herramientas de Windows:
+
+- 
+ Liberar espacio en disco en Windows
+
+- 
+ Desfragmentación o optimización de las unidades de datos en Windows
+
+- Agrupa varios discos duros como una matriz redundante de discos independientes (RAID) con espacios de almacenamiento en Windows
+
+## Solución de problemas
+
+Cuando una tarea administración de discos notifica un error o un procedimiento no funciona según lo previsto, pruebe una de las siguientes opciones para resolver el problema:
+
+- Revise las sugerencias del artículo Solución de problemas de administración de discos.
+
+- Busque en el sitio de la Comunidad de soporte técnico de Microsoft publicaciones sobre archivos, carpetas y almacenamiento.
+
+- 
+ Haga una pregunta para obtener información de Microsoft u otros miembros de la comunidad.
+
+- 
+ Póngase en contacto con el soporte técnico de Microsoft sobre el problema.
+
+## Contenido relacionado
+
+- 
+ Administrar discos
+
+- 
+ Administrar volúmenes básicos
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-14

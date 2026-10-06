@@ -1,0 +1,416 @@
+URL: https://www.sdcard.org/developers/sd-standard-overview/capacity-sd-sdhc-sdxc-sduc/
+Leído: 2026-10-05
+
+
+
+ Capacity (SD/SDHC/SDXC/SDUC) - SD Association
+
+ Skip to main content
+
+ ENGLISH
+
+ 日本語
+
+ Member Login
+ Join the SD Association
+
+ Contact Us
+
+ Sitemap
+
+ Search this site
+
+ About SD Association
+
+Join the SD Association
+
+Membership Benefits Comparison
+
+Membership Application 
+
+Member Companies
+
+Fact Sheet
+
+FAQ
+
+Glossary
+
+SD Association Interest Group 
+
+About SD Association
+
+Founded in January 2000 by Panasonic, SanDisk and Toshiba (now KIOXIA), the SD Association is a group dedicated to establishing SD standards and facilitating their adoption and development.
+ At its outset the Association represented just 14 member companies and has grown into a global alliance comprised of around 800 member companies. By developing and adopting SD standards, members enjoy better compatibility of member cards between devices, greatly enhancing consumer enjoyment and convenience.
+
+ Consumers
+
+About SD Memory Card Choices
+
+SD, SDHC, SDXC and SDUC Card Capacity Choices
+
+Bus Interface Speed Standards for Large Size Data Transfer
+
+Speed Class Standards for Video Recording
+
+Application Performance Class for Running Smartphone Apps
+
+Low Voltage Signaling
+
+Copyright Protection for Digital Data (CPRM)
+
+SD Express / UHS-II Verification Program (SVP) Verified Product
+
+#choosemicroSD
+
+Usage Tip Videos
+
+FAQ
+
+Consumers
+
+The SD Association has prepared multiple SD standards relating to such features as memory capacity and reading/writing speed in order for users to select the optimum card for their device.
+
+ Developers
+
+SD Standard Overview
+
+SD Family
+
+Capacity (SD/SDHC/SDXC/SDUC)
+
+Bus Speed (Default Speed/High Speed/UHS/SD Express)
+
+SD Express Implementation Overview - In short videos and articles
+
+SD Express Member Products
+
+ Boot and Extended Security Features (RPMB and TCG)
+
+Boot (secured and fast)
+
+TCG
+
+RPMB
+
+Speed Class
+
+Application  Performance Class
+
+Low Voltage Signaling
+
+Content Protection
+
+Host Controllers
+
+SDIO/iSDIO
+
+Wireless LAN SD
+
+TransferJet SD
+
+ASSD
+
+smartSD
+
+Embedded SD
+
+Application Formats
+
+SD-Audio
+
+SD-Video
+
+SD-Binding
+
+SD-SD
+
+SD-SD eBook
+
+SD Express / UHS-II Verification Program (SVP) Verified Product
+
+How to Start Using SD Standards in Your Product
+
+Use and Licensing
+
+ Downloads
+
+SD Association Whitepapers
+
+Simplified Specifications
+
+SD Memory Card Formatter for Windows/Mac
+
+SD Memory Card Formatter for Windows Download
+
+SD Memory Card Formatter for Mac Download
+
+FAQ
+
+SD Memory Card Formatter for Linux
+
+SD Memory Card Formatter for Linux_x86_64 Download
+
+SD Memory Card Formatter for Linux_ARM64 Download
+
+FAQ
+
+SD Association Brochure Download
+
+Downloads
+
+Download the SD Association Whitepapers, SD Simplified Specifications and SD Memory Card Formatter here.
+
+ News & Events
+
+Articles by Our Experts
+
+SD Association News
+
+Student Competition
+
+Upcoming Events
+
+Past Events
+
+What's New
+
+Newsletters
+
+News & Events
+
+Introducing the latest about the SD Association, including trade shows, Association-sponsored seminars and other events.
+
+ Members Site
+
+ Licensees Sites
+
+HALA Site 
+
+LAMS Site 
+
+SDALA Site 
+
+About SD Association
+
+Consumers
+
+Developers
+
+Downloads
+
+News & Events
+
+Members Site
+
+Licensees Sites
+
+HALA Site 
+
+LAMS Site 
+
+SDALA Site 
+
+Contact Us
+
+Sitemap
+
+ Search this site
+
+ENGLISH
+
+日本語
+
+Member Login
+
+Join the SD Association
+
+Capacity (SD/SDHC/SDXC/SDUC)
+
+Developers
+SD Standard Overview
+SD Family
+Capacity (SD/SDHC/SDXC/SDUC)
+Bus Speed (Default Speed/High Speed/UHS/SD Express)
+SD Express Implementation Overview - In short videos and articles
+SD Express Member Products
+Boot and Extended Security Features (RPMB and TCG)
+Boot (secured and fast)
+TCG
+RPMB
+Speed Class
+Application  Performance Class
+Low Voltage Signaling
+Content Protection
+Host Controllers
+SDIO/iSDIO
+Wireless LAN SD
+TransferJet SD
+ASSD
+smartSD
+Embedded SD
+Application Formats
+SD-Audio
+SD-Video
+SD-Binding
+SD-SD
+SD-SD eBook
+SD Express / UHS-II Verification Program (SVP) Verified Product
+How to Start Using SD Standards in Your Product
+Use and Licensing
+
+ Developers
+
+Developers
+SD Standard Overview
+SD Family
+Capacity (SD/SDHC/SDXC/SDUC)
+Bus Speed (Default Speed/High Speed/UHS/SD Express)
+SD Express Implementation Overview - In short videos and articles
+SD Express Member Products
+Boot and Extended Security Features (RPMB and TCG)
+Boot (secured and fast)
+TCG
+RPMB
+Speed Class
+Application  Performance Class
+Low Voltage Signaling
+Content Protection
+Host Controllers
+SDIO/iSDIO
+Wireless LAN SD
+TransferJet SD
+ASSD
+smartSD
+Embedded SD
+Application Formats
+SD-Audio
+SD-Video
+SD-Binding
+SD-SD
+SD-SD eBook
+SD Express / UHS-II Verification Program (SVP) Verified Product
+How to Start Using SD Standards in Your Product
+Use and Licensing
+
+There are four standards for capacity:
+
+ | 
+
+ | SD standard – Up to 2GB SD memory card using FAT 12 and 16 file systems
+
+ | 
+
+ | SDHC standard – over 2GB-32GB SDHC memory card using FAT32 file system
+
+ | 
+
+ | SDXC standard – over 32GB-2TB SDXC memory card using exFAT file system
+
+ | 
+
+ | SDUC standard – over 2TB-128TB SDUC memory card using exFAT file system
+
+ | 
+
+ | SD Standard
+
+ | SDHC Standard
+
+ | SDXC Standard
+
+ | SDUC Standard
+
+ | Capacity
+
+ | up to 2GB
+
+ | more than 2GBup to 32GB
+
+ | more than 32GBup to 2TB
+
+ | more than 2TBup to 128TB
+
+ | File System
+
+ | FAT 12, 16
+
+ | FAT 32
+
+ | exFAT
+
+ | exFAT
+
+ | SD Logo
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+ | Form Factor Size
+
+ | SD
+
+ | 32 x 24 x 2.1 mm
+
+ | microSD
+
+ | 11 x 15 x 1.0 mm
+
+ | 
+
+Speed Classes
+
+ | Normal
+
+Speed
+
+mode
+
+ | C2, C4, C6
+
+ | High
+
+Speed
+
+mode
+
+ | C2, C4, C6, C10,V6, V10
+
+ | UHS-I
+
+mode
+
+ | —
+
+ | C2, C4, C6, C10U1, U3V6, V10, V30
+
+ | UHS-II
+
+& III mode
+
+ | —
+
+ | C4, C6, C10U1, U3V6, V10, V30, V60, V90
+
+ | SD Express mode
+
+ | —
+
+ | E150, E300, E450, E600
+
+SD and related marks and logos are trademarks of SD-3C LLC.
+
+© 2000 - 2026 SD-3C LLC. All Rights Reserved.
+
+Copyright © SD Association. All Rights Reserved.
+
+ Contact Us
+ Sitemap
+ Legal
+ Privacy Policy
+

@@ -1,0 +1,112 @@
+URL: https://support.microsoft.com/es-es/windows/administraci%C3%B3n-de-discos-en-windows-ad88ba19-f0d3-0809-7889-830f63e94405
+Leído: 2026-10-05
+
+# Administración de discos en Windows
+
+ Se aplica a
+Windows 11 Windows 10 
+
+## Resumen
+
+Administración de discos es una herramienta integrada de Windows que te ayuda a administrar discos y volúmenes. Puedes usarlo para inicializar nuevas unidades, crear y dar formato a volúmenes, cambiar letras de unidad y extender o reducir volúmenes existentes.
+
+ Abre Administración de discos:
+
+Puedes abrir administración de discos de varias maneras:
+
+- 
+ Menú Inicio (recomendado): Haz clic con el botón derecho (o mantén presionado) el botón Inicio y, a continuación, selecciona Administración de discos.
+
+- 
+ Buscar: Selecciona Búsqueda, escribe Administración de discos y luego selecciona Crear y formatear particiones de disco duro.
+
+- 
+ Ejecutar: Presiona Windows + R, escribe diskmgmt.msc y, a continuación, selecciona Aceptar.
+
+- 
+ Administración de equipos: Abre Administración de equipos y, a continuación, selecciona Administración de discos de almacenamiento>.
+
+Nota
+
+Administración de discos tiene el mismo aspecto y funciona en Windows 10 y Windows 11. No hay diferencias de características entre las versiones.
+
+## Inicializar un disco nuevo
+
+- Abre Administración de discos.
+
+- Selecciona y mantén presionado (o haz clic con el botón derecho) en el disco que quieres inicializar y, a continuación, selecciona Inicializar disco. Si el disco aparece como Sin conexión, primero selecciona y mantén presionado el disco (o haz clic con el botón derecho en él) y, a continuación, selecciona En línea.
+
+Algunos discos USB no se pueden inicializar. Estos discos solo tienen formato y, a continuación, se les asigna una letra de unidad.
+
+- En el cuadro de diálogo Inicializar disco , asegúrate de que esté seleccionado el disco correcto y, a continuación, selecciona Aceptar para aceptar el estilo de partición predeterminado o cambiarlo, según sea necesario.
+
+- Usa GPT si tienes un sistema moderno con firmware UEFI y necesitas compatibilidad con unidades grandes y más de cuatro particiones.
+
+- Usa MBR si estás trabajando con hardware o sistemas operativos más antiguos que no admiten UEFI.
+
+A continuación, el estado del disco cambia brevemente a Inicialización y, a continuación, al estado En línea . Si se produce un error en la inicialización por algún motivo, consulta Solución de problemas de administración de discos.
+
+## Crear y dar formato a una nueva partición (volumen)
+
+Para crear una partición o volumen (los dos términos a menudo se usan indistintamente) en un disco duro, debes iniciar sesión como administrador y debe haber espacio sin asignar o espacio libre en una partición extendida del disco duro.
+
+Si no hay espacio en disco sin asignar, puedes crearlo reduciendo una partición existente, eliminando una partición o mediante un programa de particiones de terceros.
+
+- 
+Abre Administración de discos.
+
+- 
+Haz clic con el botón derecho en una región sin asignar del disco duro y, a continuación, selecciona Nuevo volumen simple.
+
+- 
+En el Asistente para nuevo volumen simple, selecciona Siguiente.
+
+- 
+Escribe el tamaño del volumen que deseas crear en megabytes (MB) o acepta el tamaño máximo predeterminado y, a continuación, selecciona Siguiente.
+
+- 
+Acepta la letra de unidad predeterminada o elige una letra de unidad diferente para identificar la partición y, a continuación, selecciona Siguiente.
+
+- 
+En el cuadro de diálogo Formatear la partición, realiza uno de los procedimientos siguientes:
+
+- Si no quieres formatear el volumen ahora, selecciona No formatear este volumen y selecciona Siguiente.
+
+- Para formatear el volumen con la configuración predeterminada, selecciona Siguiente.
+
+- 
+Revisa las opciones seleccionadas y selecciona Finalizar.
+
+Nota
+
+Al crear nuevas particiones en un disco básico, las tres primeras se formatearán como particiones principales. A partir de la cuarta, cada una de ellas se configurará como una unidad lógica en una partición extendida.
+
+## Para formatear una partición existente (volumen)
+
+Advertencia
+
+Al formatear un volumen se destruirán los datos de la partición. Antes de comenzar, asegúrate de realizar copias de seguridad de todos los datos que quieras conservar.
+
+- Abre Administración de discos.
+
+- Haz clic con el botón derecho en el volumen que quieras formatear y, a continuación, selecciona Formatear.
+
+- Para formatear el volumen con la configuración predeterminada, en el cuadro de diálogo Formatear, selecciona Aceptar y, a continuación, selecciona otra vez Aceptar.
+
+Nota
+
+- No puedes formatear un disco o partición que actualmente esté en uso, incluida la partición que contiene Windows.
+
+- La opción Realizar un formato rápido creará una nueva tabla de archivos, pero no sobrescribirá ni borrará completamente el volumen. Un formato rápido es mucho más rápido que un formato normal, que borra completamente los datos existentes en el volumen.
+
+## Extender un volumen básico
+
+Para extender un volumen básico, consulta Extender un volumen básico.
+
+## Reducir un volumen básico
+
+Para reducir un volumen básico, consulta Reducir un volumen básico.
+
+## Cambiar una letra de unidad
+
+Para cambiar una letra de unidad, consulta Cambiar una letra de unidad.

@@ -1,0 +1,23 @@
+URL: https://csrc.nist.gov/glossary/term/demilitarized_zone
+Leído: 2026-10-05
+
+Definitions:
+Perimeter network segment that is logically between internal and external networks. Its purpose is to enforce the internal network's CS policy for external information exchange and to provide external, untrusted sources with restricted access to releasable information while shielding the internal networks from outside attacks.
+Sources:
+CNSSI 4009-2022
+An interface on a routing firewall that is similar to the interfaces found on the firewall’s protected side. Traffic moving between the DMZ and other interfaces on the protected side of the firewall still goes through the firewall and can have firewall protection policies applied.
+Sources:
+NIST SP 1800-21C
+under Demilitarized Zone (DMZ)
+NIST SP 800-41 Rev. 1
+under Demilitarized Zone (DMZ)
+A host or network segment inserted as a “neutral zone” between an organization’s private network and the Internet.
+Sources:
+NIST SP 800-44 Version 2
+under Demilitarized Zone (DMZ)
+NIST SP 800-45 Version 2
+under Demilitarized Zone (DMZ)
+A network created by connecting two firewalls. Systems that are externally accessible but need some protections are usually located on DMZ networks.
+Sources:
+NIST SP 1800-21B
+<span id="term-def-src-under-3

@@ -1,0 +1,165 @@
+URL: https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/device-manager-problem-codes
+Leído: 2026-10-05
+
+ 
+
+ Device Manager Problem Codes - Windows drivers | Microsoft Learn
+
+ Skip to main content
+
+ Skip to Ask Learn chat experience
+
+This browser is no longer supported.
+
+ Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+
+ Download Microsoft Edge
+
+ More info about Internet Explorer and Microsoft Edge
+
+ Table of contents 
+
+ Exit editor mode
+
+ Ask Learn
+
+ Ask Learn
+
+ Reading mode
+
+ Table of contents
+
+ Read in English
+
+ Add
+
+ Add to Plans
+
+ Edit
+
+ Copy Markdown
+
+ Print
+
+ Note
+
+ Access to this page requires authorization. You can try signing in or changing directories.
+
+ Access to this page requires authorization. You can try changing directories.
+
+Device Manager Problem Codes
+
+ Feedback
+
+ Summarize this article for me
+
+ In this article
+
+The Device Manager marks a device with a yellow exclamation mark (!) when the device has a problem. The problem codes are in the form CM_PROB_XXX and are defined in the header file cfg.h. The most important are explained here, together with their mapping to the Device Node Status Flags. For a more comprehensive list, please see Device Manager Error Messages.
+
+Code 1 (CM_PROB_NOT_CONFIGURED)
+
+Indicates that the device is not installed and was not installed previously. (Corresponds to DNF_NOT_CONFIGURED.)
+
+Code 10 (CM_PROB_FAILED_START)
+
+Indicates that the device did not start for some reason, but the I/O Manager attempted to start it with a set of resources. (Corresponds to DNF_START_FAILED.)
+
+Code 12 (CM_PROB_NORMAL_CONFLICT)
+
+Indicates that there were not sufficient resources to start this device. (Corresponds to DNF_INSUFFICIENT_RESOURCES.)
+
+Code 14 (CM_PROB_NEED_RESTART)
+
+Indicates that user mode reconfigured the device and a reboot is required for the changes to take effect. (Corresponds to DNF_NEED_RESTART.)
+
+Code 18 (CM_PROB_REINSTALL)
+
+Indicates that the device needs to be installed and was installed previously. (Corresponds to DNF_REINSTALL.)
+
+Code 21 (CM_PROB_WILL_BE_REMOVED)
+
+Indicates that the user mode uninstalled this device. (Corresponds to DNF_WILL_BE_REMOVED.)
+
+Code 22 (CM_PROB_DISABLED)
+
+Indicates that the device is disabled. (Corresponds to DNF_DISABLED.)
+
+Code 28 (CM_PROB_FAILED_INSTALL)
+
+Indicates that the installation failed and there is no driver selected for this device, although the kernel did not report a problem (and there is no DNF_XXX match for this the problem). This problem can be the result of an on-board system device (ISA timer, ISA RTC, RAM Memory, and so forth) that does not yet have an INF file.
+
+Code 31 (CM_PROB_FAILED_ADD)
+
+Indicates that the device was not added. Reasons for the failure may include: a driver's AddDevice routine returned an error or there is no service listed for the device in the registry. (Corresponds to DNF_ADD_FAILED.)
+
+Feedback
+
+ Was this page helpful?
+
+ Yes
+
+ No
+
+ No
+
+ Need help with this topic?
+
+ Want to try using Ask Learn to clarify or guide you through this topic?
+
+ Ask Learn
+
+ Ask Learn
+
+ Suggest a fix? 
+
+ Additional resources
+
+ Last updated on 
+ 2021-12-15
+
+In this article
+
+ Was this page helpful?
+
+ Need help with this topic?
+
+ Want to try using Ask Learn to clarify or guide you through this topic?
+
+ Ask Learn
+
+ Ask Learn
+
+ Suggest a fix? 
+
+ en-us
+
+ Your Privacy Choices
+
+ Theme
+
+ Light 
+
+ Dark 
+
+ High contrast 
+
+ AI Disclaimer
+
+ Previous Versions
+
+ Blog
+
+ Contribute
+
+ Privacy
+
+ Consumer Health Privacy
+
+ Terms of Use
+
+ Trademarks
+
+© Microsoft 2026
+
+ 

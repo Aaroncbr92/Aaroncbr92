@@ -1,0 +1,132 @@
+URL: https://learn.microsoft.com/es-es/windows/security/application-security/application-isolation/windows-sandbox/
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Espacio aislado de Windows
+
+- Se aplica a: ✅ Windows 11, ✅ Windows 10
+
+## 
+
+Espacio aislado de Windows (WSB) ofrece un entorno de escritorio ligero y aislado para ejecutar aplicaciones de forma segura. Es ideal para probar, depurar, explorar archivos desconocidos y experimentar con herramientas. Las aplicaciones instaladas dentro del espacio aislado permanecen aisladas de la máquina host mediante la virtualización basada en hipervisor. Como máquina virtual (VM) descartable, Espacio aislado de Windows garantiza la persistencia del reinicio, las horas de inicio rápido y una menor superficie de memoria en comparación con las máquinas virtuales completas. Su configuración con un solo clic simplifica la experiencia del usuario.
+
+El espacio aislado es temporal; cerrarlo elimina todo el software, los archivos y el estado. Cada inicio proporciona una instancia nueva. El software instalado por el host no está disponible en el espacio aislado. Las aplicaciones necesarias dentro del espacio aislado deben instalarse allí explícitamente.
+
+Nota
+
+A partir de Windows 11, versión 22H2, los datos se conservan a través de reinicios iniciados en el espacio aislado, útiles para las aplicaciones que requieren un reinicio.
+
+Espacio aislado de Windows ofrece las siguientes características:
+
+- 
+ Parte de Windows: todo lo necesario para esta característica se incluye en las ediciones de Windows compatibles, como Pro, Enterprise y Education. No es necesario mantener una instalación de máquina virtual independiente.
+
+- 
+ Descartable: no se conserva nada en el dispositivo. Todo se descarta cuando el usuario cierra la aplicación.
+
+- 
+ Limpieza: cada vez que se ejecuta Espacio aislado de Windows, es tan limpio como una instalación totalmente nueva de Windows.
+
+- 
+ Seguro: usa la virtualización basada en hardware para el aislamiento del kernel. Se basa en el hipervisor de Microsoft para ejecutar un kernel independiente que aísla Espacio aislado de Windows del host.
+
+- 
+ Eficaz: tarda unos segundos en iniciarse, admite GPU virtual y tiene una administración de memoria inteligente que optimiza la superficie de memoria.
+
+Importante
+
+Espacio aislado de Windows habilita la conexión de red de forma predeterminada. Se puede deshabilitar mediante el archivo de configuración Espacio aislado de Windows. Si se habilitan las redes, puede que se expongan aplicaciones que no son de confianza a la red interna.
+
+WSB se puede usar sin aptitudes técnicas en varios escenarios en los que los usuarios necesitan un entorno seguro y limpio para probar o ejecutar software potencialmente dañino. Estas son algunas maneras en las que puede usar WSB:
+
+- 
+ Entorno limpio para pruebas de software: pruebe o depure las aplicaciones en el entorno limpio de WSB para identificar y resolver errores o problemas de compatibilidad.
+
+- 
+ Navegación web segura: Use WSB para la navegación web segura, especialmente cuando acceda a sitios web desconocidos o potencialmente peligrosos sin poner su sistema en riesgo de infección por malware.
+
+- 
+ Ejecución de aplicaciones que no son de confianza: mitiga los riesgos de seguridad al abrir aplicaciones o archivos que no son de confianza, como datos adjuntos de correo electrónico en WSB. Mejore su seguridad y seguridad abriendo un espacio aislado con redes deshabilitadas y asignando la carpeta con la aplicación o el archivo que desea abrir al espacio aislado en modo de solo lectura. Consulte Archivos de configuración de ejemplo para obtener más detalles.
+
+- 
+ Prueba o demostración de software nuevo por primera vez: prueba de la versión o demostración de software nuevo, versiones preliminares, extensiones o complementos sin la molestia de instalar y luego desinstalar en el equipo host.
+
+- 
+ Mantenimiento de varios entornos de desarrollo: optimice el proceso de desarrollo mediante WSB para mantener varios espacios aislados para diferentes entornos de desarrollo. Por ejemplo, mantenga un espacio aislado para cada versión de Python y sus dependencias.
+
+Nota
+
+Espacio aislado de Windows actualmente no permite que varias instancias se ejecuten simultáneamente.
+
+## Requisitos de licencia y de la edición de Windows
+
+En la tabla siguiente se enumeran las ediciones de Windows que admiten Espacio aislado de Windows:
+
+ | Windows Pro
+
+ | Windows Enterprise
+
+ | Windows Pro Education/SE
+
+ | Windows Education
+
+ | Sí
+
+ | Sí
+
+ | Sí
+
+ | Sí
+
+Los derechos de licencia de Espacio aislado de Windows se conceden mediante las siguientes licencias:
+
+ | Windows Pro/Pro Education/SE
+
+ | Windows Enterprise E3
+
+ | Windows Enterprise E5
+
+ | Windows Education A3
+
+ | Windows Education A5
+
+ | Sí
+
+ | Sí
+
+ | Sí
+
+ | Sí
+
+ | Sí
+
+Se puede obtener más información sobre las licencias de Windows en Información general sobre las licencias de Windows.
+
+Nota
+
+Espacio aislado de Windows no se admite actualmente en la edición Windows Home.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-03-29

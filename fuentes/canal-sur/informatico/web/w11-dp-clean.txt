@@ -1,0 +1,83 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/clean
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# clean
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Quita todas las particiones o el formato de volumen del disco con el foco.
+
+Note
+
+Para obtener una versión de PowerShell de este comando, consulte el comando clear-disk.
+
+## Syntax
+
+`clean [all]
+`
+
+### Parameters
+
+ | Parameter
+
+ | Description
+
+ | all
+
+ | Especifica que se graben ceros en todos los sectores del disco, con lo que se eliminan completamente los datos contenidos en él.
+
+#### Remarks
+
+- 
+En discos de registro de arranque maestro (MBR), solo se sobrescribe la información de particiones MBR y de sectores ocultos.
+
+- 
+En discos de la tabla de particiones GUID (GPT), se sobrescribe la información de particiones GPT, incluido el MBR de protección; no hay información de sectores ocultos. No hay información oculta del sector.
+
+- 
+Se debe seleccionar un disco para que esta operación se realice correctamente. Utilice el comando select disk para seleccionar un disco y cambiar el foco a él.
+
+## Examples
+
+Para quitar todo el formato del disco seleccionado, escriba:
+
+`clean
+`
+
+## Related links
+
+- 
+
+ clear-disk command
+
+- 
+
+ Clave de sintaxis de línea de comandos
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

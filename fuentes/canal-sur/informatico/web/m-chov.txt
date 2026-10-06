@@ -1,0 +1,237 @@
+URL: https://learn.microsoft.com/es-es/microsoftteams/teams-channels-overview
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Información general de los equipos y canales en Microsoft Teams
+
+- Se aplica a: Microsoft Teams
+
+## 
+
+Microsoft Teams permite a los equipos individuales organizarse y colaborar en diferentes escenarios empresariales:
+
+- 
+
+ Los equipos son colecciones de personas, contenido y herramientas que rodean diferentes proyectos y resultados dentro de una organización.
+
+- Los equipos pueden crearse para ser privados, solo para los usuarios invitados.
+
+- Los equipos también pueden crearse para que sean públicos y abiertos, de modo que todos los integrantes de la organización puedan unirse (hasta 10 000 miembros).
+
+Los equipos están diseñados para reunir grupos de personas que trabajen juntos para lograr sus objetivos. Teams puede ser dinámico para el trabajo basado en proyectos (por ejemplo, lanzar un producto, crear una sala de envío digital) y continuo, para reflejar la estructura interna de su organización (por ejemplo, departamentos y ubicaciones de oficinas). Las conversaciones, los archivos y las notas en los canales del equipo solo son visibles para los miembros del equipo.
+
+- 
+
+ Los canales son secciones dedicadas dentro de un equipo para mantener conversaciones organizadas por temas, proyectos y disciplinas específicos, lo que sea que funcione para su equipo. Los archivos que se comparten en un canal (en la pestaña archivos) se almacenan en SharePoint. Para obtener más información, lea Información general sobre la integración de Teams y SharePoint.
+
+- Los canales son lugares donde ocurre la conversación y en los que se lleva a cabo el trabajo. Los canales pueden estar abiertos para todos los miembros del equipo (canales estándar), para miembros del equipo seleccionados (canales privados) o para usuarios seleccionados tanto de dentro como de fuera del equipo (canales compartidos).
+
+- Los canales son mucho más útiles cuando se amplían con aplicaciones que incluyen fichas, conectores y bots que aumentan su valor para los miembros del equipo. Para obtener más información, consulte Información general sobre las aplicaciones de Teams.
+
+Consulte Límites y especificaciones de Microsoft Teams para obtener información sobre los límites asociados con el uso de Teams.
+
+## Miembros, funciones y configuración
+
+### Membresía de equipo
+
+Los propietarios de equipos pueden invitar a cualquier persona de la organización a unirse a su equipo. En función de la configuración de la organización, las personas de fuera de la misma se pueden agregar a los equipos como invitados o bien como participantes externos en canales compartidos. Vea Acceso de invitado a Microsoft Teams para obtener más información.
+
+Los propietarios de equipos también pueden crear un equipo basado en un grupo de Microsoft 365 existente. Los cambios realizados en la pertenencia a grupos se sincronizan automáticamente con Teams.
+
+### Roles de equipo
+
+Hay dos roles principales en Teams:
+
+- 
+ Propietario del equipo: La persona que crea el equipo. Los propietarios del equipo pueden convertir en copropietario a cualquier miembro al invitarlo o en cualquier otro momento después de haberse unido. Tener varios propietarios de equipo, le permite compartir las responsabilidades en la administración de las configuraciones y membresías, incluidas las invitaciones.
+
+- 
+ Miembros del equipo: las personas a las que los propietarios invitan a unirse a su equipo.
+
+Además, si se configura la moderación, los propietarios y miembros del equipo pueden tener capacidades de moderador para un canal. Los moderadores pueden iniciar nuevas publicaciones en el canal y controlar si los miembros del equipo pueden responder a los mensajes de canal existentes. Los propietarios del equipo pueden asignar moderadores en un canal. (De forma predeterminada, los propietarios del equipo tienen funciones de moderador). Los moderadores de un canal pueden agregar o quitar otros moderadores de ese canal. Parara más información, consulteConfigurar y administrar la moderación de canales en Microsoft Teams.
+
+Nota
+
+Al agregar un propietario de equipo, también se agrega como miembro, excepto cuando se crea el equipo en el Centro de administración de Teams o cuando se agrega un equipo a un grupo de Microsoft 365 nuevo o existente.
+
+### Configuración del equipo
+
+Los propietarios del equipo pueden administrar la configuración de todo el equipo directamente en Teams. La configuración incluye la posibilidad de agregar una imagen de equipo, establecer permisos entre los miembros del equipo para crear canales estándar, privados y compartidos, agregar fichas y conectores, @mentioning todo el equipo o canal, y el uso de GIF, adhesivos y memes.
+
+Si es administrador de Teams en Microsoft 365, tiene acceso a la configuración de todo el sistema en el Centro de administración de Teams. Esta configuración puede influir en las opciones y la configuración predeterminada que los propietarios ven en la configuración del equipo.
+
+De forma predeterminada, todos los usuarios tienen permisos para crear un equipo. Para cambiar esto, vea Asignar roles y permisos en Teams.
+
+Nota
+
+Al crear un nuevo equipo o un nuevo canal privado o compartido en Teams, se crea automáticamente un sitio de grupo en SharePoint. Para editar la descripción o clasificación del sitio de grupo, vaya a la configuración del canal correspondiente en Microsoft Teams.
+
+Obtenga más información sobre cómo administrar los Sitios de grupos conectados a Microsoft Teams.
+
+En este vídeo se muestran los pasos para ver y administrar la pertenencia al equipo de un usuario.
+
+## Comparación de características de canal
+
+En la tabla siguiente se muestra una comparación de las características de Teams para cada tipo de canal.
+
+ | Funciones
+
+ | Canal estándar
+
+ | Canal privado
+
+ | Canal compartido
+
+ | Se pueden agregar usuarios al canal sin agregarlos al equipo.
+
+ | No
+
+ | No
+
+ | Sí
+
+ | La pertenencia al canal se puede limitar a un subconjunto del equipo.
+
+ | No
+
+ | Sí
+
+ | Sí
+
+ | El canal se puede compartir directamente con otros equipos.
+
+ | No
+
+ | No
+
+ | Sí
+
+ | El canal se puede compartir directamente con su equipo primario.
+
+ | N/D
+
+ | No
+
+ | Sí
+
+ | Los invitados pueden participar en el canal.
+
+ | Sí
+
+ | Sí
+
+ | No
+
+ | Los participantes externos (B2B Direct Connect) pueden participar en el canal.
+
+ | No
+
+ | No
+
+ | Sí
+
+ | Moderación
+
+ | Sí
+
+ | No
+
+ | No
+
+ | Copiar vínculo al canal
+
+ | Sí
+
+ | No
+
+ | No
+
+ | Cada canal tiene un sitio de SharePoint dedicado.
+
+ | No
+
+ | Sí
+
+ | Sí
+
+ | Reuniones programadas
+
+ | Sí
+
+ | No
+
+ | Sí
+
+ | Planner
+
+ | Sí
+
+ | No
+
+ | No
+
+ | Bots, conectores y extensiones de mensajería
+
+ | Sí
+
+ | No
+
+ | No
+
+ | Compatible con equipos de clase
+
+ | Sí
+
+ | Sí
+
+ | No
+
+ | Etiquetas
+
+ | Sí
+
+ | Sí
+
+ | Sí
+
+ | Análisis
+
+ | Sí
+
+ | Sí
+
+ | No
+
+## Equipos de toda la organización
+
+Si su organización no tiene más de 10 000 usuarios, puede crear un equipo de toda la organización. Los equipos de toda la organización proporcionan una forma automática para que todos los usuarios de la organización puedan formar parte de un único equipo y facilitar la colaboración. Para obtener más información, como los procedimientos recomendados para crear y administrar un equipo de toda la organización, consulte Crear un equipo que abarque toda la organización en Microsoft Teams.
+
+## Artículos relacionados
+
+- 
+ Crear un equipo desde cero en Microsoft Teams
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-08-07

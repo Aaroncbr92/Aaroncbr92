@@ -1,0 +1,173 @@
+URL: https://learn.microsoft.com/es-es/windows-server/storage/dfs-namespaces/dfs-overview
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Introducción a los Espacios de nombres de DFS
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+Espacios de nombres DFS (Sistema de archivos distribuido) es un servicio de rol de Windows Server que permite agrupar carpetas compartidas ubicadas en distintos servidores en uno o varios espacios de nombres estructurados de forma lógica. Esto permite ofrecer a los usuarios una vista virtual de las carpetas compartidas, en la que una única ruta de acceso conduce a archivos ubicados en varios servidores, como se muestra en la siguiente figura:
+
+A continuación se describen los elementos que componen un espacio de nombres de DFS:
+
+- 
+ Servidor de espacio de nombres: un servidor de espacio de nombres hospeda un espacio de nombres. El servidor de espacio de nombres puede ser un servidor miembro o un controlador de dominio.
+
+- 
+ Raíz del espacio de nombres: la raíz del espacio de nombres es el punto de inicio del espacio de nombres. En la figura anterior, el nombre de la raíz es Public y la ruta de acceso del espacio de nombres es \\Contoso\Public. Este tipo de espacio de nombres es un espacio de nombres basado en dominio porque comienza con un nombre de dominio y sus metadatos se almacenan en Active Directory Domain Services (AD DS). Aunque en la figura anterior se muestra un solo servidor de espacio de nombres, un espacio de nombres basado en dominio puede hospedarse en varios servidores de espacio de nombres para aumentar su disponibilidad.
+
+- 
+ Carpeta: las carpetas sin destinos de carpeta agregan una estructura y una jerarquía al espacio de nombres, y las carpetas con destinos de carpeta proporcionan a los usuarios contenido real. Cuando los usuarios examinan una carpeta con destinos de carpeta en el espacio de nombres, el equipo cliente recibe una referencia que lo redirige de forma transparente a uno de los destinos de carpeta.
+
+- 
+ Destinos de carpeta: un destino de carpeta es la ruta de acceso UNC de una carpeta compartida o de otro espacio de nombres que se asocia con una carpeta en un espacio de nombres. El destino de carpeta en donde se almacenan los datos y el contenido. En la figura anterior, la carpeta llamada Tools tiene dos destinos de carpeta, uno en London y otro en New York, y la carpeta llamada Training Guides tiene un único destino de carpeta en New York. Los usuarios que examinan \\Contoso\Public\Software\Tools son redirigidos de forma transparente a la carpeta compartida \\LDN-SVR-01\Tools o \\NYC-SVR-01\Tools, dependiendo del sitio donde se encuentren.
+
+En este artículo se describe la instalación de DFS, las novedades y dónde encontrar información de evaluación e implementación.
+
+Puede administrar espacios de nombres mediante la administración DFS, los cmdlets del espacio de nombres DFS (DFSN) en Windows PowerShell, el comando DfsUtil o los scripts que llaman a Instrumental de administración de Windows (WMI).
+
+## Requisitos y límites del servidor
+
+No hay ningún requisito de hardware o software para ejecutar la administración DFS o usar espacios de nombres DFS.
+
+Un servidor de espacio de nombres es un controlador de dominio o servidor miembro que hospeda un espacio de nombres. El número de espacios de nombres que se pueden hospedar en un servidor viene determinado por el sistema operativo que ejecute el servidor de espacio de nombres.
+
+Los servidores que ejecutan al menos Windows Server 2012 pueden hospedar varios espacios de nombres basados en dominio, además de un único espacio de nombres independiente.
+
+En la tabla siguiente se describen otros factores que se deben tener en cuenta al elegir servidores para hospedar un espacio de nombres.
+
+ | Servidor que hospeda espacios de nombres independientes
+
+ | Servidor que hospeda espacios de nombres basados en dominios
+
+ | Debe contener un volumen NTFS para hospedar el espacio de nombres.
+
+ | Debe contener un volumen NTFS para hospedar el espacio de nombres.
+
+ | Puede ser un servidor miembro o controlador de dominio.
+
+ | Debe ser un servidor miembro o controlador de dominio en el dominio donde se configura el espacio de nombres. (Este requisito se aplica a todos los servidores de espacio de nombres que hospedan un espacio de nombres basado en dominio en concreto.)
+
+ | Lo puede hospedar un clúster de conmutación por error para aumentar la disponibilidad del espacio de nombres.
+
+ | El espacio de nombres no puede ser un recurso en clúster en un clúster de conmutación por error. No obstante, puede ubicar el espacio de nombres en un servidor que también funcione como nodo en un clúster de conmutación por error si configura el espacio de nombres para que use solamente los recursos locales de ese servidor.
+
+## Instalación de espacios de nombres DFS
+
+Espacios de nombres DFS y Replicación DFS forman parte del rol Servicios de archivos y almacenamiento. Las herramientas de administración de DFS (Administración de DFS, el módulo Espacios de nombres DFS para Windows PowerShell y las herramientas de línea de comandos) se instalan por separado como parte de las Herramientas de administración remota del servidor.
+
+Instale Espacios de nombres DFS usando Windows Admin Center, Administrador del servidor o PowerShell, tal y como se describe en las siguientes secciones.
+
+- 
+
+ Administrador del servidor
+
+- 
+
+ PowerShell
+
+- 
+Abra el Administrador del servidor, haga clic en Administrar y, a continuación, en Agregar roles y características. Aparece el Asistente para agregar roles y características.
+
+- 
+En la página Selección de servidor, seleccione el servidor o el disco duro virtual (VHD) de una máquina virtual sin conexión en la que desee instalar DFS.
+
+- 
+Seleccione los servicios de rol y las características que desee instalar.
+
+- 
+Para instalar el servicio Espacios de nombres DFS, en la página Roles de servidor, seleccione Espacios de nombres DFS.
+
+- 
+Para instalar solamente las Herramientas de administración de DFS, en la página Características , expanda Herramientas de administración remota del servidor, Herramientas de administración de roles, expanda Herramientas de Servicios de archivo y, a continuación, seleccione Herramientas de administración de DFS.
+
+ DFS Management Tools instala el complemento Administración DFS, el módulo Espacios de nombres DFS para Windows PowerShell y las herramientas de línea de comandos, pero no instala ningún servicio DFS en el servidor.
+
+Abra una sesión de Windows PowerShell con derechos de usuario elevados y escriba el comando siguiente, donde <name> es el servicio de rol o la característica que desea instalar. Consulte la tabla siguiente para obtener una lista de los nombres de características o servicios de rol pertinentes:
+
+`Install-WindowsFeature <name>
+`
+
+ | Servicio de rol o característica
+
+ | Nombre
+
+ | Espacios de nombres DFS
+
+ | `FS-DFS-Namespace`
+
+ | Herramientas de administración de DFS
+
+ | `RSAT-DFS-Mgmt-Con`
+
+Por ejemplo, para instalar la parte de Herramientas del sistema de archivos distribuido de la característica Herramientas de administración remota del servidor, escriba:
+
+`Install-WindowsFeature "RSAT-DFS-Mgmt-Con"
+`
+
+Para instalar la parte Herramientas del Sistema de archivos distribuido para un dispositivo cliente, escriba:
+
+`Add-WindowsCapability -Name Rsat.FileServices.Tools~~~~0.0.1.0 -Online
+`
+
+Para instalar las porciones de Espacios de nombres DFS y Herramientas del Sistema de archivos distribuido de la característica Herramientas de administración remota del servidor, escriba:
+
+`Install-WindowsFeature "FS-DFS-Namespace", "RSAT-DFS-Mgmt-Con"
+`
+
+## Interoperabilidad con máquinas virtuales de Azure
+
+El uso de Espacios de nombres DFS en una máquina virtual en Microsoft Azure ha sido probado.
+
+- Puede hospedar espacios de nombres basados en dominios en máquinas virtuales de Azure, así como los entornos con Microsoft Entra ID.
+
+- Puede agrupar en clúster espacios de nombres independientes en máquinas virtuales de Azure usando clústeres de conmutación por error que usen Discos compartidos o Ultra Disks.
+
+Para más información sobre cómo empezar a trabajar con máquinas virtuales de Azure, consulte la documentación de Máquinas virtuales de Azure.
+
+## Contenido relacionado
+
+- 
+ Creación de un espacio de nombres DFS
+
+- 
+ Lista de comprobación: Implementación de espacios de nombres DFS
+
+- 
+ Lista de comprobación: Ajuste de un espacio de nombres DFS
+
+- 
+ El foro de TechNet sobre servicios de archivo y almacenamiento
+
+- 
+ Protocolos de servicios de archivos en Windows Server
+
+- 
+ Clúster de conmutación por error
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

@@ -1,0 +1,187 @@
+URL: https://www.maxon.net/en/cinebench
+Leído: 2026-10-05
+
+
+
+Evaluate your computer's hardware capabilities | Cinebench from Maxon
+
+Skip to main content
+
+Toggle menu
+
+Search
+Go BackSearch: 
+
+Search Maxon.net
+Search Maxon.net
+Search Cineversity
+
+SearchReset SearchSearch
+PRODUCTS
+Go BackPRODUCTS: 
+MAXON + ADOBE BUNDLES
+MAXON ONE
+CINEMA 4D
+CINEMA 4D FOR IPAD
+REDSHIFT
+REDSHIFT FOR ARCHITECTS
+RED GIANT
+UNIVERSE
+AUTOGRAPH
+ZBRUSH
+ZBRUSH FOR IPAD
+CAPSULES
+MOVES
+CINEWARE
+CINEBENCH
+DOWNLOADS
+SOLUTIONS
+Go BackSOLUTIONS: 
+3D ANIMATION
+3D MODELING
+3D MOTION DESIGN
+3D RENDERING
+ARCHITECTURAL VISUALIZATION
+CHARACTER CREATION
+COLOR GRADING
+COMPOSITING
+KINETIC TYPOGRAPHY
+MEDIA & ENTERTAINMENT
+MOTION CAPTURE
+MOTION GRAPHICS
+VIDEO EDITING
+VISUAL EFFECTS
+NEWS
+Go BackNEWS: 
+HEADLINES
+EVENTS
+GALLERY
+LEARN
+Go BackLEARN: 
+EDUCATIONAL LICENSING
+TRAINING PARTNERS
+CINEVERSITY
+ZCLASSROOM
+SUPPORT
+TRY
+BUY
+Language: English
+Go BackLanguage: 
+English 
+Deutsch (German) 
+Español (Spanish) 
+Français (French) 
+Italiano (Italian) 
+中文 (Chinese) 
+日本語 (Japanese) 
+한국어 (Korean) 
+PRODUCTS
+MAXON + ADOBE BUNDLES
+MAXON ONE
+CINEMA 4D
+CINEMA 4D FOR IPAD
+REDSHIFT
+REDSHIFT FOR ARCHITECTS
+RED GIANT
+UNIVERSE
+AUTOGRAPH
+ZBRUSH
+ZBRUSH FOR IPAD
+CAPSULES
+MOVES
+CINEWARE
+CINEBENCH
+DOWNLOADS
+SOLUTIONS
+3D ANIMATION
+3D MODELING
+3D MOTION DESIGN
+3D RENDERING
+ARCHITECTURAL VISUALIZATION
+CHARACTER CREATION
+COLOR GRADING
+COMPOSITING
+KINETIC TYPOGRAPHY
+MEDIA & ENTERTAINMENT
+MOTION CAPTURE
+MOTION GRAPHICS
+VIDEO EDITING
+VISUAL EFFECTS
+NEWS
+HEADLINES
+EVENTS
+GALLERY
+LEARN
+EDUCATIONAL LICENSING
+TRAINING PARTNERS
+CINEVERSITY
+ZCLASSROOM
+SUPPORT
+TRY
+BUY
+
+SearchSearch
+
+Account
+Toggle Search
+Select Language
+English 
+Deutsch (German) 
+Español (Spanish) 
+Français (French) 
+Italiano (Italian) 
+中文 (Chinese) 
+日本語 (Japanese) 
+한국어 (Korean) 
+
+Evaluate your computer's hardware capabilities
+
+Download now
+
+Evaluate Your Hardware
+
+Cinebench 2026 utilizes the power of Redshift, Cinema 4D's default rendering engine, to evaluate your computer's CPU and GPU capabilities. Cinebench 2026 is designed to accommodate a broad range of hardware configurations - while it seamlessly supports x86/64 architecture (Intel/AMD) on Windows and macOS, it also extends its reach to Apple Silicon on macOS and Arm64 CPUs on Windows, ensuring compatibility with the latest advancements in hardware technology. Additionally, Cinebench 2026 streamlines the benchmarking process by utilizing a consistent scene file for both CPU and GPU testing. Best of all: It's free!
+Download from Maxon
+
+Who Should Use Cinebench?
+
+Anyone who needs to evaluate hardware performance should add Maxon Cinebench to their testing arsenal. Any computer owner can evaluate their individual system, IT administrators can use Cinebench to help make purchase decisions, journalists can use the results in reviewing hardware and manufacturers can utilize the feedback to optimize their latest products. Cinebench offers a real-world benchmark that incorporates a user's common tasks when using Cinema 4D and Redshift to measure a system's performance.
+
+Cinebench
+
+Development Program
+
+The Cinebench Development Program is built in collaboration with our partners to ensure that Cinebench remains a trusted standard for performance evaluation. Through ongoing feedback and validation, we maintain benchmarks that are accurate and transparent, reflect real-world creative workloads, and deliver consistent, reproducible results across a wide range of hardware. This partnership also ensures Cinebench evolves continuously, staying aligned with the latest advancements in CPU, GPU, and NPU architectures.
+
+Intel platforms enable a full range of creator PCs, from laptops to workstations, backed by comprehensive software validation and optimization across CPU, GPU, and NPU.
+
+Windows is the modern platform for innovation, powered by the industry's broadest developer ecosystem to unlock best-in-class performance for the widest set of users, devices, and applications.
+
+NVIDIA GPU architectures and driver support are central to many creator workflows, helping users evaluate CUDA-capable GPU performance in demanding Redshift-based workloads.
+
+Qualcomm Snapdragon X platforms expand the range of Windows on Arm devices that creators can evaluate, supporting broader compatibility for modern mobile computing.
+
+Maxon One
+
+Products included in our Maxon One suite of creative tools are based on the same rendering technology that is used in Cinebench. When creating in Maxon One, you will benefit from the industry leading rendering performance you have known from Cinebench and utilize your hardware's capabilities to the fullest. Maxon One is our all-in-one solution that combines the power of all our industry-leading 3D animation, motion graphics, filmmaking, digital sculpting and rendering software like Cinema 4D, Red Giant, Redshift, and ZBrush in an integrated package.
+Start your free trial
+
+Technical Information
+
+Get all the technical information and supported systems for Cinebench.
+Learn More
+
+Start your creative journey today
+
+Download the Maxon App to start your 14-day free trial of Maxon One. With the Maxon App you can install, use, or try all of our products.
+Get the trial for free
+
+ABOUT
+CAREERS
+TEAMS PROGRAM
+GET EMAIL UPDATES
+SOCIAL
+PARTNERS
+IMPRINT
+PRIVACY
+

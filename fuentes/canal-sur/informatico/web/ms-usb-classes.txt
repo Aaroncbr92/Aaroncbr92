@@ -1,0 +1,481 @@
+USB Device Class Drivers Included in Windows - Windows drivers | Microsoft Learn
+
+ Skip to main content
+
+ Skip to Ask Learn chat experience
+
+This browser is no longer supported.
+
+ Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+
+ Download Microsoft Edge
+
+ More info about Internet Explorer and Microsoft Edge
+
+ Table of contents 
+
+ Exit editor mode
+
+ Ask Learn
+
+ Ask Learn
+
+ Reading mode
+
+ Table of contents
+
+ Read in English
+
+ Add
+
+ Add to Plans
+
+ Edit
+
+ Copy Markdown
+
+ Print
+
+ Note
+
+ Access to this page requires authorization. You can try signing in or changing directories.
+
+ Access to this page requires authorization. You can try changing directories.
+
+USB device class drivers included in Windows
+
+ Feedback
+
+ Summarize this article for me
+
+ In this article
+
+Important
+
+This article is for programmers. If you're a customer experiencing USB problems, see Fix USB-C problems in Windows.
+
+This article lists the Microsoft-provided drivers for the supported USB device classes.
+
+Microsoft-provided drivers for USB-IF approved device classes.
+
+For composite devices, use USB Generic Parent Driver (Usbccgp.sys) that creates physical device objects (PDOs) for each function.
+
+For noncomposite devices or a function of a composite device, use WinUSB (Winusb.sys).
+
+If you are installing USB drivers: You don't need to download USB device class drivers. They're installed automatically. These drivers and their installation files are included in Windows. They're available in the \Windows\System32\DriverStore\FileRepository folder. The drivers are updated through Windows Update.
+
+If you are writing a custom driver: Before writing a driver for your USB device, determine whether a Microsoft-provided driver meets the device requirements. If a Microsoft-provided driver isn't available for the USB device class to which your device belongs, then consider using generic drivers, Winusb.sys, or Usbccgp.sys. Write a driver only when necessary. More guidelines are included in Choosing a driver model for developing a USB client driver.
+
+USB device classes
+
+USB device classes are categories of devices with similar characteristics and that perform common functions. The USB-IF defines those classes and their specifications. Each device class is identified by the IHV in device descriptors in the firmware, using USB-IF approved class, subclass, and protocol codes. Microsoft provides in-box drivers for several of those device classes, called USB device class drivers. If a device that belongs to a supported device class is connected to a system, Windows automatically loads the class driver, and the device functions with no other driver required.
+
+Hardware vendors shouldn't write drivers for the supported device classes. Windows class drivers might not support all of the features that are described in a class specification. If some of the device's capabilities aren't implemented by the class driver, vendors should provide supplementary drivers that work with the class driver to support the entire range of functionality offered by the device.
+
+For general information about USB-IF approved device classes see the USB Common Class Specification
+
+The current list of USB class specifications and class codes is documented in the USB-IF Defined Class Code List.
+
+Device setup classes
+
+Windows categorizes devices by device setup classes, which indicate the functionality of the device.
+
+Microsoft defines setup classes for most devices. IHVs and OEMs can define new device setup classes, but only if none of the existing classes apply. For more information, see System-Defined Device Setup Classes.
+
+Two important device setup classes for USB devices are as follows:
+
+USBDevice {88BAE032-5A81-49f0-BC3D-A4FF138216D6}: IHVs must use this class for custom devices that don't belong to another class. This class isn't used for USB host controllers and hubs.
+
+USB {36fc9e60-c465-11cf-8056-444553540000}: IHVs must not use this class for their custom devices. This class is reserved for USB host controllers and USB hubs.
+
+The device setup classes are different from USB device classes discussed earlier. For example, an audio device has a USB device class code of 01h in its descriptor. When connected to a system, Windows loads the Microsoft-provided class driver, Usbaudio.sys. In Device Manager, the device is shown under Sound, video and game controllers, which indicates that the device setup class is Media.
+
+Microsoft-provided USB device class drivers
+
+USB-IF class code
+
+Device setup class
+
+Microsoft-provided
+driver and INF
+
+Windows support
+
+Description
+
+Audio (01h)
+
+Media
+{4d36e96c-e325-11ce-bfc1-08002be10318}
+
+Usbaudio.sys
+Wdma_usb.inf
+
+Windows 11
+Windows 10
+
+Microsoft provides support for the USB audio device class with the Usbaudio.sys driver. For more information, see "USBAudio Class System Driver" in Kernel-Mode WDM Audio Components. For more information about Windows audio support, see the Audio Device Technologies for Windows website.
+
+Communications and CDC Control (02h)
+
+Ports
+{4D36E978-E325-11CE-BFC1-08002BE10318}
+
+Usbser.sys
+Usbser.inf
+
+Windows 11
+Windows 10
+
+In Windows 10, Usbser.inf loads Usbser.sys automatically as the function driver.
+
+For more information, see USB serial driver (Usbser.sys)
+
+Communications and CDC Control (02h)
+
+Modem
+{4D36E96D-E325-11CE-BFC1-08002BE10318}
+
+Supports Subclass 02h (ACM)
+
+Usbser.sys
+
+Custom INF that references mdmcpq.inf
+
+Windows 11
+Windows 10
+
+Enable CDC and Wireless Mobile CDC (WMCDC) support by setting a registry value, as described in Support for the Wireless Mobile Communication Device Class. When CDC support is enabled, the USB Common Class Generic Parent Driver enumerates interface collections that correspond to CDC and WMCDC Control Models, and assigns physical device objects (PDO) to these collections.
+
+Communications and CDC Control (02h)
+
+Net
+{4d36e972-e325-11ce-bfc1-08002be10318}
+
+Supports Subclass 0Dh (NCM)
+
+UsbNcm.sys
+UsbNcm.inf
+
+Windows 11
+
+Windows Server 2022
+
+Microsoft provides the UsbNcm.sys driver to operate devices that comply with Usb NCM. The source code for this driver is available at NCM-Driver-for-Windows.
+
+Communications and CDC Control (02h)
+
+Net
+{4d36e972-e325-11ce-bfc1-08002be10318}
+
+Supports Subclass 0Eh (MBIM)
+
+cxwmbclass.sys
+wmbclass.sys
+Netwmbclass.inf
+
+Windows 11
+Windows 10
+
+Microsoft provides the wmbclass.sys driver, for mobile broadband devices. See, MB Interface Model.
+
+HID (Human Interface Device) (03h)
+
+HIDClass
+{745a17a0-74d3-11d0-b6fe-00a0c90f57da}
+
+Hidclass.sys
+Hidusb.sys
+Input.inf
+
+Windows 11
+Windows 10
+
+Microsoft provides the HID class driver (Hidclass.sys) and the miniclass driver (Hidusb.sys) to operate devices that comply with the USB HID Standard. For more information, see HID Architecture and Minidrivers and the HID class driver. For more information about Windows support for input hardware, see the Input and HID - Architecture and Driver Support website.
+
+Physical (05h)
+
+-
+
+-
+
+-
+
+Recommended driver: WinUSB (Winusb.sys)
+
+Image (06h)
+
+Image
+{6bdd1fc6-810f-11d0-bec7-08002be2092f}
+
+Usbscan.sys
+Sti.inf
+
+Windows 11
+Windows 10
+
+Microsoft provides the Usbscan.sys driver that manages USB digital cameras and scanners for Windows XP and later operating systems. This driver implements the USB component of the Windows Imaging Architecture (WIA). For more information about WIA, see Windows Image Acquisition Drivers and the Windows Imaging Component website. For a description of the role that Usbscan.sys plays in the WIA, see WIA Core Components.
+
+Printer (07h)
+
+USB
+Usbprint.sys enumerates printer devices under the device setup class: Printer {4d36e979-e325-11ce-bfc1-08002be10318}.
+
+Usbprint.sys
+Usbprint.inf
+
+Windows 11
+Windows 10
+
+Microsoft provides the Usbprint.sys class driver that manages USB printers. For information about implementation of the printer class in Windows, see the Printing - Architecture and Driver Support website.
+
+Mass Storage (08h)
+
+USB
+
+Usbstor.sys
+
+Windows 11
+Windows 10
+
+Microsoft provides the Usbstor.sys port driver to manage USB mass storage devices with Microsoft's native storage class drivers. For an example device stack that this driver manages, see Device Object Example for a USB Mass Storage Device. For information about Windows storage support, see the Storage Technologies website.
+
+Mass Storage (08h)
+
+SCSIAdapter
+{4d36e97b-e325-11ce-bfc1-08002be10318}
+
+SubClass (06) and Protocol (62)Uaspstor.sys
+Uaspstor.inf
+
+Windows 11
+Windows 10
+
+Uaspstor.sys is the class driver for SuperSpeed USB devices that support bulk stream endpoints.
+
+Hub (09h)
+
+USB
+{36fc9e60-c465-11cf-8056-444553540000}
+
+Usbhub.sys
+Usb.inf
+
+Windows 11
+Windows 10
+
+Microsoft provides the Usbhub.sys driver for managing USB hubs. For more information about the relationship between the hub class driver and the USB stack, see USB host-side drivers in Windows.
+
+Hub (09h)
+
+USB
+{36fc9e60-c465-11cf-8056-444553540000}
+
+Usbhub3.sys
+Usbhub3.inf
+
+Windows 11
+Windows 10
+
+Microsoft provides the Usbhub3.sys driver for managing SuperSpeed (USB 3.0) USB hubs. The driver is loaded when a SuperSpeed hub is attached to an xHCI controller. See USB host-side drivers in Windows.
+
+CDC-Data (0Ah)
+
+-
+
+-
+
+-
+
+Recommended driver: WinUSB (Winusb.sys)
+
+Smart Card (0Bh)
+
+SmartCardReader
+{50dd5230-ba8a-11d1-bf5d-0000f805f530}
+
+Usbccid.sys (Obsolete)
+
+Windows 10
+
+Microsoft provides the Usbccid.sys mini-class driver to manage USB smart card readers. For more information about smart card drivers in Windows, see Smart Card Design Guide.
+
+The WUDFUsbccidDriver.dll UMDF driver replaces the Usbccid.sys driver.
+
+Content Security (0Dh)
+
+-
+
+-
+
+-
+
+Recommended driver: USB Generic Parent Driver (Usbccgp.sys). Some content security functionality is implemented in Usbccgp.sys. See Content Security Features in Usbccgp.sys.
+
+Video (0Eh)
+
+Image
+{6bdd1fc6-810f-11d0-bec7-08002be2092f}
+
+Usbvideo.sys
+Usbvideo.inf
+
+Windows 11
+Windows 10
+
+Microsoft provides USB video class support with the Usbvideo.sys driver. For more information, see "USB Video Class Driver" under AVStream Minidrivers.
+
+Personal Healthcare (0Fh)
+
+-
+
+-
+
+-
+
+Recommended driver: WinUSB (Winusb.sys)
+
+Audio/Video Devices (10h)
+
+-
+
+-
+
+-
+
+-
+
+Diagnostic Device (DCh)
+
+-
+
+-
+
+-
+
+Recommended driver: WinUSB (Winusb.sys)
+
+Wireless Controller (E0h)
+
+Supports Subclass 01h and Protocol 01h
+
+Bluetooth{e0cbf06c-cd8b-4647-bb8a-263b43f0f974}
+
+Bthusb.sys
+Bth.inf
+
+Windows 11
+Windows 10
+
+Microsoft provides the Bthusb.sys miniport driver to manage USB Bluetooth radios. For more information, see Bluetooth Design Guide.
+
+Miscellaneous (EFh)
+
+Net
+{4d36e972-e325-11ce-bfc1-08002be10318}
+
+Supports SubClass 04h and Protocol 01h
+
+Rndismp.sys
+Rndismp.inf
+
+Windows 11
+Windows 10
+
+Microsoft recommends that hardware vendors build USB NCM compatible devices instead. USB NCM is a public USB-IF protocol that offers better throughput performance.
+
+The RNDIS facility centers the management of all 802-style network cards in a single class driver, Rndismp.sys. For a detailed discussion of remote NDIS, see Overview of Remote NDIS. The mapping of remote NDIS to USB is implemented in the Usb8023.sys driver. For more information about networking support in Windows, see Networking and Wireless Technologies).
+
+Application Specific (FEh)
+
+-
+
+-
+
+-
+
+Recommended driver: WinUSB (Winusb.sys)
+
+Vendor Specific (FFh)
+
+-
+
+-
+
+Windows 11
+Windows 10
+
+Recommended driver: WinUSB (Winusb.sys)
+
+Related articles
+
+Microsoft-provided USB drivers
+
+Feedback
+
+ Was this page helpful?
+
+ Yes
+
+ No
+
+ No
+
+ Need help with this topic?
+
+ Want to try using Ask Learn to clarify or guide you through this topic?
+
+ Ask Learn
+
+ Ask Learn
+
+ Suggest a fix? 
+
+ Additional resources
+
+ Last updated on 
+ 2025-06-13
+
+In this article
+
+ Was this page helpful?
+
+ Need help with this topic?
+
+ Want to try using Ask Learn to clarify or guide you through this topic?
+
+ Ask Learn
+
+ Ask Learn
+
+ Suggest a fix? 
+
+ en-us
+
+ Your Privacy Choices
+
+ Theme
+
+ Light 
+
+ Dark 
+
+ High contrast 
+
+ AI Disclaimer
+
+ Previous Versions
+
+ Blog
+
+ Contribute
+
+ Privacy
+
+ Consumer Health Privacy
+
+ Terms of Use
+
+ Trademarks
+
+© Microsoft 2026

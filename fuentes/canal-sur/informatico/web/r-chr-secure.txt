@@ -1,0 +1,319 @@
+URL: https://support.google.com/chrome/answer/10468685?hl=es&co=GENIE.Platform%3DDesktop
+Leído: 2026-10-05
+
+Gestionar la seguridad y la protección de Chrome - Ordenador - Ayuda de Google Chrome Saltar al contenido principal 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Gestionar la seguridad y la protección de Chrome
+
+Para disfrutar de una experiencia de navegación más privada y segura, puedes usar las funciones de seguridad de Chrome, como la comprobación de seguridad y Navegación segura.
+
+Contraseñas vulneradas
+
+Si detectas una actividad desconocida en tu cuenta o crees que se ha podido vulnerar tu contraseña, cámbiala de inmediato. Consulta cómo proteger una cuenta de Google vulnerada.
+
+Para cambiar la contraseña de otro sitio, sigue las instrucciones de Chrome. Consulta cómo gestionar contraseñas.
+
+Niveles de protección de Navegación segura
+
+La función Navegación segura de Google te permite recibir alertas sobre malware, extensiones peligrosas, phishing o sitios de la lista de sitios potencialmente no seguros de Google. Consulta cómo elegir el nivel de protección de Navegación segura.
+
+Actualizaciones automáticas de Chrome
+
+Para asegurar que cuentas con las últimas actualizaciones de seguridad, Chrome puede actualizarse automáticamente si hay una nueva versión del navegador disponible. Consulta cómo actualizar Chrome.
+
+Cifrado de contraseñas en el dispositivo
+
+Importante: Asegúrate de que ya has configurado el cifrado en el dispositivo. Consulta cómo configurar el cifrado en el dispositivo.
+
+ Cuando se haya configurado el cifrado en el dispositivo, podrás usar tu contraseña de Google o el bloqueo de pantalla en teléfonos o tablets compatibles para desbloquear tu contraseña. Este tipo de cifrado implica que solo tú tienes la clave para desbloquear tus contraseñas.
+
+## Revisar la comprobación de seguridad en un ordenador
+
+Chrome realiza automáticamente comprobaciones de seguridad para ayudarte a detectar y solucionar problemas de privacidad y seguridad.
+
+Puedes revisar tu privacidad y seguridad de Chrome con la comprobación de seguridad. En un ordenador, la comprobación de seguridad busca lo siguiente:
+
+- Contraseñas vulneradas, reutilizadas o poco seguras: para proteger tu seguridad online, la comprobación de seguridad puede avisarte si un nombre de usuario o una contraseña almacenados en el Gestor de contraseñas de Google se han visto involucrados en una brecha de seguridad de datos. Más información sobre cómo protege Chrome tus contraseñas
+
+- Estado de Navegación segura: para protegerte frente al malware, phishing y otros riesgos, la comprobación de seguridad puede recordarte ocasionalmente que revises la configuración de Navegación segura. Más información sobre la protección de Navegación segura de Chrome
+
+- Actualizaciones de Chrome disponibles: para asegurarte de que cuentas con las últimas actualizaciones de seguridad, la comprobación de seguridad puede recordarte ocasionalmente que actualices Chrome.
+
+- Notificaciones potencialmente no deseadas: ocasionalmente, Chrome te recordará que revises los permisos de notificaciones que hayas concedido.
+
+- Permisos de sitios no usados: para proteger tus datos, Chrome quita los permisos de los sitios que no has utilizado recientemente.
+
+- Extensiones potencialmente dañinas: para mejorar tu seguridad, la comprobación de seguridad puede avisarte de extensiones que pueden suponer un riesgo para la seguridad.
+
+- Notificaciones engañosas: Chrome quita los permisos de notificaciones de los sitios que Navegación segura de Google detecta que engañan a los usuarios para que les concedan permisos.
+
+- En tu ordenador, abre Chrome.
+
+- Arriba a la derecha, selecciona Más Configuración.
+
+- A la izquierda, selecciona Privacidad y seguridad.
+
+- En "Comprobación de seguridad", selecciona Ir a Comprobación de seguridad.
+
+- Si Chrome detecta algún problema:
+
+- Selecciona el elemento que tiene el problema.
+
+- Sigue las instrucciones que aparecen en pantalla.
+
+Nota: Cuando la comprobación de seguridad se ejecute, Chrome te avisará si hay algún problema que requiera tu atención. Esos mensajes se mostrarán cuando selecciones Más . Puedes seleccionar el elemento que tiene el problema y seguir las instrucciones que aparecen en pantalla.
+
+## Gestionar la configuración de seguridad avanzada
+
+Activa Usar siempre conexiones seguras
+
+Si la URL de un sitio web contiene HTTPS, puede indicar que es una conexión segura. Las conexiones a sitios que usan el protocolo HTTPS son más seguras que las conexiones a sitios que no lo usan.
+
+Si activas Usar siempre conexiones seguras, Chrome mejorará las URLs para que utilicen HTTPS y mostrará una advertencia antes de visitar un sitio que no sea compatible con ese protocolo.
+
+- En tu ordenador, abre Chrome.
+
+- Arriba a la derecha, selecciona Más Configuración.
+
+- A la izquierda, selecciona Privacidad y seguridad Seguridad.
+
+- En "Conexiones seguras", activa Usar siempre conexiones seguras.
+
+- Selecciona la configuración que prefieras:
+
+- Te avisa de los sitios públicos no seguros: no te avisa de los sitios privados, como la intranet de tu empresa.
+
+- Te avisa de los sitios públicos y privados no seguros: te avisa de los sitios públicos y de los privados, como la intranet de tu empresa.
+
+Nota: Cuando vayas a cargar un sitio que no use HTTPS en su URL, se mostrará la advertencia "No es seguro" en la barra de direcciones.
+
+Activar la opción Avisarte si se ha vulnerado una contraseña en una brecha de seguridad de datos
+
+- En tu ordenador, abre Chrome.
+
+- Arriba a la derecha, selecciona Más Configuración.
+
+- A la izquierda, selecciona Privacidad y seguridad Seguridad.
+
+- En "Avanzado", activa la opción Avisarte si se ha vulnerado una contraseña en una brecha de seguridad de datos.
+
+Usar una conexión segura para buscar la dirección IP de un sitio
+
+Cuando visitas un sitio web, Chrome busca la dirección IP del servidor host del sitio. Si la petición del sistema de nombres de dominio (DNS) seguro está activada, Chrome cifra tu información durante el proceso de búsqueda para proteger tu privacidad y seguridad.
+
+De forma predeterminada, el DNS seguro está activado en modo automático en Chrome. Si Chrome tiene problemas para buscar sitios web en este modo, buscará el sitio web en el modo sin cifrar.
+
+Puedes seleccionar un proveedor personalizado. Si lo seleccionas, Chrome no usará el modo sin cifrar de forma predeterminada. Si tienes algún problema (por ejemplo, aparecen mensajes de error), puedes comprobar la configuración de tu proveedor o desactivar la función DNS seguro. Es posible que los mensajes de error indiquen que no se ha podido encontrar la dirección IP del servidor.
+
+Importante: Si tu dispositivo está administrado o los controles parentales están activados, no podrás usar la función DNS seguro de Chrome.
+
+Para activar o desactivar la función DNS seguro, sigue estos pasos:
+
+- En tu ordenador, abre Chrome.
+
+- Arriba a la derecha, selecciona Más Configuración.
+
+- A la izquierda, selecciona Privacidad y seguridad Seguridad.
+
+- En "Configuración avanzada", activa o desactiva Usar DNS seguro.
+
+- Selecciona tu proveedor de servicios actual.
+
+- También puedes seleccionar un proveedor de servicios personalizado en el menú desplegable.
+
+Nota: Si usas un Chromebook, en "Avanzado", selecciona Gestionar DNS seguro en la configuración de ChromeOS. A continuación, activa o desactiva Usar conexiones seguras para buscar sitios.
+
+Gestionar la configuración de seguridad de V8
+
+Importante: Para mejorar el rendimiento de los sitios, V8 está activado de forma predeterminada.
+
+Para aumentar la seguridad, puedes gestionar los permisos:
+
+- En tu ordenador, abre Chrome.
+
+- Arriba a la derecha, selecciona Más Configuración.
+
+- A la izquierda, selecciona Privacidad y seguridad Seguridad Gestionar optimización y seguridad de JavaScript.
+
+- Puedes seleccionar el permiso que prefieras:
+
+- Los sitios pueden usar la optimización de JavaScript: Chrome se ejecuta más rápido y las funciones que usan JavaScript deberían funcionar según lo previsto.
+
+- Inhabilitar automáticamente los optimizadores de JavaScript en sitios desconocidos: bloquea el acceso al optimizador de JavaScript en los sitios visitados recientemente.
+
+- No permitir que los sitios usen la optimización de JavaScript: es posible que los sitios no funcionen tan bien, pero aumenta la seguridad.
+
+Notas:
+
+- También puedes especificar qué URLs pueden usar el optimizador de V8 y cuáles no. Para añadir las URLs de los sitios web autorizados o no autorizados para usar el optimizador de V8, selecciona Añadir.
+
+- Si el optimizador se inhabilita, puedes habilitarlo desde la barra de direcciones haciendo clic en V8 .
+
+Gestionar llaves de seguridad
+
+- En tu ordenador, abre Chrome.
+
+- Arriba a la derecha, selecciona Más Configuración.
+
+- A la izquierda, selecciona Privacidad y seguridad Seguridad.
+
+- En "Avanzado", selecciona Gestionar llaves de seguridad.
+
+- Selecciona cómo gestionas tu llave de seguridad:
+
+- Crear un PIN: protege tu llave de seguridad con un PIN (número de identificación personal).
+
+- Datos de inicio de sesión: gestiona los datos de inicio de sesión almacenados en tu llave de seguridad.
+
+- Huellas digitales: añade y borra las huellas digitales guardadas en tu llave de seguridad.
+
+- Restablecer tu llave de seguridad: elimina todos los datos almacenados en tu llave de seguridad, incluido el PIN.
+
+Nota: En algunos dispositivos Windows, puedes gestionar las llaves de seguridad en la configuración de Windows.
+
+Gestionar los certificados del dispositivo
+
+Chrome autentica y protege las conexiones HTTPS con certificados de sitios web. Estos certificados cifran el enlace entre un sitio y tu navegador.
+
+Chrome Root Program indica los certificados raíz que Chrome considera de confianza a la hora de autenticar los sitios HTTPS. Consulta más información sobre Chrome Root Program.
+
+Chrome añadirá certificados raíz personalizados seleccionados entre los certificados que usa el sistema operativo de tu ordenador. Para revisar los certificados de tu dispositivo, sigue estos pasos:
+
+- En tu ordenador, abre Chrome.
+
+- Arriba a la derecha, selecciona Más Configuración.
+
+- Selecciona Privacidad y seguridad Seguridad.
+
+- En "Avanzado", selecciona Gestionar certificados.
+
+Programa de Protección Avanzada de Google
+
+- En tu ordenador, abre Chrome.
+
+- Arriba a la derecha, selecciona Más Configuración.
+
+- A la izquierda, selecciona Privacidad y seguridad Seguridad.
+
+- En "Avanzado", selecciona Programa de Protección Avanzada de Google.
+
+Notas:
+
+- Consulta más información sobre el Programa de Protección Avanzada de Google.
+
+- Cuando se inicia sesión en una cuenta del Programa de Protección Avanzada de Google, la opción "Usar siempre conexiones seguras" se activa automáticamente.
+
+- Cuando el Programa de Protección Avanzada de Google está activado, la opción "Optimizaciones de JavaScript" está desactivada.
+
+## Recursos relacionados
+
+- Gestionar contraseñas en Chrome
+
+- Actualizar Google Chrome
+
+- Instalar y gestionar extensiones
+
+- Cambiar permisos en la configuración de sitios
+
+- Usar las notificaciones para recibir alertas 
+
+Esta página puede incluir contenido traducido con tecnología de IA. Las traducciones generadas por IA pueden contener errores.
+
+## ¿Te ha resultado útil esta información?
+
+¿Cómo podemos mejorar esta página?
+
+ Ordenador AndroidiPhone y iPad 
+ Más 
+
+## ¿Necesitas más ayuda?
+
+### Prueba estos pasos:
+
+ Publicar en la comunidad de ayuda Obtener respuestas de los miembros de la comunidad 
+
+true
+
+## 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Búsqueda
+
+Borrar búsqueda
+
+Cerrar búsqueda
+
+Aplicaciones de Google
+
+Menú principal
+
+13565302931954861276
+
+true
+
+Buscar en el Centro de ayuda
+
+false
+
+true
+
+true
+
+true
+
+true
+
+true
+
+237
+
+false
+
+false
+
+false
+
+false
+
+false

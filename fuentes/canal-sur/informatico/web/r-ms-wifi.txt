@@ -1,0 +1,141 @@
+URL: https://support.microsoft.com/en-us/windows/experience/connectivity-networking/faster-and-more-secure-wi-fi-in-windows
+Leído: 2026-10-05
+
+# Faster and more secure Wi-Fi in Windows
+
+ Applies To
+Windows 10 Windows 11 
+
+Windows 11
+
+Windows 10
+
+## Summary
+
+This article explains how Windows 11 supports the latest Wi-Fi technologies like Wi-Fi 7, Wi-Fi 6/6E, and WPA3 to provide faster speeds, stronger security and details the requirements and steps required to take advantage of the improvements.
+
+Windows 11 supports the latest wireless technologies standard from WFA (Wi-Fi Alliance) including Wi-Fi 6, Wi-Fi 7, and WPA3. Wi-Fi 6 is the sixth generation of Wi-Fi that improves efficiency, flexibility, and scalability, providing higher speeds and capacity for modern applications. Wi-Fi 7 is the latest generation that promises even faster speeds and improved latency, network capacity, and overall stability. WPA3 is the latest security standard that enhances Wi-Fi security, offering features like more robust authentication and increased cryptographic strength. 
+
+These advancements in Wi-Fi technology and security are designed to support the increasing demand for wireless connectivity in various environments, from homes to large enterprises, ensuring a better and more secure user experience.
+
+To take advantage of the increased performance, coverage, and security, here's what you'll need:
+
+A router that supports Wi-Fi 7, Wi-Fi 6/6E, and WPA3. To find out if your router supports this, check the documentation that came with it or visit the router manufacturer’s website. If you’re considering buying a new router, look for a Wi-Fi 7 label for the latest Wi-Fi features.
+
+Windows 11 installed on your PC. To check and make sure you have the latest updates for Windows 11, select the Start 
+ button, then select Settings 
+ > Windows Update 
+ > Check for updates.
+
+Note
+
+Wi-Fi 7 is available starting with Windows 11, version 24H2.
+
+A wireless network adapter that supports Wi-Fi 7, Wi-Fi 6/6E, and WPA3. To see if your PC supports it, check the documentation that came with it or check the PC manufacturer’s website.
+
+Tip
+
+You can also check to see what your network adapter supports by opening the Command Prompt (or Terminal), and then typing the command netsh wlan show drivers. Look next to Radio types supported and see if it includes 802.11be (for Wi-Fi 7) or 802.11ax (for Wi-Fi 6/6e) and look under Authentication and cipher supported in infrastructure mode and see if it includes WPA3 Personal and WPA3 Enterprise.
+
+### Wi-Fi 7
+
+Wi-Fi 7, also known as IEEE 802.11be Extremely High Throughput (EHT), is the latest Wi-Fi technology that offers unprecedented speed, reliability, and efficiency for your wireless devices.
+
+Here are some of Wi-Fi 7's new features:
+
+Multi-Link Operation (MLO) allows devices to use multiple bands (2.4 GHz, 5 GHz, and/or 6 GHz) simultaneously to avoid network congestion and maintain connectivity.
+
+Tip
+
+Once connected, you can see if Multi-Link Operation is supported in your connection by selecting Settings 
+ > Network & internet 
+ > Wi-Fi 
+ > (your network) properties, and checking the value next to Network band (channel). If it shows more than one band (for example, 5 GHz and 6 GHz, or 2.4 GHz and 5 GHz), then MLO is supported.
+
+320 MHz ultra-wide bandwidth in the 6 GHz band doubles the speed to your devices and enables new possibilities for high bandwidth applications and scenarios, such as AR/VR.
+
+4096-QAM modulation increases data transmission by 20% and improves the quality of video streaming, video conferencing, and more.
+
+With Wi-Fi 7, you can enjoy multi-gigabit speeds on your Windows PC and experience up to 4x faster speeds than Wi-Fi 6 and Wi-Fi 6E, and close to 6x faster than Wi-Fi 5. You can also enjoy significantly lower latency, which improves the responsiveness and performance of real-time activities like gaming and video conferencing. Please note that performance may vary by manufacturer and hardware device capabilities.
+
+Note
+
+Wi-Fi 7 (Enterprise) is not currently supported in Windows 11.
+
+### Wi-Fi 6/6E
+
+Wi-Fi 6, also known as IEEE 802.11ax High Efficiency (HE), is the sixth generation of the Wi-Fi standard. It brings several enhancements to wireless networks (WLANs) and is designed to improve performance, efficiency, and scalability. 
+
+Here are some of Wi-Fi 6's new features:
+
+- Multi-User Multiple Input, Multiple Output (MU-MIMO) transmissions, allowing multiple devices to communicate simultaneously.
+
+- Double the potential bandwidth from four streams to eight streams.
+
+- 1024-QAM modulation to enable broadcasting over up to eight spatial data streams.
+
+In addition to that, Wi-Fi 6E extends Wi-Fi 6 support to the 6ghz band. It opens up ultra-wide data channels, providing additional spectrum for faster and more reliable connections in a less crowded spectrum.
+
+With Wi-Fi 6/6E, you can enjoy increased speed, capacity, and efficiency, making it ideal for modern applications and a better overall Wi-Fi experience.
+
+### WPA3
+
+Building on the widespread adoption of WPA2 over more than a decade, WPA3 is the latest generation of Wi-Fi security from WFA, offering a host of features to simplify Wi-Fi security, enabling more robust authentication, and delivering increased cryptographic strength for highly sensitive data markets. For more information, visit the WFA website.
+
+WPA3-Personal is more resilient, password-based authentication even when users choose passwords that fall short of typical complexity recommendations.
+
+Tip
+
+If you have a WPA2 and a WPA3 AP (access point) in your network setup, your PC will first try to connect using WPA3-Personal, automatically upgrading your existing WPA2-Personal configuration. A wireless network adapter that supports cross-roaming is required to seamlessly roam between WPA2 and WPA3, if part of your network isn't yet compatible with WPA3.
+
+WPA3-Enterprise builds on top of WPA2-Enterprise by providing the additional requirement of using Protected Management Frames on all WPA3 connections with 802.1X for user authentication with a RADIUS server.
+
+WPA-Enterprise (192 bits) offers the equivalent of 192-bit cryptographic strength, providing additional protections for networks transmitting sensitive data, such as government or finance.
+
+## Summary
+
+This article explains how Windows 10 supports Wi-Fi 6 and WPA3 to deliver faster performance and stronger security for wireless connections and also details the requirements for using these technologies on devices running on Windows 10.
+
+Windows 10 supports Wi-Fi 6 and WPA3. Wi-Fi 6 is the sixth generation of Wi-Fi that improves efficiency, flexibility, and scalability, providing higher speeds and capacity for modern applications. WPA3 is the latest security standard that enhances Wi-Fi security, offering features like more robust authentication and increased cryptographic strength. 
+
+These advancements in Wi-Fi technology and security are designed to support the increasing demand for wireless connectivity in various environments, from homes to large enterprises, ensuring a better and more secure user experience.
+
+To take advantage of the increased performance, coverage, and security, here's what you'll need:
+
+A router that supports Wi-Fi 6/6E and/or WPA3. To find out if your router supports this, check the documentation that came with it or visit the router manufacturer’s website.
+
+Windows 10 installed on your PC. To check and make sure you have the latest updates for Windows 10, select the Start 
+ button, then select Settings 
+ > Update & Security 
+ > Windows Update 
+ > Check for updates.
+
+A wireless network adapter that supports Wi-Fi 6/6E and/or WPA3. To see if your PC supports it, check the documentation that came with it or check the PC manufacturer’s website.
+
+Tip
+
+You can also check to see what your network adapter supports by opening the Command Prompt (or Terminal), and then typing the command netsh wlan show drivers. Look next to Radio types supported and see if it includes 802.11ax (for Wi-Fi 6/6e) and look under Authentication and cipher supported in infrastructure mode and see if it includes WPA3 Personal.
+
+### Wi-Fi 6/6E
+
+Wi-Fi 6, also known as IEEE 802.11ax High Efficiency (HE), is the sixth generation of the Wi-Fi standard. It brings several enhancements to wireless networks (WLANs) and is designed to improve performance, efficiency, and scalability. 
+
+Here are some of Wi-Fi 6's new features:
+
+- Multi-User Multiple Input, Multiple Output (MU-MIMO) transmissions, allowing multiple devices to communicate simultaneously.
+
+- Double the potential bandwidth from four streams to eight streams.
+
+- 1024-QAM modulation to enable broadcasting over up to eight spatial data streams.
+
+In addition to that, Wi-Fi 6E extends Wi-Fi 6 support to the 6ghz band. It opens up ultra-wide data channels, providing additional spectrum for faster and more reliable connections in a less crowded spectrum.
+
+With Wi-Fi 6/6E, you can enjoy increased speed, capacity, and efficiency, making it ideal for modern applications and a better overall Wi-Fi experience.
+
+### WPA3
+
+Building on the widespread adoption of WPA2 over more than a decade, WPA3 is the latest generation of Wi-Fi security from WFA, offering a host of features to simplify Wi-Fi security, enabling more robust authentication, and delivering increased cryptographic strength for highly sensitive data markets. For more information, visit the WFA website.
+
+- WPA3-Personal is more resilient, password-based authentication even when users choose passwords that fall short of typical complexity recommendations.
+
+- WPA-Enterprise (192 bits) offers the equivalent of 192-bit cryptographic strength, providing additional protections for networks transmitting sensitive data, such as government or finance.

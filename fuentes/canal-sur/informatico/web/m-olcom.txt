@@ -1,0 +1,166 @@
+URL: https://support.microsoft.com/es-es/office/configuraci%C3%B3n-de-pop-imap-y-smtp-para-outlook-com-d088b986-291d-42b8-9564-9c414e2aa040
+Leído: 2026-10-05
+
+# Configuración POP, IMAP y SMTP para Outlook.com
+
+ Se aplica a
+Outlook para Microsoft 365 Outlook para Microsoft 365 para Mac Outlook 2024 Outlook 2024 para Mac Outlook 2021 Outlook 2021 para Mac Outlook 2019 Outlook 2016 Outlook Web App para Office 365 Pequeña Empresa Outlook.com Outlook Web App para Office 365 ofrecido por 21Vianet Outlook Web App Light Nuevo Outlook para Windows Outlook para Android Correo de Outlook para Windows 10 Outlook en la web para Exchange Server 2016 Outlook en la web para Exchange Server 2019 Outlook Web App 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo habilito el acceso POP o IMAP en Outlook.com?
+
+ ¿Cómo gestiono múltiples cuentas de correo electrónico en Outlook?
+
+ Obtén la configuración de Outlook.com para mi aplicación de correo electrónico
+
+Si está intentando agregar su cuenta Outlook.com a Outlook u otra aplicación de correo, es posible que necesite la configuración POP, IMAP o SMTP. Puede encontrarlos a continuación o verlos en la configuración de Outlook.com.
+
+Es posible que Outlook y Outlook.com puedan detectar automáticamente la configuración del buzón de su cuenta, pero en el caso de otras cuentas que no sean de Microsoft, es posible que deba ponerse en contacto con su proveedor de correo electrónico para conocer su configuración.
+
+## Configuración POP, IMAP y SMTP para Outlook.com
+
+Si desea agregar su cuenta de Outlook.com a otro programa de correo electrónico que admita POP o IMAP, esta es la configuración del servidor manual que necesita.
+
+Nota
+
+- El acceso POP & IMAP está deshabilitado de forma predeterminada. Consulte la sección siguiente sobre cómo habilitar el acceso POP o IMAP en Outlook.com.
+
+- Outlook.com requiere el uso de autenticación moderna/OAuth2.
+
+- Los servidores de entrada y salida son iguales.
+
+ | 
+ Nombre de usuario
+
+ | Tu dirección de correo electrónico
+
+ | 
+ Contraseña
+
+ | La contraseña de tu cuenta de Microsoft.
+
+ Si no se reconoce tu contraseña o si quieres agregar tu cuenta de Outlook.com a un dispositivo inteligente como una cámara de seguridad doméstica, es posible que necesites una contraseña de aplicación. 
+ Obtenga información sobre cómo agregar su cuenta Outlook.com a otra aplicación de correo electrónico o dispositivo inteligente.
+
+ | 
+
+ | 
+
+ | 
+ Servidor IMAP
+
+ | outlook.office365.com
+
+ | 
+ Puerto IMAP
+
+ | 993
+
+ | 
+ Cifrado IMAP
+
+ | SSL/TLS
+
+ | 
+ Método de autenticación
+
+ | OAuth2/Autenticación moderna
+
+ | 
+
+ | 
+
+ | 
+ Nombre del servidor POP
+
+ | outlook.office365.com
+
+ | 
+ Puerto POP
+
+ | 995
+
+ | 
+ Cifrado POP
+
+ | SSL/TLS
+
+ | 
+ Método de autenticación
+
+ | OAuth2/Autenticación moderna
+
+ | 
+ Nombre del servidor SMTP
+
+ | smtp-mail.outlook.com
+
+ | 
+ Puerto SMTP
+
+ | 587
+
+ | 
+ Cifrado SMTP
+
+ | STARTTLS
+
+ | 
+ Método de autenticación
+
+ | OAuth2/Autenticación moderna
+
+## Habilitar el acceso POP o IMAP en Outlook.com
+
+Si desea utilizar POP o IMAP para acceder al correo electrónico en Outlook.com, primero deberá habilitar el acceso.
+
+- Seleccionar configuración>Correo>Reenvío e IMAP.
+
+- En POP e IMAP, cambie el control deslizante para Permitir que los dispositivos y las aplicaciones usen POP o Permitir que los dispositivos y las aplicaciones usen IMAP para activar , en función de la cuenta que esté habilitando.
+
+- Selecciona Guardar.
+
+## Errores de conexión de IMAP de Outlook.com
+
+Puede recibir un error de conexión si ha configurado su cuenta de Outlook.com como IMAP en varios clientes de correo electrónico. Estamos trabajando en una corrección y actualizaremos este artículo cuando tengamos más información. Por ahora, intente lo siguiente:
+
+- Vaya a account.live.com/activity e inicie sesión con la dirección de correo electrónico y la contraseña de la cuenta afectada.
+
+- En Actividad reciente, busque el evento Tipo de sesión que coincida con la hora más reciente en que recibió el error de conexión y haga clic para expandirlo.
+
+- Seleccione Se trata de mí para que el sistema sepa que autoriza la conexión de IMAP.
+
+- Intente conectarse a la cuenta a través de su cliente IMAP.
+
+Para obtener más información sobre cómo usar la página Actividad reciente, vaya a ¿Qué es la página Actividad reciente?
+
+Si usa Outlook.com para acceder a una cuenta que usa un dominio distinto de @live.com, @hotmail.com, o @outlook.com, es posible que no pueda sincronizar sus cuentas mediante IMAP. Para resolver este problema, quite la cuenta IMAP conectada a Outlook.com y vuelva a configurarla como conexión POP. Para obtener instrucciones sobre cómo volver a configurar su cuenta para usar POP, póngase en contacto con el proveedor de su cuenta de correo electrónico.
+
+## Artículos relacionados
+
+ Agregar sus otras cuentas de correo electrónico a Outlook.com
+
+ Agregar una cuenta de correo electrónico en Outlook
+
+ ¿Qué son IMAP y POP?
+
+## ¿Aún necesita ayuda?
+
+ | 
+
+ | Para obtener soporte técnico en Outlook.com, pulse o haga clic aquí o seleccione Ayuda en la barra de menús y escriba la consulta. Si la autoayuda no resuelve el problema, desplácese hacia abajo hasta ¿Necesita más ayuda? y seleccione Sí.
+
+Si los pasos anteriores no funcionan o no puede iniciar sesión, pulse o haga clic aquí.
+
+ | 
+
+ | Para obtener más ayuda con tu cuenta de Microsoft y tus suscripciones, visita Ayuda con la cuenta & la facturación.
+
+ | 
+
+ | Para obtener ayuda y solucionar problemas de otros productos y servicios de Microsoft, escriba su problema aquí.
+
+ | 
+
+ | Publique preguntas, siga debates y comparta sus conocimientos en la comunidad Outlook.com.

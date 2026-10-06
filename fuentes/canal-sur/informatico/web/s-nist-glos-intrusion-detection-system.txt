@@ -1,0 +1,18 @@
+URL: https://csrc.nist.gov/glossary/term/intrusion_detection_system
+Leído: 2026-10-05
+
+Definitions:
+Software that automates the intrusion detection process.
+Sources:
+NIST SP 800-12 Rev. 1
+under Intrusion Detection System (IDS)
+from
+NIST SP 800-94
+A security service that monitors and analyzes network or system events for the purpose of finding, and providing real-time or near real-time warning of, attempts to access system resources in an unauthorized manner.
+Sources:
+NIST SP 800-82r3
+under intrusion detection system
+from
+RFC 4949
+- adapted
+<

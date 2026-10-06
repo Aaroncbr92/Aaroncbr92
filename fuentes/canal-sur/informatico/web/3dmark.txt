@@ -1,0 +1,891 @@
+URL: https://benchmarks.ul.com/3dmark
+Leído: 2026-10-05
+
+
+
+ 3DMark benchmark for Windows, Android and iOS
+
+ Skip to main content
+ Skip to footer
+
+Benchmarks
+
+Software
+
+Procyon benchmark suite
+
+Procyon Essentials
+
+AI Text Generation Benchmark
+
+AI Image Generation Benchmark
+
+AI Inference Benchmark for Android
+
+AI Computer Vision Benchmark
+
+Battery Life Benchmark
+
+One-Hour Battery Consumption Benchmark
+
+Office Productivity Benchmark
+
+Photo Editing Benchmark
+
+Video Editing Benchmark
+
+Testdriver
+
+Procyon Labs
+
+3DMark
+
+3DMark for Android
+
+3DMark for iOS
+
+PCMark 10
+
+PCMark for Android
+
+VRMark
+
+MORE...
+
+Services
+
+Performance data for retailers
+
+Benchmark Development Program
+
+Public sector procurement
+
+Windows 11 image testing
+
+3DMark Sponsorship
+
+Support
+
+Support
+
+Resources
+
+User guides
+
+Downloads
+
+How to benchmark
+
+Approved drivers
+
+Benchmark rules
+
+SystemInfo
+
+Insights
+
+Procyon Insights
+
+Retail Insights
+
+Procyon Scores
+
+AI Quality Metrics
+
+Compare
+
+CPUs
+
+GPUs
+
+Smartphones
+
+Tablets
+
+VR headsets
+
+More
+
+About
+
+Contact
+
+News
+
+Reviewers
+
+Careers
+
+English
+
+中文
+
+Deutsch
+
+日本語
+
+Português (Brasil)
+
+ One benchmark for all your hardware
+
+3DMark includes everything you need to benchmark gaming performance in one app. Whether you're on a PC, Mac a tablet or a smartphone, 3DMark includes benchmarks designed specifically for your hardware.
+
+We update 3DMark regularly so that you can benchmark the latest hardware and graphics APIs. Since 2013, we've added over a dozen new benchmarks, stress tests and feature tests. When you buy 3DMark today, you benefit from more than seven years of development, updates, and enhancements. And we're just getting started.
+
+The latest version of the world's most popular benchmark.
+
+Everything you need to test your PC, Mac, notebook, tablet and smartphone.
+
+3DMark recommends the best benchmark for your system.
+
+Compare your 3DMark scores with other Windows, macOS, Android and iOS devices.
+
+The latest version of the world's most popular benchmark.
+
+Everything you need to test your PC, notebook, tablet and smartphone.
+
+3DMark recommends the best benchmark for your system.
+
+Compare your 3DMark scores with other Windows, Android and iOS devices.
+
+ Windows Editions
+ Android Edition
+
+ macOS Editions
+ iOS Edition
+
+Better benchmarking with 3DMark
+
+The right test every time
+
+It's easy to find the right test for your PC. 3DMark automatically scans your hardware & recommends the best benchmark for your system.
+
+Choose your tests
+
+3DMark grows bigger every year with new tests. When you buy 3DMark from Steam, you can choose to install only the tests you need.
+
+Compare scores
+
+See how your 3DMark score compares with results from other systems with the same combination of CPU and GPU.
+
+Estimated game performance
+
+3DMark helps you relate your score to real-world game performance by estimating the frame rates you can expect in a selection of popular games.
+
+Hardware monitoring
+
+Detailed charts show you how the CPU and GPU temperatures, clock speeds, and the frame rate changed during your benchmark run.
+
+Custom settings
+
+Explore your PC's performance limits by changing the resolution and other quality settings to make benchmarks more or less demanding.
+
+Steel Nomad
+
+Cross-platform, non-raytraced benchmark for high-end gaming PCs
+
+Steel Nomad uses graphics technologies just like your favorite new game titles to give you a good idea of how your system will run the latest heavy PC games without ray tracing. Succeeding the massively popular 3DMark Time Spy benchmark, Steel Nomad runs at a 4k resolution and adds new graphics technologies like volumetric skies and procedural grass.
+
+New implementations of graphics techniques such as volume illumination, ambient occlusion, and depth-of-field makes the sun-scorched setting of Steel Nomad display some of the best PC benchmarking visuals to date, especially with HDR enabled.
+
+Uses DirectX 12, Vulkan and Metal depending on platform.
+
+Designed for Windows, Windows-on-Arm, and macOS
+
+Heavy cross platform non-raytraced benchmark.
+
+Speed Way
+
+Ray tracing benchmark for high-end gaming PCs
+
+3DMark Speed Way is a DirectX 12 Ultimate benchmark for gaming PCs running Windows 10 and 11. Speed Way’s engine is assembled to demonstrate the new features DirectX 12 Ultimate brings to raytraced gaming. Speed Way uses DirectX Raytracing tier 1.1 for real-time global illumination and real-time raytraced reflections, coupled with new DirectX 12 Ultimate performance optimizations like Mesh Shaders.
+
+DirectX 12 Ultimate Benchmark for Windows 10
+
+Renders at 2560 × 1440 resolution.
+
+Ray tracing benchmark for high-end gaming PCs
+
+Steel Nomad light
+
+Cross-platform, non-raytraced benchmark for lightweight devices
+
+Steel Nomad uses graphics technologies just like your favorite new game titles to give you a good idea of how your system will run the latest PC and mobile games without ray tracing.
+
+Set at night, with the Steel Nomad desert basin flooded by a vast lake, Steel Nomad Light is more accessible for lightweight and portable systems, lowering the rendering resolution to 1440p and removing or reducing some of the most demanding graphical techniques used in Steel Nomad. Make no mistake though, Steel Nomad is still a very demanding benchmark for the latest phones, tablets, and lightweight laptops.
+
+Uses DirectX 12, Vulkan and Metal depending on platform.
+
+Designed for Windows, Windows-on-Arm, Android and iOS.
+
+Cross-platform non-raytraced benchmark.
+
+Solar Bay
+
+Ray tracing benchmark for lightweight and mobile devices
+
+3DMark Solar Bay is a ray tracing benchmark for test for devices running iOS, Android and Windows 10 and 11. It’s designed for measuring gaming with ray tracing performance on notebooks, phones and tablets. Built using the Vulkan 1.1 graphics API for Android and Windows, and the Metal API for iOS, its results can be compared across supported platforms. The ray traced workload increases linearly over three stages, letting you see how your device handles a variety of ray traced gaming workloads.
+
+Solar Bay Extreme ramps up the raytracing to the next level for lightweight devices - with new and increased raytracing techniques, more workers and an expanded benchmark scene.
+
+Uses Vulkan 1.1 on Android, Windows 10 and 11
+
+Uses Metal on iOS devices
+
+Renders at 2560 × 1440 resolution.
+
+Ray tracing benchmark for lightweight and mobile devices.
+
+Port Royal
+
+Ray tracing benchmark for graphics cards
+
+3DMark Port Royal is the world’s first dedicated real-time ray tracing benchmark for gamers. You can use Port Royal to test and compare the real-time ray tracing performance of any graphics card that supports Microsoft DirectX Raytracing. As well as benchmarking performance, 3DMark Port Royal provides a realistic and practical example of what to expect from ray tracing in upcoming games.
+
+Ray tracing benchmark for graphics cards.
+
+Renders at 2560 × 1440 resolution.
+
+Requires a GPU with DirectX Raytracing support.
+
+Wild Life
+
+Cross-platform benchmarks for notebook computers, tablets and smartphones
+
+Wild Life
+
+3DMark Wild Life is a cross-platform benchmark for Windows, Android and Apple iOS. Use 3DMark Wild Life to test and compare the graphics performance of notebook computers, tablets and smartphones. Wild Life uses the Vulkan graphics API on Windows PCs and Android devices. On iOS devices, it uses Metal. You can compare benchmark scores across platforms.
+
+Cross-platform GPU benchmark for smartphones and tablets.
+
+Compare scores from Windows, Android and iOS devices.
+
+Renders at 2560 × 1440 resolution.
+
+Wild Life Extreme
+
+Run Wild Life Extreme to benchmark the GPU performance of the latest Windows notebooks, Always Connected PCs powered by Windows 10 an 11 on Arm, Apple Mac computers powered by the M1 chip, and the next generation of smartphones and tablets. With new effects, enhanced geometry and more particles, Wild Life Extreme is over three times more demanding than the Wild Life benchmark.
+
+Cross-platform GPU benchmark for mobile computing devices.
+
+Compare Windows notebooks and Apple Mac computers with M1.
+
+Renders at 3840 × 2160 (4K UHD) resolution.
+
+Storage Benchmark
+
+SSD performance test for gamers
+
+Advanced Edition DLC
+
+Purchased separately
+
+The 3DMark Storage Benchmark DLC, purchased separately, extends 3DMark with a dedicated component test for measuring the gaming performance of SSDs and other storage hardware. It supports all the latest storage technologies and tests practical, real-world gaming performance for activities such as loading games, saving progress, installing game files, and recording gameplay video streams.
+
+SSD benchmark designed for gamers.
+
+Tests based on real gaming activities.
+
+Compare scores to find the best SSDs.
+
+CPU Profile
+
+CPU benchmarks for modern processors
+
+The 3DMark CPU Profile introduces a new approach to CPU benchmarking. Instead of producing a single number, the 3DMark CPU Profile shows you how CPU performance scales with the number of cores and threads used. The CPU Profile has six tests that use 1, 2, 4, 8, 16 or the maximum number of available threads. These tests help you benchmark and compare CPU performance for gaming, overclocking, and other scenarios.
+
+CPU benchmarks for multicore processors.
+
+Six tests using 1, 2, 4, 8, 16 or max threads.
+
+Track the performance gains from overclocking.
+
+Time Spy
+
+DirectX 12 benchmark tests for gaming PCs
+
+Time Spy
+
+3DMark Time Spy is a DirectX 12 benchmark test for Windows 10 gaming PCs. Time Spy is one of the first DirectX 12 apps to be built the right way from the ground up to fully realize the performance gains that the new API offers.
+
+With its pure DirectX 12 engine, which supports new API features like asynchronous compute, explicit multi-adapter, and multi-threading, Time Spy is the ideal test for benchmarking the latest graphics cards.
+
+DirectX 12 benchmark for Windows 10.
+
+Renders at 2560 × 1440 resolution.
+
+Includes a Demo, Graphics tests, and a CPU test.
+
+Time Spy Extreme
+
+Time Spy Extreme is a new 4K DirectX 12 benchmark test, available in 3DMark Advanced and Professional Editions. You don't need a 4K monitor to run it, but you will need a GPU with at least 4 GB of dedicated memory.
+
+With its 4K Ultra HD rendering resolution, Time Spy Extreme is an ideal benchmark test for the latest high-end graphics cards. The CPU test has been redesigned to let processors with 8 or more cores perform to their full potential.
+
+World's first 4K DirectX 12 gaming benchmark.
+
+Renders at 3840 × 2160 (4K UHD) resolution.
+
+New CPU test, ideal for processors with 8 or more cores.
+
+Night Raid
+
+DirectX 12 test for PCs with integrated graphics
+
+Night Raid is a DirectX 12 benchmark for mobile computing devices with integrated graphics and low-power platforms powered by Windows 10 and 11 on Arm. Run Night Raid to test and compare laptops, notebooks, tablets, and the latest Always Connected PCs. The test is especially suitable for DirectX 12 systems that cannot achieve high frame rates in the more demanding Time Spy benchmark.
+
+DirectX 12 benchmark for Windows 10.
+
+Renders at 1920 × 1080 resolution.
+
+Includes a Demo, Graphics tests, and a CPU test.
+
+Fire Strike
+
+DirectX 11 benchmark tests for gaming PCs
+
+Fire Strike
+
+Fire Strike is a showcase DirectX 11 benchmark for modern gaming PCs. Its ambitious real-time graphics are rendered with detail and complexity far beyond other DirectX 11 benchmarks and games.
+
+Fire Strike includes two graphics tests, a physics test and a combined test that stresses the CPU and GPU.
+
+DirectX 11 benchmark for gamers.
+
+Renders at 1920 × 1080 resolution.
+
+For gaming PCs.
+
+Fire Strike Extreme
+
+3DMark Fire Strike Extreme is designed for multi-GPU systems and future hardware generations.
+
+In addition to raising the rendering resolution, additional visual quality improvements increase the rendering load to ensure accurate performance measurements for truly extreme hardware setups.
+
+Enhanced for extreme hardware.
+
+Renders at 2560 × 1440 resolution.
+
+For gaming PCs.
+
+Fire Strike Ultra
+
+Can your PC handle 4K gaming? Fire Strike Ultra's 4K Ultra HD rendering resolution is four times larger than the 1080p resolution used in Fire Strike.
+
+A 4K monitor is not required, but your graphics card must have at least 3GB of memory to run this demanding benchmark.
+
+The world's first 4K gaming benchmark.
+
+Renders at 4K UHD resolution (3840 × 2160).
+
+For high-performance gaming PCs.
+
+Feature tests
+
+Specialized tests for specific features
+
+Opacity Micromaps feature test
+
+Opacity Micromaps improve raytracing performance for geometry that use a technique called alpha testing. Using them, the overall raytracing workload can be reduced by more efficiently identifying regions of geometry that are either fully opaque or transparent. This feature test for Android demonstrates one way Opacity Micromaps can be used to improve performance in raytraced scenes.
+
+DirectStorage feature test
+
+Microsoft DirectStorage is a technology for PCs with PCIe SSDs, that helps reduce the overhead when loading game data. This feature test demonstrates a near-best case scenario for using DirectStorage, where performance is not affected by any variables from the game engine - This gives you an idea of the near-maximum potential performance benefits DirectStorage could have for your system.
+
+DirectX Raytracing feature test
+
+Real-time ray tracing is incredibly demanding. The latest graphics cards have dedicated hardware that’s optimized for ray-tracing. The 3DMark DirectX Raytracing feature test measures the performance of this dedicated hardware. Instead of using traditional rendering techniques, the whole scene is ray-traced and drawn in one pass. The result of the test depends entirely on ray-tracing performance.
+
+Mesh Shader feature test
+
+Mesh Shaders, a new feature in DirectX 12 Ultimate, give developers more flexibility and control over the geometry pipeline. The 3DMark Mesh Shader feature test shows how game engines can improve performance by using the mesh shader pipeline to efficiently cull geometry that is not visible to the camera. An interactive mode lets you experiment with different settings and visualization tools.
+
+PCI Express feature test
+
+PCI Express (PCIe) is a standard interface that provides high-bandwidth communication between devices in your PC. New PCIe 4.0 interfaces provide up to twice the bandwidth of PCIe 3.0. With more bandwidth, games can transfer more data, reduce loading times, and support more complex scenes. The PCI Express feature test measures the bandwidth available to your GPU.
+
+Sampler Feedback feature test
+
+Sampler Feedback is a feature in DirectX 12 Ultimate that helps developers optimize the handling of textures and shading. The 3DMark Sampler Feedback feature test shows how developers can use sampler feedback to improve game performance by optimizing texture space shading operations. An interactive mode lets you experiment with different settings and visualization tools.
+
+VRS feature test
+
+Variable-Rate Shading (VRS) is a DirectX 12 Ultimate feature that can improve performance by reducing detail in parts of the frame where it is unlikely to be noticed. The 3DMark VRS feature test helps you compare differences in performance and image quality when using Tier 1 and Tier 2 VRS. An interactive mode lets you change VRS settings on the fly and export frames for comparison.
+
+AMD FSR feature test
+
+AMD FidelityFX Super Resolution is an AMD graphics technology that uses highly-optimized temporal analytical techniques to improve gaming performance while maintaining high visual fidelity. The AMD FSR feature test shows you how FSR 2 affects performance and image quality. Use the frame inspector tool to make close-up comparisons between FSR and traditional rendering with TAA.
+
+NVIDIA DLSS feature test
+
+Deep Learning Super Sampling (DLSS) is an NVIDIA RTX technology that uses the power of deep learning and AI to improve game performance while maintaining visual quality. The NVIDIA DLSS feature test helps you compare performance and image quality using DLSS 3, DLSS 2 and DLSS 1. You can select between 3 image quality modes for DLSS 2 and later. DLSS 3 uses DLSS Frame Generation.
+
+Intel XeSS feature test
+
+XeSS (Xe Super Sampling) is an Intel graphics technology that uses AI-enhanced upscaling to improve performance while maintaining high image fidelity. The 3DMark Intel XeSS feature test shows you how XeSS affects performance and quality. The frame inspector tool helps you compare image quality with an interactive side-by-side comparison of XeSS and native-resolution rendering.
+
+Stress Tests
+
+Check the reliability and stability of your PC
+
+Stress testing is a good way to check the reliability and stability of your system after buying or building a new PC, upgrading your graphics card, or overclocking your GPU. It can help you identify faulty hardware or a need for better cooling.
+
+If your GPU crashes, hangs, or produces visual artifacts during the test, it may indicate a reliability or stability problem. If it overheats and shuts down, you may need more cooling in your computer.
+
+For home use
+
+Looking for 3DMark to use at home?
+
+ Go to 3DMark.com
+
+Help build 3DMark
+
+Want to take part in 3DMark Development Process?
+
+ Benchmarks Development Program
+
+For business use
+
+3DMark for Enterprise
+
+ Get quote
+ Press license
+
+Benchmarks
+
+Solar Bay
+
+Solar Bay Extreme
+
+Steel Nomad
+
+Steel Nomad Light
+
+Speed Way
+
+Time Spy
+
+Time Spy Extreme
+
+Port Royal
+
+Night Raid
+
+Wild Life
+
+Wild Life Extreme
+
+Fire Strike
+
+Fire Strike Extreme
+
+Fire Strike Ultra
+
+GPU Stress Tests
+
+CPU Profile
+
+Storage Benchmark
+
+DirectX Raytracing feature test
+
+Mesh Shader feature test
+
+PCI Express feature test
+
+Sampler Feedback feature test
+
+VRS feature test
+
+AMD FSR feature test
+
+NVIDIA DLSS feature test
+
+Intel XeSS feature test
+
+Features
+
+Unlock Explorer Mode in Steel Nomad, Steel Nomad Light and Speed Way
+
+Unlock VS. Mode in Steel Nomad, Steel Nomad Light and Speed Way.
+
+Custom benchmark settings
+
+Game performance estimates
+
+Install tests independently
+
+Skip demo option
+
+Save results offline
+
+Private, offline results option
+
+Command line automation
+
+Image Quality Tool
+
+Export result data as XML
+
+Licensed for commercial use
+
+Compatible with Testdriver®
+
+Priority support by email and phone
+
+Heavy user?
+
+Ask us about Testdriver — our easy benchmark automation solution for enterprise IT, production line QA, and PC lifecycle management.
+
+Enterprise bundle
+
+Buy two or more benchmarks to qualify for a bundle discount: 3DMark, VRMark, PCMark, Procyon.
+
+Minimum requirements
+
+ | OS
+
+ | Windows 10, 64-bit
+
+ | Processor
+
+ | 1.8 GHz dual-core CPU
+
+ | Memory
+
+ | 4 GB of system memory
+
+ | Graphics
+
+ | DirectX 11
+
+ | Storage
+
+ | 2 GB free space to install Steel Nomad and Steel Nomad light only
+
+Recommended requirements
+
+ | OS
+
+ | Windows 11 or Windows 10 64-bit (Version 21H2)
+
+ | Processor
+
+ | 1.8 GHz dual-core CPU with SSSE3
+
+ | Memory
+
+ | 4 GB of system memory
+
+ | Graphics
+
+ | DirectX 12 with 6 GB graphics memory
+
+ | Storage
+
+ | 9.8 GB free space to install all tests
+
+Enterprise licensing
+
+Single-seat licenses require an Internet connection for online activation. A single-seat license allows you to install the software on one system at a time.
+
+With a site license, you can activate and use the software offline. A site license allows you to run the software on multiple systems at the same time.
+
+Minimum macOS requirements
+
+ | OS
+
+ | macOS 14 Sonoma or later
+
+ | Processor
+
+ | Mac with Apple M-Series CPU
+
+ | Memory
+
+ | 8 GB System RAM
+
+ | Storage
+
+ | 2 GB
+
+Recommended macOS requirements
+
+ | OS
+
+ | macOS 14 Sonoma or later
+
+ | Processor
+
+ | Mac with Apple M3-Series CPU or higher
+
+ | Memory
+
+ | 16 GB System RAM
+
+ | Storage
+
+ | 2 GB
+
+Ready for Windows 11
+
+All the currently supported benchmarks and feature tests in 3DMark are compatible with Windows 11.
+
+Windows on Arm
+
+Steel Nomad Light, Steel Nomad, Solar Bay, 3DMark Wild Life, Wild Life Extreme, and Night Raid are compatible with Windows 10 on Arm and Windows 11 on Arm..
+
+Compatibility notes
+
+To run Speed Way, you must have Windows 11 or the Windows 10 21H2 update, and a graphics card with at least 6GB VRAM and DirectX 12 Ultimate support.
+
+To run Time Spy and Night Raid benchmarks, you need Windows 10, a graphics card that supports DirectX 12, and a processor that supports SSSE3.
+
+Wild Life benchmarks require a GPU that supports Vulkan 1.1.
+
+To run Port Royal, you must have the Windows 10 October 2018 Update (1809) and a graphics card that supports Microsoft DirectX Raytracing.
+
+The DirectX Raytracing feature test requires Windows 10 Version 2004 or later and a DirectX 12 compatible graphics card with driver support for DirectX Raytracing Tier 1.1.
+
+Mesh Shader and Sampler Feedback feature tests require Windows 10 version 2004 or later and a graphics card with drivers that support Microsoft DirectX 12 Ultimate.
+
+The PCI Express feature test requires a DirectX 12 compatible discrete graphics card.
+
+The VRS feature test requires Windows 10 version 1903 or later and a DirectX 12 GPU that supports Variable-Rate Shading.
+
+The NVIDIA DLSS feature test requires an NVIDIA graphics card that supports DLSS. DLSS 3 requires a GeForce RTX 40 Series GPU. DLSS Frame Generation requires a GeForce RTX 40 Series GPU and Reflex SDK integration.
+
+The 3DMark Storage Benchmark needs 30 GB of free strorage space to run the test. We recommend using a 3.0 GHz quad-core processor or better when testing ultra-fast storage.
+
+To run the Intel XeSS feature test, you must have a GPU that supports Intel XeSS and Microsoft DirectX Raytracing Tier 1.1. XeSS compatible GPUs include Intel Arc GPUs, as well as AMD Radeon and NVIDIA GeForce GPUs with Shader Model 6.4 support. You also need Windows 11 or Windows 10 64-bit, version 20H2 or newer.
+
+To run the AMD FSR feature test, you must have a GPU that supports AMD FSR or later. AMD FSR technology is open source and runs on a wide range of graphics processing units (GPUs) from all vendors.
+
+To run Solar Bay, you need a Windows device that supports Vulkan ray tracing pipeline, an Android device that supports Vulkan ray query, or an iOS device that supports Metal ray tracing.
+
+Support
+
+Latest version 2.32.8897 | August 3, 2026
+
+ 3DMark support
+
+ 3DMark user guide
+
+ 3DMark download
+
+ Benchmark rules
+
+ Approved drivers
+
+Languages
+
+English
+
+French
+
+German
+
+Japanese
+
+Korean
+
+Polish
+
+Portuguese (Brazil)
+
+Russian
+
+Simplified Chinese
+
+Traditional Chinese
+
+Spanish
+
+ Skip to header
+
+Benchmarks
+
+Procyon benchmark suite
+
+Procyon Labs
+
+3DMark
+
+PCMark 10
+
+Testdriver
+
+Services
+
+Performance data for retailers
+
+Benchmark Development Program
+
+Public sector procurement
+
+3DMark Sponsorship
+
+UL Benchmarks
+
+About us
+
+Contact us
+
+Our news
+
+For press
+
+Careers
+
+Support
+
+Customer support
+
+About UL Solutions
+
+ UL Solutions is a global safety science company that's dedicated to helping its customers achieve their safety, security and sustainability goals. Discover more at UL.com.
+
+Languages
+
+ English |
+ 中文 |
+ Deutsch |
+ 日本語 |
+ Português (Brasil)
+
+Procyon
+
+Procyon benchmark suite
+
+Procyon Essentials
+
+AI Text Generation Benchmark
+
+AI Image Generation Benchmark
+
+AI Computer Vision Benchmark
+
+AI Inference Benchmark for Android
+
+Battery Life Benchmark
+
+One-Hour Battery Consumption Benchmark
+
+Office Productivity Benchmark
+
+Photo Editing Benchmark
+
+Video Editing Benchmark
+
+Testdriver
+
+Procyon Labs
+
+Benchmarks
+
+3DMark
+
+3DMark for Android
+
+3DMark for iOS
+
+PCMark 10
+
+PCMark for Android
+
+VRMark
+
+More benchmarks
+
+Services
+
+Performance data for retailers
+
+Benchmark Development Program
+
+Public sector procurement
+
+Windows 11 image testing
+
+3DMark Sponsorship
+
+Support
+
+Customer support
+
+Resources
+
+User guides
+
+Downloads
+
+How to benchmark
+
+Approved drivers
+
+Benchmark rules
+
+SystemInfo
+
+Insights
+
+Procyon Insights
+
+Retail Insights
+
+Procyon Scores
+
+AI Quality Metrics
+
+Compare
+
+CPUs
+
+GPUs
+
+Smartphones
+
+Tablets
+
+VR headsets
+
+UL Benchmarks
+
+About us
+
+Contact us
+
+Our news
+
+For press
+
+Careers
+
+About UL Solutions
+
+ UL Solutions is a global safety science company that's dedicated to helping its customers achieve their safety, security and sustainability goals. Discover more at UL.com.
+
+Languages
+
+ English |
+ 中文 |
+ Deutsch |
+ 日本語 |
+ Português (Brasil)
+
+ Skip to header
+
+About UL Solutions
+
+ UL Solutions is a global safety science company that's dedicated to helping its customers achieve their safety, security and sustainability goals. Discover more at UL.com.
+
+Languages
+
+ English |
+ 中文 |
+ Deutsch |
+ 日本語 |
+ Português (Brasil)
+
+ Privacy Notice  |  Privacy Notice California  |  Cookie Policy  |  EULA
+

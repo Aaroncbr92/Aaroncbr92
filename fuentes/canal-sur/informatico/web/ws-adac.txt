@@ -1,0 +1,548 @@
+URL: https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/get-started/adac/active-directory-administrative-center
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Advanced AD DS Management Using Active Directory Administrative Center (Level 200)
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+Este artículo cubre el Centro administrativo de Active Directory actualizado con su papelera de reciclaje de Active Directory, políticas de contraseñas detalladas y el visor de historial de Windows PowerShell en detalle, incluida la arquitectura, ejemplos de tareas comunes e información sobre solución de problemas. Para ver una introducción, consulta Introducción a las mejoras del Centro de administración de Active Directory (Nivel 100).
+
+## Arquitectura del Centro de administración de Active Directory
+
+### Archivos DLL y ejecutables del Centro de administración de Active Directory
+
+El módulo y la arquitectura subyacente del Centro administrativo de Active Directory no han cambiado con las funciones de la papelera de reciclaje, las directivas de contraseñas detalladas y el visor del historial.
+
+- Microsoft.ActiveDirectory.Management.UI.dll
+
+- Microsoft.ActiveDirectory.Management.UI.resources.dll
+
+- Microsoft.ActiveDirectory.Management.dll
+
+- Microsoft.ActiveDirectory.Management.resources.dll
+
+- ActiveDirectoryPowerShellResources.dll
+
+A continuación se ilustran la capa de operaciones y de Windows PowerShell subyacentes de la nueva funcionalidad de papelera de reciclaje:
+
+## Habilitar y administrar la papelera de reciclaje de Active Directory mediante el Centro de administración de Active Directory
+
+### Capabilities
+
+- El Centro administrativo de Active Directory de Windows Server 2012 o posterior permite configurar y administrar la papelera de reciclaje de Active Directory para cualquier partición de dominio de un bosque. Ya no es necesario utilizar Windows PowerShell o Ldp.exe para habilitar la papelera de reciclaje de Active Directory o restaurar objetos en particiones de dominio.
+
+- El Centro de administración de Active Directory tiene criterios de filtrado avanzados que facilitan la restauración específica en entornos grandes en los que muchos objetos se eliminan intencionadamente.
+
+### Limitations
+
+- 
+Dado que el Centro de administración de Active Directory solo puede administrar particiones de dominio, no puede restaurar objetos eliminados de las particiones De configuración, DNS de dominio o DNS de bosque. (No se pueden eliminar objetos de la partición de esquema). Para restaurar objetos desde particiones de nondomain, use Restore-ADObject.
+
+- 
+El Centro de administración de Active Directory no puede restaurar subárboles de objetos en una sola acción. Por ejemplo, si elimina una unidad organizativa (OU) con OU anidadas, usuarios, grupos y equipos, al restaurar la OU de base no se restauran los objetos secundarios.
+
+Note
+
+La operación de restauración por lotes del Centro de administración de Active Directory hace la mejor clasificación posible de los objetos eliminados solo dentro de la selección, de manera que los elementos primarios se ordenan antes que los elementos secundarios en la lista de restauración. En casos de pruebas sencillos, los subárboles de objetos se pueden restaurar en una sola acción. Pero esto puede que no funcione como se espera en casos más complejos, como una selección que contiene árboles parciales (árboles en los que faltan algunos de los nodos primarios eliminados) o en casos de error (como cuando se omiten los objetos secundarios en caso de error de los objetos primarios). Por este motivo, debes restaurar siempre los subárboles de objetos en una acción diferente después de restaurar los objetos primarios.
+
+La papelera de reciclaje de Active Directory necesita un nivel funcional de bosque de Windows Server 2008 R2 y requiere que sea miembro del grupo de administradores de la empresa. Una vez que haya habilitado Papelera de reciclaje de Active Directory, no podrá deshabilitarla. La papelera de reciclaje de Active Directory aumenta el tamaño de la base de datos de Active Directory (NTDS.DIT) en todos los controladores de dominio del bosque. El espacio en disco que usa la papelera de reciclaje continúa aumentando con el tiempo porque conserva los objetos y todos sus datos de atributos.
+
+### Habilitar la papelera de reciclaje de Active Directory mediante el Centro de administración de Active Directory
+
+Para habilitar la papelera de reciclaje de Active Directory, abra el Centro de administración de Active Directory y haga clic en el nombre del bosque en el panel de navegación. En el panel Tareas , seleccione Habilitar papelera de reciclaje.
+
+El Centro de administración de Active Directory muestra el cuadro de diálogo Habilitar confirmación de papelera de reciclaje. Este cuadro de diálogo avisa de que la operación para habilitar la papelera de reciclaje es irreversible. Seleccione Aceptar para habilitar la papelera de reciclaje de Active Directory. El Centro de administración de Active Directory muestra otro cuadro de diálogo para recordarte que la papelera de reciclaje de Active Directory no será completamente funcional hasta que todos los controladores de dominio repliquen el cambio de configuración.
+
+Important
+
+La opción para habilitar la papelera de reciclaje de Active Directory no está disponible si:
+
+- El nivel funcional del bosque es inferior a Windows Server 2008 R2.
+
+- Ya está habilitada.
+
+El cmdlet de Windows PowerShell para Active Directory equivalente es:
+
+`Enable-ADOptionalFeature
+`
+
+Para obtener más información sobre cómo usar Windows PowerShell para habilitar la papelera de reciclaje de Active Directory, consulte la Guía paso a paso de la papelera de reciclaje de Active Directory.
+
+### Administrar la papelera de reciclaje de Active Directory mediante el Centro de administración de Active Directory
+
+En esta sección se utiliza el ejemplo de un dominio existente con nombre `corp.contoso.com`. Este dominio organiza a los usuarios en una unidad organizativa primaria denominada UserAccounts. La unidad organizativa UserAccounts contiene tres UNIDADES organizativas secundarias denominadas por departamento. Cada una de estas OUs hijas contiene más OUs, usuarios y grupos.
+
+#### Almacenamiento y filtrado
+
+La papelera de reciclaje de Active Directory conserva todos los objetos eliminados en el bosque. Guarda estos objetos según el atributo msDS-deletedObjectLifetime , que de forma predeterminada se establece para que coincida con el atributo tombstoneLifetime del bosque. En cualquier bosque creado con Windows Server 2003 SP1 o posterior, el valor de tombstoneLifetime se establece en 180 días de forma predeterminada. En cualquier bosque actualizado desde Windows 2000 o instalado con Windows Server 2003 (sin Service Pack), el atributo tombstoneLifetime predeterminado no se establece y, por tanto, Windows usa el valor predeterminado interno de 60 días. Todo esto se puede configurar. Puede usar el Centro de administración de Active Directory para restaurar los objetos eliminados de las particiones de dominio del bosque. Debe seguir usando el cmdlet `Restore-ADObject` para restaurar objetos eliminados de otras particiones, como Configuration. Al habilitar la papelera de reciclaje de Active Directory, el contenedor Objetos eliminados es visible en todas las particiones de dominio del Centro de administración de Active Directory.
+
+El contenedor Objetos eliminados muestra todos los objetos restaurables de esa partición de dominio. Los objetos eliminados anteriores a msDS-deletedObjectLifetime se conocen como objetos reciclados. El Centro de administración de Active Directory no muestra los objetos reciclados y estos objetos no se pueden restaurar usando el Centro de administración de Active Directory.
+
+Para obtener una explicación detallada de la arquitectura y las reglas de procesamiento de la papelera de reciclaje, consulte La papelera de reciclaje de Active Directory: Descripción, implementación, procedimientos recomendados y solución de problemas.
+
+El Centro de administración de Active Directory limita artificialmente a 20.000 el número predeterminado de objetos que se devuelven de un contenedor. Puede aumentar este límite hasta 100 000 objetos seleccionando el menú Administrar y, a continuación, seleccionando Opciones de lista de administración.
+
+#### Restoration
+
+Filtering
+
+El Centro de administración de Active Directory ofrece unos criterios y unas opciones de filtrado eficaces con las que debes familiarizarte antes de que necesites usarlas en una restauración real. Los dominios eliminan intencionadamente muchos objetos a lo largo de su ciclo de vida. Dado que la duración del objeto eliminado probablemente es de 180 días, no se pueden restaurar todos los objetos cuando se produce un accidente.
+
+En lugar de escribir filtros LDAP complejos y convertir valores UTC en fechas y horas, use el menú Filtro básico y avanzado para enumerar solo los objetos pertinentes. Si sabes el día de la eliminación, el nombre de los objetos y otros datos clave, usa esa información para ayudarte a filtrar. Para activar o desactivar las opciones avanzadas de filtro, seleccione el botón de contenido adicional, a la derecha del cuadro de búsqueda.
+
+La operación de restauración admite todas las opciones de criterios de filtrado, igual que cualquier otra búsqueda. De los filtros integrados, los importantes para restaurar objetos suelen ser:
+
+- ANR (resolución ambigua de nombres: no aparece en el menú, pero se usa al escribir en el cuadro Filtro )
+
+- Última modificación entre las fechas indicadas
+
+- El tipo de objeto es usuario, inetOrgPerson, equipo, grupo o unidad organizativa
+
+- Name
+
+- Cuando se elimina
+
+- Principal último conocido
+
+- Type
+
+- Description
+
+- City
+
+- Country/region
+
+- Department
+
+- Id. de empleado
+
+- Nombre
+
+- Puesto
+
+- Apellido
+
+- Sam accountname
+
+- State/Province
+
+- Número de teléfono
+
+- UPN
+
+- Código postal o postal
+
+Puedes agregar varios criterios. Por ejemplo, puede buscar todos los objetos de usuario que se eliminaron el 24 de septiembre de 2012 de Chicago, Illinois, con un puesto de Director.
+
+También puedes agregar, modificar o reordenar los encabezados de columna para proporcionar más información a la hora de evaluar qué objetos se van a recuperar.
+
+Para obtener más información sobre ANR, vea Atributos ANR.
+
+Objeto único
+
+La restauración de objetos eliminados siempre ha sido una operación única. El Centro de administración de Active Directory facilita esa operación. Para restaurar un objeto eliminado, como un único usuario:
+
+- Seleccione en el nombre de dominio en el panel de navegación del Centro de administración de Active Directory.
+
+- Haga doble clic en Objetos eliminados en la lista de administración.
+
+- Haga clic con el botón derecho en el objeto y, a continuación, seleccione Restaurar o seleccione Restaurar en el panel Tareas .
+
+El objeto se restaura a su ubicación original.
+
+Seleccione Restaurar a para cambiar la ubicación de restauración. Esto es útil si el contenedor primario del objeto eliminado también se eliminó pero no quiere restaurar el primario.
+
+Varios objetos del mismo nivel
+
+Puedes restaurar varios objetos del mismo nivel, como todos los usuarios de una OU. Mantenga pulsada la tecla CTRL y seleccione uno o varios de los objetos eliminados que quiere restaurar. Seleccione Restaurar en el panel Tareas. Para seleccionar todos los objetos mostrados, presiona las teclas CTRL y A, o para seleccionar un intervalo de objetos, presiona MAYÚS y haz clic.
+
+Varios objetos primarios y secundarios
+
+Es fundamental comprender el proceso de restauración para una restauración de varios objetos primarios y secundarios porque el Centro de administración de Active Directory no puede restaurar un árbol anidado de objetos eliminados con una única acción.
+
+- Restaura el objeto eliminado situado más arriba en un árbol.
+
+- Restaura los secundarios inmediatos de ese objeto primario.
+
+- Restaura los secundarios inmediatos de esos objetos primarios.
+
+- Repite las veces que sea necesario hasta restaurar todos los objetos.
+
+No puede restaurar un objeto secundario antes de restaurar su primario. Intentar esta restauración devuelve el siguiente error:
+
+`The operation could not be performed because the object's parent is either uninstantiated or deleted.
+`
+
+El atributo Principal último conocido muestra la relación primaria de cada objeto. El atributo Principal último conocido cambia de la ubicación eliminada a la ubicación restaurada cuando se actualiza el Centro de administración de Active Directory después de restaurar un objeto primario. Por lo tanto, puede restaurar ese objeto secundario cuando la ubicación de un objeto primario ya no muestra el nombre distintivo del contenedor de objetos eliminados.
+
+Piensa en un escenario en el que un administrador elimina accidentalmente la OU Sales, que contiene OU secundarias y usuarios.
+
+Primero, observe que el valor del atributo Principal último conocido de todos los usuarios eliminados indica OU=Sales\0ADEL:<guid+nombre distintivo del contenedor de objetos eliminados>:
+
+Filtra por el nombre ambiguo Sales para devolver la OU eliminada, que puedes restaurar:
+
+Actualice el Centro de administración de Active Directory para ver cómo el atributo Principal último conocido del objeto de usuario eliminado cambia al nombre distintivo de la unidad organizativa Sales restaurada:
+
+Filtra todos los usuarios de Sales. Mantenga pulsadas las teclas CTRL + A para seleccionar todos los usuarios de Sales eliminados. Seleccione Restaurar para mover los objetos del contenedor Objetos eliminados a la unidad organizativa Sales con sus pertenencias a grupos y atributos intactos.
+
+Si la unidad organizativa Sales contenía unidades organizativas secundarias propias, debe restaurar primero las unidades organizativas secundarias antes de restaurar sus elementos secundarios, etc.
+
+Para restaurar todos los objetos eliminados anidados especificando un contenedor principal eliminado, consulte el Apéndice B: Restaurar varios objetos eliminados de Active Directory (script de ejemplo).
+
+El cmdlet de Active Directory Windows PowerShell para restaurar objetos eliminados es:
+
+`Restore-ADObject
+`
+
+La funcionalidad del cmdlet `Restore-ADObject` no cambió de Windows Server 2008 R2 a Windows Server 2012.
+
+Filtrado del lado servidor
+
+Es posible que, con el tiempo, el contenedor de objetos eliminados acumule más de 20.000 (o incluso 100.000) objetos en organizaciones de tamaño medio y grande, y que tenga dificultades para mostrarlos todos. Como el mecanismo de filtrado en el Centro de administración de Active Directory usa el filtrado del lado del cliente, no puede mostrar estos objetos adicionales. Para evitar esta limitación, sigue estos pasos para realizar una búsqueda del lado del servidor:
+
+- Haga clic con el botón derecho en el contenedor Objetos eliminados y seleccione Buscar en este nodo.
+
+- Seleccione el botón de contenido adicional para exponer el menú +Agregar criterios, seleccione +Agregar y agregue Última modificación entre fechas dadas. La hora de la última modificación (el atributo whenChanged ) es una aproximación cercana del tiempo de eliminación. En la mayoría de los entornos, son idénticos. Esta consulta realiza una búsqueda en el lado del servidor.
+
+- Busca los objetos eliminados que quieres restaurar usando más filtrado y ordenación, entre otros, en los resultados mostrados, y restáuralos normalmente.
+
+## Configurar y administrar directivas de contraseña específica mediante el Centro de administración de Active Directory
+
+### Configurar directivas de contraseña específica
+
+El Centro de administración de Active Directory permite crear y administrar objetos de directiva de contraseña específica (FGPP). Windows Server 2008 incorporó la característica FGPP pero Windows Server 2012 tiene la primera interfaz gráfica de administración para ella. Las directivas de contraseña específica se aplican en el nivel del dominio y permiten invalidar la contraseña de dominio única que Windows Server 2003 necesita. Creando diferentes FGPP con diferentes configuraciones, cada usuario o grupo obtiene diferentes directivas de contraseña en un dominio.
+
+Para obtener más información sobre la directiva de contraseña específica, consulte la Guía paso a paso para la configuración de directivas de bloqueo de cuenta y contraseña específica de AD DS (Windows Server 2008 R2).
+
+En el panel Navegación , seleccione Vista de árbol, seleccione su dominio, Sistema y, a continuación, seleccione Contenedor de configuración de contraseñas. En el panel Tareas , seleccione Nuevo y, a continuación, seleccione Configuración de contraseña.
+
+### Administrar directivas de contraseña específica
+
+Al crear un nuevo FGPP o editar uno existente se abre el editor de configuración de contraseñas . Aquí puedes configurar todas las directivas de contraseña que quieras, como harías en Windows Server 2008 o Windows Server 2008 R2, solo que ahora con un editor creado específicamente para ello.
+
+Rellene todos los campos obligatorios (asterisco rojo) y los campos opcionales y, a continuación, seleccione Agregar para establecer los usuarios o grupos que reciben esta directiva. FGPP invalida la configuración de directiva de dominio predeterminada para las entidades de seguridad especificadas. En la captura de pantalla anterior, una directiva restrictiva se aplica solo a la cuenta Administrador integrada, para evitar riesgos. La directiva es demasiado compleja para que los usuarios estándar la cumplan, pero es perfecta para cuentas de alto riesgo que usan solo los profesionales de TI.
+
+También se establece la prioridad y a qué usuarios y grupos se aplica la directiva en un dominio determinado.
+
+Los cmdlets de Active Directory Windows PowerShell para la directiva de contraseña específica son:
+
+`Add-ADFineGrainedPasswordPolicySubject
+Get-ADFineGrainedPasswordPolicy
+Get-ADFineGrainedPasswordPolicySubject
+New-ADFineGrainedPasswordPolicy
+Remove-ADFineGrainedPasswordPolicy
+Remove-ADFineGrainedPasswordPolicySubject
+Set-ADFineGrainedPasswordPolicy
+`
+
+La funcionalidad del cmdlet para la directiva de contraseña específica no cambió de Windows Server 2008 R2 a Windows Server 2012. El siguiente diagrama ilustra los argumentos asociados para los cmdlets:
+
+El Centro de administración de Active Directory también permite encontrar el conjunto resultante de FGPP aplicadas para un usuario específico. Haga clic con el botón derecho en cualquier usuario y seleccione Ver la configuración de contraseña resultante para abrir la página Configuración de contraseña que se aplica a ese usuario a través de la asignación implícita o explícita:
+
+Al examinar las propiedades de cualquier usuario o grupo se muestra la configuración de contraseña asociada directamente, que son los FGPP asignados explícitamente:
+
+La asignación implícita de FGPP no se muestra aquí. Para ello, debe usar la opción Ver la configuración de contraseña resultante .
+
+## Usar el Visor del historial de Windows PowerShell del Centro de administración de Active Directory
+
+El futuro de la administración de Windows es Windows PowerShell. Las herramientas gráficas se distribuyen por capas en un entorno de automatización de tareas, lo que permite administrar los sistemas distribuidos más complejos de forma coherente y eficaz. Tienes que comprender cómo funciona Windows PowerShell para aprovechar todas sus posibilidades y maximizar la inversión en informática.
+
+Ahora, el Centro de administración de Active Directory ofrece un historial completo de todos los cmdlets de Windows PowerShell que ejecuta y sus argumentos y valores. Puedes copiar el historial de cmdlets en otro lugar para estudiarlo, o para modificarlo y reutilizarlo. Puede crear unas notas de tareas para ayudarle a aislar el resultado de Windows PowerShell para los comandos del Centro de administración de Active Directory. También puedes filtrar el historial para buscar puntos de interés.
+
+El objetivo del visor del historial de Windows PowerShell en el Centro de administración de Active Directory es que aprendas mediante experiencia práctica.
+
+Seleccione la flecha para mostrar el visor del historial de Windows PowerShell.
+
+Después, crea un usuario o modifica la pertenencia de un grupo. El visor del historial se actualiza continuamente con una vista contraída de cada cmdlet que el Centro de administración de Active Directory ejecutó con los argumentos especificados.
+
+Expande cualquier elemento de línea para ver todos los valores proporcionados a los argumentos del cmdlet:
+
+Seleccione Iniciar tarea para crear una notación manual antes de usar el Centro de administración de Active Directory para crear, modificar o eliminar un objeto. Escribe lo que estabas haciendo. Cuando haya terminado con el cambio, seleccione Finalizar tarea. La nota de tarea agrupa todas las acciones realizadas en una nota contraíble que puede usar para obtener más información.
+
+Por ejemplo, para ver los comandos de Windows PowerShell usados para cambiar la contraseña de un usuario y quitarlo de un grupo:
+
+Al seleccionar el cuadro Mostrar todo también se muestran los cmdlets de Windows PowerShell de verbo Get-* que solo recuperan datos.
+
+El visor de historial muestra los comandos literales ejecutados por el Centro de administración de Active Directory. Es posible que observe que algunos cmdlets parecen ejecutarse innecesariamente. Por ejemplo, puedes crear un nuevo usuario con:
+
+`New-ADUser
+`
+
+El diseño del Centro de administración de Active Directory requirió una modularidad y un uso de código mínimos. Por lo tanto, en lugar de un conjunto de funciones que crean nuevos usuarios y otras que modifican los usuarios existentes, realiza cada función mínimamente y, después, las encadena con los cmdlets. Ten esto en cuenta al aprender sobre Active Directory Windows PowerShell. También puedes usarlo como técnica de aprendizaje, para ver lo simple que resulta usar Windows PowerShell para completar una sola tarea.
+
+## Administración de diferentes dominios en el Centro de administración de Active Directory
+
+Cuando abre el Centro de administración de Active Directory, el dominio en el que ha iniciado sesión en este equipo (máquina local) aparece en el panel de navegación del centro (panel izquierdo). Según los derechos de su conjunto actual de credenciales de inicio de sesión, podrá ver o administrar los objetos de Active Directory de este dominio local.
+
+También puede usar las mismas credenciales de inicio de sesión y la misma instancia del Centro de administración de Active Directory para ver o administrar objetos de Active Directory de cualquier otro dominio del mismo bosque o de otro bosque que tenga establecida una relación de confianza con el dominio local. Se admiten tanto las confianzas unidireccionales como las bidireccionales. No se requiere una pertenencia a grupos mínima para llevar a cabo este procedimiento.
+
+Note
+
+Si hay una confianza unidireccional entre el dominio A y el dominio B que permite a los usuarios del dominio A obtener acceso a los recursos del dominio B pero los usuarios del dominio B no pueden obtener acceso a los recursos del dominio A, si ejecuta el Centro de administración de Active Directory en el equipo en el que el dominio A es el dominio local, podrá conectarse al dominio B con el conjunto actual de credenciales de inicio de sesión y en la misma instancia del Centro de administración de Active Directory.
+
+No obstante, si ejecuta el Centro de administración de Active Directory en el equipo en el que el dominio B es el dominio local, no podrá conectarse al dominio A con el mismo conjunto de credenciales de inicio de sesión en la misma instancia del Centro de administración de Active Directory.
+
+### Windows Server 2012: administrar un dominio externo en la instancia seleccionada del Centro de administración de Active Directory con las credenciales de inicio de sesión actuales
+
+- 
+Para abrir el Centro de administración de Active Directory, en administrador del servidor, seleccione Herramientas y, a continuación, seleccione Centro de administración de Active Directory.
+
+- 
+Para abrir Agregar nodos de navegación, seleccione Administrar y, a continuación, seleccione Agregar nodos de navegación.
+
+- 
+En Agregar nodos de navegación, seleccione Conectar a otros dominios.
+
+- 
+En Conectar a, escriba el nombre del dominio externo que desea administrar (por ejemplo, ) y, a continuación, `contoso.com`seleccione Aceptar.
+
+- 
+Cuando esté conectado correctamente al dominio externo, desplácese por las columnas de la ventana Agregar nodos de navegación, seleccione los contenedores que desee agregar al panel de navegación del Centro de administración de Active Directory y seleccione Aceptar.
+
+### Windows Server 2008 R2: administrar un dominio externo en la instancia seleccionada del Centro de administración de Active Directory con las credenciales de inicio de sesión actuales
+
+- 
+Para abrir el Centro de administración de Active Directory, seleccione Inicio, Herramientas administrativas y, después, Centro de administración de Active Directory.
+
+Tip
+
+Otra manera de abrir el Centro de administración de Active Directory es seleccionar Inicio, ejecutar y, a continuación, escribir dsac.exe.
+
+- 
+A continuación, abra Agregar nodos de navegación, cerca de la parte superior de la ventana del Centro de administración de Active Directory, y seleccione Agregar nodos de navegación.
+
+Tip
+
+Otra forma de abrir Agregar nodos de navegación es hacer clic con el botón derecho en cualquier lugar del panel de navegación del Centro de administración de Active Directory y elegir Agregar nodos de navegación.
+
+- 
+En Agregar nodos de navegación, seleccione Conectar a otros dominios.
+
+- 
+En Conectar a, escriba el nombre del dominio externo que desea administrar (por ejemplo, ) y, a continuación, `contoso.com`seleccione Aceptar.
+
+- 
+Cuando esté conectado correctamente al dominio externo, desplácese por las columnas de la ventana Agregar nodos de navegación, seleccione los contenedores que desee agregar al panel de navegación del Centro de administración de Active Directory y seleccione Aceptar.
+
+### Administrar un dominio con credenciales de inicio de sesión distintas del conjunto de credenciales de inicio de sesión actual
+
+Para abrir el Centro de administración de Active Directory en el símbolo del sistema, escriba el siguiente comando y seleccione Entrar:
+
+`runas /user:<domain\user> dsac
+`
+
+ `<domain\user>` es el conjunto de credenciales con el que desea abrir el Centro de administración de Active Directory y `dsac` es el nombre del archivo ejecutable del Centro de administración de Active Directory.
+
+Cuando el Centro de administración de Active Directory esté abierto, desplácese por el panel de navegación para ver o administrar el dominio de Active Directory.
+
+## Solucionar problemas de administración de AD DS
+
+### Opciones de solución de problemas
+
+#### Opciones de registro
+
+Ahora, el Centro de administración de Active Directory contiene un registro integrado como parte de un archivo de configuración de seguimiento. Crea o modifica el siguiente archivo en la misma carpeta que dsac.exe:
+
+ dsac.exe.config
+
+Crea el contenido siguiente:
+
+`<appSettings>
+ <add key="DsacLogLevel" value="Verbose" />
+</appSettings>
+<system.diagnostics>
+ <trace autoflush="false" indentsize="4">
+ <listeners>
+ <add name="myListener"
+ type="System.Diagnostics.TextWriterTraceListener"
+ initializeData="dsac.trace.log" />
+ <remove name="Default" />
+ </listeners>
+ </trace>
+</system.diagnostics>
+`
+
+Los niveles de detalle de DsacLogLevel son None, Error, Warning, Info y Verbose. El nombre del archivo de salida se puede configurar y se escribe en la misma carpeta que dsac.exe. El archivo de salida proporciona más información sobre cómo funciona el Centro de administración de Active Directory, con qué controladores de dominio se puso en contacto, qué comandos de Windows PowerShell se ejecutaron, cuáles fueron las respuestas y más información.
+
+Por ejemplo, cuando se usa el nivel de información , que devuelve todos los resultados excepto los detalles de nivel de seguimiento:
+
+- 
+DSAC.exe se inicia.
+
+- 
+Se inicia el registro.
+
+- 
+El controlador de dominio solicitó devolver la información inicial del dominio.
+
+`[12:42:49][TID 3][Info] Command Id, Action, Command, Time, Elapsed Time ms (output), Number objects (output)
+[12:42:49][TID 3][Info] 1, Invoke, Get-ADDomainController, 2012-04-16T12:42:49
+[12:42:49][TID 3][Info] Get-ADDomainController-Discover:$null-DomainName:"CORP"-ForceDiscover:$null-Service:ADWS-Writable:$null
+`
+
+- 
+El controlador de dominio DC1 volvió del dominio Corp.
+
+- 
+PS Unidad virtual de Active Directory cargada.
+
+`[12:42:49][TID 3][Info] 1, Output, Get-ADDomainController, 2012-04-16T12:42:49, 1
+[12:42:49][TID 3][Info] Found the domain controller 'DC1' in the domain 'CORP'.
+[12:42:49][TID 3][Info] 2, Invoke, New-PSDrive, 2012-04-16T12:42:49
+[12:42:49][TID 3][Info] New-PSDrive-Name:"ADDrive0"-PSProvider:"ActiveDirectory"-Root:""-Server:"dc1.corp.contoso.com"
+[12:42:49][TID 3][Info] 2, Output, New-PSDrive, 2012-04-16T12:42:49, 1
+[12:42:49][TID 3][Info] 3, Invoke, Get-ADRootDSE, 2012-04-16T12:42:49
+`
+
+- 
+Se obtiene la información Root DSE del dominio.
+
+`[12:42:49][TID 3][Info] Get-ADRootDSE -Server:"dc1.corp.contoso.com"
+[12:42:49][TID 3][Info] 3, Output, Get-ADRootDSE, 2012-04-16T12:42:49, 1
+[12:42:49][TID 3][Info] 4, Invoke, Get-ADOptionalFeature, 2012-04-16T12:42:49
+`
+
+- 
+Obtener información de la papelera de reciclaje de Active Directory del dominio.
+
+`[12:42:49][TID 3][Info] Get-ADOptionalFeature -LDAPFilter:"(msDS-OptionalFeatureFlags=1)" -Server:"dc1.corp.contoso.com"
+[12:42:49][TID 3][Info] 4, Output, Get-ADOptionalFeature, 2012-04-16T12:42:49, 1
+[12:42:49][TID 3][Info] 5, Invoke, Get-ADRootDSE, 2012-04-16T12:42:49
+[12:42:49][TID 3][Info] Get-ADRootDSE -Server:"dc1.corp.contoso.com"
+[12:42:49][TID 3][Info] 5, Output, Get-ADRootDSE, 2012-04-16T12:42:49, 1
+[12:42:49][TID 3][Info] 6, Invoke, Get-ADRootDSE, 2012-04-16T12:42:49
+[12:42:49][TID 3][Info] Get-ADRootDSE -Server:"dc1.corp.contoso.com"
+[12:42:49][TID 3][Info] 6, Output, Get-ADRootDSE, 2012-04-16T12:42:49, 1
+[12:42:49][TID 3][Info] 7, Invoke, Get-ADOptionalFeature, 2012-04-16T12:42:49
+[12:42:49][TID 3][Info] Get-ADOptionalFeature -LDAPFilter:"(msDS-OptionalFeatureFlags=1)" -Server:"dc1.corp.contoso.com"
+[12:42:50][TID 3][Info] 7, Output, Get-ADOptionalFeature, 2012-04-16T12:42:50, 1
+[12:42:50][TID 3][Info] 8, Invoke, Get-ADForest, 2012-04-16T12:42:50
+`
+
+- 
+Obtener bosque de Active Directory.
+
+`[12:42:50][TID 3][Info] Get-ADForest -Identity:"corp.contoso.com" -Server:"dc1.corp.contoso.com"
+[12:42:50][TID 3][Info] 8, Output, Get-ADForest, 2012-04-16T12:42:50, 1
+[12:42:50][TID 3][Info] 9, Invoke, Get-ADObject, 2012-04-16T12:42:50
+`
+
+- 
+Se obtiene la información del esquema para los tipos de cifrado admitidos, FGPP, determinada información del usuario.
+
+`[12:42:50][TID 3][Info] Get-ADObject
+-LDAPFilter:"(|(ldapdisplayname=msDS-PhoneticDisplayName)(ldapdisplayname=msDS-PhoneticCompanyName)(ldapdisplayname=msDS-PhoneticDepartment)(ldapdisplayname=msDS-PhoneticFirstName)(ldapdisplayname=msDS-PhoneticLastName)(ldapdisplayname=msDS-SupportedEncryptionTypes)(ldapdisplayname=msDS-PasswordSettingsPrecedence))"
+-Properties:lDAPDisplayName
+-ResultPageSize:"100"
+-ResultSetSize:$null
+-SearchBase:"CN=Schema,CN=Configuration,DC=corp,DC=contoso,DC=com"
+-SearchScope:"OneLevel"
+-Server:"dc1.corp.contoso.com"
+[12:42:50][TID 3][Info] 9, Output, Get-ADObject, 2012-04-16T12:42:50, 7
+[12:42:50][TID 3][Info] 10, Invoke, Get-ADObject, 2012-04-16T12:42:50
+`
+
+- 
+Se obtiene toda la información acerca del objeto de dominio para mostrarla al administrador que hizo clic en el encabezado del dominio.
+
+`[12:42:50][TID 3][Info] Get-ADObject
+-IncludeDeletedObjects:$false
+-LDAPFilter:"(objectClass=*)"
+-Properties:allowedChildClassesEffective,allowedChildClasses,lastKnownParent,sAMAccountType,systemFlags,userAccountControl,displayName,description,whenChanged,location,managedBy,memberOf,primaryGroupID,objectSid,msDS-User-Account-Control-Computed,sAMAccountName,lastLogonTimestamp,lastLogoff,mail,accountExpires,msDS-PhoneticCompanyName,msDS-PhoneticDepartment,msDS-PhoneticDisplayName,msDS-PhoneticFirstName,msDS-PhoneticLastName,pwdLastSet,operatingSystem,operatingSystemServicePack,operatingSystemVersion,telephoneNumber,physicalDeliveryOfficeName,department,company,manager,dNSHostName,groupType,c,l,employeeID,givenName,sn,title,st,postalCode,managedBy,userPrincipalName,isDeleted,msDS-PasswordSettingsPrecedence
+-ResultPageSize:"100"
+-ResultSetSize:"20201"
+-SearchBase:"DC=corp,DC=contoso,DC=com"
+-SearchScope:"Base"
+-Server:"dc1.corp.contoso.com"
+`
+
+Al establecer el nivel detallado también se muestran las pilas de .NET para cada función, pero no incluyen suficientes datos para ser útiles, excepto cuando se soluciona la solución de problemas después de que el dsac.exe sufre una infracción de acceso o un bloqueo. Las dos causas probables de este problema son:
+
+- Los servicios web de Active Directory no se ejecutan en ningún controlador de dominio accesible.
+
+- Las comunicaciones de red se bloquean en los servicios web de Active Directory desde el equipo que ejecuta el Centro de administración de Active Directory.
+
+Important
+
+También hay una versión fuera de banda del servicio que se llama Servicio de administración de la puerta de enlace de Active Directory, que se ejecuta en Windows Server 2008 SP2 y Windows Server 2003 SP2.
+
+Los errores que se muestran cuando no hay disponibles instancias de Servicios web de Active Directory son:
+
+ | Error
+
+ | Operation
+
+ | "No se pudo conectar a ningún dominio. Actualice o vuelva a intentarlo cuando la conexión esté disponible"
+
+ | Se muestra al iniciar la aplicación Centro de administración de Active Directory.
+
+ | "No se puede encontrar un servidor disponible en el dominio <nombre de dominio NetBIOS> que ejecute Servicio web de Active Directory (ADWS)."
+
+ | Se muestra al intentar seleccionar un nodo del dominio en la aplicación Centro de administración de Active Directory.
+
+Para solucionar este problema, sigue estos pasos:
+
+- 
+Compruebe que Active Directory Web Services se ha iniciado en al menos un controlador de dominio del dominio (y preferiblemente en todos los controladores de dominio del bosque). Asegúrate de que está establecido para iniciarse automáticamente también en todos los controladores de dominio.
+
+- 
+En el equipo donde se ejecuta el Centro de administración de Active Directory, comprueba que puedes encontrar un servidor que ejecuta Servicios web de Active Directory ejecutando estos comandos de NLTest.exe:
+
+`nltest /dsgetdc:<domain NetBIOS name> /ws /force
+nltest /dsgetdc:<domain fully qualified DNS name> /ws /force
+`
+
+Si se produce un error en esas pruebas aunque se ejecuten servicios web de Active Directory, el problema es con la resolución de nombres o LDAP y no los servicios web de Active Directory o el Centro de administración de Active Directory. Esta prueba produce un error "1355 0x54B ERROR_NO_SUCH_DOMAIN" si los servicios web de Active Directory no se ejecutan en ningún controlador de dominio, por lo que debe comprobarlo antes de llegar a conclusiones.
+
+- 
+En el controlador de dominio devuelto por Nltest, vuelque la lista de puertos de escucha con este comando:
+
+`Netstat -anob > ports.txt
+`
+
+Examine el archivo ports.txt y compruebe que el servicio servicios web de Active Directory está escuchando en el puerto 9389. Por ejemplo:
+
+`TCP 0.0.0.0:9389 0.0.0.0:0 LISTENING 1828
+[Microsoft.ActiveDirectory.WebServices.exe]
+
+TCP [::]:9389 [::]:0 LISTENING 1828
+[Microsoft.ActiveDirectory.WebServices.exe]
+`
+
+Si el servicio está escuchando, comprueba las reglas de Firewall de Windows y asegúrate de que permiten el tráfico de entrada en el puerto TCP 9389. De forma predeterminada, los controladores de dominio habilitan la regla de firewall "Servicios web de Active Directory (TCP-in)." Si el servicio no está escuchando, vuelva a validar que se está ejecutando en este servidor y reinícielo. Comprueba que no haya otros procesos escuchando en el puerto 9389.
+
+- 
+Instala NetMon u otra utilidad de captura de red en el equipo donde se ejecuta el Centro de administración de Active Directory y en el controlador de dominio que Nltest devuelve. Recopila capturas de red simultáneas en ambos equipos mientras inicias el Centro de administración de Active Directory y mira el error antes de detener las capturas. Comprueba si el cliente puede enviar y recibir desde el controlador de dominio en el puerto TCP 9389. Si los paquetes se envían pero no llegan, o llegan y el controlador de dominio responde pero no llegan nunca al cliente, es problema que haya un firewall entre los equipos en la red que pierda los paquetes de ese puerto. Este firewall puede ser software o hardware y puede formar parte del software que no es de Microsoft Endpoint Protection (antivirus).
+
+## Contenido relacionado
+
+- 
+ Cubeta de reciclaje de Active Directory, directiva de contraseñas detallada y visor de historial de PowerShell
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

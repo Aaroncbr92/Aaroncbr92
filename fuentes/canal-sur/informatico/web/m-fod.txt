@@ -1,0 +1,74 @@
+URL: https://learn.microsoft.com/es-es/sharepoint/files-on-demand-windows
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Consulta y establecimiento de estados de archivos a petición en Windows
+
+## 
+
+Con los archivos a petición de OneDrive, los archivos pueden estar en uno de los tres estados. Cada uno de estos estados corresponde a un estado de atributo de archivo. Para consultar el estado actual de un archivo o carpeta, use el siguiente comando:
+
+- attrib <Ruta de acceso al archivo o carpeta>
+
+## Comandos con scripts
+
+Use los siguientes comandos para establecer los estados de archivo y carpeta.
+
+ | 
+ Estado de archivos a petición
+
+ | 
+ Estado del atributo de archivo
+
+ | 
+ Command
+
+ | Siempre disponible
+
+ | Fijado
+
+ | attrib +p <path>
+
+ | Disponible localmente
+
+ | Clearpin
+
+ | attrib -p <path> 
+
+ | Solo en línea
+
+ | Sin anclar
+
+ | attrib +u <path>
+
+Nota:
+
+Al anclar un archivo solo en línea, la aplicación de sincronización descarga el contenido del archivo y el desanclado de un archivo descargado libera espacio en el dispositivo al no almacenar el contenido del archivo localmente.
+
+Para establecer un archivo o carpeta solo en línea en "localmente disponible", primero debe establecerlo en "siempre disponible".
+Si cumples los requisitos de la aplicación de sincronización y sigues sin poder ver la opción Archivos a petición en "Configuración", asegúrate de que el tipo de inicio del servicio "Controlador de filtro de archivos en la nube de Windows" esté establecido en 2 (AUTO_START). Si habilita esta característica, el valor de la siguiente clave de registro se establece en 2.`[HKLM\SYSTEM\CurrentControlSet\Services\CldFlt]"Start"="dword:00000002"`
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2024-09-01

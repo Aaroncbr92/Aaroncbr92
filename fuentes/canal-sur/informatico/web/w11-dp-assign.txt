@@ -1,0 +1,82 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/assign
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# assign
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Asigna una letra de unidad o un punto de montaje al volumen que tiene el foco. Este comando también se puede utilizar para cambiar la letra de unidad asociada a una unidad extraíble. Si no se especifican una letra de unidad o un punto de montaje, se asigna la siguiente letra de unidad disponible. Si la letra de unidad o el punto de montaje ya están en uso, se genera un error.
+
+Se debe seleccionar un volumen para que esta operación se realice correctamente. Utilice el comando select volume para seleccionar un volumen y cambiar el foco a él.
+
+Important
+
+No assign puede dirigir letras a volúmenes del sistema, volúmenes de arranque o volúmenes que contengan el archivo de paginación. Además, no puede assign tener una letra de unidad a una partición fabricante de equipos originales (OEM) ni a ninguna partición de tabla de particiones GUID (gpt) distinta de una partición de datos básica.
+
+## Syntax
+
+`assign [{letter=<d> | mount=<path>}] [noerr]
+`
+
+### Parameters
+
+ | Parameter
+
+ | Description
+
+ | `letter=<d>`
+
+ | Letra de unidad que desea para assign el volumen.
+
+ | `mount=<path>`
+
+ | Ruta de acceso del punto de montaje que desea para assign el volumen. Para obtener instrucciones sobre cómo usar este comando, consulte el artículo Montaje de una unidad en una carpeta.
+
+ | noerr
+
+ | Sólo para scripting. Cuando se detecta un error, DiskPart sigue procesando los comandos como si no hubiera ningún error. Sin este parámetro, un error hace que DiskPart salga con un código de error.
+
+## Examples
+
+En assign la letra E del volumen en el foco, escriba:
+
+`assign letter=e
+`
+
+## Related links
+
+- 
+
+ Clave de sintaxis de línea de comandos
+
+- 
+
+ Comando select volume
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

@@ -1,0 +1,383 @@
+URL: https://learn.microsoft.com/en-us/windows-hardware/drivers/install/device-manager-error-messages
+Leído: 2026-10-05
+
+ 
+
+ Device Manager Error Messages - Windows drivers | Microsoft Learn
+
+ Skip to main content
+
+ Skip to Ask Learn chat experience
+
+This browser is no longer supported.
+
+ Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+
+ Download Microsoft Edge
+
+ More info about Internet Explorer and Microsoft Edge
+
+ Table of contents 
+
+ Exit editor mode
+
+ Ask Learn
+
+ Ask Learn
+
+ Reading mode
+
+ Table of contents
+
+ Read in English
+
+ Add
+
+ Add to Plans
+
+ Edit
+
+ Copy Markdown
+
+ Print
+
+ Note
+
+ Access to this page requires authorization. You can try signing in or changing directories.
+
+ Access to this page requires authorization. You can try changing directories.
+
+Device Manager Error Messages
+
+ Feedback
+
+ Summarize this article for me
+
+ In this article
+
+When Device Manager marks a device with a yellow exclamation point, it also provides an error message.
+
+The following table lists the errors reported by Device Manager. These error codes are defined in Cfg.h.
+
+For related info, see Retrieving the Status and Problem Code for a Device Instance.
+
+ | Error code
+
+ | Problem name
+
+ | 
+Code 1
+
+ | 
+CM_PROB_NOT_CONFIGURED
+
+ | 
+Code 3
+
+ | 
+CM_PROB_OUT_OF_MEMORY
+
+ | 
+Code 9
+
+ | 
+CM_PROB_INVALID_DATA
+
+ | 
+Code 10
+
+ | 
+CM_PROB_FAILED_START
+
+ | 
+Code 12
+
+ | 
+CM_PROB_NORMAL_CONFLICT
+
+ | 
+Code 14
+
+ | 
+CM_PROB_NEED_RESTART
+
+ | 
+Code 16
+
+ | 
+CM_PROB_PARTIAL_LOG_CONF
+
+ | 
+Code 18
+
+ | 
+CM_PROB_REINSTALL
+
+ | 
+Code 19
+
+ | 
+CM_PROB_REGISTRY
+
+ | 
+Code 21
+
+ | 
+CM_PROB_WILL_BE_REMOVED
+
+ | 
+Code 22
+
+ | 
+CM_PROB_DISABLED
+
+ | 
+Code 24
+
+ | 
+CM_PROB_DEVICE_NOT_THERE
+
+ | 
+Code 28
+
+ | 
+CM_PROB_FAILED_INSTALL
+
+ | 
+Code 29
+
+ | 
+CM_PROB_HARDWARE_DISABLED
+
+ | 
+Code 31
+
+ | 
+CM_PROB_FAILED_ADD
+
+ | 
+Code 32
+
+ | 
+CM_PROB_DISABLED_SERVICE
+
+ | 
+Code 33
+
+ | 
+CM_PROB_TRANSLATION_FAILED
+
+ | 
+Code 34
+
+ | 
+CM_PROB_NO_SOFTCONFIG
+
+ | 
+Code 35
+
+ | 
+CM_PROB_BIOS_TABLE
+
+ | 
+Code 36
+
+ | 
+CM_PROB_IRQ_TRANSLATION_FAILED
+
+ | 
+Code 37
+
+ | 
+CM_PROB_FAILED_DRIVER_ENTRY
+
+ | 
+Code 38
+
+ | 
+CM_PROB_DRIVER_FAILED_PRIOR_UNLOAD
+
+ | 
+Code 39
+
+ | 
+CM_PROB_DRIVER_FAILED_LOAD
+
+ | 
+Code 40
+
+ | 
+CM_PROB_DRIVER_SERVICE_KEY_INVALID
+
+ | 
+Code 41
+
+ | 
+CM_PROB_LEGACY_SERVICE_NO_DEVICES
+
+ | 
+Code 42
+
+ | 
+CM_PROB_DUPLICATE_DEVICE
+
+ | 
+Code 43
+
+ | 
+CM_PROB_FAILED_POST_START
+
+ | 
+Code 44
+
+ | 
+CM_PROB_HALTED
+
+ | 
+Code 45
+
+ | 
+CM_PROB_PHANTOM
+
+ | 
+Code 46
+
+ | 
+CM_PROB_SYSTEM_SHUTDOWN
+
+ | 
+Code 47
+
+ | 
+CM_PROB_HELD_FOR_EJECT
+
+ | 
+Code 48
+
+ | 
+CM_PROB_DRIVER_BLOCKED
+
+ | 
+Code 49
+
+ | 
+CM_PROB_REGISTRY_TOO_LARGE
+
+ | 
+Code 50
+
+ | 
+CM_PROB_SETPROPERTIES_FAILED
+
+ | 
+Code 51
+
+ | 
+CM_PROB_WAITING_ON_DEPENDENCY
+
+ | 
+Code 52
+
+ | 
+CM_PROB_UNSIGNED_DRIVER
+
+ | 
+Code 53
+
+ | 
+CM_PROB_USED_BY_DEBUGGER
+
+ | 
+Code 54
+
+ | 
+CM_PROB_DEVICE_RESET
+
+ | 
+Code 55
+
+ | 
+CM_PROB_CONSOLE_LOCKED
+
+ | 
+Code 56
+
+ | 
+CM_PROB_NEED_CLASS_CONFIG
+
+ | 
+Code 57
+
+ | 
+CM_PROB_GUEST_ASSIGNMENT_FAILED
+
+Feedback
+
+ Was this page helpful?
+
+ Yes
+
+ No
+
+ No
+
+ Need help with this topic?
+
+ Want to try using Ask Learn to clarify or guide you through this topic?
+
+ Ask Learn
+
+ Ask Learn
+
+ Suggest a fix? 
+
+ Additional resources
+
+ Last updated on 
+ 2021-12-15
+
+In this article
+
+ Was this page helpful?
+
+ Need help with this topic?
+
+ Want to try using Ask Learn to clarify or guide you through this topic?
+
+ Ask Learn
+
+ Ask Learn
+
+ Suggest a fix? 
+
+ en-us
+
+ Your Privacy Choices
+
+ Theme
+
+ Light 
+
+ Dark 
+
+ High contrast 
+
+ AI Disclaimer
+
+ Previous Versions
+
+ Blog
+
+ Contribute
+
+ Privacy
+
+ Consumer Health Privacy
+
+ Terms of Use
+
+ Trademarks
+
+© Microsoft 2026
+
+ 

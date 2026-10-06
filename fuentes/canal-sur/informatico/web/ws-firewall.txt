@@ -1,0 +1,280 @@
+URL: https://learn.microsoft.com/es-es/troubleshoot/windows-server/active-directory/config-firewall-for-ad-domains-and-trusts
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Cómo configurar un firewall para dominios y confianzas de Active Directory
+
+- Se aplica a: Supported versions of Windows Server
+
+## 
+
+En este artículo se describe cómo configurar un firewall para dominios y confianzas de Active Directory.
+
+ Número de KB original: 179442
+
+Nota:
+
+No todos los puertos que aparecen en estas tablas son necesarios en todos los escenarios. Por ejemplo, si el firewall separa miembros y controladores de dominio, no es necesario abrir los puertos FRS o DFSR. Además, si sabe que ningún cliente usa LDAP con SSL/TLS, no tiene que abrir los puertos 636 y 3269.
+
+## Más información
+
+Nota:
+
+Los dos controladores de dominio están en el mismo bosque o los dos controladores de dominio están en un bosque independiente. Además, las confianzas en el bosque son confianzas de Windows Server 2003 o confianzas de versiones posteriores.
+
+ | Puertos de cliente
+
+ | Puerto de servidor
+
+ | Service
+
+ | 1024-65535/TCP
+
+ | 135/TCP
+
+ | Asignador de extremos de RPC
+
+ | 1024-65535/TCP
+
+ | 1024-65535/TCP
+
+ | RPC para LSA, SAM, NetLogon (*)
+
+ | 1024-65535/TCP/UDP
+
+ | 389/TCP/UDP
+
+ | LDAP
+
+ | 1024-65535/TCP
+
+ | 636/TCP
+
+ | SSL de LDAP
+
+ | 1024-65535/TCP
+
+ | 3268/TCP
+
+ | GC DE LDAP
+
+ | 1024-65535/TCP
+
+ | 3269/TCP
+
+ | SSL de GC de LDAP
+
+ | 53.1024-65535/TCP/UDP
+
+ | 53/TCP/UDP
+
+ | DNS
+
+ | 1024-65535/TCP/UDP
+
+ | 88/TCP/UDP
+
+ | Kerberos
+
+ | 1024-65535/TCP
+
+ | 445/TCP
+
+ | SMB
+
+ | 1024-65535/TCP
+
+ | 1024-65535/TCP
+
+ | FRS RPC (*)
+
+Los puertos NetBIOS que se enumeran para Windows NT también son necesarios para Windows 2000 y Windows Server 2003 cuando se configuran confianzas en dominios que solo admiten la comunicación basada en NetBIOS. Algunos ejemplos son sistemas operativos basados en Windows NT o controladores de dominio de terceros basados en Samba.
+
+Para obtener más información sobre cómo definir puertos de servidor RPC que usan los servicios RPC de LSA, consulte:
+
+- 
+ Restricción del tráfico RPC de Active Directory a un puerto específico.
+
+- La sección Controladores de dominio y Active Directory de Información general del servicio y Requisitos de puerto de red para Windows.
+
+### Windows Server 2008 y versiones posteriores
+
+Windows Server 2008 y las versiones más recientes de Windows Server han aumentado el intervalo de puertos de cliente dinámico para las conexiones salientes. El nuevo puerto de inicio predeterminado es 49152 y el puerto final predeterminado es 65535. Por lo tanto, debe aumentar el intervalo de puertos RPC en los firewalls. Este cambio se efectuó para cumplir con las recomendaciones de la Internet Assigned Numbers Authority (IANA). Esto difiere de un dominio de modo mixto que consta de controladores de dominio de Windows Server 2003, controladores de dominio basados en servidor Windows 2000 o clientes heredados, donde el intervalo de puertos dinámico predeterminado es de 1025 a 5000.
+
+Para obtener más información sobre el cambio de intervalo de puertos dinámicos en Windows Server 2012 y Windows Server 2012 R2, consulte lo siguiente:
+
+- 
+ El intervalo de puertos dinámicos predeterminado para TCP/IP ha cambiado.
+
+- 
+ Puertos dinámicos en Windows Server.
+
+ | Puertos de cliente
+
+ | Puerto de servidor
+
+ | Service
+
+ | 49152-65535/UDP
+
+ | 123/UDP
+
+ | W32Time
+
+ | 49152-65535/TCP
+
+ | 135/TCP
+
+ | Asignador de extremos de RPC
+
+ | 49152-65535/TCP
+
+ | 464/TCP/UDP
+
+ | Cambio de contraseña de Kerberos
+
+ | 49152-65535/TCP
+
+ | 49152-65535/TCP
+
+ | RPC para LSA, SAM, NetLogon (*)
+
+ | 49152-65535/TCP/UDP
+
+ | 389/TCP/UDP
+
+ | LDAP
+
+ | 49152-65535/TCP
+
+ | 636/TCP
+
+ | SSL de LDAP
+
+ | 49152-65535/TCP
+
+ | 3268/TCP
+
+ | GC DE LDAP
+
+ | 49152-65535/TCP
+
+ | 3269/TCP
+
+ | SSL de GC de LDAP
+
+ | 53, 49152-65535/TCP/UDP
+
+ | 53/TCP/UDP
+
+ | DNS
+
+ | 49152-65535/TCP
+
+ | 49152-65535/TCP
+
+ | FRS RPC (*)
+
+ | 49152-65535/TCP/UDP
+
+ | 88/TCP/UDP
+
+ | Kerberos
+
+ | 49152-65535/TCP/UDP
+
+ | 445/TCP
+
+ | SMB (**)
+
+ | 49152-65535/TCP
+
+ | 49152-65535/TCP
+
+ | DFSR RPC (*)
+
+ | 49152-65535/TCP
+
+ | 9389/TCP
+
+ | Servicios web de Active Directory (ADWS)
+
+Los puertos NetBIOS que se enumeran para Windows NT también son necesarios para Windows 2000 y Server 2003 cuando se configuran confianzas en dominios que solo admiten la comunicación basada en NetBIOS. Algunos ejemplos son sistemas operativos basados en Windows NT o controladores de dominio de terceros basados en Samba.
+
+(*) Para obtener información sobre cómo definir puertos de servidor RPC que usan los servicios RPC de LSA, consulte lo siguiente:
+
+- 
+ Restricción del tráfico RPC de Active Directory a un puerto específico.
+
+- La sección Controladores de dominio y Active Directory de Información general del servicio y Requisitos de puerto de red para Windows.
+
+(**) Para el funcionamiento de la confianza este puerto no es necesario, se usa solo para la creación de confianza.
+
+Nota:
+
+La confianza externa 123/UDP solo es necesaria si ha configurado manualmente el Servicio de hora de Windows para sincronizarlo con un servidor a través de la confianza externa.
+
+### Active Directory
+
+El cliente LDAP de Microsoft usa ping ICMP cuando una solicitud LDAP está pendiente durante mucho tiempo y espera una respuesta. Envía solicitudes de ping para comprobar que el servidor sigue en la red. Si no recibe respuestas de ping, la solicitud LDAP falla con el error LDAP_TIMEOUT.
+
+El Windows Redirector también usa mensajes ping ICMP para comprobar que el servicio DNS resuelve una dirección IP del servidor antes de realizar una conexión y cuando se encuentra un servidor mediante DFS. Si desea minimizar el tráfico ICMP, puede usar la siguiente regla de firewall de ejemplo:
+
+ <any> ICMP-> DC IP addr = allow
+
+A diferencia de la capa de protocolo TCP y la capa de protocolo UDP, ICMP no tiene un número de puerto. Esto se debe a que ICMP está hospedado directamente por la capa IP.
+
+De forma predeterminada, los servidores DNS de Windows Server 2003 y Windows 2000 Server usan puertos de cliente efímeros cuando consultan otros servidores DNS. Sin embargo, este comportamiento puede cambiarse mediante una configuración específica del Registro. O bien, puede establecer una confianza a través del túnel obligatorio del Protocolo de tunelización punto a punto (PPTP). Esto limita el número de puertos que tiene que abrir el firewall. Para PPTP, se deben habilitar los siguientes puertos.
+
+ | Puertos de cliente
+
+ | Puerto de servidor
+
+ | Protocolo
+
+ | 1024-65535/TCP
+
+ | 1723/TCP
+
+ | PPTP
+
+Además, tendría que habilitar IP PROTOCOL 47 (GRE).
+
+Nota:
+
+Al añadir permisos a un recurso en un dominio de confianza para los usuarios de un dominio de confianza, hay algunas diferencias entre el comportamiento de Windows 2000 y Windows NT 4.0. Si el equipo no puede mostrar una lista de los usuarios del dominio remoto, tenga en cuenta el comportamiento siguiente:
+
+- Windows NT 4.0 intenta resolver los nombres escritos manualmente poniéndose en contacto con el PDC para el dominio del usuario remoto (UDP 138). Si se produce un error en esa comunicación, un equipo basado en Windows NT 4.0 se pone en contacto con su propio PDC y, a continuación, solicita la resolución del nombre.
+
+- Windows 2000 y Windows Server 2003 también intentan ponerse en contacto con el PDC del usuario remoto para la resolución a través de UDP 138. Sin embargo, no se basan en el uso de su propio PDC. Compruebe que todos los servidores miembros basados en Windows 2000 y Windows Server 2003 que concederán acceso a los recursos tengan conectividad UDP 138 con el PDC remoto.
+
+## Referencia
+
+ La Información general y los requisitos de puerto de red para Windows es un recurso valioso que indica los puertos, protocolos y servicios de red necesarios que utilizan los sistemas operativos cliente y servidor de Microsoft, los programas basados en servidor y sus subcomponentes en el sistema de Microsoft Windows Server. Los administradores y profesionales de soporte técnico pueden utilizar este artículo como guía básica para determinar qué puertos y protocolos requieren los programas y sistemas operativos de Microsoft para la conectividad de red en una red segmentada.
+
+No debe usar la información de puerto en Información general del servicio y Requisitos de puerto de red para Windows para configurar Windows Firewall. Para obtener información sobre cómo configurar el Firewall de Windows, consulte Firewall de Windows con seguridad avanzada.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-02-12

@@ -1,0 +1,32 @@
+URL: https://csrc.nist.gov/glossary/term/worm
+Leído: 2026-10-05
+
+Definitions:
+Self-contained program that can propagate itself through data processing systems or computer networks. Note: Worms are often designed to use up available resources such as storage space or processing time.
+Sources:
+CNSSI 4009-2022
+from
+ISO/IEC 2382:2015
+NIST SP 800-12 Rev. 1
+under Worm
+from
+CNSSI 4009
+A self-replicating program that propagates itself through a network onto other computer systems without requiring a host program or any user intervention to replicate.
+Sources:
+NIST SP 800-28 Version 2
+under Worm
+A computer program that can run independently, can propagate a complete working version of itself onto other hosts on a network, and may consume computer resources destructively.
+Sources:
+NIST SP 800-82r3
+from
+RFC 4949
+- adapted
+About
+See the identified Source document to understand each term-definition pair in its proper context.
+Send inquiries about terminology to the Source's authors; NIST publications will usually include a contact email for that Source.
+For other inquiries, such as comments about the Glossary's presentation and functionality, use
+this link
+.
+See the
+Glossary homepage
+for more guidance.

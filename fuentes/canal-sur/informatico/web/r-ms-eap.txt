@@ -1,0 +1,1210 @@
+URL: https://learn.microsoft.com/es-es/windows-server/networking/technologies/extensible-authentication-protocol/network-access
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Protocolo de autenticación extensible (EAP) para acceso a redes
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10
+
+## 
+
+El protocolo de autenticación extensible (EAP) es un marco de autenticación que permite el uso de diferentes métodos de autenticación para tecnologías de acceso a redes seguras. Algunos ejemplos de estas tecnologías son el acceso inalámbrico mediante IEEE 802.1X, el acceso por cable mediante IEEE 802.1X y las conexiones de protocolo de punto a punto (PPP), como redes privadas virtuales (VPN). EAP no es un método de autenticación específico, como MS-CHAP v2, sino un marco que permite a los proveedores de redes desarrollar e instalar nuevos métodos de autenticación, conocidos como métodos EAP, en el cliente de acceso y el servidor de autenticación. El marco EAP se define originalmente mediante RFC 3748 y se extiende por varios otros RFC y estándares.
+
+## Métodos de autenticación
+
+Los métodos de autenticación de EAP que se usan en los métodos de EAP tunelizado se conocen normalmente como métodos internos o tipos EAP. Los métodos que se configuran como métodos internos tienen las mismas opciones de configuración que cuando se usan como método externo. Este artículo contiene información de configuración específica sobre los siguientes métodos de autenticación en EAP.
+
+ Seguridad de la capa de transporte de EAP (EAP-TLS): método EAP basado en estándares que usa TLS con certificados para la autenticación mutua. Aparece como tarjeta inteligente u otro certificado (EAP-TLS) en Windows. EAP-TLS se puede implementar como un método interno para otro método EAP o como un método EAP independiente.
+
+Tip
+
+Los métodos EAP que usan EAP-TLS, al basarse en certificados, suelen ofrecer el nivel más alto de seguridad. Por ejemplo, EAP-TLS es el único método EAP permitido para el modo WPA3-Enterprise de 192 bits.
+
+ Protocolo de autenticación por desafío mutuo de EAP-Microsoft versión 2 (EAP-MSCHAP v2): método EAP definido por Microsoft que encapsula el protocolo de autenticación MSCHAP v2 (que usa nombre del usuario y contraseña) para la autenticación. Aparece como Contraseña segura (EAP-MSCHAP v2) en Windows. EAP-MSCHAPv2 se puede usar como método independiente para VPN, pero solo como método interno para conexiones cableadas o inalámbricas.
+
+Warning
+
+Las conexiones basadas en MSCHAPv2 están sujetas a ataques similares a los de NTLMv1. Windows 11 Empresas, versión 22H2 (compilación 22621) habilita Windows Defender Credential Guard, lo que puede causar problemas con conexiones basadas en MSCHAPv2.
+
+ EAP protegido (PEAP): método EAP definido por Microsoft que encapsula EAP dentro de un túnel TLS. El túnel TLS protege al método EAP interno, que podría estar desprotegido de otro modo. Windows admite EAP-TLS y EAP-MSCHAP v2 como métodos internos.
+
+ EAP-Seguridad de la capa de transporte en túnel (EAP-TTLS): esto se describe mediante RFC 5281, encapsula una sesión TLS que realiza la autenticación mutua mediante otro mecanismo de autenticación interna. Este método interno puede ser un protocolo EAP, como EAP-MSCHAP v2 o un protocolo que no sea EAP, como el Protocolo de autenticación de contraseñas(PAP). En Windows Server 2012, la inclusión de EAP-TTLS solo proporciona compatibilidad en el lado cliente (en Windows 8). NPS no admite EAP-TTLS en este momento. La compatibilidad con clientes habilita la interoperación con servidores RADIUS implementados habitualmente que admiten EAP-TTLS.
+
+ EAP-Módulo de identidad del suscriptor (EAP-SIM), EAP-Autenticación y contrato de claves (EAP-AKA) y EAP-AKA Prime (EAP-AKA"): esto se describe mediante varias RFC, habilita la autenticación mediante tarjetas SIM y se implementa cuando un cliente compra un plan de servicio de banda ancha inalámbrica de un operador de red móvil. Como parte del plan, el cliente normalmente recibe un perfil para red inalámbrica preconfigurado para la autenticación de SIM.
+
+ Tunnel EAP (TEAP):esto se describe mediante el método RFC 7170, tunelizado EAP que establece un túnel TLS seguro y ejecuta otros métodos EAP dentro de ese túnel. Admite el encadenamiento de EAP, lo que permite autenticar el equipo y el usuario en una sesión de autenticación. En Windows Server 2022, la inclusión de TEAP solo proporciona compatibilidad con el lado cliente: Windows 10, versión 2004 (compilación 19041). NPS no admite TEAP en este momento. La compatibilidad con clientes habilita la interoperación con servidores RADIUS implementados habitualmente que admiten TEAP. Windows admite EAP-TLS y EAP-MSCHAP v2 como métodos internos.
+
+En la tabla siguiente se enumeran algunos métodos EAP comunes y sus números de tipo de método asignados de IANA.
+
+ | Método EAP
+
+ | Número de tipo asignado a IANA
+
+ | Compatibilidad nativa con Windows
+
+ | MD5-Challenge (EAP-MD5)
+
+ | 4
+
+ | ❌
+
+ | Contraseña puntual (EAP-OTP)
+
+ | 5
+
+ | ❌
+
+ | Tarjeta de token genérica (EAP-GTC)
+
+ | 6
+
+ | ❌
+
+ | EAP-TLS
+
+ | 13
+
+ | ✅
+
+ | EAP-SIM
+
+ | 18
+
+ | ✅
+
+ | EAP-TTLS
+
+ | 21
+
+ | ✅
+
+ | EAP-AKA
+
+ | 23
+
+ | ✅
+
+ | PEAP
+
+ | 25
+
+ | ✅
+
+ | EAP-MSCHAP v2
+
+ | 26
+
+ | ✅
+
+ | Contraseña puntual protegida (EAP-POTP)
+
+ | 32
+
+ | ❌
+
+ | EAP-FAST
+
+ | 43
+
+ | ❌
+
+ | Clave precompartida (EAP-PSK)
+
+ | 47
+
+ | ❌
+
+ | EAP-IKEv2
+
+ | 49
+
+ | ❌
+
+ | EAP-AKA'
+
+ | 50
+
+ | ✅
+
+ | EAP-EKE
+
+ | 53
+
+ | ❌
+
+ | TEAP
+
+ | 55
+
+ | ✅
+
+ | EAP-NOOB
+
+ | 56
+
+ | ❌
+
+## Configuración de propiedades de EAP
+
+Puede obtener acceso a las propiedades de EAP para acceso inalámbrico y cableado autenticado 802.1X de las siguientes formas:
+
+- Mediante la configuración de las extensiones de directivas de redes cableadas (IEEE 802.3) y directivas de redes inalámbricas (IEEE 802.11) en Directiva de grupo.
+
+- 
+ Configuración del> equipoPolíticas>Configuración de> WindowsConfiguración de seguridad
+
+- Uso del software de administración de dispositivos móviles (MDM), como Intune (wi-fi/cableado) 
+
+- 
+ CSP deWi-Fi
+
+- 
+ WiredNetwork CSP
+
+- Mediante la configuración manual de conexiones inalámbricas o cableadas en equipos cliente.
+
+Puede obtener acceso a las propiedades de EAP para conexiones de red privada virtual (VPN) de las siguientes formas:
+
+- Uso del software de administración de dispositivos móviles (MDM), como Intune
+
+- 
+ VPNv2 CSP
+
+- 
+ Opciones de perfil de VPN
+
+- Mediante la configuración manual de conexiones VPN en equipos cliente.
+
+- Mediante el Kit de administración del Administrador de conexiones (CMAK) para configurar conexiones VPN.
+
+Para más información sobre configuración de propiedades de EAP, consulte Configurar perfiles y ajustes de EAP en Windows.
+
+## Perfiles XML para EAP
+
+Los perfiles usados para diferentes tipos de conexiones son archivos XML que contienen las opciones de configuración para esa conexión. Cada tipo de conexión diferente sigue un esquema específico:
+
+- 
+ Perfiles de Wi-Fi (WLAN)
+
+- 
+ Perfiles de red cableada (Ethernet)
+
+- 
+ Perfiles de VPN
+
+Sin embargo, cuando se configura para usar EAP, cada esquema de perfil tiene un elemento secundario EapHostConfig .
+
+- Cable/Inalámbrico: `EapHostConfig` es un elemento secundario del elemento EAPConfig . 
+ Seguridad > de MSM (Cableado/Inalámbrico) >OneX> EAPConfig
+
+- VPN: `EapHostConfig` es un elemento secundario de la configuración de Eap > de autenticación > de NativeProfile >
+
+Esta sintaxis de configuración se define en la especificaciónDirectiva de grupo: Inalámbrica/Cableada.
+
+Note
+
+Las distintas GUI de configuración no siempre muestran todas las opciones técnicamente posibles. Por ejemplo, Windows Server 2019 y versiones anteriores no pueden configurar TEAP en la interfaz de usuario. Sin embargo, a menudo es posible importar un perfil XML existente que se haya configurado anteriormente.
+
+El resto del artículo está pensado para proporcionar una asignación entre las partes específicas del EAP de la interfaz de usuario de directiva de grupo/Panel de control y las opciones de configuración XML, así como proporcionar una descripción de la configuración.
+
+Puede encontrar más información sobre cómo configurar perfiles XML en Perfiles XML. Puede encontrar un ejemplo de uso de un perfil XML que contenga la configuración de EAP en Aprovisionamiento de un perfil de Wi-Fi a través de un sitio web.
+
+## Configuración de seguridad
+
+En la tabla siguiente se explican las opciones de seguridad configurables de un perfil que usa 802.1X. Esta configuración se asigna a OneX.
+
+ | Setting
+
+ | XML element
+
+ | Description
+
+ | Seleccione un método de autenticación de red:
+
+ | 
+ EAPConfig
+
+ | Permite seleccionar el método EAP que se va a usar para la autenticación. Consulte Configuración del método de autenticación y Configuración de autenticación de red de telefonía móvil
+
+ | Properties
+
+ | 
+
+ | Abre el cuadro de diálogo de propiedades para el método EAP seleccionado.
+
+ | Modo de autenticación
+
+ | 
+ authMode
+
+ | Especifica el tipo de credenciales usadas para la autenticación. Se admiten los valores siguientes: 
+
+1. Autenticación del usuario o equipo
+2. Autenticación de equipo
+3. Autenticación del usuario
+4. Autenticación de invitado
+
+"Equipo", en este contexto, significa "Máquina" en otras referencias. 
+ `machineOrUser` es el valor predeterminado en Windows.
+
+ | Nº máximo de errores de autenticación
+
+ | 
+ maxAuthFailures
+
+ | Especifica el número máximo de errores de autenticación permitidos para un conjunto de credenciales, con valor predeterminado en `1`.
+
+ | Almacenar en caché la información del usuario para las conexiones posteriores a esta red
+
+ | 
+ cacheUserData
+
+ | Especifica si las credenciales del usuario deben almacenarse en caché para las conexiones posteriores a la misma red, con valor predeterminado en `true`.
+
+### Configuración de seguridad avanzada > IEEE 802.1X
+
+Si se activa Aplicar la configuración avanzada 802.1X, se configurarán todas las opciones siguientes. Si está desactivada, se aplicará la configuración predeterminada. En XML, todos los elementos son opcionales, con los valores predeterminados usados si no están presentes.
+
+ | Setting
+
+ | XML element
+
+ | Description
+
+ | Nº máximo de mensajes de inicio EAPOL
+
+ | 
+ maxStart
+
+ | Especifica el número máximo de mensajes de EAPOL-Start que se pueden enviar al autenticador (servidor RADIUS) antes de que el suplicante (cliente de Windows) suponga que no hay ningún autenticador presente, con valor predeterminado en `3`.
+
+ | Período de inicio (seg.)
+
+ | 
+ startPeriod
+
+ | Especifica el período de tiempo (en segundos) que se debe esperar antes de que se envíe un mensaje de EAPOL-Start para iniciar el proceso de autenticación 802.1X, con valor predeterminado en `5`.
+
+ | Período de retención (seg.)
+
+ | 
+ heldPeriod
+
+ | Especifica el período de tiempo (en segundos) que se debe esperar después de un intento de autenticación fallido para volver a intentar la autenticación, con valor predeterminado en `1`.
+
+ | Período de autenticación (seg.)
+
+ | 
+ authPeriod
+
+ | Especifica el período de tiempo (en segundos) que se debe esperar a una respuesta del autenticador (servidor RADIUS) antes de suponer que no hay ningún autenticador presente, con valor predeterminado en `18`.
+
+ | mensaje de Eapol-Start
+
+ | 
+ supplicantMode
+
+ | Especifica el método de transmisión utilizado para mensajes EAPOL-Start. Se admiten los valores siguientes: 
+
+1. No transmitir (`inhibitTransmission`)
+2. Transmitir (`includeLearning`)
+3. Transmitir por IEEE 802.1X (`compliant`)
+
+"Equipo", en este contexto, significa "Máquina" en otras referencias. 
+ `compliant` es el valor predeterminado en Windows y es la única opción válida para los perfiles inalámbricos.
+
+### Configuración de seguridad avanzada > Inicio de sesión único
+
+En la siguiente tabla se explica la configuración de Inicio de sesión único (SSO), anteriormente conocida como Proveedor de acceso al inicio de sesión previo (PLAP).
+
+ | Setting
+
+ | XML element
+
+ | Description
+
+ | Habilitar Inicio de sesión único en esta red
+
+ | 
+ singleSignOn
+
+ | Especifica si el inicio de sesión único está habilitado para esta red, con valor predeterminado en `false`. No use `singleSignOn` en un perfil si la red no lo requiere.
+
+ | Realizar inmediatamente antes de que el usuario
+
+Realizar inmediatamente después de que el usuario
+
+ | 
+ type
+
+ | Especifica cuándo se debe realizar el SSO, si antes o después de que el usuario inicie sesión.
+
+ | Retraso máximo para conectividad (segundos)
+
+ | 
+ maxDelay
+
+ | Especifica el retraso máximo (en segundos) antes de que se produzca un error en el intento de SSO, con valor predeterminado en `10`.
+
+ | Permitir cuadros de diálogo adicionales durante el inicio de sesión único
+
+ | 
+ allowAdditionalDialogs
+
+ | Especifica si se permite mostrar cuadros de diálogo de EAP durante el inicio de sesión único, con valor predeterminado en `false`.
+
+ | Esta red usa diferentes VLAN para autenticarse con credenciales de equipo y de usuario
+
+ | 
+ userBasedVirtualLan
+
+ | Especifica si la LAN virtual (VLAN) usada por el dispositivo cambia en función de las credenciales del usuario, con valor predeterminado en `false`.
+
+## Configuración del método de autenticación
+
+Caution
+
+Si se configura un servidor de acceso a la red para permitir el mismo tipo de método de autenticación para un método EAP tunelizado (por ejemplo, PEAP) y un método EAP no tunelizado (por ejemplo, EAP-MSCHAP v2), existe una posible vulnerabilidad de seguridad. Al implementar PEAP y EAP (que no está protegido), no use el mismo tipo de autenticación. Por ejemplo, si implementa PEAP-TLS, no implemente también EAP-TLS porque si necesita la protección del túnel, no sirve para permitir que el método se ejecute también fuera del túnel.
+
+La siguiente tabla explica las opciones de configuración de cada método de autenticación.
+
+- 
+
+ EAP-TLS
+
+- 
+
+ PEAP
+
+- 
+
+ EAP-TTLS
+
+- 
+
+ TEAP
+
+La configuración de EAP-TLS de la interfaz de usuario se asigna a EapTlsConnectionPropertiesV1, que se extiende por EapTlsConnectionPropertiesV2 y EapTlsConnectionPropertiesV3.
+
+ | Setting
+
+ | XML element
+
+ | Description
+
+ | 
+ Usar mi tarjeta inteligente
+
+ | 
+ CredentialsSource>Tarjeta inteligente
+
+ | Especifica que los clientes que realicen solicitudes de autenticación deben presentar un certificado de tarjeta inteligente para la autenticación de red.
+
+ | 
+ Usar un certificado en este equipo
+
+ | 
+ CredentialsSource>CertificateStore
+
+ | Especifica que los clientes que se autentiquen deben usar un certificado ubicado en el almacén de certificados del Usuario actual o del Equipo local.
+
+ | 
+ Usar selección de certificado simple (recomendado)
+
+ | 
+ SimpleCertSelection
+
+ | Especifica si Windows seleccionará automáticamente un certificado para la autenticación sin interacción del usuario (si es posible) o si Windows mostrará una lista desplegable para que el usuario seleccione un certificado.
+
+ | 
+ Advanced
+
+ | 
+
+ | Abre el cuadro de diálogo Configurar selección de certificado.
+
+ | 
+ Opciones de validación del servidor
+
+ | 
+
+ | 
+
+ | 
+ Usar un nombre de usuario distinto para la conexión
+
+ | 
+ DifferentUsername
+
+ | Especifica si se debe usar un nombre de usuario para la autenticación distinto del nombre de usuario del certificado.
+
+A continuación se enumeran los valores de configuración para Configurar la selección de certificado. Esta configuración define los criterios que usa un cliente para seleccionar el certificado adecuado para la autenticación. Esta interfaz de usuario se asigna a TLSExtensions>FilteringInfo.
+
+ | Setting
+
+ | XML element
+
+ | Description
+
+ | 
+ Emisor de certificados
+
+ | 
+ CAHashList`Enabled="true"`
+
+ | Especifica si el emisor de certificado está habilitado. 
+
+Si tanto el emisor de certificados como el uso extendido de claves (EKU) están habilitados, solo se consideran válidos los certificados que cumplen ambas condiciones para autenticar al cliente en el servidor.
+
+ | 
+ Entidades de certificación raíz
+
+ | 
+ IssuerHash
+
+ | Enumera los nombres de todos los emisores para los cuales están presentes los certificados de entidad de certificación (CA) correspondientes en el almacén de certificados de entidades de certificación raíz de confianza o entidades de certificación intermedias de la cuenta del equipo local. Esto incluye:
+
+- Todas las entidades de certificación raíz y entidades de certificación intermedias. 
+
+- Contiene solo los emisores para los cuales existen certificados válidos correspondientes en el equipo (por ejemplo, los certificados que no expiraron ni fueron revocados). 
+
+- La lista final de certificados habilitados para la autenticación contiene solo aquellos certificados emitidos por alguno de los emisores seleccionados en esta lista. 
+
+ En XML, esta es la huella digital SHA-1 (hash) del certificado.
+
+ | 
+ Uso mejorado de clave (EKU).
+
+ | 
+
+ | Permite seleccionar Todos los propósitos, autenticación de cliente, AnyPurpose o cualquier combinación de estos. Especifica que cuando se selecciona una combinación, todos los certificados que cumplen con al menos una de las tres condiciones se consideran válidos para el fin de autenticar el cliente en el servidor. Si el filtrado de EKU está habilitado, se debe seleccionar una de las opciones, de lo contrario, la casilla Uso mejorado de clave (EKU) se desmarcará.
+
+ | 
+ Todo el propósito
+
+ | 
+ AllPurposeEnabled
+
+ | Cuando se selecciona, este elemento especifica que los certificados que tienen la EKU All Purpose se consideran certificados válidos para autenticar al cliente en el servidor. El identificador de objeto (OID) para todos los fines es o está `0` vacío.
+
+ | 
+ Autenticación de cliente
+
+ | 
+ ClientAuthEKUList`Enabled="true"` (> EKUMapInList > EKUName)
+
+ | Especifica que los certificados que tienen la EKU de autenticación de cliente y la lista especificada de EKUs se consideran certificados válidos para autenticar al cliente en el servidor. El identificador de objeto (OID) para la autenticación de cliente es `1.3.6.1.5.5.7.3.2`.
+
+ | 
+ AnyPurpose
+
+ | 
+ AnyPurposeEKUList`Enabled="true"` (> EKUMapInList > EKUName)
+
+ | Especifica que todos los certificados que tienen EKU AnyPurpose y la lista especificada de EKUs se consideran certificados válidos para autenticar al cliente en el servidor. El identificador de objeto (OID) para AnyPurpose es `1.3.6.1.4.1.311.10.12.1`.
+
+ | 
+ Add
+
+ | 
+ EKUMapping > EKUMap > EKUName/EKUOID
+
+ | Abre el cuadro de diálogo Seleccionar EKUs , que permite agregar EKUs estándar, personalizados o específicos del proveedor a la lista Autenticación de cliente o AnyPurpose .
+
+ Al seleccionar Agregar o editar en el cuadro de diálogo Seleccionar EKU , se abre el cuadro de diálogo Agregar o editar EKU , que proporciona dos opciones:
+
+ 1. Introduzca el nombre del EKU: proporciona un lugar para escribir el nombre del EKU personalizado.
+ 2. Introduzca el OID del EKU: proporciona un lugar para escribir el OID del EKU. Solo se permiten dígitos numéricos, separadores y `.`. Se permiten los caracteres comodín, en cuyo caso se permiten también todos los OID de los elementos secundarios de la jerarquía. 
+
+ Por ejemplo, introducir `1.3.6.1.4.1.311.*` permite `1.3.6.1.4.1.311.42` y `1.3.6.1.4.1.311.42.2.1`.
+
+ | 
+ Edit
+
+ | 
+
+ | Le permite editar EKUs personalizados que ha agregado. Los EKU predefinidos predeterminados no se pueden editar.
+
+ | 
+ Remove
+
+ | 
+
+ | Quita la EKU seleccionada de la lista Autenticación de cliente o AnyPurpose .
+
+La configuración de PEAP en la interfaz de usuario se asigna a MsPeapConnectionPropertiesV1, que se extiende por MsPeapConnectionPropertiesV2.
+
+ | Setting
+
+ | XML element
+
+ | Description
+
+ | 
+ Opciones de validación del servidor
+
+ | 
+
+ | 
+
+ | 
+ Seleccionar el método de autenticación
+
+ | 
+
+ | Le permite seleccionar el tipo de EAP que se va a usar con PEAP para la autenticación de red. Están disponibles dos tipos de EAP, Contraseña segura (EAP-MSCHAP v2) y Tarjeta inteligente u otro certificado (EAP-TLS).
+
+ | 
+ Configure
+
+ | EAP-MSCHAP v2: UseWinLogonCredentials
+
+ EAP-TLS: consulte la pestaña EAP-TLS esquema
+
+ | Este elemento proporciona acceso a la configuración de propiedades para el tipo de EAP especificado.
+
+ Si se selecciona Contraseña segura (EAP-MSCHAP v2), está disponible la casilla Usar automáticamente mi nombre de inicio de sesión y contraseña (y dominio si existe) de Windows, que especifica que el nombre de inicio de sesión y la contraseña de Windows basados en el usuario actual se usan como credenciales de autenticación de red. 
+
+ Si se selecciona Tarjeta inteligente u otro certificado (EAP-TLS), se abre el cuadro de diálogo Propiedades de tarjeta inteligente u otro certificado para una configuración adicional de este tipo de EAP.
+
+ | 
+ Habilitar reconexión rápida
+
+ | 
+ FastReconnect
+
+ | Permite crear una asociación de seguridad nueva o actualizada de manera más eficaz y con un menor número de idas y vueltas si se estableció previamente una asociación de seguridad. En el caso de las conexiones VPN, la reconexión rápida usa la tecnología IKEv2 para proporcionar conectividad VPN sin problemas y coherente cuando los usuarios pierden temporalmente sus conexiones a Internet. Esta característica es especialmente útil para los usuarios que se conectan a través de la banda ancha móvil inalámbrica, ya que cuando una conexión a Internet cae, la reconexión rápida volverá a establecer automáticamente las conexiones VPN activas sin problemas y transparentemente a los usuarios.
+
+ | 
+ Desconectar si el servidor no presenta TLV de cryptobinding
+
+ | 
+ RequireCryptoBinding
+
+ | Especifica que los clientes que se conectan deben cerrar el proceso de autenticación de red si el servidor RADIUS no presenta Tipo-Longitud-Valor (TLV) de cryptobinding. TLV de cryptobinding es una característica de seguridad que mejora la seguridad del túnel TLS en PEAP. Para ello, combina las autenticaciones de métodos internos y externos, lo que dificulta que los atacantes realicen ataques de tipo intermediario mediante la redirección de una autenticación MS-CHAP v2 a través del canal PEAP.
+
+ | 
+ Habilitar privacidad de identidad
+
+ | 
+ IdentityPrivacy>EnableIdentityPrivacy/AnonymousUserName
+
+ | Especifica que los clientes se configuren para que no puedan enviar su identidad antes de que el cliente haya autenticado el servidor RADIUS y, de manera opcional, proporciona un espacio para escribir un valor de identidad anónima. Si selecciona Habilitar privacidad de identidad y, a continuación, escribe `anonymous` como el valor de identidad anónima, la respuesta de identidad para un usuario con la identidad `alice@example` sería `anonymous@example`. Si selecciona Habilitar privacidad de identidad pero no proporciona un valor de identidad anónima, la respuesta de identidad para el usuario `alice@example` sería `@example`.
+
+La configuración de EAP-TTLS de la interfaz de usuario se asigna a EapTtlsConnectionPropertiesV1.
+
+ | Setting
+
+ | XML element
+
+ | Description
+
+ | 
+ Habilitar privacidad de identidad
+
+ | 
+ Phase1Identity>
+
+ IdentityPrivacy>
+
+ AnonymousIdentity
+
+ | Especifica que los clientes se configuren para que no puedan enviar su identidad antes de que el cliente haya autenticado el servidor RADIUS y, de manera opcional, proporciona un espacio para escribir un valor de identidad anónima. Si selecciona Habilitar privacidad de identidad y, a continuación, escribe `anonymous` como el valor de identidad anónima, la respuesta de identidad para un usuario con la identidad `alice@example` sería `anonymous@example`. Si selecciona Habilitar privacidad de identidad pero no proporciona un valor de identidad anónima, la respuesta de identidad para el usuario `alice@example` sería `@example`.
+
+ | 
+ Opciones de validación del servidor
+
+ | 
+
+ | 
+
+ | 
+ Seleccione un método que no sea EAP para la autenticación
+
+ | 
+ Phase2Authentication> 
+
+ Cualquiera de las siguientes:
+
+ PAPAuthentication
+
+ CHAPAuthentication
+
+ MSCHAPAuthentication
+
+ MSCHAPv2Authentication
+
+ | Especifica si un método que no es EAP o un tipo de EAP se usa para la autenticación. Si se selecciona Seleccionar un método distinto de EAP para la autenticación, se desactiva Seleccionar un método EAP para la autenticación. A continuación se muestran las opciones de autenticación disponibles:
+
+ 1. Contraseña no cifrada (PAP) 
+ 2. Protocolo de autenticación por desafío mutuo (CHAP) 
+ 3. Microsoft CHAP (MS-CHAP) 
+ 4. Microsoft CHAP Versión 2 (MS-CHAP v2).
+
+ | 
+ Usar automáticamente mi nombre de inicio y contraseña de Windows
+
+ | 
+ UseWinlogonCredentials
+
+ | Si está habilitado, este elemento usa credenciales de inicio de sesión de Windows y solo está disponible si se seleccionaMS-CHAP v2 en la lista desplegable Seleccionar un método que no sea EAP para la autenticación . 
+ Usar automáticamente mi nombre de inicio de sesión y contraseña de Windows está desactivado para los tipos de autenticación PAP, CHAP y MS-CHAP.
+
+ | 
+ Seleccione un método EAP para la autenticación
+
+ | 
+ Phase2Authentication>
+
+ EapHostConfig
+
+ | Especifica si un método EAP o un tipo que no es de EAP se usa para la autenticación. Si se selecciona Seleccionar un método EAP para la autenticación, se desactiva Seleccionar un método distinto de EAP para la autenticación. A continuación se muestran las opciones de autenticación disponibles:
+
+ 1. Microsoft: tarjeta inteligente u otro certificado (EAP-TLS) 
+ 2. Microsoft: contraseña protegida (EAP-MSCHAP v2)
+
+ La lista desplegable enumera todos los métodos EAP instalados en el servidor, excepto los métodos de túnel PEAP y FAST . Los tipos de EAP se enumeran en el orden en que el equipo los detecta.
+
+ | 
+ Configure
+
+ | 
+
+ | Abre el cuadro de diálogo de propiedades del tipo de método EAP especificado.
+
+La configuración de TEAP en la interfaz de usuario se asigna a EapTeapConnectionPropertiesV1. TEAP está disponible a partir de Windows 10, versión 2004 (compilación 19041) y Windows Server 2022.
+
+ | Setting
+
+ | XML element
+
+ | Description
+
+ | 
+ Privacidad de la identidad
+
+ | 
+ Phase1Identity > IdentityPrivacy > AnonymousIdentity
+
+ | Especifica que los clientes se configuren para que no puedan enviar su identidad antes de que el cliente haya autenticado el servidor RADIUS y, de manera opcional, proporciona un espacio para escribir un valor de identidad anónima. Si selecciona Habilitar privacidad de identidad y, a continuación, escribe `anonymous` como el valor de identidad anónima, la respuesta de identidad para un usuario con la identidad `alice@example` sería `anonymous@example`. Si selecciona Habilitar privacidad de identidad pero no proporciona un valor de identidad anónima, la respuesta de identidad para el usuario `alice@example` sería `@example`.
+
+ | 
+ Opciones de validación del servidor
+
+ | 
+
+ | 
+
+ | 
+ Seleccionar un método EAP {principal/secundario} para la autenticación
+
+ | 
+ Phase2Authentication (> InnerMethodConfig > EapHostConfig)
+
+ | Permite a la persona usuaria elegir un método de autenticación principal/secundario entre Microsoft: tarjeta inteligente u otro certificado (EAP-TLS) y Microsoft: contraseña segura (EAP-MSCHAP v2).
+
+ Se permite tener cualquier combinación de métodos internos. Por ejemplo, el método interno podría ser EAP-TLS con credenciales de máquina, seguido de EAP-TLS con credenciales de usuario.
+
+ | 
+ Configure
+
+ | 
+
+ | Si se selecciona Microsoft: tarjeta inteligente u otro certificado (EAP-TLS), se abre el cuadro de diálogo Propiedades de tarjeta inteligente u otro certificado.
+
+ Si se selecciona Microsoft: contraseña segura (EAP-MSCHAP v2), se hace disponible la casilla Usar automáticamente mi nombre de inicio de sesión y contraseña (y dominio si existe) de Windows, que especifica que el nombre de inicio de sesión y la contraseña de Windows basados en el usuario actual se usan como credenciales de autenticación de red.
+
+### Validación de certificados de servidor
+
+Muchos métodos EAP incluyen una opción para que el cliente valide el certificado del servidor. Si el certificado de servidor no se valida, el cliente no puede asegurarse de que se está comunicando con el servidor correcto. Esto expone al cliente a riesgos de seguridad, incluida la posibilidad de que el cliente se conecte sin saberlo a una red no autorizada.
+
+Note
+
+Windows requiere que el certificado de servidor tenga la EKU de autenticación del servidor . El identificador de objeto (OID) de este EKU es `1.3.6.1.5.5.7.3.1`.
+
+En la tabla siguiente se enumeran las opciones de validación del servidor aplicables a cada método EAP. Windows 11 actualizó la lógica de validación del servidor para ser más coherente. Para obtener más información, consulte Comportamiento actualizado de validación de certificados de servidor en Windows 11. Si entran en conflicto, las descripciones de la tabla siguiente describen el comportamiento de Windows 10 y versiones anteriores.
+
+ | Setting
+
+ | XML element
+
+ | Description
+
+ | 
+ Verificar la identidad del servidor validando el certificado
+
+ | EAP-TLS:
+
+ PerformServerValidation
+
+PEAP:
+
+ PerformServerValidation
+
+ | Este elemento especifica que el cliente comprueba que los certificados de servidor presentados al equipo cliente tienen: 
+
+- Las firmas correctas 
+
+- Las firmas no han expirado 
+
+- Fueron emitidos por una entidad de certificación raíz de confianza (CA) 
+
+ Deshabilitar esta casilla hace que los equipos cliente no puedan comprobar la identidad de los servidores durante el proceso de autenticación. Si no se lleva a cabo la autenticación del servidor, los usuarios están expuestos a riesgos graves de seguridad, incluida la posibilidad de que los usuarios se conecten sin saberlo a una red no autorizada.
+
+ | 
+ Conectar a estos servidores
+
+ | EAP-TLS:
+
+ ServerValidation>ServerNames
+
+PEAP:
+
+ ServerValidation>ServerNames
+
+EAP-TTLS:
+
+ ServerValidation>
+
+ ServerNames
+
+TEAP:
+
+ ServerValidation>
+
+ ServerNames
+
+ | Le permite especificar el nombre de servidores RADIUS (Servicio de autenticación telefónica remoto para el usuario) que proporcionan autorización y autenticación de red.
+
+ Debe escribir el nombre exactamente como aparece en el campo asunto de cada certificado de servidor RADIUS o usar expresiones regulares (regex) para especificar el nombre del servidor.
+
+ Se puede usar la sintaxis completa de la expresión regular para especificar el nombre del servidor, pero, para diferenciar una expresión regular con la cadena literal, debe usar al menos un `*` en la cadena especificada. Por ejemplo, puede utilizar `nps.*\.example\.com` para especificar el servidor RADIUS `nps1.example.com` o `nps2.example.com`. También puede incluir un `;` para separar varios servidores.
+
+ Si no se especifica ningún servidor RADIUS, el cliente comprobará que el certificado de servidor RADIUS fue emitido por una CA raíz de confianza.
+
+ | 
+ Entidades de certificación raíz de confianza.
+
+ | EAP-TLS:
+
+ ServerValidation>TrustedRootCA
+
+PEAP:
+
+ ServerValidation>TrustedRootCA
+
+EAP-TTLS:
+
+ ServerValidation>
+
+ TrustedRootCAHashes
+
+TEAP:
+
+ ServerValidation>
+
+ TrustedRootCAHashes
+
+ | Muestra las entidades de certificación raíz de confianza. La lista se genera a partir de las entidades de certificación raíz de confianza instaladas en el equipo y los almacenes de certificados de usuario. Puede especificar los certificados de CA raíz de confianza que usan los suplicantes para determinar si confían en los servidores como, por ejemplo, el servidor que ejecuta el Servidor de directivas de redes (NPS) o el servidor de aprovisionamiento. Si no se selecciona ninguna CA raíz de confianza, el cliente 802.1X comprueba que el certificado de equipo del servidor RADIUS haya sido emitido por una CA raíz de confianza instalada. Si se seleccionan una o varias CA raíz de confianza, el cliente 802.1X comprueba que el certificado de equipo del servidor RADIUS haya sido emitido por una CA raíz de confianza seleccionada. 
+
+ Si no se selecciona ninguna CA raíz de confianza, el cliente comprueba que el emisor del certificado de servidor RADIUS sea una CA raíz de confianza. 
+
+ Si tiene una infraestructura de clave pública (PKI) en la red y usa la CA para emitir certificados para los servidores RADIUS, se agregará automáticamente el certificado de CA a la lista de entidades de certificación raíz de confianza. También puede adquirir un certificado de CA de un proveedor distinto de Microsoft. Algunas CA raíz de confianza que no son de Microsoft proporcionan software al adquirir el certificado, el cual instala automáticamente el certificado adquirido en el almacén de certificados de entidades de certificación raíz de confianza. En este caso, la CA raíz de confianza aparece automáticamente en la lista de CA raíz de confianza.
+
+ No especifique un certificado de CA raíz de confianza que no aparezca en la lista de los almacenes de certificados de Entidades de certificación raíz de confianza del equipo cliente para el Usuario actual y el Equipo local. Si designa un certificado que no esté instalado en los equipos cliente, se producirá un error de autenticación.
+
+ En XML, esta es la huella digital SHA-1 (hash) del certificado (o SHA-256 para TEAP).
+
+### Aviso del usuario de validación del servidor
+
+En la tabla siguiente se describen las opciones de solicitud de usuario de validación del servidor disponibles para cada método EAP. Cuando un certificado de servidor no es de confianza, estas opciones determinan si:
+
+- La conexión falla de inmediato.
+
+- Se pide al usuario que acepte o rechace manualmente la conexión.
+
+- 
+
+ EAP-TLS
+
+- 
+
+ PEAP
+
+- 
+
+ EAP-TTLS
+
+- 
+
+ TEAP
+
+ | Setting
+
+ | XML element
+
+ | 
+ No pedir la intervención del usuario para autorizar nuevos servidores o entidades de certificación de confianza
+
+ | 
+ ServerValidation>DisableUserPromptForServerValidation
+
+Evita que se solicite a la persona usuaria que confíe en un certificado de servidor si el certificado está configurado incorrectamente, si no es ya de confianza o en ambos casos (si está habilitado). Para simplificar la experiencia del usuario e impedir que los usuarios confíen erróneamente en un servidor implementado por un atacante, se recomienda activar esta casilla.
+
+ | Setting
+
+ | XML element
+
+ | 
+ Notificaciones antes de conectar
+
+ | 
+ ServerValidation> 
+
+ 1. DisableUserPromptForServerValidation=`true`
+ 2. DisableUserPromptForServerValidation=`false`
+ 3. DisableUserPromptForServerValidation=`false`, PeapExtensionsV2>AllowPromptingWhenServerCANotFound
+
+Especifica si se notifica al usuario cuando el nombre de servidor o el certificado raíz no se haya especificado, o si la identidad del servidor no pueda comprobarse. Estas son las opciones disponibles entre las que elegir y qué especifica cada una:
+
+- 
+
+ No pedir al usuario que autorice nuevos servidores o CA de confianza: si el nombre del servidor no está en la lista Conectarse a estos servidores, o bien se encuentra el certificado raíz, pero no está seleccionado en la lista de Entidades de certificación raíz de confianza en Propiedades PEAP, o bien el certificado raíz no se encuentra en el equipo, entonces no se notificará al usuario y los intentos de conexión fracasarán.
+
+- 
+
+ Indicar al usuario si el nombre del servidor o el certificado raíz no se ha especificado: si el nombre del servidor no está en la lista Conectarse a estos servidores, o se encuentra el certificado raíz pero no está seleccionado en la lista de Entidades de certificación raíz de confianza en Propiedades PEAP, se le preguntará al usuario si acepta el certificado raíz. Si el usuario acepta el certificado, la autenticación continúa. Si el usuario rechaza el certificado, se produce un error en el intento de conexión. Con esta opción, si el certificado raíz no está presente en el equipo, no se notifica al usuario y se produce un error en el intento de conexión.
+
+- 
+
+ Indicar al usuario si la identidad del servidor no puede verificarse: si el nombre del servidor no está en la lista Conectarse a estos servidores, o bien se encuentra el certificado raíz, pero no está seleccionado en la lista de Entidades de certificación raíz de confianza en Propiedades PEAP, sí se le preguntará al usuario si acepta el certificado raíz. Si el usuario acepta el certificado, la autenticación continúa. Si el usuario rechaza el certificado, se produce un error en el intento de conexión.
+
+ | Setting
+
+ | XML element
+
+ | 
+ No preguntar a la persona usuaria si no se puede autorizar el servidor
+
+ | 
+ ServerValidation>
+
+ DisableUserPromptForServerValidation
+
+Si no se selecciona esta opción y la validación del certificado de servidor fracasa debido a una de las siguientes razones, se pide a la persona usuaria que acepte o rechace el servidor:
+
+- 
+Un certificado raíz para el certificado de servidor no se encuentra o no se selecciona en la lista de entidades de certificación raíz de confianza.
+
+- 
+No se encuentra uno o varios de los certificados raíz intermedios de la cadena de certificados.
+
+- 
+El nombre de firmante en el certificado de servidor no coincide con ninguno de los servidores que se especifican en la lista Conectarse a estos servidores.
+
+ | Setting
+
+ | XML element
+
+ | 
+ No preguntar a la persona usuaria si no se puede autorizar el servidor
+
+ | 
+ ServerValidation>DisablePrompt
+
+Si no se selecciona esta opción y la validación del certificado de servidor fracasa debido a una de las siguientes razones, se pide a la persona usuaria que acepte o rechace el servidor:
+
+- 
+Un certificado raíz para el certificado de servidor no se encuentra o no se selecciona en la lista de entidades de certificación raíz de confianza.
+
+- 
+No se encuentra uno o varios de los certificados raíz intermedios de la cadena de certificados.
+
+- 
+El nombre de firmante en el certificado de servidor no coincide con ninguno de los servidores que se especifican en la lista Conectarse a estos servidores.
+
+## Opciones de configuración de autenticación de telefonía móvil
+
+A continuación se enumeran los valores de configuración para EAP-SIM, EPA-AKA y EPA-AKA' respectivamente.
+
+- 
+
+ EAP-SIM
+
+- 
+
+ EAP-AKA
+
+- 
+
+ EAP-AKA'
+
+EAP-SIM se define en RFC 4186. El Módulo de identidad de suscriptor (SIM) de EAP se usa para la autenticación y la distribución de claves de sesión mediante el Módulo de identidad de suscriptor (SIM) de Sistema global para las comunicaciones móviles (GSM) de segunda generación.
+
+La configuración de EAP-SIM de la interfaz de usuario se asigna a EapSimConnectionPropertiesV1.
+
+ | Item
+
+ | XML element
+
+ | Description
+
+ | 
+ Usar claves de cifrado seguras
+
+ | 
+ UseStrongCipherKeys
+
+ | Especifica que si se selecciona, el perfil usa un cifrado de alta seguridad.
+
+ | 
+ No revelar la identidad real al servidor cuando haya disponible una de seudónimo
+
+ | 
+ DontRevealPermanentID
+
+ | Si se habilita, fuerza al cliente para que genere un error en la autenticación si las solicitudes del servidor de una identidad permanente a través del cliente tienen una identidad de seudónimo con ellas. Las identidades de seudónimo se usan para dar privacidad a la identidad, de modo que la identidad real o permanente de un usuario no se revele durante la autenticación.
+
+ | 
+
+ | 
+ ProviderName
+
+ | Solo está disponible en XML, una cadena que indica el nombre del proveedor permitido para la autenticación.
+
+ | 
+ Habilitar el uso de dominios
+
+ | 
+ Reino=`true`
+
+ | Proporciona un lugar para escribir el nombre de dominio kerberos. Si este campo se deja en blanco con la opción Habilitar el uso de dominios seleccionada, el dominio se deriva de la Identidad del suscriptor móvil internacional (IMSI) mediante el dominio 3gpp.org, como se describe en el estándar 23.003 V6.8.0 del Proyecto de asociación de tercera generación (3GPP).
+
+ | 
+ Especificar un dominio
+
+ | 
+ Realm
+
+ | Proporciona un lugar para escribir el nombre de dominio. Si Habilitar el uso de dominios está habilitado, se usa esta cadena. Si este campo está vacío, se usa el dominio derivado.
+
+EAP-AKA se define en RFC 4187. La Autenticación y acuerdo de claves (AKA) de EAP se utiliza para la autenticación y distribución de claves de sesión mediante el mecanismo AKA. AKA se utiliza en la red móvil de tercera generación Sistema Universal de Telecomunicaciones Móviles (UMTS) y CDMA2000. AKA se basa en claves simétricas y normalmente se ejecuta en un módulo de identidad de suscriptor (SIM).
+
+La configuración de EAP-AKA de la interfaz de usuario se asigna a EapAkaConnectionPropertiesV1.
+
+ | Item
+
+ | XML element
+
+ | Description
+
+ | 
+ No revelar la identidad real al servidor cuando haya disponible una de seudónimo
+
+ | 
+ DontRevealPermanentID
+
+ | Si se habilita, fuerza al cliente para que genere un error en la autenticación si las solicitudes del servidor de una identidad permanente a través del cliente tienen una identidad de seudónimo con ellas. Las identidades de seudónimo se usan para dar privacidad a la identidad, de modo que la identidad real o permanente de un usuario no se revele durante la autenticación.
+
+ | 
+
+ | 
+ ProviderName
+
+ | Solo está disponible en XML, una cadena que indica el nombre del proveedor permitido para la autenticación.
+
+ | 
+ Habilitar el uso de dominios
+
+ | 
+ Reino=`true`
+
+ | Proporciona un lugar para escribir el nombre de dominio kerberos. Si este campo se deja en blanco con la opción Habilitar el uso de dominios seleccionada, el dominio se deriva de la Identidad del suscriptor móvil internacional (IMSI) mediante el dominio 3gpp.org, como se describe en el estándar 23.003 V6.8.0 del Proyecto de asociación de tercera generación (3GPP).
+
+ | 
+ Especificar un dominio
+
+ | 
+ Realm
+
+ | Proporciona un lugar para escribir el nombre de dominio. Si Habilitar el uso de dominios está habilitado, se usa esta cadena. Si este campo está vacío, se usa el dominio derivado.
+
+EAP-AKA' se define en RFC 5448 y RFC 9048. EAP-AKA Prima (AKA') es una versión modificada de EAP-AKA que añade una nueva función de derivación de claves para habilitar el acceso a las redes basadas en el Proyecto Asociación de Tercera Generación (3GPP) mediante estándares que no son de 3GPP, como:
+
+- Wi-Fi
+
+- datos de evolución optimizados (EVDO)
+
+- Interoperabilidad mundial para acceso por microondas (WiMax)
+
+La configuración de EAP-AKA en la interfaz de usuario se asigna a EapAkaPrimeConnectionPropertiesV1.
+
+ | Item
+
+ | XML element
+
+ | Description
+
+ | 
+ No revelar la identidad real al servidor cuando haya disponible una de seudónimo
+
+ | 
+ DontRevealPermanentID
+
+ | Si se habilita, fuerza al cliente para que genere un error en la autenticación si las solicitudes del servidor de una identidad permanente a través del cliente tienen una identidad de seudónimo con ellas. Las identidades de seudónimo se usan para dar privacidad a la identidad, de modo que la identidad real o permanente de un usuario no se revele durante la autenticación.
+
+ | 
+
+ | 
+ ProviderName
+
+ | Solo está disponible en XML, una cadena que indica el nombre del proveedor permitido para la autenticación.
+
+ | 
+ Habilitar el uso de dominios
+
+ | 
+ Reino=`true`
+
+ | Proporciona un lugar para escribir el nombre de dominio kerberos. Si este campo se deja en blanco con la opción Habilitar el uso de dominios seleccionada, el dominio se deriva de la Identidad del suscriptor móvil internacional (IMSI) mediante el dominio 3gpp.org, como se describe en el estándar 23.003 V6.8.0 del Proyecto de asociación de tercera generación (3GPP).
+
+ | 
+ Especificar un dominio
+
+ | 
+ Realm
+
+ | Proporciona un lugar para escribir el nombre de dominio. Si Habilitar el uso de dominios está habilitado, se usa esta cadena. Si este campo está vacío, se usa el dominio derivado.
+
+ | 
+ Pasar por alto error de coincidencia de nombres de red
+
+ | 
+ IgnoreNetworkNameMismatch
+
+ | El cliente compara el nombre de red que conoce, con el nombre que envió el servidor RADIUS durante la autenticación. Si hay falta de coincidencia, se pasa por alto si se selecciona esta opción. Si no se selecciona, se produce un error en la autenticación.
+
+ | 
+ Habilitar la reautenticación rápida
+
+ | 
+ EnableFastReauth
+
+ | Especifica que la reautenticación rápida está habilitada. La reautenticación rápida es útil cuando la autenticación de SIM se lleva a cabo con frecuencia. Las claves de cifrado que derivan de la autenticación completa se reutilizan. Como resultado, no se requiere que el algoritmo de SIM se ejecute en cada uno de los intentos de autenticación y el número de operaciones de red que derivan de los intentos de autenticación frecuentes se reduce.
+
+## Modo WPA3-Enterprise de 192 bits
+
+El modo de 192 bits de WPA3-Enterprise es un modo especial para WPA3-Enterprise que exige ciertos requisitos de seguridad elevados en la conexión inalámbrica para proporcionar un mínimo de 192 bits de seguridad. Estos requisitos se alinean con el Suite de Algoritmos de Seguridad Nacional Comercial (CNSA), CNSSP 15, que es un conjunto de algoritmos criptográficos aprobados para proteger la información clasificada y secreta por parte de la Agencia de Seguridad Nacional (NSA) de Estados Unidos. A veces, el modo de 192 bits se puede denominar "Modo suite B", que es una referencia a la especificación de criptografía de NSA Suite B, que fue reemplazada por CNSA en 2016.
+
+Tanto WPA3-Enterprise como el modo de 192 bits de WPA3-Enterprise están disponibles a partir de Windows 10, versión 2004 (compilación 19041) y Windows Server 2022. Sin embargo, WPA3-Enterprise se individualizó como un algoritmo de autenticación independiente en Windows 11. En XML, se especifica en el elemento authEncryption .
+
+En la siguiente tabla se enumeran los algoritmos requeridos por el conjunto de CNSA.
+
+ | Algorithm
+
+ | Description
+
+ | Parameters
+
+ | Estándar de cifrado avanzado (AES)
+
+ | Cifrado de bloques simétricos usado para el cifrado
+
+ | Clave de 256 bits (AES-256)
+
+ | Intercambio de claves de Elliptic Curve Diffie-Hellman (ECDH)
+
+ | Algoritmo asimétrico usado para establecer un secreto compartido (clave)
+
+ | Curva (P-384) de módulo primo de 384 bits
+
+ | Algoritmo de firma digital de curva elíptica (ECDSA)
+
+ | Algoritmo asimétrico usado para firmas digitales
+
+ | Curva (P-384) de módulo primo de 384 bits
+
+ | Algoritmo hash seguro (SHA)
+
+ | Función hash criptográfica
+
+ | SHA-384
+
+ | Intercambio de claves Diffie-Hellman (DH)
+
+ | Algoritmo asimétrico usado para establecer un secreto compartido (clave)
+
+ | Módulo de 3072 bits
+
+ | Rivest-Shamir-Adleman (RSA)
+
+ | Algoritmo asimétrico utilizado para firmas digitales o establecimiento de claves
+
+ | Módulo de 3072 bits
+
+Para cumplir los requisitos de CNSA, WPA3-Enterprise modo de 192 bits exige el uso de EAP-TLS con estos conjuntos de cifrado restringidos:
+
+- 
+`TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384`
+
+- ECDHE y ECDSA con la curva P-384 de módulo primo de 384 bits
+
+- 
+`TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384` / `TLS_DHE_RSA_AES_256_GCM_SHA384`
+
+- 
+ECDHE con la curva de módulo primo de 384 bits P-384
+
+- 
+RSA >= módulo de 3072 bits
+
+Note
+
+P-384 también se conoce como `secp384r1` o `nistp384`. No se permiten otras curvas elípticas, como P-521.
+
+SHA-384 está en la familia SHA-2 de funciones hash. No se permiten otros algoritmos y variantes, como SHA-512 o SHA3-384.
+
+Windows solo admite los conjuntos de cifrado `TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384` y `TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384` para el modo de 192 bits de WPA3-Enterprise. No se admite el conjunto de cifrado `TLS_DHE_RSA_AES_256_GCM_SHA384`.
+
+TLS 1.3 usa nuevos conjuntos TLS simplificados, de los cuales solo `TLS_AES_256_GCM_SHA384` es compatible con el modo de 192 bits de WPA3-Enterprise. Como TLS 1.3 requiere (EC)DHE y permite certificados ECDSA o RSA, junto con el hash AES-256 AEAD y SHA384, `TLS_AES_256_GCM_SHA384` es equivalente a `TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384` y `TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384`. Sin embargo, RFC 8446 requiere que las aplicaciones compatibles con TLS 1.3 admitan P-256, que está prohibida por CNSA. Por lo tanto, el modo de 192 bits de WPA3-Enterprise no puede ser totalmente compatible con TLS 1.3. Sin embargo, no hay problemas de interoperabilidad conocidos con TLS 1.3 y el modo de 192 bits de WPA3-Enterprise.
+
+Para configurar una red para el modo de 192 bits de WPA3-Enterprise, Windows requiere que EAP-TLS se use con un certificado que cumpla los requisitos descritos anteriormente.
+
+## Consulte también
+
+- 
+
+ Administrar la configuración de nuevas directivas de red inalámbrica (IEEE 802.11)
+
+- 
+
+ Administración de la nueva configuración de directivas de red cableada (IEEE 802.3)
+
+- 
+
+ Configuración de seguridad avanzada de las directivas de red cableada e inalámbrica
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

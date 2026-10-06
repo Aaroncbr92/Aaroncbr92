@@ -1,0 +1,599 @@
+T568A vs T568B Wiring & RJ45 Color Code Chart | Fluke Networks
+
+ Skip to main content
+ 跳到主目录
+
+ Other Fluke companies
+
+ OTHER FLUKE COMPANIES
+
+ Fluke
+
+ Fluke Biomedical
+
+ Fluke Calibration
+
+ Fluke Process Instruments
+
+ Accelix
+
+ Amprobe
+
+ Beha-Amprobe
+
+ Comark
+
+ Landauer
+
+ Pruftechnik
+
+ RaySafe
+
+ Register
+
+ Sign in
+
+ Register
+
+ Sign in
+
+ Register
+
+ Sign in
+
+ Register
+
+ Sign in
+
+ Register
+
+ Sign in
+
+ Register
+
+ Sign in
+
+ Register
+
+ Sign in
+
+ Get Quote
+ Parle à un spécialiste
+
+ Sprich mit einem Spezialisten
+
+ Habla con un especialista
+
+ 見積り希望
+
+ 견적 받기
+
+ Obter cotação
+
+ 询价
+
+ Toggle menu
+ 切换导航
+
+ Change Country / Language
+
+ Americas
+
+ Europe
+
+ Asia-Pacific
+
+ Middle East & Africa
+
+ Russia
+
+ United States
+
+ English
+
+ Canada
+
+ English
+
+ French
+
+ Latin America
+
+ English
+
+ Spanish
+
+ Portuguese
+
+ Europe
+
+ English
+
+ French
+
+ German
+
+ Spanish
+
+ Portuguese
+
+ SE Asia
+
+ English
+
+ Oceania
+
+ English
+
+ India
+
+ English
+
+ China
+
+ Chinese
+
+ Korea
+
+ Korean
+
+ Japan
+
+ Japanese
+
+ Middle East & Africa
+
+ English
+
+ French
+
+ Russia
+
+ Russian
+
+ Products
+
+ VERSIV
+
+ INDUSTRIAL ETHERNET
+
+ LINKWARE LIVE
+
+ Cabling Certification
+
+ Versiv Cabling Certification
+
+ Copper Certification
+
+ Fiber Certification
+
+ Installation and Test
+
+ Cable and Network Testing
+
+ Fiber Inspection and Cleaning
+
+ Fiber Optic Power Meters and Fault Locators
+
+ Network Cable Testers
+
+ Punch Down Tools and Termination Tools
+
+ Telecom Test
+
+ Telephone Line Test Sets
+
+ Fault Locators and Tone Generators
+
+ Termination Tools
+
+Can’t find it?
+
+ View all Products >
+
+ Support
+
+ Fluke Premium Care – Gold
+
+ Downloads & Updates
+
+ Knowledge Base
+
+ Manuals
+
+ Whitepapers
+
+ Application Notes
+
+ Contact Us
+
+ Product registration
+
+ Solutions
+
+ Roles
+
+ Architects, Consultants and Designers
+
+ Contractors and Installers
+
+ Controls System Engineers
+
+ Network Engineers
+
+ See More >
+
+ Fundamentals
+
+ Cable Installation Tools
+
+ Network Cable Testers
+
+ Fiber Optic Testers
+
+ Cabling Certification
+
+ OTDR - Optical Time Domain Reflectometer
+
+ Category 8 Cable Testing
+
+ Case Studies
+
+ See More >
+
+ Community
+
+ News
+
+ Blog
+
+ Social Media
+
+ Training & Events
+
+ Certified Cabling Technician Training
+
+ Online Training Videos
+
+ Webinars
+
+ Where To Buy
+
+ Find a Reseller
+
+ Call Us
+
+ Register
+
+ Sign in
+
+ Register
+
+ Sign in
+
+ Register
+
+ Sign in
+
+ Register
+
+ Sign in
+
+ Register
+
+ Sign in
+
+ Register
+
+ Sign in
+
+ Register
+
+ Sign in
+
+ Get Quote
+ Parle à un spécialiste
+
+ Sprich mit einem Spezialisten
+
+ Habla con un especialista
+
+ 見積り希望
+
+ 견적 받기
+
+ Obter cotação
+
+ 询价
+
+ Products
+
+ VERSIV
+
+ INDUSTRIAL ETHERNET
+
+ LINKWARE LIVE
+
+ Cabling Certification
+
+ Versiv Cabling Certification
+
+ Copper Certification
+
+ Fiber Certification
+
+ Installation and Test
+
+ Cable and Network Testing
+
+ Fiber Inspection and Cleaning
+
+ Fiber Optic Power Meters and Fault Locators
+
+ Network Cable Testers
+
+ Punch Down Tools and Termination Tools
+
+ Telecom Test
+
+ Telephone Line Test Sets
+
+ Fault Locators and Tone Generators
+
+ Termination Tools
+
+Can’t find it?
+
+ View all Products >
+
+ Support
+
+ Fluke Premium Care – Gold
+
+ Downloads & Updates
+
+ Knowledge Base
+
+ Manuals
+
+ Whitepapers
+
+ Application Notes
+
+ Contact Us
+
+ Product registration
+
+ Solutions
+
+ Roles
+
+ Architects, Consultants and Designers
+
+ Contractors and Installers
+
+ Controls System Engineers
+
+ Network Engineers
+
+ See More >
+
+ Fundamentals
+
+ Cable Installation Tools
+
+ Network Cable Testers
+
+ Fiber Optic Testers
+
+ Cabling Certification
+
+ OTDR - Optical Time Domain Reflectometer
+
+ Category 8 Cable Testing
+
+ Case Studies
+
+ See More >
+
+ Community
+
+ News
+
+ Blog
+
+ Social Media
+
+ Training & Events
+
+ Certified Cabling Technician Training
+
+ Online Training Videos
+
+ Webinars
+
+ Where To Buy
+
+ Find a Reseller
+
+ Call Us
+
+ Other Fluke companies
+
+ Fluke
+
+ Fluke Biomedical
+
+ Fluke Calibration
+
+ Fluke Process Instruments
+
+ Accelix
+
+ Amprobe
+
+ Beha-Amprobe
+
+ Comark
+
+ Landauer
+
+ Pruftechnik
+
+ RaySafe
+
+Home
+
+Support
+
+Knowledge Base
+
+Differences Between Wiring Codes T568A vs T568B
+
+Differences Between Wiring Codes T568A vs T568B
+
+ Application or Standards Articles (Copper)
+
+ 2014-01-29
+
+If you work with network cables, you may have heard of T568A and T568B. These are two wiring standards used for eight-position RJ45 modular plugs. The difference between T568A and T568B is that the orange and green pairs are interchanged. But what does that really mean?
+
+In this article, we will explain T568A vs T568B in depth. You will see the differences between these standards, their application scenarios, and how to choose between them.
+
+Understanding T568A and T568B
+
+T568A and T568B are the color codes used for wiring eight-position RJ45 modular plugs. Both are allowed under the ANSI/TIA-568.2-D wiring standards. (For additional color codes, see this page.)
+
+The T568A wiring pattern is recognized as the preferred wiring pattern for this standard, because it provides backward compatibility to both one-pair and two-pair USOC wiring schemes. The U.S. government requires the use of the preferred T568A standard for wiring done under federal contracts.
+
+The T568B standard matches the older AT&T 258A color code and has been the more widely used wiring scheme. It is also permitted by the ANSI/TIA-568.2-D standard, but it provides only single-pair backward compatibility to the USOC wiring scheme.
+
+Differences between T568A and T568B
+
+The only difference between T568A and T568B is the order in which the wires connect to the RJ45 jack. In T568A, the green wires connects to pins 1,2 and the orange wire connects to pins 3,6. In T568B, the orange wires connects to pins 1,2 and the green wires connects to pins 3,6. All the other wires connect to the same pins in both standards.
+
+The following diagrams look at the jacks from the front. The wiring at the rear of the jack varies by manufacturer and may not be in the same sequence as the front. However, they comply with the color codes by routing the connections at the back to the proper sequence at the front of the jack. That is usually done by a small printed-circuit board in the jack assembly.
+
+Are T568A and T568B Interchangeable?
+
+From a technical standpoint, there is no difference between T568A and T568B. Both standards have the same transmission performance and can support the same Ethernet protocols, including Gigabit Ethernet.
+
+While the choice of one standard or the other will not affect the speed or reliability of your network, it’s important to note that T568A and T568B are not interchangeable. Maintaining consistency is key when wiring a new network or expanding an existing one. Wiring should match, color to color and stripe to stripe; if it doesn’t, signals will be compromised. Mixing T568A and T568B can cause confusion and make troubleshooting more difficult.
+
+Application Scenarios for T568A vs T568B
+
+T568A and T568B can be used in a variety of applications, including home, commercial, and industrial. In home networks, either standard can be used, but T568B is more common because it matches the color code used by most network equipment manufacturers. In commercial and industrial settings, T568A is often preferred because it provides backward compatibility to both one-pair and two-pair USOC wiring schemes.
+
+How to Choose between T568A and T568B
+
+When choosing between T568A and T568B, consider the following:
+
+Backward Compatibility: If you need backward compatibility to both one-pair and two-pair USOC wiring schemes, choose T568A. If you only need single-pair backward compatibility, T568B is sufficient.
+
+Consistency: If you are wiring a new network, choose either T568A or T568B and stick with it throughout your network. Mixing the two can cause confusion and make troubleshooting more difficult.
+
+Manufacturer Preferences: If you are using network equipment from a particular manufacturer, check if they prefer T568A or T568B.
+
+In conclusion, the difference between T568A and T568B is the order in which the wires are connected to the RJ45 jack. Both standards are allowed under the ANSI/TIA-568.2-D wiring standards, have the same transmission performance, and can support the same Ethernet protocols. The choice between T568A and T568B depends on your specific application scenario, backward compatibility needs, consistency, and manufacturer preferences.
+
+ Share:
+
+ Back to Knowledge Base
+
+ Products
+
+ Versiv
+
+ LinkWare Live
+
+ Cabling Certification
+
+ Installation and Test
+
+ Telecom Test
+
+ Complete Product List
+
+ Promotions
+
+ Support
+
+ Gold Support Plan
+
+ Downloads and Updates
+
+ Knowledge Base
+
+ Manuals
+
+ Whitepapers
+
+ Application Notes
+
+ Warranty Information
+
+ Contact Us
+
+ Product Registration
+
+ Solutions
+
+ Solutions by Role
+
+ Case Studies
+
+ Fundamentals
+
+ Community
+
+ News
+
+ Blog
+
+ Social Media
+
+ Training & Events
+
+ Certified Cabling Technician Training
+
+ Online Training Videos
+
+ Webinars
+
+ Workshops
+
+ Trade Shows
+
+ Where To Buy
+
+ Find a Reseller
+
+ Contact a Sales Representative
+
+ About
+
+ Who We Are
+
+ Careers
+
+ Supplier Handbook
+
+ Integrity and Compliance Program
+
+ Privacy Policy
+
+ Terms of Use
+
+ Terms and Conditions of Sale
+
+ Sitemap
+
+©2006-2021 Fluke Corporation。保留所有权利。
+
+ RM2011, 20/F, SCITECH Tower, 22 Jianguomenwai Avenue, Chaoyang District, Beijing, China
+
+ 地址：北京市朝阳区建国门外大街22号赛特大厦20层2011室
+
+ 联系电话：400-8103435
+
+ 沪ICP备11037028号-15

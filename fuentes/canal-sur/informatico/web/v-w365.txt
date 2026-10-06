@@ -1,0 +1,103 @@
+URL: https://learn.microsoft.com/es-es/windows-365/overview
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# ¿Qué es Windows 365?
+
+## 
+
+Windows 365 es un software como servicio (SaaS) basado en la nube que crea automáticamente un nuevo tipo de máquina virtual Windows (PC en la nube) para los usuarios finales. El equipo en la nube permite a los usuarios acceder a Windows 10 o 11 desde varios dispositivos (como Windows, iOS y Android). Windows 365 ofrece varias soluciones para admitir organizaciones de todos los tamaños con varias opciones de implementación adaptadas a roles y necesidades específicos. Windows 365 proporciona las ventajas de productividad, seguridad y colaboración de Microsoft 365.
+
+Windows 365 está disponible en varias ediciones:
+
+- 
+ Windows 365 Business simplifica la implementación y se realiza específicamente para su uso en empresas más pequeñas (hasta 300 puestos) que desean equipos en la nube listos para usar con opciones de administración sencillas. Para obtener más información, vea Introducción a Windows 365 Business y PC en la nube.
+
+- 
+ Windows 365 Enterprise es para empresas más grandes que desean puestos ilimitados para crear instancias de PC en la nube. Incluye opciones para crear equipos en la nube personalizados basados en imágenes de dispositivo que cree, más opciones de administración e integración completa con Microsoft Intune. Para obtener más información, consulte ¿Qué es Windows 365 Enterprise?
+
+- 
+ Windows 365 Government es un servicio que abarca una nube regulada de la comunidad del gobierno de EE. UU. (GCC) y una nube orientada al público. Para obtener más información, consulte ¿Qué es Windows 365 Government?
+
+- 
+ Windows 365 Flex ayuda a las organizaciones a ahorrar costos proporcionando una sola licencia para aprovisionar hasta tres equipos en la nube para su uso no simultáneo. Están diseñados para los casos en los que el usuario necesita acceso al equipo en la nube durante un tiempo limitado al día. Para obtener más información, consulte ¿Qué es Windows 365 Flex?
+
+- 
+ Windows 365 para agentes (versión preliminar) es la plataforma de proceso para agentes que usan equipos con inteligencia artificial. Estos equipos en la nube son entornos de espacio aislado que se crean para las tareas que se solicitan al usuario. Para obtener más información, consulte ¿Qué es Windows 365 para agentes?
+
+Para obtener información sobre las diferencias entre las versiones Business y Enterprise, consulte Comparar Windows 365 Business y Enterprise.
+
+Windows 365 no está disponible actualmente para individuos.
+
+## Windows 365 Link
+
+Ahora disponible en determinados mercados, Microsoft también ofrece Windows 365 Link, el primer dispositivo de PC en la nube creado específicamente para conectar a los usuarios directamente a Windows 365. Para obtener más información, consulte ¿Qué es Windows 365 Link?
+
+## ¿Qué es un PC en la nube?
+
+Un equipo en la nube es una máquina virtual de alta disponibilidad, optimizada y escalable que proporciona a los usuarios finales una experiencia de escritorio de Windows enriquecida. El servicio Windows 365 lo hospeda y puede acceder a él desde cualquier lugar, en cualquier dispositivo.
+
+En Windows 365 Enterprise, Business y Government, los usuarios finales tienen una relación 1:1 con su PC en la nube. Es su propio equipo personal en la nube. Con Windows 365 Flex, varios usuarios pueden acceder de forma no recurrente a un único equipo en la nube.
+
+Los usuarios pueden conectarse a su PC en la nube desde windows365.microsoft.com. Para dispositivos Windows, Mac, iOS y Android, está disponible el acceso basado en aplicaciones y exploradores. Los usuarios basados en escritorio también pueden usar Windows 365 Link para conectarse de forma segura a la PC en la nube Windows 365 en segundos.
+
+### Creación de un PC en la nube
+
+El servicio Windows 365 crea automáticamente equipos en la nube al asignar una licencia de Windows 365 a un usuario final en un grupo de usuarios Microsoft Entra adecuado.
+
+Los administradores no crean PC en la nube de forma manual.
+
+## Licencias y cómo comprar
+
+Antes de que los usuarios puedan acceder a un equipo en la nube, debe comprar licencias de Windows 365. Los clientes pueden comprar Windows 365 como una licencia independiente por usuario por una cuota mensual fija para acceder a los equipos en la nube y usarlos. Se pueden aplicar costos adicionales en función del uso de la red. Una vez adquiridas las licencias, puede crear directivas de aprovisionamiento para crear automáticamente equipos en la nube para los usuarios.
+
+Para obtener más información, consulte Windows 365 Planes y precios de licencias y Windows 365.
+
+### Licencias para identidades externas
+
+Si usa Windows 365 con identidades externas, puede haber consideraciones especiales sobre cómo conceder licencias a otros productos y servicios de Microsoft para esas identidades externas.
+
+Por lo general, las licencias asignadas a un colaborador externo en su propio inquilino doméstico no confieren derechos a Windows 365 u otros productos dentro del inquilino. Por lo tanto, por lo general, se recomienda comprar el mismo tipo de licencia que se compra para los usuarios internos y asignarla a la identidad del colaborador externo en el inquilino. Por ejemplo, si va a conceder licencias Aplicaciones Microsoft 365 junto con los equipos en la nube de Windows 365 y los colaboradores externos necesitan los mismos derechos, compre una licencia de Aplicaciones Microsoft 365 y asígnela al colaborador externo del inquilino.
+
+De forma similar, las licencias asignadas a un usuario en un inquilino de una organización multiinquilino generalmente no confieren derechos a Windows 365 u otros productos dentro de otro inquilino de esa organización. Por lo tanto, por lo general, se recomienda comprar una licencia para cada usuario en cada inquilino en el que se requieren derechos de acceso. Una excepción a esto es Entra identificador; solo se requiere una licencia Microsoft Entra ID P1 por empleado por organización multiinquilino.
+
+## Facturación
+
+Los equipos en la nube para uso humano se facturan en un modelo de costo por usuario y mes. Este modelo significa que la organización no tiene que administrar la variabilidad de los costos de proceso y almacenamiento de un modelo de escritorio hospedado tradicional. Los equipos en la nube para el uso del agente se facturan en el modelo de pago por uso. Este modelo significa que su organización solo paga por el proceso necesario para las soluciones del agente.
+
+## Microsoft 365 Lighthouse
+
+Los proveedores de servidores administrados (MSP) pueden administrar PC en la nube en Microsoft 365 Lighthouse para sus inquilinos de cliente. Para obtener más información, consulte el tema sobre información general de la página de Windows 365 (PC en la nube).
+
+## Siguientes pasos
+
+ Obtenga más información sobre Windows 365 Business.
+
+ Obtenga más información sobre Windows 365 Enterprise.
+
+ Lea la descripción del servicio de Windows 365.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-11-19

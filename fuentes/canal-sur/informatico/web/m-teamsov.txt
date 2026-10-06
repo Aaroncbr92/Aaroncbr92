@@ -1,0 +1,124 @@
+URL: https://learn.microsoft.com/es-es/microsoftteams/teams-overview
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Introducción a Microsoft Teams para administradores
+
+- Se aplica a: Microsoft Teams
+
+## 
+
+Si es administrador de Microsoft Teams en su organización, ahora está en el lugar adecuado. Cuando esté listo para comenzar a usar Teams, empiece con Información general sobre la implementación de Teams y Configure el uso compartido seguro de archivos y la colaboración con Microsoft Teams.
+
+Si está buscando ayuda para el usuario final en Teams, seleccione Ayuda en el lado izquierdo de la aplicación o vaya a Ayuda de Microsoft Teams & aprendizaje. Para obtener entrenamiento, vaya al aprendizaje de Microsoft Teams.
+
+Importante
+
+Para obtener más información sobre la disponibilidad de características y las licencias de Teams, consulte Opciones de licencia complementaria de Teams.
+
+## Arquitectura de Teams
+
+Teams se basa en los grupos de Microsoft 365, Microsoft Graph, y la misma seguridad, cumplimiento y capacidad de gestión de nivel empresarial que el resto de Microsoft 365. Teams usa identidades almacenadas en Microsoft Entra ID.
+
+Cuando se crea un equipo, esto es lo que se crea:
+
+- Un nuevo grupo de Microsoft 365.
+
+- Un sitio de SharePoint y una biblioteca de documentos para almacenar los archivos del equipo.
+
+- Un buzón y un calendario compartidos de Exchange Online.
+
+- Un bloc de notas de OneNote.
+
+- Encaja bien con otras aplicaciones de Microsoft 365, como Planner y Power BI.
+
+Cuando se crea un equipo desde un grupo existente, la pertenencia del grupo, el sitio, el buzón y el bloc de notas aparecen en Teams.
+
+Para personalizar y ampliar Teams, agregue aplicaciones de terceros mediante tareas de administración de aplicaciones. Con Teams, puede incluir a personas de fuera de la organización agregándolas como invitados o usuarios externos, en función de lo que necesite. Teams ofrece una sólida plataforma de desarrollo para que pueda crear el hub para el trabajo en equipo que necesita en su organización.
+
+Sugerencia
+
+Para obtener una visión más detallada de la arquitectura de Teams, vea los vídeos de la Academia de la plataforma de Teams.
+
+## Administración de Teams
+
+Como administrador, puede administrar Teams a través del Centro de administración de Teams.
+
+Para obtener información sobre cómo administrar Teams en el Centro de administración de Teams, consulte:
+
+- 
+ Usar roles de administrador para administrar Teams
+
+- 
+ Administrar y supervisar Teams como administrador de TI
+
+- 
+ Administrar la configuración de Teams
+
+- 
+ Administrar equipos en el Centro de administración de Teams
+
+Para estar al día de las próximas novedades de Teams y de otros productos y servicios de Microsoft 365 en su organización, consulte el Centro de mensajes y el plan de desarrollo de Teams. Recibe anuncios de las características nuevas y actualizadas, los cambios planificados y los problemas, de modo que siempre está bien informado y preparado.
+
+Como alternativa, puede mantenerse al día con las últimas características y actualizaciones de Teams en el Centro de administración de Teams y el cliente de Teams a través de las novedades del Centro de administración de Teams. Para acceder a él, seleccione Novedades (el icono del rayo) en la esquina superior derecha.
+
+## Trabajo en equipo
+
+Cada equipo es diferente; no existe un enfoque universal para la colaboración. Cuando decida qué aplicaciones y servicios usar, piense en el trabajo que realiza su organización y los tipos de conversaciones que deben tener los equipos:
+
+- 
+
+ Teams, en cuanto al hub de trabajo en equipo, es donde los usuarios, incluidas las personas fuera de su organización, pueden conectarse y colaborar activamente en tiempo real para ser más productivos. Tenga una conversación directamente en el lugar donde se realiza el trabajo, ya sea colaborando en la creación de un documento, con una reunión o trabajando juntos en otras aplicaciones y servicios. Teams es el lugar en el que se pueden tener chats informales, realizar iteraciones rápidas en un proyecto, trabajar con los archivos del equipo y colaborar en entregas compartidas.
+
+- 
+
+ Outlook sirve para colaborar en el entorno familiar del correo electrónico y de un modo más formal y estructurado, o cuando se requieren comunicaciones directas y con un destino claro.
+
+- 
+
+ SharePoint se utiliza para sitios, portales, servicios de contenido inteligente, automatización de procesos de negocio y Enterprise Search. SharePoint mantiene el contenido en el centro del trabajo en equipo y hace que todos los tipos de contenido se puedan compartir fácilmente entre los equipos. Su fuerte integración con Outlook, Viva Engage y Teams permite una perfecta colaboración de contenido entre todas las experiencias de las conversaciones.
+
+- 
+
+ OneDrive para almacenar archivos y compartirlos con las personas a las que invite el usuario. El contenido que un usuario guarda en OneDrive es privado hasta que lo comparte con otras personas. Por lo tanto, es la mejor opción para almacenar documentos personales y borradores que no tenga previsto compartir o que aún no estén listos para compartirlos.
+
+- 
+
+ Viva Engage conecta a las personas de toda la organización. Impulse iniciativas para toda la empresa, comparta procedimientos recomendados y cree comunidades en torno a temas comunes de interés o áreas de práctica. Colabore con ideas para fomentar debates abiertos con la gente de toda la compañía.
+
+- 
+
+ Las aplicaciones de Office son todas las herramientas familiares que la gente conoce y usa con regularidad, como Word, Excel, PowerPoint y OneNote.
+
+## Artículos relacionados
+
+- 
+ Solución de problemas de Teams
+
+- 
+ Novedades en Teams
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-08-19

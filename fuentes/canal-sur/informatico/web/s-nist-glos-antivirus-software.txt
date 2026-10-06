@@ -1,0 +1,30 @@
+URL: https://csrc.nist.gov/glossary/term/antivirus_software
+Leído: 2026-10-05
+
+Definitions:
+A program that monitors a computer or network to identify all major types of malware and prevent or contain malware incidents.
+Sources:
+NIST SP 800-83 Rev. 1
+About
+See the identified Source document to understand each term-definition pair in its proper context.
+Send inquiries about terminology to the Source's authors; NIST publications will usually include a contact email for that Source.
+For other inquiries, such as comments about the Glossary's presentation and functionality, use
+this link
+.
+See the
+Glossary homepage
+for more guidance.
+HEADQUARTERS
+100 Bureau Drive
+Gaithersburg, MD 20899
+X
+(link is external)
+facebook
+(link is external)
+linkedin
+(link is external)
+instagram
+(link is external)
+youtube
+(link is external)
+<a href="https://www.nist.gov/news-events

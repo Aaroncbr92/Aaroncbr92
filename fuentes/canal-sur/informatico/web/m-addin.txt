@@ -1,0 +1,214 @@
+URL: https://learn.microsoft.com/es-es/microsoftteams/teams-add-in-for-outlook
+Leído: 2026-10-05
+
+# Schedule a Microsoft Teams meeting from Outlook
+
+ Applies To
+Teams Microsoft Teams 
+
+Get help with Copilot
+
+ How do I schedule a Teams meeting?
+
+ What if I can't add a dial-in number?
+
+ Provide a quick guide to schedule a Teams meeting.
+
+Depending on your version of Outlook, Microsoft Teams is either natively integrated or available as an add-in, so that you can create Teams meetings directly in Outlook. You can also view, accept, and join meetings in either app.
+
+Note
+
+- The Outlook add-in doesn't support creating meetings with a personal account.
+
+- Scheduling Teams meetings in Outlook is only available for M365 Business Exchange accounts. For the best experience, configure M365 Business Exchange accounts in Outlook and use in conjunction with the Microsoft Teams app.
+
+- POP/IMAP accounts, like @gmail.com, @yahoo.com, @icloud.com, and similar providers, aren't supported.
+
+- Microsoft Teams is integrated into the new Outlook for Windows. You don't need to install a separate add-in to schedule meetings in Outlook. To learn more, see Schedule a meeting or event in Outlook.
+
+- 
+Desktop & web
+
+- 
+Mobile
+
+## In this article
+
+Schedule a Teams meeting
+
+Remove Teams from a meeting
+
+Make all meetings Teams meetings
+
+Troubleshooting
+
+## Schedule a Teams meeting
+
+### New Outlook (desktop & web)
+
+To schedule a Teams meeting on the Outlook desktop app:
+
+- Open Outlook for desktop or web.
+
+- Select Calendar 
+.
+
+- Select New event 
+
+.
+
+- Next to Title, turn on the Teams meeting toggle.
+
+- Add meeting details and invite attendees.
+
+- Select Send 
+
+.
+
+Note
+
+The Teams meeting join details are added to the meeting invite automatically after selecting Send. Selecting Save as draft creates a draft on your calendar without the Teams meeting join details.
+
+### Classic Outlook (desktop)
+
+- 
+Open the Outlook desktop app.
+
+- 
+In the Home tab, select the dropdown arrow next to New Email.
+
+- 
+Select Meeting.
+
+- 
+In the Meeting tab, select the dropdown arrow next to Teams Meeting.
+
+- 
+Select Schedule meeting.
+
+- Teams meeting join info appears below the details.
+
+- 
+Add meeting details and invite attendees.
+
+- Select Set up 
+ to change meeting options. Some meeting options may be optimized based on your meeting details, such as number of attendees. In the Set up your Teams meeting pane, select All options
+ to view all meeting options.
+
+- 
+Select Send 
+
+.
+
+## Remove Teams from a meeting
+
+You can remove Teams from a meeting while you're creating it, but not after you send the invitation.
+
+### New Outlook (desktop & web)
+
+- Turn off the Teams meeting toggle in the event details.
+
+### Classic Outlook (desktop)
+
+- At the top of the new meeting form, select More commands
+
+ > Don't Host Online.
+
+## Make all meetings Teams meetings
+
+Adjust your settings in Outlook so that all the meetings you schedule on Outlook for web and mobile are held online with Teams.
+
+### New Outlook (desktop & web)
+
+- Open Outlook for desktop or web.
+
+- Select Calendar 
+.
+
+- Select Calendar settings
+
+.
+
+- In Calendar settings, select Events and invitations.
+
+- In Events you create, select Add online meeting to all meetings. Under Choose a meeting provider, make sure Microsoft Teams is selected.
+
+- If you don't see Microsoft Teams, make sure the correct account is selected from the These settings are applied at the account level: dropdown menu.
+
+- Select Save.
+
+### Classic Outlook (desktop)
+
+- Open Outlook for desktop.
+
+- At the top of the Outlook screen, select File > Options.
+
+- On the Outlook Options page, select Calendar on the left.
+
+- Under Calendar options, select Add online meeting to all meetings.
+
+- Select Meeting Providers... and set Microsoft Teams to your default provider.
+
+- Select OK.
+
+### Troubleshooting
+
+#### The people selection menus in Meeting options don't show invitees I've added to an occurrence of a meeting series.
+
+In this case, you need to invite people to the meeting series, not to the meeting.
+
+#### The web view of Meeting options doesn't show all the people I've invited.
+
+Once you add invitees to the meeting in Outlook, you must select Send Update to display the additional invitees in the web view of Meeting options.
+
+## In this article
+
+Schedule a Teams meeting
+
+Remove Teams from a meeting
+
+Make all meetings Teams meetings
+
+## Schedule a Teams meeting
+
+- Open the Outlook mobile app.
+
+- Tap Calendar 
+
+. 
+
+- Tap New Event. 
+
+- Turn on the Teams Meeting toggle.
+
+- Enter meeting details and invite attendees.
+
+- Tap Save
+
+.
+
+## Remove Teams from a meeting
+
+You can remove Teams from a meeting while you're creating it, but not after you send the invitation. In the meeting details, turn off the Teams Meeting toggle.
+
+## Make all meetings Teams meetings
+
+You can turn on a Calendar option so that all the meetings you schedule from Outlook—including Outlook on the desktop and web—are held online with Teams.
+
+Note
+
+Depending on the release update schedule for your organization, you may not have access to this feature right now.
+
+- In Outlook, tap your profile picture or icon in the top left corner.
+
+- Tap Settings
+
+.
+
+- Tap Calendar > Online Meetings.
+
+- Find the account you want to set all meetings as Teams meetings in.
+
+- Turn on the Make every meeting online toggle.
+
+- In Meeting Provider, make sure Microsoft Teams is selected.

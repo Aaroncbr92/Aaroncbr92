@@ -1,0 +1,192 @@
+URL: https://support.microsoft.com/es-es/windows/deployment/install-upgrade/reinstall-windows-with-the-installation-media
+Leído: 2026-10-05
+
+# Reinstalar Windows con el soporte de instalación
+
+ Se aplica a
+Windows 11 Windows 10 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo me aseguro de que Windows esté activado?
+
+ ¿Cómo regreso a una versión anterior de Windows?
+
+ ¿Cómo vinculo mi licencia digital a mi cuenta?
+
+Los medios de instalación para Windows son una herramienta versátil que sirve para múltiples propósitos, incluidas las instalaciones locales para recuperación y nuevas instalaciones. Este medio, que normalmente se crea en una unidad USB o en un DVD, contiene todos los archivos necesarios para instalar o reinstalar Windows en el dispositivo. Es especialmente útil en situaciones en las que el sistema se encuentra con problemas importantes, como daños en el software o errores de hardware, que impiden que arranque o funcione correctamente.
+
+Con fines de recuperación, el medio de instalación le permite realizar una instalación local, que básicamente reinstala Windows sin afectar a los archivos personales, la configuración ni las aplicaciones instaladas. Este método es ideal para resolver problemas del sistema a la vez que conserva los datos y las configuraciones. Arrancando desde el medio de instalación y seleccionando las opciones de recuperación adecuadas, puede restaurar el sistema a un estado estable sin necesidad de un borrado completo.
+
+En los casos en que se requiera un comienzo de cero, los medios de instalación se pueden usar para una nueva instalación de Windows. Este proceso implica borrar completamente los datos existentes en el dispositivo e instalar una versión limpia de Windows. Es una opción adecuada cuando desea eliminar todos los datos, configuraciones y aplicaciones anteriores, o al configurar un nuevo dispositivo.
+
+## Alternativas a la reinstalación con medios
+
+Antes de reinstalar Windows con el soporte de instalación, consulte el artículo Opciones de recuperación en Windows, que proporciona una descripción general de las distintas soluciones para recuperar Windows.
+
+## Antes de iniciar la reinstalación
+
+## Comprobar el espacio en disco
+
+Si un dispositivo no funciona según lo esperado o Windows tiene problemas, puede deberse a que hay poco espacio en disco. Antes de reinstalar Windows, intenta liberar espacio en disco para ver si se resuelven los problemas. Para obtener más información, consulta Liberar espacio en unidades de disco en Windows.
+
+## Realizar una copia de seguridad de los datos
+
+Si es necesario guardar datos y archivos personales antes de reinstalar Windows, haz una copia de seguridad de ellos antes de realizar la reinstalación. Se puede hacer una copia de seguridad de los datos personales y los archivos en un disco duro externo, en una unidad flash USB o en una ubicación en la nube, como OneDrive.
+
+## Asegúrate de que Windows esté activado
+
+Windows debe activarse después de reinstalarlo. Por lo general, la activación se realiza automáticamente después de conectarse. Para obtener más información, consulta Activar después de reinstalar Windows.
+
+## Vincule la licencia digital a su cuenta de Microsoft
+
+Para poder reactivar Windows después de una reinstalación de Windows, su cuenta de Microsoft debe estar vinculada a la licencia digital de Windows en el dispositivo. Para obtener más información, consulte Vincular la licencia digital de Windows a su cuenta de Microsoft.
+
+## Es necesario volver a activar Windows si se realiza un cambio de hardware significativo en el dispositivo
+
+Si se vuelve a instalar Windows después de realizar un cambio de hardware importante en el dispositivo (como reemplazar la placa base), es posible que ya no esté activado. El Solucionador de problemas de activación se puede usar para reactivar Windows. Para obtener más información, consulte Uso del Solucionador de problemas de activación.
+
+## La edición de Windows que se va a reinstalar debe coincidir con la licencia
+
+Al reinstalar Windows, seleccione la edición de Windows que coincida con su licencia digital. Por ejemplo, si la edición actual de Windows es Home, Windows Home debe instalarse de nuevo.
+
+Para comprobar qué edición de Windows se está ejecutando actualmente, siga estos pasos:
+
+- 
+Haga clic con el botón derecho en el menú Inicio y seleccione Configuración>Sistema>Acerca de
+
+O bien
+
+Seleccione el siguiente acceso directo Acerca de:
+
+ Acerca de
+
+- 
+En la ventana Acerca del sistema > que se abre, la edición de Windows se muestra en la sección Especificaciones de Windows junto a Edición
+
+## Pasos para reinstalar Windows con medios
+
+Puede reinstalar Windows cuando haya iniciado sesión en Windows (actualización local) o desde el Entorno de recuperación de Windows (instalación limpia).
+
+Seleccione la opción que mejor se adapte a sus necesidades:
+
+### Actualización local
+
+Nota
+
+Si sospechas que el dispositivo tiene algún virus, asegúrate de que el software antivirus esté actualizado.
+
+¿Tienes problemas para reproducir el vídeo? 
+ Míralo en YouTube.
+
+- 
+
+ Crear los medios de instalación para Windows
+
+- 
+Conecta al equipo el medio de instalación que hayas creado
+
+- 
+
+ Abre el Explorador de archivos y selecciona la unidad con el medio de instalación
+
+- 
+En el directorio raíz de la unidad, abre el archivo `setup.exe`y, a continuación, selecciona Sí cuando se te pregunte si quieres permitir que la aplicación realice cambios en el dispositivo
+
+- 
+Selecciona Cambiar qué mantener
+
+- 
+Selecciona una de las siguientes opciones y, a continuación, Siguiente:
+
+- 
+ Mantener los archivos personales y las aplicaciones : esto conservará tus datos personales, las aplicaciones y la configuración
+
+- 
+ Mantener solo los archivos personales : esto conservará los datos personales y la configuración, pero se quitarán todas las aplicaciones
+
+- 
+ No mantener nada : esto quitará todos los datos personales, la configuración y las aplicaciones.
+
+- 
+Para finalizar, selecciona Instalar para empezar a reinstalar Windows en el PC
+
+El PC se reiniciará varias veces durante el proceso de reinstalación.
+
+### Instalación limpia
+
+Si el equipo no se inicia y no tienes una unidad de recuperación o un disco de reparación, puedes usar la Herramienta de creación de medios para crear medios de instalación para Windows. Esta herramienta se puede usar para descargar la versión más reciente de Windows y crear una unidad USB o DVD de arranque, que se puede usar para realizar una instalación limpia de Windows.
+
+Advertencia
+
+Una instalación limpia es una opción avanzada para ayudar a empezar de cero en un dispositivo. Microsoft recomienda seguir los pasos siguientes solo si está seguro de realizar estos cambios. Para obtener más ayuda, póngase en contacto con el servicio de soporte técnico. Una instalación limpia elimina todos los elementos siguientes:
+
+- Archivos personales
+
+- Aplicaciones
+
+- Personalizaciones del fabricante del dispositivo
+
+- Cualquier cambio realizado en la Configuración
+
+- 
+En un equipo en funcionamiento, cree el medio de instalación para Windows
+
+- 
+Conecta al equipo el medio de instalación que creaste al equipo que no funciona. Inicia el equipo con el medio de instalación
+
+Nota
+
+Consulta con el fabricante del equipo cómo iniciar el equipo con medios.
+
+- 
+La configuración de Windows 11 comienza una vez que el dispositivo se inicia desde el medio de instalación de Windows. Si no aparece la pantalla de instalación, es posible que el PC no esté configurado para arrancar desde una unidad de disco. Consulta la página web del fabricante del equipo para obtener información sobre cómo cambiar el orden de arranque del equipo e inténtalo de nuevo. En la ventana Seleccionar configuración de idioma , seleccione la configuración de idioma y localización y, a continuación, seleccione Siguiente
+
+- 
+En la ventana Seleccionar configuración de teclado , seleccione configuración de teclado y, a continuación, seleccione Siguiente.
+
+- 
+En la ventana Seleccionar opción de configuración, seleccione Instalar Windows 11, seleccione Acepto que se eliminará todo, incluidos los archivos, las aplicaciones y la configuración y, a continuación, seleccione Siguiente
+
+- 
+Si aparece la ventana de clave de producto :
+
+- 
+Seleccione No tengo una clave de producto
+
+- 
+En la ventana Seleccionar imagen que aparece, seleccione la edición de Windows instalada en el dispositivo, según se determina en la sección La edición de Windows que se va a reinstalar debe coincidir con su licencia. Una vez seleccionada la edición de Windows adecuada, selecciona Siguiente. Una vez reinstalado Windows, Windows aplica la clave de producto automáticamente en función de la clave de producto vinculada a su cuenta de Microsoft.
+
+Advertencia
+
+Si no tiene una clave de producto y la clave de producto no está vinculada a su cuenta de Microsoft, no continúe. En su lugar, cancela el programa de instalación de Windows cerrando la ventana y, a continuación, sigue las instrucciones de la sección Vincular la licencia digital a tu cuenta de Microsoft antes de reinstalar Windows.
+
+Nota
+
+Es posible que no aparezca la ventana de la clave de producto. Por ejemplo, si el programa de instalación de Windows encuentra una clave de producto almacenada en el firmware del dispositivo, se aplica automáticamente esa clave de producto y no aparecerá la ventana de la clave de producto.
+
+- 
+En la ventana Avisos aplicables y términos de licencia, seleccione el botón Aceptar
+
+- 
+En la ventana Seleccionar ubicación para instalar Windows 11:
+
+- 
+Elimine todas las particiones del Disco 0 que no aparecen como Espacio sin asignar. Las particiones se eliminan seleccionando y resaltando cada una individualmente y luego seleccionando ❌Eliminar partición
+
+Advertencia
+
+Si un dispositivo tiene más de un disco, puede haber discos adicionales en la lista, por ejemplo, Disco 1. 
+ No modifiques ni borres las particiones en ningún otro disco que no sea el disco 0.
+
+- 
+Una vez eliminadas todas las particiones del Disco 0 , solo debería quedar un elemento denominado Espacio sin asignar del Disco 0. Asegúrese de que Espacio sin asignar en disco 0 esté seleccionado y resaltado y, después, seleccione Siguiente
+
+- 
+En la ventana Listo para instalar , seleccione Instalar
+
+- 
+Se iniciará la reinstalación de Windows. El dispositivo se reinicia varias veces durante la reinstalación
+
+- 
+Cuando Windows termine de reinstalarse, pase por el Asistente para configuración de Windows y configure las opciones como desee. Asegúrese de conectarse e iniciar sesión con su cuenta de Microsoft para que la licencia digital y la clave de producto guardadas en su cuenta de Microsoft se apliquen correctamente a Windows

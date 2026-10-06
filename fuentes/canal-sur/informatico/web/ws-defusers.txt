@@ -1,0 +1,611 @@
+URL: https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/manage/understand-default-user-accounts
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Cuentas de Active Directory
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+Los sistemas operativos Windows Server se instalan con cuentas locales predeterminadas. Además, puede crear cuentas de usuario para satisfacer los requisitos de su organización.
+
+En este artículo de referencia se describen las cuentas locales predeterminadas de Windows Server que se almacenan localmente en el controlador de dominio y que se usan en Active Directory. No describe las cuentas de usuario locales predeterminadas para un miembro, un servidor independiente o un cliente de Windows. Para obtener más información, consulte Cuentas locales.
+
+## Cuentas locales predeterminadas en Active Directory
+
+Las cuentas locales predeterminadas son cuentas integradas que se crean automáticamente cuando se instala un controlador de dominio de Windows Server y se crea el dominio. Estas cuentas locales predeterminadas tienen homólogos en Active Directory. También tienen acceso a todo el dominio y son completamente independientes de las cuentas de usuario locales predeterminadas para un servidor miembro o independiente.
+
+Puede asignar derechos y permisos a cuentas locales predeterminadas en un controlador de dominio determinado y solo en ese controlador de dominio. Estas cuentas son locales para el dominio. Una vez que se instalan las cuentas locales predeterminadas, se almacenan en el contenedor de Usuarios en Usuarios y Equipos de Active Directory. Se recomienda mantener las cuentas locales predeterminadas en el contenedor de usuarios y no intentar mover estas cuentas a, por ejemplo, a una unidad organizativa (UO) diferente.
+
+Las cuentas locales predeterminadas del contenedor Usuarios incluyen: Administrador, Invitado y KRBTGT. La cuenta HelpAssistant se instala cuando se establece una sesión de Asistencia remota. En las secciones siguientes se describen las cuentas locales predeterminadas y su uso en Active Directory.
+
+Las cuentas locales predeterminadas realizan las siguientes acciones:
+
+- 
+Permita que el dominio represente, identifique y autentique la identidad del usuario que está asignado a la cuenta mediante credenciales únicas (nombre de usuario y contraseña). Se recomienda asignar cada usuario a una sola cuenta para garantizar la máxima seguridad. No se permite que varios usuarios compartan una cuenta. Una cuenta de usuario permite a un usuario iniciar sesión en equipos, redes y dominios con un identificador único que el equipo, la red o el dominio pueden autenticar.
+
+- 
+Autorizar (conceder o denegar) el acceso a los recursos. Una vez autenticadas las credenciales de un usuario, este queda autorizado a acceder a los recursos de la red y del dominio en función de los derechos que se le hayan asignado explícitamente sobre dichos recursos.
+
+- 
+Audite las acciones que se llevan a cabo en las cuentas de usuario.
+
+En Active Directory, los administradores usan cuentas locales predeterminadas para administrar servidores de dominio y miembros directamente y desde estaciones de trabajo administrativas dedicadas. Las cuentas de Active Directory proporcionan acceso a los recursos de red. Las cuentas de usuario de Active Directory y las cuentas de equipo pueden representar una entidad física, como un equipo o una persona, o actuar como cuentas de servicio dedicadas para algunas aplicaciones.
+
+Cada cuenta local predeterminada se asigna automáticamente a un grupo de seguridad preconfigurado con los derechos y permisos adecuados para realizar tareas específicas. Los grupos de seguridad de Active Directory recopilan cuentas de usuario, cuentas de equipo y otros grupos en unidades administrables. Para obtener más información, consulte grupos de seguridad de Active Directory.
+
+En un controlador de dominio de Active Directory, cada cuenta local predeterminada se conoce como entidad de seguridad. Una entidad de seguridad es un objeto de directorio que se usa para proteger y administrar servicios de Active Directory que proporcionan acceso a los recursos del controlador de dominio. Una entidad de seguridad incluye objetos como cuentas de usuario, cuentas de equipo, grupos de seguridad o subprocesos o procesos que se ejecutan en el contexto de seguridad de una cuenta de usuario o equipo. Para más información, consulte Entidades de seguridad.
+
+Una entidad de seguridad se representa mediante un identificador de seguridad único (SID). Los SID relacionados con cada una de las cuentas locales predeterminadas de Active Directory se describen en las secciones siguientes.
+
+Algunas de las cuentas locales predeterminadas están protegidas por un proceso en segundo plano que comprueba periódicamente y aplica un descriptor de seguridad específico. Un descriptor de seguridad es una estructura de datos que contiene información de seguridad asociada a un objeto protegido. Este proceso garantiza que cualquier intento no autorizado exitoso de modificar el descriptor de seguridad en una de las cuentas o grupos locales predeterminados será sobrescrito por la configuración protegida.
+
+Este descriptor de seguridad está presente en el objeto AdminSDHolder. Si desea modificar los permisos en uno de los grupos de administradores de servicios o en cualquiera de sus cuentas de miembro, debe modificar el descriptor de seguridad en el objeto AdminSDHolder para asegurarse de que se aplica de forma coherente. Tenga cuidado al realizar estas modificaciones, ya que también está cambiando la configuración predeterminada que se aplica a todas sus cuentas protegidas.
+
+## Cuenta de administrador
+
+Una cuenta de administrador es una cuenta predeterminada que se usa en todas las versiones del sistema operativo Windows en todos los equipos y dispositivos. El administrador del sistema usa la cuenta de administrador para las tareas que requieren credenciales administrativas. Esta cuenta no se puede eliminar ni bloquear, pero la cuenta se puede cambiar o deshabilitar.
+
+La cuenta de administrador proporciona al usuario acceso completo (permisos de control total) a los archivos, directorios, servicios y otros recursos que se encuentran en ese servidor local. Puede usar la cuenta de administrador para crear usuarios locales y asignar derechos de usuario y permisos de control de acceso. También puede usar la cuenta para tomar el control de los recursos locales en cualquier momento simplemente cambiando los derechos y permisos de usuario. Aunque los archivos y directorios se pueden proteger temporalmente de la cuenta de administrador, la cuenta puede tomar el control de estos recursos en cualquier momento cambiando los permisos de acceso.
+
+### Solicitar pertenencia a grupos
+
+La cuenta de administrador tiene pertenencia a los grupos de seguridad predeterminados, como se describe en la tabla Atributos de la cuenta de administrador más adelante en este artículo.
+
+Los grupos de seguridad garantizan que puede controlar los derechos de administrador sin tener que cambiar cada cuenta de administrador. En la mayoría de los casos, no es necesario cambiar la configuración básica de esta cuenta. Sin embargo, es posible que tenga que cambiar su configuración avanzada, como la pertenencia a grupos concretos.
+
+### Consideraciones de seguridad
+
+Después de la instalación del sistema operativo del servidor, la primera tarea consiste en configurar las propiedades de la cuenta de administrador de forma segura. Esto incluye configurar una contraseña segura, especialmente larga, y proteger la configuración del perfil de Servicios de Escritorio remoto y control remoto.
+
+La cuenta de administrador también se puede deshabilitar cuando no es necesario. Cambiar el nombre o deshabilitar la cuenta de administrador dificulta que los usuarios malintencionados intenten obtener acceso a la cuenta. Aunque la cuenta Administrador esté deshabilitada, puede seguir usándose para obtener acceso a un controlador de dominio con el modo seguro.
+
+En un controlador de dominio, la cuenta de administrador se convierte en la cuenta de dominio Administración. La cuenta de dominio Administración se usa para iniciar sesión en el controlador de dominio y esta cuenta requiere una contraseña segura. La cuenta de Administrador de Dominio proporciona acceso a los recursos de dominio.
+
+Note
+
+Cuando se instala inicialmente el controlador de dominio, puede iniciar sesión y usar Administrador del servidor para configurar una cuenta de administrador local, con los derechos y permisos que desea asignar. Por ejemplo, puede usar una cuenta de administrador local para administrar el sistema operativo al instalarlo por primera vez. Mediante este enfoque, puede configurar el sistema operativo sin bloquearse. Por lo general, no es necesario usar la cuenta después de la instalación. Puede crear cuentas de usuario locales en el controlador de dominio solo antes de instalar Servicios de dominio de Active Directory y no después.
+
+Cuando Active Directory se instala en el primer controlador de dominio del dominio, se crea la cuenta de administrador para Active Directory. La cuenta de administrador es la cuenta más eficaz del dominio. Se le conceden derechos administrativos y de acceso en todo el dominio para administrar el equipo y el dominio, y tiene los derechos y permisos más amplios sobre el dominio. La persona que instala Servicios de dominio de Active Directory en el equipo crea la contraseña de esta cuenta durante la instalación.
+
+### Atributos de la cuenta de administrador
+
+ | Attribute
+
+ | Value
+
+ | SID/RID conocidos
+
+ | S-1-5-`<domain>`-500
+
+ | Type
+
+ | User
+
+ | Contenedor predeterminado
+
+ | CN=Usuarios, DC=`<domain>`, DC=
+
+ | Miembros predeterminados
+
+ | N/A
+
+ | Miembro predeterminado de
+
+ | Administradores, administradores de dominio, administradores de empresa, usuarios de dominio (el identificador de grupo principal de todas las cuentas de usuario es Usuarios del dominio)
+
+Propietarios creadores de políticas de grupo y administradores de esquemas en el grupo de usuarios del dominio de Active Directory
+
+ | ¿Protegido por AdminSdHolder?
+
+ | Yes
+
+ | ¿Es seguro moverlo fuera del contenedor predeterminado?
+
+ | Yes
+
+ | ¿Es seguro delegar la administración de este grupo a administradores que no son de servicio?
+
+ | No
+
+## Cuenta de invitado
+
+La cuenta de invitado es una cuenta local predeterminada que tiene acceso limitado al equipo y está deshabilitada de forma predeterminada. De forma predeterminada, la contraseña de la cuenta de invitado se deja en blanco. Una contraseña en blanco permite acceder a la cuenta de invitado sin necesidad de que el usuario escriba una contraseña.
+
+La cuenta de invitado permite a los usuarios ocasionales o únicos, que no tienen una cuenta individual en el equipo, iniciar sesión en el servidor local o dominio con derechos y permisos restringidos. La cuenta de invitado se puede habilitar y la contraseña se puede configurar si es necesario, pero solo por un miembro del grupo Administrador en el dominio.
+
+#### Pertenencia a grupos de la cuenta de invitados
+
+La cuenta de invitados tiene pertenencia a los grupos de seguridad predeterminados que se describen en la siguiente tabla de atributos de cuenta de invitados. De forma predeterminada, la cuenta de invitados es el único miembro del grupo de invitados predeterminado, que permite a un usuario iniciar sesión en un servidor y al grupo global Invitados de dominio, que permite a un usuario iniciar sesión en un dominio.
+
+Un miembro del grupo Administradores o del grupo Administradores de dominio puede configurar un usuario con una cuenta de invitado en uno o varios equipos.
+
+#### Consideraciones de seguridad de la cuenta de invitados
+
+Dado que la cuenta de invitados puede proporcionar acceso anónimo, es un riesgo de seguridad. También tiene un SID conocido. Por este motivo, se recomienda dejar deshabilitada la cuenta de invitados, a menos que se requiera su uso y, a continuación, solo con permisos y derechos restringidos durante un período de tiempo muy limitado.
+
+Cuando se requiere la cuenta de invitados, se requiere un administrador en el controlador de dominio para habilitar dicha cuenta. La cuenta de invitados se puede habilitar sin necesidad de una contraseña o se puede habilitar con una contraseña segura. El administrador también concede permisos y derechos restringidos para la cuenta de invitados. Para ayudar a evitar el acceso no autorizado:
+
+- 
+
+ No conceda a la cuenta de invitado el derecho de usuario Apagar el sistema . Cuando un equipo se apaga o se inicia, es posible que un usuario invitado o cualquier persona con acceso local, como un usuario malintencionado, pueda obtener acceso no autorizado al equipo.
+
+- 
+
+ No proporcione la cuenta de invitado con la capacidad de ver los registros de eventos. Una vez habilitada la cuenta de invitado, se recomienda supervisar esta cuenta con frecuencia para asegurarse de que otros usuarios no pueden usar servicios y otros recursos, como los recursos que un usuario anterior dejaba de estar disponible involuntariamente.
+
+- 
+
+ No use la cuenta de invitado cuando el servidor tenga acceso a la red externa ni acceso a otros equipos.
+
+Si decide habilitar la cuenta de invitados, asegúrese de restringir su uso y cambiar la contraseña con regularidad. Al igual que con la cuenta de administrador, es posible que desee cambiar el nombre de la cuenta como precaución de seguridad adicional.
+
+Además, un administrador es responsable de administrar la cuenta de invitado. El administrador supervisa la cuenta de invitados, la deshabilita cuando ya no está en uso y cambia o quita la contraseña según sea necesario.
+
+Para más información sobre los atributos de la cuenta de invitados, consulte la tabla siguiente:
+
+### Atributos de cuenta de invitados
+
+ | Attribute
+
+ | Value
+
+ | SID/RID conocidos
+
+ | S-1-5-`<domain>`-501
+
+ | Type
+
+ | User
+
+ | Contenedor predeterminado
+
+ | CN=Usuarios, DC=`<domain>`, DC=
+
+ | Miembros predeterminados
+
+ | None
+
+ | Miembro predeterminado de
+
+ | Invitados, invitados de dominio
+
+ | ¿Protegido por AdminSdHolder?
+
+ | No
+
+ | ¿Es seguro moverlo fuera del contenedor predeterminado?
+
+ | Se puede mover, pero no se recomienda.
+
+ | ¿Es seguro delegar la administración de este grupo a administradores que no son de servicio?
+
+ | No
+
+## Cuenta HelpAssistant (instalada con una sesión de Asistencia remota)
+
+La cuenta HelpAssistant es una cuenta local predeterminada que está habilitada cuando se ejecuta una sesión de Asistencia remota. La cuenta se deshabilita automáticamente si no hay solicitudes de Asistencia remota pendientes.
+
+HelpAssistant es la cuenta principal que se usa para establecer una sesión de asistencia remota. La sesión de Asistencia remota se utiliza para conectarse a otro equipo que ejecuta el sistema operativo Windows, y se inicia mediante una invitación. Para obtener asistencia remota solicitada, un usuario envía una invitación desde su equipo, por correo electrónico o como archivo, a una persona que puede proporcionar asistencia. Una vez aceptada la invitación del usuario para una sesión de Asistencia Remota, se crea automáticamente la cuenta predeterminada de HelpAssistant para proporcionar a la persona que brinda asistencia acceso limitado al equipo. La cuenta Asistente de ayuda se administra mediante el servicio Administrador de sesión de Ayuda de escritorio remoto.
+
+#### Consideraciones de seguridad de HelpAssistant
+
+Los SID que pertenecen a la cuenta HelpAssistant predeterminada incluyen:
+
+- 
+SID: S-1-5--`<domain>`13, nombre para mostrar Usuario de Terminal Server. Este grupo incluye a todos los usuarios que inician sesión en un servidor con servicios de Escritorio remoto habilitados. En Windows Server 2008, los servicios de escritorio remoto se denominan Terminal Services.
+
+- 
+SID: S-1-5-`<domain>`-14, nombre para mostrar Inicio de sesión interactivo remoto. Este grupo incluye a todos los usuarios que se conectan al equipo mediante una conexión de escritorio remoto. Este grupo es un subconjunto del grupo interactivo. Los tokens de acceso que contienen el SID de inicio de sesión interactivo remoto también contienen el SID interactivo.
+
+Para el sistema operativo Windows Server, asistencia remota es un componente opcional que no está instalado de forma predeterminada. Debe instalar la asistencia remota para poder usarla.
+
+Para más información sobre los atributos de la cuenta HelpAssistant, consulte la tabla siguiente:
+
+#### Atributos de la cuenta HelpAssistant
+
+ | Attribute
+
+ | Value
+
+ | SID/RID conocidos
+
+ | S-1-5--`<domain>`13 (usuario de Terminal Server), S-1-5--`<domain>`14 (inicio de sesión interactivo remoto)
+
+ | Type
+
+ | User
+
+ | Contenedor predeterminado
+
+ | CN=Usuarios, DC=`<domain>`, DC=
+
+ | Miembros predeterminados
+
+ | None
+
+ | Miembro predeterminado de
+
+ | Invitados de dominio
+Guests
+
+ | ¿Protegido por AdminSdHolder?
+
+ | No
+
+ | ¿Es seguro moverlo fuera del contenedor predeterminado?
+
+ | Se puede mover, pero no se recomienda.
+
+ | ¿Es seguro delegar la administración de este grupo a administradores que no son de servicio?
+
+ | No
+
+## Cuenta KRBTGT
+
+La cuenta KRBTGT es una cuenta predeterminada local que actúa como cuenta de servicio para el servicio centro de distribución de claves (KDC). Esta cuenta no se puede eliminar y no se puede cambiar el nombre de la cuenta. La cuenta KRBTGT no se puede habilitar en Active Directory.
+
+KRBTGT es también el nombre principal de seguridad usado por el KDC para un dominio de Windows Server, según lo especificado por RFC 4120. La cuenta KRBTGT es la entidad del principal de seguridad KRBTGT y se crea automáticamente cuando se establece un nuevo dominio.
+
+La autenticación Kerberos de Windows Server se logra mediante el uso de un vale de concesión de vales (TGT) Kerberos especial cifrado con una clave simétrica. Esta clave se deriva de la contraseña del servidor o servicio al que se solicita acceso. El servicio Kerberos solo conoce la contraseña TGT de la cuenta KRBTGT. Para solicitar un vale de sesión, el TGT debe presentarse al KDC. El TGT se emite al cliente Kerberos desde el KDC.
+
+#### Consideraciones para el mantenimiento de la cuenta KRBTGT
+
+Se asigna una contraseña segura a las cuentas KRBTGT y de confianza automáticamente. Debe cambiar estas contraseñas periódicamente, tal y como haría con cualquier cuenta de servicio con privilegios. La contraseña de la cuenta de KDC se usa para derivar una clave secreta para cifrar y descifrar las solicitudes TGT que se emiten. La contraseña de una cuenta de confianza de dominio se usa para derivar una clave interdominio para cifrar los tickets de referencia.
+
+Para restablecer la contraseña, debe ser miembro del grupo Administradores del dominio o tener delegada la autoridad correspondiente. Además, debe ser miembro del grupo local de administradores o tener delegada la autoridad adecuada.
+
+Después de restablecer la contraseña KRBTGT, asegúrese de que el identificador de evento 9 del origen de eventos (Kerberos) Key-Distribution-Center se escribe en el registro de eventos del sistema.
+
+#### Consideraciones de seguridad de la cuenta KRBTGT
+
+También es un procedimiento recomendado restablecer la contraseña de la cuenta KRBTGT para asegurarse de que un controlador de dominio recién restaurado no se replique con un controlador de dominio en peligro. En este caso, en una recuperación de bosque grande que se extiende por varias ubicaciones, no se puede garantizar que todos los controladores de dominio estén apagados y, si lo están, que no se puedan reiniciar antes de que se realicen todos los pasos de recuperación adecuados. Después de restablecer la cuenta KRBTGT, otro controlador de dominio no puede replicar esta contraseña de cuenta mediante una contraseña antigua.
+
+Una organización que sospeche de un compromiso del dominio relacionado con la cuenta KRBTGT debe considerar el uso de servicios profesionales de respuesta a incidentes. El impacto para restaurar la propiedad de la cuenta es a nivel de dominio, requiere un gran esfuerzo y lo cual debe realizarse como parte de un mayor esfuerzo de recuperación.
+
+La contraseña KRBTGT es la clave de la que depende toda la confianza en Kerberos. Restablecer la contraseña KRBTGT es similar a renovar el certificado CA raíz con una nueva clave y dejar de confiar inmediatamente en la clave antigua, lo que afecta a casi todas las operaciones de Kerberos posteriores.
+
+Para todos los tipos de cuentas (usuarios, equipos y servicios):
+
+- 
+Todos los TGT que ya están emitidos y distribuidos no serán válidos porque los controladores de dominio los rechazarán. Estos tickets se cifran con el KRBTGT para que cualquier DC (controlador de dominio) pueda validarlos. Cuando cambia la contraseña, los tickets se vuelven inválidos.
+
+- 
+Todas las sesiones autenticadas actualmente que han establecido los usuarios que han iniciado sesión (en función de sus vales de servicio) en un recurso (como un recurso compartido de archivos, un sitio de SharePoint o un servidor Exchange) son válidas hasta que se requiera que el vale de servicio sea necesario para volver a autenticarse.
+
+- 
+Las conexiones autenticadas NTLM no se ven afectadas.
+
+Dado que es imposible predecir los errores específicos que se producirán para cualquier usuario determinado en un entorno operativo de producción, debe suponer que todos los equipos y usuarios se verán afectados.
+
+Important
+
+Reiniciar un equipo es la única manera fiable de recuperar la funcionalidad, ya que hacerlo hará que la cuenta de equipo y las cuentas de usuario vuelvan a iniciar sesión. Al iniciar sesión de nuevo, se solicitarán nuevos TGT que sean válidos con el nuevo KRBTGT, que corregirá los problemas operativos relacionados con KRBTGT en ese equipo.
+
+### Controladores de dominio de solo lectura y la cuenta KRBTGT
+
+El RODC se anuncia como centro de distribución de claves (KDC) para la sucursal. El RODC usa una cuenta KRBTGT y una contraseña diferentes a las del KDC en un controlador de dominio grabable cuando firma o cifra solicitudes TGT. Una vez que una cuenta se haya autenticado correctamente, el RODC determina si las credenciales de un usuario o las credenciales de un equipo se pueden replicar desde el controlador de dominio grabable al RODC mediante la directiva de replicación de contraseñas.
+
+Una vez que las credenciales están almacenadas en caché en el RODC, este puede aceptar las solicitudes de inicio de sesión hasta que cambien las credenciales. Cuando se firma un TGT con la cuenta KRBTGT del RODC, el RODC reconoce que tiene una copia almacenada en caché de las credenciales. Si otro controlador de dominio firma el TGT, el RODC reenvía las solicitudes a un controlador de dominio escribible.
+
+#### Atributos de cuenta KRBTGT
+
+Para más información sobre los atributos de la cuenta KRBTGT, consulte la tabla siguiente:
+
+ | Attribute
+
+ | Value
+
+ | SID/RID conocidos
+
+ | S-1-5-`<domain>`-502
+
+ | Type
+
+ | User
+
+ | Contenedor predeterminado
+
+ | CN=Usuarios, DC=`<domain>`, DC=
+
+ | Miembros predeterminados
+
+ | None
+
+ | Miembro predeterminado de
+
+ | Grupo Usuarios del dominio. (El ID de grupo principal de todas las cuentas de usuario es Usuarios del dominio).
+
+ | ¿Protegido por AdminSdHolder?
+
+ | Yes
+
+ | ¿Es seguro moverlo fuera del contenedor predeterminado?
+
+ | Se puede mover, pero no se recomienda.
+
+ | ¿Es seguro delegar la administración de este grupo a administradores que no son de servicio?
+
+ | No
+
+## Configuración para cuentas locales predeterminadas en Active Directory
+
+Cada cuenta local predeterminada de Active Directory tiene varias opciones de configuración de cuenta que puede usar para configurar las opciones de contraseña y la información específica de seguridad, como se describe en la tabla siguiente:
+
+ | Configuración de la cuenta
+
+ | Description
+
+ | El usuario debe cambiar la contraseña en el siguiente inicio de sesión
+
+ | Fuerza un cambio de contraseña la próxima vez que el usuario inicie sesión en la red. Use esta opción cuando desee estar seguro de que el usuario es la única persona que conoce la contraseña.
+
+ | El usuario no puede cambiar la contraseña
+
+ | Impide que el usuario cambie la contraseña. Habilite esta opción si desea mantener el control de una cuenta de usuario, tal como una cuenta Invitado o una cuenta temporal.
+
+ | La contraseña nunca expira
+
+ | Impide que una contraseña de usuario expire. Se recomienda habilitar esta opción con cuentas de servicio y usar contraseñas seguras.
+
+ | Almacenar contraseñas usando cifrado reversible
+
+ | Proporciona compatibilidad con aplicaciones que usan protocolos que requieren conocimiento del formato de texto no cifrado de la contraseña del usuario con fines de autenticación.
+Esta opción es necesaria cuando se usa el Protocolo de autenticación de protocolo de enlace de desafío (CHAP) en Servicios de autenticación de Internet (IAS) y cuando se usa la autenticación implícita en Internet Information Services (IIS).
+
+ | La cuenta está deshabilitada
+
+ | Impide que el usuario inicie sesión con la cuenta seleccionada. Como administrador, puede usar cuentas deshabilitadas como plantillas para las cuentas de usuario normales.
+
+ | La tarjeta inteligente es necesaria para un inicio de sesión interactivo
+
+ | Requiere que el usuario posea una tarjeta inteligente para iniciar sesión en la red de forma interactiva. El usuario debe tener también un lector de tarjetas inteligentes conectado al equipo y un número de identificación personal (PIN) para la tarjeta inteligente.
+
+Cuando se aplica este atributo en la cuenta, el efecto es el siguiente:
+- El atributo restringe solo la autenticación inicial para el inicio de sesión interactivo y el inicio de sesión de Escritorio remoto. Cuando el inicio de sesión interactivo o de escritorio remoto requiere un inicio de sesión posterior en la red, como con una credencial de dominio, se usa un hash NT proporcionado por el controlador de dominio para completar el proceso de autenticación de la tarjeta inteligente.
+
+- Cada vez que el atributo está habilitado en una cuenta, el valor hash de contraseña actual de la cuenta se reemplaza por un número aleatorio de 128 bits. Esto invalida el uso de las contraseñas configuradas anteriormente para la cuenta. El valor no cambia después de eso a menos que se establezca una nueva contraseña o el atributo esté deshabilitado y se vuelva a habilitar.
+
+- Las cuentas con este atributo no se pueden usar para iniciar servicios ni ejecutar tareas programadas.
+
+ | Se confía en la cuenta para su delegación
+
+ | Permite que un servicio que se ejecute con esta cuenta realice operaciones en nombre de otras cuentas de usuario en la red. Un servicio que se ejecuta con una cuenta de usuario (también conocida como cuenta de servicio) en la que se confía para la delegación, puede suplantar a un cliente para obtener acceso, bien al equipo donde se ejecuta el servicio o a otros equipos. Por ejemplo, en un bosque establecido en el nivel funcional de Windows Server 2003, esta configuración se encuentra en la pestaña Delegación. Solo está disponible para las cuentas a las que se han asignado nombres principales de servicio (SPN), que se establecen mediante el comando `setspn` de herramientas de soporte técnico de Windows. Esta configuración es sensible a la seguridad y debe asignarse con precaución.
+
+ | La cuenta es confidencial y no se puede delegar
+
+ | Otorga control sobre una cuenta de usuario, como una cuenta de invitado o una cuenta temporal. Esta opción se puede usar si esta cuenta no se puede asignar para la delegación por medio de otra cuenta.
+
+ | Usar tipos de cifrado DES para esta cuenta
+
+ | Ofrece compatibilidad con el Estándar de cifrado de datos (DES). DES admite varios niveles de cifrado, como el estándar MPPE (Cifrado punto a punto de Microsoft) de 40 bits y 56 bits, el estándar MPPE de 56 bits, el estándar MPPE Strong de 128 bits, el DES IPsec (Protocolo de seguridad de Internet) de 40 bits, el DES IPsec de 56 bits y el Triple DES (3DES) IPsec.
+
+ | No requiera autenticación previa de Kerberos
+
+ | Proporciona asistencia para implementaciones alternativas del protocolo Kerberos. Dado que la autenticación previa proporciona seguridad adicional, tenga cuidado al habilitar esta opción. Los controladores de dominio que ejecutan Windows 2000 o Windows Server 2003 pueden usar otros mecanismos para sincronizar el tiempo.
+
+Note
+
+DES no está habilitado de forma predeterminada en sistemas operativos Windows Server (a partir de Windows Server 2008 R2) o en sistemas operativos cliente Windows (a partir de Windows 7). En estos sistemas operativos, los equipos no usarán conjuntos de cifrado DES-CBC-MD5 o DES-CBC-CRC de forma predeterminada. Si su entorno requiere DES, esta configuración puede afectar a la compatibilidad con equipos cliente o servicios y aplicaciones del entorno.
+
+Para obtener más información, consulte Desenmascarando DES para implementar Kerberos de manera segura.
+
+## Gestionar cuentas locales predeterminadas en Active Directory
+
+Una vez instaladas las cuentas locales predeterminadas, se almacenan en el contenedor Usuarios de Active Directory Users and Computers. Puede crear, deshabilitar, restablecer y eliminar cuentas locales predeterminadas mediante la Microsoft Management Console (MMC) de usuarios y equipos de Active Directory y mediante herramientas de línea de comandos.
+
+Puede usar Usuarios y equipos de Active Directory para asignar derechos y permisos en un controlador de dominio local especificado, y ese controlador de dominio solo, para limitar la capacidad de los usuarios y grupos locales para realizar determinadas acciones. Un derecho autoriza a un usuario a realizar ciertas acciones en un equipo, como hacer copias de seguridad de archivos y carpetas, o apagar el equipo. Por el contrario, un permiso de acceso es una regla asociada a un objeto, normalmente un archivo, una carpeta o una impresora, que regula qué usuarios pueden acceder al objeto y de qué manera.
+
+Para obtener más información acerca de cómo crear y administrar cuentas de usuario locales, vea Administrar usuarios locales.
+
+También puede usar usuarios y equipos de Active Directory en un controlador de dominio para dirigirse a equipos remotos que no son controladores de dominio de la red.
+
+Puede obtener recomendaciones de Microsoft para configuraciones de controlador de dominio que puede distribuir mediante la herramienta Administrador de cumplimiento de seguridad (SCM). Para obtener más información, consulte Administrador de cumplimiento de seguridad de Microsoft.
+
+Algunas de las cuentas de usuario locales predeterminadas están protegidas por un proceso en segundo plano que comprueba y aplica periódicamente un descriptor de seguridad específico, que es una estructura de datos que contiene información de seguridad asociada a un objeto protegido. Este descriptor de seguridad está presente en el objeto AdminSDHolder.
+
+Esto significa que, cuando quiera modificar los permisos en un grupo de administradores de servicios o en cualquiera de sus cuentas de miembro, también es necesario modificar el descriptor de seguridad en el objeto AdminSDHolder. Este enfoque garantiza que los permisos se apliquen de forma coherente. Tenga cuidado al realizar estas modificaciones, ya que esta acción también puede afectar a la configuración predeterminada que se aplica a todas las cuentas administrativas protegidas.
+
+## Restricción y protección de cuentas de dominio confidenciales
+
+Restringir y proteger las cuentas de dominio en el entorno de dominio requiere que adopte e implemente el siguiente enfoque de procedimientos recomendados:
+
+- 
+Limite estrictamente la pertenencia a los grupos Administradores, Administradores de dominio y Administradores de empresa.
+
+- 
+Controlar estrictamente dónde y cómo se usan las cuentas de dominio.
+
+Las cuentas de miembros de los grupos Administradores, Administradores de dominio y Administradores de empresas de un dominio o bosque son objetivos de alto valor para usuarios malintencionados. Para limitar cualquier exposición, se recomienda limitar estrictamente la pertenencia a estos grupos de administradores al menor número de cuentas. Restringir la pertenencia a estos grupos reduce la posibilidad de que un administrador pueda hacer un uso indebido de estas credenciales de forma involuntaria, creando una vulnerabilidad que los usuarios malintencionados podrían aprovechar.
+
+Además, se recomienda controlar estrictamente dónde y cómo se usan las cuentas de dominio confidenciales. Restrinja el uso de cuentas de administradores de dominio y otras cuentas de administrador para evitar que se usen para iniciar sesión en sistemas de administración y estaciones de trabajo protegidas en el mismo nivel que los sistemas administrados. Cuando las cuentas de administrador no están restringidas de esta manera, cada estación de trabajo desde la que un administrador de dominio inicia sesión proporciona otra ubicación que los usuarios malintencionados pueden aprovechar.
+
+La implementación de estos procedimientos recomendados se divide en las siguientes tareas:
+
+- 
+ Separar las cuentas de administrador de las cuentas de usuario
+
+- 
+ Restricción del acceso de inicio de sesión de administrador a servidores y estaciones de trabajo
+
+- 
+ Deshabilitación del derecho de delegación de cuentas para cuentas de administrador confidenciales
+
+Para proporcionar instancias en las que se esperan desafíos de integración con el entorno de dominio, cada tarea se describe según los requisitos para una implementación mínima, mejor e ideal. Al igual que con todos los cambios significativos en un entorno de producción, asegúrese de probar estos cambios exhaustivamente antes de implementarlos. A continuación, organice la implementación de una manera que permita una reversión del cambio si se producen problemas técnicos.
+
+### Separar las cuentas de administrador de las cuentas de usuario
+
+Restrinja las cuentas de administradores de dominio y otras cuentas confidenciales para evitar que se usen para iniciar sesión en servidores y estaciones de trabajo de menos confianza. Restrinja y proteja las cuentas de administrador separando las cuentas de administrador de las cuentas de usuario estándar, separando las tareas administrativas de otras tareas y limitando el uso de estas cuentas. Cree cuentas dedicadas para el personal administrativo que requiera credenciales de administrador para realizar tareas administrativas específicas y, a continuación, cree cuentas independientes para otras tareas de usuario estándar, según las siguientes directrices:
+
+- 
+
+ Cuenta con privilegios: asigne cuentas de administrador para realizar solo las siguientes tareas administrativas:
+
+- 
+
+ Mínimo: cree cuentas independientes para administradores de dominio, administradores de empresa o equivalentes, con los derechos de administrador adecuados en el dominio o bosque. Use cuentas a las que se hayan concedido derechos de administrador confidenciales solo para administrar los datos de dominio y los controladores de dominio.
+
+- 
+
+ Mejor: cree cuentas independientes para administradores que tengan derechos administrativos reducidos, como cuentas para administradores de estaciones de trabajo y cuentas con derechos de usuario sobre unidades organizativas (UO) de Active Directory designadas.
+
+- 
+
+ Ideal: cree varias cuentas independientes para un administrador que tenga varias responsabilidades de trabajo que requieran distintos niveles de confianza. Configure cada cuenta de administrador con diferentes derechos de usuario, como para la administración de estaciones de trabajo, la administración del servidor y la administración de dominios, para permitir que el administrador inicie sesión en estaciones de trabajo, servidores y controladores de dominio especificados en función estricta de sus responsabilidades de trabajo.
+
+- 
+
+ Cuentas de usuario estándar: privilegios de usuario estándar concedidos para las tareas de usuario estándar, como correo electrónico, exploración web y el uso de aplicaciones de línea de negocio. Estas cuentas no deben concederse derechos de administrador.
+
+Important
+
+Asegúrese de que las cuentas de administrador sensibles no puedan acceder al correo electrónico ni navegar por Internet, tal y como se describe en la siguiente sección.
+
+Para más información sobre el acceso con privilegios, consulte Dispositivos de acceso con privilegios.
+
+### Restricción del acceso de inicio de sesión de administrador a servidores y estaciones de trabajo
+
+Se recomienda restringir a los administradores el uso de cuentas de administrador confidenciales para iniciar sesión en servidores y estaciones de trabajo de menor confianza. Esta restricción impide que los administradores aumenten accidentalmente el riesgo de robo de credenciales iniciando sesión en un equipo de menor confianza.
+
+Important
+
+Asegúrese de que tiene acceso local al controlador de dominio o de que ha creado al menos una estación de trabajo administrativa dedicada.
+
+Restrinja el acceso de inicio de sesión a servidores y estaciones de trabajo de confianza inferior mediante las instrucciones siguientes:
+
+- 
+
+ Mínimo: restrinja que los administradores de dominio tengan acceso de inicio de sesión a servidores y estaciones de trabajo. Antes de iniciar este procedimiento, identifique todas las unidades organizativas del dominio que contienen estaciones de trabajo y servidores. Los equipos de unidades organizativas que no se identifiquen no restringirán a los administradores con cuentas confidenciales iniciar sesión en ellos.
+
+- 
+
+ Mejor: restrinja a los administradores de dominio de los servidores y estaciones de trabajo del controlador de nondomain.
+
+- 
+
+ Ideal: restrinja a los administradores del servidor el inicio de sesión en estaciones de trabajo, además de los administradores de dominio.
+
+Note
+
+Para este procedimiento, no vincule cuentas a la unidad organizativa que contenga estaciones de trabajo para administradores que solo realizan tareas de administración, y no proporcione acceso a Internet ni al correo electrónico.
+
+#### Para restringir los administradores de dominio desde estaciones de trabajo (mínimo)
+
+- 
+Como administrador de dominio, abra la consola de administración de directivas de grupo (GPMC).
+
+- 
+Abra Administración de directivas de grupo, expanda <forest>\Domains\`<domain>`.
+
+- 
+Haga clic con el botón derecho en Objetos de directiva de grupo y seleccione Nuevo.
+
+- 
+En la ventana Nuevo GPO , asigne un nombre al GPO que restrinja que los administradores inicien sesión en estaciones de trabajo y, a continuación, seleccione Aceptar.
+
+- 
+Haga clic con el botón derecho en Nuevo GPO y seleccione Editar.
+
+- 
+Configure los derechos de usuario para denegar el inicio de sesión localmente para los administradores de dominio.
+
+- 
+Seleccione Directivas de configuración del>> equipoDirectivas locales directivas>locales, seleccione Asignación de derechos de usuario y haga lo siguiente:
+
+- 
+Haga doble clic en Denegar inicio de sesión localmente y, a continuación, seleccione Definir esta configuración de directiva.
+
+- 
+Seleccione Agregar usuario o grupo, seleccione Examinar, escriba Administradores de empresa y, a continuación, seleccione Aceptar.
+
+- 
+Seleccione Agregar usuario o grupo, seleccione Examinar, escriba Administradores de dominio y, a continuación, seleccione Aceptar.
+
+Tip
+
+Opcionalmente, puede agregar cualquier grupo que contenga administradores de servidor a los que quiera restringir el inicio de sesión a las estaciones de trabajo.
+
+Note
+
+Completar este paso puede provocar problemas con las tareas de administrador que se ejecutan como tareas programadas o servicios con cuentas en el grupo Administradores de dominio. La práctica de usar cuentas de administrador de dominio para ejecutar servicios y tareas en estaciones de trabajo crea un riesgo significativo de ataques de robo de credenciales y, por lo tanto, debe reemplazarse por medios alternativos para ejecutar tareas o servicios programados.
+
+d. Seleccione Aceptar para completar la configuración.
+
+- 
+Vincule el GPO a la primera unidad organizativa de estaciones de trabajo. Vaya a la ruta de acceso <forest>\Domains\`<domain>`\OU y haga lo siguiente:
+
+a. Haga clic con el botón derecho en la unidad organizativa de la estación de trabajo y seleccione Vincular un GPO existente.
+
+b. Seleccione el GPO que acaba de crear y, a continuación, seleccione Aceptar.
+
+- 
+Pruebe la funcionalidad de las aplicaciones empresariales en las estaciones de trabajo de la primera unidad organizativa y resuelva los problemas causados por la nueva directiva.
+
+- 
+Vincule todas las demás unidades organizativas que contengan estaciones de trabajo.
+
+Sin embargo, no cree un vínculo a la unidad organizativa de la estación de trabajo administrativa si se crea para estaciones de trabajo administrativas dedicadas solo a tareas de administración y que no tienen acceso a Internet o correo electrónico.
+
+Important
+
+Si posteriormente amplía esta solución, no deniegue los derechos de inicio de sesión al grupo Usuarios del dominio. El grupo Usuarios del dominio incluye todas las cuentas de usuario del dominio, incluidos usuarios, administradores de dominio y administradores de empresa.
+
+### Deshabilitación del derecho de delegación de cuentas para cuentas de administrador confidenciales
+
+Aunque las cuentas de usuario no están marcadas para la delegación de forma predeterminada, las cuentas de un dominio de Active Directory pueden ser de confianza para la delegación. Esto significa que un servicio o un equipo de confianza para la delegación puede suplantar una cuenta que se autentica en él para acceder a otros recursos de la red.
+
+En el caso de las cuentas confidenciales, como las que pertenecen a los miembros de los grupos Administradores, Administradores de dominio o Administradores de empresa en Active Directory, la delegación puede presentar un riesgo considerable de elevación de derechos. Por ejemplo, si se usa una cuenta del grupo Administradores del dominio para iniciar sesión en un servidor miembro comprometido que es de confianza para la delegación, ese servidor puede solicitar acceso a recursos en el contexto de la cuenta Administradores del dominio y elevar el compromiso de ese servidor miembro a un compromiso del dominio.
+
+Se recomienda configurar los objetos de usuario para todas las cuentas confidenciales de Active Directory seleccionando la casilla Cuenta confidencial y no se puede delegar en Opciones de cuenta para evitar que se deleguen las cuentas. Para obtener más información, consulte Configuración de cuentas locales predeterminadas en Active Directory.
+
+Al igual que con cualquier cambio de configuración, pruebe esta opción habilitada completamente para asegurarse de que funciona correctamente antes de implementarla.
+
+## Protección y administración de controladores de dominio
+
+Se recomienda aplicar estrictamente restricciones en los controladores de dominio de su entorno. Esto garantiza que los controladores de dominio:
+
+- Ejecuten solo el software necesario.
+
+- Requieran que el software se actualice periódicamente.
+
+- Que estén configurados con las opciones de seguridad adecuadas.
+
+Un aspecto de la protección y administración de controladores de dominio es asegurarse de que las cuentas de usuario locales predeterminadas están totalmente protegidas. Es importante restringir y proteger todas las cuentas de dominio confidenciales, como se describe en las secciones anteriores.
+
+Dado que los controladores de dominio almacenan hashes de contraseña de credenciales de todas las cuentas del dominio, son destinos de alto valor para usuarios malintencionados. Cuando los controladores de dominio no están bien administrados y protegidos mediante restricciones que se aplican estrictamente, pueden verse comprometidos por usuarios malintencionados. Por ejemplo, un usuario malintencionado podría robar credenciales de administrador de dominio confidenciales de un controlador de dominio y, a continuación, usar estas credenciales para atacar el dominio y el bosque.
+
+Además, las aplicaciones instaladas y los agentes de administración en controladores de dominio pueden proporcionar una ruta de acceso para escalar los derechos que los usuarios malintencionados pueden usar para poner en peligro el servicio de administración o los administradores de ese servicio. Las herramientas y servicios de administración que usa su organización para administrar los controladores de dominio y sus administradores son igualmente importantes para la seguridad de los controladores de dominio y las cuentas de administrador de dominio. Asegúrese de que estos servicios y administradores estén totalmente protegidos con el mismo esfuerzo.
+
+## Contenido relacionado
+
+- 
+ Entidades de seguridad
+
+- 
+ Introducción al control de acceso
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

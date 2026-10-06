@@ -1,0 +1,157 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/tracert
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# tracert
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Esta herramienta de diagnóstico determina la ruta de acceso a un destino mediante el envío de mensajes de solicitud de eco del Protocolo de mensajes de control de Internet (ICMP) o ICMPv6 al destino con valores de campo de período de vida (TTL) cada vez mayores. Cada enrutador a lo largo de la ruta de acceso debe disminuir el TTL de un paquete IP en al menos 1 antes de reenviarlo. En la práctica, el TTL es un contador máximo de vínculos. Cuando el TTL de un paquete alcanza 0, se espera que el enrutador devuelva un mensaje ICMP time Exceeded al equipo de origen.
+
+Este comando determina la ruta de acceso enviando el primer mensaje de solicitud de eco con un TTL de 1 e incrementando el TTL en 1 en cada transmisión posterior hasta que el destino responde o se alcanza el número máximo de saltos. El número máximo de saltos es 30 de forma predeterminada y se puede especificar mediante el parámetro /h .
+
+La ruta de acceso se determina examinando los mensajes de ICMP time Exceeded devueltos por los enrutadores intermedios y el mensaje de eco de respuesta devuelto por el destino. Sin embargo, algunos enrutadores no devuelven mensajes de tiempo excedido para paquetes con valores TTL caducados y son invisibles para el comando tracert . En este caso, se muestra una fila de asteriscos (`*`) para ese salto. La ruta de acceso mostrada es la lista de interfaces de enrutador cercano/lateral de los enrutadores en la ruta de acceso entre un host de origen y un destino. La interfaz cercana/lateral es la interfaz del enrutador que está más cerca del host emisor en la ruta de acceso.
+
+Important
+
+Este comando solo está disponible si el protocolo de Internet (TCP / IP) está instalado como componente en las propiedades de un adaptador de red en conexiones de red.
+
+Para rastrear una ruta y proporcionar latencia de red y pérdida de paquetes para cada enrutador y vínculo en la ruta, utilice el comando pathping .
+
+## Syntax
+
+`tracert [/d] [/h <maximumhops>] [/j <hostlist>] [/w <timeout>] [/R] [/S <srcaddr>] [/4][/6] <targetname>
+`
+
+### Parameters
+
+ | Parameter
+
+ | Description
+
+ | /d
+
+ | Detiene los intentos de resolver las direcciones IP de los enrutadores intermedios en sus nombres. Esto puede acelerar la devolución de los resultados.
+
+ | /h `<maximumhops>`
+
+ | Especifica el número máximo de saltos en la ruta de acceso para buscar el destino. El valor predeterminado es de 30 saltos.
+
+ | /j `<hostlist>`
+
+ | Especifica que los mensajes de solicitud de eco usan la opción Ruta de origen flexible en la cabecera IP con el conjunto de destinos intermedios especificados en `<hostlist>`. Con el enrutamiento de origen flexible, los destinos intermedios sucesivos se pueden separar por uno o varios enrutadores. El número máximo de direcciones o nombres en la lista es 9. 
+ `<hostlist>` es una serie de direcciones IP (en notación decimal con puntos) separadas por espacios. Use este parámetro solo cuando realice el seguimiento de direcciones IPv4.
+
+ | /w `<timeout>`
+
+ | Especifica la cantidad de tiempo en milisegundos que se debe esperar a que se reciba el mensaje ICMP time Exceeded o de respuesta de eco correspondiente a un mensaje de solicitud de eco dado. Si no se recibe dentro del tiempo de espera, se muestra un asterisco (`*`). El tiempo de espera predeterminado es 4000 (4 segundos).
+
+ | /R
+
+ | Especifica que el encabezado de extensión de enrutamiento IPv6 se usa para enviar un mensaje de solicitud de eco al host local, usando el destino como destino intermedio y probando la ruta inversa.
+
+ | /S `<srcaddr>`
+
+ | Especifica la dirección de origen que se va a usar en los mensajes de solicitud de eco. Use este parámetro solo cuando realice el seguimiento de direcciones IPv6.
+
+ | /4
+
+ | Especifica que tracert.exe solo puede usar IPv4 para este seguimiento.
+
+ | /6
+
+ | Especifica que tracert.exe solo puede usar IPv6 para este seguimiento.
+
+ | `<targetname>`
+
+ | Especifica el destino, identificado por dirección IP o nombre de host.
+
+ | /?
+
+ | Muestra la ayuda en el símbolo del sistema.
+
+## Examples
+
+Para realizar el seguimiento de la ruta de acceso al host denominado `www.microsoft.com`, escriba:
+
+`tracert www.microsoft.com
+`
+
+Este es un ejemplo de salida:
+
+`Tracing route to e13678.dscb.akamaiedge.net [23.216.93.114]
+over a maximum of 30 hops:
+
+ 1 1 ms 1 ms <1 ms <devicename>.mshome.net [172.26.96.1]
+ 2 11 ms 13 ms 6 ms 192.168.191.20
+ 3 20 ms 11 ms 18 ms 192.168.1.1
+ 4 44 ms 41 ms 35 ms 10.228.0.1
+ 5 32 ms 31 ms 46 ms 10.41.0.49
+ 6 36 ms 39 ms 30 ms 10.41.0.221
+ 7 35 ms 36 ms 39 ms 10.41.0.225
+ 8 54 ms 45 ms 50 ms 204.111.0.147
+ 9 50 ms 52 ms 47 ms ae-39.a02.atlnga05.us.bb.gin.ntt.net [128.241.219.117]
+10 53 ms 51 ms 61 ms ae-5.r24.atlnga05.us.bb.gin.ntt.net [129.250.4.192]
+11 64 ms 45 ms 44 ms ae-0.a03.atlnga05.us.bb.gin.ntt.net [129.250.2.20]
+12 49 ms 67 ms 46 ms ae-0.akamai-onnet.atlnga05.us.bb.gin.ntt.net [128.241.1.122]
+13 67 ms 287 ms * ae20.r03.border101.atl02.fab.netarch.akamai.com [23.203.144.21]
+14 * * * Request timed out.
+15 * * * Request timed out.
+16 * * * Request timed out.
+17 204 ms 58 ms 51 ms a23-216-93-114.deploy.static.akamaitechnologies.com [23.216.93.114]
+
+Trace complete.
+`
+
+La columna inicial muestra el número de salto a partir del 1 y se incrementa con cada salto a lo largo de la ruta desde el dispositivo hasta el destino. Cada salto representa un dispositivo intermedio, como un enrutador, que el paquete pasa mientras viaja al destino final.
+
+Las tres columnas centrales muestran el tiempo de ida y vuelta en milisegundos (ms) para que un paquete viaje desde el dispositivo hasta el enrutador, en ese salto específico, y de vuelta al dispositivo. Se conoce como "tiempo de ping" o "latencia de ping" y mide el retraso en milisegundos del recorrido de ida y vuelta de los datos al enrutador. La latencia de red puede verse afectada por factores como la congestión de la red, la calidad de los vínculos de red y la distancia entre saltos.
+
+La columna final muestra la dirección IP o el nombre de host del enrutador o el dispositivo intermedio en ese salto específico de la ruta de acceso de red. En la mayoría de los casos, verá la dirección IP, pero si la búsqueda inversa de DNS se realiza correctamente, muestra los nombres de host, que pueden ayudar a identificar enrutadores por nombre.
+
+Para realizar un seguimiento de la ruta de acceso al host denominado `www.microsoft.com` e impedir la resolución de cada dirección IP en su nombre, escriba:
+
+`tracert /d www.microsoft.com
+`
+
+Para rastrear la ruta al host nombrado `www.microsoft.com` y utilizar la ruta de origen suelta 10.12.0.1/10.29.3.1/10.1.44.1, escriba:
+
+`tracert /j 10.12.0.1 10.29.3.1 10.1.44.1 www.microsoft.com
+`
+
+## Related links
+
+- 
+
+ Clave de sintaxis de línea de comandos
+
+- 
+
+ pathping command
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

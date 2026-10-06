@@ -1,0 +1,539 @@
+URL: https://www.pwg.org/ipp/
+Leído: 2026-10-05
+
+
+
+Internet Printing Protocol Workgroup - Printer Working Group
+
+ Toggle navigation
+
+ Login
+
+Home
+
+About 
+
+About the PWG
+
+Joining
+
+Members
+
+Officers
+
+BOF Sessions
+
+Mailing Lists
+
+Meetings
+
+Participating
+
+Privacy Policy
+
+Our Work 
+
+Publications
+
+Informational Documents
+
+Namespaces
+
+Standards
+
+Technologies
+
+3D Printing
+
+IPP Everywhere™
+
+PWG Semantic Model
+
+Workgroups 
+
+Active Workgroups
+
+Imaging Device Security
+
+Internet Printing Protocol
+
+Inactive Workgroups
+
+Cloud Imaging Model
+
+Semantic Model
+
+Workgroup for Imaging Management Solutions
+
+Search
+
+Search PWG
+
+ ×
+
+ Close
+
+Internet Printing Protocol Workgroup
+
+About
+
+Working Drafts
+
+Published Work
+
+References
+
+Charter
+
+The Internet Printing Protocol workgroup is developing standards for IPP-based multi-function services such as scanning and facsimile as well as 3D printing, is developing the PWG Semantic Model Print3d Service Schema, and is responsible for maintaining the IANA IPP, Printer MIB, Finisher MIB, and Job MIB registries. The workgroup also develops IPP Everywhere™ and manages the IPP Everywhere™ Printer Self-Certification program.
+
+View Approved Charter
+
+Frequently Asked Questions
+
+IPP Everywhere™
+
+3D Printing
+
+Officers
+
+Co-Chairs: Ira McDonald,
+ Paul Tykodi
+
+ Secretary: Michael Sweet
+
+How to Participate
+
+Weekly conference calls are held on Mondays at 3pm or 4pm US Eastern time. Announcements are made to the IPP mailing list.
+
+Mailing lists:
+
+IPP list: ipp@pwg.org
+ ·
+ Subscribe
+
+IPP Everywhere™ Self-Certification list: ippeveselfcert@pwg.org
+ ·
+ Subscribe
+
+3D Printing list: 3d-printing@pwg.org
+ ·
+ Subscribe
+
+Archives: Meeting Minutes
+ ·
+ IPP List Archive
+ ·
+ IPP Everywhere™ Self-Certification List Archive
+ ·
+ 3D Printing List Archive
+
+Registries and Attributes
+
+Registration Policy: Plain Text
+
+Attributes:
+ 3D Print Job Template
+ ·
+ FaxOut Job Template
+ ·
+ Print Job Template
+ ·
+ Scan Job Template
+ ·
+ SNMP Mapping
+
+Pending PWG IPP Registrations: XML
+
+IANA IPP Registrations: XML
+ ·
+ Plain Text
+
+IANA Service Name Registrations: XML
+ ·
+ Plain Text
+
+Vendor IPP Registrations: Vendor Operation Codes
+
+Repositories
+
+IPP IANA Registry Tools: Repository
+
+IPP Everywhere™ Printer Self-Certification Software: Repository
+
+IPP Sample Code: Repository
+
+PWG Books: Repository
+
+Organization Drafts
+
+IPP Workgroup Charter:
+ Clean
+ ·
+ Redlined
+ (Interim Draft - Last Updated October 3, 2026)
+
+Standards-Track Drafts
+
+IPP Encrypted Jobs and Documents v1.0 (TRUSTNOONE):
+ Clean
+ ·
+ Redlined
+ (Prototype Draft - Last Updated May 19, 2021)
+
+IPP Everywhere v2.0 (EVE), updating PWG 5100.14-2020:
+ Clean
+ ·
+ Redlined
+ (Stable Draft - Last Updated April 30, 2026)
+
+IPP Everywhere Printer Self-Certification Manual v2.0 (EVESELFCERT), updating PWG 5100.20-2020:
+ Clean
+ ·
+ Redlined
+ (Initial Draft - Last Updated May 10, 2022)
+
+IPP Firmware Update Extensions v1.0 (FWUPDATE):
+ Clean
+ ·
+ Redlined
+ (Prototype Draft - Last Updated September 23, 2026)
+
+Registration Drafts
+
+IPP Label and Receipt Printing Extensions v1.1 (LABEL):
+ Clean
+ ·
+ Redlined
+ (Interim Draft - Last Updated August 10, 2026)
+
+White Paper/Tech Brief/Best Practice Drafts
+
+IPP Strong Device Identity (IDENTITY):
+ Clean
+
+ (Initial Draft - Last Updated August 14, 2026)
+
+Books
+
+How to Use the Internet Printing Protocol:
+ HTML
+ PDF
+ EPUB
+
+Standards 
+
+PWG 5100.12-2024: Internet Printing Protocol/2.x Fourth Edition
+
+Candidate Standards 
+
+PWG 5100.1-2022: IPP Finishings 3.0 (FIN)
+
+ PWG 5100.2-2001: "output-bin" attribute extension
+
+ PWG 5100.3-2023: Production Printing Extensions v2.0 (PPX)
+
+ PWG 5100.5-2024: IPP Document Object v1.2
+
+ PWG 5100.6-2003: IPP Page Overrides
+
+ PWG 5100.7-2023: IPP Job Extensions v2.1 (JOBEXT)
+
+ PWG 5100.8-2003: IPP "-actual" attributes
+
+ PWG 5100.9-2009: IPP Printer State Extensions
+
+     Collected ABNF
+
+ PWG 5100.11-2024: IPP Enterprise Printing Extensions v2.0 (EPX)
+
+ PWG 5100.13-2023: IPP Driver Replacement Extensions v2.0 (NODRIVER)
+
+     Collected ABNF
+
+ PWG 5100.14-2020: IPP Everywhere™ v1.1
+
+ PWG 5100.15-2014: IPP FaxOut Service
+
+ PWG 5100.16-2020: IPP Transaction-Based Printing Extensions v1.1
+
+ PWG 5100.17-2014: IPP Scan Service
+
+ PWG 5100.18-2025: IPP Shared Infrastructure Extensions v1.1 (INFRA)
+
+ PWG 5100.19-2015: IPP Implementor's Guide v2.0 (IG)
+
+ PWG 5100.20-2020: IPP Everywhere™ Printer Self-Certification Manual v1.1 (SELFCERT)
+
+     Tools, etc.
+
+ PWG 5100.21-2019: IPP 3D Printing Extensions v1.1 (3D)
+
+ PWG 5100.22-2025: IPP System Service v1.1 (SYSTEM)
+
+ PWG 5100.23-2025: IPP OAuth Extensions v1.0 (OAUTH)
+
+PWG 5101.1-2023: PWG Media Standardized Names v2.1 (MSN)
+
+     Collected ABNF
+
+PWG 5102.4-2012: PWG Raster Format
+
+     Sample PWG Raster Data
+
+PWG 5107.3-2019: PWG MFD Alerts v1.1 (MFD Alerts)
+
+IETF RFCs
+
+RFC 2567: Design Goals for an Internet Printing Protocol
+
+ RFC 2568: Rationale for the Structure of the Model and Protocol for the Internet Printing Protocol
+
+ RFC 2569: Mapping between LPD and IPP Protocols
+
+ RFC 2707: Job Monitoring MIB - V1.0
+
+ RFC 2708: Job Submission Protocol Mapping Recommendations for the Job Monitoring MIB
+
+ RFC 2910: IPP/1.1 Encoding and Transport (replaced by RFC 8010)
+
+ RFC 2911: IPP/1.1 Model and Semantics (replaced by RFC 8011)
+
+RFC 3196: IPP/1.1 Implementers Guide
+
+ RFC 3239: IPP: Requirements for Job, Printer, and Device Administrative Operations
+
+ RFC 3380: IPP: Job and Printer Set Operations
+
+ RFC 3381: IPP: Job Progress Attributes (OBSOLETE)
+
+ RFC 3382: IPP: The Collection Attribute Syntax (replaced by RFCs 8010 and 8011)
+
+ RFC 3510: IPP: IPP URL Scheme
+
+ RFC 3805: Printer MIB v2
+
+ RFC 3806: Printer Finishing MIB
+
+ RFC 3995: IPP Event Notifications and Subscriptions
+
+ RFC 3996: The 'ippget' Delivery Method for Event Notifications
+
+ RFC 3997: Requirements for IPP Notifications
+
+ RFC 3998: IPP Job and Printer Administrative Operations
+
+RFC 7472: IPP over HTTPS Transport Binding and 'ipps' URI Scheme
+
+RFC 7612: Lightweight Directory Access Protocol (LDAP): Schema for Printer Services
+
+RFC 8010: IPP/1.1 Encoding and Transport
+
+ RFC 8011: IPP/1.1 Model and Semantics
+
+IPP Registration Documents 
+
+Deprecating IPP Print by Reference v1.0
+
+IPP Console Extensions v1.0 (CONSOLE)
+
+IPP Envelope Media Extensions v1.0 (ENVELOPE)
+
+IPP Label Printing Extensions v1.0
+
+IPP Privacy Attributes v1.0 (PRIVACY)
+
+IPP Wi-Fi Configuration Extensions v1.0 (WIFI)
+
+Best Practices 
+
+Supporting Multi-Purpose Trays (January 24, 2018)
+
+PWG 5199.5-2017: PWG 3D Print Job Ticket and Associated Capabilities v1.0 (PJT3D) (August 18, 2017)
+
+     Browsable Print3D XML Schema
+
+PWG 5199.6-2017: Mapping CIP4 JDF to PWG Job Ticket v1.0 (JDFMAP) (August 28, 2017)
+
+PWG 5199.7-2019: PWG Safe G-Code Subset for 3D Printing v1.0 (June 4, 2019)
+
+PWG 5199.10-2019: IPP Authentication Methods v1.0
+
+PWG 5199.11-2021: Job Accounting with IPP v1.0
+
+Historical
+
+IETF IPP Workgroup Charter (March 15, 2004)
+
+IPP Everywhere Slides (May 24, 2010)
+
+An Analysis of Raster Formats for Printing (September 22, 2011)
+
+Software
+
+Applications:
+
+RasterView: An Apple/CUPS/PWG Raster File Viewer
+
+Wireshark: Network Protocol Analyzer
+
+C:
+
+CUPS: Printing Software for Linux/UNIX
+ ·
+ Apple CUPS (legacy version)
+ ·
+ OpenPrinting CUPS (current version)
+ ·
+ CUPS Library v3
+
+IPP Sample Code
+
+PAPPL: Printer Application Framework
+
+Go:
+
+goipp
+
+Python:
+
+pycups: Python Bindings for CUPS/IPP
+
+pyipplib: IPP Client implementation (no CUPS dependency)
+
+pyipptool: Python Wrapper for ipptool (needs CUPS/IPP Sample Code)
+
+Java:
+
+cups4j: Java printing library for CUPS/IPP
+
+jipp: Core parser for a Java implementation of IPP
+
+jspi: IPP Client implementation (also implements Java Print Service API)
+
+Javascript:
+
+IPP Client implementation for nodejs
+
+IPP Printer implementation for nodejs
+
+Rust:
+
+ipp.rs: IPP protocol implementation for Rust
+
+Specifications
+
+Apple:
+
+Bonjour Printing Specification
+
+IETF:
+
+RFC 2246: Transport Layer Security 1.0
+
+RFC 2616: Hypertext Transfer Protocol -- HTTP/1.1 (replaced by RFCs 723x)
+
+RFC 2617: HTTP Authentication: Basic and Digest Access Authentication (replaced by RFCs 7616 and 7617)
+
+RFC 2817: Upgrading to TLS Within HTTP/1.1
+
+RFC 3391: The MIME Application/Vnd.pwg-multiplexed Content-Type
+
+RFC 3629: UTF-8 Transformation of ISO 10646
+
+RFC 4122: A Universally Unique IDentifier (UUID) URN Namespace
+
+RFC 4346: Transport Layer Security 1.1
+
+RFC 5198: Unicode Format for Network Interchange
+
+RFC 5246: Transport Layer Security 1.2
+
+RFC 6749: The OAuth 2.0 Authorization Framework
+
+RFC 6750: The OAuth 2.0 Authorization Framework: Bearer Token Usage
+
+RFC 6760: Requirements for a Protocol to Replace the AppleTalk Name Binding Protocol (NBP)
+
+RFC 6761: Special-Use Domain Names
+
+RFC 6762: Multicast DNS
+
+RFC 6763: DNS-Based Service Discovery
+
+RFC 7230: HTTP/1.1 - Message Syntax and Routing (replaced by RFCs 911x)
+
+RFC 7231: HTTP/1.1 - Semantics and Content (replaced by RFCs 911x)
+
+RFC 7232: HTTP/1.1 - Conditional Requests (replaced by RFCs 911x)
+
+RFC 7233: HTTP/1.1 - Range Requests (replaced by RFCs 911x)
+
+RFC 7234: HTTP/1.1 - Caching (replaced by RFCs 911x)
+
+RFC 7235: HTTP/1.1 - Authentication (replaced by RFCs 911x)
+
+RFC 7236: HTTP/1.1 - Authentication Scheme Registrations
+
+RFC 7237: HTTP/1.1 - Method Registrations
+
+RFC 7540: Hypertext Transfer Protocol Version 2 (HTTP/2) (replaced by RFC 9113)
+
+RFC 7541: HPACK: Header Compression for HTTP/2
+
+RFC 7615: HTTP Authentication-Info and Proxy-Authentication-Info Response Header Fields
+
+RFC 7616: HTTP Digest Access Authentication
+
+RFC 7617: The 'Basic' HTTP Authentication Scheme
+
+RFC 8252: OAuth 2.0 for Native Apps
+
+RFC 8414: OAuth 2.0 Authorization Server Metadata
+
+RFC 8446: The Transport Layer Security (TLS) Protocol Version 1.3 (replaced by RFC 9846)
+
+RFC 8470: Using Early Data in HTTP (for TLS/1.3 0-RTT mode)
+
+RFC 9110: HTTP Semantics
+
+RFC 9111: HTTP Caching
+
+RFC 9112: HTTP/1.1
+
+RFC 9113: HTTP/2
+
+RFC 9325: Recommendations for Secure Use of Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)
+
+RFC 9846: The Transport Layer Security (TLS) Protocol Version 1.3
+
+ISO:
+
+ISO 32000-1:2008: Document management — Portable document format — Part 1: PDF 1.7
+
+PWG:
+
+PWG 5101.2-2004: PWG RepertoireSupported Element
+
+PWG 5102.3-2004: Portable Document Format: Imaging Streamable (PDF/is)
+
+PWG 5105.1-2004: PWG Semantic Model
+
+PWG 5107.2-2010: PWG Command Set Format for IEEE 1284 Device ID v1.0
+
+PWG 5107.3-2012: Printer MIB and IPP MFD Alerts
+
+Unicode:
+
+Unicode 17.0
+
+Unicode Normalization Forms
+
+USB Implementers Forum:
+
+IPP USB Specification
+
+Comments are owned by the poster. All other material is Copyright © 2001-2026 The Printer Working Group. All rights reserved. IPP Everywhere, the IPP Everywhere logo, and the PWG logo are trademarks of the ISTO.
+
+About the PWG · Privacy Policy · PWG Webmaster
+

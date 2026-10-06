@@ -1,0 +1,112 @@
+URL: https://learn.microsoft.com/es-es/windows-server/remote/remote-desktop-services/remotepc/remote-desktop-allow-access
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Habilitar Escritorio remoto en el equipo
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10
+
+## 
+
+Puede usar Escritorio remoto para conectarse y controlar el equipo desde un dispositivo remoto mediante la aplicación de Windows o el cliente de Escritorio remoto de Microsoft. Cuando permite conexiones remotas a su PC, puede usar otro dispositivo para conectarse a su PC y tener acceso a todas sus aplicaciones, archivos y recursos de red como si estuviera sentado en el escritorio. Si solo necesita usar el equipo localmente, no es necesario habilitar escritorio remoto. Al habilitar Escritorio remoto, se abre un puerto en el equipo, lo que hace que sea accesible para los dispositivos de la red local. Habilite solo Escritorio remoto en redes de confianza, como la red doméstica, y evite habilitarlo en dispositivos que requieran controles de acceso estrictos. Cuando el Escritorio remoto está habilitado, los miembros del grupo Administradores y los usuarios que especifique pueden conectarse de forma remota. Asegúrese de que todas las cuentas con acceso remoto tengan contraseñas seguras y únicas para ayudar a proteger su PC.
+
+Note
+
+Puede usar Escritorio remoto para conectarse a equipos que ejecutan las ediciones Windows Professional, Enterprise, Education y Windows Server. Estas ediciones pueden actuar como anfitrionas para las conexiones de Escritorio Remoto entrantes. Sin embargo, las ediciones de Windows Home no pueden servir como hosts de Escritorio remoto, aunque se pueden usar como clientes para conectarse a otros sistemas que admiten el hospedaje de Escritorio remoto.
+
+Si necesita conectarse a su PC desde fuera de la red en la que se ejecuta su PC, puede usar el reenvío de puertos o configurar una VPN. Para obtener más información, consulta Permitir el acceso a tu PC desde fuera de la red de tu PC.
+
+## Prerequisites
+
+Debe ser miembro del grupo Administradores o tener privilegios administrativos para cambiar esta configuración del sistema.
+
+Para conectarse a un equipo remoto, asegúrese de que se cumplen los siguientes requisitos:
+
+- El equipo remoto está encendido y conectado a la red.
+
+- Escritorio remoto está habilitado en el equipo remoto.
+
+- Tiene acceso de red al equipo remoto (localmente o a través de Internet).
+
+- La cuenta de usuario puede conectarse (la cuenta se encuentra en la lista de usuarios permitidos).
+
+- Las conexiones a Escritorio remoto se permiten a través del firewall del equipo remoto.
+
+## Habilitar Escritorio remoto
+
+Puede configurar el equipo para el acceso remoto con unos pocos pasos sencillos.
+
+- Seleccione Inicio, Configuración y Sistema.
+
+- Seleccione Escritorio remoto, cambie la opción Habilitar Escritorio remoto a Activado.
+
+- Seleccione Confirmar en el cuadro de diálogo emergente para habilitar Escritorio remoto.
+
+De forma predeterminada, la casilla Hacer que mi PC se pueda detectar en redes privadas para habilitar la conexión automática desde un dispositivo remoto está activada.
+
+También puede configurar otras cuentas de usuario para que tengan acceso remoto al dispositivo siguiendo estos pasos:
+
+- 
+Mientras se encuentra en la configuración de Escritorio remoto, seleccione Seleccionar usuarios que puedan acceder de forma remota a este equipo.
+
+En versiones posteriores de Windows y Windows Server, seleccione Usuarios de Escritorio remoto.
+
+- 
+Seleccione Agregar, escriba el nombre de usuario y, a continuación, seleccione Aceptar. Se puede agregar más de una cuenta a la vez.
+
+## Conexión remota a un dispositivo
+
+Para abrir la aplicación Conexión a Escritorio remoto , siga estos pasos:
+
+- En el equipo local, seleccione Inicio, escriba Conexión a Escritorio remoto y abra la aplicación.
+
+- En la ventana Conexión a Escritorio remoto , escriba el nombre del equipo o la dirección IP del equipo remoto al que desea conectarse.
+
+- Seleccione Conectar, proporcione las credenciales y, a continuación, seleccione Aceptar.
+
+También puede conectarse a un dispositivo mediante la aplicación de Windows. Para obtener más información, consulte Introducción a la aplicación de Windows para conectarse a dispositivos y aplicaciones.
+
+## ¿Por qué permitir conexiones solo con autenticación de nivel de red?
+
+La autenticación de nivel de red (NLA) agrega una capa adicional de seguridad a las conexiones de Escritorio remoto. Con el NLA habilitado, los usuarios deben autenticarse antes de que se establezca una sesión remota, lo que reduce el riesgo de acceso no autorizado y ayuda a proteger el equipo frente a usuarios malintencionados y software. Se recomienda habilitar NLA para la mayoría de los entornos, ya que garantiza que solo los usuarios y dispositivos de confianza puedan conectarse. Sin embargo, si necesita conectarse desde dispositivos o clientes antiguos que no admiten NLA, es posible que tenga que deshabilitar esta opción temporalmente. Para obtener la mejor seguridad, mantenga el NLA habilitado siempre que sea posible.
+
+Para más información, consulte Configuración del NLA para conexiones RDS.
+
+## Consulte también
+
+- 
+
+ Introducción a servicios de Escritorio remoto en Windows Server
+
+- 
+
+ Solución de problemas de conexiones del Escritorio Remoto a una máquina virtual de Azure
+
+- 
+
+ Solucionar errores de autenticación cuando use RDP para conectarse a la máquina virtual de Azure
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

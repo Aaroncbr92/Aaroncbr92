@@ -1,0 +1,415 @@
+URL: https://support.microsoft.com/es-es/office/especificaciones-y-l%C3%ADmites-de-excel-1672b34d-7043-467e-8e27-269d656771c3
+Leído: 2026-10-05
+
+# Especificaciones y límites de Excel
+
+ Se aplica a
+Excel para Microsoft 365 Excel 2024 Excel 2021 Excel 2019 Excel 2016 
+
+Obtener ayuda con Copilot
+
+ ¿Cuál es la mejor manera de configurar especificaciones en Excel?
+
+ Explícame el mensaje de Memoria máxima o Tamaño de archivo excedido.
+
+ Proporcióname las especificaciones y límites de Excel.
+
+## Especificaciones y límites de las hojas de cálculo y de los libros
+
+ | 
+ Característica
+
+ | 
+ Límite máximo
+
+ | Libros abiertos
+
+ | En función de la memoria disponible y los recursos del sistema
+
+ | Número total de filas y columnas en una hoja de cálculo
+
+ | 1.048.576 filas por 16.384 columnas
+
+ | Ancho de columna
+
+ | 255 caracteres
+
+ | Alto de fila
+
+ | 409 puntos
+
+ | Saltos de página
+
+ | 1.026 horizontal y vertical
+
+ | Número total de caracteres que puede contener una celda
+
+ | 32.767 caracteres
+
+ | Caracteres en un encabezado o un pie de página
+
+ | 255
+
+ | Número máximo de saltos de línea por celda
+
+ | 253
+
+ | Hojas en un libro
+
+ | Limitado a la memoria disponible (el valor predeterminado es 1 hoja)
+
+ | Colores en un libro
+
+ | 16 millones de colores (32 bits con acceso completo al espectro de colores de 24 bits)
+
+ | Vistas con nombre en un libro
+
+ | En función de la memoria disponible
+
+ | Formatos o estilos de celdas distintos
+
+ | 65 490
+
+ | Estilos de relleno
+
+ | 256
+
+ | Grosor y estilos de línea
+
+ | 256
+
+ | Tipos de fuentes distintas
+
+ | 1.024 fuentes globales disponibles; 512 para cada libro
+
+ | Formatos de número en un libro
+
+ | Entre 200 y 250, según el idioma de la versión de Excel instalada
+
+ | Nombres en un libro
+
+ | En función de la memoria disponible
+
+ | Ventanas en un libro
+
+ | En función de la memoria disponible
+
+ | Hipervínculos en una hoja de cálculo
+
+ | 65 530
+
+ | Paneles en una ventana
+
+ | 4
+
+ | Hojas vinculadas
+
+ | En función de la memoria disponible
+
+ | Escenarios
+
+ | En función de la memoria disponible, un informe de resumen solo muestra los primeros 251 escenarios
+
+ | Celdas cambiantes en un escenario
+
+ | 32
+
+ | Celdas ajustables en Solver
+
+ | 200
+
+ | Funciones personalizadas
+
+ | En función de la memoria disponible
+
+ | Escala de zoom
+
+ | del 10 % al 400 %
+
+ | Informes
+
+ | En función de la memoria disponible
+
+ | Criterios de ordenación
+
+ | 64 combinados en una única operación; ilimitado en operaciones de ordenación secuenciales
+
+ | Niveles de deshacer
+
+ | 100
+
+ | Campos en un formulario
+
+ | 32
+
+ | Parámetros del libro
+
+ | 255 parámetros por libro
+
+ | Elementos mostrados en listas de filtros desplegables
+
+ | 10 000
+
+ | Celdas discontinuas que pueden seleccionarse
+
+ | Celdas 2.147.483.648
+
+ | Límites máximos de almacenamiento en memoria y tamaños de archivos para libros del modelo de datos
+
+ | El entorno de 32 bits está sujeto a una limitación de 2 gigabytes (GB) de espacio de direcciones virtuales, compartido por Excel, el libro y los complementos que se ejecuten en el mismo proceso. La parte de dirección del modelo de datos podría alcanzar de 500 a 700 megabytes (MB), pero podría ser inferior si se cargan otros modelos de datos y complementos.
+
+El entorno de 64 bits no impone límites estrictos al tamaño del archivo. El tamaño del libro está limitado solo por la memoria disponible y los recursos del sistema.
+
+A partir de Excel 2016, la función Detección de direcciones largas permite que Excel de 32 bits consuma el doble de memoria cuando los usuarios trabajan en un sistema operativo Windows de 64 bits. Para obtener más información, consulte Cambio de funcionalidad según detección de direcciones grandes para Excel.
+
+ Nota: Agregar tablas al modelo de datos aumenta el tamaño de archivo. Si no tiene previsto crear relaciones del modelo de datos complejas usando numerosos orígenes de datos y tipos de datos en su libro, desactive la casilla Agregar estos datos al modelo de datos al importar o crear tablas, tablas dinámicas o conexiones de datos. Para obtener más información, consulte Especificación y límites del modelo de datos.
+
+ | Núcleos del procesador
+
+ | 64
+
+ | Longitud del nombre de archivo
+
+ | 218 caracteres (esto incluye la ruta de acceso del archivo). Por ejemplo, C:\Username\Documents\FileName.xlsx.
+
+## Especificaciones y límites de los cálculos
+
+ | 
+ Característica
+
+ | 
+ Límite máximo
+
+ | Precisión numérica
+
+ | 15 dígitos
+
+ | Número negativo más bajo permitido
+
+ | -2,2251E-308
+
+ | Número positivo más bajo permitido
+
+ | 2,2251E-308
+
+ | Número positivo más alto permitido
+
+ | 9,99999999999999E+307
+
+ | Número negativo más alto permitido
+
+ | -9,99999999999999E+307
+
+ | Número positivo más alto permitido mediante fórmula
+
+ | 1,7976931348623158e+308
+
+ | Número negativo más alto permitido mediante fórmula
+
+ | -1,7976931348623158e+308
+
+ | Longitud del contenido de una fórmula
+
+ | 8.192 caracteres
+
+ | Longitud interna de la fórmula
+
+ | 16.384 bytes
+
+ | Iteraciones
+
+ | 32 767
+
+ | Matrices en una hoja
+
+ | En función de la memoria disponible
+
+ | Rangos seleccionados
+
+ | 2 048
+
+ | Argumentos en una función
+
+ | 255
+
+ | Niveles anidados de funciones
+
+ | 64
+
+ | Categorías de funciones definidas por el usuario
+
+ | 255
+
+ | Número de funciones de hoja de cálculo disponibles
+
+ | 341
+
+ | Tamaño de la pila de operandos
+
+ | 1,024
+
+ | Dependencia entre hojas de cálculo
+
+ | 64.000 hojas de cálculo pueden hacer referencia a otras hojas
+
+ | Dependencia de fórmulas de matriz entre hojas de cálculo
+
+ | En función de la memoria disponible
+
+ | Dependencia de áreas
+
+ | En función de la memoria disponible
+
+ | Dependencia de áreas en cada hoja de cálculo
+
+ | En función de la memoria disponible
+
+ | Dependencia en una sola celda
+
+ | 4.000 mil millones de fórmulas pueden depender de una sola celda
+
+ | Longitud del contenido de celdas vinculadas de libros cerrados
+
+ | 32 767
+
+ | Primera fecha permitida en un cálculo
+
+ | 1 de enero de 1900 (1 de enero de 1904, si se utiliza la fecha del sistema)
+
+ | Última fecha permitida en un cálculo
+
+ | 31 de diciembre de 9999
+
+ | Período de tiempo máximo que puede escribirse
+
+ | 9999:59:59
+
+## Especificaciones y límites de los gráficos
+
+ | 
+ Característica
+
+ | 
+ Límite máximo
+
+ | Gráficos vinculados a una hoja
+
+ | En función de la memoria disponible
+
+ | Hojas a las que hace referencia un gráfico
+
+ | 255
+
+ | Series de datos en un gráfico
+
+ | 255
+
+ | Puntos de datos en una serie de datos para gráficos 2D
+
+ | En función de la memoria disponible
+
+ | Puntos de datos en una serie de datos para gráficos 3D
+
+ | En función de la memoria disponible
+
+ | Puntos de datos en todas las series de un gráfico
+
+ | En función de la memoria disponible
+
+## Especificaciones y límites de los informes de tablas dinámicas y gráficos dinámicos
+
+ | 
+ Característica
+
+ | 
+ Límite máximo
+
+ | Informes de tabla dinámica en una hoja
+
+ | En función de la memoria disponible
+
+ | Número de elementos únicos por cada campo
+
+ | 1 048 576
+
+ | Campos de fila o columna en un informe de tabla dinámica
+
+ | En función de la memoria disponible
+
+ | Filtros de informe en un informe de tabla dinámica
+
+ | 256 (puede estar en función de la memoria disponible)
+
+ | Campos de valores en un informe de tabla dinámica
+
+ | 256
+
+ | Fórmulas de elementos calculados en un informe de tabla dinámica
+
+ | En función de la memoria disponible
+
+ | Filtros de informe en un informe de gráfico dinámico
+
+ | 256 (puede estar en función de la memoria disponible)
+
+ | Campos de valores en un informe de gráfico dinámico
+
+ | 256
+
+ | Fórmulas de elementos calculados en un informe de gráfico dinámico
+
+ | En función de la memoria disponible
+
+ | Longitud del nombre MDX para un elemento de tabla dinámica
+
+ | 32 767
+
+ | Longitud de una cadena de tabla dinámica relacional
+
+ | 32 767
+
+ | Elementos mostrados en listas de filtros desplegables
+
+ | 10 000
+
+## Libros con la configuración "Permitir que más de un usuario pueda hacer cambios..." activada
+
+Si la configuración Permitir que más de un usuario pueda hacer cambios... está activada para un libro, se aplica la siguiente información. Para acceder a esta configuración, haga clic en la pestaña >Revisary Compartir libro. Tenga en cuenta que, en la versión más reciente de Excel, el botón Compartir libro se ha ocultado. Para mostrarlo, haga clic enBarra de herramientas de acceso rápidoOpciones> de archivo>. Abra la lista Elegir comandos de y seleccione Todos los comandos. Desplácese por esa lista hasta que vea Compartir libro (heredado). Seleccione dicho elemento y haga clic en Agregar. Haga clic en Aceptar. El botón Compartir libro ahora se encuentra en la parte superior de la ventana de Excel.
+
+ | 
+ Característica
+
+ | 
+ Límite máximo
+
+ | Usuarios que pueden abrir el archivo al mismo tiempo
+
+ | 256
+
+ | Vistas personales en el libro
+
+ | En función de la memoria disponible
+
+ | Días que se mantiene el historial de cambios
+
+ | 32.767 (el valor predeterminado es 30 días)
+
+ | Libros que pueden combinarse a la vez
+
+ | En función de la memoria disponible
+
+ | Celdas que pueden resaltarse
+
+ | 32 767
+
+ | Colores utilizados para identificar los cambios realizados por diferentes usuarios si el resaltado de cambios está activado
+
+ | 32 (cada usuario se identifica mediante un color; los cambios realizados por el usuario actual se resaltarán en color azul marino)
+
+ | Tablas de Excel del libro
+
+ | 0 (cero)
+
+ Nota: Un libro que contiene una o más tablas de Excel no puede tener habilitada la opción Permitir cambios por parte de más de un usuario.
+
+ Principio de página

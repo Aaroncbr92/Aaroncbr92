@@ -1,0 +1,88 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/gpupdate
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# gpupdate
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Actualiza la configuración de directiva de grupo.
+
+## Syntax
+
+`gpupdate [/target:{computer | user}] [/force] [/wait:<VALUE>] [/logoff] [/boot] [/sync] [/?]
+`
+
+### Parameters
+
+ | Parameter
+
+ | Description
+
+ | /target:`{computer|user}`
+
+ | Especifica que solo se actualizan la configuración de directiva usuario o solo equipo. De forma predeterminada, se actualizan la configuración de directiva de usuario y equipo.
+
+ | /force
+
+ | Vuelve a aplicar todas las configuraciones de directiva. De forma predeterminada, solo se aplican las opciones de configuración de directiva que han cambiado.
+
+ | /wait:`<VALUE>`
+
+ | Establece el número de segundos que se deben esperar a que finalice el procesamiento de directivas antes de volver al símbolo del sistema. Cuando se supera el límite de tiempo, aparece el símbolo del sistema, pero el procesamiento de directivas continúa. El valor predeterminado es 600 segundos. El valor 0 significa no esperar. El valor -1 significa esperar indefinidamente.
+En un script, mediante el uso de este comando con un límite de tiempo especificado, puede ejecutar gpupdate y continuar con comandos que no dependen de la finalización de gpupdate. Como alternativa, puede usar este comando sin límite de tiempo especificado para permitir que gpupdate termine de ejecutarse antes de que se ejecuten otros comandos que dependen de él.
+
+ | /logoff
+
+ | Provoca un inicio de sesión después de actualizar la configuración de directiva de grupo. Esto es necesario para las extensiones del lado cliente de directiva de grupo que no procesan la directiva en un ciclo de actualización en segundo plano, sino que realizan directivas de proceso cuando un usuario inicia sesión. Entre los ejemplos se incluyen la instalación de software de destino del usuario y la redirección de carpetas. Esta opción no tiene ningún efecto si no hay extensiones llamadas que requieren un logoff.
+
+ | /boot
+
+ | Hace que se reinicie un equipo después de aplicar la configuración de directiva de grupo. Esto es necesario para las extensiones del lado cliente de directiva de grupo que no procesan la directiva en un ciclo de actualización en segundo plano, sino que realizan directivas de proceso al iniciar el equipo. Algunos ejemplos son la instalación de software de destino del equipo. Esta opción no tiene ningún efecto si no hay extensiones llamadas que requieren un reinicio.
+
+ | /sync
+
+ | Hace que la siguiente aplicación de directiva en primer plano se realice sincrónicamente. La directiva de primer plano se aplica en el arranque del equipo y el inicio de sesión del usuario. Puede especificar esto para el usuario, el equipo o ambos, mediante el parámetro /target . Los parámetros /force y /wait se omiten si los especifica.
+
+ | /?
+
+ | Muestra ayuda en el símbolo del sistema.
+
+### Examples
+
+Para forzar una actualización en segundo plano de toda la configuración de directiva de grupo, independientemente de si han cambiado, escriba:
+
+`gpupdate /force
+`
+
+## Related links
+
+- 
+ Clave de sintaxis de línea de comandos
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

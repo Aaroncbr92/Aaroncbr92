@@ -1,0 +1,149 @@
+URL: https://learn.microsoft.com/en-us/windows-hardware/drivers/image/windows-image-acquisition-drivers
+Leído: 2026-10-05
+
+ 
+
+ Windows Image Acquisition Drivers - Windows drivers | Microsoft Learn
+
+ Skip to main content
+
+ Skip to Ask Learn chat experience
+
+This browser is no longer supported.
+
+ Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+
+ Download Microsoft Edge
+
+ More info about Internet Explorer and Microsoft Edge
+
+ Table of contents 
+
+ Exit editor mode
+
+ Ask Learn
+
+ Ask Learn
+
+ Reading mode
+
+ Table of contents
+
+ Read in English
+
+ Add
+
+ Add to Plans
+
+ Edit
+
+ Copy Markdown
+
+ Print
+
+ Note
+
+ Access to this page requires authorization. You can try signing in or changing directories.
+
+ Access to this page requires authorization. You can try changing directories.
+
+Windows Image Acquisition drivers
+
+ Feedback
+
+ Summarize this article for me
+
+ In this article
+
+The Microsoft Windows Image Acquisition (WIA) programming interface is a Still Image (STI) architecture for Windows. This documentation explains how to develop a WIA driver that supports communication to imaging devices such as digital cameras and scanners.
+
+WIA is a full-featured imaging architecture that evolved from the Windows STI model. WIA provides robustness, reliability, a consistent user experience, and built-in driver support for industry standard protocols such as the Picture Transfer Protocol (PTP) for cameras.
+
+For information about programming imaging applications, see the WIA Application Programming Interface.
+
+This section contains the following articles:
+
+Introduction to WIA
+
+WIA Driver Fundamentals
+
+Developing a WIA Driver
+
+WIA Minidriver Best Practices
+
+Building, Troubleshooting and Debugging WIA Minidrivers
+
+WIA Samples and Tools
+
+Installing a WIA Minidriver
+
+Feedback
+
+ Was this page helpful?
+
+ Yes
+
+ No
+
+ No
+
+ Need help with this topic?
+
+ Want to try using Ask Learn to clarify or guide you through this topic?
+
+ Ask Learn
+
+ Ask Learn
+
+ Suggest a fix? 
+
+ Additional resources
+
+ Last updated on 
+ 2024-12-18
+
+In this article
+
+ Was this page helpful?
+
+ Need help with this topic?
+
+ Want to try using Ask Learn to clarify or guide you through this topic?
+
+ Ask Learn
+
+ Ask Learn
+
+ Suggest a fix? 
+
+ en-us
+
+ Your Privacy Choices
+
+ Theme
+
+ Light 
+
+ Dark 
+
+ High contrast 
+
+ AI Disclaimer
+
+ Previous Versions
+
+ Blog
+
+ Contribute
+
+ Privacy
+
+ Consumer Health Privacy
+
+ Terms of Use
+
+ Trademarks
+
+© Microsoft 2026
+
+ 

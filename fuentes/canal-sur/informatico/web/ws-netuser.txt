@@ -1,0 +1,195 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/net-user
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# net user
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+El `net user` comando permite agregar, modificar o eliminar cuentas de usuario y mostrar información detallada sobre las cuentas de usuario en un equipo o dominio local.
+
+## Syntax
+
+`net user [<UserName> {<Password> | *} [<Options>]] [/domain]
+net user [<UserName> {<Password> | *} /add [<Options>] [/domain]]
+net user [<UserName> [/delete] [/domain]]
+net user username [/times:{times | all}]
+net user username [/active: {yes | no}]
+`
+
+## Parameters
+
+ | Parameter
+
+ | Description
+
+ | `<UserName>`
+
+ | Especifica el nombre de la cuenta de usuario que se va a agregar, eliminar, modificar o ver. El nombre de la cuenta de usuario puede tener hasta 20 caracteres.
+
+ | `<Password>`
+
+ | Asigna o cambia una contraseña para la cuenta del usuario. Escriba un asterisco (`*`) para generar una solicitud de contraseña. La contraseña no se muestra cuando el usuario lo escribe en el mensaje de contraseña.
+
+ | `<Options>`
+
+ | Especifica una opción de línea de comandos. Consulte la tabla siguiente para obtener descripciones de la sintaxis de la opción de línea de comandos.
+
+ | `/domain`
+
+ | Realiza la operación en el controlador de dominio del dominio principal del equipo.
+
+ | `/add`
+
+ | Agrega una nueva cuenta de usuario. Cuando se combina con `/domain`, especifica que la cuenta debe crearse en el dominio en lugar de en la máquina local.
+
+ | `/delete`
+
+ | Elimina la cuenta de usuario especificada. Cuando se combina con `/domain`, elimina la cuenta del dominio en lugar de la máquina local.
+
+ | `/times:{<Day>[-<Day>][,<Day>[-<Day>]],<Time>[-<Time>][,<Time>[-<Time>]][;] \| all}`
+
+ | Especifica los días y horas en que los usuarios pueden iniciar sesión en el equipo. 
+
+ `<Time>` debe estar en incrementos de una hora. 
+
+ `<Day>` se puede escribir o abreviar (`M, T, W, Th, F, Sa, Su`). Las horas se pueden especificar en formato de 12 horas (con AM/PM o A.M./P.M.) o formato de 24 horas. 
+
+ Use todo para permitir el inicio de sesión en cualquier momento o déjelo en blanco para evitar el inicio de sesión por completo. Separe los días y las horas con comas, y separe varias entradas de día/hora con punto y coma (por ejemplo: M, 4AM-5PM; T, 1PM-3PM). No incluya espacios en las designaciones de tiempo.
+
+ | `/active:{yes \| no}`
+
+ | Habilita o deshabilita la cuenta de usuario. Si la cuenta de usuario no está activa, el usuario no puede acceder a los recursos del equipo. El valor predeterminado es sí.
+
+ | ?
+
+ | Muestra la información de ayuda del comando.
+
+ | Sintaxis del parámetro Options
+
+ | Description
+
+ | `/comment:"<Text>"`
+
+ | Proporciona un comentario descriptivo sobre la cuenta del usuario. Este comentario puede tener hasta 48 caracteres. El texto debe ir entre comillas dobles.
+
+ | `/countrycode:<NNN>`
+
+ | Usa los códigos de país o región del sistema operativo para implementar los archivos de idioma especificados para los mensajes de error y ayuda de un usuario. Un valor de 0 significa el código de país o región predeterminado .
+
+ | `/expires:{{<MM/DD/YYYY> \| <DD/MM/YYYY> \| <mmm,dd,YYYY>} \| never}`
+
+ | Establece el período de expiración de la cuenta de usuario especificada. Las fechas de expiración pueden estar en los formatos [MM/DD/AAAA], [DD/MM/AAAA] o [mmm,dd,AAAA], según el código país o región. 
+
+ `never` especifica que una cuenta de usuario no tiene una fecha de expiración. Cuando establece una cuenta para que nunca expire, significa que la cuenta permanece activa indefinidamente, a menos que un administrador deshabilite o elimine manualmente. Las cuentas se establecen para que nunca expiren de forma predeterminada. 
+
+ La cuenta expira al principio de la fecha especificada. Para el valor del mes , puede usar números (`1` para enero), deletrearlo (`January`) o usar una abreviatura de tres letras (`Jan`, `Feb`, etc.). Puede usar dos o cuatro números para el valor del año. Use comas o barras diagonales para separar partes de la fecha. No use espacios. Si se omite`<YYYY>`, se asume la siguiente aparición de la fecha. 
+
+Por ejemplo, las siguientes entradas son equivalentes si se escriben entre el 10 de enero de 2018 y el 8 de enero de 2019: 
+
+ Jan,9
+
+ 1/9/18
+
+ January,9,2019
+
+ 1/9
+
+ | `/fullname:"<Name>"`
+
+ | Especifica el nombre completo de un usuario en lugar de un nombre de usuario. Escriba el nombre entre comillas.
+
+ | `/homedir:<Path>`
+
+ | Establece la ruta de acceso del directorio principal del usuario. La ruta de acceso debe existir.
+
+ | `/passwordchg:{yes \| no}`
+
+ | Especifica si los usuarios pueden cambiar su propia contraseña. El valor predeterminado es sí.
+
+ | `/passwordreq:{yes \| no}`
+
+ | Especifica si una cuenta de usuario debe tener una contraseña. El valor predeterminado es sí.
+
+ | `/profilepath:[<Path>]`
+
+ | Establece una ruta de acceso para el perfil de inicio de sesión del usuario. Esta ruta de acceso apunta a un perfil del Registro.
+
+ | `/scriptpath:<Path>`
+
+ | Especifica la ruta de acceso relativa al script de inicio de sesión del usuario. La ruta de acceso no debe ser absoluta; use una ruta de acceso relativa como `\\domain\SysVol\domain\scripts`.
+
+ | `/usercomment:"<Text>"`
+
+ | Especifica que un administrador puede agregar o cambiar el "Comentario de usuario" para la cuenta. El texto debe ir entre comillas dobles.
+
+ | `/workstations:{<ComputerName>[,...] \| *}`
+
+ | Enumera hasta ocho (8) estaciones de trabajo desde las que un usuario puede iniciar sesión en la red. Separe varias entradas de la lista con comas. Si `/workstations` no tiene ninguna lista o si la lista es un asterisco (`*`), los usuarios pueden iniciar sesión desde cualquier equipo.
+
+Note
+
+Una contraseña debe satisfacer el valor mínimo de longitud de contraseña que se establece con el comando net accounts /minpwlen . Una contraseña puede tener hasta 127 caracteres.
+
+## Examples
+
+Para mostrar una lista de todas las cuentas de usuario del equipo local, ejecute el siguiente comando:
+
+`net user
+`
+
+Para mostrar información sobre la cuenta de usuario TommyH, ejecute el siguiente comando:
+
+`net user tommyh
+`
+
+Para agregar una cuenta de usuario para Jay Samson (nombre de usuario: jays), con derechos de inicio de sesión de 8 a.m. a 5 p.m., de lunes a viernes, con la contraseña obligatoria Cyk4^g3B, y usar el nombre completo del usuario, ejecute el siguiente comando:
+
+`net user jays Cyk4^g3B /add /passwordreq:yes /times:monday-friday,8am-5pm /fullname:"Jay Jamison"
+`
+
+Para establecer la hora de inicio de sesión de 8 a. m. a 5 p. m. para el nombre de usuario MikeD mediante la notación de 24 horas, ejecute el siguiente comando:
+
+`net user miked /time:M-F,08:00-17:00
+`
+
+Para establecer la hora de inicio de sesión de 8 a. m. a 5 p. m. para MikeD mediante notación de 12 horas, ejecute el siguiente comando:
+
+`net user miked /time:M-F,8AM-5PM
+`
+
+Para especificar el horario de inicio de sesión de 4 a. m. a 12 p. m. los lunes, de 12 p. m. a 8 p. m. los martes y de 8 a. m. a 5 p. m. de miércoles a viernes para el nombre de usuario AnibalS, ejecute el siguiente comando:
+
+`net user anibals /time:M,4AM-12PM;T,12PM-8PM;W-F,8AM-5PM
+`
+
+## See also
+
+ Clave de sintaxis de línea de comandos
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-14

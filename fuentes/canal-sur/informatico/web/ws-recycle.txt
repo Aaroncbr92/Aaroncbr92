@@ -1,0 +1,149 @@
+URL: https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/get-started/adac/active-directory-recycle-bin
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Habilitación y uso de la Papelera de reciclaje de Active Directory
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+La Papelera de reciclaje de Active Directory permite conservar y recuperar objetos de Active Directory eliminados por error. Al habilitar la Papelera de reciclaje de Active Directory, se conservan todos los atributos con y sin valor de vínculo de los objetos de Active Directory eliminados. Esto significa que los objetos se pueden restaurar en su totalidad al mismo estado lógico coherente en el que se encontraban inmediatamente antes de la eliminación. Por ejemplo, las cuentas de usuario restauradas recuperan automáticamente todas las pertenencias a grupos y los derechos de acceso correspondientes que tenían justo antes de la eliminación, tanto dentro de los dominios como entre ellos.
+
+Importante
+
+La Papelera de reciclaje de Active Directory no está habilitada de forma predeterminada. El proceso de habilitar la papelera de reciclaje de Active Directory es irreversible. Una vez habilitada la Papelera de reciclaje de Active Directory en el entorno, no se puede deshabilitar.
+
+## Requisitos previos
+
+Para poder habilitar la Papelera de reciclaje de Active Directory, debe completar los siguientes requisitos previos.
+
+- 
+El nivel funcional del bosque y el dominio debe ser Windows Server 2008 R2 o posterior.
+
+- 
+Debe ser miembro del grupo Administradores de dominio en el dominio que desea habilitar la Papelera de reciclaje de Active Directory.
+
+- 
+Debe tener instalada alguna de las siguientes herramientas de administración remota de servidores (RSAT):
+
+- Centro de administración de Active Directory (ADAC)
+
+- Módulo de Active Directory para Windows PowerShell.
+
+## Habilitación de Papelera de reciclaje de Active Directory
+
+Para habilitar la Papelera de reciclaje de Active Directory, siga estos pasos:
+
+- 
+
+ Centro de administración de Active Directory
+
+- 
+
+ PowerShell
+
+Procedimiento para habilitar la Papelera de reciclaje de Active Directory mediante el Centro de administración de Active Directory (ADAC):
+
+- 
+Inicie sesión en un equipo que tenga instalado el módulo de Active Directory para Windows PowerShell.
+
+- 
+Abra el Centro de administración de Active Directory, ya sea desde el menú Herramientas de la consola de Administrador del servidor o ejecutando una sesión de PowerShell con privilegios elevados y escribiendo dsac.exe.
+
+- 
+Si no está seleccionado el dominio de destino adecuado, elija Administrar, Agregar nodos de navegación y seleccione el dominio de destino adecuado en el cuadro de diálogo Agregar nodos de navegación y, a continuación, elija Aceptar.
+
+- 
+En el panel Tareas , elija Habilitar Papelera de reciclaje en el panel Tareas , elija Aceptar en el cuadro de mensaje de advertencia y luego elija Aceptar para actualizar el mensaje de ADAC.
+
+- 
+Para actualizar ADAC, pulse F5 o seleccione el icono de actualización.
+
+Aquí se muestra cómo habilitar la Papelera de reciclaje de Active Directory mediante el cmdlet Enable-ADOptionalFeature.
+
+- 
+Abra una sesión de PowerShell con privilegios elevados, haga clic con el botón derecho en el botón Inicio, elija Windows PowerShell (Administrador).
+
+- 
+Ejecute el siguiente comando para habilitar la Papelera de reciclaje de Active Directory en el dominio `contoso.com`:
+
+`Enable-ADOptionalFeature -Identity 'CN=Recycle Bin Feature,CN=Optional Features,CN=Directory Service,CN=Windows NT,CN=Services,CN=Configuration,DC=contoso,DC=com' -Scope ForestOrConfigurationSet -Target 'contoso.com'
+`
+
+Si se produce un error, puede intentar mover el maestro de esquema y los roles maestros de nomenclatura de dominio al mismo controlador de dominio del dominio raíz. Después, ejecute el cmdlet desde ese controlador de dominio.
+
+## Restauración de objetos eliminados
+
+Siga estos pasos para restaurar objetos eliminados mediante el Centro de administración de Active Directory.
+
+Sugerencia
+
+Solo puede restaurar los elementos de AD DS que se eliminaron después de habilitar la Papelera de reciclaje de Active Directory. No puede usar la Papelera de reciclaje de Active Directory para recuperar los elementos que se eliminaron antes de habilitar esta funcionalidad.
+
+- 
+
+ Centro de administración de Active Directory
+
+- 
+
+ PowerShell
+
+Aquí se muestra cómo restaurar objetos eliminados mediante el Centro de administración de Active Directory:
+
+- 
+Abra el Centro de administración de Active Directory, ya sea desde el menú Herramientas de la consola de Administrador del servidor o ejecutando una sesión de PowerShell con privilegios elevados y escribiendo dsac.exe.
+
+- 
+Elija Administrar, Agregar nodos de navegación y seleccione el dominio de destino apropiado en el cuadro de diálogo Agregar nodos de navegación y, a continuación, elija Aceptar.
+
+- 
+Vaya al contenedor Objetos eliminados.
+
+- 
+Seleccione los usuarios que desea restaurar y, a continuación, elija Restaurar en el panel Tareas o Restaurar a en el panel Tareas y especifique la ubicación en la que desea restaurar los objetos eliminados.
+
+- 
+Para confirmar que los objetos se restauraron a su ubicación original, navegue al dominio de destino y compruebe que se enumeren las cuentas de usuario.
+
+Aquí se muestra cómo restaurar objetos eliminados mediante el cmdlet Restore-ADObject.
+
+- 
+Abra una sesión de PowerShell con privilegios elevados, haga clic con el botón derecho en el botón Inicio, elija Windows PowerShell (Administrador).
+
+- 
+Restaure todos los objetos eliminados que incluyan el nombre "test" mediante el siguiente comando:
+
+`Get-ADObject -Filter 'Name -Like "*User*"' -IncludeDeletedObjects | Restore-ADObject
+`
+
+- 
+Restaure los objetos eliminados en una ubicación diferente mediante el cmdlet `Restore-ADObject` con el parámetro `-TargetPath`. Por ejemplo, para restaurar todos los objetos que incluyen el nombre "Usuario" en la unidad organizativa `Corp` en el dominio `contoso.com`, ejecute el comando:
+
+`Get-ADObject -Filter 'Name -Like "*User*"' -IncludeDeletedObjects | Restore-ADObject -TargetPath "OU=Corp,DC=contoso,DC=com"
+`
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-14

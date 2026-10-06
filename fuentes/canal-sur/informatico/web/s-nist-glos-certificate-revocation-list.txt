@@ -1,0 +1,29 @@
+URL: https://csrc.nist.gov/glossary/term/certificate_revocation_list
+Leído: 2026-10-05
+
+Definitions:
+A list of revoked public key certificates created and digitally signed by a certification authority.
+Sources:
+FIPS 201-3
+under Certificate Revocation List
+from
+RFC 5280
+- adapted
+,
+RFC 6818
+- adapted
+These are digitally signed “blacklists” of revoked certificates. Certification authorities (CAs) periodically issue certificate revocation lists (CRLs), and users can retrieve them on demand via repositories.
+Sources:
+CNSSI 4009-2022
+from
+CNSSI 1300
+A list of revoked public key certificates created and digitally signed by a Certification Authority.
+Sources:
+NIST SP 1800-12b
+under certificate revocation list
+NISTIR 7711
+under Certificate Revocation List
+A list maintained by a Certification Authority of the certificates which it has issued that are revoked prior to their stated expiration date.
+Sources:
+NIST SP 1800-27C
+under Certificate Revocation List

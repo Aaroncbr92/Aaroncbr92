@@ -1,0 +1,77 @@
+URL: https://support.microsoft.com/es-es/windows/experience/backup-recovery/system-restore
+Leído: 2026-10-05
+
+# Restauración del sistema
+
+ Se aplica a
+Windows 11 Windows 10 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo recupero mi PC desde un punto de restauración?
+
+ Háblame sobre la copia de seguridad, restauración y recuperación.
+
+ ¿Cómo aplico un punto de restauración desde Windows?
+
+Con Restaurar sistema puedes revertir el estado del equipo a un momento dado anterior. Esto puede ser especialmente útil para solucionar problemas causados por cambios recientes, como instalaciones de software, actualizaciones de controladores o modificaciones de la configuración del sistema. Al usar Restaurar sistema, puede deshacer estos cambios sin afectar a sus archivos personales, lo que proporciona una forma segura de resolver problemas sin perder datos importantes.
+
+Restaurar sistema funciona mediante la utilización de puntos de restauración, que son instantáneas de la configuración y las opciones del sistema en un momento específico. El sistema puede crear estos puntos de restauración automáticamente durante eventos importantes, como instalaciones o actualizaciones de software, o manualmente antes de realizar cambios importantes. Para obtener más información, consulta Protección del sistema.
+
+Cuando se selecciona un punto de restauración, Restaurar sistema revierte los archivos de sistema, la configuración del Registro y los programas instalados al estado que estaban en el momento en que se creó el punto de restauración. Esto ayuda a mantener la estabilidad del sistema y puede ser una herramienta valiosa para recuperarse de problemas inesperados.
+
+## Recuperar el equipo desde un punto de restauración del sistema
+
+Puede aplicar un punto de restauración cuando haya iniciado sesión en Windows o desde el Entorno de recuperación de Windows (Windows RE).
+
+Seleccione la opción que mejor se adapte a sus necesidades:
+
+### Aplicar un punto de restauración de Windows
+
+- 
+Para abrir Restaurar sistema, puede usar uno de los métodos siguientes:
+
+- En el Panel de control, seleccione Recuperación y elija Abrir Restaurar sistema.
+
+- Use el método abreviado R
+ +de teclado , escriba rstrui.exe y presione Enter.
+
+- 
+En el cuadro Restaurar archivos y configuración del sistema, selecciona Siguiente.
+
+- 
+Selecciona el punto de restauración que quieres usar en la lista de resultados. Si no ves el punto de restauración que quieres usar, activa la casilla Mostrar más puntos de restauración para ver más puntos de restauración.
+
+- 
+Opcionalmente, seleccione Buscar programas afectados.
+
+- 
+Cuando encuentres el punto de restauración adecuado, selecciona Siguiente y elige Finalizar.
+
+- 
+Después de aplicar el punto de restauración, Windows se reinicia automáticamente.
+
+### Aplicar un punto de restauración desde Windows RE (RE)
+
+Nota
+
+Si has cifrado el dispositivo, necesitarás la clave de BitLocker para completar esta tarea. Si no conoces la clave de BitLocker, consulta Buscar la clave de recuperación de BitLocker.
+
+- 
+
+ Obtener acceso al Entorno de recuperación de Windows.
+
+- 
+Una vez en Windows RE, seleccione Solucionar problemas, elija Opciones avanzadas y, a continuación, Restaurar sistema.
+
+- 
+Selecciona el punto de restauración que quieres usar en la lista de resultados. Si no ves el punto de restauración que quieres usar, activa la casilla Mostrar más puntos de restauración para ver más puntos de restauración.
+
+- 
+Opcionalmente, seleccione Buscar programas afectados.
+
+- 
+Cuando encuentres el punto de restauración adecuado, selecciona Siguiente y elige Finalizar.
+
+- 
+Una vez aplicado el punto de restauración, selecciona Reiniciar.

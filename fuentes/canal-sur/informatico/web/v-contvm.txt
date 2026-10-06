@@ -1,0 +1,123 @@
+URL: https://learn.microsoft.com/es-es/virtualization/windowscontainers/about/containers-vs-vm
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Contenedores frente a máquinas virtuales
+
+## 
+
+Se aplica a: Windows Server 2025, Windows Server 2022, Windows Server 2019, Windows Server 2016
+
+En este tema se describen algunas de las principales similitudes y diferencias entre contenedores y máquinas virtuales (VM) y cuándo es posible que desee usar cada una. Los contenedores y las máquinas virtuales tienen sus usos, de hecho, muchas implementaciones de contenedores usan máquinas virtuales como sistema operativo host en lugar de ejecutarse directamente en el hardware, especialmente cuando se ejecutan contenedores en la nube.
+
+Para obtener información general sobre los contenedores, consulte Windows y contenedores.
+
+## Arquitectura de contenedor
+
+Un contenedor es un silo aislado y ligero para ejecutar una aplicación en el sistema operativo host. Los contenedores se basan en el kernel del sistema operativo host (que se puede considerar como la fontanería enterrada del sistema operativo) y contienen solo aplicaciones y algunas API y servicios ligeros del sistema operativo que se ejecutan en modo de usuario, como se muestra en este diagrama.
+
+diagrama de arquitectura de 
+
+## Arquitectura de máquina virtual
+
+A diferencia de los contenedores, las máquinas virtuales ejecutan un sistema operativo completo, incluido su propio kernel, como se muestra en este diagrama.
+
+diagrama de arquitectura de 
+
+## Contenedores frente a máquinas virtuales
+
+En la tabla siguiente se muestran algunas de las similitudes y diferencias de estas tecnologías complementarias.
+
+ | Característica
+
+ | Máquina virtual
+
+ | Contenedor
+
+ | Aislamiento
+
+ | Proporciona aislamiento completo del sistema operativo host y de otras máquinas virtuales. Esto resulta útil cuando un límite de seguridad fuerte es crítico, como hospedar aplicaciones de empresas competidoras en el mismo servidor o clúster.
+
+ | Normalmente proporciona aislamiento ligero del host y otros contenedores, pero no proporciona un límite de seguridad tan sólido como una máquina virtual. (Puede aumentar la seguridad si usa el modo de aislamiento de Hyper-V para aislar cada contenedor en una máquina virtual ligera).
+
+ | Sistema operativo
+
+ | Ejecuta un sistema operativo completo, incluido el kernel, lo que requiere más recursos del sistema (CPU, memoria y almacenamiento).
+
+ | Ejecuta la parte del modo de usuario de un sistema operativo y se puede adaptar para contener solo los servicios necesarios para la aplicación, con menos recursos del sistema.
+
+ | Compatibilidad de invitados
+
+ | Ejecuta casi cualquier sistema operativo dentro de la máquina virtual.
+
+ | Se ejecuta en la misma versión del sistema operativo que el host (el aislamiento de Hyper-V le permite ejecutar versiones anteriores del mismo sistema operativo en un entorno de máquina virtual ligera).
+
+ | Despliegue
+
+ | Implementar máquinas virtuales individuales mediante Windows Admin Center o Hyper-V Manager; implemente varias máquinas virtuales mediante PowerShell o System Center Virtual Machine Manager.
+
+ | Implementar contenedores individuales mediante Docker a través de la línea de comandos; implemente varios contenedores mediante un orquestador como Azure Kubernetes Service.
+
+ | Actualizaciones y mejoras del sistema operativo
+
+ | Descargue e instale las actualizaciones del sistema operativo en cada máquina virtual. La instalación de una nueva versión del sistema operativo requiere actualizar o, a menudo, simplemente crear una máquina virtual completamente nueva. Esto puede llevar mucho tiempo, especialmente si tiene muchas máquinas virtuales.
+
+ | Actualizar o mejorar los archivos del sistema operativo dentro de un contenedor es lo mismo: 
+
+- Edite el archivo de compilación de la imagen de contenedor (conocido como Dockerfile) para que apunte a la versión más reciente de la imagen base de Windows. 
+
+- Vuelva a generar la imagen de contenedor con esta nueva imagen base.
+
+- Sube la imagen del contenedor a tu registro de contenedores.
+
+- Vuelva a implementar mediante un orquestador.
+El orquestador proporciona una automatización eficaz para hacerlo a escala. Para más información, consulte Tutorial: Actualización de una aplicación en Azure Kubernetes Service.
+
+ | Almacenamiento persistente
+
+ | Use un disco duro virtual (VHD) para el almacenamiento local para una sola máquina virtual o un recurso compartido de archivos SMB para el almacenamiento compartido por varios servidores.
+
+ | Use Azure Disks para el almacenamiento local para un solo nodo o Azure Files (recursos compartidos SMB) para el almacenamiento compartido por varios nodos o servidores.
+
+ | Equilibrio de carga
+
+ | El equilibrio de carga de las máquinas virtuales mueve las VMs en ejecución a otros servidores de un clúster de conmutación por error.
+
+ | Los contenedores no se mueven; en su lugar, un orquestador puede iniciar o detener automáticamente los contenedores en los nodos del clúster para administrar los cambios en la carga y la disponibilidad.
+
+ | Tolerancia a errores
+
+ | Las máquinas virtuales pueden conmutarse a otro servidor de un clúster, reiniciando su sistema operativo en el nuevo servidor.
+
+ | Si se produce un error en un nodo de clúster, el orquestador vuelve a crear rápidamente los contenedores que se ejecutan en él en otro nodo de clúster.
+
+ | Gestión de redes
+
+ | Usa adaptadores de red virtual.
+
+ | Usa una vista aislada de un adaptador de red virtual, lo que proporciona un poco menos virtualización: el firewall del host se comparte con contenedores, al tiempo que usa menos recursos. Para más información, vea Redes de contenedores en Windows.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-02-05

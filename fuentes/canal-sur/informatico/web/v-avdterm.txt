@@ -1,0 +1,160 @@
+URL: https://learn.microsoft.com/es-es/azure/virtual-desktop/terminology
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Azure terminología de Virtual Desktop
+
+## 
+
+Azure Virtual Desktop es un servicio que proporciona a los usuarios acceso fácil y seguro a sus aplicaciones y escritorios virtualizados. En este artículo se explica un poco más sobre la terminología y la estructura general de Azure Virtual Desktop.
+
+## Grupo de hosts
+
+Un grupo de hosts es una colección de Azure máquinas virtuales que están registradas en Azure Virtual Desktop como hosts de sesión. Todas las máquinas virtuales de host de sesión de un grupo de hosts deben obtenerse de la misma imagen para una experiencia de usuario coherente. Puede controlar los recursos publicados para los usuarios a través de grupos de aplicaciones.
+
+Un grupo de hosts puede ser de dos tipos:
+
+- 
+
+ Personal, donde cada host de sesión se asigna a un usuario individual. Los grupos de hosts personales proporcionan escritorios dedicados a los usuarios finales que optimizan los entornos para el rendimiento y la separación de datos.
+
+- 
+
+ Agrupadas, donde las sesiones de usuario se pueden cargar con equilibrio de carga en cualquier host de sesión del grupo host. Puede haber varios usuarios diferentes en un único host de sesión al mismo tiempo. Los grupos de hosts agrupados proporcionan una experiencia remota compartida a los usuarios finales, lo que garantiza menores costos y mayor eficiencia.
+
+En la tabla siguiente se detallan más las diferencias entre cada tipo de grupo de hosts:
+
+ | Característica
+
+ | Grupos de hosts personales
+
+ | Grupos de hosts agrupados
+
+ | Equilibrio de carga
+
+ | Las sesiones de usuario siempre tienen equilibrio de carga en el host de sesión al que está asignado el usuario. Si el usuario no está asignado actualmente a un host de sesión, la sesión de usuario se equilibra con el siguiente host de sesión disponible en el grupo de hosts.
+
+ | Las sesiones de usuario se cargan con equilibrio de carga en los hosts de sesión del grupo host en función del recuento de sesiones de usuario. Puede elegir qué algoritmo de equilibrio de carga usar: amplitud primero o profundidad en primer lugar.
+
+ | Límite máximo de sesión
+
+ | Uno.
+
+ | Según lo configurado por el valor máximo de límite de sesión de las propiedades de un grupo de hosts. En una alta carga de conexión simultánea, cuando varios usuarios se conectan al grupo de hosts al mismo tiempo, el número de sesiones creadas en un host de sesión puede superar el límite máximo de sesiones.
+
+ | Proceso de asignación de usuarios
+
+ | Los usuarios se pueden asignar directamente a los hosts de sesión o asignarse automáticamente al primer host de sesión disponible. Los usuarios siempre tienen sesiones en los hosts de sesión a los que están asignados.
+
+ | Los usuarios no están asignados a los hosts de sesión. Una vez que un usuario cierra la sesión y vuelve a iniciar sesión, es posible que la sesión de usuario tenga equilibrio de carga en otro host de sesión. Para más información, consulte Configuración de la asignación de escritorio personal.
+
+ | Escalabilidad
+
+ | 
+ El escalado automático para grupos de hosts personales inicia máquinas virtuales de host de sesión según la programación o usa Iniciar máquina virtual en Conectar y, a continuación, desasigna o hiberna las máquinas virtuales del host de sesión en función del estado de sesión del usuario (cierre la sesión o desconecte).
+
+ | 
+ El escalado automático de grupos de hosts agrupados activa y desactiva las máquinas virtuales en función de los umbrales de capacidad y las programaciones que define el cliente.
+
+ | Windows Novedades
+
+ | Se ha actualizado con Windows Novedades, Microsoft Configuration Manager u otras herramientas de configuración de distribución de software.
+
+ | Se ha actualizado mediante la implementación de hosts de sesión a partir de imágenes actualizadas en lugar de actualizaciones tradicionales.
+
+ | Datos de usuario
+
+ | Cada usuario solo usa un host de sesión, por lo que puede almacenar sus datos de perfil de usuario en el disco del sistema operativo (SO) de la máquina virtual.
+
+ | Los usuarios pueden conectarse a distintos hosts de sesión cada vez que se conectan, por lo que deben almacenar sus datos de perfil de usuario en FSLogix.
+
+También hay dos enfoques de administración para grupos de hosts:
+
+- 
+
+ Configuración del host de sesión, donde Azure Virtual Desktop administra el ciclo de vida de los hosts de sesión en un grupo de hosts mediante una combinación de características nativas.
+
+- 
+
+ Standard, donde administra la creación, actualización y escalado de hosts de sesión en un grupo de hosts.
+
+Para obtener más información, consulte Enfoques de administración del grupo de hosts.
+
+### Entorno de validación
+
+Puede establecer un grupo de hosts para que sea un entorno de validación. Los entornos de validación permiten supervisar las actualizaciones del servicio antes de que el servicio las aplique al entorno de producción o de no validación. Sin un entorno de validación, es posible que no detecte cambios que introduzcan errores, lo que podría dar lugar a tiempo de inactividad para los usuarios del entorno de producción.
+
+Para asegurarse de que las aplicaciones funcionan con las actualizaciones más recientes, el entorno de validación debe ser lo más similar posible a los grupos de hosts en el entorno de no validación. Los usuarios deben conectarse con tanta frecuencia al entorno de validación como al entorno de producción. Si automatiza las pruebas en el grupo de hosts, debe incluir pruebas automatizadas en el entorno de validación.
+
+## Grupos de aplicaciones
+
+Un grupo de aplicaciones controla el acceso a un escritorio completo o a una agrupación lógica de aplicaciones que están disponibles en los hosts de sesión de un único grupo host. Los usuarios se pueden asignar a varios grupos de aplicaciones en varios grupos de hosts, lo que le permite variar las aplicaciones y los escritorios a los que los usuarios pueden acceder.
+
+Al crear un grupo de aplicaciones, puede ser uno de dos tipos:
+
+- 
+
+ Escritorio: los usuarios acceden al escritorio completo de Windows desde un host de sesión. Disponible con grupos host agrupados o personales.
+
+- 
+
+ RemoteApp: los usuarios acceden a aplicaciones individuales que seleccione y publiquen en el grupo de aplicaciones. Solo está disponible con grupos de hosts agrupados.
+
+Con los grupos de hosts agrupados, puede asignar ambos tipos de grupo de aplicaciones al mismo tiempo al mismo grupo host. Solo puede asignar un único grupo de aplicaciones de escritorio por grupo de hosts, pero también puede asignar varios grupos de aplicaciones RemoteApp al mismo grupo host.
+
+Los grupos host tienen una configuración de tipo de grupo de aplicaciones preferida. Si un usuario final tiene asignados un escritorio y grupos de aplicaciones RemoteApp en el mismo grupo host, solo verá los recursos del tipo de grupo de aplicaciones preferido. Los usuarios asignados a varios grupos de aplicaciones RemoteApp asignados al mismo grupo host tienen acceso a un agregado de todas las aplicaciones de los grupos de aplicaciones a los que están asignados.
+
+Para más información sobre los grupos de aplicaciones, consulte Comportamiento preferido del tipo de grupo de aplicaciones para grupos de hosts agrupados.
+
+## Áreas de trabajo
+
+Un área de trabajo es una agrupación lógica de grupos de aplicaciones. Cada grupo de aplicaciones debe estar asociado a un área de trabajo para que los usuarios vean los escritorios y las aplicaciones publicados en ellos. Un grupo de aplicaciones solo se puede asignar a un único área de trabajo.
+
+## Usuarios finales
+
+Después de asignar usuarios a sus grupos de aplicaciones, pueden conectarse a una implementación de Azure Virtual Desktop con cualquiera de los clientes de Azure Virtual Desktop.
+
+## Sesiones de usuario
+
+En esta sección, trataremos cada uno de los tres tipos de sesiones de usuario que pueden tener los usuarios finales.
+
+### Sesión de usuario activa
+
+Una sesión de usuario se considera activa cuando un usuario inicia sesión y se conecta a su recurso de escritorio o RemoteApp.
+
+### Sesión de usuario desconectada
+
+Una sesión de usuario desconectada es una sesión inactiva de la que el usuario aún no ha iniciado sesión. Cuando un usuario cierra la ventana de sesión remota sin cerrar sesión, la sesión se desconecta. Cuando un usuario se vuelve a conectar a sus recursos remotos, se le redirige a su sesión desconectada en el host de sesión en el que estaba trabajando. En este momento, la sesión desconectada vuelve a ser una sesión activa.
+
+### Sesión de usuario pendiente
+
+Una sesión de usuario pendiente es una sesión de marcador de posición que reserva un lugar en la máquina virtual con equilibrio de carga para el usuario. Dado que el proceso de inicio de sesión puede tardar entre 30 segundos y cinco minutos en función del perfil de usuario, esta sesión de marcador de posición garantiza que el usuario no salga de su sesión si otro usuario completa primero su proceso de inicio de sesión.
+
+## Paso siguiente
+
+Obtenga información sobre Azure arquitectura y resistencia del servicio Virtual Desktop.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-06-20

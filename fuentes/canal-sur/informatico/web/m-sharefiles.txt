@@ -1,0 +1,152 @@
+URL: https://support.microsoft.com/es-es/topic/0c4d34ee-5dd8-46d5-ab35-0d227b5e6eb5
+Leído: 2026-10-05
+
+# Compartir archivos en Microsoft Teams
+
+ Se aplica a
+Teams Microsoft Teams 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo puedo compartir un archivo en un chat en Microsoft Teams?
+
+ Háblame sobre cómo acceder a mis archivos de Teams.
+
+ Comparte archivos en Microsoft Teams para mí.
+
+Comparta y busque archivos desde su dispositivo para colaborar con otras personas en Teams. Esto incluye archivos almacenados en su OneDrive de Teams, canales y chats, así como archivos en su dispositivo local. Enviar el archivo o un vínculo a él.
+
+- 
+
+ Escritorio
+
+- 
+
+ Móvil
+
+## Compartir un archivo de OneDrive en Teams
+
+Al cargar un archivo en Teams, puede compartirlo en cualquier momento con otras personas y grupos. 
+
+- 
+Seleccione OneDrive en Teams.
+
+- 
+Vaya a Mis archivos .
+
+- 
+Mantenga el puntero sobre el archivo que desea compartir y seleccione el icono Compartir . 
+
+- 
+Siga uno de estos procedimientos:
+
+- Seleccione Copiar vínculo para obtener un vínculo que puede pegar en un chat o correo electrónico. 
+
+- Seleccione Configuración de uso compartido para especificar las personas y sus permisos para el archivo.
+
+ O bien,
+
+- Agregue un nombre, un grupo o un correo electrónico.
+
+- Seleccione un permiso, como Puede editar, Puede revisar, Puede ver o No se puede descargar.
+
+- Agregue un mensaje, si quiere.
+
+- 
+Seleccione Aplicar para guardar los cambios.
+
+- 
+Selecciona el .
+
+## Compartir un archivo en uncanal o chat
+
+- 
+Seleccione una publicación de canal o un mensaje de chat.
+
+- 
+En el cuadro de redacción, seleccione Acciones y aplicaciones>Adjuntar archivo .
+
+- 
+Seleccione un archivo y agregue un mensaje opcional.
+
+- 
+Selecciona el . 
+
+Nota
+
+Si desea compartir un archivo desde el directorio de archivos del equipo, puede arrastrarlo al mensaje. 
+
+## Buscar archivos en canales y chats
+
+Cada canal y chat de Teams tiene una pestaña Compartido donde puede encontrar una lista de archivos y vínculos compartidos en publicaciones de canales y conversaciones de chat. Cada canal también tiene su propia biblioteca de documentos de SharePoint en la que puede almacenar los archivos para ese canal específico. 
+
+Para buscar archivos en un canal: 
+
+- En un canal, seleccione la pestaña Compartido .
+
+- Búsqueda de dos maneras:
+
+- Para buscar en las publicaciones, selecciona En publicación. Seleccione Recientes para ver los vínculos y los archivos vistos recientemente. Seleccione Files para buscar solo a través de archivos y Vínculos para buscar solo a través de vínculos.
+
+- Para buscar ese canal en la biblioteca de SharePoint , seleccione En la biblioteca.
+
+Para buscar archivos en un chat: 
+
+- Seleccione el chat en el que quiera buscar archivos.
+
+- Seleccione la pestaña Compartido en la parte superior.
+
+- Seleccione Recientes para ver los vínculos y los archivos vistos recientemente. Seleccione Files para buscar solo archivos y Vínculos para buscar solo vínculos.
+
+## Compartir un archivo de OneDrive en Teams
+
+### iOS
+
+Para compartir un archivo en Teams para dispositivos móviles:
+
+- 
+Abra la aplicación móvil Teams.
+
+- 
+
+ Pulse el icono de Files 
+
+- 
+Busque el archivo que desea compartir.
+
+- 
+Junto al archivo, pulse Más opciones>de Compartir.
+
+- Para compartir un archivo en un chat, pulse la pestaña Chats. A continuación, puede adjuntar un archivo pulsando Botón Adjuntar> .
+
+- Para compartir un archivo en un canal, pulse la pestaña Canales. A continuación, puede adjuntar un archivo pulsando Botón Adjuntar> .
+
+- 
+Agregue un mensaje opcional y toque Icono Enviar .
+
+### Android
+
+Para compartir un archivo en Teams para dispositivos móviles (Android):
+
+- 
+Abra la aplicación móvil Teams.
+
+- 
+
+ Pulse el icono de Files 
+
+- 
+Busca el archivo que quieras enviar y pulsa Más opciones>Más opciones Compartir .
+
+- Para compartir un archivo en un chat, pulse la pestaña Chats. Escriba el nombre del chat o de la persona a la que desea enviar el archivo, o puede buscar en el . 
+
+- Para compartir un archivo en un canal, pulse la pestaña Canales. Escriba el nombre del chat o de la persona a la que desea enviar el archivo, o puede buscar en el . 
+
+- 
+Agregue un mensaje opcional y toque Icono Enviar .
+
+## Compartir un archivo en un chat
+
+Puede cargar archivos a Teams en el escritorio o en la web y verlos en su dispositivo móvil en cualquier momento después de eso.
+
+Para adjuntar un archivo a una conversación de canal o un chat, pulse Adjuntar debajo del cuadro donde escribe un mensaje y seleccione el archivo de su dispositivo o servicio de almacenamiento en la nube.

@@ -1,0 +1,217 @@
+URL: https://learn.microsoft.com/en-us/windows/modern-print/windows-protected-print-mode/windows-protected-print-mode
+Leído: 2026-10-05
+
+ 
+
+ Windows Protected Print Mode | Microsoft Learn
+
+ Skip to main content
+
+ Skip to Ask Learn chat experience
+
+This browser is no longer supported.
+
+ Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+
+ Download Microsoft Edge
+
+ More info about Internet Explorer and Microsoft Edge
+
+ Table of contents 
+
+ Exit editor mode
+
+ Ask Learn
+
+ Ask Learn
+
+ Reading mode
+
+ Table of contents
+
+ Read in English
+
+ Add
+
+ Add to Plans
+
+ Edit
+
+ Copy Markdown
+
+ Print
+
+ Note
+
+ Access to this page requires authorization. You can try signing in or changing directories.
+
+ Access to this page requires authorization. You can try changing directories.
+
+Overview of Windows protected print mode
+
+ Feedback
+
+ Summarize this article for me
+
+ In this article
+
+Windows protected print mode exclusively uses Windows Ready Print which provides additional print security benefits on PCs. Enabling Windows protected print mode is highly recommended.  
+
+Compatible devices
+
+Windows protected print mode is designed to work with Mopria certified printers. Printers that display the following icon are compatible with Windows protected print mode:
+
+Most new printers and over 120 million printers already sold are Mopria certified. Check Mopria certified products to confirm compatibility on new devices.
+
+Note
+
+Some compatible devices' scanners are unavailable in Windows protected print mode. To see if a device's scanner works in Windows protected print mode, check if it is a Mopria certified product.  
+
+Windows protected print for enterprises
+
+Enterprise administrators can secure and simplify their printer management experience using Windows protected print mode. For more technical information, see Windows protected print mode for enterprises.
+
+Setting up Windows protected print mode
+
+Press Start.
+
+Navigate to Settings > Bluetooth & Devices > Printers & scanners.
+
+Check if installed printers are compatible with Windows protected print mode by looking for this icon:
+
+If any devices have a scanner, check that it is compatible with Windows protected print by seeing if it is a Mopria certified product. If it is not Mopria certified, only printing functionalities will be available in Windows protected print mode.
+
+Scroll down to Printer Preferences and under Windows protected print mode select Set up.
+
+Select Yes, continue for all prompts. Some printers may need to be reinstalled. They will be identified in the Set up dialog.
+
+Reinstall any compatible printers that may have been removed.
+
+Windows protected print is now enabled. Enjoy a more secure PC printing experience.
+
+Turning off Windows protected print mode
+
+Select Start.
+
+Navigate to Settings > Bluetooth & Devices > Printers & scanners.
+
+Scroll down to Printer Preferences and under Windows protected print mode, select Turn Off.
+
+Select Yes.
+
+Windows protected print mode is now disabled. You can now install non-compatible printers.
+
+Note
+
+If Windows protected print mode is enabled as group policy, you won't be able to disable it without contacting your administrator.
+
+For more information on enabling Windows protected print mode as group policy, see Enabling Windows protected print mode as group policy.
+
+More about Windows protected print mode
+
+What happens when I enable Windows protected print mode?
+
+Upon enabling Windows protected print mode, printers that use third-party drivers are uninstalled.  
+
+The print driver is deleted from the print driver store, and it can't be used while Windows protected print mode is active.  
+
+When Windows protected print mode is disabled and the printer is reinstalled, the original driver is reinstalled.  
+
+If a Mopria Certified printer was originally installed using a third-party driver:
+
+The printer is uninstalled, but can be reinstalled. When reinstalled, it uses Windows Ready Print instead of its third-party driver.
+
+If Windows protected print mode is disabled, installed printers continue to use Windows Ready Print unless they're removed and reinstalled with Windows protected print mode disabled.  
+
+If a printer was originally installed with Windows Ready Print, enabling Windows protected print mode won't uninstall the printer.  
+
+OneNote printer in Windows protected print mode
+
+Turning on Windows protected print mode uninstalls all unsupported software printers on Windows, including "OneNote (Desktop)". To continue printing to OneNote with Windows protected print mode enabled, use the new "OneNote (Desktop) – Protected virtual printer". The "OneNote (Desktop) – Protected virtual printer" is installed by default in all OneNote Windows app versions 2410 and later running on Windows 11 version 26100 or higher. For more details on both printers and how to use them, see the support article: Print documents and files to OneNote - Microsoft Support.
+
+XPS and Fax Reinstall Steps
+
+XPS and fax are removed when Windows protected print mode is turned on. To reinstall fax and XPS on your Windows system after disabling Windows protected print mode, follow these instructions:
+
+XPS
+
+Open "Start"
+
+Search "Windows Features"
+
+Select "Microsoft XPS Document Writer"
+
+Click "OK" to apply the changes.
+
+Fax
+
+Open Settings > System > Optional features
+
+Locate the feature named "Windows Fax and Scan."
+
+Check the box next to "Windows Fax and Scan" to select it.
+
+FAQ
+
+See FAQs at Windows protected print mode FAQ.
+
+Related articles
+
+ | Article
+
+ | Description
+
+ | Windows Ready Print
+
+ | Provides an overview of Windows Ready Print, and its security, compatibility, and reliability benefits over legacy printer drivers.
+
+ | Windows protected print mode for enterprises
+
+ | Provides guidance for enterprises using Windows protected print mode.
+
+ | More information on Windows protected print mode for enterprises and developers
+
+ | Provides a technical deep dive of Windows protected print mode.
+
+ | 
+
+ | 
+
+ Additional resources
+
+ Last updated on 
+ 2026-06-18
+
+In this article
+
+ en-us
+
+ Your Privacy Choices
+
+ Theme
+
+ Light 
+
+ Dark 
+
+ High contrast 
+
+ AI Disclaimer
+
+ Previous Versions
+
+ Blog
+
+ Contribute
+
+ Privacy
+
+ Consumer Health Privacy
+
+ Terms of Use
+
+ Trademarks
+
+© Microsoft 2026
+
+ 

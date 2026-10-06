@@ -1,0 +1,212 @@
+URL: https://learn.microsoft.com/es-es/microsoftteams/sharepoint-onedrive-interact
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Información general sobre la integración de Teams y SharePoint
+
+## 
+
+En este artículo, obtenga información sobre cómo Teams y SharePoint funcionan juntos.
+
+## Las partes básicas de Teams y SharePoint
+
+Estas son las partes básicas de Teams y SharePoint y cómo se relacionan entre sí:
+
+- 
+
+ Teams : Teams es una herramienta de colaboración en la que puede chatear con otras personas sobre un asunto o tarea determinados. Cada equipo está conectado a otras herramientas que puede usar para colaborar con otros usuarios.
+
+- 
+
+ SharePoint : SharePoint es una herramienta para crear sitios web, publicar contenido y almacenar archivos.
+
+- 
+
+ Sitio de SharePoint : un sitio de SharePoint es un sitio web en SharePoint donde puede crear páginas web y almacenar y colaborar en archivos. Los sitios de SharePoint se pueden usar de forma independiente y también los puede usar Teams para el almacenamiento de archivos ( denominados sitios conectados a Teams). Un sitio conectado a Teams se crea automáticamente cada vez que se crea un equipo.
+
+- 
+
+ Equipo : un equipo es un lugar en Teams donde puede invitar a otros usuarios a colaborar. Cada equipo está conectado a uno o varios sitios de SharePoint. Estos sitios son donde se almacenan los archivos del equipo.
+
+- 
+
+ Equipo público : un equipo público es un equipo al que puede unirse cualquier persona de la organización. Los equipos públicos no requieren que el propietario del equipo invite a alguien al equipo.
+
+- 
+
+ Equipo privado : un equipo privado es un equipo al que una persona solo puede unirse cuando un propietario del equipo lo invita. Tanto los equipos públicos como los equipos privados ofrecen los mismos tipos de canal: estándar, privado y compartido.
+
+- 
+
+ Sitio primario : sitio de SharePoint que se crea al crear el equipo. Este sitio se usa para el almacenamiento de archivos para todos los canales estándar. Todos los propietarios y miembros del equipo tienen acceso a este sitio.
+
+- 
+
+ Canal : un canal es una ubicación en un equipo en el que puede colaborar con otros usuarios en una cosa específica. Un equipo puede tener varios canales para diferentes propósitos. Por ejemplo, es posible que tenga un equipo de marketing con diferentes canales para diferentes productos o eventos. Hay tres tipos de canales en Teams: estándar, privado y compartido.
+
+- 
+
+ Standard canal: un canal estándar es un canal al que todos los miembros de un equipo tienen acceso. Cada equipo viene con un canal estándar llamado "General". Los propietarios y miembros del equipo pueden agregar canales estándar adicionales. Siempre aparece primero en la lista de canales de un equipo y no se puede eliminar (cada equipo debe tener al menos un canal).
+
+- 
+
+ Canal privado : un canal privado es un canal al que solo tienen acceso algunos miembros del equipo. Se usa para conversaciones privadas y colaboración. Cada canal privado tiene su propio sitio de SharePoint para el almacenamiento de archivos. Solo los miembros del canal privado pueden acceder a este sitio.
+
+- 
+
+ Canales compartidos : un canal compartido es un canal al que puede agregar cualquier persona, incluso si no es miembro del equipo. Se usa para una colaboración más amplia con personas ajenas al equipo. Cada canal compartido tiene su propio sitio de SharePoint para el almacenamiento de archivos. Solo los miembros del canal compartido pueden acceder a este sitio.
+
+- 
+
+ Sitio de canal : sitio de SharePoint que se crea al crear un canal privado o compartido en un equipo. Solo los propietarios y miembros del canal privado o compartido tienen acceso a este sitio.
+
+- 
+
+ Grupo de Microsoft 365 : un grupo de Microsoft 365 es un grupo de pertenencia que proporciona a los usuarios acceso a varios servicios de Microsoft 365 al mismo tiempo. La pertenencia de cada equipo se almacena en un grupo de Microsoft 365 y ese grupo también proporciona a esas personas acceso al sitio principal de SharePoint del equipo.
+
+- 
+
+ Microsoft Entra ID: Microsoft Entra ID es el servicio de directorio donde se almacenan las cuentas de usuario de Microsoft 365. (También puede administrar estas cuentas desde Microsoft 365). Los grupos de Microsoft 365 también se almacenan en Microsoft Entra ID. Microsoft Entra ID permite a los administradores administrar usuarios y grupos y aplicar reglas de negocio a las cuentas de usuario, como requerir la autenticación multifactor.
+
+Cada equipo está conectado a un grupo de Microsoft 365 en Microsoft Entra ID donde se almacena la pertenencia al equipo. Los archivos que ve en la pestaña Archivos de un equipo se almacenan en un sitio de SharePoint. Todos los canales estándar de un equipo comparten el mismo sitio de SharePoint, pero cada canal privado tiene su propio sitio.
+
+## ¿Cuándo se conectan Teams y SharePoint?
+
+Teams y SharePoint están conectados en los siguientes escenarios:
+
+- Al crear un nuevo equipo desde cero, se crea un nuevo sitio de SharePoint y se conecta al equipo.
+
+- Al crear un nuevo equipo a partir de un grupo existente de Microsoft 365, el equipo se conecta al sitio de SharePoint asociado al grupo.
+
+- Al agregar Teams a un sitio de SharePoint existente, ese sitio está conectado al nuevo equipo.
+
+- Al crear un nuevo canal privado o compartido, se crea un nuevo sitio de SharePoint y se conecta a ese canal.
+
+En Teams, la pestaña Archivos de cada canal estándar está conectada a una carpeta de la biblioteca de documentos predeterminada del sitio primario. La pestaña Archivos de cada canal privado y compartido está conectada a la biblioteca de documentos predeterminada del sitio de canal correspondiente. Cada vez que agrega o actualiza un archivo en la pestaña Archivos, tiene acceso al sitio de SharePoint.
+
+## Ejemplo de un equipo con varios tipos de canal
+
+Contoso tiene un equipo llamado Mark 8 Project Team. Este equipo tiene varios canales estándar y un canal privado llamado Análisis de competencia.
+
+Los canales estándar se muestran como carpetas en el sitio primario. El canal privado tiene su propio sitio de canal que es independiente del sitio primario.
+
+## Tipos de canales y sitios conectados a Teams
+
+Los sitios conectados a Teams son un tipo especializado de sitio de SharePoint que se ha optimizado para una conexión de Teams. Esto incluye el sitio primario que se crea al crear el equipo y los sitios de canal que se crean al crear un canal privado o compartido.
+
+En esta tabla se describe cómo funcionan el uso compartido de sitios, archivos y carpetas para cada tipo de canal en Teams.
+
+ | Tipo de canal
+
+ | Sitio de SharePoint
+
+ | Uso compartido de sitios
+
+ | Uso compartido de archivos y carpetas
+
+ | Estándar
+
+ | Todos los canales estándar comparten un sitio de SharePoint. Hay una carpeta independiente para cada canal.
+
+ | Los propietarios y miembros del equipo se incluyen automáticamente en los grupos de permisos de propietarios y miembros del sitio. Compartir el sitio por separado es posible, pero se recomienda administrar el acceso a través de Teams para una administración de usuarios más sencilla y la mejor experiencia de usuario.
+
+ | Los archivos y carpetas se pueden compartir con cualquier persona de la organización mediante vínculos que se pueden compartir. Si el uso compartido de invitados está habilitado, se pueden usar los vínculos Cualquiera y Personas específicas para compartir con personas ajenas a la organización.
+
+ | Private
+
+ | Cada canal privado tiene su propio sitio de SharePoint.
+
+ | Los propietarios y miembros del canal se incluyen automáticamente en los grupos de permisos de propietarios y miembros del sitio. El sitio no se puede compartir por separado.
+
+ | Los archivos y carpetas se pueden compartir con cualquier persona de la organización mediante vínculos que se pueden compartir. Si el uso compartido de invitados está habilitado, se pueden usar los vínculos Cualquiera y Personas específicas para compartir con personas ajenas a la organización.
+
+ | Compartido
+
+ | Cada canal compartido tiene su propio sitio de SharePoint.
+
+ | Los propietarios y miembros del equipo se incluyen automáticamente en el grupo de propietarios y miembros del sitio. El sitio no se puede compartir por separado.
+
+ | Los archivos y carpetas se pueden compartir con cualquier persona de la organización y con participantes externos del canal mediante vínculos compartibles. No se admite el uso compartido con personas ajenas a la organización que no sean miembros del canal.
+
+## Dónde administrar la configuración de Teams y SharePoint
+
+Los sitios conectados a Teams se administran de forma diferente al sitio de SharePoint típico. Cierta configuración de sitio solo se puede administrar desde Teams. En el caso de los sitios de canal, algunas configuraciones se heredan del sitio primario y no se pueden cambiar. En esta tabla se describe dónde se administra la configuración de SharePoint para sitios conectados a Teams.
+
+ | Configuración
+
+ | Sitio primario
+
+ | Sitio de canal
+
+ | Permisos de sitio
+
+ | Los permisos de equipo se sincronizan con el sitio. Los propietarios del equipo y del sitio pueden agregar personas adicionales directamente al sitio. (Se recomienda administrar todos los permisos a través de Teams).
+
+ | Los permisos de sitio del canal se heredan del propio canal. Los permisos de sitio no se pueden administrar en SharePoint, pero mostrarán permisos en modo de solo lectura.
+
+ | Configuración de uso compartido del sitio 
+
+ | Los propietarios del equipo y del sitio pueden establecer la configuración de uso compartido de archivos, carpetas y el sitio. Se trata de una configuración específica de SharePoint.
+
+ | 
+
+ | Expiración del acceso de invitado
+
+ | La expiración del acceso de invitado se puede establecer en el Centro de administración de SharePoint.
+
+ | 
+
+ | Sensibilidad
+
+ | Las etiquetas de confidencialidad se pueden aplicar al equipo o al sitio primario. La misma etiqueta se usa para ambos y un cambio realizado en cualquiera de las ubicaciones se refleja en la otra.
+
+ | La confidencialidad de los sitios de canal se hereda del sitio primario.
+
+ | Cuota de sitio
+
+ | La cuota de sitio se puede establecer en el Centro de administración de SharePoint.
+
+ | La cuota de sitio se puede establecer en el Centro de administración de SharePoint.
+
+ | Tipo de vínculo para compartir predeterminado
+
+ | El tipo de vínculo de uso compartido predeterminado se puede establecer en el Centro de administración de SharePoint.
+
+ | El tipo de vínculo de uso compartido predeterminado se puede establecer en el Centro de administración de SharePoint.
+
+## Temas relacionados
+
+ Creación de un equipo de Microsoft desde SharePoint
+
+ Teams puede tener canales estándar o privados
+
+ Introducción a la seguridad y el cumplimiento
+
+ Administración de directivas de equipos en Teams
+
+ Cambiar la configuración del equipo y los permisos en Teams
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-06-25

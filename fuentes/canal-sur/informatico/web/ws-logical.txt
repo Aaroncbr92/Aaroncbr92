@@ -1,0 +1,62 @@
+URL: https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/plan/understanding-the-active-directory-logical-model
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Descripción del modelo lógico de Active Directory
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+El diseño de la estructura lógica de Active Directory Domain Services (AD DS) implica definir las relaciones entre los contenedores del directorio. Estas relaciones pueden estar basadas en requisitos administrativos, como la delegación de autoridad, o pueden definirse mediante requisitos operativos, como la necesidad de controlar la replicación.
+
+Antes de diseñar la estructura lógica de Active Directory, es importante comprender el modelo lógico de Active Directory. AD DS es una base de datos distribuida que almacena y administra información acerca de los recursos de red y datos específicos de las aplicaciones habilitadas para el uso de directorios. AD DS permite a los administradores organizar los elementos de una red (por ejemplo, los usuarios, los equipos y dispositivos) en una estructura de contención jerárquica. El contenedor de nivel superior es el bosque. Dentro de los bosques hay dominios y dentro de los dominios hay unidades organizativas. Esto se denomina modelo lógico porque es independiente de los aspectos físicos de la implementación, como el número de controladores de dominio necesarios dentro de cada dominio y la topología de red.
+
+## Bosque de Active Directory
+
+Un bosque es una colección de uno o varios dominios de Active Directory que comparten una estructura lógica común, un esquema de directorio (definiciones de clase y atributo), una configuración de directorio (información de sitio y replicación) y un catálogo global (funcionalidades de búsqueda en todo el bosque). Los dominios del mismo bosque se vinculan automáticamente con relaciones de confianza transitivas bidireccionales.
+
+## Dominio de Active Directory
+
+Un dominio es una partición de un bosque de Active Directory. La creación de particiones de datos permite a las organizaciones replicar datos solo en los casos en los que sea necesario. De este modo, el directorio puede escalar globalmente a través de una red que tenga un ancho de banda disponible limitado. Además, el dominio admite una serie de otras funciones principales relacionadas con la administración, entre las que se incluyen:
+
+- 
+Identidad de usuario en toda la red. En los dominios, las identidades de usuario se pueden crear una vez y, a continuación, hacer referencia a ellas en cualquier equipo unido al bosque en el que se encuentra el dominio. Los controladores que componen el dominio se usan para almacenar las cuentas y credenciales de usuario, como contraseñas o certificados, de forma segura.
+
+- 
+Authentication. Los controladores de dominio proporcionan servicios de autenticación para los usuarios y proporcionan datos de autorización adicionales, como pertenencias a grupos de usuarios, que se pueden usar para controlar el acceso a los recursos de la red.
+
+- 
+Relaciones de confianza. Los dominios pueden ampliar los servicios de autenticación a los usuarios de dominios fuera de su propio bosque mediante confianzas.
+
+- 
+Replication. El dominio define una partición del directorio que contiene datos suficientes para proporcionar servicios de dominio y, a continuación, lo replica entre los controladores de dominio. De este modo, todos los controladores de dominio tienen el mismo nivel en un dominio y se administran como una unidad.
+
+## Unidades organizativas de Active Directory
+
+Las unidades organizativas se pueden usar para formar una jerarquía de contenedores dentro de un dominio. Las unidades organizativas se usan para agrupar objetos con fines administrativos, como la aplicación de una directiva de grupo o la delegación de autoridad. El control (sobre una unidad organizativa y los objetos que contiene) viene determinado por las listas de control de acceso (ACL) en la unidad organizativa y en los objetos de esta. Para facilitar la administración de un gran número de objetos, AD DS admite el concepto de delegación de autoridad. Mediante la delegación, los propietarios pueden transferir un control administrativo total o limitado sobre los objetos a otros usuarios o grupos. La delegación es importante porque ayuda a distribuir la administración de un gran número de objetos para una serie de usuarios en quienes se confía para realizar tareas de administración.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-05-12

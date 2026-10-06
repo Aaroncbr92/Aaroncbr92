@@ -1,0 +1,52 @@
+URL: https://support.microsoft.com/es-es/word/use-versioning-with-word
+Leído: 2026-10-05
+
+# Usar el control de versiones con Word
+
+ Se aplica a
+Word para Microsoft 365 Word para Microsoft 365 para Mac Word 2024 Word 2024 para Mac Word 2021 Word 2021 para Mac Word 2019 Word 2016 
+
+Obtener ayuda con Copilot
+
+ ¿Puedes mostrarme cómo usar el control de versiones con Word?
+
+ Háblame sobre consejos y sugerencias para colaborar en Word.
+
+ ¿Qué es colaborar en documentos de Word en tiempo real?
+
+Para usar el control de versiones en Word, debe almacenar los documentos en OneDrive o en una biblioteca de SharePoint.
+
+Cuando los documentos se almacenan en línea, puede activar Autoguardado para guardar automáticamente como su trabajo. También puede compartir documentos invitando a alguien a la biblioteca o proporcionando un vínculo en lugar de enviar una copia discreta del documento. Por último, puede trabajar con otros usuarios para trabajar en coautoría en un documento al mismo tiempo.
+
+Para obtener más información sobre cómo guardar en OneDrive o SharePoint, la coautoría o el uso de Autoguardado, vea:
+
+ OneDrive y SharePoint
+
+- 
+ Guardar un documento en OneDrive
+
+- 
+ ¿Debo guardar en OneDrive o SharePoint?
+
+- 
+ ¿Cómo funciona el control de versiones en una lista o biblioteca de SharePoint?
+
+- 
+ Restaurar una versión anterior de un elemento o archivo en SharePoint
+
+- 
+ Habilitar y configurar las versiones para una lista o biblioteca
+
+ Coautoría y Autoguardado
+
+- 
+ Colaboración y coautoría de documentos
+
+- 
+ Vídeo: Coautoría de archivos de Office
+
+- 
+ ¿Qué es Autoguardado?
+
+- 
+ Activar Autoguardado

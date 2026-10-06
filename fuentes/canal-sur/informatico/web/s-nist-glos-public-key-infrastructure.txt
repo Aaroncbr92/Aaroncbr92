@@ -1,0 +1,24 @@
+URL: https://csrc.nist.gov/glossary/term/public_key_infrastructure
+Leído: 2026-10-05
+
+Definitions:
+A framework that is established to issue, maintain and revoke public key certificates.
+Sources:
+FIPS 186-5
+under Public Key Infrastructure (PKI)
+NIST SP 800-57 Part 2 Rev.1
+under Public Key Infrastructure (PKI)
+A support service to the PIV system that provides the cryptographic keys needed to perform digital signature-based identity verification and to protect communications and the storage of sensitive verification system data within identity cards and the verification system.
+Sources:
+FIPS 201-3
+under Public Key Infrastructure (PKI)
+A framework that is established to issue, maintain, and revoke public key certificates.
+Sources:
+FIPS 204
+under public-key infrastructure (PKI)
+The architecture, organization, techniques, practices, and procedures that collectively support the implementation and operation of a certificate-based public key cryptographic system. Framework established to issue, maintain, and revoke public key certificates.
+Sources:
+CNSSI 4009-2022
+from
+CNSSI 1300
+NIST SP 800-53 Rev. 5

@@ -1,0 +1,319 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/server-manager/server-manager
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Administrador de servidores
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10
+
+## 
+
+El Administrador del servidor es una consola de administración centralizada en Windows Server que permite a los profesionales de TI aprovisionar y administrar servidores locales y remotos basados en Windows desde sus escritorios. Con el Administrador del servidor, puede administrar de forma eficaz varios servidores sin necesidad de acceso físico ni habilitar conexiones de Protocolo de escritorio remoto (RDP). El Administrador del servidor admite la administración remota, de varios servidores y ayuda a aumentar el número de servidores que puede administrar un administrador.
+
+En este artículo se proporciona información general sobre las características del Administrador del servidor, las tareas admitidas y las instrucciones para administrar servidores en su entorno. Este artículo contiene las siguientes secciones:
+
+- 
+
+ Tareas que puede realizar con el Administrador del servidor
+
+- 
+
+ Iniciar el Administrador del servidor
+
+- 
+
+ Reiniciar servidores remotos
+
+- 
+
+ Exportar la configuración del Administrador del servidor a otros equipos
+
+## Administrar equipos remotos desde un equipo cliente
+
+La consola del Administrador del servidor se incluye con herramientas de administración remota del servidor para Windows 10 y Windows 11. Cuando se instalan herramientas de administración remota del servidor en un equipo cliente, no se puede administrar el equipo local mediante el Administrador del servidor; El Administrador del servidor no se puede usar para administrar equipos o dispositivos que ejecutan un sistema operativo cliente windows. Solo puede usar el Administrador del servidor para administrar servidores basados en Windows.
+
+### Iniciar el Administrador del servidor en un equipo cliente
+
+- 
+Siga las instrucciones de Herramientas de administración remota del servidor para instalar herramientas de administración remota del servidor para Windows.
+
+- 
+En la pantalla de inicio , haga clic en Administrador del servidor. El icono administrador del servidor está disponible después de instalar herramientas de administración remota del servidor.
+
+- 
+Si no se muestran las herramientas administrativas ni los iconos del Administrador del servidor en la pantalla de inicio después de instalar herramientas de administración remota del servidor y la búsqueda del Administrador del servidor en la pantalla de inicio no muestra resultados, compruebe que la opción Mostrar herramientas administrativas está activada. Para ver esta configuración, mantenga el cursor del mouse sobre la esquina superior derecha de la pantalla de inicio y, a continuación, haga clic en Configuración. Si la opción Mostrar herramientas administrativas está desactivada, actívala para mostrar las herramientas que instalaste como parte de las Herramientas de administración remota del servidor.
+
+Para obtener más información sobre cómo ejecutar herramientas de administración remota del servidor para Windows 10 para administrar servidores remotos, consulte Herramientas de administración remota del servidor en la wiki de TechNet.
+
+### Configurar la administración remota en los servidores que desea administrar
+
+Para realizar tareas de administración en servidores remotos mediante el Administrador del servidor, los servidores remotos que desee administrar deben estar configurados para permitir la administración remota mediante el Administrador del servidor y Windows PowerShell. Si la administración remota se ha deshabilitado en Windows Server y desea habilitarla de nuevo, realice los pasos siguientes.
+
+#### Configuración de la administración remota del Administrador del servidor
+
+- 
+Realice una de las siguientes acciones para abrir el Administrador del Servidor si aún no está abierto.
+
+- 
+En la barra de tareas de Windows, haga clic en el botón Administrador del servidor.
+
+- 
+En la pantalla de inicio , haga clic en Administrador del servidor.
+
+- 
+En el área Propiedades de la página Servidores locales , haga clic en el valor hipervínculo de la propiedad de administración remota .
+
+- 
+Realice una de las acciones siguientes y, a continuación, haga clic en Aceptar.
+
+- 
+Para evitar que este equipo se administre de forma remota mediante el Administrador del servidor o Windows PowerShell si está instalado, desactive la casilla Habilitar administración remota de este servidor desde otros equipos .
+
+- 
+Para permitir la administración remota de este equipo con Administrador del servidor o Windows PowerShell, seleccione Habilitar administración remota de este servidor desde otros equipos.
+
+#### Habilitación de la administración remota del Administrador del servidor en Windows Server mediante Windows PowerShell
+
+- 
+Realice una de las acciones siguientes.
+
+- 
+Para ejecutar Windows PowerShell como administrador desde la pantalla de inicio , haga clic con el botón derecho en el icono de Windows PowerShell y, a continuación, haga clic en Ejecutar como administrador.
+
+- 
+Para ejecutar Windows PowerShell como administrador desde el escritorio, haga clic con el botón derecho en el acceso directo de Windows PowerShell en la barra de tareas y, a continuación, haga clic en Ejecutar como administrador.
+
+- 
+Escriba lo siguiente y presione Entrar para habilitar todas las excepciones de reglas de firewall necesarias.
+
+ Configure-SMremoting.exe -Enable
+
+Note
+
+Este comando también funciona en un símbolo del sistema que se ha abierto con permisos de usuario elevados (Ejecutar como administrador)
+
+si se produce un error en la habilitación de la administración remota, consulte about_remote_Troubleshooting en Microsoft TechNet para obtener sugerencias de solución de problemas y procedimientos recomendados.
+
+## Tareas que puede realizar con el Administrador del servidor
+
+El Administrador del servidor aporta una mayor eficacia a la administración del servidor, puesto que con una única herramienta permite a los administradores realizar las tareas que se incluyen en la siguiente tabla. Tanto los usuarios estándar de un servidor como los miembros del grupo Administradores pueden realizar tareas de administración en el Administrador del servidor, pero de forma predeterminada, se impide que los usuarios estándar realicen algunas tareas, como se muestra en la tabla siguiente.
+
+Los administradores pueden usar dos cmdlets de Windows PowerShell en el módulo de cmdlets del Administrador del servidor, Enable-ServerManagerStandardUserremoting y Disable-ServerManagerStandardUserremoting, para controlar aún más el acceso de los usuarios estándar a algunos datos más. El cmdlet Enable-ServerManagerStandardUserremoting puede proporcionar acceso a uno o varios usuarios estándar que no son administradores a los datos de eventos, servicios, contadores de rendimiento y roles e inventario de características.
+
+ | Descripción de la tarea
+
+ | Administradores (incluida la cuenta predefinida de administrador)
+
+ | Usuarios estándar del servidor
+
+ | Agregue servidores remotos a un grupo de servidores que el Administrador del servidor se puede usar para administrar.
+
+ | Yes
+
+ | No
+
+ | Cree y edite grupos personalizados de servidores, como los servidores que se encuentran en una ubicación geográfica específica o sirven para un propósito específico.
+
+ | Yes
+
+ | Yes
+
+ | Instale o desinstale roles, servicios de rol y características en los servidores locales o remotos que ejecutan Windows Server. Obtenga más información sobre cómo agregar o quitar roles y características en Windows Server.
+
+ | Yes
+
+ | No
+
+ | Ver y modificar los roles y características de servidor instalados en los servidores locales o remotos. En Administrador del servidor, los datos de roles y características se muestran en el idioma base del sistema, conocido también como idioma predeterminado de la interfaz gráfica de usuario o en el idioma seleccionado durante la instalación del sistema operativo.
+
+ | Yes
+
+ | Los usuarios estándar pueden ver y administrar roles y características, y realizar tareas como ver eventos de rol, pero no pueden agregar ni quitar servicios de rol.
+
+ | iniciar herramientas de administración como Windows PowerShell o complementos mmc. Para iniciar una sesión de Windows PowerShell destinada a un servidor remoto, haga clic con el botón derecho en el servidor en el icono Servidores y, a continuación, haga clic en Windows PowerShell. Puede iniciar complementos MMC desde el menú Herramientas de la consola del Administrador del servidor. Después de abrir el complemento, puede direccionar el MMC hacia un equipo remoto.
+
+ | Yes
+
+ | Yes
+
+ | Para administrar servidores remotos con credenciales diferentes, haga clic con el botón derecho en un servidor en el icono Servidores y, a continuación, haga clic en Administrar como. Puede usar Administrar como para tareas generales de administración de servidores y servicios de archivos y almacenamiento.
+
+ | Yes
+
+ | No
+
+ | Realizar tareas de administración asociadas al ciclo de vida operativo de los servidores, como iniciar o detener servicios, además de iniciar otras herramientas que le permiten configurar las opciones de red del servidor, los usuarios y los grupos, y las conexiones de Escritorio remoto.
+
+ | Yes
+
+ | Los usuarios estándar no pueden iniciar ni detener los servicios. Pueden cambiar el nombre, grupo de trabajo o pertenencia a dominios y configuración de Escritorio remoto del servidor local, pero el Control de cuentas de usuario les solicita que proporcionen credenciales de administrador para poder completar estas tareas. No pueden cambiar la configuración de administración remota.
+
+ | Realizar tareas de administración asociadas al ciclo de vida operativo de los roles que están instalados en los servidores, incluido el examen de roles para garantizar el cumplimiento de los procedimientos recomendados.
+
+ | Yes
+
+ | Los usuarios estándar no pueden ejecutar exámenes del Analizador de procedimientos recomendados.
+
+ | Determinar el estado del servidor, identificar eventos críticos, y analizar y solucionar problemas o errores de configuración.
+
+ | Yes
+
+ | Yes
+
+ | Personalizar los eventos, datos de rendimiento, servicios y resultados del Analizador de procedimientos recomendados sobre los que desea recibir alertas en el panel del Administrador del servidor.
+
+ | Yes
+
+ | Yes
+
+ | Reinicie los servidores.
+
+ | Yes
+
+ | No
+
+ | Actualizar los datos sobre los servidores administrados que se muestran en la consola del Administrador del servidor.
+
+ | Yes
+
+ | No
+
+## Iniciar el Administrador del servidor
+
+El Administrador del servidor se inicia automáticamente de forma predeterminada en Windows Server cuando un miembro del grupo Administradores inicia sesión en un servidor. Si cierra el Administrador del servidor, reinícielo de una de las maneras siguientes. Esta sección también contiene pasos para cambiar el comportamiento predeterminado e impedir que el Administrador del servidor se inicie automáticamente.
+
+### Iniciar el Administrador del servidor desde la pantalla de inicio
+
+- En la pantalla de inicio de Windows, haga clic en el icono Administrador del servidor .
+
+### Iniciar el Administrador del servidor desde el escritorio de Windows
+
+- En la barra de tareas de Windows, haga clic en Administrador del servidor.
+
+### Impedir que el Administrador del servidor se inicie automáticamente
+
+- 
+En la consola del Administrador del servidor, en el menú Administrar , haga clic en Propiedades del Administrador del servidor.
+
+- 
+En el cuadro de diálogo Propiedades del Administrador del servidor, active la casilla de No iniciar el Administrador del servidor automáticamente al iniciar sesión. Haga clic en OK.
+
+- 
+Como alternativa, puede impedir que el Administrador del servidor se inicie automáticamente si habilita la configuración de directiva de grupo No iniciar el Administrador del servidor automáticamente al iniciar sesión. La ruta de acceso a esta configuración de directiva, en la consola del Editor de directivas de grupo local es Configuración del equipo\Plantillas administrativas\Sistema\Administrador del servidor.
+
+## Reiniciar servidores remotos
+
+Puede reiniciar un servidor remoto desde el icono Servidores de una página de rol o grupo en el Administrador del servidor.
+
+El reinicio de un servidor remoto fuerza el reinicio del servidor, aunque todavía haya usuarios con sesión iniciada en el servidor remoto y programas abiertos con datos no guardados. Este comportamiento se diferencia del apagado o reinicio del equipo local, en el que se le solicita que guarde los datos de programas que todavía no haya guardado y que compruebe que desea forzar el cierre de sesión de los usuarios que tienen una sesión iniciada. Asegúrese de que puede forzar a los otros usuarios a cerrar sesión en los servidores remotos y descartar los datos no guardados en los programas que se ejecutan en los servidores remotos.
+
+Si se produce una actualización automática en el Administrador del servidor mientras un servidor administrado está apagando y reiniciando, pueden producirse errores de estado de actualización y capacidad de administración para el servidor administrado, ya que el Administrador del servidor no puede conectarse al servidor remoto hasta que termine de reiniciarse.
+
+### Reinicio de servidores remotos en el Administrador del servidor
+
+- 
+Abra la página principal de un rol o grupo de servidores en el Administrador del servidor.
+
+- 
+Seleccione uno o varios servidores remotos que haya agregado al Administrador del servidor. Mantenga presionada la tecla Ctrl mientras hace clic para seleccionar varios servidores a la vez. Para obtener más información sobre cómo agregar servidores al grupo de servidores del Administrador del servidor, vea Adición de servidores al Administrador del servidor.
+
+- 
+Haga clic con el botón derecho en servidores seleccionados y, a continuación, haga clic en Reiniciar servidor.
+
+## Exportar la configuración del Administrador del servidor a otros equipos
+
+En el Administrador del servidor, la lista de servidores administrados, los cambios realizados en la configuración de la consola del Administrador del servidor y los grupos personalizados que ha creado se almacenan en los dos archivos siguientes. Puede reutilizar esta configuración en otros equipos que ejecutan la misma versión del Administrador del servidor. Las Herramientas de administración remota del servidor tienen que estar ejecutándose en equipos cliente de Windows para exportar la configuración del Administrador del servidor a esos equipos.
+
+- 
+
+ %
+ %\Microsoft\Windows\ServerManager\Serverlist.xml appdata
+
+- 
+
+ %
+ appdata%\Local\Microsoft_Corporation\ServerManager.exe_StrongName_GUID\6.2.0.0\user.config
+
+Note
+
+- Las credenciales de Administrar como (o alternativas) de los servidores del grupo de servidores no se almacenan en el perfil móvil. Los usuarios del Administrador del servidor deben agregarlas a todos los equipos desde los que deseen realizar la administración.
+
+- El perfil de itinerancia del recurso compartido de red no se crea hasta que un usuario inicia sesión en la red y, a continuación, cierra sesión por primera vez. El archivo Serverlist.xml se crea en este momento.
+
+Puede exportar la configuración del Administrador del servidor, hacer que la configuración de Administrador del servidor sea portable o usarla en otros equipos de una de las dos maneras siguientes.
+
+- 
+Para exportar la configuración a otro equipo unido a un dominio, configure el usuario del Administrador del servidor para que tenga un perfil móvil en Usuarios y equipos de Active Directory. Debe ser administrador del dominio para cambiar las propiedades de los usuarios en Usuarios y equipos de Active Directory.
+
+- 
+Para exportar la configuración a otro equipo de un grupo de trabajo, copie los dos archivos anteriores en la misma ubicación en el equipo desde el que desea realizar la administración mediante el Administrador del servidor.
+
+### Exportar la configuración del Administrador del servidor a otros equipos unidos a un dominio
+
+- 
+En usuarios y equipos de Active Directory, abra el cuadro de diálogo Propiedades para un usuario del Administrador del servidor.
+
+- 
+En la pestaña Perfil , agregue una ruta de acceso a un recurso compartido de red para almacenar el perfil del usuario.
+
+- 
+Realice una de las acciones siguientes.
+
+- 
+En las compilaciones de inglés de EE. UU. (en-us), los cambios realizados en el archivo Serverlist.xml se guardan automáticamente en el perfil. Vaya al paso siguiente.
+
+- 
+En otras compilaciones, copie los dos archivos siguientes desde el equipo que ejecuta el Administrador del servidor al recurso compartido de red que forma parte del perfil móvil del usuario.
+
+- 
+
+ %
+ %\Microsoft\Windows\ServerManager\Serverlist.xml appdata
+
+- 
+
+ %
+ localappdata%\Microsoft_Corporation\ServerManager.exe_StrongName_GUID\6.2.0.0\user.config
+
+- 
+Haga clic en Aceptar para guardar los cambios y cerrar el cuadro de diálogo Propiedades .
+
+### Exportar la configuración del Administrador del servidor a equipos de grupos de trabajo
+
+- 
+En un equipo desde el que desee administrar servidores remotos, sobrescriba los dos archivos siguientes con los mismos archivos de otro equipo que ejecute el Administrador del servidor y que tenga la configuración que desee usar.
+
+- 
+
+ %
+ %\Microsoft\Windows\ServerManager\Serverlist.xml appdata
+
+- 
+
+ %
+ localappdata%\Microsoft_Corporation\ServerManager.exe_StrongName_GUID\6.2.0.0\user.config
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-15

@@ -1,0 +1,154 @@
+URL: https://support.microsoft.com/es-es/windows/experience/personalization/personalize-your-windows-experience-with-themes
+Leído: 2026-10-05
+
+# Personalice su experiencia de Windows con temas
+
+ Se aplica a
+Windows 11 Windows 10 
+
+- 
+
+ Windows 11
+
+- 
+
+ Windows 10
+
+Los temas de Windows son una combinación de imágenes de fondo de escritorio, colores de ventanas, sonidos y otros elementos que le permiten personalizar su experiencia de Windows. Los temas proporcionan una interfaz coherente y visualmente atractiva que puede mejorar la productividad y el disfrute mientras se usa el dispositivo.
+
+## Aplicar un tema
+
+- En la aplicación Configuración de su dispositivo Windows
+
+seleccione Temas de personalización>.
+
+ Abrir la configuración de temas
+
+ 2. Elige entre los temas predeterminados disponibles o selecciona Examinar temas para descargar otros nuevos de Microsoft Store.
+
+ Explorar temas de Windows en Microsoft Store
+
+- Seleccione el tema deseado para aplicarlo al escritorio.
+
+## Personalizar y compartir un tema
+
+Para personalizar aún más un tema, seleccione las opciones de Fondo, Color, Sonidos y cursor del mouse. Cada opción le permite personalizar su experiencia para que se ajuste mejor a sus preferencias.
+
+### Guardar un tema
+
+Una vez que haya personalizado todos los ajustes, guarde el tema para que pueda volver a aplicar sus ajustes fácilmente, si es necesario.
+
+- En la aplicación Configuración de su dispositivo Windows
+
+seleccione Temas de personalización>.
+2. Seleccione Guardar y proporcione un nombre para el tema.
+
+### Compartir un tema
+
+Exportar tu propio tema te permite mantener un aspecto coherente en los distintos dispositivos, compartir tu configuración personalizada con amigos y familiares o aplicar rápidamente tu tema preferido sin tener que ajustar manualmente la configuración cada vez. Esto puede ahorrar tiempo y garantizar una experiencia visual cohesiva.
+
+- En la aplicación Configuración de su dispositivo Windows
+
+seleccione Temas de personalización>.
+2. Haz clic con el botón derecho en el tema guardado y selecciona Guardar tema para compartirlo. Esto crea un `.deskthemepack` archivo que puede compartir con otros usuarios.
+
+## Eliminar un tema
+
+Si tiene demasiados temas o desea limpiar algunos antiguos, puede eliminarlos fácilmente.
+
+- En la aplicación Configuración de su dispositivo Windows
+
+seleccione Temas de personalización>.
+2. Haz clic con el botón derecho en el tema guardado y selecciona Eliminar.
+
+Nota
+
+No se pueden eliminar los temas predeterminados de Windows.
+
+## Filtros de color y temas de contraste
+
+Windows proporciona opciones sólidas para configurar temas de contraste y filtros de color, lo que facilita a los usuarios con discapacidades visuales o necesidades específicas de accesibilidad interactuar con sus dispositivos.
+
+- Los temas de contraste mejoran la visibilidad del texto y los elementos de la interfaz de usuario mediante combinaciones de colores distintas, que se pueden personalizar para adaptarse a las preferencias individuales.
+
+- Los filtros de color cambian la paleta de colores en la pantalla para ayudar a los usuarios a distinguir entre cosas que solo difieren por color.
+
+Para obtener más información, consulta Cambiar el contraste de color en Windows y Usar filtros de color en Windows.
+
+## Es posible que también le guste
+
+La aplicación Bing Wallpaper es otra excelente manera de personalizar su escritorio de Windows. Esta aplicación actualiza automáticamente el fondo de escritorio con la imagen del día de Bing, mostrando impresionantes fotografías de todo el mundo. Cada imagen viene con una breve descripción, lo que le permite obtener más información sobre la ubicación o el tema que aparece en la foto. La aplicación Fondos de pantalla de Bing es fácil de instalar y usar, lo que proporciona una manera fluida de mantener su escritorio visualmente atractivo e informativo. 
+
+Nota
+
+ El soporte técnico para Windows 10 finalizó el 14 de octubre de 2025
+
+- Después del 14 de octubre de 2025, Microsoft ya no proporcionará actualizaciones de software gratuitas desde Windows Update, asistencia técnica ni correcciones de seguridad para Windows 10. El PC seguirá funcionando, pero recomendamos que se cambie a Windows 11.
+
+- 
+ Más información
+
+Los temas de Windows son una combinación de imágenes de fondo de escritorio, colores de ventanas, sonidos y otros elementos que le permiten personalizar su experiencia de Windows. Los temas proporcionan una interfaz coherente y visualmente atractiva que puede mejorar la productividad y el disfrute mientras se usa el dispositivo.
+
+## Aplicar un tema
+
+- En la aplicación Configuración de su dispositivo Windows
+
+seleccione Temas de personalización> o use el siguiente acceso directo:
+
+ Temas
+
+ 2. Elige entre los temas predeterminados disponibles o selecciona Examinar temas para descargar otros nuevos de Microsoft Store.
+
+ Explorar temas de Windows en Microsoft Store
+
+- Seleccione el tema deseado para aplicarlo al escritorio.
+
+## Personalizar y compartir un tema
+
+Para personalizar aún más un tema, seleccione las opciones de Fondo, Color, Sonidos y cursor del mouse. Cada opción le permite personalizar su experiencia para que se ajuste mejor a sus preferencias.
+
+### Guardar un tema
+
+Una vez que haya personalizado todos los ajustes, guarde el tema para que pueda volver a aplicar sus ajustes fácilmente, si es necesario.
+
+- En la aplicación Configuración de su dispositivo Windows
+
+seleccione Temas de personalización>.
+2. Seleccione Guardar y proporcione un nombre para el tema.
+
+### Compartir un tema
+
+Exportar tu propio tema te permite mantener un aspecto coherente en los distintos dispositivos, compartir tu configuración personalizada con amigos y familiares o aplicar rápidamente tu tema preferido sin tener que ajustar manualmente la configuración cada vez. Esto puede ahorrar tiempo y garantizar una experiencia visual cohesiva.
+
+- En la aplicación Configuración de su dispositivo Windows
+
+seleccione Temas de personalización>.
+2. Haz clic con el botón derecho en el tema guardado y selecciona Guardar tema para compartirlo. Esto crea un `.deskthemepack` archivo que puede compartir con otros usuarios.
+
+## Eliminar un tema
+
+Si tiene demasiados temas o desea limpiar algunos antiguos, puede eliminarlos fácilmente.
+
+- En la aplicación Configuración de su dispositivo Windows
+
+seleccione Temas de personalización>.
+2. Haz clic con el botón derecho en el tema guardado y selecciona Eliminar.
+
+Nota
+
+No se pueden eliminar los temas predeterminados de Windows.
+
+## Filtros de color y temas de contraste
+
+Windows proporciona opciones sólidas para configurar temas de contraste y filtros de color, lo que facilita a los usuarios con discapacidades visuales o necesidades específicas de accesibilidad interactuar con sus dispositivos.
+
+- Los temas de contraste mejoran la visibilidad del texto y los elementos de la interfaz de usuario mediante combinaciones de colores distintas, que se pueden personalizar para adaptarse a las preferencias individuales.
+
+- Los filtros de color cambian la paleta de colores en la pantalla para ayudar a los usuarios a distinguir entre cosas que solo difieren por color.
+
+Para obtener más información, consulta Cambiar el contraste de color en Windows y Usar filtros de color en Windows.
+
+## Es posible que también le guste
+
+La aplicación Bing Wallpaper es otra excelente manera de personalizar su escritorio de Windows. Esta aplicación actualiza automáticamente el fondo de escritorio con la imagen del día de Bing, mostrando impresionantes fotografías de todo el mundo. Cada imagen viene con una breve descripción, lo que le permite obtener más información sobre la ubicación o el tema que aparece en la foto. La aplicación Fondos de pantalla de Bing es fácil de instalar y usar, lo que proporciona una manera fluida de mantener su escritorio visualmente atractivo e informativo.

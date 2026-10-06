@@ -1,0 +1,189 @@
+URL: https://support.microsoft.com/es-es/excel/functions/vlookup-function
+Leído: 2026-10-05
+
+# Función CONSULTAV
+
+ Se aplica a
+Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021 para Mac Excel 2019 Excel 2016 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo uso la función BUSCARV en Excel?
+
+ Muéstrame alternativas modernas a VLOOKUP
+
+ Escribir una fórmula VLOOKUP que pueda pegar y adaptar
+
+Recomendación
+
+Pruebe a usar la nueva función BUSCARX, una versión mejorada de BUSCARV que funciona en cualquier dirección y devuelve coincidencias exactas de forma predeterminada, lo que facilita y resulta más cómodo de usar que su predecesor.
+
+Use BUSCARV cuando necesite encontrar elementos en una tabla o un rango por fila. Por ejemplo, puede buscar el precio de una pieza de automóvil por el número de pieza o buscar el nombre de un empleado en función de su Id. de empleado.
+
+En su forma más simple, la función BUSCARV indica lo siguiente:
+
+=BUSCARV(Lo que desea buscar; dónde quiere buscarlo; el número de columna en el rango que contiene el valor a devolver; devuelve una Coincidencia exacta o Coincidencia aproximada, indicada como 1/TRUE o 0/FALSE).
+
+Recomendación
+
+- El secreto de BUSCARV es organizar los datos de forma que el valor que busque (fruta) esté a la izquierda del valor devuelto (cantidad) que desea encontrar.
+
+- Si es suscriptor de Microsoft Copilot, Copilot puede facilitar aún más la inserción y el uso de las funciones VLookup o XLookup. Consulte Obtener información de datos con Copilot en Excel.
+
+## Detalles técnicos
+
+Use la función BUSCARV para buscar un valor en una tabla.
+
+ Sintaxis
+
+ BUSCARV (valor_buscado, matriz_buscar_en, indicador_columnas, [ordenado])
+
+Por ejemplo:
+
+- =BUSCARV(A2;A10:C20;2;TRUE)
+
+- =BUSCARV("Fontana";B2:E7;2;FALSE)
+
+- =BUSCARV(A2,'Detalles del cliente'! A:F,3,FALSE)
+
+ | 
+ Nombre del argumento
+
+ | 
+ Descripción
+
+ | 
+ valor_buscado (requerido)
+
+ | El valor que desea buscar. El valor que desea buscar debe estar en la primera columna del rango de celdas que especifique en el argumento table_array .
+Por ejemplo, si la matriz de la tabla abarca las celdas B2:D7, la lookup_value debe estar en la columna B.
+
+ Lookup_value puede ser un valor o una referencia a una celda.
+
+ | 
+ matriz_buscar_en (obligatorio)
+
+ | El rango de celdas en las que BUSCARV buscará el lookup_value y el valor devuelto. Puede usar un rango con nombre o una tabla, y puede usar nombres en el argumento en lugar de referencias de celda.
+La primera columna del rango de celdas debe contener el lookup_value. El rango de celdas también debe incluir el valor devuelto que desea buscar.
+
+ | 
+ indicador_columnas (requerido)
+
+ | El número de columna (a partir de 1 para la columna situada más a la izquierda de table_array) que contiene el valor devuelto.
+
+ | 
+ ordenado(opcional)
+
+ | Un valor lógico que especifica si desea que BUSCARV busque una coincidencia exacta o aproximada:
+
+- 
+ Coincidencia aproximada - 1/TRUE da por sentado que la primera columna en la tabla está ordenada, ya sea alfabéticamente o numéricamente, y buscará el valor más próximo. Este es el método predeterminado si no especifica uno. Por ejemplo, =BUSCARV(90;A1:B100;2;TRUE).
+
+- 
+ Coincidencia exacta - 0/FALSE busca el valor exacto en la primera columna. Por ejemplo, =BUSCARV("Smith";A1:B100;2;FALSE).
+
+## Primeros pasos
+
+Hay cuatro partes de la información que necesita para crear la sintaxis de BUSCARV:
+
+- El valor que desea buscar, también conocido como el valor de búsqueda.
+
+- El rango donde se encuentra el valor de búsqueda. Recuerde que el valor de búsqueda debe estar siempre en la primera columna del rango para que BUSCARV funcione correctamente. Por ejemplo, si el valor de la búsqueda está en la celda C2, su rango debería empezar con C.
+
+- El número de columna del rango que contiene el valor devuelto. Por ejemplo, si especifica B2:D11 como el rango, B se debe contar como la primera columna, C como la segunda y así sucesivamente.
+
+- Opcionalmente, puede especificar VERDADERO si desea una coincidencia aproximada o FALSO si desea una coincidencia exacta del valor devuelto. Si no especifica nada, el valor predeterminado siempre será VERDADERO o la coincidencia aproximada.
+
+Ahora coloque todas las respuestas anteriores de la siguiente forma:
+
+=BUSCARV(valor de búsqueda; rango que contiene el valor de búsqueda; el número de columna del rango que contiene el valor devuelto; Coincidencia aproximada (TRUE) o Coincidencia exacta (FALSE)).
+
+## Ejemplos
+
+Estos son algunos ejemplos de BUSCARV:
+
+### Ejemplo 1
+
+### Ejemplo 2
+
+### Ejemplo 3
+
+### Ejemplo 4
+
+### Ejemplo 5
+
+## Problemas comunes
+
+ | 
+ Problema
+
+ | 
+ Qué ha fallado
+
+ | Valor devuelto incorrecto
+
+ | Si range_lookup es VERDADERO o se omite, es necesario ordenar la primera columna alfabéticamente o numéricamente. Si la primera columna no está ordenada, el valor devuelto puede ser algo inesperado. Puede ordenar la primera columna o usar FALSO para obtener una coincidencia exacta.
+
+ | #N/A en la celda
+
+ | 
+
+- Si range_lookup es VERDADERO, si el valor de la lookup_value es menor que el valor más pequeño de la primera columna del table_array, obtendrá el valor de error #N/A.
+
+- Si range_lookup es FALSO, el valor de error #N/A indica que no se ha encontrado el número exacto.
+
+Para obtener más información sobre cómo resolver los errores # n/a en BUSCARV, vea Cómo corregir un error #N/A en la función BUSCARV.
+
+ | #¡REF! en la celda
+
+ | Si col_index_num es mayor que el número de columnas de la matriz de tabla, obtendrá el #REF. valor de error.
+Para obtener más información sobre cómo resolver los errores #REF! en BUSCARV, vea Cómo corregir un error #REF!.
+
+ | #¡VALOR! en la celda
+
+ | Si el table_array es inferior a 1, ¡obtendrá el #VALUE! valor de error.
+Para obtener más información sobre cómo resolver los errores #VALUE! en BUSCARV, vea Cómo corregir un error #VALUE! en la función BUSCARV.
+
+ | #¿NOMBRE? en la celda
+
+ | ¿El #NAME? normalmente significa que en la fórmula faltan comillas. Para buscar el nombre de una persona, asegúrese de que el nombre aparece entre comillas en la fórmula. Por ejemplo, escriba el nombre como "López" en =BUSCARV( "López",B2:E7,2,FALSO).
+Para obtener más información, vea Cómo corregir un error #NAME!.
+
+ | #SPILL! en la celda
+
+ | Este error #SPILL! concreto suele significar que la fórmula se basa en la intersección implícita para el valor de búsqueda y en el uso de una columna completa como referencia. Por ejemplo, =BUSCARV( A:A,A:C,2,FALSE). Puede resolver el problema delimitando la referencia de búsqueda con el operador @ de la siguiente manera: =BUSCARV(@A:A;A:C;2;FALSE). Como alternativa, puede usar el método tradicional BUSCARV y hacer referencia a una sola celda en lugar de a una columna completa: =BUSCARV(A2;A:C;2;FALSE).
+
+## Prácticas recomendadas
+
+ | 
+ Haz esto
+
+ | 
+ ¿Por qué?
+
+ | Use referencias absolutas para range_lookup
+
+ | Las referencias absolutas le permiten rellenar hacia abajo una fórmula, de manera que siempre se busca en el mismo rango de búsqueda.
+Aprenda a usar referencias de celda absolutas.
+
+ | No almacene valores de fechas o números como texto.
+
+ | Al buscar valores de fechas o números, asegúrese de que los datos de la primera columna de table_array no se almacenen como valores de texto. De ser así, BUSCARV puede devolver un valor incorrecto o inesperado.
+
+ | Ordene la primera columna.
+
+ | Ordene la primera columna del table_array antes de usar BUSCARV cuando range_lookup sea VERDADERO.
+
+ | Use caracteres comodín.
+
+ | Si range_lookup es FALSO y lookup_value es texto, puede usar los caracteres comodín de signo de interrogación (?) y asterisco (*) en lookup_value. El signo de interrogación reemplaza cualquier carácter individual. El asterisco reemplaza cualquier secuencia de caracteres. Si lo que desea buscar es un signo de interrogación o un asterisco, escriba una tilde (~) antes del carácter.
+Por ejemplo, =BUSCARV("Fontan?";B2:E7;2;FALSE) buscará todas las instancias de Fontana con una última letra que podría variar.
+
+ | Asegúrese de que los datos no contienen caracteres incorrectos.
+
+ | Al buscar valores de texto en la primera columna, asegúrese de que los datos de la primera columna no contienen espacios al principio ni al final, de que no haya un uso incoherente de las comillas rectas (' o ") ni tipográficas (' o ") y de que no haya caracteres no imprimibles. En estos casos, BUSCARV puede devolver un valor inesperado o incorrecto.
+Para obtener resultados, pruebe a usar la función LIMPIAR o la función ESPACIOS para eliminar los espacios finales detrás de los valores de tabal en una celda.
+
+## ¿Necesitas más ayuda?
+
+Siempre puede preguntar a un experto en Excel Tech Community u obtener soporte técnico en Comunidades.

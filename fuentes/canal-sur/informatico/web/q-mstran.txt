@@ -1,0 +1,98 @@
+URL: https://learn.microsoft.com/es-es/sql/t-sql/language-elements/transactions-transact-sql?view=sql-server-ver17
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Transacciones (Transact-SQL)
+
+## 
+
+ Aplica a:SQL ServerAzure SQL DatabaseAzure SQL Managed InstanceAlmacén en Microsoft FabricBase de datos SQL en Microsoft Fabric
+
+Una transacción es una unidad única de trabajo. Si una transacción tiene éxito, todas las modificaciones de los datos realizadas durante la transacción se confirman y se convierten en una parte permanente de la base de datos. Si una transacción encuentra errores y debe cancelarse o revertirse, se borran todas las modificaciones de los datos.
+
+SQL Server funciona en los modos de transacción siguientes:
+
+ | Modo de transacción
+
+ | Description
+
+ | 
+ Transacciones de confirmación automática
+
+ | Cada instrucción individual es una transacción.
+
+ | 
+ Transacciones explícitas
+
+ | Cada transacción se inicia explícitamente con la `BEGIN TRANSACTION` instrucción y finaliza explícitamente con una `COMMIT` instrucción o `ROLLBACK` .
+
+ | 
+ Transacciones implícitas
+
+ | Una nueva transacción se inicia implícitamente cuando se completa la transacción anterior, pero cada transacción se completa explícitamente con una `COMMIT` instrucción o `ROLLBACK` .
+
+ | 
+ Transacciones con ámbito por lotes
+
+ | Una transacción implícita o explícita de Transact-SQL que se inicia en una sesión de MARS (conjuntos de resultados activos múltiples), que solo es aplicable a MARS, se convierte en una transacción de ámbito de lote. Sql Server revierte automáticamente una transacción de ámbito por lotes que no se confirma o revierte cuando se completa un lote.
+
+Para conocer consideraciones especiales relacionadas con los productos de almacenamiento de datos, consulte Transacciones en Fabric Data Warehouse o Transacciones (Azure Synapse Analytics).
+
+## Sintaxis del control de transacciones
+
+El motor de base de datos sql proporciona las siguientes instrucciones de transacción:
+
+- 
+ INICIAR TRANSACCIÓN DISTRIBUIDA
+
+- 
+ TRANSACCIÓN DE REVERSIÓN
+
+- 
+ INICIO TRANSACCIÓN
+
+- 
+ REVERSIÓN DEL TRABAJO
+
+- 
+ TRANSACCIÓN DE COMMIT
+
+- 
+ GUARDAR TRANSACCIÓN
+
+- 
+ TRABAJO DE COMPROMISO
+
+## Contenido relacionado
+
+- 
+
+ SET IMPLICIT_TRANSACTIONS (Transact-SQL)
+
+- 
+ @@TRANCOUNT (Transact-SQL)
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-07-21

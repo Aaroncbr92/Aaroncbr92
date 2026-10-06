@@ -1,0 +1,3914 @@
+URL: https://learn.microsoft.com/es-es/troubleshoot/windows-server/networking/service-overview-and-network-port-requirements
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Introducción a los servicios y requisitos de puerto de red para Windows
+
+- Se aplica a: Supported versions of Windows Server
+
+## 
+
+En este artículo se describen los puertos, protocolos y servicios de red que utilizan los sistemas operativos cliente y servidor de Microsoft, los programas basados en servidor y sus subcomponentes en el sistema de Microsoft Windows Server. Los administradores y profesionales de soporte técnico pueden utilizar este artículo como guía básica para determinar qué puertos y protocolos requieren los programas y sistemas operativos de Microsoft para la conectividad de red en una red segmentada.
+
+Número KB original: 832017
+
+Importante
+
+En este artículo se incluyen varias referencias al intervalo de puertos dinámicos predeterminado. En Windows Server 2008 y versiones posteriores, y en Windows Vista y versiones posteriores se ha cambiado el intervalo de puertos dinámicos predeterminado por el siguiente:
+
+- Puerto inicial: 49152
+
+- Puerto final: 65535
+
+Windows 2000, Windows XP y Windows Server 2003 usan el intervalo de puertos dinámicos siguiente:
+
+- Puerto inicial: 1025
+
+- Puerto final: 5000
+
+Qué significa:
+
+- Si el entorno de red de equipos usa solo Windows Server 2012 o una versión posterior de Windows, debe habilitar la conectividad en el intervalo de puertos alto del 49152 al 65535.
+
+- Si el entorno de red de equipos usa solo Windows Server 2012 junto con versiones de Windows anteriores a Windows Server 2008 y Windows Vista, debe habilitar la conectividad en los dos intervalos de puertos siguientes:
+
+Intervalo de puertos alto de 49152 a 65535
+
+Intervalo de puertos bajo de 1025 a 5000
+
+- Si el entorno de red de equipos usa solo versiones de Windows anteriores a Windows Server 2008 y Windows Vista, debe habilitar la conectividad en el intervalo de puertos bajo del 1025 al 5000.
+
+Para obtener más información sobre el intervalo de puertos dinámicos predeterminado, consulte El intervalo de puertos dinámicos predeterminado para TCP/IP ha cambiado.
+
+No use la información sobre puertos de este artículo para configurar el Firewall de Windows. Para obtener información sobre cómo configurar el Firewall de Windows, consulte Firewall de Windows con seguridad avanzada.
+
+El sistema Windows Server incluye una infraestructura general e integrada diseñada para cumplir los requisitos de los desarrolladores y de los profesionales de tecnologías de la información (TI). Este sistema ejecuta programas y soluciones que puede utilizar para obtener, analizar y compartir la información rápida y fácilmente. Estos productos cliente, servidor y de programas servidor de Microsoft utilizan distintos puertos y protocolos de red para comunicarse con los sistemas cliente y con otros sistemas servidor a través de la red. Los firewalls (servidores de seguridad) dedicados, los firewalls basados en host y los filtros del Protocolo de seguridad de Internet (IPsec, Internet Protocol Security) son otros componentes importantes que debe tener para proteger la red. Sin embargo, si estas tecnologías se configuran para bloquear los puertos y protocolos que utiliza un servidor específico, el servidor ya no responderá a las solicitudes del cliente.
+
+## Información general
+
+La lista siguiente proporciona una introducción a la información que contiene este artículo:
+
+- 
+Sección Puertos de servicios del sistema:
+
+- Contiene una breve descripción de cada servicio.
+
+- Muestra el nombre lógico de cada servicio.
+
+- Indica los puertos y protocolos que cada servicio requiere para un funcionamiento correcto.
+
+Utilice esta sección para identificar los puertos y protocolos que usa un determinado servicio.
+
+- 
+La sección Puertos y protocolos incluye una tabla que resume la información de la sección Puertos de los servicios del sistema. La tabla se clasifica por el número de puerto, en lugar de por el nombre de servicio. Utilice esta sección para determinar rápidamente qué servicios escuchan en un determinado puerto.
+
+En este artículo se utilizan determinados términos de manera específica. Para evitar confusiones, asegúrese de que entiende la forma en que se usan esos términos en el artículo:
+
+- Servicios del sistema: los servicios del sistema son programas que se cargan automáticamente como parte del proceso de arranque de una aplicación o como parte del proceso de arranque del sistema operativo. Los servicios del sistema admiten distintas tareas que debe realizar el sistema operativo. Por ejemplo, algunos servicios del sistema que están disponibles en equipos que ejecutan Windows Server 2003, Enterprise Edition, incluyen el servicio servidor, el servicio Administrador de trabajos de impresión y el servicio de publicación World Wide Web. Cada servicio del sistema tiene un nombre de servicio y un nombre de servicio descriptivo. El nombre de servicio descriptivo es el nombre que aparece en las herramientas de administración gráficas, como el complemento Servicios de Microsoft Management Console (MMC). El nombre del servicio es el nombre que se usa con las herramientas de línea de comandos y con muchos lenguajes de scripting. Cada servicio del sistema puede proporcionar uno o más servicios de red.
+
+- Protocolo de aplicación: en este artículo, un protocolo de aplicación es un protocolo de red de alto nivel que utiliza uno o varios puertos y protocolos TCP/IP. Los ejemplos de protocolos de aplicación incluyen HTTP, los bloques de mensajes del servidor (SMB) y el Protocolo simple de transferencia de correo (SMTP).
+
+- Protocolo: los protocolos TCP/IP son los formatos estándares para la comunicación entre dispositivos en una red. Los protocolos TCP/IP funcionan en un nivel inferior que los protocolos de aplicación. El conjunto de protocolos TCP/IP incluye TCP, Protocolo de datagramas de usuario (UDP) y Protocolo de mensajes de control de Internet (ICMP).
+
+- Puerto: el puerto de red en el que el servicio del sistema escucha el tráfico de red de entrada.
+
+En este artículo no se especifica qué servicios confían en otros servicios para la comunicación por red. Por ejemplo, muchos servicios confían en la llamada a procedimiento remoto (RPC) o en las características DCOM de Microsoft Windows para asignarles puertos TCP dinámicos. El servicio de Llamada a procedimiento coordina las solicitudes de otros servicios del sistema que utilizan RPC o DCOM para comunicar con los equipos cliente. Muchos otros servicios confían en el sistema básico de entrada y salida de la red (NetBios) o en SMB, protocolos que proporciona el servicio Servidor. Otros servicios se basan en HTTP o en el Protocolo seguro de transferencia de hipertexto (HTTPS). Estos protocolos los proporcionan los Internet Information Services (IIS). Queda fuera del alcance de este artículo el análisis completo de la arquitectura de los sistemas operativos Windows. Sin embargo, la documentación detallada de este tema está disponible en Microsoft TechNet y en los sitios web de Microsoft Developer Network (MSDN). Si bien muchos servicios pueden basarse en un puerto TCP o UDP en particular, solo un servicio o proceso a la vez puede escuchar en ese puerto.
+
+Cuando usa RPC con TCP/IP o UDP/IP como transporte, los puertos de entrada se suelen asignar dinámicamente a los servicios del sistema según sea necesario. Se usan puertos TCP/IP y UDP/IP superiores al puerto 1024. Estos puertos se conocen de manera informal como puertos RPC aleatorios. En estos casos, los clientes de RPC confían en el asignador de puntos finales de RPC para que les indiquen qué puertos dinámicos se asignaron al servidor. En algunos servicios basados en RPC, puede configurar un puerto concreto, en lugar de permitir que RPC asigne uno dinámicamente. También puede restringir el intervalo de puertos que RPC asigna dinámicamente a un intervalo pequeño, con independencia del servicio. Para obtener más información sobre este tema, consulte la sección Referencias.
+
+En este artículo se incluye información sobre los roles de servicios del sistema y los roles de servidor para los productos de Microsoft que se enumeran en la sección "Se aplica a". Aunque esta información también puede aplicarse a Windows XP y a Microsoft Windows 2000 Professional, el artículo se centra en los sistemas operativos de servidor. Por tanto, se describen los puertos en los que un servicio escucha, en lugar de los puertos que los programas cliente usan para conectarse a un sistema remoto.
+
+## Puertos de servicios del sistema
+
+Esta sección proporciona una descripción de cada servicio del sistema, incluye el nombre lógico que corresponde al servicio del sistema y muestra los puertos y protocolos que requiere cada servicio.
+
+### Active Directory (autoridad de seguridad local)
+
+Active Directory se ejecuta en el proceso de Lsass.exe e incluye motores de autenticación y replicación para los controladores de dominio de Windows. Los controladores de dominio, los equipos cliente y los servidores de aplicación requieren conectividad de red en Active Directory a través de puertos específicos codificados de forma rígida. Además, a menos que se utilice el protocolo de túnel para encapsular el tráfico a Active Directory, se requiere un intervalo de puertos TCP efímeros entre 1024 y 5000, y entre 49152 y 65535.
+
+Nota:
+
+- 
+Si su entorno de red de equipos solo usa Windows Server 2008 R2, Windows Server 2008, Windows 7, Windows Vista o versiones posteriores, debe habilitar la conectividad en el intervalo de puertos alto de 49152 a 65535.
+
+- 
+Si su entorno de red de equipos usa Windows Server 2008 R2, Windows Server 2008, Windows 7, Windows Vista o versiones posteriores junto con versiones de Windows anteriores a Windows Server 2008 y Windows Vista, debe habilitar la conectividad en los dos intervalos de puertos:
+
+Intervalo de puertos alto, del 49152 al 65535
+
+Intervalo de puertos bajo, del 1025 al 5000
+
+- 
+Si el entorno de red de equipos usa solo versiones de Windows anteriores a Windows Server 2008 y Windows Vista, debe habilitar la conectividad en el intervalo de puertos bajo del 1025 al 5000.
+
+Una solución encapsulada podría consistir en una puerta de enlace VPN ubicada detrás de un enrutador de filtrado que use el protocolo de túnel de capa dos (L2TP), junto con IPsec. En este escenario encapsulado, debe permitir los elementos siguientes a través del enrutador, en lugar de abrir todos los puertos y protocolos enumerados en este tema:
+
+- Protocolo de seguridad encapsulada (ESP) IPsec (protocolo IP 50)
+
+- Traducción de direcciones de red traversal NAT-T IPsec (puerto UDP 4500)
+
+- Protocolo de administración de claves y de asociación de seguridad de Internet (ISAKMP) IPsec (puerto UDP 500)
+
+Por último, para codificar de forma rígida el puerto que se utilice para la replicación de Active Directory, puede seguir los pasos que se indican en Cómo restringir el tráfico RPC de Active Directory a un puerto específico. Nombre del servicio del sistema: LSASS.
+
+Nota:
+
+No se requieren filtros de paquetes para el tráfico L2TP, porque L2TP se protege mediante IPsec ESP.
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Servicios web de Active Directory (ADWS)
+
+ | TCP
+
+ | 9389
+
+ | Active Directory Management Gateway Service
+
+ | TCP
+
+ | 9389
+
+ | Catálogo global
+
+ | TCP
+
+ | 3269
+
+ | Catálogo global
+
+ | TCP
+
+ | 3268
+
+ | ICMP
+
+ | 
+
+ | Sin número de puerto
+
+ | Servidor del Protocolo ligero de acceso a directorios (LDAP)
+
+ | TCP
+
+ | 389
+
+ | Servidor LDAP
+
+ | UDP
+
+ | 389
+
+ | LDAP SSL
+
+ | TCP
+
+ | 636
+
+ | IPsec ISAKMP
+
+ | UDP
+
+ | 500
+
+ | NAT-T
+
+ | UDP
+
+ | 4500
+
+ | RPC
+
+ | TCP
+
+ | 135
+
+ | RPC a puertos TCP altos asignados aleatoriamente¹
+
+ | TCP
+
+ | 49152 - 65535
+
+ | SMB
+
+ | TCP
+
+ | 445
+
+¹ Para obtener más información sobre cómo personalizar este puerto, consulte "Controladores de dominio y Active Directory" en la sección Referencias. En esta sección también se incluyen las comunicaciones WMI y DCOM remotas utilizadas por primera vez en la promoción del controlador de dominio de Windows Server 2012 durante la validación de los requisitos previos y con la herramienta Administrador de servidores.
+
+Además, el cliente LDAP de Microsoft usa pings ICMP para comprobar que un servidor LDAP con el que tiene una solicitud pendiente aún esté presente en la red. La configuración siguiente corresponde a las opciones de sesión LDAP:
+
+- PingKeepAliveTimeout = 120 segundos (la cantidad de tiempo que espera después de la última respuesta del servidor antes de empezar a enviar ping)
+
+- PingLimit = 4 (el número de pings que se envían antes de cerrar la conexión)
+
+- PingWaitTimeout = 2000 ms (el tiempo que espera de la respuesta ICMP)
+
+- Referencia: Clase LdapSessionOptions
+
+### Servicio de puerta de enlace de nivel de aplicación
+
+Este subcomponente del Servicio de conexión compartida a Internet y del servicio Servidor de seguridad de conexión a Internet (ICF) proporciona compatibilidad con los complementos que permiten a los protocolos de red traspasar el firewall y funcionar detrás de Conexión compartida a Internet. Los complementos de la Puerta de enlace de nivel de aplicación (ALG) pueden abrir los puertos y cambiar los datos (como puertos y direcciones IP) que están incrustados en paquetes. FTP es el único protocolo de red que tiene un complemento que se incluye con Windows Server. El complemento FTP de ALG admite sesiones FTP activas mediante el motor de traducción de direcciones de red (NAT) que utilizan estos componentes. El complemento FTP de ALG admite estas sesiones al redirigir todo el tráfico que satisface los criterios siguientes a un puerto de escucha privado, en el intervalo de 3000 a 5000, en el adaptador del bucle invertido:
+
+- Pasa por el motor NAT
+
+- Se dirige al puerto 21
+
+Después, el complemento FTP de ALG supervisa y actualiza el tráfico del canal de control tráfico de FTP, para que el complemento de FTP pueda reenviar las asignaciones de puerto a través de NAT a los canales de datos FTP. El complemento FTP también actualiza los puertos de la transmisión del canal de control FTP.
+
+Nombre del servicio del sistema: ALG
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Control FTP
+
+ | TCP
+
+ | 21
+
+### Servicio de estado de ASP.NET
+
+El Servicio de estado de ASP.NET proporciona compatibilidad con los estados de sesión fuera de proceso de ASP.NET. El Servicio de estado de ASP.NET almacena los datos de la sesión fuera de proceso. El servicio utiliza los sockets para comunicar con ASP.NET cuando se ejecuta en un servidor web.
+
+Nombre del servicio del sistema: aspnet_state
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Estado de la sesión ASP.NET
+
+ | TCP
+
+ | 42424
+
+### Servicios de certificados
+
+Servicios de Certificate Server forma parte del sistema operativo básico. Al utilizar Servicios de Certificate Server, una empresa puede actuar como su propia autoridad emisora de certificados (CA). Permite que la empresa emita y administre los certificados digitales para los programas y protocolos, como los siguientes:
+
+- Extensiones seguras multipropósito al correo de Internet (S/MIME)
+
+- Capa de sockets seguros (SSL)
+
+- Sistema de cifrado de archivos (EFS)
+
+- IPsec
+
+- Inicio de sesión con tarjeta inteligente
+
+Los Servicios de servidor de certificados se basan en RPC y en DCOM para comunicarse con clientes utilizando puertos TCP aleatorios que sean más altos que el puerto 1024.
+
+Nombre del servicio del sistema: CertSvc
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | RPC
+
+ | TCP
+
+ | 135
+
+ | SMB
+
+ | TCP
+
+ | 445, 139
+
+ | Puertos TCP altos asignados aleatoriamente¹
+
+ | TCP
+
+ | número de puerto aleatorio entre 49152 y 65535
+
+¹ Para obtener más información sobre cómo personalizar este puerto, consulte "Llamadas a procedimientos remotos y DCOM" en la sección Referencias.
+
+Para obtener más información, consulte 3.2.2.6.2.1.4.5.9 msPKI-Certificate-Name-Flag.
+
+### Servicio de clúster
+
+El servicio de Cluster Server controla las operaciones del clúster de servidores y administra la base de datos de clúster. Un clúster es una colección de equipos independientes que actúan como un solo equipo. Los administradores, programadores y usuarios ven el clúster como un único sistema. El software distribuye los datos entre los nodos del clúster. Si se produce un error en un nodo, otros nodos proporcionan los servicios y los datos que anteriormente suministró el nodo que falta. Cuando se agrega o repara un nodo, el software de clúster migra algunos datos a ese nodo.
+
+Nombre del servicio del sistema: ClusSvc
+
+ | Application
+
+ | Protocolo
+
+ | Puertos
+
+ | Servicio de clúster
+
+ | UDP y DTLS¹
+
+ | 3343
+
+ | Servicio de clúster
+
+ | TCP
+
+ | 3343 (este puerto es necesario durante una operación de combinación de nodos).
+
+ | Servicio de clúster
+
+ | ICMP
+
+ | Puerto de eco (este puerto es necesario durante una operación de unión de nodo desde el asistente para agregar nodos).
+
+ | Servicio de clúster
+
+ | TCP
+
+ | 445 (este puerto es obligatorio durante una operación de combinación de nodos desde el asistente para agregar nodos).
+
+ | RPC
+
+ | TCP
+
+ | 135
+
+ | Administrador de clústeres
+
+ | UDP
+
+ | 137
+
+ | Puertos altos asignados aleatoriamente²
+
+ | TCP
+
+ | Número de puerto aleatorio entre 49152 y 65535
+
+ | WinRM
+
+ | TCP
+
+ | 5985 (este puerto es necesario al implementar el testigo en la nube).
+
+Nota:
+
+Además, para la correcta validación en clústeres de conmutación por error de Windows en 2008 y superior, permita el tráfico de entrada y de salida para ICMP4, ICMP6, y el puerto 445/TCP para SMB.
+
+¹ El tráfico UDP del Servicio de clúster a través del puerto 3343 requiere el Protocolo de seguridad de la capa de transporte de datagramas (DTLS), versión 1.0 o versión 1.2. De forma predeterminada, DTLS está habilitado. Para obtener más información, consulte Protocolos en TLS/SSL (SSP Schannel).
+
+² Para obtener más información sobre cómo personalizar estos puertos, consulte Llamadas a procedimientos remotos y DCOM en la sección Referencias.
+
+### Examinador de equipos
+
+El servicio del sistema Examinador de equipos mantiene una lista actualizada de los equipos de la red y proporciona la lista a los programas que lo solicitan. El servicio Examinador de equipos es utilizado por los equipos con Windows para ver los dominios y recursos de la red. Equipos designados como examinadores mantienen listas de examen que contienen todos los recursos compartidos que se utilizan en la red. Las versiones anteriores de los programas basados en Windows, como Mis sitios de red, el comando net view y Explorador de Windows requieren la capacidad de exploración. Por ejemplo, cuando abre Mis sitios de red en un equipo que ejecuta Microsoft Windows 95, se muestra una lista de dominios y equipos. Para mostrar esta lista, el equipo obtiene una copia de la lista de examen de un equipo designado como examinador.
+
+Si ejecuta solo Windows Vista y versiones posteriores de Windows, el servicio de examinador ya no es necesario.
+
+Nombre del servicio del sistema: Browser
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Servicio de datagramas de NetBios
+
+ | UDP
+
+ | 138
+
+ | Resolución de nombres de NetBIOS
+
+ | UDP
+
+ | 137
+
+ | Servicio de sesión de NetBIOS
+
+ | TCP
+
+ | 139
+
+Para su compilación, el servicio Explorador utiliza RPC sobre canalizaciones con nombre para compilar.
+
+### Servidor de Protocolo de configuración dinámica de host (DHCP)
+
+El servicio Servidor DHCP utiliza DHCP para asignar direcciones IP automáticamente. Puede usar este servicio para ajustar la configuración avanzada de red de los clientes DHCP. Por ejemplo, puede configurar valores de red como servidores de Sistema de nombres de dominio (DNS) y servidores de Servicio de nombres Internet de Windows (WINS). Puede establecer uno o más servidores DHCP para mantener la información de configuración de TCP/IP y proporcionar esa información a los equipos cliente.
+
+Nombre del servicio del sistema: DHCPServer
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Servidor DHCP
+
+ | UDP
+
+ | 67
+
+ | MADCAP
+
+ | UDP
+
+ | 2535
+
+ | Conmutación por error de DHCP
+
+ | TCP
+
+ | 647
+
+### Espacios de nombres del Sistema de archivos distribuido
+
+Espacios de nombres del Sistema de archivos distribuido (DFSN) integra en un único espacio de nombres lógico recursos compartidos de archivos dispares que se encuentran en una red de área local (LAN) o en una red de área extensa (WAN). El servicio DFSN es necesario para que los controladores de dominio de Active Directory puedan anunciar la carpeta compartida de SYSVOL.
+
+Nombre del servicio del sistema: `Dfs`
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Servicio de datagramas de NetBios
+
+ | UDP
+
+ | 1382
+
+ | Servicio de sesión de NetBIOS
+
+ | TCP
+
+ | 1392
+
+ | Servidor LDAP
+
+ | TCP
+
+ | 389
+
+ | Servidor LDAP
+
+ | UDP
+
+ | 389
+
+ | SMB
+
+ | TCP
+
+ | 445
+
+ | RPC
+
+ | TCP
+
+ | 135
+
+ | Puertos TCP altos asignados aleatoriamente¹
+
+ | TCP
+
+ | número de puerto aleatorio entre 49152 y 65535
+
+¹ Para obtener más información sobre cómo personalizar este puerto, consulte "Llamadas a procedimientos remotos y DCOM" en la sección Referencias.
+
+2 Los puertos de NETBIOS son opcionales y no son obligatorios cuando DFSN usa nombres FQDN de servidor.
+
+### Replicación del Sistema de archivos distribuido
+
+El servicio Replicación del Sistema de archivos distribuido (DFSR) es un motor de replicación de archivos multimaestro y basado en el estado que copia automáticamente las actualizaciones de los archivos y carpetas entre los equipos que participan en un conjunto de replicación común. DFSR se agregó en Windows Server 2003 R2. DFSR se puede configurar mediante la herramienta de línea de comandos Dfsrdiag.exe para replicar los archivos en puertos específicos, independientemente de si participan en los espacios de nombres del Sistema de archivos distribuido (DFSN).
+
+Nombre del servicio del sistema: DFSR
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | RPC
+
+ | TCP
+
+ | 135
+
+ | RPC
+
+ | TCP
+
+ | 57222
+
+ | Puertos TCP altos asignados aleatoriamente¹
+
+ | TCP
+
+ | número de puerto aleatorio entre 49152 y 65535
+
+¹ Para obtener más información sobre cómo personalizar este puerto, consulte Servicio de replicación de archivos distribuido en la sección Referencias.
+
+2El puerto 5722 se usa solo en un controlador de dominio de Windows Server 2008 o en un controlador de dominio de Windows Server 2008 R2. No se utiliza en un controlador de dominio de Windows Server 2012.
+
+### Servidor de seguimiento de vínculos distribuidos
+
+El servicio Servidor de seguimiento de vínculos distribuidos almacena información, para que se pueda hacer un seguimiento en cada volumen del dominio de los archivos que se han movido entre volúmenes. El Servicio servidor de seguimiento de vínculos distribuidos se ejecuta en cada controlador de dominio de un dominio. Este servicio permite que el Servicio cliente de seguimiento de vínculos distribuidos haga un seguimiento de los documentos vinculados que se mueven a una ubicación en otro volumen del sistema de archivos NTFS del mismo dominio.
+
+Nombre del servicio del sistema: TrkSvr
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | RPC
+
+ | TCP
+
+ | 135
+
+ | Puertos TCP altos asignados aleatoriamente¹
+
+ | TCP
+
+ | número de puerto aleatorio entre 49152 y 65535
+
+¹ Para obtener más información sobre cómo personalizar este puerto, consulte "Llamadas a procedimientos remotos y DCOM" en la sección Referencias.
+
+### Coordinador de transacciones distribuidas
+
+El servicio del sistema Coordinador de transacciones distribuidas (DTC) coordina las transacciones que se distribuyen entre varios sistemas de equipos y administradores de recursos, como bases de datos, colas de mensajes, sistemas de archivos u otros administradores de recursos de transacciones protegidas. El Servicio de sistema DTC es necesario cuando los componentes transaccionales se configuran mediante Modelo de objetos componentes Plus (COM+). También se requiere para las colas transaccionales en las operaciones de Servicios de Message Queue Server (también conocido como MSMQ) y de SQL Server que atienden a varios sistemas.
+
+Nombre del servicio del sistema: MSDTC
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | RPC
+
+ | TCP
+
+ | 135
+
+ | Puertos TCP altos asignados aleatoriamente¹
+
+ | TCP
+
+ | número de puerto aleatorio entre 49152 y 65535
+
+¹ Para obtener más información sobre cómo configurar este puerto, consulte Coordinador de transacciones distribuidas en la sección Referencias.
+
+### Servidor DNS
+
+El servicio Servidor DNS habilita la resolución de nombres DNS, responde a las consultas y actualiza las solicitudes de nombres DNS. Los servidores DNS son necesarios para buscar los dispositivos y servicios que se identifican con los nombres DNS, así como para buscar controladores de dominio en Active Directory.
+
+Nombre del servicio del sistema: DNS
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | DNS
+
+ | UDP
+
+ | 53
+
+ | DNS
+
+ | TCP
+
+ | 53
+
+### Registro de eventos
+
+El servicio del sistema Registro de eventos registra los mensajes de eventos que generan los programas y el sistema operativo Windows. Los informes del Registro de eventos contienen información que puede utilizar para el diagnóstico de problemas. Los informes se consultan en el Visor de eventos. El servicio del Registro de eventos escribe los eventos los programas, los servicios y el sistema operativo envían a los archivos del registro. Los eventos contienen información de diagnóstico, además de errores específicos del programa, del servicio o del componente de origen. Los registros pueden verse mediante programación mediante las API de registro de eventos o mediante el Visor de eventos en un complemento de MMC.
+
+Nombre del servicio del sistema: Eventlog
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | RPC/Canalizaciones con nombre
+
+ | TCP
+
+ | 139
+
+ | RPC/NP
+
+ | TCP
+
+ | 445
+
+ | RPC/NP
+
+ | UDP
+
+ | 137
+
+ | RPC/NP
+
+ | UDP
+
+ | 138
+
+Nota:
+
+El servicio Registro de eventos utiliza RPC sobre canalizaciones con nombre. Este servicio tiene los mismos requisitos de firewall que los de la característica "Compartir impresoras y archivos".
+
+### Servicio de fax
+
+El servicio de fax, un servicio del sistema que cumple con la API de telefonía (TAPI), ofrece funciones de fax. El servicio de fax permite que los usuarios utilicen un dispositivo de fax local o un dispositivo de fax por red compartida para enviar y recibir faxes desde sus programas de escritorio.
+
+Nombre del servicio del sistema: Fax
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Servicio de sesión de NetBIOS
+
+ | TCP
+
+ | 139
+
+ | SMB
+
+ | TCP
+
+ | 445
+
+ | RPC
+
+ | TCP
+
+ | 135
+
+ | Puertos TCP altos asignados aleatoriamente¹
+
+ | TCP
+
+ | número de puerto aleatorio entre 49152 y 65535
+
+¹ Para obtener más información sobre cómo personalizar este puerto, consulte "Llamadas a procedimientos remotos y DCOM" en la sección Referencias.
+
+### Replicación de archivos
+
+El Servicio de replicación de archivos (FRS) es un motor de replicación basado en archivos que copia automáticamente las actualizaciones de los archivos y carpetas entre los equipos que participan en un conjunto de réplicas común de FRS. FRS es el motor de replicación predeterminado que se utiliza para replicar el contenido de la carpeta SYSVOL entre controladores de dominio basados en Windows 2000 y controladores de dominio basados en Windows Server 2003 que se encuentran en un dominio común. Puede utilizar la herramienta de administración de DFS para configurar FRS para que replique archivos y carpetas entre destinos de una raíz o un vínculo DFS.
+
+Nombre del servicio del sistema: NtFrs
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | RPC
+
+ | TCP
+
+ | 135
+
+ | Puertos TCP altos asignados aleatoriamente¹
+
+ | TCP
+
+ | número de puerto aleatorio entre 49152 y 65535
+
+¹ Para obtener más información sobre cómo personalizar este puerto, consulte Servicio de replicación de archivos en la sección Referencias.
+
+### Servicio de publicación FTP
+
+El Servicio de publicación FTP permite la conectividad de FTP. De manera predeterminada, el puerto de control FTP es el 21. Sin embargo, puede configurar los puertos para este servicio del sistema mediante el complemento Administrador de Internet Information Services (IIS). El puerto de datos predeterminado (que se usa para FTP en modo activo) se establece automáticamente en un puerto menor que el puerto de control. Por consiguiente, si configura el puerto de control en el puerto 4131, el puerto de datos predeterminado es el puerto 4130. La mayoría de los clientes FTP utilizan FTP en modo pasivo. Es decir, el cliente primero se conecta al servidor FTP mediante el puerto de control. Luego, el servidor FTP asigna un puerto TCP alto entre los puertos 1025 y 5000. A continuación, el cliente establece una segunda conexión con el servidor FTP para transferir los datos. Puede configurar el intervalo de puertos de número alto utilizando la metabase de IIS.
+
+Nombre del servicio del sistema: MSFTPSVC
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Control FTP
+
+ | TCP
+
+ | 21
+
+ | Datos predeterminados de FTP
+
+ | TCP
+
+ | 20
+
+ | Puertos TCP altos asignados aleatoriamente
+
+ | TCP
+
+ | número de puerto aleatorio entre 49152 y 65535
+
+### Directiva de grupo
+
+Para aplicar correctamente la directiva de grupo, un equipo cliente debe poder ponerse en contacto con un controlador de dominio a través de los protocolos Kerberos, LDAP, SMB y RPC. Además, Windows XP y Windows Server 2003 requieren el protocolo ICMP.
+
+Si cualquiera de estos protocolos no está disponible o está bloqueado entre el cliente y un controlador de dominio pertinente, la directiva de grupo no se aplicará ni se actualizará. En el inicio de sesión entre dominios, en el que un equipo está en un dominio y la cuenta de usuario está en otro dominio, estos protocolos pueden ser necesarios para que el cliente, el dominio de recursos y el dominio de cuenta puedan comunicarse. ICMP se utiliza para la detección de vínculos de baja velocidad.
+
+Nombre del servicio del sistema: Group Policy
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | DCOM¹
+
+ | TCP + UDP
+
+ | número de puerto aleatorio entre 49152 y 65535
+
+ | ICMP (ping)2
+
+ | ICMP
+
+ | 
+
+ | LDAP
+
+ | TCP
+
+ | 389
+
+ | SMB
+
+ | TCP
+
+ | 445
+
+ | RPC¹
+
+ | TCP
+
+ | 135
+número de puerto aleatorio entre 49152 y 65535
+
+¹ Para obtener más información sobre cómo personalizar este puerto, consulte "Controladores de dominio y Active Directory" en la sección Referencias.
+
+2 Este protocolo es obligatorio únicamente cuando Windows XP y Windows Server 2003 actúan como clientes.
+
+Nota:
+
+Cuando el complemento Microsoft Management Console (MMC) de directiva de grupo crea informes de resultados de directivas de grupo e informes de modelado de directivas de grupo, emplea DCOM y RPC para enviar y recibir información del proveedor del Conjunto resultante de directivas (RSoP) en el cliente o en el controlador de dominio. Los diversos archivos binarios que constituyen las características del complemento Microsoft Management Console (MMC) de directiva de grupo utilizan principalmente llamadas COM para enviar o recibir información. Cuando se inicia un informe remoto de resultados de directivas de grupo desde un equipo Windows Server 2012, se requiere el acceso al registro de eventos del equipo de destino. (Para conocer los requisitos de puertos, consulte la sección Registro de eventos en este artículo).
+
+Windows Server 2012 admite el inicio de la actualización remota de directivas de grupo en equipos con Windows Server 2012. Esto requiere acceso RPC/WMI a través del puerto 135 y los puertos de entrada 49152 a 65535 al equipo donde se está actualizando la directiva.
+
+### SSL de HTTP
+
+El servicio del sistema SSL de HTTP permite que IIS realice las funciones SSL. SSL es un estándar abierto para el establecimiento de un canal de comunicaciones cifrado que impide la interceptación de información sumamente importante, como los números de tarjetas de crédito. Aunque este servicio funciona en otros servicios de Internet, principalmente se utiliza para habilitar las transacciones financieras electrónicas cifradas en World Wide Web (WWW). Puede configurar los puertos para este servicio mediante el complemento Administrador de Internet Information Services (IIS).
+
+Nombre del servicio del sistema: HTTPFilter
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | HTTPS
+
+ | TCP
+
+ | 443
+
+### Servicio de Hyper-V
+
+Réplica de Hyper-V
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puerto
+
+ | WMI
+
+ | TCP
+
+ | 135
+
+ | Puertos TCP altos asignados aleatoriamente
+
+ | TCP
+
+ | Número de puerto aleatorio entre 49152 y 65535
+
+ | Autenticación de Kerberos (HTTP)
+
+ | TCP
+
+ | 80
+
+ | Autenticación basada en certificados (HTTPS)
+
+ | TCP
+
+ | 443
+
+Migración en vivo de Hyper-V
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puerto
+
+ | Migración en vivo
+
+ | TCP
+
+ | 6600
+
+ | SMB
+
+ | TCP
+
+ | 445
+
+ | Tráfico del servicio de clúster
+
+ | UDP
+
+ | 3343
+
+### Servicio de autenticación Internet
+
+El Servicio de autenticación Internet (IAS) realiza de manera centralizada operaciones de autenticación, autorización, auditoría y contabilidad de los usuarios que están conectados a una red. Los usuarios pueden estar tanto en una conexión LAN como en una conexión remota. IAS implementa el protocolo Servicio de autenticación remota telefónica de usuario (RADIUS) estándar del Grupo de trabajo de ingeniería de Internet (IETF).
+
+Nombre del servicio del sistema: IAS
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | RADIUS heredado
+
+ | UDP
+
+ | 1645
+
+ | RADIUS heredado
+
+ | UDP
+
+ | 1646
+
+ | Contabilidad de RADIUS
+
+ | UDP
+
+ | 1813
+
+ | Autenticación de RADIUS
+
+ | UDP
+
+ | 1812
+
+### Servidor de seguridad de conexión a Internet (ICF)/Conexión compartida a Internet
+
+Este servicio del sistema proporciona servicios de NAT, de direccionamiento y de resolución de nombres a todos los equipos de la red doméstica o de la red de oficina pequeña. Cuando la característica Conexión compartida a Internet está habilitada, el equipo se convierte en una puerta de enlace de Internet en la red. Otros equipos cliente pueden luego compartir una conexión a Internet, como una conexión de acceso telefónico o una conexión de banda ancha. Este servicio proporciona servicios DHCP y DNS básicos, pero funcionará con los servicios DHCP o DNS completos de Windows. Cuando ICF y la Conexión compartida a Internet actúan como una puerta de enlace para el resto de los equipos de la red, proporcionan servicios DHCP y DNS a la red privada en la interfaz de la red interna. No proporcionan estos servicios en la interfaz de red externa.
+
+Nombre del servicio del sistema: SharedAccess
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Servidor DHCP
+
+ | UDP
+
+ | 67
+
+ | DNS
+
+ | UDP
+
+ | 53
+
+ | DNS
+
+ | TCP
+
+ | 53
+
+### Administración de direcciones IP (IPAM)
+
+La interfaz de usuario del cliente de la administración de direcciones IP (IPAM) se comunica con el servidor de IPAM para realizar la administración remota. Esto se hace a través de Windows Communications Framework (WCF), que usa TCP como protocolo de transporte. De manera predeterminada, el enlace TCP se realiza en el puerto 48885 en el servidor IPAM.
+
+#### Información de BranchCache
+
+- El puerto 3702 (UDP) se usa para detectar la disponibilidad del contenido almacenado en caché en un cliente.
+
+- El puerto 80 (TCP) se usa para entregar el contenido a los clientes que lo solicitan.
+
+- El puerto 443 (TCP) es el puerto predeterminado que usa la memoria caché hospedada para aceptar las ofertas entrantes de contenido de los clientes.
+
+### Servidor ISA/TMG
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Almacenamiento de configuración (dominio)
+
+ | TCP
+
+ | 2171 (nota 1)
+
+ | Almacenamiento de configuración (replicación)
+
+ | TCP
+
+ | 2173 (nota 1)
+
+ | Almacenamiento de configuración (estación de trabajo)
+
+ | TCP
+
+ | 2172 (nota 1)
+
+ | Aplicación cliente de firewall
+
+ | TCP/UDP
+
+ | 1025-65535 (nota 2)
+
+ | Canal de control de cliente de firewall
+
+ | TCP/UDP
+
+ | 1745 (nota 3)
+
+ | Canal de control de firewall
+
+ | TCP
+
+ | 3847 (nota 1)
+
+ | RPC
+
+ | TCP
+
+ | 135 (nota 6)
+
+ | Puertos TCP altos asignados aleatoriamente (nota 6)
+
+ | TCP
+
+ | número de puerto aleatorio entre 1024 y 65535
+número de puerto aleatorio entre 10000 y 65534 (nota 7)
+
+ | Administración de web
+
+ | TCP
+
+ | 2175 (nota 1, 4)
+
+ | Cliente proxy web
+
+ | TCP
+
+ | 8080 (nota 5)
+
+Nota:
+
+- Este puerto no se utiliza con ISA 2000.
+
+- Los protocolos y transportes de la aplicación FWC se negocian dentro del canal de control FWC.
+
+- El control FWC de ISA 2000 utiliza UDP. ISA 2004 y 2006 utilizan TCP.
+
+- OEM utiliza la administración web de firewall para proporcionar la administración no MMC de ISA Server.
+
+- Este puerto también se usa para el tráfico dentro de la matriz.
+
+- Solo MMC de administración de ISA utiliza este puerto durante la supervisión del servidor remoto y del estado del servicio.
+
+- Este es el intervalo en TMG. Tenga en cuenta que TMG amplía los intervalos predeterminados de puertos dinámicos en Windows Server 2008 R2, Windows 7, Windows Server 2008 y Windows Vista.
+
+### Centro de distribución de claves Kerberos
+
+Cuando usa el servicio del sistema Centro de distribución de claves Kerberos (KDC), los usuarios pueden iniciar sesión en la red usando la versión 5 del protocolo de autenticación Kerberos. Como en otras aplicaciones del protocolo Kerberos, KDC es un proceso único que proporciona dos servicios: el servicio de autenticación y el servicio de concesión de vales. El servicio de autenticación emite vales de concesión de vales y el servicio de concesión de vales emite los vales para la conexión a los equipos de su propio dominio.
+
+Nombre del servicio del sistema: KDC
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Kerberos
+
+ | TCP
+
+ | 88
+
+ | Kerberos
+
+ | UDP
+
+ | 88
+
+ | Kerberos Password V5
+
+ | UDP
+
+ | 464
+
+ | Kerberos Password V5
+
+ | TCP
+
+ | 464
+
+ | Ubicador de DC
+
+ | UDP
+
+ | 389
+
+### Registro de licencias
+
+El servicio del sistema Registro de licencias (LLS) es una herramienta diseñada originalmente para ayudar a los clientes a administrar las licencias de los productos de servidor de Microsoft que se han obtenido de acuerdo con el modelo de licencia de acceso de cliente (CAL) de servidor. El Servicio de registro de licencias se introdujo con Microsoft Windows NT Server 3.51. De forma predeterminada, el servicio Registro de licencias está deshabilitado en Windows Server 2003. Por causa de restricciones del diseño heredado y por la evolución de los términos y condiciones de las licencias, el Registro de licencias no puede proporcionar una vista exacta del número total de CAL compradas en comparación con el número total de CAL utilizadas en un servidor concreto o en la empresa. Las CAL que aparecen en el Registro de licencias puede estar en conflicto con la interpretación de los Términos de licencia del software de Microsoft y de los Derechos de uso del producto (PUR). El Registro de licencias no se incluye en Windows Server 2008 y sistemas operativos posteriores. Se recomienda que los usuarios solo habiliten este servicio en sus servidores los usuarios de la familia de Microsoft Small Business Server.
+
+Nombre del servicio del sistema: LicenseService
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Servicio de datagramas de NetBios
+
+ | UDP
+
+ | 138
+
+ | Servicio de sesión de NetBIOS
+
+ | TCP
+
+ | 139
+
+ | SMB
+
+ | TCP
+
+ | 445
+
+Nota:
+
+El servicio de Registro de licencias usa RPC sobre canalizaciones con nombre. Este servicio tiene los mismos requisitos de firewall que los de la característica "Compartir impresoras y archivos".
+
+### Message Queue Server
+
+El servicio del sistema Servicios de Message Queue Server es una infraestructura de mensajería y una herramienta de desarrollo para crear programas de mensajería distribuidos para Windows. Estos programas pueden comunicarse entre redes heterogéneas y pueden enviar los mensajes entre equipos que temporalmente no puedan conectarse unos con otros. Message Queue Server ayuda a proporcionar seguridad, un enrutamiento eficaz, compatibilidad con el envío de mensajes dentro de las transacciones, mensajería basada en prioridades y entrega de mensajes garantizada.
+
+Nombre del servicio del sistema: MSMQ
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | MSMQ
+
+ | TCP
+
+ | 1801
+
+ | MSMQ
+
+ | UDP
+
+ | 1801
+
+ | MSMQ-DC
+
+ | TCP
+
+ | 2101
+
+ | MSMQ-Mgmt
+
+ | TCP
+
+ | 2107
+
+ | MSMQ-Ping
+
+ | UDP
+
+ | 3527
+
+ | MSMQ-RPC
+
+ | TCP
+
+ | 2105
+
+ | MSMQ-RPC
+
+ | TCP
+
+ | 2103
+
+ | RPC
+
+ | TCP
+
+ | 135
+
+### Pilas del Agente de transferencia de mensajes (MTA) de Microsoft Exchange
+
+En Microsoft Exchange 2000 Server y Microsoft Exchange Server 2003, el Agente de transferencia de mensajes (MTA) se usa con frecuencia para proporcionar servicios de transferencia de mensajes compatibles con versiones anteriores entre servidores basados en Exchange 2000 y servidores basados en Exchange Server 5.5 en un entorno de modo combinado.
+
+Nombre del servicio del sistema: MSExchangeMTA
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | X.400
+
+ | TCP
+
+ | 102
+
+### Servicio POP3 de Microsoft
+
+El servicio POP3 de Microsoft permite la transferencia y la recuperación de correo electrónico. Los administradores pueden utilizar este servicio para almacenar y administrar las cuentas de correo electrónico en el servidor de correo. Cuando instala el servicio POP3 de Microsoft en el servidor de correo, los usuarios pueden conectarse con el servidor de correo y recuperar los mensajes de correo electrónico usando un cliente de correo electrónico que sea compatible con el protocolo POP3 como, por ejemplo, Microsoft Outlook.
+
+Nombre del servicio del sistema: POP3SVC
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | POP3
+
+ | TCP
+
+ | 110
+
+### Net Logon
+
+El servicio del sistema Net Logon mantiene un canal de seguridad entre el equipo y el controlador de dominio para autenticar a los usuarios y servicios. Pasa las credenciales de usuario a un controlador de dominio y devuelve al usuario los identificadores de seguridad del dominio y los derechos de usuario. Normalmente se conoce como autenticación de paso. Net Logon se configura para iniciarse automáticamente solo cuando un equipo miembro o un controlador de dominio se unen a un dominio. En las familias Windows 2000 Server y Windows Server 2003, Net Logon publica los registros del localizador de recursos de servicio en el DNS. Cuando se ejecuta este servicio, confía en el servicio WORKSTATION y en el servicio Autoridad de seguridad local para escuchar las solicitudes entrantes. En los equipos miembros de dominio, Inicio de sesión de red utiliza RPC sobre canalizaciones con nombre. En los controladores de dominio, utiliza RPC sobre canalizaciones con nombre, RPC sobre TCP/IP, buzones y protocolo ligero de acceso a directorios (LDAP).
+
+Nombre del servicio del sistema: `Netlogon`
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Servicio de datagramas de NetBios
+
+ | UDP
+
+ | 1382
+
+ | Resolución de nombres de NetBIOS
+
+ | UDP
+
+ | 1372
+
+ | Servicio de sesión de NetBIOS
+
+ | TCP
+
+ | 1392
+
+ | SMB
+
+ | TCP
+
+ | 445
+
+ | LDAP
+
+ | UDP
+
+ | 389
+
+ | RPC¹
+
+ | TCP
+
+ | 135
+número de puerto aleatorio entre 49152 y 65535
+
+¹ Para obtener más información sobre cómo personalizar este puerto, consulte "Controladores de dominio y Active Directory" en la sección Referencias.
+
+2 Los puertos de NETBIOS son opcionales. `Netlogon` los usa solo para confianzas que no admiten DNS o cuando hay un error de DNS durante un intento de reserva. Si no existe una infraestructura de WINS y las difusiones no funcionan, debe deshabilitar NetBt o establecer los equipos y servidores en NodeType=2.
+
+Nota:
+
+El servicio Net Logon usa RPC sobre canalizaciones con nombre para versiones anteriores de clientes Windows. Este servicio tiene los mismos requisitos de firewall que los de la característica "Compartir impresoras y archivos".
+
+### Protocolo de transferencia de noticias a través de la red (NNTP)
+
+El servicio del sistema Protocolo de transferencia de noticias a través de la red (NNTP) permite que los equipos que ejecutan Windows Server 2003 actúen como servidores de noticias. Los clientes pueden utilizar un cliente de noticias, como Microsoft Outlook Express, para recuperar grupos de noticias del servidor y leer los encabezados o los cuerpos de los artículos de cada grupo de noticias.
+
+Nombre del servicio del sistema: NNTPSVC
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | NNTP
+
+ | TCP
+
+ | 119
+
+ | NNTP sobre SSL
+
+ | TCP
+
+ | 563
+
+### Archivos sin conexión, Servicio de perfiles de usuario, Redirección de carpetas y Equipo principal
+
+Archivos sin conexión y perfiles de usuario móvil almacenan en caché los datos de los usuarios en los equipos para su uso sin conexión. Estas capacidades existen en todos los sistemas operativos Microsoft compatibles. Windows XP implementó el almacenamiento en caché de los perfiles de usuario móvil como parte del proceso `Winlogon`, mientras que Windows Vista, Windows Server 2008 y sistemas operativos posteriores usan el Servicio de perfiles de usuario. Todos estos sistemas utilizan SMB.
+
+Redirección de carpetas redirige los datos de usuario del equipo local a un recurso compartido de archivos remoto, mediante SMB.
+
+El sistema Equipo principal para Windows es parte de los servicios Perfil de usuario móvil y Archivos sin conexión. Equipo principal ofrece una funcionalidad para evitar el almacenamiento de datos en caché en equipos que no están autorizados por los administradores para usuarios en concreto. Equipo principal utiliza LDAP para establecer la configuración y no realiza ninguna transferencia de datos mediante SMB; en su lugar, modifica los comportamientos predeterminados de Archivos sin conexión y Perfil de usuario móvil. Este sistema se agregó en Windows Server 2012.
+
+Nombres del servicio del sistema: ProfSvc y CscService
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | SMB
+
+ | TCP
+
+ | 445
+
+ | Catálogo global
+
+ | TCP
+
+ | 3269
+
+ | Catálogo global
+
+ | TCP
+
+ | 3268
+
+ | Servidor LDAP
+
+ | TCP
+
+ | 389
+
+ | Servidor LDAP
+
+ | UDP
+
+ | 389
+
+ | LDAP SSL
+
+ | TCP
+
+ | 636
+
+### Registros y alertas de rendimiento
+
+El servicio del sistema Registros y alertas de rendimiento recopila datos del rendimiento de equipos locales o remotos, de acuerdo con parámetros de una programación preconfigurados y, a continuación, escribe esos datos en un registro o desencadena un mensaje. De acuerdo con la información contenida en el valor de configuración de la recopilación de registros con nombre, el servicio Registros y alertas de rendimiento inicia y detiene la recopilación de datos de rendimiento con nombre. Este servicio solo se ejecuta si se ha programado al menos una recolección de datos de rendimiento.
+
+Nombre del servicio del sistema: SysmonLog
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Servicio de sesión de NetBIOS
+
+ | TCP
+
+ | 139
+
+### Administrador de trabajos de impresión
+
+El servicio del sistema Administrador de trabajos de impresión (o cola de impresión) administra todas las colas de impresión en red y controla todos los trabajos de impresión. El servicio Administrador de trabajos de impresión es el centro del subsistema de impresión de Windows. Administra las colas de impresión en el sistema y comunica con los controladores de impresora y con componentes de entrada/salida (E/S), como el puerto USB y el conjunto de protocolos TCP/IP.
+
+Nombre del servicio del sistema: administración de trabajos en cola
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | RPC
+
+ | TCP
+
+ | 135
+
+ | Puertos TCP altos asignados aleatoriamente¹
+
+ | TCP
+
+ | número de puerto aleatorio entre 49152 y 65535
+
+ | Servicio de datagramas de NetBios
+
+ | UDP
+
+ | 138
+
+ | Resolución de nombres de NetBIOS
+
+ | UDP
+
+ | 137
+
+ | Servicio de sesión de NetBIOS
+
+ | TCP
+
+ | 139
+
+ | SMB
+
+ | TCP
+
+ | 445
+
+¹ Para obtener más información sobre cómo personalizar este puerto, consulte "Llamadas a procedimientos remotos y DCOM" en la sección Referencias.
+
+Nota:
+
+El servicio Administrador de trabajos de impresión usa RPC sobre canalizaciones con nombre. Este servicio tiene los mismos requisitos de firewall que los de la característica "Compartir impresoras y archivos".
+
+### Instalación remota
+
+Puede utilizar el servicio del sistema Instalación remota para instalar Windows 2000, Windows XP y Windows Server 2003 en equipos cliente habilitados para el arranque remoto en el Entorno de ejecución previo al arranque (PXE). El servicio Boot Information Negotiation Layer Service (BINL), que es el componente principal del Servidor de instalación remota (RIS), contesta las solicitudes del cliente de PXE, comprueba la validación del cliente en Active Directory y pasa la información del cliente hacia y desde el servidor. El servicio BINL se instala cuando agrega el componente RIS desde Agregar o quitar componentes de Windows, o puede seleccionarlo cuando instala el sistema operativo inicialmente.
+
+Nombre del servicio del sistema: BINLSVC
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | BINL
+
+ | UDP
+
+ | 4011
+
+### Llamada a procedimiento remoto (RPC)
+
+El servicio del sistema Llamada a procedimiento remoto (RPC) es un mecanismo de comunicación entre procesos (IPC) que habilita el intercambio de datos y la invocación de la funcionalidad que se ubica en un proceso diferente. El proceso diferente puede estar en el mismo equipo, en la LAN o en una ubicación remota, y puede tenerse acceso a él en una conexión WAN o en una conexión VPN. El servicio RPC funciona como asignador de puntos de conexión RPC y Administrador de control de servicios del Modelo de objetos componentes (COM). Muchos servicios dependen del servicio RPC para iniciarse correctamente.
+
+Nombre del servicio del sistema: RpcSs
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | RPC
+
+ | TCP
+
+ | 135
+
+ | RPC sobre HTTPS
+
+ | TCP
+
+ | 593
+
+ | Servicio de datagramas de NetBios
+
+ | UDP
+
+ | 138
+
+ | Resolución de nombres de NetBIOS
+
+ | UDP
+
+ | 137
+
+ | Servicio de sesión de NetBIOS
+
+ | TCP
+
+ | 139
+
+ | SMB
+
+ | TCP
+
+ | 445
+
+Nota:
+
+- RPC no solo utiliza los puertos codificados de forma rígida que se enumeran en la tabla. Los puertos de intervalo efímero que son utilizados por Active Directory y otros componentes se usan a través de RPC en el intervalo de puertos efímeros. El intervalo de puertos efímeros depende del sistema operativo del servidor al que está conectado el sistema operativo del cliente.
+
+- El Asignador de puntos de conexión de RPC ofrece también sus servicios mediante canalizaciones con nombre. Este servicio tiene los mismos requisitos de firewall que los de la característica "Compartir impresoras y archivos".
+
+### Ubicador de llamadas a procedimiento remoto (RPC)
+
+El servicio del sistema Ubicador de Llamadas a procedimiento remoto (RPC) administra la base de datos del servicio de nombres RPC. Cuando este servicio se activa, los clientes RPC pueden buscar los servidores RPC. De forma predeterminada, este servicio está desactivado.
+
+Nombre del servicio del sistema: RpcLocator
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Servicio de datagramas de NetBios
+
+ | UDP
+
+ | 138
+
+ | Resolución de nombres de NetBIOS
+
+ | UDP
+
+ | 137
+
+ | Servicio de sesión de NetBIOS
+
+ | TCP
+
+ | 139
+
+ | SMB
+
+ | TCP
+
+ | 445
+
+Nota:
+
+El servicio Ubicador de llamada a procedimiento remoto (RPC) ofrece sus servicios usando RPC sobre canalizaciones con nombre. Este servicio tiene los mismos requisitos de firewall que los de la característica "Compartir impresoras y archivos".
+
+### Notificación de almacenamiento remoto
+
+El servicio del sistema Notificación de almacenamiento remoto informa a los usuarios si leen o escriben en archivos que solo están disponibles en los medios de almacenamiento secundario. Si se detiene este servicio, se impide esta notificación.
+
+Nombre del servicio del sistema: Remote_Storage_User_Link
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | RPC
+
+ | TCP
+
+ | 135
+
+ | Puertos TCP altos asignados aleatoriamente¹
+
+ | TCP
+
+ | número de puerto aleatorio entre 49152 y 65535
+
+¹ Para obtener más información sobre cómo personalizar este puerto, consulte "Llamadas a procedimientos remotos y DCOM" en la sección Referencias.
+
+### Almacenamiento remoto
+
+El servicio del sistema Almacenamiento remoto almacena los archivos de uso infrecuente en un medio de almacenamiento secundario. Si detiene este servicio, los usuarios no podrán mover o recuperar los archivos de los medios de almacenamiento secundario.
+
+Nombre del servicio del sistema: Remote_Storage_Server
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | RPC
+
+ | TCP
+
+ | 135
+
+ | Puertos TCP altos asignados aleatoriamente¹
+
+ | TCP
+
+ | número de puerto aleatorio entre 49152 y 65535
+
+¹ Para obtener más información sobre cómo personalizar este puerto, consulte "Llamadas a procedimientos remotos y DCOM" en la sección Referencias.
+
+### Enrutamiento y acceso remoto
+
+El servicio Enrutamiento y acceso remoto proporciona los servicios de enrutamiento de múltiples protocolos de LAN a LAN, LAN a WAN, VPN y NAT. Enrutamiento y acceso remoto también proporciona acceso telefónico y servicios de acceso remoto a VPN. Si bien Enrutamiento y acceso remoto puede utilizar todos los protocolos que aparecen a continuación, el servicio utiliza normalmente solo algunos de ellos. Por ejemplo, si configura una puerta de enlace VPN que está detrás de un enrutador de filtrado, probablemente utilizará solo un protocolo. Si utiliza L2TP con IPsec, debe permitir ESP de IPsec (protocolo IP 50), NAT-T (UDP en el puerto 4500) e IPsec con ISAKMP (UDP en el puerto 500) a través del enrutador.
+
+Nota:
+
+Aunque NAT-T e IPsec con ISAKMP son necesarios para L2TP, estos puertos los supervisa la autoridad de seguridad local. Para obtener más información sobre este tema, consulte la sección Referencias.
+
+Nombre del servicio del sistema: RemoteAccess
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | GRE (protocolo IP 47)
+
+ | GRE
+
+ | No aplicable
+
+ | IPsec AH (protocolo IP 51)
+
+ | AH
+
+ | No aplicable
+
+ | IPsec ESP (protocolo IP 50)
+
+ | ESP
+
+ | No aplicable
+
+ | L2TP
+
+ | UDP
+
+ | 1701
+
+ | PPTP
+
+ | TCP
+
+ | 1723
+
+### Servidor
+
+El servicio del sistema Servidor proporciona compatibilidad con RPC, uso compartido de archivos, de impresoras y de canalizaciones con nombre a través de la red. El servicio Servidor permite a los usuarios compartir recursos locales, como discos e impresoras, para que otros usuarios de la red puedan tener acceso a ellos. También permite la comunicación de canalizaciones con nombre entre programas que se ejecutan en el equipo local y en otros equipos. La comunicación de canalización con nombre es una memoria reservada para los datos de salida de un proceso que se van a utilizar como entrada para otro proceso. El proceso de aceptar las entradas no tiene que ser en el quipo local.
+
+Nota:
+
+Si un nombre de equipo se resuelve en varias direcciones IP con WINS o si WINS tuvo un error y el nombre se resuelve con DNS, NetBIOS sobre TCP/IP (NetBT) trata de hacer ping a la dirección o direcciones IP del servidor de archivos. Las comunicaciones del puerto 139 dependen de los mensajes de eco del Protocolo de mensajes de control de Internet (ICMP). Si el protocolo de Internet versión 6 (IPv6) no está instalado, las comunicaciones del puerto 445 también dependerán de ICMP para la resolución de nombres. Las entradas Lmhosts cargadas previamente omitirán la resolución DNS. Si IPv6 está instalado en equipos que ejecutan Windows Server 2003 o Windows XP, las comunicaciones del puerto 445 no desencadenarán ninguna solicitud ICMP.
+
+Los puertos de NETBIOS que se enumeran aquí son opcionales. Windows 2000 y los clientes más nuevos pueden funcionar en el puerto 445.
+
+Nombre del servicio del sistema: lanmanserver
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Servicio de datagramas de NetBios
+
+ | UDP
+
+ | 138
+
+ | Resolución de nombres de NetBIOS
+
+ | UDP
+
+ | 137
+
+ | Servicio de sesión de NetBIOS
+
+ | TCP
+
+ | 139
+
+ | SMB
+
+ | TCP
+
+ | 445
+
+### SharePoint Portal Server
+
+El servicio del sistema SharePoint Portal Server permite desarrollar un portal inteligente que conecte sin problemas a usuarios, equipos y conocimientos. Ayuda a que las personas aprovechen la información relevante entre los distintos procesos comerciales. Microsoft SharePoint Portal Server 2003 proporciona una solución comercial para la empresa, que integra la información de varios sistemas en una solución a través de las capacidades de inicio de sesión único y la integración de aplicaciones empresariales.
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | HTTP
+
+ | TCP
+
+ | 80
+
+ | HTTPS
+
+ | TCP
+
+ | 443
+
+### Protocolo simple de transferencia de correo (SMTP)
+
+El servicio del sistema Protocolo simple de transferencia de correo (SMTP) es un agente para el envío y la retransmisión de correo electrónico. Acepta y pone en la cola mensajes de correo electrónico para los destinos remotos, y lo reintenta en los intervalos especificados. Los controladores de dominio de Windows utilizan el servicio SMTP para la replicación entre sitios basada en el correo electrónico. Objetos de datos de colaboración (CDO) para el componente COM de Windows Server 2003 puede utilizar el servicio SMTP para enviar y poner en la cola los mensajes de correo electrónico salientes.
+
+Nombre del servicio del sistema: SMTPSVC
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | SMTP
+
+ | TCP
+
+ | 25
+
+### Servicios simples de TCP/IP
+
+Servicios simples de TCP/IP admite los siguientes protocolos:
+
+- Eco, puerto 7, RFC 862
+
+- Desechar, puerto 9, RFC 863
+
+- Generador de caracteres, puerto 19, RFC 864
+
+- Hora diurna, puerto 13, RFC 867
+
+- Cita del día, puerto 17, RFC 865
+
+Nombre del servicio del sistema: SimpTcp
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | `Chargen`
+
+ | TCP
+
+ | 19
+
+ | `Chargen`
+
+ | UDP
+
+ | 19
+
+ | Daytime
+
+ | TCP
+
+ | 13
+
+ | Daytime
+
+ | UDP
+
+ | 13
+
+ | Discard
+
+ | TCP
+
+ | 9
+
+ | Discard
+
+ | UDP
+
+ | 9
+
+ | Echo
+
+ | TCP
+
+ | 7
+
+ | Echo
+
+ | UDP
+
+ | 7
+
+ | `Quotd`
+
+ | TCP
+
+ | 17
+
+ | Quoted
+
+ | UDP
+
+ | 17
+
+### Servicio Protocolo simple de administración de redes (SNMP)
+
+El servicio Protocolo simple de administración de redes (SNMP) permite que el equipo local entregue solicitudes entrantes del SNMP. El servicio SNMP incluye agentes que supervisan la actividad en los dispositivos de red y notifican a la estación de trabajo de la consola de red. El servicio SNMP proporciona un método para administrar los hosts de red (como estaciones de trabajo o equipos de servidores, enrutadores, puentes y concentradores) desde un equipo central que ejecuta software de administración de redes. SNMP realiza servicios de administración mediante una arquitectura distribuida de sistemas de administración y agentes.
+
+Nombre del servicio del sistema: SNMP
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | SNMP
+
+ | UDP
+
+ | 161
+
+### Servicio de captura SNMP
+
+El servicio de captura SNMP recibe mensajes de captura que generan agentes SNMP locales o remotos. Luego, el servicio de captura SNMP reenvía esos mensajes a los programas de administración de SNMP que se ejecutan en el equipo. Cuando se configura el servicio de captura SNMP para un agente, el servicio genera mensajes de captura si se producen eventos específicos. Estos mensajes se envían a un destino de captura. Por ejemplo, un agente puede configurarse para que inicie una captura de autenticación si un sistema de administración desconocido envía una solicitud de información. Los destinos de captura incluyen el nombre del equipo, la dirección IP o la dirección Internetwork Packet Exchange (IPX) del sistema de administración. El destino de la captura debe ser un host habilitado por la red que esté ejecutando el software de administración de SNMP.
+
+Nombre del servicio del sistema: SNMPTRAP
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Capturas de SNMP salientes
+
+ | UDP
+
+ | 162
+
+### Servicio de detección Protocolo simple de detección de servicios (SSDP)
+
+El servicio de detección Protocolo simple de detección de servicios (SSDP) implementa el SSDP como un servicio de Windows. El servicio de Detección SSDP administra la recepción de los anuncios de presencia de dispositivos, actualiza su caché, y envía estas notificaciones a los clientes que tienen solicitudes de búsqueda pendientes. El servicio de Detección SSDP también acepta el registro de devoluciones de llamada de eventos de los clientes. Las devoluciones de llamada de eventos registradas se convierten luego en solicitudes de suscripción. A continuación, el servicio de Detección SSDP supervisa las notificaciones de eventos y envía estas solicitudes a las devoluciones de llamada registradas. Este servicio del sistema también ofrece anuncios periódicos a los dispositivos hospedados. Actualmente, el servicio de notificación de eventos de SSDP usa el puerto TCP 5000.
+
+Nota:
+
+A partir de Windows XP Service Pack 2 (SP2), el servicio de notificación de eventos de SSDP usa el puerto TCP 2869.
+
+Nombre del servicio del sistema: SSDPRSR
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | SSDP
+
+ | UDP
+
+ | 1900
+
+ | Notificación de eventos de SSDP
+
+ | TCP
+
+ | 2869
+
+ | Notificación de eventos heredada de SSDP
+
+ | TCP
+
+ | 5000
+
+### Servidor de impresión TCP/IP
+
+El servicio del sistema Servidor de impresión TCP/IP permite la impresión basada en TCP/IP mediante el protocolo Line Printer Daemon (LPD). El servicio de LPD en el servidor recibe los documentos de las utilidades de Line Printer Remote (LPR) que se ejecutan en equipos UNIX.
+
+Nombre del servicio del sistema: LPDSVC
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | LPD
+
+ | TCP
+
+ | 515
+
+### Telnet
+
+El servicio del sistema Telnet para Windows proporciona sesiones de terminales ASCII a los clientes Telnet. Un servidor Telnet admite dos tipos de autenticación y los tipos de terminales siguientes:
+
+- American National Standards Institute (ANSI)
+
+- VT-100
+
+- VT-52
+
+- VTNT
+
+Nombre del servicio del sistema: TlntSvr
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Telnet
+
+ | TCP
+
+ | 23
+
+### Servicios de Escritorio remoto (RDS)
+
+RDS proporciona un entorno de múltiples sesiones, que permite el acceso de los dispositivos cliente a una sesión del escritorio virtual de Windows y a los programas basados en Windows que se ejecutan en el servidor. RDS permite la conexión interactiva de varios usuarios a un equipo.
+
+Nombre del servicio del sistema: TermService
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | RDS
+
+ | TCP
+
+ | 3389
+
+ | RDS
+
+ | UDP
+
+ | 3389
+
+### Concesión de licencias de RDS (RDSL)
+
+El servicio del sistema RDSL instala un servidor de licencias y proporciona licencias a los clientes registrados cuando estos se conectan a un servidor RDS (un servidor que tenga RDS habilitado). RDSL es un servicio de bajo impacto que almacena las licencias de cliente que se emiten para un servidor RDS y efectúa el seguimiento de las licencias que se emiten a equipos cliente o servidores.
+
+Nombre del servicio del sistema: TermServLicensing
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | RPC
+
+ | TCP
+
+ | 135
+
+ | Puertos TCP altos asignados aleatoriamente¹
+
+ | TCP
+
+ | número de puerto aleatorio entre 49152 y 65535
+
+ | Servicio de datagramas de NetBios
+
+ | UDP
+
+ | 138
+
+ | Resolución de nombres de NetBIOS
+
+ | UDP
+
+ | 137
+
+ | Servicio de sesión de NetBIOS
+
+ | TCP
+
+ | 139
+
+ | SMB
+
+ | TCP
+
+ | 445
+
+¹ Para obtener más información sobre cómo personalizar este puerto, consulte "Llamadas a procedimientos remotos y DCOM" en la sección Referencias.
+
+Nota:
+
+RDSL ofrece sus servicios utilizando RPC sobre canalizaciones con nombre. Este servicio tiene los mismos requisitos de firewall que los de la característica "Compartir impresoras y archivos".
+
+### Agente de conexión a Escritorio remoto
+
+El servicio del sistema del Agente de conexión a Escritorio remoto permite a los clústeres de servidores RDS de carga equilibrada enrutar correctamente la solicitud de conexión de un usuario al servidor en el que este ejecuta una sesión. Los usuarios se enrutan al primer servidor RDS disponible independientemente de si están ejecutando otra sesión en el clúster de servidor. La funcionalidad de equilibrio de carga agrupa los recursos de procesamiento de varios servidores utilizando el protocolo de redes TCP/IP. Puede utilizar este servicio junto con un clúster de servidores RDS para aumentar el rendimiento de un único servidor RDS distribuyendo las sesiones entre varios servidores. El Agente de conexión a Escritorio remoto realiza un seguimiento de las sesiones desconectadas en el clúster y garantiza que los usuarios se vuelvan a conectar a esas sesiones.
+
+Nombre del servicio del sistema: Tssdis
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | RPC
+
+ | TCP
+
+ | 135
+
+ | Puertos TCP altos asignados aleatoriamente¹
+
+ | TCP
+
+ | número de puerto aleatorio entre 49152 y 65535
+
+¹ Para obtener más información sobre cómo personalizar este puerto, consulte "Llamadas a procedimientos remotos y DCOM" en la sección Referencias.
+
+### Demonio FTP trivial
+
+El servicio del sistema Demonio FTP trivial no requiere un nombre de usuario o una contraseña, y forma parte importante de los Servicios de instalación remota (RIS). El servicio Demonio FTP trivial admite el Protocolo trivial de transferencia de archivos (TFTP) definido por los siguientes RFC:
+
+- RFC 1350 - TFTP
+
+- RFC 2347 - Extensión de opción
+
+- RFC 2348 - Opción de tamaño de bloque
+
+- RFC 2349 - Opciones de intervalo de tiempo de espera y tamaño de transferencia
+
+El Protocolo trivial de transferencia de archivos (TFTP) es un FTP que admite entornos de instalación sin disco. El servicio TFTP escucha en el puerto UDP 69, pero responde desde un puerto alto asignado aleatoriamente. Por tanto, cuando habilita este puerto, el servicio TFTP recibe las solicitudes TFTP entrantes, pero no se permite que el servidor seleccionado las responda. El servicio puede responder a cualquiera de esas solicitudes desde cualquier puerto de origen que desee, y el cliente remoto luego utilizará ese puerto durante la transferencia. La comunicación es bidireccional. Si tiene que habilitar este protocolo a través de un firewall, puede ser útil abrir el puerto UDP 69 de entrada. Después, puede contar con otras características del firewall, que permiten dinámicamente que el servicio responda a través de los agujeros temporales de cualquier otro puerto.
+
+Nombre del servicio del sistema: tftpd
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | TFTP
+
+ | UDP
+
+ | 69
+
+### Dispositivo host de UPnP
+
+El servicio del sistema de detección de Host de dispositivo UPnP implementa todos los componentes que se requieren para el registro de dispositivos, el control y la respuesta a los eventos de los dispositivos hospedados. La información registrada relacionada con un dispositivo, como la descripción, la duración y los contenedores, se almacena opcionalmente en el disco y se anuncia en la red después del registro, o cuando se reinicia el sistema operativo. El servicio también incluye el servidor web que atiende al dispositivo, además de las descripciones de servicio y una página de presentación.
+
+Nombre del servicio del sistema: UPNPHost
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | UPNP
+
+ | TCP
+
+ | 2869
+
+### Servicio de nombres Internet de Windows (WINS)
+
+El Servicio de nombres Internet de Windows (WINS) habilita la resolución de nombres de NetBios. Este servicio le ayuda a buscar los recursos de red utilizando nombres de NetBios. Se requieren servidores WINS, a menos que todos los dominios se hayan actualizado al servicio de directorios de Active Directory y que todos los equipos de la red ejecuten Windows 2000 o versiones posterior. Los servidores WINS se comunican con clientes de red utilizando la resolución de nombres de NetBios. La replicación de WINS sólo se requiere entre servidores WINS.
+
+Nombre del servicio del sistema: WINS
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | Resolución de nombres de NetBIOS
+
+ | UDP
+
+ | 137
+
+ | Replicación de WINS
+
+ | TCP
+
+ | 42
+
+ | Replicación de WINS
+
+ | UDP
+
+ | 42
+
+### Servicios de Windows Media
+
+Servicios de Windows Media en Windows Server 2003 y versiones posteriores reemplaza los cuatro servicios siguientes que se incluyen en las versiones 4.0 y 4.1 de Servicios de Windows Media:
+
+- Servicio de supervisión de Windows Media
+
+- Servicios de programas de Windows Media
+
+- Servicio de emisoras de Windows Media
+
+- Servicio de unidifusión de Windows Media
+
+Servicios de Windows Media ahora es un único servicio que se ejecuta en Windows Server. Sus componentes básicos se han desarrollado utilizando COM, y tiene una arquitectura flexible que se puede personalizar para programas específicos. Servicios de Windows Media admite una mayor variedad de protocolos de control. Entre otros, se incluyen el Protocolo de transmisión en tiempo real (RTSP), Microsoft Media Server (MMS) y HTTP.
+
+Nombre del servicio del sistema: `WMServer`
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | HTTP
+
+ | TCP
+
+ | 80
+
+ | MMS
+
+ | TCP
+
+ | 1755
+
+ | MMS
+
+ | UDP
+
+ | 1755
+
+ | MS Theater
+
+ | UDP
+
+ | 2460
+
+ | RTCP
+
+ | UDP
+
+ | 5005
+
+ | RTP
+
+ | UDP
+
+ | 5004
+
+ | RTSP
+
+ | TCP
+
+ | 554
+
+### Administración remota de Windows (WinRM)
+
+Nombre del servicio del sistema: WinRM
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | WinRM 1.1 y versiones anteriores
+
+ | TCP
+
+ | El puerto HTTP predeterminado es el TCP 80, y el puerto HTTPS predeterminado es el TCP 443.
+
+ | WinRM 2.0
+
+ | TCP
+
+ | El puerto HTTP predeterminado es el TCP 5985, y el puerto HTTPS predeterminado es el TCP 5986.
+
+Para obtener más información, consulte Installation and Configuration for Windows Remote Management.
+
+### Horario de Windows
+
+El servicio del sistema Horario de Windows mantiene la sincronización de la fecha y la hora en todos los equipos de una red que ejecutan Windows XP o versiones posteriores y Windows Server 2003 o versiones posteriores. Este servicio utiliza el Protocolo de tiempo de la red (NTP) para sincronizar los relojes de los equipos y asignar así un valor de reloj y una marca de tiempo precisos, para la validación de la red y para las solicitudes de acceso de los recursos. La implementación de NTP y la integración de los proveedores de hora hacen de Horario de Windows un servicio de hora confiable y escalable para su empresa. Para equipos que no están unidos a un dominio, puede configurar Horario de Windows para sincronizar la hora con una hora de origen externo. Si este servicio se desactivara, la configuración de la hora de los equipos locales no se sincronizará con un servicio de hora en el dominio de Windows o con un servicio de hora configurado externamente. Windows Server 2003 utiliza NTP. NTP también se ejecuta en el puerto UDP 123. La versión de Windows 2000 de este servicio utiliza el Protocolo simple de tiempo de redes (SNTP). SNTP también se ejecuta en el puerto UDP 123.
+
+Cuando el Servicio de Horario de Windows utiliza una configuración de dominio de Windows, requiere servicios de localización y autenticación de controladores de dominio. Por tanto, se requieren los puertos para Kerberos y DNS.
+
+Nombre del servicio del sistema: W32Time
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | NTP
+
+ | UDP
+
+ | 123
+
+ | SNTP
+
+ | UDP
+
+ | 123
+
+### Servicio de publicación World Wide Web
+
+El servicio de publicación World Wide Web proporciona la infraestructura que debe tener para registrar, administrar, supervisar y atender los sitios web y programas que se han registrado con IIS. Este servicio del sistema contiene un administrador de procesos y un administrador de configuración. El administrador de procesos controla los procesos en los que residen las aplicaciones y los sitios web personalizados. El administrador de configuración lee la configuración almacenada del sistema del servicio de publicación World Wide web, y se asegura de que Http.sys se configure para dirigir las solicitudes HTTP a los grupos de aplicaciones o procesos del sistema operativo adecuados. Puede utilizar el complemento del Administrador de Internet Information Services (IIS) para configurar los puertos que utiliza este servicio. Si el sitio web administrativo está habilitado, se crea un sitio web virtual que utiliza tráfico HTTP en el puerto TCP 8098.
+
+Nombre del servicio del sistema: W3SVC
+
+ | Protocolo de aplicación
+
+ | Protocolo
+
+ | Puertos
+
+ | HTTP
+
+ | TCP
+
+ | 80
+
+ | HTTPS
+
+ | TCP
+
+ | 443
+
+## Puertos y protocolos
+
+En la tabla siguiente se resume la información de la sección Puertos de los servicios del sistema. Esta tabla se ordena por el número de puerto, en vez de por el nombre de servicio.
+
+ | Puerto
+
+ | Protocolo
+
+ | Protocolo de aplicación
+
+ | Nombre del servicio del sistema:
+
+ | No aplicable
+
+ | GRE
+
+ | GRE (protocolo IP 47)
+
+ | Enrutamiento y acceso remoto
+
+ | No aplicable
+
+ | ESP
+
+ | IPsec ESP (protocolo IP 50)
+
+ | Enrutamiento y acceso remoto
+
+ | No aplicable
+
+ | AH
+
+ | IPsec AH (protocolo IP 51)
+
+ | Enrutamiento y acceso remoto
+
+ | 7
+
+ | TCP
+
+ | Echo
+
+ | Servicios simples de TCP/IP
+
+ | 7
+
+ | UDP
+
+ | Echo
+
+ | Servicios simples de TCP/IP
+
+ | 9
+
+ | TCP
+
+ | Discard
+
+ | Servicios simples de TCP/IP
+
+ | 9
+
+ | UDP
+
+ | Discard
+
+ | Servicios simples de TCP/IP
+
+ | 13
+
+ | TCP
+
+ | Daytime
+
+ | Servicios simples de TCP/IP
+
+ | 13
+
+ | UDP
+
+ | Daytime
+
+ | Servicios simples de TCP/IP
+
+ | 17
+
+ | TCP
+
+ | `Quotd`
+
+ | Servicios simples de TCP/IP
+
+ | 17
+
+ | UDP
+
+ | `Quotd`
+
+ | Servicios simples de TCP/IP
+
+ | 19
+
+ | TCP
+
+ | `Chargen`
+
+ | Servicios simples de TCP/IP
+
+ | 19
+
+ | UDP
+
+ | `Chargen`
+
+ | Servicios simples de TCP/IP
+
+ | 20
+
+ | TCP
+
+ | Datos predeterminados de FTP
+
+ | Servicio de publicación FTP
+
+ | 21
+
+ | TCP
+
+ | Control FTP
+
+ | Servicio de publicación FTP
+
+ | 21
+
+ | TCP
+
+ | Control FTP
+
+ | Servicio de puerta de enlace de nivel de aplicación
+
+ | 23
+
+ | TCP
+
+ | Telnet
+
+ | Telnet
+
+ | 25
+
+ | TCP
+
+ | SMTP
+
+ | Protocolo simple de transferencia de correo
+
+ | 25
+
+ | TCP
+
+ | SMTP
+
+ | Exchange Server
+
+ | 42
+
+ | TCP
+
+ | Replicación de WINS
+
+ | Servicio de nombres Internet de Windows
+
+ | 42
+
+ | UDP
+
+ | Replicación de WINS
+
+ | Servicio de nombres Internet de Windows
+
+ | 53
+
+ | TCP
+
+ | DNS
+
+ | Servidor DNS
+
+ | 53
+
+ | UDP
+
+ | DNS
+
+ | Servidor DNS
+
+ | 53
+
+ | TCP
+
+ | DNS
+
+ | Conexión de seguridad a Internet/Conexión compartida a Internet
+
+ | 53
+
+ | UDP
+
+ | DNS
+
+ | Conexión de seguridad a Internet/Conexión compartida a Internet
+
+ | 67
+
+ | UDP
+
+ | Servidor DHCP
+
+ | Servidor DHCP
+
+ | 67
+
+ | UDP
+
+ | Servidor DHCP
+
+ | Conexión de seguridad a Internet/Conexión compartida a Internet
+
+ | 69
+
+ | UDP
+
+ | TFTP
+
+ | Servicio Demonio FTP trivial
+
+ | 80
+
+ | TCP
+
+ | HTTP
+
+ | Servicios de Windows Media
+
+ | 80
+
+ | TCP
+
+ | HTTP
+
+ | WinRM 1.1 y versiones anteriores
+
+ | 80
+
+ | TCP
+
+ | HTTP
+
+ | Servicio de publicación World Wide Web
+
+ | 80
+
+ | TCP
+
+ | HTTP
+
+ | SharePoint Portal Server
+
+ | 88
+
+ | TCP
+
+ | Kerberos
+
+ | Centro de distribución de claves Kerberos
+
+ | 88
+
+ | UDP
+
+ | Kerberos
+
+ | Centro de distribución de claves Kerberos
+
+ | 102
+
+ | TCP
+
+ | X.400
+
+ | Pilas MTA de Microsoft Exchange
+
+ | 110
+
+ | TCP
+
+ | POP3
+
+ | Servicio POP3 de Microsoft
+
+ | 110
+
+ | TCP
+
+ | POP3
+
+ | Exchange Server
+
+ | 119
+
+ | TCP
+
+ | NNTP
+
+ | Protocolo de transferencia de noticias a través de la red
+
+ | 123
+
+ | UDP
+
+ | NTP
+
+ | Horario de Windows
+
+ | 123
+
+ | UDP
+
+ | SNTP
+
+ | Horario de Windows
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Message Queue Server
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Llamada a procedimiento remoto
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Exchange Server
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Servicios de certificados
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Servicio de clúster
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Espacios de nombres del Sistema de archivos distribuido
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Seguimiento de vínculos distribuidos
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Coordinador de transacciones distribuidas
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Servicio de replicación de archivos distribuido
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Servicio de fax
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Microsoft Exchange Server
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Servicio de replicación de archivos
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Directiva de grupo
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Autoridad de seguridad local
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Notificación de almacenamiento remoto
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Almacenamiento remoto
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Systems Management Server 2.0
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | RDSL
+
+ | 135
+
+ | TCP
+
+ | RPC
+
+ | Agente de conexión a Escritorio remoto
+
+ | 137
+
+ | UDP
+
+ | Resolución de nombres de NetBIOS
+
+ | Examinador de equipos
+
+ | 137
+
+ | UDP
+
+ | Resolución de nombres de NetBIOS
+
+ | Servidor
+
+ | 137
+
+ | UDP
+
+ | Resolución de nombres de NetBIOS
+
+ | Servicio de nombres Internet de Windows
+
+ | 137
+
+ | UDP
+
+ | Resolución de nombres de NetBIOS
+
+ | Net Logon
+
+ | 137
+
+ | UDP
+
+ | Resolución de nombres de NetBIOS
+
+ | Systems Management Server 2.0
+
+ | 138
+
+ | UDP
+
+ | Servicio de datagramas de NetBios
+
+ | Examinador de equipos
+
+ | 138
+
+ | UDP
+
+ | Servicio de datagramas de NetBios
+
+ | Servidor
+
+ | 138
+
+ | UDP
+
+ | Servicio de datagramas de NetBios
+
+ | Net Logon
+
+ | 138
+
+ | UDP
+
+ | Servicio de datagramas de NetBios
+
+ | Sistema de archivos distribuido
+
+ | 138
+
+ | UDP
+
+ | Servicio de datagramas de NetBios
+
+ | Systems Management Server 2.0
+
+ | 138
+
+ | UDP
+
+ | Servicio de datagramas de NetBios
+
+ | Servicio de registro de licencias
+
+ | 139
+
+ | TCP
+
+ | Servicio de sesión de NetBIOS
+
+ | Examinador de equipos
+
+ | 139
+
+ | TCP
+
+ | Servicio de sesión de NetBIOS
+
+ | Servicio de fax
+
+ | 139
+
+ | TCP
+
+ | Servicio de sesión de NetBIOS
+
+ | Registros y alertas de rendimiento
+
+ | 139
+
+ | TCP
+
+ | Servicio de sesión de NetBIOS
+
+ | Administrador de trabajos de impresión
+
+ | 139
+
+ | TCP
+
+ | Servicio de sesión de NetBIOS
+
+ | Servidor
+
+ | 139
+
+ | TCP
+
+ | Servicio de sesión de NetBIOS
+
+ | Net Logon
+
+ | 139
+
+ | TCP
+
+ | Servicio de sesión de NetBIOS
+
+ | Ubicador de Llamada a procedimiento remoto
+
+ | 139
+
+ | TCP
+
+ | Servicio de sesión de NetBIOS
+
+ | Espacios de nombres del Sistema de archivos distribuido
+
+ | 139
+
+ | TCP
+
+ | Servicio de sesión de NetBIOS
+
+ | Systems Management Server 2.0
+
+ | 139
+
+ | TCP
+
+ | Servicio de sesión de NetBIOS
+
+ | Servicio de registro de licencias
+
+ | 143
+
+ | TCP
+
+ | IMAP
+
+ | Exchange Server
+
+ | 161
+
+ | UDP
+
+ | SNMP
+
+ | Servicio SNMP
+
+ | 162
+
+ | UDP
+
+ | Capturas de SNMP salientes
+
+ | Servicio de captura SNMP
+
+ | 389
+
+ | TCP
+
+ | Servidor LDAP
+
+ | Autoridad de seguridad local
+
+ | 389
+
+ | UDP
+
+ | Ubicador de DC
+
+ | Autoridad de seguridad local
+
+ | 389
+
+ | TCP
+
+ | Servidor LDAP
+
+ | Espacios de nombres del Sistema de archivos distribuido
+
+ | 389
+
+ | UDP
+
+ | Ubicador de DC
+
+ | Espacios de nombres del Sistema de archivos distribuido
+
+ | 389
+
+ | UDP
+
+ | Ubicador de DC
+
+ | `Netlogon`
+
+ | 389
+
+ | UDP
+
+ | Ubicador de DC
+
+ | Centro de distribución de claves Kerberos
+
+ | 389
+
+ | TCP
+
+ | Servidor LDAP
+
+ | Replicación del Sistema de archivos distribuido
+
+ | 389
+
+ | UDP
+
+ | Ubicador de DC
+
+ | Replicación del Sistema de archivos distribuido
+
+ | 443
+
+ | TCP
+
+ | HTTPS
+
+ | SSL de HTTP
+
+ | 443
+
+ | TCP
+
+ | HTTPS
+
+ | Servicio de publicación World Wide Web
+
+ | 443
+
+ | TCP
+
+ | HTTPS
+
+ | SharePoint Portal Server
+
+ | 443
+
+ | TCP
+
+ | RPC sobre HTTPS
+
+ | Exchange Server 2003
+
+ | 443
+
+ | TCP
+
+ | HTTPS
+
+ | WinRM 1.1 y versiones anteriores
+
+ | 445
+
+ | TCP
+
+ | SMB
+
+ | Servicio de fax
+
+ | 445
+
+ | TCP
+
+ | SMB
+
+ | Administrador de trabajos de impresión
+
+ | 445
+
+ | TCP
+
+ | SMB
+
+ | Servidor
+
+ | 445
+
+ | TCP
+
+ | SMB
+
+ | Ubicador de Llamada a procedimiento remoto
+
+ | 445
+
+ | TCP
+
+ | SMB
+
+ | Espacios de nombres del Sistema de archivos distribuido
+
+ | 445
+
+ | TCP
+
+ | SMB
+
+ | Replicación del Sistema de archivos distribuido
+
+ | 445
+
+ | TCP
+
+ | SMB
+
+ | Servicio de registro de licencias
+
+ | 445
+
+ | TCP
+
+ | SMB
+
+ | Net Logon
+
+ | 464
+
+ | UDP
+
+ | Kerberos Password V5
+
+ | Centro de distribución de claves Kerberos
+
+ | 464
+
+ | TCP
+
+ | Kerberos Password V5
+
+ | Centro de distribución de claves Kerberos
+
+ | 500
+
+ | UDP
+
+ | IPsec ISAKMP
+
+ | Autoridad de seguridad local
+
+ | 515
+
+ | TCP
+
+ | LPD
+
+ | Servidor de impresión TCP/IP
+
+ | 554
+
+ | TCP
+
+ | RTSP
+
+ | Servicios de Windows Media
+
+ | 563
+
+ | TCP
+
+ | NNTP sobre SSL
+
+ | Protocolo de transferencia de noticias a través de la red
+
+ | 593
+
+ | TCP
+
+ | Asignador de extremos de RPC sobre HTTPS
+
+ | Llamada a procedimiento remoto
+
+ | 593
+
+ | TCP
+
+ | RPC sobre HTTPS
+
+ | Exchange Server
+
+ | 636
+
+ | TCP
+
+ | LDAP SSL
+
+ | Autoridad de seguridad local
+
+ | 636
+
+ | UDP
+
+ | LDAP SSL
+
+ | Autoridad de seguridad local
+
+ | 647
+
+ | TCP
+
+ | Conmutación por error de DHCP
+
+ | Conmutación por error de DHCP
+
+ | 9389
+
+ | TCP
+
+ | Servicios web de Active Directory (ADWS)
+
+ | Servicios web de Active Directory (ADWS)
+
+ | 9389
+
+ | TCP
+
+ | Servicios web de Active Directory (ADWS)
+
+ | Active Directory Management Gateway Service
+
+ | 993
+
+ | TCP
+
+ | IMAP sobre SSL
+
+ | Exchange Server
+
+ | 995
+
+ | TCP
+
+ | POP3 sobre SSL
+
+ | Exchange Server
+
+ | 1067
+
+ | TCP
+
+ | Servicio de arranque de la instalación
+
+ | Servidor de protocolo de arranque de la instalación
+
+ | 1068
+
+ | TCP
+
+ | Servicio de arranque de la instalación
+
+ | Cliente del protocolo de arranque de la instalación
+
+ | 1270
+
+ | TCP
+
+ | MOM cifrado
+
+ | Microsoft Operations Manager 2000
+
+ | 1433
+
+ | TCP
+
+ | SQL sobre TCP
+
+ | Microsoft SQL Server
+
+ | 1433
+
+ | TCP
+
+ | SQL sobre TCP
+
+ | MSSQL$UDDI
+
+ | 1434
+
+ | UDP
+
+ | SQL Probe
+
+ | Microsoft SQL Server
+
+ | 1434
+
+ | UDP
+
+ | SQL Probe
+
+ | MSSQL$UDDI
+
+ | 1645
+
+ | UDP
+
+ | RADIUS heredado
+
+ | Servicio de autenticación Internet
+
+ | 1646
+
+ | UDP
+
+ | RADIUS heredado
+
+ | Servicio de autenticación Internet
+
+ | 1701
+
+ | UDP
+
+ | L2TP
+
+ | Enrutamiento y acceso remoto
+
+ | 1723
+
+ | TCP
+
+ | PPTP
+
+ | Enrutamiento y acceso remoto
+
+ | 1755
+
+ | TCP
+
+ | MMS
+
+ | Servicios de Windows Media
+
+ | 1755
+
+ | UDP
+
+ | MMS
+
+ | Servicios de Windows Media
+
+ | 1801
+
+ | TCP
+
+ | MSMQ
+
+ | Message Queue Server
+
+ | 1801
+
+ | UDP
+
+ | MSMQ
+
+ | Message Queue Server
+
+ | 1812
+
+ | UDP
+
+ | Autenticación de RADIUS
+
+ | Servicio de autenticación Internet
+
+ | 1813
+
+ | UDP
+
+ | Contabilidad de RADIUS
+
+ | Servicio de autenticación Internet
+
+ | 1900
+
+ | UDP
+
+ | SSDP
+
+ | Servicio de Detección SSDP
+
+ | 2101
+
+ | TCP
+
+ | MSMQ-DC
+
+ | Message Queue Server
+
+ | 2103
+
+ | TCP
+
+ | MSMQ-RPC
+
+ | Message Queue Server
+
+ | 2105
+
+ | TCP
+
+ | MSMQ-RPC
+
+ | Message Queue Server
+
+ | 2107
+
+ | TCP
+
+ | MSMQ-Mgmt
+
+ | Message Queue Server
+
+ | 2393
+
+ | TCP
+
+ | OLAP Services 7.0
+
+ | SQL Server: compatibilidad con cliente OLAP de nivel inferior
+
+ | 2394
+
+ | TCP
+
+ | OLAP Services 7.0
+
+ | SQL Server: compatibilidad con cliente OLAP de nivel inferior
+
+ | 2460
+
+ | UDP
+
+ | MS Theater
+
+ | Servicios de Windows Media
+
+ | 2535
+
+ | UDP
+
+ | MADCAP
+
+ | Servidor DHCP
+
+ | 2701
+
+ | TCP
+
+ | Control remoto de SMS (control)
+
+ | Agente de control remoto de SMS
+
+ | 2701
+
+ | UDP
+
+ | Control remoto de SMS (control)
+
+ | Agente de control remoto de SMS
+
+ | 2702
+
+ | TCP
+
+ | Control remoto de SMS (datos)
+
+ | Agente de control remoto de SMS
+
+ | 2702
+
+ | UDP
+
+ | Control remoto de SMS (datos)
+
+ | Agente de control remoto de SMS
+
+ | 2703
+
+ | TCP
+
+ | SMS Remote Chat
+
+ | Agente de control remoto de SMS
+
+ | 2703
+
+ | UPD
+
+ | SMS Remote Chat
+
+ | Agente de control remoto de SMS
+
+ | 2704
+
+ | TCP
+
+ | SMS Remote File Transfer
+
+ | Agente de control remoto de SMS
+
+ | 2704
+
+ | UDP
+
+ | SMS Remote File Transfer
+
+ | Agente de control remoto de SMS
+
+ | 2725
+
+ | TCP
+
+ | SQL Analysis Services
+
+ | SQL Server Analysis Services
+
+ | 2869
+
+ | TCP
+
+ | UPNP
+
+ | Dispositivo host de UPnP
+
+ | 2869
+
+ | TCP
+
+ | Notificación de eventos de SSDP
+
+ | Servicio de Detección SSDP
+
+ | 3268
+
+ | TCP
+
+ | Catálogo global
+
+ | Autoridad de seguridad local
+
+ | 3269
+
+ | TCP
+
+ | Catálogo global
+
+ | Autoridad de seguridad local
+
+ | 3343
+
+ | UDP
+
+ | Servicios de Cluster Server
+
+ | Servicio de clúster
+
+ | 3389
+
+ | TCP
+
+ | RDS
+
+ | RDS
+
+ | 3389
+
+ | UDP
+
+ | RDS
+
+ | RDS
+
+ | 3527
+
+ | UDP
+
+ | MSMQ-Ping
+
+ | Message Queue Server
+
+ | 4011
+
+ | UDP
+
+ | BINL
+
+ | Instalación remota
+
+ | 4500
+
+ | UDP
+
+ | NAT-T
+
+ | Autoridad de seguridad local
+
+ | 5000
+
+ | TCP
+
+ | Notificación de eventos heredada de SSDP
+
+ | Servicio de Detección SSDP
+
+ | 5004
+
+ | UDP
+
+ | RTP
+
+ | Servicios de Windows Media
+
+ | 5005
+
+ | UDP
+
+ | RTCP
+
+ | Servicios de Windows Media
+
+ | 5722
+
+ | TCP
+
+ | RPC
+
+ | Replicación del Sistema de archivos distribuido
+
+ | 6001
+
+ | TCP
+
+ | Información adicional
+
+ | Exchange Server 2003
+
+ | 6002
+
+ | TCP
+
+ | Directory Referral
+
+ | Exchange Server 2003
+
+ | 6004
+
+ | TCP
+
+ | DSProxy/NSPI
+
+ | Exchange Server 2003
+
+ | 42424
+
+ | TCP
+
+ | Estado de la sesión ASP.NET
+
+ | Servicio de estado de ASP.NET
+
+ | 51515
+
+ | TCP
+
+ | MOM no cifrado
+
+ | Microsoft Operations Manager 2000
+
+ | 5985
+
+ | TCP
+
+ | HTTP
+
+ | WinRM 2.0
+
+ | 5986
+
+ | TCP
+
+ | HTTPS
+
+ | WinRM 2.0
+
+ | 1024-65535
+
+ | TCP
+
+ | RPC
+
+ | Puertos TCP altos asignados aleatoriamente
+
+ | 135
+
+ | TCP
+
+ | WMI
+
+ | Servicio de Hyper-V
+
+ | número de puerto aleatorio entre 49152 y 65535
+
+ | TCP
+
+ | Puertos TCP altos asignados aleatoriamente
+
+ | Servicio de Hyper-V
+
+ | 80
+
+ | TCP
+
+ | Autenticación de Kerberos (HTTP)
+
+ | Servicio de Hyper-V
+
+ | 443
+
+ | TCP
+
+ | Autenticación basada en certificados (HTTPS)
+
+ | Servicio de Hyper-V
+
+ | 6600
+
+ | TCP
+
+ | Migración en vivo
+
+ | Migración en vivo de Hyper-V
+
+ | 445
+
+ | TCP
+
+ | SMB
+
+ | Migración en vivo de Hyper-V
+
+ | 3343
+
+ | UDP
+
+ | Tráfico del servicio de clúster
+
+ | Migración en vivo de Hyper-V
+
+Nota:
+
+El puerto 5722 se usa solo en un controlador de dominio de Windows Server 2008 o en un controlador de dominio de Windows Server 2008 R2; no se usa en un controlador de dominio de Windows Server 2012. DFSR utiliza el puerto 445 solo al crear una nueva carpeta replicada vacía.
+
+Microsoft proporciona parte de la información que está en esta tabla en una hoja de cálculo de Microsoft Excel. Esta hoja de cálculo se puede descargar del Centro de descarga de Microsoft.
+
+### Requisitos de puertos y protocolos de Active Directory
+
+Los servidores de aplicaciones, los equipos cliente y los controladores de dominio que se encuentran en bosques comunes o externos tienen dependencias de servicios para que las operaciones iniciadas por el usuario o por el equipo, como la unión a un dominio, la autenticación del inicio de sesión, la administración remota y la replicación de Active Directory, funcionen correctamente. Estos servicios y operaciones requieren conectividad de red en protocolos de red y puertos específicos.
+
+A continuación, se incluye una lista resumida de los servicios, puertos y protocolos necesarios para que los equipos miembro y los controladores de dominio interactúen entre sí o para que los servidores de aplicaciones tengan acceso a Active Directory, si bien no están todos incluidos.
+
+A continuación, encontrará una lista de servicios de los que depende Active Directory:
+
+- Active Directory / LSA
+
+- Examinador de equipos
+
+- Espacios de nombres del Sistema de archivos distribuido
+
+- Replicación del Sistema de archivos distribuido (si no se utiliza FRS para la replicación de SYSVOL)
+
+- Servicio de replicación de archivos (si no se utiliza DFSR para la replicación de SYSVOL)
+
+- Centro de distribución de claves Kerberos
+
+- Net Logon
+
+- Llamada a procedimiento remoto (RPC)
+
+- Servidor
+
+- Protocolo simple de transferencia de correo (SMTP)
+
+- WINS (en Windows Server 2003 SP1 y versiones posteriores para las operaciones de replicación de Active Directory de copia de seguridad, si DNS no funciona)
+
+- Horario de Windows
+
+- Servicio de publicación World Wide Web
+
+A continuación, encontrará una lista de servicios que necesitan los servicios de Active Directory:
+
+- Servicios de Certificate Server (se requiere para determinadas configuraciones)
+
+- Servidor DHCP
+
+- Espacios de nombres del Sistema de archivos distribuido (si se utilizan espacios de nombres basados en dominios)
+
+- Replicación del Sistema de archivos distribuido
+
+- Servidor de seguimiento de vínculos distribuidos
+
+- Coordinador de transacciones distribuidas
+
+- Servidor DNS
+
+- Servicio de fax
+
+- Servicio de replicación de archivos
+
+- Servicio de autenticación Internet
+
+- Registro de licencias
+
+- Net Logon
+
+- Administrador de trabajos de impresión
+
+- Instalación remota
+
+- Ubicador de llamadas a procedimiento remoto (RPC)
+
+- Notificación de almacenamiento remoto
+
+- Almacenamiento remoto
+
+- Enrutamiento y acceso remoto
+
+- Servidor
+
+- Protocolo simple de transferencia de correo (SMTP)
+
+- RDS
+
+- RDSL
+
+- Agente de conexión a Escritorio remoto
+
+## Referencias
+
+Los archivos de Ayuda para cada uno de los productos de Microsoft que se describen en este artículo contienen más información que puede ser de utilidad para configurar sus programas.
+
+Para obtener información sobre los puertos y firewalls de Servicios de dominio de Active Directory, consulte How to configure a firewall for Active Directory domains and trusts.
+
+### Información general
+
+Para obtener más información acerca de cómo ayudar a proteger Windows Server y para obtener ejemplos de filtros IPsec para los roles de servidor específicos, consulte Administrador de cumplimiento de Microsoft Security. Esta herramienta incorpora todas las recomendaciones de seguridad y la documentación de seguridad anteriores en una única utilidad para todos los sistemas operativos Microsoft compatibles:
+
+- Línea base de Seguridad de Windows
+
+- Línea de base de seguridad de Windows Server 2008 R2
+
+- Línea de base de seguridad de Windows Server 2008
+
+- Línea de base de seguridad de Windows Server 2003
+
+- Línea de base de seguridad de Windows 7
+
+- Línea de base de seguridad de Windows Vista
+
+- Línea de base de seguridad de Windows XP
+
+Para obtener más información acerca de los servicios de sistemas operativos, la configuración de seguridad y el filtrado IPsec, consulte una de las siguientes guías de amenazas y contramedidas:
+
+- Guía de amenazas y contramedidas: configuración de seguridad en Windows Server 2008 R2 y Windows 7
+
+- Guía de amenazas y contramedidas: configuración de seguridad en Windows Server 2008 y Windows Vista
+
+- Guía de amenazas y contramedidas: configuración de seguridad en Windows Server 2003 y Windows XP
+
+Para más información, vea:
+
+- Puertos de red usados por productos clave de Microsoft Server
+
+- Requisitos de puerto de Servicios de dominio de Active Directory y Active Directory.
+
+Internet Assigned Numbers Authority coordina el uso de los puertos conocidos. Para ver la lista de asignaciones de puertos TCP/IP de esta organización, consulte Service Name and Transport Protocol Port Number Registry.
+
+### Llamadas a procedimientos remotos y DCOM
+
+Para obtener una descripción detallada de RPC, consulte Remote Procedure Call (RPC).
+
+Para obtener más información sobre cómo configurar RPC para que funcione con un firewall, consulte Cómo configurar la asignación dinámica de puertos RPC para que funcione con firewalls.
+
+Para obtener más información sobre el protocolo RPC y cómo se inicializan los equipos que ejecutan Windows 2000, consulte Windows 2000 Startup and Logon Traffic Analysis.
+
+### Controladores de dominio y Active Directory
+
+Para obtener más información sobre cómo restringir la replicación de Active Directory y el tráfico de inicio de sesión de cliente, consulte Cómo restringir el tráfico RPC de Active Directory a un puerto específico.
+
+Para obtener una explicación sobre cómo están relacionados el agente del sistema de directorio, el LDAP y la autoridad del sistema local, consulte Agente de sistema de directorio.
+
+Para obtener más información sobre cómo funcionan el LDAP y el catálogo global, consulte How the Global Catalog works.
+
+### Exchange Server
+
+Para obtener más información sobre los puertos, la autenticación y el cifrado de todas las rutas de acceso a datos que usa Microsoft Exchange Server, consulte Puertos de red para clientes y flujo de correo en Exchange.
+
+Puede haber aspectos adicionales que considerar, según sea el entorno específico. Puede recibir más información y ayuda para planear una implementación de Exchange en los siguientes sitios web de Microsoft:
+
+- Exchange Server 2013
+
+- Exchange Server 2007
+
+- Exchange Server 2003
+
+Para obtener más información, consulte Configure Outlook Anywhere in Outlook 2013.
+
+### Servicio de replicación de archivos distribuido
+
+El Servicio de replicación de archivos distribuido incluye la herramienta de la línea de comandos Dfsrdiag.exe. Dfsrdiag.exe puede establecer el puerto RPC del servidor que se utiliza para la administración y replicación. Si desea utilizar Dfsrdiag.exe para establecer el puerto RPC del servidor, siga este ejemplo:
+
+dfsrdiag StaticRPC/port:nnnnn/Member:Branch01.sales.contoso.com
+
+En este ejemplo, nnnnn representa un solo puerto RPC estático que DFSR utilizará para la replicación. `Branch01.sales.contoso.com` representa el nombre DNS o NetBIOS del equipo miembro de destino. Si no se especifica ningún miembro, Dfsrdiag.exe utiliza el equipo local.
+
+### Internet Information Services
+
+Para obtener información sobre los puertos en IIS 6.0, consulte CP/IP Port Filtering.
+
+Para obtener más información sobre FTP, consulte los siguientes recursos:
+
+- Página web del Servicio de publicación FTP
+
+- Configurar la compatibilidad con el firewall de FTP
+
+### Protocolo de asignación dinámica de direcciones de multidifusión a clientes (MADCAP)
+
+Para obtener más información sobre cómo planear los servidores MADCAP, consulte Checklist: Installing a MADCAP server.
+
+### Message Queue Server
+
+Para obtener más información sobre los puertos que usa Microsoft Message Queuing, consulte Puertos TCP, UDP y RPC utilizados por Message Queue Server.
+
+### Microsoft Operations Manager
+
+Para obtener información sobre cómo planear e implementar MOM, consulte System Center Developer Documentation Library.
+
+### RDS
+
+Para obtener más información sobre cómo configurar el puerto que utiliza RDS, consulte Cambiar el puerto de escucha para Escritorio remoto en el equipo.
+
+### Controlar las comunicaciones a través de Internet en Windows
+
+Para obtener más información, consulte Using Windows Server 2003 with Service Pack 1 in a Managed Environment: Controlling Communication with the Internet.
+
+### Servicios de Windows Media
+
+Para obtener información sobre los puertos que utiliza Servicios de Windows Media, consulte Allocating Ports for Windows Media Services.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-02-12

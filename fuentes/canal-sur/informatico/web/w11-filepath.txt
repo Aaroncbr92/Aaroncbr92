@@ -1,0 +1,544 @@
+URL: https://learn.microsoft.com/es-es/dotnet/standard/io/file-path-formats
+Leído: 2026-10-05
+
+Lenguaje
+
+- 
+
+- 
+
+ Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Formatos de ruta de acceso de archivo en los sistemas Windows
+
+## 
+
+Los miembros de muchos de los tipos del System.IO espacio de nombres incluyen un `path` parámetro que permite especificar una ruta de acceso absoluta o relativa a un recurso del sistema de archivos. A continuación, esta ruta de acceso se pasa a las API del sistema de archivos de Windows. En este tema se describen los formatos de las rutas de acceso de archivo que puede usar en sistemas Windows.
+
+## Rutas de acceso de DOS tradicionales
+
+Una ruta de acceso estándar de DOS puede constar de tres componentes:
+
+- Una letra de volumen o unidad seguida por el separador de volumen (`:`).
+
+- Un nombre de directorio. El carácter separador de directorio separa subdirectorios dentro de la jerarquía de directorios anidada.
+
+- Un nombre de archivo opcional. El carácter separador de directorio separa la ruta de acceso del archivo y el nombre de archivo.
+
+Si los tres componentes están presentes, la ruta de acceso es absoluta. Si no se especifica la letra de volumen o unidad y el nombre de directorio comienza por el carácter separador de directorio, la ruta de acceso es relativa con respecto a la raíz de la unidad actual. En caso contrario, la ruta de acceso es relativa al directorio actual. En la tabla siguiente se muestran algunas posibles rutas de acceso de directorio y archivo.
+
+ | Ruta
+
+ | Descripción
+
+ | `C:\Documents\Newsletters\Summer2018.pdf`
+
+ | Ruta de acceso de archivo absoluta desde la raíz de la unidad `C:`.
+
+ | `\Program Files\Custom Utilities\StringFinder.exe`
+
+ | Una ruta de acceso relativa desde la raíz de la unidad actual.
+
+ | `2018\January.xlsx`
+
+ | Ruta de acceso relativa a un archivo en un subdirectorio del directorio actual.
+
+ | `..\Publications\TravelBrochure.pdf`
+
+ | Ruta de acceso relativa a un archivo de un directorio a partir del directorio actual.
+
+ | `C:\Projects\apilibrary\apilibrary.sln`
+
+ | Ruta de acceso absoluta a un archivo desde la raíz de la unidad `C:`.
+
+ | `C:Projects\apilibrary\apilibrary.sln`
+
+ | Ruta de acceso relativa desde el directorio actual de la unidad `C:`.
+
+Importante
+
+Tenga en cuenta la diferencia entre las dos últimas rutas de acceso. Ambos especifican el especificador de volumen opcional (`C:` en ambos casos), pero el primero comienza con la raíz del volumen especificado, mientras que el segundo no. Como resultado, la primera es una ruta de acceso absoluta desde el directorio raíz de la unidad `C:`, mientras que la segunda es una ruta de acceso relativa del directorio actual de la unidad `C:`. El uso del segundo formulario cuando el primero está pensado es un origen común de errores que implican rutas de acceso de archivos de Windows.
+
+Puede determinar si una ruta de acceso de archivo está completa (es decir, si la ruta de acceso es independiente del directorio actual y no cambia cuando cambia el directorio actual) llamando al método Path.IsPathFullyQualified. Tenga en cuenta que esta ruta de acceso puede incluir segmentos de directorio relativos (`.` y `..`) y seguir estando completamente calificada si la ruta de acceso resuelta siempre apunta a la misma ubicación.
+
+En el ejemplo siguiente se muestra la diferencia entre las rutas de acceso absolutas y relativas. Se supone que existe el directorio `D:\FY2018\` y que aún no ha establecido ningún directorio actual para `D:\` desde el símbolo del sistema antes de ejecutar el ejemplo.
+
+`using System;
+using System.Diagnostics;
+using System.IO;
+using System.Reflection;
+
+public class Example2
+{
+ public static void Main(string[] args)
+ {
+ Console.WriteLine($"Current directory is '{Environment.CurrentDirectory}'");
+ Console.WriteLine("Setting current directory to 'C:\\'");
+
+ Directory.SetCurrentDirectory(@"C:\");
+ string path = Path.GetFullPath(@"D:\FY2018");
+ Console.WriteLine($"'D:\\FY2018' resolves to {path}");
+ path = Path.GetFullPath(@"D:FY2018");
+ Console.WriteLine($"'D:FY2018' resolves to {path}");
+
+ Console.WriteLine("Setting current directory to 'D:\\Docs'");
+ Directory.SetCurrentDirectory(@"D:\Docs");
+
+ path = Path.GetFullPath(@"D:\FY2018");
+ Console.WriteLine($"'D:\\FY2018' resolves to {path}");
+ path = Path.GetFullPath(@"D:FY2018");
+
+ // This will be "D:\Docs\FY2018" as it happens to match the drive of the current directory
+ Console.WriteLine($"'D:FY2018' resolves to {path}");
+
+ Console.WriteLine("Setting current directory to 'C:\\'");
+ Directory.SetCurrentDirectory(@"C:\");
+
+ path = Path.GetFullPath(@"D:\FY2018");
+ Console.WriteLine($"'D:\\FY2018' resolves to {path}");
+
+ // This will be either "D:\FY2018" or "D:\FY2018\FY2018" in the subprocess. In the sub process,
+ // the command prompt set the current directory before launch of our application, which
+ // sets a hidden environment variable that is considered.
+ path = Path.GetFullPath(@"D:FY2018");
+ Console.WriteLine($"'D:FY2018' resolves to {path}");
+
+ if (args.Length < 1)
+ {
+ Console.WriteLine(@"Launching again, after setting current directory to D:\FY2018");
+ Uri currentExe = new(Assembly.GetExecutingAssembly().Location, UriKind.Absolute);
+ string commandLine = $"/C cd D:\\FY2018 & \"{currentExe.LocalPath}\" stop";
+ ProcessStartInfo psi = new("cmd", commandLine); ;
+ Process.Start(psi).WaitForExit();
+
+ Console.WriteLine("Sub process returned:");
+ path = Path.GetFullPath(@"D:\FY2018");
+ Console.WriteLine($"'D:\\FY2018' resolves to {path}");
+ path = Path.GetFullPath(@"D:FY2018");
+ Console.WriteLine($"'D:FY2018' resolves to {path}");
+ }
+ Console.WriteLine("Press any key to continue... ");
+ Console.ReadKey();
+ }
+}
+// The example displays the following output:
+// Current directory is 'C:\Programs\file-paths'
+// Setting current directory to 'C:\'
+// 'D:\FY2018' resolves to D:\FY2018
+// 'D:FY2018' resolves to d:\FY2018
+// Setting current directory to 'D:\Docs'
+// 'D:\FY2018' resolves to D:\FY2018
+// 'D:FY2018' resolves to D:\Docs\FY2018
+// Setting current directory to 'C:\'
+// 'D:\FY2018' resolves to D:\FY2018
+// 'D:FY2018' resolves to d:\FY2018
+// Launching again, after setting current directory to D:\FY2018
+// Sub process returned:
+// 'D:\FY2018' resolves to D:\FY2018
+// 'D:FY2018' resolves to d:\FY2018
+// The subprocess displays the following output:
+// Current directory is 'C:\'
+// Setting current directory to 'C:\'
+// 'D:\FY2018' resolves to D:\FY2018
+// 'D:FY2018' resolves to D:\FY2018\FY2018
+// Setting current directory to 'D:\Docs'
+// 'D:\FY2018' resolves to D:\FY2018
+// 'D:FY2018' resolves to D:\Docs\FY2018
+// Setting current directory to 'C:\'
+// 'D:\FY2018' resolves to D:\FY2018
+// 'D:FY2018' resolves to D:\FY2018\FY2018
+`
+
+`Imports System.IO
+Imports System.Reflection
+
+Public Module Example2
+
+ Public Sub Main(args() As String)
+ Console.WriteLine($"Current directory is '{Environment.CurrentDirectory}'")
+ Console.WriteLine("Setting current directory to 'C:\'")
+ Directory.SetCurrentDirectory("C:\")
+
+ Dim filePath As String = Path.GetFullPath("D:\FY2018")
+ Console.WriteLine($"'D:\\FY2018' resolves to {filePath}")
+ filePath = Path.GetFullPath("D:FY2018")
+ Console.WriteLine($"'D:FY2018' resolves to {filePath}")
+
+ Console.WriteLine("Setting current directory to 'D:\\Docs'")
+ Directory.SetCurrentDirectory("D:\Docs")
+
+ filePath = Path.GetFullPath("D:\FY2018")
+ Console.WriteLine($"'D:\\FY2018' resolves to {filePath}")
+ filePath = Path.GetFullPath("D:FY2018")
+
+ ' This will be "D:\Docs\FY2018" as it happens to match the drive of the current directory
+ Console.WriteLine($"'D:FY2018' resolves to {filePath}")
+
+ Console.WriteLine("Setting current directory to 'C:\\'")
+ Directory.SetCurrentDirectory("C:\")
+
+ filePath = Path.GetFullPath("D:\FY2018")
+ Console.WriteLine($"'D:\\FY2018' resolves to {filePath}")
+
+ ' This will be either "D:\FY2018" or "D:\FY2018\FY2018" in the subprocess. In the sub process,
+ ' the command prompt set the current directory before launch of our application, which
+ ' sets a hidden environment variable that is considered.
+ filePath = Path.GetFullPath("D:FY2018")
+ Console.WriteLine($"'D:FY2018' resolves to {filePath}")
+
+ If args.Length < 1 Then
+ Console.WriteLine("Launching again, after setting current directory to D:\FY2018")
+ Dim currentExe As New Uri(Assembly.GetExecutingAssembly().GetName().CodeBase, UriKind.Absolute)
+ Dim commandLine As String = $"/C cd D:\FY2018 & ""{currentExe.LocalPath}"" stop"
+ Dim psi As New ProcessStartInfo("cmd", commandLine)
+ Process.Start(psi).WaitForExit()
+
+ Console.WriteLine("Sub process returned:")
+ filePath = Path.GetFullPath("D:\FY2018")
+ Console.WriteLine($"'D:\\FY2018' resolves to {filePath}")
+ filePath = Path.GetFullPath("D:FY2018")
+ Console.WriteLine($"'D:FY2018' resolves to {filePath}")
+ End If
+ Console.WriteLine("Press any key to continue... ")
+ Console.ReadKey()
+ End Sub
+End Module
+' The example displays the following output:
+' Current directory is 'C:\Programs\file-paths'
+' Setting current directory to 'C:\'
+' 'D:\FY2018' resolves to D:\FY2018
+' 'D:FY2018' resolves to d:\FY2018
+' Setting current directory to 'D:\Docs'
+' 'D:\FY2018' resolves to D:\FY2018
+' 'D:FY2018' resolves to D:\Docs\FY2018
+' Setting current directory to 'C:\'
+' 'D:\FY2018' resolves to D:\FY2018
+' 'D:FY2018' resolves to d:\FY2018
+' Launching again, after setting current directory to D:\FY2018
+' Sub process returned:
+' 'D:\FY2018' resolves to D:\FY2018
+' 'D:FY2018' resolves to d:\FY2018
+' The subprocess displays the following output:
+' Current directory is 'C:\'
+' Setting current directory to 'C:\'
+' 'D:\FY2018' resolves to D:\FY2018
+' 'D:FY2018' resolves to D:\FY2018\FY2018
+' Setting current directory to 'D:\Docs'
+' 'D:\FY2018' resolves to D:\FY2018
+' 'D:FY2018' resolves to D:\Docs\FY2018
+' Setting current directory to 'C:\'
+' 'D:\FY2018' resolves to D:\FY2018
+' 'D:FY2018' resolves to D:\FY2018\FY2018
+`
+
+## Rutas de acceso UNC
+
+Las rutas de acceso de convención de nomenclatura universal (UNC), que se usan para acceder a los recursos de red, tienen el formato siguiente:
+
+- Un servidor o un nombre de host, precedido por `\\`. El nombre del servidor puede ser un nombre de equipo NetBIOS o una dirección IP/FQDN (se admiten IPv4, así como v6).
+
+- Un nombre de recurso compartido, que está separado del nombre de host por `\`. Juntos, el nombre del servidor y el del recurso compartido forman el volumen.
+
+- Un nombre de directorio. El carácter separador de directorio separa subdirectorios dentro de la jerarquía de directorios anidada.
+
+- Un nombre de archivo opcional. El carácter separador de directorio separa la ruta de acceso del archivo y el nombre de archivo.
+
+A continuación se muestran algunos ejemplos de rutas de acceso UNC:
+
+ | Ruta
+
+ | Descripción
+
+ | `\\system07\C$\`
+
+ | Directorio raíz de la unidad `C:` en `system07`.
+
+ | `\\Server2\Share\Test\Foo.txt`
+
+ | Archivo `Foo.txt` en el directorio Prueba del volumen `\\Server2\Share`.
+
+Las rutas de acceso UNC siempre deben ser completas. Pueden incluir segmentos de directorio relativos (`.` y `..`), pero deben formar parte de una ruta completa. Solo puede usar rutas de acceso relativas mediante la asignación de una ruta de acceso UNC a una letra de unidad.
+
+## Rutas de acceso de dispositivo DOS
+
+El sistema operativo Windows tiene un modelo de objetos unificado que apunta a todos los recursos, incluidos los archivos. Estas rutas de acceso de objeto son accesibles desde la ventana de consola y se exponen a la capa de Win32 a través de una carpeta especial para vínculos simbólicos a la que se asignan las rutas de acceso DOS y UNC heredadas. Se accede a esta carpeta especial a través de la sintaxis de la ruta de acceso del dispositivo DOS, que es una de las siguientes:
+
+- `\\.\C:\Test\Foo.txt`
+
+- `\\?\C:\Test\Foo.txt`
+
+Además de identificar una unidad por su letra de unidad, puede identificar un volumen mediante su GUID de volumen. Esto tiene la forma siguiente:
+
+- `\\.\Volume{b75e2c83-0000-0000-0000-602f00000000}\Test\Foo.txt`
+
+- `\\?\Volume{b75e2c83-0000-0000-0000-602f00000000}\Test\Foo.txt`
+
+Nota:
+
+La sintaxis de ruta de acceso del dispositivo DOS se admite en implementaciones de .NET que se ejecutan en Windows a partir de .NET Core 1.1 y .NET Framework 4.6.2.
+
+La ruta de acceso del dispositivo DOS consta de los siguientes componentes:
+
+- 
+Especificador de ruta de acceso del dispositivo (`\\.\` o `\\?\`), que identifica la ruta de acceso como ruta de acceso del dispositivo DOS.
+
+Nota:
+
+ `\\?\` se admite en todas las versiones de .NET Core y .NET 5+ y en .NET Framework a partir de la versión 4.6.2.
+
+- 
+Un vínculo simbólico para el objeto de dispositivo "real" (C: en el caso de un nombre de unidad o Volume{b75e2c83-0000-0000-0000-602f00000000} en el caso de un identificador de volumen).
+
+El primer segmento de la ruta de acceso de dispositivo DOS, una vez que el especificador de ruta de acceso de dispositivo identifica el volumen o la unidad. (Por ejemplo, `\\?\C:\` y `\\.\BootPartition\`.
+
+Hay un vínculo específico para las UNC que se llama, no sorprendentemente, `UNC`. Por ejemplo:
+
+- `\\.\UNC\Server\Share\Test\Foo.txt`
+
+- `\\?\UNC\Server\Share\Test\Foo.txt`
+
+Para las UNC de dispositivo, la parte del servidor o recurso compartido forma el volumen. Por ejemplo, en `\\?\server1\utilities\\filecomparer\`, la parte del servidor o recurso compartido es `server1\utilities`. Esto es significativo al llamar a un método como Path.GetFullPath(String, String) con segmentos de directorio relativos; nunca es posible navegar más allá del volumen.
+
+Las rutas de dispositivos DOS están completamente calificadas de acuerdo con la definición y no pueden comenzar con un segmento de directorio relativo (`.` o `..`). Los directorios actuales nunca entran en uso.
+
+## Ejemplo: Formas de hacer referencia al mismo archivo
+
+En el ejemplo siguiente se muestran algunas de las formas en las que puede hacer referencia a un archivo al usar las API en el System.IO espacio de nombres. En el ejemplo se crea una instancia de un FileInfo objeto y se usan sus Name propiedades y Length para mostrar el nombre de archivo y la longitud del archivo.
+
+`using System;
+using System.IO;
+
+class Program
+{
+ static void Main()
+ {
+ string[] filenames = {
+ @"c:\temp\test-file.txt",
+ @"\\127.0.0.1\c$\temp\test-file.txt",
+ @"\\LOCALHOST\c$\temp\test-file.txt",
+ @"\\.\c:\temp\test-file.txt",
+ @"\\?\c:\temp\test-file.txt",
+ @"\\.\UNC\LOCALHOST\c$\temp\test-file.txt" };
+
+ foreach (string filename in filenames)
+ {
+ FileInfo fi = new(filename);
+ Console.WriteLine($"file {fi.Name}: {fi.Length:N0} bytes");
+ }
+ }
+}
+// The example displays output like the following:
+// file test-file.txt: 22 bytes
+// file test-file.txt: 22 bytes
+// file test-file.txt: 22 bytes
+// file test-file.txt: 22 bytes
+// file test-file.txt: 22 bytes
+// file test-file.txt: 22 bytes
+`
+
+`Imports System.IO
+
+Module Program
+ Sub Main()
+ Dim filenames() As String = {
+ "c:\temp\test-file.txt",
+ "\\127.0.0.1\c$\temp\test-file.txt",
+ "\\LOCALHOST\c$\temp\test-file.txt",
+ "\\.\c:\temp\test-file.txt",
+ "\\?\c:\temp\test-file.txt",
+ "\\.\UNC\LOCALHOST\c$\temp\test-file.txt"}
+
+ For Each filename In filenames
+ Dim fi As New FileInfo(filename)
+ Console.WriteLine($"file {fi.Name}: {fi.Length:N0} bytes")
+ Next
+ End Sub
+End Module
+`
+
+## Normalización de la ruta de acceso
+
+Casi todas las rutas de acceso que se pasan a las API de Windows se normalizan. Durante la normalización, Windows realiza los pasos siguientes:
+
+- Identifica la ruta de acceso.
+
+- Aplica el directorio actual a rutas de acceso parcialmente calificadas (relativas).
+
+- Estandariza los componentes y los separadores de directorios.
+
+- Evalúa los componentes de directorio relativos (`.` para el directorio actual y `..` para el directorio primario).
+
+- Recorta determinados caracteres.
+
+Esta normalización se produce implícitamente, pero puede hacerlo explícitamente llamando al Path.GetFullPath método , que encapsula una llamada a la función GetFullPathName(). También puede llamar a la función GetFullPathName() de Windows directamente mediante P/Invoke.
+
+### Identificación de la ruta de acceso
+
+El primer paso en la normalización de la ruta de acceso es identificar el tipo de ruta de acceso. Las rutas de acceso se dividen en una de algunas categorías:
+
+- Son rutas de acceso de dispositivo; es decir, comienzan con dos separadores y un signo de interrogación o punto (`\\?` o `\\.`).
+
+- Son rutas UNC; es decir, comienzan con dos separadores sin signo de interrogación o punto.
+
+- Son rutas de acceso DOS completas, es decir, comienzan por una letra de unidad, un separador de volumen y un separador de componentes (`C:\`).
+
+- Designan un dispositivo heredado (`CON`, `LPT1`).
+
+- Son relativas a la raíz de la unidad actual; es decir, comienzan con un único separador de componente (`\`).
+
+- Son relativas al directorio actual de una unidad especificada, es decir, comienzan por una letra de unidad, un separador de volumen y ningún separador de componente (`C:`).
+
+- Son relativos al directorio actual; es decir, comienzan con cualquier otra cosa (`temp\testfile.txt`).
+
+El tipo de la ruta de acceso determina si se aplica o no un directorio actual de alguna manera. También determina cuál es la "raíz" de la ruta.
+
+### Gestión de dispositivos antiguos
+
+Si la ruta de acceso es un dispositivo DOS heredado, como `CON`, `COM1`, o `LPT1`, se convierte en una ruta de acceso del dispositivo anteponiendo `\\.\` y se devuelve.
+
+Antes de Windows 11, la ruta de acceso que comienza con un nombre de dispositivo heredado siempre se interpreta como un dispositivo heredado por el Path.GetFullPath(String) método . Por ejemplo, la ruta de acceso del dispositivo DOS para `CON.TXT` es `\\.\CON`y la ruta de acceso del dispositivo DOS para `COM1.TXT\file1.txt` es `\\.\COM1`. Dado que esto ya no se aplica con Windows 11, especifique la ruta de acceso completa al dispositivo DOS heredado, como `\\.\CON`.
+
+### Aplicación del directorio actual
+
+Si una ruta no está completamente calificada, Windows aplica el directorio actual a ella. Las rutas UNC y de dispositivo no tienen aplicado el directorio actual. Ni tampoco una unidad completa con separador `C:\`.
+
+Si la ruta de acceso comienza por un único separador de componente, se aplica la unidad desde el directorio actual. Por ejemplo, si la ruta de acceso del archivo es `\utilities` y el directorio actual es `C:\temp\`, la normalización genera `C:\utilities`.
+
+Si la ruta de acceso comienza por una letra de unidad, el separador de volumen y ningún separador de componente, se aplica el último directorio actual establecido desde el shell de comandos para la unidad especificada. Si no se ha establecido el último directorio actual, se aplicará únicamente el disco. Por ejemplo, si la ruta de acceso del archivo es `D:sources`, el directorio actual es `C:\Documents\`y el último directorio actual de la unidad D: era `D:\sources\`, el resultado es `D:\sources\sources`. Estas rutas de acceso "relativas a la unidad" son un origen común de errores lógicos de programas y scripts. Asumir que una ruta de acceso que comienza con una letra y dos puntos no es relativa evidentemente no es correcto.
+
+Si la ruta de acceso comienza por un valor distinto de un separador, se aplican la unidad y el directorio actuales. Por ejemplo, si la ruta de acceso es `filecompare` y el directorio actual es `C:\utilities\`, el resultado es `C:\utilities\filecompare\`.
+
+Importante
+
+Las rutas de acceso relativas son peligrosas en aplicaciones multiproceso (es decir, la mayoría de las aplicaciones) porque el directorio actual es una configuración por proceso. Cualquier subproceso puede cambiar el directorio actual en cualquier momento. A partir de .NET Core 2.1, puede llamar al método Path.GetFullPath(String, String) para obtener una ruta absoluta de una ruta relativa y la ruta base (el directorio actual) contra la cual desea resolverla.
+
+### Asignación canónica de separadores
+
+Todas las barras diagonales (`/`) se convierten en el separador estándar de Windows, que es la barra diagonal inversa (`\`). Si están presentes, una serie de barras diagonales que siguen a las dos primeras barras diagonales se contraen en una sola barra diagonal.
+
+Nota:
+
+A partir de .NET 8 en sistemas operativos basados en Unix, el tiempo de ejecución ya no convierte caracteres de barra diagonal inversa (`\`) en separadores de directorios (barras diagonales `/`). Para obtener más información, consulte Asignación de barras diagonales inversas en rutas de acceso de archivo Unix.
+
+### Evaluación de componentes relativos
+
+Cuando se procesa la ruta de acceso, se evalúan los componentes o segmentos que se componen de un punto o un punto doble (`.` o `..`):
+
+- 
+Durante un único período, se quita el segmento actual, ya que hace referencia al directorio actual.
+
+- 
+Para un punto doble, se quitan el segmento actual y el principal, ya que el punto doble hace referencia al directorio principal.
+
+Los directorios principales solo se quitan si no están después de la raíz de la ruta de acceso. La raíz de la ruta de acceso depende del tipo de ruta de acceso. Es la unidad (`C:\`) para las rutas de acceso DOS, el servidor o recurso compartido para las UNC (`\\Server\Share`), y el prefijo de ruta de acceso de dispositivo para las rutas de acceso de dispositivo (`\\?\` o `\\.\`).
+
+### Recortar caracteres
+
+Junto con las series de separadores y segmentos relativos eliminados anteriormente, se eliminan algunos caracteres adicionales durante la normalización.
+
+- 
+Si un segmento finaliza en un único período, ese período se quita. (Un segmento de un período único o doble se normaliza en el paso anterior. Un segmento de tres o más puntos no se normaliza y es realmente un nombre de archivo o directorio válido).
+
+- 
+Si la ruta de acceso no termina en un separador, se quitan todos los puntos y espacios finales (U+0020). Si el último segmento es simplemente un período único o doble, se encuentra bajo la regla de componentes relativos anterior.
+
+Esta regla significa que puede crear un nombre de directorio con un espacio final agregando un separador final después del espacio.
+
+Importante
+
+ Nunca debe crear un directorio o un nombre de archivo con un espacio final. Los espacios finales pueden hacer que sea difícil o imposible acceder a un directorio; las aplicaciones suelen fallar al intentar manejar directorios o archivos cuyos nombres incluyen espacios finales.
+
+## Omitir la normalización
+
+Normalmente, cualquier ruta que se envía a una API de Windows se pasa (de manera efectiva) a la función GetFullPathName y se normaliza. Hay una excepción importante: una ruta de acceso del dispositivo que comienza con un signo de interrogación en lugar de un punto. A menos que la ruta de acceso comience exactamente con `\\?\` (observe el uso de la barra diagonal inversa canónica), se normaliza.
+
+¿Por qué desea omitir la normalización? Hay tres razones principales:
+
+- 
+Para obtener acceso a rutas que normalmente no están disponibles, aunque son legales. Un archivo o directorio denominado `hidden.`, por ejemplo, es imposible acceder de ninguna otra manera.
+
+- 
+Para mejorar el rendimiento omitiendo la normalización si ya se ha normalizado.
+
+- 
+Solo en .NET Framework, para omitir la comprobación `MAX_PATH` de la longitud de ruta de acceso para permitir rutas de acceso que tienen más de 259 caracteres. La mayoría de las API permiten esto, con algunas excepciones.
+
+Nota:
+
+.NET Core y .NET 5+ controlan las rutas de acceso largas de manera implícita y no realizan una `MAX_PATH` verificación. La `MAX_PATH` comprobación solo se aplica a .NET Framework.
+
+La omisión de la normalización y las comprobaciones de ruta de acceso máximas es la única diferencia entre las dos sintaxis de ruta de acceso de dispositivo. En los demás casos son idénticas. Tenga cuidado al omitir la normalización, dado que es muy fácil crear rutas de acceso difíciles de controlar para las aplicaciones "normales".
+
+Las rutas de acceso que comienzan por `\\?\` siguen normalizadas si las pasa explícitamente a la función GetFullPathName.
+
+Puede pasar rutas de acceso de más de `MAX_PATH` caracteres a GetFullPathName sin `\\?\`. Admite rutas de acceso de longitud arbitraria hasta el tamaño máximo de cadena que Windows puede manejar.
+
+## Case y el sistema de archivos de Windows
+
+Una peculiaridad del sistema de archivos de Windows que los desarrolladores y usuarios no familiarizados con Windows encuentran confusa es que las rutas de acceso y los nombres de directorio no distinguen entre mayúsculas y minúsculas. Es decir, los nombres de archivos y directorios reflejan las mayúsculas y minúsculas de las cadenas que se usan cuando se crean. Por ejemplo, la llamada al método
+
+`Directory.Create("TeStDiReCtOrY");
+`
+
+`Directory.Create("TeStDiReCtOrY")
+`
+
+crea un directorio denominado TeStDiReCtOrY. Si modifica el nombre de un directorio o archivo para cambiar sus mayúsculas y minúsculas, el nombre del directorio o archivo refleja las mayúsculas y minúsculas de la cadena usada al cambiar el nombre. Por ejemplo, el código siguiente cambia el nombre de un archivo denominado test.txt a Test.txt:
+
+`using System.IO;
+
+class Example3
+{
+ static void Main()
+ {
+ var fi = new FileInfo(@".\test.txt");
+ fi.MoveTo(@".\Test.txt");
+ }
+}
+`
+
+`Imports System.IO
+
+Module Example3
+ Public Sub Main()
+ Dim fi As New FileInfo(".\test.txt")
+ fi.MoveTo(".\Test.txt")
+ End Sub
+End Module
+`
+
+Pero las comparaciones de nombre de directorio y archivo no distinguen mayúsculas de minúsculas. Si busca un archivo denominado "test.txt", las API del sistema de archivos de .NET ignoran las mayúsculas y minúsculas en la comparación. "Test.txt", "TEST.TXT", "test.TXT", y cualquier otra combinación de letras mayúsculas y minúsculas coincidirá con "test.txt".
+
+ Colaborar con nosotros en GitHub
+
+ El origen de este contenido se puede encontrar en GitHub, donde también puede crear y revisar problemas y solicitudes de incorporación de cambios. Para más información, consulte nuestra guía para colaboradores.
+
+ .NET
+
+ Abrir incidencia con la documentación
+
+ Proporcionar comentarios sobre el producto
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-10-22

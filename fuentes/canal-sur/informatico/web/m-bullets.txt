@@ -1,0 +1,45 @@
+URL: https://support.microsoft.com/es-es/office/crear-una-lista-con-vi%C3%B1etas-o-numerada-9ff81241-58a8-4d88-8d8c-acab3006a23e
+Leído: 2026-10-05
+
+# Crear una lista numerada o con viñetas
+
+ Se aplica a
+Word para Microsoft 365 Word 2024 Word 2021 Word 2019 Word 2016 
+
+Obtener ayuda con Copilot
+
+ Muéstrame cómo crear una lista a partir de texto existente.
+
+ Explica cómo agregar un contorno, sombra, reflexión.
+
+ Crea una lista con viñetas o numerada para mí.
+
+## Crear una lista
+
+Para iniciar una lista numerada, escriba 1, un punto (.), un espacio y algo de texto. Word iniciará automáticamente una lista numerada.
+
+Escriba * y un espacio antes del texto, y Word creará una lista con viñetas.
+
+Para completar la lista, presione Entrar hasta que las viñetas o la numeración se desactiven.
+
+## Crear una lista a partir de un texto existente
+
+- 
+Seleccione el texto que quiere cambiar a una lista.
+
+- 
+Vaya aViñetas de inicio>o>Numeración principal.
+
+Nota
+
+Puede encontrar varios estilos de viñeta y formatos de numeración si hace clic en la flecha abajo situada junto a Viñetas o Numeración.
+
+## Vea también
+
+ Agregar y editar texto
+
+ Cambiar el interlineado en Word
+
+ Personalizar o crear nuevos estilos 
+
+ Aplicar temas

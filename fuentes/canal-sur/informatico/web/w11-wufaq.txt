@@ -1,0 +1,286 @@
+URL: https://support.microsoft.com/es-es/windows/windows-update-preguntas-frecuentes-8a903416-6f45-0718-f5c7-375e92dddeb2
+Leído: 2026-10-05
+
+# Windows Update: Preguntas más frecuentes
+
+ Se aplica a
+Windows 11 Windows 10 
+
+¿No encuentra lo que necesita?
+
+Pruebe la aplicación Obtener ayuda
+
+ Abrir la aplicación ¿No encuentra lo que necesita?
+
+Pruebe la aplicación Obtener ayuda
+
+ Abrir la aplicación
+
+- 
+
+ Windows 11
+
+- 
+
+ Windows 10
+
+### Resumen
+
+Windows 11 descarga e instala actualizaciones automáticamente para asegurarse de que tu dispositivo sea seguro y esté actualizado. Esto significa que recibirás las últimas correcciones y actualizaciones de seguridad, lo que contribuirá a que tu dispositivo funcione eficazmente y se mantenga protegido. 
+
+Para buscar actualizaciones manualmente, selecciona>Inicio Configuración>:Windows Update .
+
+ Buscar actualizaciones
+
+Si te surgen otras preguntas al actualizar Windows 11, aquí hay algunas otras áreas que podrían interesarte:
+
+- Si estás intentando activar Windows, consulta Activar Windows para obtener más información.
+
+- 
+ Cómo restablecer la contraseña de la cuenta de Microsoft
+
+- Si tienes problemas al instalar actualizaciones, consulta Solucionar problemas de actualización de Windows.
+
+Si solo quieres información sobre la actualización de Windows 11, aquí encontrarás respuestas a muchas de tus preguntas:
+
+### ¿Cuánto tardan en descargarse las actualizaciones?
+
+El tiempo necesario para descargar las actualizaciones depende principalmente de la velocidad de la conexión a Internet, de la configuración de red y del tamaño de la actualización. Asegúrate de que el dispositivo esté enchufado y conectado a Internet para descargar las actualizaciones más rápidamente.
+
+### ¿Cómo puedo hacer que las actualizaciones dejen de descargarse e instalarse? ¿Puedo pasar por alto las actualizaciones?
+
+Las actualizaciones no se pueden detener por completo, porque contribuyen a mantener el dispositivo seguro y protegido, por lo cual finalmente será necesario descargar e instalar las actualizaciones, independientemente de la configuración de actualizaciones. Aquí te mostramos cómo detener temporalmente la descarga e instalación de las actualizaciones. Ten en cuenta que una vez que se alcance el límite de pausa, tendrás que instalar las últimas actualizaciones para poder volver a pausar las actualizaciones.
+
+En Windows 11, selecciona Inicio>Configuración>:Windows Update . Junto a Pausar actualizaciones, selecciona la duración de pausa que prefieras.
+
+### ¿Cómo puedo asegurarme de que mi dispositivo se reiniciará para instalar actualizaciones en un momento conveniente?
+
+Para terminar de instalar una actualización, deberá reiniciarse el dispositivo. Windows intentará reiniciar el dispositivo cuando no lo estés usando. De no conseguirlo, se te pedirá programar el reinicio para un momento más conveniente. O bien, puedes programar en cualquier momento siguiendo estos pasos:
+
+- Selecciona Inicio>Configuración>:Windows Update .
+
+- Selecciona Programar el reinicio y elige un momento conveniente para ti.
+
+Puedes definir las horas activas para asegurarte de que los reinicios automáticos solo tengan lugar cuando no estés usando el dispositivo. 
+ Mantén tu PC al día con las horas activas.
+
+### ¿Qué ocurre si no tengo suficiente espacio en disco para la actualización?
+
+Prueba borrando archivos que no necesites, desinstalando aplicaciones que no uses o moviendo archivos a otro unidad, como una unidad USB externa o OneDrive. Para obtener más sugerencias sobre la liberación de espacio en disco, consulta Liberar espacio en unidades de disco en Windows.
+
+### ¿Cómo puedo asegurarme de que las actualizaciones no consuman demasiada batería?
+
+Se recomienda dejar enchufados los dispositivos, como portátiles y tabletas, cuando no estés usándolos. De esta forma, si se instalan actualizaciones fuera de las horas activas, tu dispositivo tendrá suficiente energía para completar la instalación. Las actualizaciones de Windows no consumen más batería que otros procesos típicos del sistema.
+
+### ¿Cómo puedo ver las actualizaciones instaladas?
+
+Está disponible un historial de actualizaciones, donde puedes comprobar qué actualizaciones se instalaron y cuándo lo hicieron. También puedes usar esta lista para quitar actualizaciones específicas, aunque no se recomienda hacerlo a menos que sea necesario.
+
+ >
+
+ SeleccioneInicio Configuración>:Windows UpdateHistorial>de actualizaciones .
+
+ Ver el historial de actualizaciones
+
+### ¿Cómo puedo quitar una actualización instalada?
+
+No es recomendable que quites las actualizaciones instaladas. Sin embargo, si necesitas quitar una actualización, puedes hacerlo en el historial de actualizaciones. Ten en cuenta que no todas las actualizaciones se pueden quitar.
+
+- 
+
+ > SeleccionarInicio Configuración>:Windows UpdateHistorial>de actualizaciones>Desinstalar actualizaciones .
+
+- Selecciona la actualización que quieras quitar y luego Desinstalar.
+
+### ¿Cuál es la diferencia entre una actualización de funciones y una actualización de calidad?
+
+Las actualizaciones de funciones se distribuyen una vez al año e incluyen nuevas funcionalidades y capacidades, así como posibles actualizaciones de correcciones y actualizaciones de seguridad. Para ayudar a mantener los dispositivos en una versión compatible de Windows, Windows Update inicia automáticamente una actualización de características para los dispositivos antes del final del servicio o cuando se acerquen. Las actualizaciones automáticas permiten que los dispositivos sigan recibiendo las actualizaciones mensuales que son fundamentales para la seguridad y el estado del ecosistema. 
+
+Este enfoque se ha aplicado correctamente durante muchos años con Windows 10 y se aplica a Windows 11. Las actualizaciones automáticas de características solo se ofrecen a dispositivos de consumidor y dispositivos empresariales no administrados que ejecutan Windows 10 y Windows 11. Las novedades se instalarán automáticamente, pero puedes Mantener el equipo actualizado con las horas activas para que el dispositivo se reinicie y complete la actualización. 
+
+Las actualizaciones de calidad son más frecuentes y principalmente incluyen pequeñas correcciones y actualizaciones de seguridad. A veces, las actualizaciones de calidad incluyen nuevas características. Windows está diseñado para ofrecer ambos tipos de actualizaciones a los dispositivos mediante Windows Update. Para recibir actualizaciones mensuales, debe tener una versión compatible de Windows.
+
+### ¿Cuál es la mejor manera de asegurarse de que el dispositivo está actualizado?
+
+Para comprobar que el dispositivo esté actualizado, abre Inicio>>:Windows Update y consulta el estado de las actualizaciones y las actualizaciones disponibles.
+
+ Buscar actualizaciones
+
+### ¿Qué versión de Windows estoy ejecutando?
+
+Para averiguar qué versión de Windows que estás ejecutando, consulta ¿Qué versión del sistema operativo Windows estoy ejecutando?
+
+### ¿Se habilitará el almacenamiento reservado para los dispositivos que se actualicen a Windows 11?
+
+El almacenamiento reservado se activará para nuevos dispositivos con Windows 11 preinstalado o en dispositivos con una instalación limpia de Windows 11.
+
+### ¿Cómo puedo hacer que mi equipo deje de actualizarse?
+
+Windows 11 es el Windows más seguro de todos los tiempos y, para mantenerlo funcionando sin problemas, te recomendamos que te mantengas actualizado para proteger tu PC de los riesgos de seguridad. Sin embargo, puede pausar temporalmente las actualizaciones y programar un reinicio para instalarlas en el momento que más le convenga.
+
+ Obtenga información sobre cómo pausar temporalmente las actualizaciones
+
+ Obtenga información sobre cómo programar un reinicio para instalar actualizaciones en un momento conveniente
+
+### ¿Las actualizaciones afectan mi uso de datos?
+
+Las actualizaciones de calidad mensuales de Windows 11 son muy pequeñas y tienen una incidencia mínima en el uso de datos. Las actualizaciones de funciones suelen ocurrir dos veces al año y puede controlar cuándo instalarlas. Requieren más datos, pero son menos frecuentes.
+
+Si tiene una conexión de uso medido, algunas actualizaciones de Windows no se instalarán automáticamente. 
+ Conexiones de uso medido en Windows
+
+Nota
+
+ El soporte técnico para Windows 10 finalizó el 14 de octubre de 2025
+
+- Después del 14 de octubre de 2025, Microsoft ya no proporcionará actualizaciones de software gratuitas desde Windows Update, asistencia técnica ni correcciones de seguridad para Windows 10. El PC seguirá funcionando, pero recomendamos que se cambie a Windows 11.
+
+- 
+ Más información
+
+### Resumen
+
+Windows 10 descarga e instala automáticamente actualizaciones para asegurarse de que el dispositivo esté protegido y actualizado. Esto significa que recibirás las últimas correcciones y actualizaciones de seguridad, lo que contribuirá a que tu dispositivo funcione eficazmente y se mantenga protegido.
+
+Aunque las actualizaciones se descargan e instalan automáticamente, es posible que no estén disponibles en todos los dispositivos al mismo tiempo: nos estamos asegurando de que las actualizaciones estén listas y sean compatibles.
+
+Para buscar actualizaciones manualmente, selecciona Inicio>Configuración>Actualizar & SeguridadWindows Update> Buscar >actualizaciones.
+
+ Buscar actualizaciones
+
+Para obtener ayuda en la actualización a la última versión de Windows 10, ve a la página Descarga de software de Microsoft y descarga el Asistente de actualización.
+
+Si tiene problemas para instalar la actualización, ejecute el Solucionador de problemas de Windows Update.
+
+- Selecciona Inicio>Configuración> Actualizar & Solución de problemasde seguridad > .
+
+- En Poner en marcha, selecciona Windows Update.
+
+Si el Solucionador de problemas no resuelve el problema, consulta Solucionar problemas de actualización de Windows.
+
+Descubre cómo actualizar a Windows 11.
+
+Si te surgen otras preguntas al actualizar Windows 11, aquí hay algunas otras áreas que podrían interesarte:
+
+- 
+ Cómo restablecer la contraseña de la cuenta de Microsoft
+
+- 
+ Activar Windows
+
+- 
+ Características y sugerencias de Windows 11
+
+Si te surgen otras preguntas al actualizar Windows 10, aquí hay algunas otras áreas que podrían interesarte:
+
+### Tengo problemas para instalar actualizaciones o recibo un error (por ejemplo, 0x80073712). ¿Qué puedo hacer?
+
+Estas son algunas cosas que puedes probar si tienes problemas al instalar actualizaciones:
+
+- 
+Asegúrate de que el dispositivo esté conectado a Internet. La descarga de actualizaciones requiere una conexión a Internet.
+
+- 
+Si estás conectado a Internet, intentar instalar las actualizaciones manualmente. Selecciona Inicio>,Configuración>,Actualización & Seguridad >Windows Update y, luego, selecciona Buscar actualizaciones. 
+
+ Buscar actualizaciones
+
+### ¿Cuánto tardan en descargarse las actualizaciones?
+
+El tiempo necesario para descargar las actualizaciones depende principalmente de la velocidad de la conexión a Internet, de la configuración de red y del tamaño de la actualización. Asegúrate de que el dispositivo esté enchufado y conectado a Internet para descargar las actualizaciones más rápidamente.
+
+### ¿Cómo puedo hacer que las actualizaciones dejen de descargarse e instalarse? ¿Puedo pasar por alto las actualizaciones?
+
+Las actualizaciones no se pueden detener por completo, porque contribuyen a mantener el dispositivo seguro y protegido, por lo cual finalmente será necesario descargar e instalar las actualizaciones, independientemente de la configuración de actualizaciones. Aquí te mostramos cómo detener temporalmente la descarga e instalación de las actualizaciones. Ten en cuenta que una vez que se alcance el límite de pausa, tendrás que instalar las últimas actualizaciones para poder volver a pausar las actualizaciones.
+
+En la actualización de Windows 10 noviembre de 2019 (versión 1909) o posteriores, o en la versión 1809 de Windows para Pro o Enterprise, selecciona Inicio>Configuración>Actualización & seguridad >Windows Update. A continuación, elige una de las siguientes opciones:
+
+- Selecciona Pausar las actualizaciones durante 7 días.
+
+- Selecciona Opciones avanzadas. A continuación, en la sección Pausar actualizaciones, selecciona el menú desplegable y especifica una fecha de reanudación de las actualizaciones.
+
+### ¿Cómo puedo asegurarme de que mi dispositivo se reiniciará para instalar actualizaciones en un momento conveniente?
+
+Para terminar de instalar una actualización, deberá reiniciarse el dispositivo. Windows intentará reiniciar el dispositivo cuando no lo estés usando. De no conseguirlo, se te pedirá programar el reinicio para un momento más conveniente. O bien, puedes programar en cualquier momento siguiendo estos pasos:
+
+- Selecciona Inicio>, Configuración>, Actualización & Seguridad >Windows Update .
+
+- Selecciona Programar el reinicio y elige un momento conveniente para ti.
+
+Puedes definir las horas activas para asegurarte de que los reinicios automáticos solo tengan lugar cuando no estés usando el dispositivo. 
+ Mantén tu PC al día con las horas activas.
+
+### ¿Qué ocurre si no tengo suficiente espacio en disco para la actualización?
+
+Prueba borrando archivos que no necesites, desinstalando aplicaciones que no uses o moviendo archivos a otro unidad, como una unidad USB externa o OneDrive. Para obtener más sugerencias sobre la liberación de espacio en disco, consulta Liberar espacio en unidades de disco en Windows.
+
+### ¿Cómo puedo asegurarme de que las actualizaciones no consuman demasiada batería?
+
+Se recomienda dejar enchufados los dispositivos, como portátiles y tabletas, cuando no estés usándolos. De esta forma, si se instalan actualizaciones fuera de las horas activas, tu dispositivo tendrá suficiente energía para completar la instalación. Las actualizaciones de Windows no consumen más batería que otros procesos típicos del sistema.
+
+### ¿Cómo puedo ver las actualizaciones instaladas?
+
+Está disponible un historial de actualizaciones, donde puedes comprobar qué actualizaciones se instalaron y cuándo lo hicieron. También puedes usar esta lista para quitar actualizaciones específicas, aunque no se recomienda hacerlo a menos que sea necesario.
+
+Selecciona Inicio>Configuración> Actualizar & Seguridad Windows Update>Ver historial de> actualizaciones .
+
+ Ver el historial de actualizaciones
+
+Para obtener más información sobre lo que se incluye en las actualizaciones de Windows 10, consulta Historial de actualizaciones de Windows 10.
+
+### ¿Cómo puedo quitar una actualización instalada?
+
+No es recomendable que quites las actualizaciones instaladas. Sin embargo, si necesitas quitar una actualización, puedes hacerlo en el historial de actualizaciones. Ten en cuenta que no todas las actualizaciones se pueden quitar.
+
+- Seleccione Inicio>, Configuración>, Actualización & Seguridad>Windows Update ** >Ver historial > de actualizaciones Desinstalar actualizaciones.
+
+- Selecciona la actualización que quieras quitar y luego Desinstalar.
+
+### ¿Cuál es la diferencia entre una actualización de funciones y una actualización de calidad?
+
+Las actualizaciones de funciones se distribuyen una vez al año e incluyen nuevas funcionalidades y capacidades, así como posibles actualizaciones de correcciones y actualizaciones de seguridad. Para ayudar a mantener los dispositivos en una versión compatible de Windows, Windows Update inicia automáticamente una actualización de características para los dispositivos antes del final del servicio o cuando se acerquen. Las actualizaciones automáticas permiten que los dispositivos sigan recibiendo las actualizaciones mensuales que son fundamentales para la seguridad y el estado del ecosistema. 
+
+Este enfoque se ha aplicado correctamente durante muchos años con Windows 10. Las actualizaciones automáticas de características solo se ofrecen a los dispositivos de los consumidores y a los dispositivos empresariales no administrados que ejecutan Windows 10. Las novedades se instalarán automáticamente, pero puedes Mantener el equipo actualizado con las horas activas para que el dispositivo se reinicie y complete la actualización. 
+
+Las actualizaciones de calidad son más frecuentes y principalmente incluyen pequeñas correcciones y actualizaciones de seguridad. A veces, las actualizaciones de calidad incluyen nuevas características. Windows está diseñado para ofrecer ambos tipos de actualizaciones a los dispositivos mediante Windows Update. Para recibir actualizaciones mensuales, debe tener una versión compatible de Windows. La última actualización de características para Windows 10 es la versión 22H2.
+
+### ¿Cuál es la mejor manera de asegurarse de que el dispositivo está actualizado?
+
+Para comprobar que el dispositivo esté actualizado, abra Configuración >Actualización & seguridad>Windows Update ** y vea el estado de las actualizaciones y las actualizaciones disponibles.
+
+ Buscar actualizaciones
+
+### ¿Qué versión de Windows estoy ejecutando?
+
+Para averiguar qué versión de Windows que estás ejecutando, consulta ¿Qué versión del sistema operativo Windows estoy ejecutando?
+
+### ¿Se habilitará el almacenamiento reservado para dispositivos que se actualicen a la actualización de Windows 10 2022 (versión 22H2)?
+
+El almacenamiento reservado no se activa automáticamente en Windows en ningún escenario de actualización. Solo se activa para los nuevos dispositivos con la Actualización de mayo de 2019 de Windows 10 (versión 1903) o preinstalada posterior, o en dispositivos con una instalación limpia.
+
+### ¿Cómo puedo hacer que mi equipo deje de actualizarse?
+
+Windows 10 es el Windows más seguro de todos los tiempos y te recomendamos que te mantengas actualizado para proteger tu PC de los riesgos de seguridad y mantenerlo funcionando correctamente. Sin embargo, puede pausar temporalmente las actualizaciones y programar un reinicio para instalarlas en el momento que más le convenga.
+
+ Obtenga información sobre cómo pausar temporalmente las actualizaciones
+
+ Obtenga información sobre cómo programar un reinicio para instalar actualizaciones en un momento conveniente
+
+### ¿Las actualizaciones afectan mi uso de datos?
+
+Las actualizaciones de calidad mensuales de Windows 10 son muy pequeñas y tienen una incidencia mínima en el uso de datos. Las actualizaciones de funciones suelen ocurrir dos veces al año y puede controlar cuándo instalarlas. Requieren más datos, pero son menos frecuentes.
+
+Si tiene una conexión de uso medido, algunas actualizaciones de Windows no se instalarán automáticamente. 
+ Conexiones de uso medido en Windows
+
+## Artículos relacionados
+
+ Instalar actualizaciones de Office
+
+ Activar Windows
+
+ Cómo usar la aplicación Comprobación de estado del PC
+
+ Cómo restablecer la contraseña de la cuenta de Microsoft
+
+ Solucionar problemas de Bluetooth en Windows

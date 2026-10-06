@@ -1,0 +1,311 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/icacls
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# icacls
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Muestra o modifica listas de control de acceso discrecional (DACL) en archivos especificados y aplica las DACL almacenadas a los archivos de los directorios especificados.
+
+Note
+
+Este comando reemplaza al comando cacls, que ya estaba obsoleto.
+
+## Syntax
+
+`icacls name [/save aclfile] [/setowner user] [/findsid Sid] [/verify] [/reset] [/T] [/C] [/L] [/Q]
+icacls name [/grant[:r] Sid:perm[...]] [/deny Sid:perm [...]] [/remove[:g|:d]] Sid[...]]] [/setintegritylevel Level:policy[...]] [/T] [/C] [/L] [/Q]
+icacls directory [/substitute SidOld SidNew [...]] [/restore aclfile] [/C] [/L] [/Q]
+`
+
+### Parameters
+
+ | Parameter
+
+ | Description
+
+ | `<name>`
+
+ | Especifica el archivo para el que se van a mostrar o modificar las DACL.
+
+ | `<directory>`
+
+ | Especifica el directorio para el que se van a mostrar o modificar las DACL.
+
+ | `/t`
+
+ | Realiza la operación en todos los archivos especificados del directorio actual y sus subdirectorios.
+
+ | `/c`
+
+ | Continúa la operación aunque se produzcan errores de archivo. Los mensajes de error se siguen mostrando.
+
+ | `/l`
+
+ | Realiza la operación en un vínculo simbólico en lugar de su destino.
+
+ | `/q`
+
+ | Suprime los mensajes correctos.
+
+ | `/save <ACLfile>`
+
+ | Almacena las DACL para todos los archivos coincidentes en un archivo de lista de control de acceso (ACL) para su uso posterior con `/restore`.
+
+ | `/setowner <user>`
+
+ | Cambia el propietario de todos los archivos coincidentes al usuario especificado.
+
+ | `/findsid <sid>`
+
+ | Busca todos los archivos coincidentes que contienen una DACL que menciona explícitamente el identificador de seguridad (SID) especificado.
+
+ | `/verify`
+
+ | Busca todos los archivos con ACL que no son canónicos o tienen longitudes incoherentes con recuentos de entrada de control de acceso (ACE).
+
+ | `/reset`
+
+ | Reemplaza las ACL por las ACL heredadas predeterminadas para todos los archivos coincidentes.
+
+ | `/grant[:r] <sid>:<perm>`
+
+ | Concede derechos de acceso de usuario especificados. Los permisos reemplazan los permisos explícitos concedidos previamente. No añadir :r significa que se añaden permisos a cualquier permiso explícito previamente concedido.
+
+ | `/deny <sid>:<perm>`
+
+ | Deniega explícitamente los derechos de acceso de usuario especificados. Se agrega una ACE de denegación explícita para los permisos indicados y se quitan los mismos permisos en cualquier concesión explícita.
+
+ | `/remove: g \| d <sid>`
+
+ | Quita todas las apariciones del SID especificado de la DACL. Este comando también puede usar:
+
+- 
+ g - Elimina todas las ocurrencias de derechos concedidos al SID especificado
+
+- 
+ d - Elimina todas las ocasiones de denegación de derechos al SID especificado
+
+ | `/setintegritylevel <perm><level>`
+
+ | Agrega explícitamente una ACE de integridad a todos los archivos coincidentes. El nivel se puede especificar como:
+
+- 
+ L - Bajo
+
+- 
+ m - Medium
+
+- 
+ h - Alto
+
+Las opciones de herencia para la ACE de integridad pueden preceder al nivel y solo se aplican a los directorios.
+
+ | `/substitute <sidold> <sidnew>`
+
+ | Sustituye un SID existente (sidold) por uno nuevo (sidnew). Requiere el uso con el parámetro `<directory>`.
+
+ | `/restore <ACLfile> /c \| /l \| /q`
+
+ | Aplica las DACL almacenadas de `<ACLfile>` a los archivos del directorio especificado. Requiere el uso con el parámetro `<directory>`.
+
+ | `/inheritancelevel: e \| d \| r`
+
+ | Establece el nivel de herencia, que puede ser:
+
+- 
+ e - Permite la herencia
+
+- 
+ d - Desactiva la herencia y copia los ACEs
+
+- 
+ r - Desactiva la herencia y elimina solo los ACE heredados
+
+## Remarks
+
+- 
+Los SID pueden estar en formato numérico o descriptivo. Si usa una forma numérica, afija el carácter comodín * al principio del SID.
+
+- 
+Este comando conserva el orden canónico de las entradas ACE como:
+
+- 
+Explicit denials
+
+- 
+Explicit grants
+
+- 
+Inherited denials
+
+- 
+Inherited grants
+
+- 
+La `<perm>` opción es una máscara de permiso que se puede especificar para los derechos básicos, los derechos avanzados o los derechos de herencia:
+
+- 
+Secuencia de derechos simples (permisos básicos) sin necesidad de usar paréntesis:
+
+- 
+ N - Sin acceso
+
+- 
+ F - Acceso completo
+
+- 
+ M - Modificar acceso
+
+- 
+ RX - Acceso de lectura y ejecución
+
+- 
+ R - Acceso de solo lectura
+
+- 
+ W - Acceso solo de escritura
+
+- 
+ D - Eliminar acceso
+
+- 
+Lista separada por comas de derechos específicos (permisos avanzados) que deben usar paréntesis:
+
+- 
+ DE - Eliminar
+
+- 
+ RC - Control de lectura (permisos de lectura)
+
+- 
+ WDAC - Escribir DAC (cambiar permisos)
+
+- 
+ WO - Propietario de escritura (toma la propiedad)
+
+- 
+ S - Sincronizar
+
+- 
+ AS - Seguridad del sistema de acceso
+
+- 
+ MA - Máximo permitido
+
+- 
+ GR - Lectura genérica
+
+- 
+ GW - Escritura genérica
+
+- 
+ GE - Ejecución genérica
+
+- 
+ GA - Genérico para todos
+
+- 
+ RD - Directorio de datos/listas de lectura
+
+- 
+ WD - Escribir datos/añadir archivo
+
+- 
+ AD - Añadir datos/añadir subdirectorio
+
+- 
+ REA - Leer atributos extendidos
+
+- 
+ WEA - Escribir atributos extendidos
+
+- 
+ X - Ejecutar/recorrer
+
+- 
+ DC - Eliminar hijo
+
+- 
+ RA - Atributos de lectura
+
+- 
+ WA - Atributos de escritura
+
+- 
+Secuencia de derechos de herencia que deben usar paréntesis:
+
+- 
+ (I) - Heredar. ACE heredada del contenedor primario.
+
+- 
+ (OI) - Objeto heredar. Los objetos de este contenedor heredan esta ACE. Solo se aplica a los directorios.
+
+- 
+ (CI) - Contenedor heredar. Los contenedores de este contenedor primario heredan esta ACE. Solo se aplica a los directorios.
+
+- 
+ (IO) - Solo heredar. ACE heredada del contenedor primario, pero no se aplica al propio objeto. Solo se aplica a los directorios.
+
+- 
+ (NP) - No propagues, no heredes. ACE heredada por contenedores y objetos del contenedor primario, pero no se propaga a contenedores anidados. Solo se aplica a los directorios.
+
+## Examples
+
+Para guardar las DACL para todos los archivos del directorio C:\Windows y sus subdirectorios en el archivo ACLFile, escriba:
+
+`icacls c:\windows\* /save aclfile /t
+`
+
+Para restaurar las DACL de todos los archivos de ACLFile que existen en el directorio C:\Windows y sus subdirectorios, escriba:
+
+`icacls c:\windows\ /restore aclfile
+`
+
+Para conceder al usuario los permisos User1 Delete y Write DAC a un archivo denominado Test1, escriba:
+
+`icacls test1 /grant User1:(d,wdac)
+`
+
+Para conceder al usuario definido por SID S-1-1-0 permisos Delete and Write DAC a un archivo denominado TestFile, escriba:
+
+`icacls TestFile /grant *S-1-1-0:(d,wdac)
+`
+
+Para aplicar un alto nivel de integridad a un directorio y asegurar que tanto sus archivos como sus subdirectorios hereden este nivel, escribe:
+
+`icacls "myDirectory" /setintegritylevel (CI)(OI)H
+`
+
+## Related links
+
+- 
+ Clave de sintaxis de línea de comandos
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-10-01

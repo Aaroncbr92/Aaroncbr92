@@ -1,0 +1,92 @@
+ 
+ 
+FOR IMMEDIATE RELEASE 
+February 3, 2011 
+ 
+ 
+Available Pool of Unallocated IPv4 Internet  
+Addresses Now Completely Emptied 
+ 
+The Future Rests with IPv6  
+ 
+A critical point in the history of the Internet was reached today with the allocation of the last remaining IPv4 
+(Internet Protocol version 4) Internet addresses from a central pool. It means the future expansion of the 
+Internet is now dependant on the successful global deployment of the next generation of Internet protocol, 
+called IPv6.   
+ 
+The announcement was made by four international non-profit groups, which collaboratively work to coordinate 
+the world’s Internet addressing system and its technical standards.   
+ 
+At a news conference in Miami, Florida, the Internet Corporation for Assigned Names and Numbers (ICANN) 
+joined the Number Resources Organization (NRO), the Internet Architecture Board (IAB) and the Internet 
+Society in announcing that the pool of first generation Internet addresses has now been completely emptied.  
+ 
+The final allocation of Internet addresses was administered by the Internet Assigned Numbers Authority 
+(IANA), which is a function of ICANN.   
+ 
+“This is a major turning point in the on-going development of the Internet,” said Rod Beckstrom, ICANN’s 
+President and Chief Executive Officer. “No one was caught off guard by this. The Internet technical community 
+has been planning for IPv4 depletion for some time. But it means the adoption of IPv6 is now of paramount 
+importance, since it will allow the Internet to continue its amazing growth and foster the global innovation we’ve 
+all come to expect.”  
+ 
+The new Internet protocol, IPv6, will open up a pool of Internet addresses that is a billion-trillion times larger 
+than the total pool of IPv4 addresses (about 4.3 billion), which means the number of IPv6 addresses is virtually 
+inexhaustible for the foreseeable future.  
+ 
+Two “blocks” of the dwindling number of IPv4 addresses, about 33 million of them, were allocated earlier this 
+week to the Regional Internet Registry (RIR) for the Asia Pacific region. When that happened, it meant the pool 
+of IPv4 addresses had been depleted to a point where a global policy was triggered to immediately allocate the 
+remaining small pool of addresses equally among the five global Regional Internet Registries.   
+ 
+The RIRs are independent, not-for-profit organizations that provide technical coordination for the infrastructure 
+of the Internet. 
+ 
+
+Those last five blocks of IPv4 addresses were allocated to the five RIRs during a ceremony this morning in 
+Miami during a meeting of the Regional Internet Registries.  
+ 
+The allocation of the final IPv4 addresses is analogous to the last crates of a product leaving a manufacturing 
+warehouse and going to the regional stores or distributions centers, where they can still be distributed to the 
+public. Once they are gone, the supply is exhausted. In this case, the RIRs will distribute the last IPv4 
+addresses to Internet Service Providers, universities, governments, telecommunications companies and other 
+enterprises.  
+ 
+“It’s only a matter of time before the RIRs and Internet Service Providers (ISPs) must start denying requests for 
+IPv4 address space,” said Raúl Echeberría, Chairman of the Number Resource Organization, the umbrella 
+organization of the five RIRs. “Deploying IPv6 is now a requirement, not an option.”  
+ 
+#### 
+ 
+To read more about IPv6 go here: http://www.atlarge.icann.org/issues/atlarge-briefs/ipv6-qanda-en.htm 
+ 
+MEDIA CONTACTS:  
+Brad White  
+ICANN Director of Global Media Affairs 
+Washington, D.C. 
+ 
+ 
+ 
+ 
+Tel. +1 (202) 570 7118 
+brad.white@icann.org 
+ 
+Andrew Robertson 
+Edelman Public Relations 
+London, U.K. 
+Tel. + 44 (7811) 341 945 
+andrew.Robertson@edelman.com 
+ 
+ 
+About ICANN: ICANN’s mission is to ensure a stable, secure and unified global Internet. To reach another person on the Internet you 
+have to type an address into your computer - a name or a number. That address has to be unique so computers know where to find 
+each other. ICANN coordinates these unique identifiers across the world. Without that coordination we wouldn't have one global 
+Internet. ICANN was formed in 1998. It is a not-for-profit public-benefit corporation with participants from all over the world dedicated to 
+keeping the Internet secure, stable and interoperable. It promotes competition and develops policy on the Internet’s unique identifiers. 
+ICANN doesn’t control content on the Internet. It cannot stop spam and it doesn’t deal with access to the Internet. But through its 
+coordination role of the Internet’s naming system, it does have an important impact on the expansion and evolution of the Internet. For 
+more information please visit: www.icann.org. 
+ 
+ 
+ 
+ 

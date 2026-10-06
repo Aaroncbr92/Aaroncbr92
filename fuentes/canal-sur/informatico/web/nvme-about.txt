@@ -1,0 +1,133 @@
+URL: https://nvmexpress.org/about/
+Leído: 2026-10-05
+
+
+
+ About - NVM Express
+
+ Skip to content
+
+ About
+
+ About
+
+ Board of Directors
+
+ Frequently Asked Questions
+
+ Technology Ecosystem
+
+ Contact us
+
+ Membership
+
+ Membership
+
+ Join NVM Express
+
+ Membership List
+
+ NVM Express Working Groups
+
+ Members Only
+
+ Specifications
+
+ Specifications
+
+ Drivers
+
+ Education
+
+ Compliance
+
+ Testing & Compliance
+
+ Product Listings
+
+ Product Submissions
+
+ Trademark and Logo License
+
+ News
+
+ Media Coverage
+
+ Press Releases
+
+ Members in the News
+
+ Events
+
+ Blog
+
+About
+
+A Set of Open Standards
+
+NVM Express is an open set of standards and information to fully expose the benefits of non-volatile memory in all types of computing environments from mobile to data center. The original NVM Express Work Group was incorporated as NVM Express in 2014 and is the consortium responsible for the development of the NVM Express specification. The organization currently has over 100 member companies.
+
+NVMe is designed from the ground up to deliver high bandwidth and low latency storage access for current and future NVM technologies. The NVM Express standards include:
+
+NVM Express (NVMe) Specification – The register interface and command set for PCI Express technology attached storage with industry standard software available for numerous operating systems. NVMe is widely considered the defacto industry standard for PCIe SSDs.
+
+NVMe Management Interface (NVMe-MI) Specification – The command set and architecture for out of band management of NVM Express storage (e.g., discovering, monitoring, and updating NVMe devices using a BMC).
+
+NVMe Boot Specification – Outlines a standard process for booting over the NVM Express interface, and defines the mechanism of a pre-OS environment (e.g., BIOS) to share administrative configuration specific to NVM Express transports with an operating system.
+
+NVMe Command Set Specifications – The individual command set specifications allow NVM Express to isolate and independently evolve command sets for emerging technologies such as Zoned Namespaces, Key Value and eventually computational storage.
+
+NVMe Transport Specifications – The individual transport specifications allow NVM Express to isolate and independently evolve transports for evolving memory and fabric transports.
+
+NVM Express Members can access the organization’s brand materials here:
+
+Templates (Members only)
+
+NVM Express Logo and Trademark Guidelines
+
+Please visit the following links to learn more.
+
+Frequently Asked Questions (FAQs)
+
+Promoters Group
+
+Contact Us
+
+General questions may be directed to [email protected].
+
+Membership questions may be directed to [email protected] or you can learn more on our Membership page.
+
+ About
+
+ Membership
+
+ Specifications
+
+ Education
+
+ Compliance
+
+ News
+
+ Events
+
+ Blog
+
+Newsletter Signup
+
+Email
+
+ Name
+
+ First
+
+ Last
+
+CAPTCHA
+
+ Submit 
+
+Δ
+
+ © 2026 NVM Express
+

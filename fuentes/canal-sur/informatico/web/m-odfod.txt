@@ -1,0 +1,180 @@
+URL: https://support.microsoft.com/es-es/onedrive/save-disk-space-with-onedrive-files-on-demand-for-windows
+Leído: 2026-10-05
+
+# Ahorrar espacio en disco con Archivos a petición de OneDrive para Windows
+
+ Se aplica a
+SharePoint Server 2019 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo ahorro espacio con OneDrive?
+
+ ¿Cómo configuro los archivos bajo demanda de OneDrive?
+
+ Guíame para ahorrar espacio en disco con OneDrive.
+
+Archivos a petición de OneDrive le ayuda a acceder a todos los archivos de su almacenamiento en la nube en OneDrive sin tener que descargarlos y usar espacio de almacenamiento en su equipo.
+
+Nota
+
+A partir de la compilación 23.066 de OneDrive, Files On-Demand está habilitado de forma predeterminada para todos los usuarios.
+
+Con Files On-Demand, verá todos los archivos como archivos solo en línea en el Explorador de archivos, pero no ocuparán espacio. Cuando se conecte a Internet, podrá usar los archivos como cualquier otro archivo en el dispositivo.
+
+También puede seleccionar archivos y carpetas para que estén siempre disponibles, incluso si está sin conexión. OneDrive las descargará y ocuparán espacio en tu PC.
+
+## Ahorrar espacio con OneDrive
+
+Con Archivos a petición de OneDrive, puede:
+
+- Ahorrar espacio en el dispositivo creando archivos solo en línea
+
+- Configurar los archivos y carpetas para que siempre estén disponibles de forma local en el dispositivo
+
+- Ver información importante sobre los archivos (p. ej., si se comparten)
+
+- Ver miniaturas de más de 300 tipos de archivo diferentes, incluso si no tiene instalada la aplicación necesaria para abrirlos
+
+Los archivos tendrán estos estados en el Explorador de archivos:
+
+ | 
+
+ | Un icono de nube azul junto a un archivo o carpeta de OneDrive indica que el archivo solo está disponible en línea. 
+ Los archivos solo en línea no ocupan espacio en el equipo. Verá un icono de nube para cada archivo solo disponible en línea en el Explorador de archivos, pero el archivo no se descarga en el dispositivo hasta que lo abra. Los archivos solo en línea no se pueden abrir cuando el dispositivo no está conectado a Internet.
+
+ | 
+
+ | Al abrir un archivo solo en línea, se descarga en el dispositivo y pasa a ser un archivo disponible localmente. Puede abrir un archivo disponible localmente siempre que quiera, incluso sin acceso a Internet. Si necesita más espacio, puede cambiar el archivo a solo en línea. Simplemente haga clic con el botón derecho en el archivo y seleccione "Liberar espacio".
+
+Con Sensor de almacenamiento activado, estos archivos se convertirán en archivos solo disponibles en línea después del período de tiempo que haya seleccionado.
+
+ | 
+
+ | Solo los archivos que se marcan como "Mantener siempre en este dispositivo" tienen el círculo de color verde con la marca de verificación de color blanco. Estos archivos siempre disponibles se descargan en el dispositivo y ocupan espacio, pero siempre están ahí incluso cuando se trabaja sin conexión.
+
+## Cómo activar Files a petición
+
+Si Files On-Demand no está habilitado, asegúrese de haber iniciado sesión en OneDrive en su dispositivo.
+
+Abra la configuración de OneDrive (seleccione el icono de nube de OneDrive en el área de notificación, seleccione el icono de configuración y ayuda de OneDrive y, después, Configuración).
+
+Vaya a la pestaña Sincronizar y hacer una copia de seguridad, expanda la configuración avanzada y active Files On-Demand
+
+## Liberar espacio o tener un archivo siempre disponible cuando esté sin conexión
+
+- Haga clic con el botón derecho en un archivo o carpeta.
+
+- Seleccione Mantener siempre en este dispositivo o Liberar espacio.
+
+Nota
+
+- Los archivos o carpetas que se crean en línea o en otro dispositivo aparecen como solo en línea para ahorrar el máximo de espacio. Pero si una carpeta se marca como "Mantener siempre en este dispositivo", los archivos nuevos de esa carpeta se descargan en el dispositivo como archivos siempre disponibles.
+
+- Si una carpeta es solo en línea, puede seguir marcando archivos individuales dentro de esa carpeta como siempre disponibles.
+
+- La búsqueda en el escritorio puede buscar archivos solo en línea por nombre, pero no el contenido de los archivos solo en línea, ya que no están almacenados en el dispositivo.
+
+## Preguntas frecuentes
+
+### ¿Qué necesito para usar Files On-Demand?
+
+Files On-Demand requiere la versión de Windows 10 1709 o posterior, o bien de Windows Server 2019
+
+OneDrive compilación 23.066 o posterior tiene Files On-Demand habilitado de forma predeterminada.
+
+Es posible que Archivos a petición no sea compatible con algunas soluciones antivirus de terceros.
+
+Archivos a petición todavía no se admite cuando está habilitado WIP.
+
+Files On-Demand funciona con todos los archivos personales y profesionales de OneDrive, SharePoint en Microsoft 365 y sitios de grupo de SharePoint Server 2019.
+
+### ¿Puedo mover archivos solo en línea a mi carpeta de OneDrive?
+
+Sí, puede mover los archivos solo en línea a la carpeta de OneDrive de esa cuenta de OneDrive. Al mover los archivos fuera de esa carpeta de OneDrive, se descargan a la carpeta nueva y se quitan de OneDrive.
+
+Con los archivos y carpetas en la copia de seguridad en la nube de OneDrive, si elimina algo accidentalmente, puede restaurarlo desde la papelera de reciclaje de OneDrive.
+
+### ¿Qué ocurre si elimino un archivo o lo muevo a la Papelera?
+
+Cuando se elimina un archivo solo en línea del dispositivo, se elimina de su OneDrive en todos los dispositivos y en línea. Puede restaurar archivos y carpetas eliminados desde la Papelera de reciclaje de OneDrive en la Web durante un máximo de 30 días para los elementos almacenados en OneDrive personal (cuando ha iniciado sesión con una cuenta Microsoft) o hasta 93 días para los elementos almacenados en OneDrive para el trabajo o la escuela, o SharePoint en Microsoft 365 (cuando ha iniciado sesión con una cuenta profesional o educativa). Si elimina un archivo disponible de forma local, también aparecerá en la Papelera de reciclaje del dispositivo.
+
+Si quiere ocultar una carpeta en el dispositivo, vea Seleccionar una carpeta para ocultarla en el dispositivo.
+
+### ¿Al cambiar un archivo a solo en línea, se elimina de OneDrive?
+
+No, al cambiar un archivo a solo en línea no se elimina de OneDrive. El archivo ya no ocupa espacio en el dispositivo y todavía podrá verlo desde las aplicaciones móviles de OneDrive o en el sitio web.
+
+### ¿Por qué no puedo ver las opciones de Files a petición en la configuración de OneDrive?
+
+En primer lugar, asegúrese de que no ha configurado en el equipo Windows Information Protection (WIP), anteriormente conocido como Protección de datos de empresa (EDP). Archivos a petición todavía no se admite cuando está habilitado WIP.
+
+Si no ve las opciones de Archivos a petición, todavía no se ha implementado la versión más reciente de OneDrive. Aquí le mostramos cómo obtener la versión más reciente de OneDrive.
+
+- Asegúrese de que ejecuta Windows 10 Fall Creators Update (versión 16299.15 o posterior).
+
+- Descargue e instale la versión más reciente de OneDrive que se implementa con Windows 10 Fall Creators Update.
+
+- Reinicie el equipo.
+
+- Después de reiniciar el equipo, seleccione el botón Inicio , busque "OneDrive" y, después, seleccione la aplicación de escritorio de OneDrive .
+
+- Cuando se inicie la configuración de OneDrive, escriba su cuenta personal, profesional o educativa, y después haga clic en Iniciar sesión.
+
+- Siga las instrucciones para Activar Archivos a petición.
+
+### ¿Por qué no veo la opción para deshabilitar Files a petición?
+
+Estamos actualizando la configuración avanzada de la aplicación de Sincronización de OneDrive para Files On-Demand para los usuarios que tienen habilitada la característica.
+
+El cambio de comportamiento se produce para los usuarios que tienen Files a petición habilitados. En este momento, no hay ningún cambio para los usuarios que tengan la característica deshabilitada desde la configuración de OneDrive o por la directiva de administración.
+
+Después de este cambio, los usuarios que tengan habilitado Files On-Demand verán dos botones:
+
+- 
+ Liberar espacio en disco: este es el comportamiento predeterminado y recomendado. Los nuevos archivos de la nube son solo en línea de forma predeterminada, no ocupan espacio en disco. Los Files se descargan en el dispositivo si un usuario los abre o elige la opción "Mantener siempre en este dispositivo" en el menú contextual del Explorador de archivos. Los Files creados en el dispositivo están disponibles sin conexión de forma predeterminada.
+
+- 
+ Descargar todos los archivos: Esta configuración equivale a elegir la opción "Mantener siempre en este dispositivo" en el menú contextual del Explorador de archivos para toda la carpeta de OneDrive. Si selecciona esta opción, se descargarán todos los archivos de la nube, ocupando espacio en disco del dispositivo. El comportamiento de esta configuración equivale a la opción heredada de desactivar el modo Files a petición, con algunas mejoras, como iconos actualizados.
+
+## Más información
+
+- 
+ Elija qué carpetas de OneDrive mostrar en su equipo.
+
+- Para más información sobre las notificaciones cuando Windows descarga automáticamente los archivos solo en línea para las aplicaciones, vea Notificaciones de descarga automática de archivos en Windows 10.
+
+- 
+ El espacio en disco de OneDrive y el tamaño del archivo no coinciden
+
+- 
+ Preguntas sobre planes de almacenamiento y facturación de OneDrive
+
+## ¿Necesitas más ayuda?
+
+- 
+
+ Cuentas personales
+
+- 
+
+ Cuentas profesionales o educativas
+
+Soporte técnico de cuentas. Para obtener ayuda con la cuenta de Microsoft y las suscripciones, visita Ayuda con la cuenta & la facturación.
+
+Soporte técnico. Para obtener soporte técnico, seleccione Ponerse en contacto con el Soporte técnico de Microsoft a continuación, escriba el problema y seleccione Obtener ayuda.
+
+ Ponerse en contacto con el Soporte técnico de Microsoft
+
+Los usuarios móviles pueden ponerse en contacto con el soporte técnico abriendo la aplicación de OneDrive y agitando suavemente el dispositivo.
+
+Soporte técnico de la comunidad. Las comunidades le ayudan a formular preguntas, enviar comentarios y leer a expertos con conocimientos extensos. 
+ Pregunte en Microsoft Community No reveles información personal o sensible en foros públicos.
+
+Soporte técnico. Para obtener soporte técnico, póngase en contacto con el departamento de soporte técnico de TI, el departamento de servicio o el administrador de su organización.
+
+Administradores de TI. Los administradores de TI deben ver la Ayuda para administradores de OneDrive, la comunidad tecnológica de OneDrive o ponerse en contacto con el soporte técnico de Microsoft 365 para empresas.
+
+Recomendación
+
+El Administrador de TI debe leer los Files a petición de OneDrive para empresas.

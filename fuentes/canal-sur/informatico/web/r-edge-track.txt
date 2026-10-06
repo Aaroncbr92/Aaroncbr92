@@ -1,0 +1,74 @@
+URL: https://support.microsoft.com/es-es/microsoft-edge/obtenga-informaci%C3%B3n-sobre-la-prevenci%C3%B3n-de-seguimiento-en-microsoft-edge-5ac125e8-9b90-8d59-fa2c-7f2e9a44d869
+Leído: 2026-10-05
+
+# Más información sobre la prevención de seguimiento en Microsoft Edge
+
+ Se aplica a
+Privacy Microsoft Edge Edge for Mac Windows 10 Windows 11 
+
+## ¿Qué son los rastreadores?
+
+Los sitios web usan rastreadores para recopilar datos sobre el comportamiento de exploración. Los rastreadores recopilan datos sobre cómo interactúas con un sitio, como el contenido en el que haces clic. También habilitan la funcionalidad en algunos sitios web, como las secciones de comentarios, los botones para compartir artículos con las redes sociales y los anuncios personalizados.
+
+Algunos rastreadores recopilan datos sobre el usuario en varios sitios. Por ejemplo, un rastreador podría realizar un seguimiento cuando vayas a tu sitio de compras y de noticias favoritos. Esta es la razón por la que, en ocasiones, puede parecer que un anuncio te está siguiendo por la web.
+
+## ¿Qué es la prevención de seguimiento?
+
+El nuevo Microsoft Edge está diseñado para detectar y bloquear rastreadores potencialmente dañinos: rastreadores que detectamos como cryptomining o huella digital. Permitimos que decida qué rastreadores bloquear. Para obtener más información sobre la prevención de seguimiento y cómo usarla, selecciona cualquier tema y se abrirá para presentar más información:
+
+## Seleccionar el nivel de prevención de seguimiento
+
+- 
+En Microsoft Edge, selecciona Configuración y más>>privacidad, búsqueda y servicios.
+
+- 
+Selecciona Prevención de seguimiento y asegúrate de que esté Activada.
+
+- 
+Selecciona el nivel de prevención de seguimiento adecuado para ti:
+
+ Básico: bloquea rastreadores potencialmente dañinos, pero permite la mayoría de los demás rastreadores y los que personalizan contenido y anuncios.
+
+ Equilibrado (recomendado): bloquea rastreadores potencialmente dañinos y rastreadores de sitios que no ha visitado. Es probable que el contenido y los anuncios sean menos personalizados.
+
+ Estricto: bloquea los rastreadores potencialmente dañinos y la mayoría de los rastreadores de todos los sitios. Es probable que el contenido y los anuncios tengan una personalización mínima. Esta opción bloquea la mayoría de los rastreadores, pero puede provocar que algunos sitios web no se comporten según lo esperado. Por ejemplo, un vídeo podría no reproducirse o es posible que no puedas iniciar sesión.
+
+## Hacer una excepción para la prevención de seguimiento
+
+Si bien evitar los rastreadores aumenta tu privacidad, puede que quieras crear excepciones para determinados sitios web de confianza. Esto permitirá todos los rastreadores en estos sitios, incluidos los que son potencialmente dañinos.
+
+- En Microsoft Edge, selecciona Configuración y más >>privacidad, búsqueda y servicios.
+
+- Selecciona Prevención de seguimiento y asegúrate de que esté Activada.
+
+- Seleccione Excepciones.
+
+- Selecciona Agregar un sitio, escribe la dirección URL completa y, a continuación, selecciona Agregar.
+
+También puedes crear una excepción directamente desde el sitio.
+
+- Ve al sitio que quieras agregar como excepción para la prevención de seguimiento.
+
+- Seleccione Ver información en el lado de la barra de direcciones.
+
+- En Prevención de seguimiento, selecciona Desactivada en el menú desplegable.
+
+## Ver qué rastreadores se bloquearon
+
+Si has activado la prevención de seguimiento, podrás ver los rastreadores que se bloquearon en los sitios individuales.
+
+- Ve a un sitio por el que tengas curiosidad.
+
+- Seleccione Ver información del sitio en el lado de la barra de direcciones.
+
+- Selecciona Rastreadores para ver qué rastreadores usa el sitio y cuántos se bloquearon.
+
+## Temas relacionados
+
+ Configuración general de privacidad en Windows
+
+ Cambiar la configuración de privacidad en Windows
+
+ Ver los datos en el panel de privacidad
+
+ Más información sobre cómo funciona la prevención de seguimiento en Microsoft Edge

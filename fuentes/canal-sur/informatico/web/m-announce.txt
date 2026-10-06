@@ -1,0 +1,51 @@
+URL: https://support.microsoft.com/es-es/office/enviar-un-anuncio-a-un-canal-en-microsoft-teams-8f244ea6-235a-4dcc-9143-9c5b801b4992
+Leído: 2026-10-05
+
+# Enviar un anuncio a un canal en Microsoft Teams
+
+ Se aplica a
+Teams Microsoft Teams 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo puedo crear un anuncio en Microsoft Teams?
+
+ Muéstrame cómo enviar un clip de video o audio en un canal.
+
+ Enviar un anuncio a un canal en Microsoft Teams.
+
+A veces, tu mensaje debe destacarse. Con opciones para fondos dinámicos y generación de imágenes con tecnología de IA, los anuncios de canal ayudan a que su mensaje elimine el ruido.
+
+## Crear un anuncio
+
+Los pasos para crear un anuncio variarán en función del diseño del canal.
+
+### Crear un anuncio en el diseño de publicaciones
+
+Dónde ir para crear un anuncio depende de si ve nuevas publicaciones en la parte inferior o superior. Puede invertir el orden de las publicaciones seleccionando Más opciones de canal en la esquina superior. A continuación, elija Ver nuevas publicaciones en la parte superior o Ver nuevas publicaciones en la parte inferior.
+
+#### Mientras visualiza nuevas publicaciones desde la parte superior
+
+- En la pestaña Publicaciones del canal, en la parte superior, vaya a Publicar en canal.
+
+- Seleccione Anuncio debajo del cuadro donde escribe el mensaje.
+
+#### Mientras visualiza nuevas publicaciones desde la parte inferior
+
+- En la pestaña Publicaciones del canal, en la parte inferior, seleccione Publicar en el canal
+
+- Junto a Publicar, seleccione el botón Tipo de publicación. Seleccione el icono Anuncio .
+
+### Crear un anuncio en el diseño de conversaciones
+
+- En la pestaña Conversación del canal, en la parte inferior, vaya a Escribir un mensaje.
+
+- A la derecha, seleccione Acciones y aplicaciones y, a continuación, seleccione el
+
+### Dar formato al anuncio
+
+Desde aquí, puedes escribir un titular. Seleccione Combinación de colores para cambiar el color de fondo o Cargar una imagen para agregar una imagen de fondo. 
+
+Nota
+
+Los mensajes de anuncios solo están disponibles en canales, no en chats de grupo o individuales.

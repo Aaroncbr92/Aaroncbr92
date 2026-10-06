@@ -1,0 +1,151 @@
+URL: https://support.microsoft.com/es-es/excel/how-to-correct-a-n-a-error
+Leído: 2026-10-05
+
+# Corregir un error #N/A
+
+ Se aplica a
+Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021 para Mac Excel 2019 Excel 2016 Excel para iPad Aplicación web de Excel Excel para iPhone Excel para tabletas Android Excel para teléfonos Android Excel para Windows Phone 10 Excel Mobile 
+
+Obtener ayuda con Copilot
+
+ Explica cómo corregir un error #N/A.
+
+El error #N/A suele indicar que una fórmula no encuentra lo que se le ha pedido que busque.
+
+## Solución principal
+
+La causa más frecuente del error #N/A se deriva de las funciones BUSCARX, BUSCARV, BUSCARH, BUSCAR o COINCIDIR si una fórmula no encuentra el valor al que se hace referencia. Por ejemplo, si el valor de búsqueda no existe en los datos de origen.
+
+ En este caso, el valor "Plátano" no está presente en la tabla de búsqueda, por lo que BUSCARV devuelve un error #N/A.
+
+ Solución: compruebe que el valor de búsqueda existe en los datos de origen, o bien use un controlador de errores como SI.ERROR en la fórmula. Por ejemplo, =SI.ERROR(FORMULA();0), que dice lo siguiente:
+
+- =SI(su fórmula se evalúa como un error, se muestra 0; en caso contrario, se muestra el resultado de la fórmula)
+
+Puede usar "" para no mostrar nada, o bien usar su propio texto: =SI.ERROR(FORMULA();"Escribir aquí el mensaje de error")
+
+Nota
+
+- 
+i necesita ayuda sobre el error #N/A con una función específica, como BUSCARV o INDICE/COINCIDIR, elija una de estas opciones:
+
+- 
+
+ Corregir el error #N/A en una función BUSCARV
+
+- 
+
+ Corregir el error #N/A en funciones INDICE/COINCIDIR
+
+- 
+Además, puede resultar útil obtener información sobre algunas de las funciones comunes en las que se produce este error, como BUSCARX, BUSCARV, BUSCARH, BUSCARo COINCIDIR.
+
+ Si no estás seguro de lo que quieres hacer en este momento o del tipo de ayuda que necesitas, puedes buscar preguntas parecidas o publicar una pregunta en Microsoft Community.
+
+Si todavía necesita ayuda para resolver el error, en la siguiente lista de comprobación encontrará pasos de solución de problemas para ayudarle a determinar los errores de las fórmulas.
+
+## Tipos de valores incorrectos
+
+El valor de búsqueda y los datos de origen contienen tipos de datos distintos. Por ejemplo, si intenta que BUSCARV haga referencia a un número, pero los datos de origen se almacenaron como texto.
+
+ Solución: Asegúrese de que los tipos de datos sean los mismos. Para comprobar los formatos de celdas, seleccione una celda o un rango deceldas y, después, haga clic con el botón derecho y seleccione Formato de número de celdas> (o presione Ctrl+1) y cambie el formato de número si es necesario.
+
+Recomendación
+
+Si necesita forzar un cambio de formato en toda una columna, primero aplique el formato que quiere y, después, puede usarTexto dedatos> para >finalizar columnas.
+
+## Existe un espacio adicional en las celdas
+
+Puede usar la función ESPACIOS para quitar espacios iniciales o finales. En el ejemplo siguiente se usa la función ESPACIOS anidada dentro de una función BUSCARV para eliminar los espacios iniciales de los nombres en el rango A2:A7 y devolver el nombre de departamento.
+
+ =VLOOKUP(D2,TRIM(A2:B7),2,FALSE)
+
+Nota
+
+ Fórmulas de matriz dinámica: si tiene una versión actual de Microsoft 365 y está en el canal de lanzamiento anticipado de Insider , puede introducir la fórmula en la celda superior izquierda del rango de salida y, a continuación, presionar Entrar para confirmar la fórmula como una fórmula de matriz dinámica. En caso contrario, la fórmula debe especificarse como una fórmula de matriz heredada; primero seleccione el rango de salida, introduzca la fórmula en la celda superior izquierda del rango de salida y, a continuación, presione Ctrl + Mayús + Entrar para confirmarlo. Excel inserta paréntesis al principio y al final de la fórmula. Para obtener más información sobre las fórmulas de matriz, vea Directrices y ejemplos de fórmulas de matriz.
+
+## Usar el método de coincidencia aproximada o el método de coincidencia exacta (VERDADERO/FALSO)
+
+De forma predeterminada, las funciones que buscan información en tablas tienen que ordenarse en orden ascendente. Pero las funciones de hoja de cálculo BUSCARV y BUSCARH contienen el argumento ordenado, que indica a la función que busque una coincidencia exacta aunque la tabla no esté ordenada. Para encontrar una coincidencia exacta, establezca el argumento ordenado en FALSO. Tenga en cuenta que al usar VERDADERO se indica a la función que busque una coincidencia aproximada, lo que puede causar un error #N/A y devolver también resultados erróneos, tal y como se muestra en el ejemplo siguiente.
+
+ En este ejemplo, no solo "Plátano" produce un error #N/A, sino que "Pera" devuelve el precio incorrecto. Esto es causado por el argumento VERDADERO, que le indica a BUSCARV que busque una coincidencia aproximada en lugar de una coincidencia exacta. No hay una coincidencia similar a "Plátano" y "Pera" aparece antes que "Melocotón" alfabéticamente. En este caso, si se usa BUSCARV con el argumento FALSO, devolvería el precio correcto de "Pera", pero "Plátano" seguiría produciendo un error #N/A, ya que no hay ningún "Plátano" que se corresponda en la lista de búsqueda.
+
+Si usa la función COINCIDIR, intente cambiar el valor del argumento tipo_de_coincidencia para especificar el criterio de ordenación de la tabla. Para buscar una coincidencia exacta, establezca el argumento tipo_de_coincidencia en 0 (cero).
+
+## Una fórmula de matriz hace referencia a un rango que no tiene el mismo número de filas o columnas que el rango que contiene la fórmula de matriz
+
+Para corregir este error, asegúrese de que el rango al que hace referencia la fórmula de matriz tiene el mismo número de filas y columnas que el rango de celdas donde se ha escrito la fórmula de matriz. O bien, escriba esta fórmula en un número menor o mayor de celdas para que coincida con el rango al que hace referencia la fórmula.
+
+En este ejemplo, la celda E2 hace referencia a rangos que no coinciden:
+
+ =SUMA(SI(A2:A11=D2;B2:B5))
+
+Para que la fórmula realice el cálculo correctamente, es necesario cambiarla para que en los dos rangos se reflejen las filas 2-11.
+
+=SUMA(SI(A2:A11=D2;B2:B11))
+
+Nota
+
+ Fórmulas de matriz dinámica: si tiene una versión actual de Microsoft 365 y está en el canal de lanzamiento anticipado de Insider , puede introducir la fórmula en la celda superior izquierda del rango de salida y, a continuación, presionar Entrar para confirmar la fórmula como una fórmula de matriz dinámica. En caso contrario, la fórmula debe especificarse como una fórmula de matriz heredada; primero seleccione el rango de salida, introduzca la fórmula en la celda superior izquierda del rango de salida y, a continuación, presione Ctrl + Mayús + Entrar para confirmarlo. Excel inserta paréntesis al principio y al final de la fórmula. Para obtener más información sobre las fórmulas de matriz, vea Directrices y ejemplos de fórmulas de matriz.
+
+## Si ha escrito de forma manual #N/A o NA() en las celdas porque faltaban datos, reemplace estos valores por los datos reales en cuanto estos se encuentren disponibles. Hasta ese momento, las fórmulas que hacen referencia a estas celdas no podrán calcular ningún valor y, en su lugar, devolverán el error #N/A.
+
+ En este caso, May-December tener valores #N/A, por lo que el total no se puede calcular y, en su lugar, devuelve un error #N/A.
+
+## Faltan uno o varios argumentos necesarios en una fórmula que usa una función predefinida o definida por el usuario.
+
+Para corregir este error, compruebe la sintaxis de la fórmula de la función que está usando y escriba todos los argumentos necesarios en la fórmula que devuelve el error. Puede que sea necesario usar el Editor de Visual Basic (VBE) para comprobar la función. Para tener acceso a VBE, vaya a la pestaña Desarrollador o presione ALT+F11.
+
+## Una función definida por el usuario que ha escrito no está disponible.
+
+Para corregir este error, compruebe que el libro que contiene la función definida por el usuario está abierto y que esta función funciona correctamente.
+
+## Ha ejecutado una macro que usa una función que devuelve #N/A
+
+Para corregir este error, compruebe que los argumentos de la función son correctos y que se usan en la posición adecuada.
+
+## Edita un archivo protegido que contiene funciones como CELDA y el contenido de las celdas se convierte en errores #N/A
+
+Para solucionar esto, presione Ctrl+Alt+F9 para actualizar la hoja
+
+## ¿Necesita ayuda para comprender los argumentos de una función?
+
+Puede usar el Asistente para funciones para obtener ayuda si no está seguro de los argumentos correctos. Seleccione la celda con la fórmula en cuestión, vaya a la pestaña Fórmulas y presione Insertar función.
+
+ Excel abrirá automáticamente el asistente:
+
+ A medida que haga clic en cada argumento, Excel proporcionará información adecuada para cada uno.
+
+## Uso de #N/A con gráficos
+
+#N/A puede resultar útil Es frecuente usar #N/A al usar datos como en el ejemplo siguiente para gráficos, ya que los valores #N/A no se representarán en un gráfico. Estos son algunos ejemplos de la apariencia de un gráfico con valores de 0 y #N/A.
+
+ En el ejemplo anterior, puede ver que los valores de 0 se representan y se muestran como una línea recta en la parte inferior del gráfico y, después, sube para mostrar el total. En el ejemplo siguiente, verá que los valores de 0 se reemplazan con #N/A.
+
+## ¿Necesitas más ayuda?
+
+Siempre puede preguntar a un experto en Excel Tech Community u obtener soporte técnico en Comunidades.
+
+## Consulte también
+
+ Convertir en número los números guardados como texto
+
+ Función CONSULTAV
+
+ Función BUSCARH
+
+ Función BUSCAR
+
+ Función COINCIDIR
+
+ Información general sobre fórmulas en Excel
+
+ Cómo evitar la ruptura de las fórmulas
+
+ Detectar errores en fórmulas
+
+ Métodos abreviados de teclado de Excel
+
+ Todas las funciones de Excel (orden alfabético)
+
+ Todas las funciones de Excel (por categoría)

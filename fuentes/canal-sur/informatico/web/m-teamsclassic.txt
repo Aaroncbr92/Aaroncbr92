@@ -1,0 +1,104 @@
+URL: https://learn.microsoft.com/es-es/microsoftteams/teams-classic-client-end-of-availability
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Fin de disponibilidad para el cliente clásico de Teams
+
+- Se aplica a: Microsoft Teams
+
+## 
+
+## Información general
+
+Se ha implementado un nuevo cliente de Teams que reemplaza al cliente clásico. Esta implementación implicó la instalación del nuevo cliente de Teams, con lo que Microsoft intenta desinstalar el cliente clásico de Teams después de instalar el nuevo Teams. Este artículo contiene las escalas de tiempo y los detalles de la finalización del soporte y la finalización de la disponibilidad para el cliente clásico de Teams.
+
+### Actualizaciones de escala de tiempo
+
+La implementación del nuevo cliente de Teams está completa. A partir del 1 de julio de 2025, el cliente clásico de Teams ya no está disponible.
+
+ Clientes nativos que excluyen VDI:
+
+La finalización del soporte para el cliente clásico de Teams comenzó el 1 de julio de 2024. La finalización de la disponibilidad del cliente clásico de Teams comenzó el 1 de julio de 2025.
+
+ Línea de tiempo de VDI:
+
+La finalización del soporte para el cliente clásico de Teams en VDI comenzó el 1 de octubre de 2024. La finalización de la disponibilidad del cliente clásico de Teams en VDI comenzó el 1 de julio de 2025.
+
+La escala de tiempo para VDI en relación con los inquilinos de GCCH y DOD. La finalización del soporte de VDI para estos inquilinos comenzó el 1 de octubre de 2024 y la finalización de la disponibilidad comenzó el 1 de julio de 2025.
+
+Para obtener más información sobre VDI, consulte Actualizar a los nuevos Equipos de infraestructura de escritorio virtualizada (VDI).
+
+Los siguientes elementos son los conceptos de escala de tiempo importantes que debe tener en cuenta:
+
+- 
+ Fin de soporte: el final de nuestro cliente clásico de Teams auxiliar. Ya no proporcionamos actualizaciones ni nuevas características para el cliente, ni ayudamos a resolver problemas de soporte técnico con el cliente clásico de Teams.
+
+- 
+ Fin de disponibilidad: el final de la funcionalidad del cliente clásico de Teams. Después de esta fecha, el cliente clásico ya no funciona y los usuarios no pueden trabajar en el cliente de Teams clásico.
+
+### Línea de tiempo para GCC, GCCH, DoD
+
+La finalización de la disponibilidad está aquí para los clientes de GCC, GCCH y DoD.
+
+## Experiencia de usuario
+
+ Classic Teams alcanzó la finalización del soporte el 1 de julio de 2024.
+
+### Uso de la aplicación web
+
+Los usuarios que no pueden actualizar al nuevo cliente de Teams en su dispositivo pueden usar la nueva aplicación web de Teams en los exploradores compatibles en su lugar.
+
+Esta es una lista de los mensajes que puede experimentar en el cliente clásico de Teams después del 30 de junio de 2025:
+
+ | Escenario
+
+ | Advertencia de fin de disponibilidad
+
+ | Fin de disponibilidad
+
+ | Sistema operativo no compatible
+
+ | Teams clásico pronto no estará disponible y el sistema operativo debe actualizarse para ejecutar el nuevo Teams. A partir del 1 de julio de 2025, los equipos clásicos ya no estarán disponibles para su uso. Actualice el sistema operativo o hable con su departamento de TI. Ver los requisitos mínimos
+
+ | Classic Teams ya no está disponible y el sistema operativo debe actualizarse para ejecutar el nuevo Teams. A partir del 1 de julio de 2025, teams clásico ya no está disponible para su uso. Actualice el sistema operativo o hable con su departamento de TI. Para probar el nuevo Teams, puede probarlo en la web. Ver los requisitos mínimos
+
+ | Directiva de GPO de Windows para usuarios bloqueados
+
+ | Los equipos clásicos pronto no estarán disponibles, pero debido a la directiva de la organización, no pudimos actualizarle a los nuevos Equipos. A partir del 1 de julio de 2025, los equipos clásicos ya no estarán disponibles para su uso. Para actualizar al nuevo Teams, póngase en contacto con su departamento de TI. Más información sobre problemas de instalación
+
+ | Classic Teams ya no está disponible, pero debido a la directiva de la organización, no pudimos actualizarle al nuevo Teams. A partir del 1 de julio de 2025, teams clásico ya no está disponible para su uso. Ponte en contacto con el departamento de TI para obtener más información. Para probar el nuevo Teams, puede probarlo en la web. Más información sobre problemas de instalación
+
+ | Cualquier problema de instalación e inicio
+
+ | Teams clásico pronto no estará disponible y no pudimos actualizarlo al nuevo Teams. A partir del 1 de julio de 2025, los equipos clásicos ya no estarán disponibles para su uso. Para actualizar al nuevo Teams, póngase en contacto con su departamento de TI. Más información sobre problemas de instalación
+
+ | Classic Teams ya no está disponible y no pudimos actualizarlo al nuevo Teams. A partir del 1 de julio de 2025, teams clásico ya no está disponible para su uso. Ponte en contacto con el departamento de TI para obtener más información. Para probar el nuevo Teams, puede probarlo en la web. Más información sobre problemas de instalación
+
+Importante
+
+Para los clientes que desinstalen los equipos clásicos y experimenten un problema con el complemento para reuniones de Teams, hay pasos de solución de problemas disponibles aquí: Falta el complemento para reunión de Teams de Outlook y el nuevo Teams.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-07-16

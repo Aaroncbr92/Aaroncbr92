@@ -1,0 +1,122 @@
+URL: https://learn.microsoft.com/es-es/windows/security/application-security/application-control/user-account-control/how-it-works
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Cómo funciona el Control de cuentas de usuario
+
+- Se aplica a: ✅ Windows 11, ✅ Windows 10, ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+El Control de cuentas de usuario (UAC) es una parte clave de la seguridad de Windows. UAC reduce el riesgo de malware limitando la capacidad de que el código malintencionado se ejecute con privilegios de administrador. En este artículo se describe cómo funciona UAC y cómo interactúa con los usuarios finales.
+
+## Proceso e interacciones de UAC
+
+Con UAC, cada aplicación que requiera el token de acceso de administrador debe pedir consentimiento al usuario final. La única excepción es la relación que existe entre los procesos primarios y secundarios. Los procesos secundarios heredan el token de acceso del usuario del proceso primario. Sin embargo, tanto los procesos primarios como secundarios deben tener el mismo nivel de integridad.
+
+Windows protege los procesos marcando sus niveles de integridad. Los niveles de integridad son medidas de confianza:
+
+- Una aplicación de alta integridad es aquella que realiza tareas que modifican los datos del sistema, como una aplicación de partición de disco.
+
+- Una aplicación de baja integridad es aquella que realiza tareas que podrían poner en peligro el sistema operativo, como un explorador web.
+
+Las aplicaciones con niveles de integridad inferiores no pueden modificar los datos de las aplicaciones con niveles de integridad más altos. Cuando un usuario estándar intenta ejecutar una aplicación que requiere un token de acceso de administrador, UAC requiere que el usuario proporcione credenciales de administrador válidas.
+
+Para comprender mejor cómo funciona este proceso, echemos un vistazo más de cerca al proceso de inicio de sesión de Windows.
+
+## Proceso de inicio de sesión
+
+En el diagrama siguiente se muestra cómo el proceso de inicio de sesión de un administrador difiere del proceso de inicio de sesión de un usuario estándar.
+
+De forma predeterminada, los usuarios estándar y administrador acceden a los recursos y ejecutan aplicaciones en el contexto de seguridad de un usuario estándar.
+
+Cuando un usuario inicia sesión, el sistema crea un token de acceso para ese usuario. El token de acceso contiene información sobre el nivel de acceso que se concede al usuario, incluidos los identificadores de seguridad (SID) específicos y los privilegios de Windows.
+
+Cuando un administrador inicia sesión, se crean dos tokens de acceso independientes para el usuario: un token de acceso de usuario estándar y un token de acceso de administrador. Token de acceso de usuario estándar:
+
+- Contiene la misma información específica del usuario que el token de acceso de administrador, pero se quitan los privilegios administrativos de Windows y los SID.
+
+- Se usa para iniciar aplicaciones que no realizan tareas administrativas (aplicaciones de usuario estándar)
+
+- Se usa para mostrar el escritorio mediante la ejecución del proceso explorer.exe. Explorer.exe es el proceso primario del que todos los demás procesos iniciados por el usuario heredan su token de acceso. Como resultado, todas las aplicaciones se ejecutan como un usuario estándar a menos que un usuario proporcione consentimiento o credenciales para aprobar una aplicación para usar un token de acceso administrativo completo.
+
+Un usuario que sea miembro del grupo Administradores puede iniciar sesión, examinar la Web y leer el correo electrónico mientras usa un token de acceso de usuario estándar. Cuando el administrador necesita realizar una tarea que requiera el token de acceso de administrador, Windows solicita automáticamente al usuario la aprobación. Este símbolo del sistema se denomina símbolo del sistema de elevación y su comportamiento se puede configurar a través de la directiva o el registro.
+
+## La experiencia del usuario de UAC
+
+Cuando UAC está habilitado, la experiencia de usuario de los usuarios estándar es diferente de la de los usuarios de administrador. El método recomendado y más seguro para ejecutar Windows es asegurarse de que la cuenta de usuario principal es un usuario estándar. La ejecución como usuario estándar ayuda a maximizar la seguridad de un entorno administrado. Con el componente de elevación UAC integrado, los usuarios estándar pueden realizar fácilmente una tarea administrativa escribiendo credenciales válidas para una cuenta de administrador local.
+
+El componente de elevación UAC integrado predeterminado para los usuarios estándar es el símbolo del sistema de credenciales.
+
+La alternativa a la ejecución como usuario estándar es ejecutarse como administrador en Administración modo de aprobación. Con el componente de elevación UAC integrado, los miembros del grupo de administradores locales pueden realizar fácilmente una tarea administrativa proporcionando aprobación.
+
+El componente de elevación UAC integrado predeterminado para una cuenta de administrador en Administración modo de aprobación se denomina símbolo del consentimiento.
+
+### El símbolo del sistema de credenciales
+
+El símbolo del sistema de credenciales se presenta cuando un usuario estándar intenta realizar una tarea que requiere el token de acceso administrativo de un usuario. Los administradores también pueden ser necesarios para proporcionar sus credenciales si establecen el valor de la directiva Control de cuentas de usuario: Comportamiento de la solicitud de elevación para administradores en Administración modo de aprobación en Solicitar credenciales.
+
+### La solicitud de consentimiento
+
+El símbolo del consentimiento se presenta cuando un usuario intenta realizar una tarea que requiere el token de acceso administrativo de un usuario.
+
+### Solicitudes de elevación de UAC
+
+Las solicitudes de elevación de UAC están codificadas por colores para que sean específicas de la aplicación, lo que permite identificar más fácilmente el posible riesgo de seguridad de una aplicación. Cuando una aplicación intenta ejecutarse con el token de acceso completo de un administrador, Windows analiza primero el archivo ejecutable para determinar su publicador. Las aplicaciones se dividen primero en tres categorías basadas en el publicador del archivo:
+
+- Windows
+
+- Publicador comprobado (firmado)
+
+- Publicador no comprobado (sin firmar)
+
+La codificación de color del símbolo del sistema de elevación es la siguiente:
+
+- Fondo gris: la aplicación es una aplicación administrativa de Windows, como un elemento de Panel de control, o una aplicación firmada por un publicador comprobado 
+
+- Fondo amarillo: la aplicación está sin signo o firmada, pero no es de confianza 
+
+### Icono de escudo
+
+Algunos elementos Panel de control, como fecha y hora, contienen una combinación de operaciones de administrador y de usuario estándar. Standard los usuarios pueden ver el reloj y cambiar la zona horaria, pero se requiere un token de acceso de administrador completo para cambiar la hora del sistema local. A continuación se muestra una captura de pantalla del elemento de Panel de control fecha y hora.
+
+El icono de escudo del botón Cambiar fecha y hora... indica que el proceso requiere un token de acceso de administrador completo.
+
+## Protección del símbolo del sistema de elevación
+
+El proceso de elevación se protege aún más dirigiendo el mensaje al escritorio seguro. De forma predeterminada, las solicitudes de consentimiento y credenciales se muestran en el escritorio seguro. Solo los procesos de Windows pueden acceder al escritorio seguro. Para mayores niveles de seguridad, se recomienda mantener el control de cuenta de usuario: cambie al escritorio seguro al solicitar la configuración de la directiva de elevación habilitada.
+
+Cuando un archivo ejecutable solicita elevación, el escritorio interactivo, también denominado escritorio de usuario, se cambia al escritorio seguro. El escritorio seguro atenúa el escritorio del usuario y muestra un mensaje de elevación al que se debe responder antes de continuar. Cuando el usuario selecciona Sí o No, el escritorio vuelve al escritorio del usuario.
+
+Nota
+
+A partir de Windows Server 2019, no es posible pegar el contenido del Portapapeles en el escritorio seguro. Este comportamiento es el mismo que el de las versiones del sistema operativo cliente de Windows que se admiten actualmente.
+
+El malware puede presentar una imitación del escritorio seguro, pero cuando el control de cuenta de usuario: comportamiento de la solicitud de elevación para administradores en Administración configuración de directiva del modo de aprobación se establece en Solicitar consentimiento, el malware no obtiene elevación si el usuario selecciona Sí en la imitación. Si la configuración de la directiva se establece en Solicitar credenciales, es posible que el malware que imita el símbolo del sistema de credenciales pueda recopilar las credenciales del usuario. Sin embargo, el malware no obtiene privilegios elevados y el sistema tiene otras protecciones que mitigan el malware de tomar el control de la interfaz de usuario incluso con una contraseña cosechada.
+
+Aunque el malware podría presentar una imitación del escritorio seguro, este problema no puede producirse a menos que un usuario haya instalado previamente el malware en el equipo. Dado que los procesos que requieren un token de acceso de administrador no se pueden instalar de forma silenciosa cuando UAC está habilitado, el usuario debe proporcionar consentimiento explícitamente seleccionando Sí o proporcionando credenciales de administrador. El comportamiento específico del símbolo del sistema de elevación de UAC depende de las directivas de seguridad.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-04-23

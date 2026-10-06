@@ -1,0 +1,155 @@
+URL: https://support.microsoft.com/es-es/windows/experience/startup-boot/configure-startup-applications-in-windows
+Leído: 2026-10-05
+
+# Configurar las aplicaciones de inicio en Windows
+
+ Se aplica a
+Windows 11 Windows 10 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo configuro aplicaciones de inicio desde Configuración?
+
+ ¿Cómo configuro las aplicaciones de inicio desde el Administrador de tareas?
+
+ ¿Cómo soluciono el error 'No pudimos encontrar esta aplicación' al iniciar?
+
+## Resumen
+
+Cuando se trata de optimizar su dispositivo Windows, una de las áreas clave de optimización es el proceso de inicio. Las aplicaciones que se ejecutan automáticamente al arrancar el dispositivo pueden afectar tanto a la velocidad de inicio como al rendimiento general del sistema. Al personalizar las aplicaciones que se inician al inicio, puede optimizar su rutina, asegurándose de que solo las herramientas que necesita para sus tareas diarias estén listas y esperándolo.
+
+En función de cómo se instalen y registren las aplicaciones en Windows, existen diferentes maneras de configurar su comportamiento de inicio:
+
+- Cualquier aplicación registrada en Windows con una tarea de inicio se puede configurar desde Configuración o desde el Administrador de tareas.
+
+- Otras aplicaciones se pueden configurar mediante el Explorador de archivos.
+
+Expande cada sección para obtener más información.
+
+## Configurar las aplicaciones de inicio desde Configuración
+
+- 
+Seleccione Inicio>Configuración> Iniciode aplicaciones>.
+
+ Abrir la configuración de inicio
+
+- 
+Para cualquiera de las aplicaciones de la lista:
+
+- Establece el botón de alternancia en Activado para iniciar la aplicación automáticamente al iniciar sesión.
+
+- Establezca el botón de alternancia en Desactivado para evitar que la aplicación se inicie automáticamente.
+
+- 
+Si desea cambiar la configuración avanzada de esa aplicación, seleccione el botón de contenido adicional y realice los cambios que desee
+
+Si la aplicación que desea configurar no aparece en la lista de inicio, puede configurar su inicio desde el Explorador de archivos.
+
+## Configurar las aplicaciones de inicio desde el Administrador de tareas
+
+El Administrador de tareas proporciona la misma lista de aplicaciones de inicio ofrecidas por Configuración. Puede configurar las aplicaciones que se ejecutan al inicio con ambas herramientas, pero ellas presentan la información de forma ligeramente diferente.
+
+El Administrador de tareas proporciona una vista más detallada, incluido el impacto que tiene cada aplicación en el proceso de inicio. Esto puede ser especialmente útil para solucionar problemas de rendimiento durante el inicio del sistema.
+
+- 
+Haga clic con el botón derecho en Inicio y seleccione Administrador de tareas.
+
+- 
+Selecciona la pestaña Aplicaciones de inicio .
+
+- 
+Seleccione la aplicación que desea configurar:
+
+- Seleccione Habilitar para iniciar la aplicación automáticamente al iniciar sesión.
+
+- Seleccione Deshabilitar para evitar que la aplicación se inicie automáticamente.
+
+El Administrador de tareas muestra el impacto de cada una de las aplicaciones en tu experiencia de inicio:
+
+- 
+ Ninguno: la aplicación de inicio está deshabilitada
+
+- 
+ No medido: no hay datos disponibles para medir la aplicación de inicio, la aplicación de inicio está habilitada
+
+- 
+ Bajo impacto: el uso total de la CPU tarda menos de 300 milisegundos y el uso total del disco es inferior a 292 kilobytes
+
+- 
+ Impacto medio: el uso total de la CPU tarda menos de 1 segundo pero más de 300 milisegundos o el uso total del disco es inferior a 3 megabytes pero más de 292 kilobytes
+
+- 
+ Alto impacto: el uso total de la CPU tarda más de 1 segundo o el uso total del disco es de más de 3 megabytes
+
+Si la aplicación que desea configurar no aparece en la lista de inicio, puede configurar su inicio desde el Explorador de archivos.
+
+## Configurar las aplicaciones de inicio desde el Explorador de archivos
+
+Para las aplicaciones que no están registradas en Windows con una tarea de inicio, puede usar el Explorador de archivos. El proceso consiste en copiar o crear un acceso directo al ejecutable de la aplicación en cualquiera de estas carpetas:
+
+- 
+
+ shell:startup Si está configurando el comportamiento de inicio para el usuario actual
+
+Nota
+
+La ruta de acceso corresponde a `%userprofile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`
+
+- 
+
+ shell:inicio común Si está configurando el comportamiento de inicio para todos los usuarios que usan el dispositivo
+
+Nota
+
+La ruta de acceso corresponde a `%ProgramData%\Microsoft\Windows\Start Menu\Programs\Startup`
+
+A continuación se muestran los pasos.
+
+- 
+Haga clic con el botón derecho en Inicio y seleccione Ejecutar.
+
+- 
+En el cuadro de diálogo Ejecutar , escriba shell:appsfolderEntrar y selecciónelo.
+
+- Aparecerá una ventana del Explorador de archivos que contiene una lista de todas las aplicaciones instaladas en el dispositivo. Mantenga esta primera ventana abierta.
+
+- 
+Haga clic con el botón derecho en Inicio y seleccione Ejecutar.
+
+- 
+En el cuadro de diálogo Ejecutar , escriba o shell:startup y shell:common startupseleccione Entrar.
+
+- Se abrirá una segunda ventana del Explorador de archivos que contiene una lista de aplicaciones que se inician automáticamente cuando un usuario inicia sesión.
+
+- 
+Arrastre y coloque las aplicaciones que desee iniciar automáticamente desde la primera ventana a la segunda.
+
+Si desea quitar aplicaciones de la carpeta de inicio, elimine los vínculos de la segunda ventana.
+
+## Corregir el error: No pudimos encontrar esta aplicación
+
+Si ve el mensaje No pudimos encontrar esta aplicación como título de la aplicación en Configuración, es posible que la aplicación esté en una unidad extraíble, una unidad de red o que la ruta de acceso a la aplicación no exista. Esto también puede ocurrir si se desinstaló una aplicación, por lo que puede intentar reinstalar la aplicación para intentar solucionarlo.
+
+Para obtener más información sobre la aplicación que falta, seleccione el icono situado junto al botón de alternancia Activar / y desactivar de la aplicación.
+
+Cuando no hay una ruta de acceso válida, una ventana muestra la ubicación del Registro o la ruta de acceso del archivo que contiene la ruta de acceso interrumpida. Si la ruta apunta a una ubicación del Registro, puede usar el Editor del Registro y encontrar la ruta de acceso interrumpida.
+
+### Aplicaciones de inicio en el Registro
+
+Las aplicaciones de inicio en Windows se pueden almacenar en ubicaciones específicas del Registro.
+
+- 
+Para las aplicaciones que se ejecutan en el inicio para todos los usuarios, las rutas de acceso del Registro son:
+
+- `HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Run`
+
+- `HKLM\Software\Microsoft\Windows\CurrentVersion\Run`
+
+- 
+Para las aplicaciones que se ejecutan en el inicio para el usuario actual, la ruta de acceso del Registro es:
+
+- `HKCU\Software\Microsoft\Windows\CurrentVersion\Run`
+
+Precaución
+
+ La modificación del Registro puede tener consecuencias no deseadas. Es importante tener cuidado y hacer una copia de seguridad del Registro antes de realizar cambios.

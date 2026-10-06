@@ -1,0 +1,63 @@
+URL: https://support.microsoft.com/es-es/office/work-together-on-office-documents
+Leído: 2026-10-05
+
+# Trabajar conjuntamente en documentos de Office
+
+ Se aplica a
+Excel para Microsoft 365 Word para Microsoft 365 PowerPoint para Microsoft 365 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo empiezo a almacenar documentos en OneDrive?
+
+ Muéstrame cómo obtener un enlace usando el asistente de Staff Notebook.
+
+ Colaboremos en documentos de Microsoft 365.
+
+Con Microsoft 365 es fácil trabajar con otros usuarios, incluidas las personas que no tienen Microsoft Office, ya que puede enviar vínculos a documentos en lugar de enviar archivos adjuntos, que pueden revisar (y editar, si se les permite) en Microsoft 365 para la Web. De este modo, ahorrará almacenamiento de correo electrónico y evitará tener que conciliar varias versiones del mismo documento.
+
+## Para empezar, almacene el documento en OneDrive
+
+ Cargue los documentos en OneDrive y, después, compártalos.
+
+Nota
+
+Si usa Office para la Web para la escuela o el trabajo, esta es información específica de las bibliotecas de equipo y de OneDrive para la Empresa.
+
+Para enviar un vínculo, haga clic en Compartir en la parte superior de la ventana del programa Microsoft 365:
+
+Cuando sus amigos hagan clic en el vínculo que envíe, el documento se abrirá en el explorador de ellos.
+
+Para editar, pueden hacer clic en el comando para editar en el programa Office para la Web.
+
+## Trabajar con otras personas en Microsoft 365
+
+Cuando esté editando un archivo en Office, es posible que vea una notificación de que otros usuarios también están trabajando en el archivo. No hay ningún truco especial para empezar a trabajar juntos en un documento. Edite como lo haría normalmente, y si otros usuarios también están editando el documento, Office le avisará de su presencia y le mostrará en qué parte del archivo están trabajando.
+
+People puede estar trabajando en Office 2010, o en Office para Mac 2011, o posterior.
+
+Nota
+
+- Dado que Microsoft 365 guarda automáticamente los cambios de todos los usuarios, es posible que los comandos Deshacer y Rehacer no funcionen según lo esperado.
+
+- En Excel, cuando una persona cambia el criterio de ordenación o filtra datos, la vista cambia para todos los usuarios que están editando el libro. Por lo tanto, tenga esto presente al ordenar y filtrar cuando haya otras personas trabajando en el libro.
+
+## Trabajar con otras personas en OneNote
+
+Si permite que su bloc de notas esté disponible para que otros usuarios lo puedan editar, podrá trabajar en el bloc de notas simultáneamente con sus amigos. Esto resulta útil con los blocs de notas en los que se recopila información de un grupo de personas, como una sesión de lluvia de ideas o un proyecto grupal. El bloc de notas funciona como una página wiki donde todos contribuyen. Podrá ver quién hizo qué y revertir una página a una versión anterior si fuera necesario.
+
+Si usted u otra persona tiene OneNote 2010 o posterior, puede trabajar en las aplicaciones móviles, web y de escritorio de OneNote mientras otras personas trabajan en el mismo bloc de notas. Puede compartir el bloc de notas en OneDrive, al igual que en documentos de Excel, Word y PowerPoint, pero también puede compartir el bloc de notas en OneNote 2010 o posterior.
+
+Haga clic en la pestaña Archivo; luego, en la pestaña Información, haga clic en Invitar personas a este bloc de notas, debajo del nombre del bloc de notas.
+
+## Vea también
+
+ ¿Qué es el autoguardado?
+
+ Ver versiones anteriores de los archivos de Office
+
+ Trabajo conjunto en un documento de Word Online
+
+ Colaborar en libros de Excel al mismo tiempo con la coautoría
+
+ Trabajar con otras personas en una presentación

@@ -1,0 +1,170 @@
+URL: https://learn.microsoft.com/es-es/windows-server/storage/file-server/ntfs-overview
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Introducción a NTFS
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10
+
+## 
+
+El nuevo sistema de archivos de tecnología (NTFS) es el sistema de archivos predeterminado para el sistema operativo moderno basado en Windows. Proporciona características avanzadas, incluidos descriptores de seguridad, cifrado, cuotas de disco y compatibilidad con metadatos enriquecidos, lo que mejora la seguridad y la administración de datos. Además, NTFS se integra perfectamente con volúmenes compartidos de clúster (CSV), lo que permite un almacenamiento de alta disponibilidad al que varios nodos de un clúster de conmutación por error pueden acceder simultáneamente. Esta integración garantiza la disponibilidad y resistencia continuas de los datos.
+
+## Mayor confiabilidad
+
+NTFS mejora la confiabilidad manteniendo un archivo de registro basado en transacciones e información de punto de control. Si se produce un error del sistema, NTFS usa este registro para restaurar automáticamente la coherencia del sistema de archivos durante el siguiente inicio, minimizando el riesgo de pérdida de datos. Cuando se detecta un sector incorrecto, NTFS vuelve a asignar dinámicamente el clúster afectado a uno correcto, marca el clúster original como inutilizable y garantiza que se conserven los datos. Por ejemplo, después de un bloqueo del sistema, NTFS puede recuperar los cambios reproduciendo su registro de transacciones, ayudando a mantener la integridad de los datos y reducir el tiempo de inactividad.
+
+NTFS incluye una característica denominada NTFS de recuperación automática, que detecta y repara automáticamente daños menores en el sistema de archivos en segundo plano, sin necesidad de que el volumen se desconecte. Este enfoque proactivo ayuda a mantener la integridad de los datos y a minimizar las interrupciones en los usuarios y las aplicaciones.
+
+Para obtener daños más significativos en el sistema de archivos, la `chkdsk` utilidad puede examinar y reparar volúmenes NTFS mientras los mantiene en línea, lo que minimiza el tiempo de inactividad. El único período en el que el volumen podría no estar disponible es durante la fase necesaria para restaurar la coherencia de los datos. Cuando se usa NTFS con CSV, las reparaciones se pueden realizar sin tiempo de inactividad, lo que garantiza la disponibilidad continua. Para obtener más información, consulte Mantenimiento de NTFS y Chkdsk.
+
+## Mayor seguridad
+
+- 
+
+ Control de acceso granular con ACL: NTFS permite asignar permisos detallados a archivos y carpetas mediante listas de control de acceso (ACL). Puede especificar qué usuarios y grupos tienen acceso, definir el tipo de acceso, como lectura, escritura o modificación, y adaptar la seguridad para cumplir los requisitos de la organización.
+
+- 
+
+ Compatibilidad integrada con cifrado de unidad BitLocker: NTFS funciona perfectamente con el cifrado de unidad BitLocker para proteger los datos confidenciales en los volúmenes. BitLocker aplica características de seguridad basadas en hardware como el módulo de plataforma segura (TPM) para proporcionar cifrado de dispositivos, protegiendo los datos incluso si se quita una unidad e instala en otro sistema. Esto ayuda a evitar el acceso no autorizado a los datos de usuario y a los archivos críticos del sistema. Para obtener más información, consulte Introducción a BitLocker.
+
+## Compatibilidad con volúmenes grandes
+
+NTFS admite grandes volúmenes con tamaños máximos determinados por la versión de Windows y el tamaño del clúster elegido. En Windows Server 2019 y versiones posteriores, y windows 10 versión 1709 y posteriores, los volúmenes NTFS pueden ser tan grandes como 8 petabytes (PB). Las versiones anteriores de Windows admiten volúmenes de hasta 256 terabytes (TB). El volumen máximo real y el tamaño de archivo dependen del tamaño del clúster y del número total de clústeres admitidos por NTFS (hasta 232 – 1 clústeres). En la tabla siguiente se resumen los tamaños de archivo y volumen admitidos más grandes para cada tamaño de clúster:
+
+ | Tamaño del clúster
+
+ | Mayor volumen y archivo
+
+ | 4 KB (tamaño predeterminado)
+
+ | 16 TB
+
+ | 8 KB
+
+ | 32 TB
+
+ | 16 KB
+
+ | 64 TB
+
+ | 32 KB
+
+ | 128 TB
+
+ | 64 KB (máx. anterior)
+
+ | 256 TB
+
+ | 128 KB
+
+ | 512 TB
+
+ | 256 KB
+
+ | 1 PB
+
+ | 512 KB
+
+ | 2 PB
+
+ | 1024 KB
+
+ | 4 PB
+
+ | 2048 KB (tamaño máx.)
+
+ | 8 PB
+
+Si intenta montar un volumen con un tamaño de clúster mayor que el máximo admitido de la versión de Windows que usa, obtendrá el error STATUS_UNRECOGNIZED_VOLUME.
+
+Importante
+
+Algunos servicios y aplicaciones podrían aplicar sus propios límites en tamaños de archivo y volumen. Por ejemplo, al usar la característica Versiones anteriores o las aplicaciones de copia de seguridad que dependen de instantáneas del Servicio de instantáneas de volumen (VSS) (sin un contenedor SAN o RAID), el tamaño máximo de volumen admitido es de 64 TB. Según el rendimiento de la carga de trabajo y el almacenamiento, es posible que tenga que usar volúmenes más pequeños.
+
+## Requisitos de formato para archivos de gran tamaño
+
+Para permitir la extensión adecuada de archivos grandes `.vhdx` , hay nuevas recomendaciones para dar formato a volúmenes. Al dar formato a volúmenes que se usan con Desduplicación de datos o que hospedan archivos grandes, como `.vhdx` archivos mayores de 1 TB, use el cmdlet Format-Volume con los parámetros siguientes:
+
+`Format-Volume -DriveLetter <DriveLetter> -FileSystem NTFS -AllocationUnitSize 65536 -UseLargeFRS
+`
+
+En este ejemplo, el parámetro AllocationUnitSize establece el tamaño de la unidad de asignación en 64 KB (65 536 bytes) y UseLargeFRS permite admitir segmentos de registro de archivos grandes.
+
+También puede ejecutar el comando en un símbolo del `format` sistema con privilegios elevados, donde `/L` da formato a un volumen grande de segmento de registro de archivos (FRS) y `/A:64k` establece un tamaño de unidad de asignación de 64 KB:
+
+`format <DriveLetter> /l /a:64k
+`
+
+## Nombre y ruta de acceso máximos de un archivo
+
+NTFS admite nombres de archivo largos y rutas de acceso de longitud ampliada, con los siguientes valores máximos:
+
+- 
+
+ Compatibilidad con nombres de archivo largos, con compatibilidad con versiones anteriores: NTFS admite nombres de archivo largos, almacenando un alias 8.3 en el disco (en Unicode) para proporcionar compatibilidad con sistemas de archivos que imponen un límite 8.3 en los nombres de archivo y las extensiones. Si es necesario, por motivos de rendimiento, puede deshabilitar de forma selectiva el alias 8.3 en volúmenes NTFS individuales en Windows Server 2008 R2, Windows 8 y versiones más recientes del sistema operativo Windows. En Windows Server 2008 R2 y sistemas posteriores, los nombres cortos se deshabilitan de forma predeterminada cuando se da formato a un volumen mediante el sistema operativo. En cuanto a la compatibilidad de aplicaciones, los nombres cortos todavía están habilitados en el volumen del sistema.
+
+- 
+
+ Compatibilidad con rutas de acceso de longitud extendida: muchas funciones de api de Windows tienen versiones Unicode que permiten una ruta de acceso de longitud extendida de aproximadamente 32 767 caracteres. Ese total supera el límite de ruta de acceso de 260 caracteres definido por la configuración de MAX_PATH. Para obtener requisitos detallados de formato de nombre de archivo y ruta de acceso, así como instrucciones para implementar rutas de acceso de longitud extendida, consulte Nomenclatura de archivos, rutas de acceso y espacios de nombres.
+
+- 
+
+ Almacenamiento en clúster: cuando se usa en clústeres de conmutación por error, NTFS admite volúmenes disponibles continuamente a los que pueden acceder varios nodos de clúster simultáneamente cuando se usan con el sistema de archivos CSV. Para más información, consulte Uso de volúmenes compartidos de clúster en un clúster de conmutación por error.
+
+## Asignación flexible de capacidad
+
+Si el espacio de un volumen está limitado, NTFS proporciona las siguientes formas de trabajar con la capacidad de almacenamiento de un servidor:
+
+- Usar cuotas de disco para realizar el seguimiento y controlar el uso del espacio de disco en volúmenes NTFS para usuarios individuales.
+
+- Usar la compresión del sistema de archivos para maximizar la cantidad de datos que se pueden almacenar.
+
+- Aumentar el tamaño de un volumen NTFS agregando espacio sin asignar del mismo disco o de otro disco.
+
+- Montar un volumen en cualquier carpeta vacía en un volumen NTFS local si se agotan las letras de unidad o tienes que crear espacio adicional al que se pueda acceder desde una carpeta existente.
+
+## Consulte también
+
+- 
+ Documentación de Almacenamiento de Windows Server
+
+- 
+ Recomendaciones de tamaño de clúster para ReFS y NTFS
+
+- 
+ Introducción al sistema de archivos resistente (ReFS)
+
+- 
+ Novedades de NTFS para Windows Server (Windows Server 2012 R2)
+
+- 
+ Novedades de NTFS (Windows Server 2008 R2, Windows 7)
+
+- 
+ Acerca de NTFS transaccional
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

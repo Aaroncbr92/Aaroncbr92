@@ -1,0 +1,105 @@
+URL: https://support.microsoft.com/es-es/office/insertar-una-tabla-de-contenido-882e8564-0edb-435e-84b5-1d8552ccf0c0
+Leído: 2026-10-05
+
+# Insertar una tabla de contenido
+
+ Se aplica a
+Word para Microsoft 365 Word para Microsoft 365 para Mac Word 2024 Word 2024 para Mac Word 2021 Word 2021 para Mac 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo inserto una tabla de contenido en Word?
+
+ ¿Qué es una tabla de contenido en Word?
+
+ Simplifica la inserción de una tabla de contenido con Copilot.
+
+Una tabla de contenido en Word se basa en los títulos del documento.
+
+- 
+
+ Windows
+
+- 
+
+ macOS
+
+- 
+
+ Web
+
+### Crear la tabla de contenido
+
+- Coloque el cursor donde desee agregar la tabla de contenido.
+
+- Vaya aTabla de contenido referencias>. y elige un estilo automático.
+
+- Si hace cambios en su documento que afectan a la tabla de contenido, actualice la tabla de contenido haciendo clic con el botón derecho en la tabla de contenido y seleccionando Actualizar campo.
+
+Para actualizar la tabla de contenido manualmente, vea Actualizar una tabla de contenido.
+
+### Si te faltan entradas
+
+Las entradas que faltan a menudo se producen porque los títulos no tienen formato de títulos.
+
+- 
+Para cada título que desee en la tabla de contenido, seleccione el texto del título.
+
+- 
+Vaya aEstilos de inicio> y, después, elija Título 1.
+
+- 
+Actualice la tabla de contenido.
+
+Para actualizar la tabla de contenido manualmente, vea Actualizar una tabla de contenido.
+
+### Crear la tabla de contenido
+
+Word utiliza los títulos del documento para generar una tabla de contenido automática que se puede actualizar cuando cambie el nivel, la secuencia o el texto del título.
+
+- 
+Haga clic en el lugar donde desea insertar la tabla de contenido, normalmente al principio del documento.
+
+- 
+Seleccione Referencias>tabla de contenido y, a continuación, elija un estilo de tabla de contenido automática de la lista.
+
+Nota
+
+Si usa un estilo de Tabla de contenido manual, Word no usará los títulos para crear una tabla de contenido y no podrá actualizarlos automáticamente. En su lugar, Word usará texto de marcador de posición para crear el aspecto de la tabla de contenido a fin de que se pueda escribir manualmente cada entrada en la tabla de contenido. Para actualizar la tabla de contenido manual, vea Actualizar una tabla de contenido.
+
+Si desea dar formato o personalizar la tabla de contenido, puede. Por ejemplo, puede cambiar la fuente, el número de niveles de título y si desea insertar líneas de puntos entre las entradas y los números de página.
+
+### Si te faltan entradas
+
+Las entradas que faltan a menudo se producen porque los títulos no tienen formato de títulos.
+
+- 
+Para cada título que desee en la tabla de contenido, seleccione el texto del título.
+
+- 
+Vaya aEstilosde inicio> y, después, elija Título 1.
+
+- 
+Actualice la tabla de contenido.
+
+Para actualizar la tabla de contenido manualmente, vea Actualizar una tabla de contenido.
+
+Word utiliza los títulos del documento para generar una tabla de contenido automática que se puede actualizar cuando cambie el nivel, la secuencia o el texto del título.
+
+- Haga clic donde desee insertar la tabla de contenido (normalmente cerca del principio del documento).
+
+- En la cinta de la barra de herramientas, seleccione Referencias. 
+
+- Seleccione Insertar tabla de contenido. Se inserta la tabla de contenido, que muestra los títulos y la numeración de páginas en el documento.
+
+Si realiza cambios en el documento que afectan a la tabla de contenido, puede actualizarla haciendo clic con el botón derecho en la tabla y seleccionando Actualizar tabla de contenido.
+
+Intente insertar una tabla de contenido en los documentos de Word para la Web.
+
+### Ir al tutorial
+
+En la Word de escritorio, vaya a Archivo>nuevo y busque tabla de contenido.
+
+## Consulte también
+
+ Actualizar una tabla de contenido

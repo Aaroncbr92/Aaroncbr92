@@ -1,0 +1,139 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/ipconfig
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# ipconfig
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Muestra todos los valores actuales de configuración de red TCP/IP y actualiza la configuración del Protocolo de configuración dinámica de host (DHCP) y del sistema de nombres de dominio (DNS). Si se usa sin parámetros, ipconfig muestra las direcciones IPv6 y de la versión 4 del Protocolo de Internet (IPv4), la máscara de subred y la puerta de enlace predeterminada para todos los adaptadores.
+
+## Syntax
+
+`ipconfig [/allcompartments] [/all] [/renew [<adapter>]] [/release [<adapter>]] [/renew6[<adapter>]] [/release6 [<adapter>]] [/flushdns] [/displaydns] [/registerdns] [/showclassid <adapter>] [/setclassid <adapter> [<classID>]]
+`
+
+### Parameters
+
+ | Parameter
+
+ | Description
+
+ | /all
+
+ | Muestra la configuración completa de TCP/IP para todos los adaptadores. Los adaptadores pueden representar interfaces físicas, como adaptadores de red instalados o interfaces lógicas, como conexiones de acceso telefónico local.
+
+ | /displaydns
+
+ | Muestra el contenido de la caché del solucionador de cliente DNS, que incluye ambas entradas precargadas desde el archivo hosts local y los registros de recursos obtenidos recientemente para las consultas de nombres resueltas por el equipo. El servicio cliente DNS usa esta información para resolver rápidamente los nombres consultados con frecuencia antes de consultar sus servidores DNS configurados.
+
+ | /flushdns
+
+ | Vacía y restablece el contenido de la caché de resolución del cliente DNS. Durante la solución de problemas de DNS, puede usar este procedimiento para descartar entradas de caché negativas de la memoria caché, así como cualquier otra entrada que se haya agregado dinámicamente.
+
+ | /registerdns
+
+ | Inicia el registro dinámico manual para los nombres DNS y las direcciones IP que están configurados en un equipo. Puede usar este parámetro para solucionar un error en el registro de nombres DNS o resolver un problema de actualización dinámica entre un cliente y el servidor DNS sin reiniciar el equipo cliente. La configuración de DNS en las propiedades avanzadas del protocolo TCP/IP determina qué nombres están registrados en DNS.
+
+ | /Lanzamiento `[<adapter>]`
+
+ | Envía un mensaje DHCPRELEASE al servidor DHCP para liberar la configuración DHCP actual y descartar la configuración de la dirección IP para todos los adaptadores (si no se especifica un adaptador) o para un adaptador específico si se incluye el parámetro del adaptador . Este parámetro deshabilita TCP/IP para los adaptadores configurados para obtener automáticamente una dirección IP. Para especificar un nombre de adaptador, escriba el nombre del adaptador que aparece cuando usa ipconfig sin parámetros.
+
+ | /release6`[<adapter>]`
+
+ | Envía un mensaje DHCPRELEASE al servidor DHCPv6 para liberar la configuración DHCP actual y descartar la configuración de dirección IPv6 para todos los adaptadores (si no se especifica un adaptador) o para un adaptador específico si se incluye el parámetro del adaptador . Este parámetro deshabilita TCP/IP para los adaptadores configurados para obtener automáticamente una dirección IP. Para especificar un nombre de adaptador, escriba el nombre del adaptador que aparece cuando usa ipconfig sin parámetros.
+
+ | /renovar `[<adapter>]`
+
+ | Renueva la configuración de DHCP para todos los adaptadores (si no se especifica un adaptador) o para un adaptador específico si se incluye el parámetro del adaptador . Este parámetro solo está disponible en equipos con adaptadores configurados para obtener automáticamente una dirección IP. Para especificar un nombre de adaptador, escriba el nombre del adaptador que aparece cuando usa ipconfig sin parámetros.
+
+ | /renovar6 `[<adapter>]`
+
+ | Renueva la configuración de DHCPv6 para todos los adaptadores (si no se especifica un adaptador) o para un adaptador específico si se incluye el parámetro del adaptador . Este parámetro solo está disponible en equipos con adaptadores configurados para obtener automáticamente una dirección IPv6. Para especificar un nombre de adaptador, escriba el nombre del adaptador que aparece cuando usa ipconfig sin parámetros.
+
+ | /setclassid `<adapter>[<classID>]`
+
+ | Configura el identificador de clase DHCP para un adaptador especificado. Para establecer el identificador de clase DHCP para todos los adaptadores, use el carácter comodín de asterisco (*) en lugar de adaptador. Este parámetro solo está disponible en equipos con adaptadores configurados para obtener automáticamente una dirección IP. Si no se especifica un identificador de clase DHCP, se quita el identificador de clase actual.
+
+ | /showclassid `<adapter>`
+
+ | Muestra el identificador de clase DHCP para un adaptador especificado. Para ver el identificador de clase DHCP de todos los adaptadores, use el carácter comodín de asterisco (*) en lugar de adaptador. Este parámetro solo está disponible en equipos con adaptadores configurados para obtener automáticamente una dirección IP.
+
+ | /?
+
+ | Muestra ayuda en el símbolo del sistema.
+
+#### Remarks
+
+- 
+Este comando es más útil en los equipos que están configurados para obtener automáticamente una dirección IP. Esto permite a los usuarios determinar qué valores de configuración tcp/IP han sido configurados por DHCP, direccionamiento ip privado automático (APIPA) o una configuración alternativa.
+
+- 
+Si el nombre que proporciona para el adaptador contiene espacios, use comillas alrededor del nombre del adaptador (por ejemplo, "nombre del adaptador").
+
+- 
+Para los nombres de adaptador, ipconfig admite el uso del carácter comodín asterisco (*) para especificar adaptadores con nombres que comienzan con una cadena especificada o adaptadores con nombres que contienen una cadena especificada. Por ejemplo, `Local*` coincide con todos los adaptadores que comienzan con la cadena Local y `*Con*` coincide con todos los adaptadores que contienen la cadena Con.
+
+### Examples
+
+Para mostrar la configuración básica de TCP/IP para todos los adaptadores, escriba:
+
+`ipconfig
+`
+
+Para mostrar la configuración completa de TCP/IP para todos los adaptadores, escriba:
+
+`ipconfig /all
+`
+
+Para renovar una configuración de dirección IP asignada por DHCP solo para el adaptador de conexión de área local, escriba:
+
+`ipconfig /renew Local Area Connection
+`
+
+Para vaciar la caché de resolución dns al solucionar problemas de resolución de nombres DNS, escriba:
+
+`ipconfig /flushdns
+`
+
+Para mostrar el identificador de clase DHCP para todos los adaptadores con nombres que comienzan por Local, escriba:
+
+`ipconfig /showclassid Local*
+`
+
+Para establecer el identificador de clase DHCP para el adaptador de conexión de área local en TEST, escriba:
+
+`ipconfig /setclassid Local Area Connection TEST
+`
+
+## Related links
+
+- 
+ Clave de sintaxis de línea de comandos
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

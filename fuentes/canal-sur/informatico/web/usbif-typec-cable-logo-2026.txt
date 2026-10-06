@@ -1,0 +1,611 @@
+1
+USB Type-C® Cable Logo Usage Guidelines
+USB Type-C® Cable Logo Usage Guidelines  |  © 2024 USB Implementers Forum, Inc. (USB-IF)   |   All rights resereserved.
+
+This document provides information pertaining to the USB Type-C® Cable Logos.
+Logo Usage Guidelines for Hi-Speed USB and Certified USB Chargers can be 
+found here.
+Logo Usage Guidelines for USB 80Gbps, 40Gbps, 20Gbps, 10Gbps and 5Gbps 
+Performance Logos can be found here.
+USB-C® to USB-C® Cable Logo Requirements
+All USB-C® to USB-C cables are required to use the USB-IF approved cable logo on the cable in the form 
+of either being embossed on the over mold or printed on the overmold 
+In order to pass through the USB-IF Compliance Program, all USB-C® to USB-C cables must be labeled 
+using the appropriate data rate and power wattage cable logo. For example, a USB 20Gbps cable that 
+supports 20V at 3A must be marked with the Combined Performance and Power 20Gbps/60W logo. 
+While USB 2.0 Type-C® 240W and 60W cables that delivers data at up to 480Mbps, this data 
+performance capability is not required to be included on the cable and is not reflected in the charging 
+logos. 
+The USB-IF requires that all cables must be labeled with the correct markings prior to submission for 
+compliance testing so that testing can confirm the intended display of such icons/logos. These 
+markings must be checked before compliance testing can begin.
+
+1:1
+Table of Contents
+1:2 
+Introduction
+1:3 
+General Logo Usage Guidelines 
+2:1 
+Logos and Word Mark
+3:1 
+Logo Size and Spacing
+4:1	
+Logo Color
+5:1	
+Logo Improper Usage
+6:1	
+Layout and Logo Usage
+7:1	
+Art Files
+Welcome to the USB Type-C® Cable 
+Logo Usage Guidelines.
+
+1:2
+USB Type-C
+® Cable Logos at a glance
+USB 
+Type-C® Cable Packaging Logos and Cable Logos*
+USB Type-C® Cable Combined Power/Performance Packaging and Cable Logos
+Introduction
+mproving the customer
+clear performance and power certified logos.
+ndustry demand has led the Universal Serial Bus (USB) to 
+grow beyond its original intent to connect peripherals to 
+PCs and is now a dominate standard in the interconnect 
+market. USB can be found everywhere from PCs to 
+consumer electronics to mobile devices. Because of its 
+ease of use, speed and expandability, USB is the preferred 
+connection for many consumers. This presents a 
+continued market opportunity for the future.
+In order to realize this opportunity, USB products 
+must continue to enhance the consumers’ experience 
+through high quality and ease of use. That’s why USB 
+Implementers Forum, Inc. (USB-IF) developed trademarkprotected USB Type-C® Cable Power Rating 240W, 60W, 
+and Combined Power/Performance Packaging Logos and 
+Cable Logos for use by qualified parties. To qualify for the 
+right to display these logos, products must pass the 
+specified USB-IF compliance testing for product quality. 
+USB 2.0 Type- 60W and C®  240W cables deliver data at up to 480Mbps, however, this 
+performance capability is not required to be included and is not reflected in this logo.
+
+1:3
+To maintain the integrity of the USB 
+Type-C® Cable Logos, all Guidelines must 
+be followed. Refer to this page and the 
+following sections for a complete 
+understanding of how to use the USB 
+Type-C® Cable Logos.
+Your Brand in Relation to USB Logos
+Your company name, logo, or product name must 
+appear on any products or related materials where the 
+USB Type-C® Cable Combined Power and Performance 
+Packaging Logos and USB 2.0 Type-C® 240W and 60W 
+Cable Logos are used. The Logos cannot be larger or 
+more prominent than your product name, trademark, 
+logo, or company name. 
+USB Logo Usage Certification Requirement
+As stated in Section 2 of the USB-IF Trademark License 
+Agreement, a Certified USB-IF logo may be used solely in 
+conjunction with a product that has been submitted to 
+and passed the USB-IF Compliance Testing Program and 
+are included on the USB-IF Integrators List. The company 
+also must have a valid USB-IF Trademark License 
+Agreement on file. USB-IF Certified Logos cannot be 
+used generically on your website or product packaging, 
+collateral, advertisements, or manuals.
+Important: Please refer to the USB-IF Trademark License 
+Agreement Mark Requirements Chart for details regarding 
+the USB-IF Test Procedures and other requirements.
+USB Logos Must Not Be Altered
+You must use the logos exactly as they are shown in the 
+USB-IF digital artwork files; you may not imitate the USB 
+Type-C® Cable Power Rating Packaging and Cable Logos 
+in any of your materials.
+USB Logos May Not Be Used as a Design Feature
+The USB Type-C® Cable Power Rating Packaging and 
+Cable Logos may not be used as a design feature on any 
+of your materials. 
+USB Logos Can Not Be Combined 
+with Any Other Feature
+You may not combine USB Type-C® Cable Power Rating 
+Packaging and Cable Logos with any other feature, 
+including other marks, words, graphics, photos, slogans, 
+numbers, design features, or symbols.
+General Logo Usage Guidelines
+
+2:1
+Word Mark and Trademark 
+Attribution Statement
+USB-IF Word Mark
+“USB4®”, “USB Type-C®”, “USB-C®” and “USB 2.0 Type-C®” 
+are a registered trademarks of USB Implementers Forum 
+and are only for use with products based on and compliant 
+with the USB Type-C® specification. 
+The trademark notice symbol ® must be included in the first 
+instance of “USB Type-C®” or “USB-C®” in any material. USB 
+Type-C® and USB-C® should not be translated into 
+languages other than English.
+Trademark Attribution Statement
+The trademark attribution statement should be 
+included in any materials using the word mark “USB 
+Type-C®” and/or “USB-C®”
+Logos and Word Mark
+USB-IF Word Mark
+USB4®               USB-C®
+USB Type-C®       USB 2.0 Type-C®   
+Trademark Attribution Statement
+USB4®, USB Type-C®, USB-C®, and USB 2.0 Type-C®, are 
+registered trademarks of USB Implementers Forum. 
+
+2:
+USB Type-C® Cable
+The USB Type-C® Cable Combined Packaging Logo must 
+be used solely in conjunction with a USB Type-C® cable
+W
+ and signal
+p
+s 
+Gbps, 
+that has been submitted to and passed the USB-IF 
+Test Procedure for USB Power Delivery 3. Standard 
+Power Range and USB Type-C® cables, and that has been 
+posted on the USB-IF Integrators List.
+The USB Type-C® Cable 60W/5Gbps Combined Packaging 
+Logo may be reproduced only in the versions shown in 
+this document and may not be altered in any way. Please 
+note that the trademark (®) and the word “certified” are 
+integral parts of the Logos. They are considered part of the 
+Logo art and should not be altered in any way. The Logos 
+must be reproduced from the USB-IF digital artwork files.
+Logos and Word Mark
+
+  2:
+USB Type-C® Cable Combined 
+ Logos
+The USB Type-C® Cable Combined 
+ Logo must be used solely in conjunction with a USB 
+Type-C® cable. The logo must indicate the cable's power rating 
+(i.e. 240W or 60W) and signaling cababilities (i.e. 
+bps, ect.) 
+for a cable that has been submitted to and passed the USB-IF 
+Test Procedure for USB Power Delivery 3.2 Standard Power 
+Range and USB Type-C® cables, and that has been posted on 
+the USB-IF Integrators List.
+Logos and Word Mark
+
+2:4
+USB 2.0 Type-C® Cable Power Rating 
+Packaging Logos
+The USB 2.0 Type-C® Cable Power Rating Packaging Logo 
+must be used solely in conjunction with a USB 2.0 Type-C® 
+cable
+'s power rating  (i.e. 
+240W or 60W) that has been submitted to and passed the 
+USB-IF Test Procedure for USB Power Delivery 3.2 Standard 
+Power Range and Hi-Speed USB Type-C® cables, and that 
+has been posted on the USB-IF Integrators List.
+The USB 2.0 Type-C® Cable Power Rating Packaging Logo 
+may be reproduced only in the versions shown in this 
+document and may not be altered in any way. Please note 
+that the trademark (®) and the word “certified” are integral 
+parts of the Logos. They are considered part of the Logo art 
+and should not be altered in any way. The Logos must be 
+reproduced from the USB-IF digital artwork files.
+Logos and Word Mark
+
+  2:
+USB 2.0 Type-C® Cable Power Rating Logos
+The USB 2.0 Type-C® Cable Power Rating Logo must be 
+used solely in conjunction with a USB 2.0 Type-C® cable. 
+'s power rating  (i.e. 240W 
+or 60W) that has been submitted to and passed the  USBIF Test Procedure for USB Power Delivery 3.2 Standard 
+Power Range and Hi-Speed USB Type-C® cables, and that 
+has been posted on the USB-IF Integrators List. 
+Logos and Word Mark
+
+  3:1
+USB Type-C® Cable
+These requirements apply to use of the 
+USB Type-C® Cable ombined 
+ Packaging Logo and must be followed.
+Minimum Clear Space
+Avoid visual clutter by maintaining a minimum amount of 
+clear space around the Logo that is equal to 1/2 the 
+height of USB
+.
+Minimum Size for Print
+The minimum width is 1 inch (25.4 mm).
+Minimum Size for On-Screen
+The minimum width of the Logo is 82 pixels. 
+Logo Alignment
+To align the Logo correctly with margins or other 
+Logo Alignment Example
+Align Lef Edge of double-line 
+cable graphic for Horizontal 
+Alignment
+Minimum Size 
+includes the logo 
+Clear Space, 
+indicated by the 
+blue margin.
+1/2 X
+1/2 X
+1/2 X
+1/2 X
+X
+1 inch
+82 pixels
+Align Top Edge of 
+“Certified” for Vertical 
+Alignment
+Logo 
+Minimum Clear Space Example
+Minimum Size for Print Example Minimum Size for On-Screen Example
+
+  3:2
+1X
+1X
+X
+1X
+1X
+.25 inches
+Horizontal 
+Orientation
+Vertical 
+Orientation
+USB Type-C® Cable Combined
+These requirements apply to use of the USB Type-C® Cable 
+Combined er
+e
+er 
+ting Logo and must 
+be followed.
+s
+le l
+Clear Space
+Avoid visual clutter by maintaining a minimum amount of 
+clear space around the Logo that is equal to the height of 
+cable end device (X) for the size selected.
+Minimum Size
+The minimum size of the largest dimension of the Logo is 
+0.25 inches (6.35mm).
+Logo Orientation
+The Logo can be oriented horizontally or vertically.
+Please Note: The USB Type-C® Cable Combined 
+ Logo is only to be used on 
+USB Type-C® cables.
+Licensee is not obligated to use the “®” and may omit the tr ademark ® symbol on the USB TypeC® Cable Combined 
+ Logo, for which the Licensee is printing/
+engraving on the cable over mold where the reasonable alternatives for the location and size of 
+the Logo do not allow for the symbol to have a maximum dimension of 15mm or more. This 
+permission is limited only to these exact situations. 
+e
+e
+the following 
+statement in their user’s manual/printed materials accompanying the cable
+e
+ “The USB Type-C® Cable 
+240W Combined Logo is a trademark of USB 
+Implementers Forum, Inc.” and must be accompanied with the image of the mark with the 
+correct rendering of the ®.
+Logo 
+Minimum Clear Space Expample
+Minimum Size Expample
+Logo Orientation Example
+
+3:
+1/2 X
+1/2 X
+1/2 X
+1/2 X
+USB 2.0 Type-C® Cable Power 
+ Packaging Logo
+These requirements apply to use of the USB 2.0 Type-C® Cable  
+Power 
+ Packaging Logo and must be followed. 
+Minimum Clear Space
+Avoid visual clutter by maintaining a minimum amount of 
+clear space around the Logo that is equal to 1/2 the 
+height of USB
+.
+Minimum Size for Print
+The minimum width is 1 inch (25.4 mm).
+Minimum Size for On-Screen
+The minimum width of the Logo is 82 pixels.
+Logo Alignment
+To align the Logo correctly with margins or other 
+elements, use the top and lef edge of the circular arc.
+X
+1 inch
+82 pixels
+Logo Alignment 
+Align Top Edge of 
+“Certified” for Vertical 
+Alignment
+Align Lef Edge of double-line 
+cable graphic for Horizontal 
+Alignment
+Minimum Size 
+includes the logo 
+Clear Space, 
+indicated by the 
+blue margin.
+Logo 
+Minimum Clear Space 
+Minimum Size for Print 
+Minimum Size for On-Screen 
+
+  3:4
+.25 inches
+Horizontal 
+Orientation
+Vertical 
+Orientation
+USB 2.0 Type-C® Cable Power 
+ Logo
+These requirements apply to use of the USB 2.0 Type-C® 
+Cable Power 
+ Logo and must be followed.
+Clear Space
+Avoid visual clutter by maintaining a minimum amount of 
+clear space around the Logo that is equal to the height of 
+cable end device
+ for the size selected.
+Minimum Size
+The minimum size of the largest dimension of the Logo 
+is 0.25 inches (6.35mm).
+Logo Orientation
+The Logo can be oriented horizontally or 
+vertically.
+Please Note: The USB 2.0 Type-C® Cable Logo is only 
+to be used on USB Type-C® cables.
+Licensee is not obligated to use the “®” and may omit the trademark ® symbol on the USB 2.0 
+Type-C® Cable Power 
+ Logo, for which the Licensee is printing/engraving on the cable over 
+mold where the reasonable alternatives for the location and size of the Logo do not allow for the 
+symbol to have a maximum dimension of 15mm or more. This permission is limited only to these 
+exact situations. 
+statement in their user’s manual/printed materials accompanying the cable
+ “The USB 2.0 Type-C® Cable 240W Logo is a trademark of USB Implementers Forum, 
+Inc.” and must be accompanied with the image of the mark with the correct rendering of the ®.
+Logo 
+Minimum Clear Space 
+Minimum Size
+Logo Orientation
+1X
+1X
+1X
+X
+1X
+
+  4:1
+USB Type-C® Cable Packaging Logo Color Formulas
+These requirements apply to use of the USB Type-C®  
+Cable Packaging Logo and must be followed.
+USB Type-C® Cable 
+Combined Power and Performance Packaging Logos and 
+USB 2.0 Type-C® 240W and 60W Cable Packaging Logos
+The USB Type-C® Cable Packaging Logos 
+ been 
+created as a 2-color Logo. It is best to reproduce the Logo 
+using the PANTONE® numbers shown at the right. When 
+reproducing these colors in 4-color process inks, or onscreen (RGB), the screen tints listed here should be used.
+USB Blue with slight color variations, e.g., a Logo printed 
+using USB Red as a spot color may result in a slightly 
+4-color process or compared to an on-screen (RGB) Logo.
+PANTONE Colors displayed here may not match 
+PANTONE-identified standards. Consult current PANTONE 
+Color Publications for accurate color. PANTONE® is the 
+property of Pantone, Inc.
+USB Red
+PMS
+PANTONE® 185C
+CMYK
+C0 - M91 - Y76 - K0
+RGB
+R235 - G0 - B41
+USB Blue
+PMS
+PANTONE® 653C
+CMYK
+C100 - M62 - Y0 - K20
+RGB
+R52 - G96 - B148
+USB Type-C® Cable 80Gbps/240W Combined Packaging Logo Colors
+USB Red
+USB Blue 
+USB Red
+USB Red
+Logo Color
+
+  4:2
+USB Type-C® Cable
+Two-Color Logo
+The 2-color version is the preferred version of  the USB Type-C® 
+Cable Packaging Logo. 
+One-Color Logo
+The 1-color, black version of the USB Type-C®  
+Cable Packaging Logo should be used for single-color applications. 
+Reversed Logo
+The reversed version of the USB Type-C® Cable Packaging Logo
+should be used on dark backgrounds and over photography. When 
+placed over photography make sure to use photographs that have 
+enough tone to support the Logo and don’t  prohibit legibility.
+Note:
+PANTONE Colors displayed here may not match 
+PANTONE-identified standards. Consult current PANTONE 
+Color Publications for accurate color. PANTONE® is the 
+property of Pantone, Inc.
+Two-Color Logo
+USB Red PANTONE® 185C 
+USB Blue PANTONE® 653C
+One-Color Logo
+Black
+Reversed Logo
+On dark-colored background
+Logo Color
+
+5:
+USB Type-C® Cable  Packaging Logos Improper Usage
+Proper use of the USB Logos strengthens their 
+eﬀectiveness each time they are seen. The following 
+examples depict unacceptable uses of the USB Logos 
+for both print and on-screen applications. 
+You must use the Logos exactly as they are shown in the 
+USB-IF digital artwork files. No alterations are permitted.
+1   Don’t place the Logo on a busy background. 
+A busy background would not follow the clear space 
+guidelines, spelled out earlier in this document.
+2  Don’t change the colors of the Logo.
+3  Don’t use any version of the Logos without the 
+“double-line cable graphic.”
+4  Don’t use the Logo without the trademark ® symbol.
+5  Don’t use the Logo without the word “CERTIFIED”.
+6   Don’t use the USB Type-C® Cable 
+1
+2
+3
+4
+5
+6
+Logo Usage
+
+6:1
+Including USB Type-C® Cable Logos on 
+Various Materials
+Incorporating the USB Type-C® Cable Combined Power 
+and Performance Packaging Logos and USB 2.0 Type-C® 
+240W and 60W Cable Logos into your packaging, 
+marketing materials, advertisements and manuals 
+strengthens your marketing efforts by informing your 
+consumers of the USB compatibility of your product(s). 
+The following pages show samples of various marketing 
+materials and examples of the USB Logo placement.
+Examples shown on this page can only be used in 
+correlation with a product that has been certified by 
+the USB-IF and met the specific certification 
+requirements. Any use of the logo must follow the 
+appropriate guidelines for the USB Type-C® product as 
+defined in these guidelines.
+Layout and Logo Usage
+USB Type-C® Cable Logos Layout Examples
+Packaging Example
+Collateral and Advertising Example
+Manuals Example
+
+6:2
+USB Type-C® Cable Packaging
+Packaging is printed in a variety of ways. Coarse printing, 
+such as flexography on corrugate or screen printing on 
+various materials, may benefit from using the 1-color 
+or the reversed Logo. Product that is printed using finer 
+printing methods, such as 4-color process, can choose 
+any Logo that best fits its Product box’s design. The goal is 
+to choose the Logo that will reproduce most attractively 
+onto the material upon which it is being printed.
+The example shown on this page can only be used in 
+correlation with a product that has been certified by the 
+USB-IF and met the specific certification requirements. 
+Any use of the logo must follow the appropriate 
+guidelines for the USB Type-C® product as defined in 
+these guidelines.
+Layout and Logo Usage: Packaging
+
+6:3
+USB Type-C® Rating Collateral and 
+Advertisements Examples
+Collateral
+Where you are not restricted by color, the full-color Logo 
+can be used for your print material. In situations where 
+color is restricted, use the 1-color or reversed versions
+of the Logo.
+One-Color Advertisements 
+For 1-color newspaper advertisements, use the black
+or reversed version of the Logo.
+Full-Color Magazine Advertisements 
+Full-color magazine ads may use the 1-color, reversed 
+or full-color versions of the Logo, choosing the Logo that 
+works best with the design of the ad.
+Examples shown on this page can only be used in correlation 
+with a product that has been certified by the USB-IF and met 
+the specific certification requirements. Any use of the logo 
+must follow the appropriate guidelines for the USB Type-C® 
+product as defined in these guidelines.
+Layout and Logo Usage: Collateral and Advertisements
+Collateral
+One-Color Advertisement
+Full-Color Magazine Advertisement
+
+6:4
+USB Type-C® Cable Manuals
+The manufacturer/Licensees must include the following statement(s) in their user’s manual/
+printed materials accompanying the Product:
+Statement 10
+“The USB Type-C® Cable 60W Logo is a trademark of USB Implementers Forum, Inc.”
+Statement 9
+“The USB Type-C® Cable 240W Logo is a trademark of USB Implementers Forum, Inc.”
+Statement 8
+“The USB Type-C® Cable 5Gbps/60W Combined Logo is a trademark of USB Implementers Forum, Inc.”
+Statement 7
+“The USB Type-C® Cable 20Gbps/60W Combined Logo is a trademark of USB Implementers Forum, Inc.”
+Statement 6
+“The USB Type-C® Cable 40Gbps/60W Combined Logo is a trademark of USB Implementers Forum, Inc.”
+Statement 5
+“The USB Type-C® Cable 80Gbps/60W Combined Logo is a trademark of USB Implementers Forum, Inc.”
+Statement 4
+“The USB Type-C® Cable 5Gbps/240W Combined Logo is a trademark of USB Implementers Forum, Inc.”
+Statement 3
+“The USB Type-C® Cable 20Gbps/240W Combined Logo is a trademark of USB Implementers Forum, Inc.”
+Statement 2
+“The USB Type-C® Cable 40Gbps/240W Combined Logo is a trademark of USB Implementers Forum, Inc.”
+Statement 1
+“The USB Type-C® Cable 80Gbps/240W Combined Logo is a trademark of USB Implementers Forum, Inc.”
+The statement(s) must be accompanied with the 
+proper USB Type-C® Cable Combined Power and 
+Performance Packaging Logos and USB 2.0 TypeC® 60W and 240W Cable Logos image of the 
+mark(s) with the correct rendering of the (®).
+The example shown on this page can only be 
+used in correlation with a product that has been 
+certified by  the USB-IF and met the specific 
+certification requirements. Any use of the logo 
+must follow the appropriate guidelines for the 
+USB Type-C® product as defined in these 
+guidelines.
+Manual Example
+Layout and Logo Usage: Manuals
+Trademark statement with correct 
+rendering of the “®” and Logo
+
+7:1
+Art Files
+USB Type-C® Cable Logos Digital Formats
+The following USB Type-C® Cable Logos are available in digital file formats:
+- USB Type-C® Cable Combined Performance and Power Rating 
+- USB 2.0 Type-C®  Power Rating and Packaging Logos and Cable Logos
+Print Applications
+Encapsulated Postscript (EPS) files were created in Adobe* 
+Illustrator* and can be reproduced at any size without 
+compromising quality. Use these versions for printing. Each 
+version is a separate file. Logos can be printed using either 
+PANTONE® colors or the 4-color process mix specified on 
+page 6. Type has been converted to outlines; no fonts are 
+required to reproduce the Logos. The files have been saved 
+for both Macintosh* and PC.
+* Third-party names and brands are the property
+of their respective owners. PANTONE® is the
+property of Pantone, Inc.
+On-Screen Applications
+These versions are for on-screen applications such as the 
+Web or Microsoft* PowerPoint* presentations. They have 
+been created in RGB color mode and should not be used 
+for offset printing. These versions were rasterized in Adobe* 
+Photoshop* from Adobe Illustrator files (with the exception 
+of the EPS files). Keep in mind that these files look their best 
+when placed at 100% size, or smaller.
+PNG and or JPG files are provided for use in on-screen 
+applications.
+EPS files were created in Adobe* Illustrator* and are 
+saved in RGB color format. These files are to be used in 
+software applications that utilize vector-based artwork, 
+e.g., Adobe* Flash*.

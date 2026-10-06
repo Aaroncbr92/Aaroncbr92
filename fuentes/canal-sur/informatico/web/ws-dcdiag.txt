@@ -1,0 +1,695 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/dcdiag
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# DCDiag
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Se aplica a: Windows Server 2022, Windows Server 2019, Windows Server 2016
+
+ `DCDiag.exe` analiza el estado de los controladores de dominio (DC) en un bosque o empresa e informa de cualquier problema que le ayude a solucionar problemas. Como programa de informes de usuarios finales, DCDiag es una herramienta de línea de comandos que encapsula conocimientos detallados sobre cómo identificar el comportamiento anómalo en el sistema.
+
+De forma predeterminada, DCDiag está disponible fácilmente si ha iniciado sesión en un controlador de dominio. Un método alternativo para acceder a DCDiag es instalar las Herramientas de administración remota del servidor (RSAT) en el dispositivo. DCDiag debe ejecutarse con derechos administrativos desde un símbolo del sistema con privilegios elevados (CMD) o PowerShell.
+
+DCDiag consta de un marco para ejecutar pruebas y una serie de pruebas para comprobar diferentes áreas funcionales del sistema. Este marco selecciona qué controlador de dominio se prueba según las directivas de ámbito del usuario, como enterprise, site o servidor único. Probar la conectividad general y la capacidad de respuesta del controlador de dominio incluye la comprobación:
+
+- El controlador de dominio se puede ubicar en DNS.
+
+- El controlador de dominio responde a pings del Protocolo de mensajes de control de Internet (ICMP)
+
+- El controlador de dominio permite la conectividad del Protocolo ligero de acceso a directorios (LDAP) mediante el enlace a la instancia.
+
+- El controlador de dominio permite enlazar a la interfaz RPC de AD mediante la función DsBindWithCred .
+
+Note
+
+Bloquear ICMP impide que DCDiag funcione según lo previsto. Aunque se recomienda bloquear ICMP en el borde de Internet de la red, el bloqueo interno del tráfico ICMP provoca problemas administrativos que interrumpen las directivas de grupo heredadas, la detección de enrutadores de agujero negro o tamaños MTU ineficaces debido a la falta de una opción de detección. Las herramientas de solución de problemas como `ping.exe` o `tracert.exe` también se ven afectadas.
+
+## DCDiag syntax
+
+`dcdiag [/s:<DomainController>] [/n:<NamingContext>] [/u:<Domain>\<UserName> /p:{* | <Password> | ""}] [{/a | /e}] [{/q | /v}] [/i] [/f:<LogFile>] [/c [/skip:<Test>]] [/test:<Test>] [/fix] [{/h | /?}] [/ReplSource:<SourceDomainController>]
+`
+
+DCDiag usa los parámetros siguientes:
+
+ | Parameter
+
+ | Description
+
+ | /s:`<DomainController>`
+
+ | Especifica el nombre del servidor en el que se va a ejecutar el comando. Si no se especifica este parámetro, las pruebas se ejecutan en el controlador de dominio local.
+
+Este parámetro se omite para las pruebas DcPromo y RegisterInDns, que solo se pueden ejecutar localmente.
+
+ | /n:`<NamingContext>`
+
+ | Usa NamingContext como contexto de nomenclatura que se va a probar. Puede especificar dominios en NetBIOS, sistema de nombres de dominio (DNS) o formato de nombre distintivo.
+
+ | /u:`<Domain>`\`<UserName>` /p:{`<Password>` | ""}
+
+ | Uses Domain\UserName. DCDiag usa las credenciales actuales del usuario (o proceso) que ha iniciado sesión. Si se necesitan credenciales alternativas, use las siguientes opciones para proporcionar esas credenciales para el enlace con Contraseña como contraseña: use comillas ("") para una contraseña vacía o nula. Use el carácter comodín (*) para solicitar la contraseña.
+
+ | /a
+
+ | Prueba todos los servidores de este sitio de AD DS.
+
+ | /e
+
+ | Prueba todos los servidores de la empresa. Esto invalida `/a`.
+
+ | /q
+
+ | Quiet. Imprime solo mensajes de error.
+
+ | /v
+
+ | Verbose. Imprime información extendida.
+
+ | /fix
+
+ | Afecta solo a la prueba MachineAccount. Este parámetro hace que la prueba corrija los nombres de entidad de seguridad de servicio (SPN) en el objeto Cuenta de equipo del controlador de dominio.
+
+ | /f:`<LogFile>`
+
+ | Redirige toda la salida a un archivo de registro.
+
+ | /c
+
+ | Comprehensive. Ejecuta todas las pruebas excepto DCPromo y RegisterInDNS, incluidas las pruebas no predeterminadas. Opcionalmente, puede usar este parámetro con el `/skip` parámetro para omitir las pruebas especificadas.
+
+Las pruebas siguientes no se ejecutan de forma predeterminada:
+
+- Topology
+
+- CutoffServers
+
+- OutboundSecureChannels.
+
+ | /h o /?
+
+ | Muestra la ayuda en el símbolo del sistema.
+
+ | /test:`<Test>`
+
+ | Ejecuta esta prueba solo. La prueba de conectividad no se puede omitir con el `/skip` parámetro .
+
+ | /ReplSource:`<SourceDomainController>`
+
+ | Comprueba la conexión entre el controlador de dominio en el que se ejecuta el comando y el controlador de dominio de origen. (Este parámetro se usa para la prueba CheckSecurityError).
+
+SourceDomainController es el nombre DNS, el nombre NetBIOS o el nombre distintivo de un servidor real o potencial que será el controlador de dominio de origen para la replicación, tal como se representa mediante un objeto de conexión real o potencial.
+
+## Pruebas conocidas de DCDiag
+
+En la tabla siguiente se muestran las pruebas conocidas que se ejecutan de forma predeterminada a menos que se especifique lo contrario.
+
+ | Test
+
+ | Description
+
+ | Advertising
+
+ | Comprueba si cada controlador de dominio se anuncia en los roles que debe ser capaz de realizar. Esta prueba valida que la función pública DsGetDcName que usan los equipos para buscar controladores de dominio localizará correctamente los controladores de dominio. 
+
+ Esta prueba produce un error si el servicio Netlogon se ha detenido o no se pudo iniciar. Si se detiene el servicio Clave de distribución de claves (KDC), se produce un error en la prueba de publicidad, ya que la marca devuelta desde DsGetDcName no incluirá KDC. Si el puerto 88 a través de TCP y UDP está bloqueado en un firewall, la prueba de publicidad pasará a pesar de que el KDC no pueda responder a las solicitudes de vales kerberos.
+
+ | CheckSDRefDom
+
+ | Comprueba que todas las particiones del directorio de aplicaciones tienen dominios de referencia de descriptores de seguridad adecuados. 
+
+ Esta prueba usa LDAP y valida los objetos de referencia cruzadaubicados en cn=partitions,cn=configuration,dc=<forest root domain> contienen los nombres de dominio correctos en sus atributos msDS-SDReferenceDomain .
+
+ | CheckSecurityError
+
+ | La prueba no se ejecuta de forma predeterminada. Realiza varias comprobaciones de seguridad para los errores relacionados con los componentes de seguridad del controlador de dominio, como problemas con la directiva de seguridad o la base de datos de seguridad mediante LDAP, RPC, RPC a través de SMB e ICMP. It checks: 
+
+- Que al menos un KDC está en línea para cada dominio y es accesible. 
+
+- Ese objeto de equipo de controladores de dominio se ha replicado en otros controladores de dominio. 
+
+- Si la fragmentación de paquetes de Kerberos a través de UDP podría ser un problema basado en el tamaño de MTU actual mediante el envío de paquetes ICMP sin fragmentación. 
+
+- Que no hay problemas de replicación o de conexión del Comprobador de coherencia del conocimiento (KCC) para los asociados conectados mediante la consulta de la función DsReplicaGetInfo para obtener errores relacionados con la seguridad. 
+
+- Si la cuenta de equipo de los controladores de dominio existe en Active Directory (AD) como parte de la unidad organizativa predeterminada de controladores de dominio junto con las marcas UserAccountControl correctas para los controladores de dominio, se establecen los atributos ServerReference correctos y tiene configurados los nombres principales de servicio (SPN) mínimos necesarios.
+
+ Cuando se agrega el parámetro /ReplSource , el asociado también comprueba: 
+
+- La asimetría de tiempo calculada entre los servidores para comprobar que es inferior a 300 segundos (5 minutos) para Kerberos. 
+ No comprueba la directiva de Kerberos para ver si se ha modificado el sesgo permitido. 
+
+- Permisos en todos los contextos de nomenclatura (como Esquema, Configuración, etc.) en el controlador de dominio de origen que valida las funciones de replicación y conectividad entre controladores de dominio. 
+
+- Conectividad para validar que el usuario que ejecuta DCDiag puede conectarse y leer los recursos compartidos SYSVOL y NETLOGON sin errores de seguridad. 
+
+- El acceso a este equipo desde el privilegio de red en el controlador de dominio se comprueba para comprobar que está mantenido por los grupos Administradores, Usuarios autenticados y Todos . 
+
+- El objeto de equipo del controlador de dominio se comprueba para asegurarse de que es la versión más reciente en los controladores de dominio. Esto se hace para probar la convergencia de replicación junto con la verificación de versiones, USN, servidores de origen y marcas de tiempo. 
+
+ | Connectivity
+
+ | Comprueba que las DSA y DNS están registradas y accesibles mediante LDAP y RPC.
+
+ | CrossRefValidation
+
+ | Recupera una lista de contextos de nomenclatura ubicados en cn=partitions,cn=configuration,dc=<forest root domain> con sus referencias cruzadas y, a continuación, los valida de forma similar a la prueba CheckSDRefDom mediante LDAP. Esta prueba examina los atributos nCName, dnsRoot, nETBIOSName y systemFlags para: 
+
+- Asegúrese de que los nombres de los DN no son válidos o null. 
+
+- Confirme que CNF o 0ADEL no han modificado los DN. 
+
+- Asegúrese de que systemFlags es correcto para ese objeto. 
+
+- Llame a conjuntos de réplicas vacíos (huérfanos). 
+
+ | CutoffServers
+
+ | Prueba la replicación de AD para asegurarse de que no hay controladores de dominio sin objetos de conexión entre asociados. Los servidores que no pueden replicar la entrada o salida de ningún controlador de dominio se consideran cortados mediante la función DsReplicaSyncAll , que desencadena la replicación en los controladores de dominio. Use el `/e` parámetro con precaución si hay vínculos WAN mal implementados que se mantienen limpios mediante programaciones. 
+
+ Si no se puede ponerse en contacto con un servidor o no está disponible para LDAP en la red, no proporciona ningún error ni resultados de prueba, incluso si se especifica el `/v` parámetro . Esta prueba usa RPC.
+
+ | DcPromo
+
+ | Comprueba el servidor especificado en la configuración dns del cliente si la infraestructura cumple los requisitos necesarios para promover el dispositivo a un controlador de dominio. Esta prueba usa DNS en la red y comprueba: 
+
+- Si al menos un adaptador de red tiene establecido un servidor DNS principal. 
+
+- Si hay un espacio de nombres separado basado en el sufijo DNS. 
+
+- Se puede contactar con esa zona DNS autoritativa propuesta. 
+
+- Si es posible realizar actualizaciones dinámicas de DNS para el registro A del servidor. Comprueba tanto la configuración en la zona DNS autoritativa como en la configuración del registro de cliente para DnsUpdateOnAllAdapters y DisableDynamicUpdate. 
+
+- Si un registro DClocator LDAP, como _ldap._tcp.dc._msdcs.<domain>, se devuelve al consultar los bosques existentes. 
+
+ Se requieren los argumentos siguientes: 
+
+- 
+ `/DnsDomain`:<Active_Directory_Domain_DNS_Name> 
+
+- El uso de este parámetro requiere uno de los argumentos siguientes: `/ChildDomain`, `/NewForest`, `/NewTree`o `/ReplicaDC` 
+
+- Si `/NewTree` se especifica , se requiere el siguiente argumento: 
+
+- 
+ `/ForestRoot`:<Forest_Root_Domain_DNS_Name> 
+
+ | DFSREvent
+
+ | Esta prueba valida el estado del servicio™de replicación del sistema de archivos distribuido (DFSR) comprobando las entradas de advertencia y error del registro de eventos DFSR de las últimas 24 horas. Esta prueba usa RPC y EventLog Remoting Protocol.
+
+ | DNS
+
+ | Prueba las comprobaciones de estado de DNS de toda la empresa mediante protocolos DNS, RPC y WMI. No se ejecutó de forma predeterminada y debe solicitarse explícitamente. Consulte Sintaxis DNS.
+
+ | FrsEvent
+
+ | Comprueba si hay errores en el registro de eventos del Servicio de replicación de archivos (FRS) de las últimas 24 horas, ya que la replicación con errores del recurso compartido sysVol puede causar problemas de directiva. Esta prueba usa RPC y EventLog Remoting Protocol.
+
+ | Intersite
+
+ | Comprueba si hay errores que impedirían o almacenarían temporalmente la replicación entre sitios y predice cuánto tiempo tardaría el KCC en recuperarse. Esta prueba usa funciones de DRS para comprobar si hay condiciones que impedirían la replicación de AD entre sitios dentro de un sitio específico o todos los sitios mediante: 
+
+- Buscar y conectarse a los generadores de topologías entre sitios (ISTG). 
+
+- Buscar y conectarse a los servidores de cabeza de puente. 
+
+- Notificar los errores de replicación después de desencadenar una replicación. 
+
+- La validación de todos los controladores de dominio dentro de sitios con conexiones entrantes a este sitio está disponible. 
+
+- La comprobación de los valores de KCC para las invalidaciones de IntersiteFailuresAllowed y MaxFailureTimeForIntersiteLink dentro de la clave del Registro: KEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\NTDS\Parameters. 
+
+ El `/a` parámetro o `/e` se debe usar como no proporcionar un sitio permitiría que la prueba se ejecutara, pero omite las pruebas reales. Esta prueba usa RPC a través de la red para probar los aspectos de replicación y pide a las conexiones del Registro que comprueben si hay entradas de invalidación de NTDS. LDAP también se usa para buscar información de conexión.
+
+ | KccEvent
+
+ | Esta prueba consulta el KCC en el controlador de dominio para ver si hay errores y advertencias generados en el registro de eventos de Servicios de directorio durante los últimos 15 minutos. El umbral de 15 minutos es independientemente del valor del Registro del período de actualización de la topología repl (ss) en el controlador de dominio. 
+
+ Si las reglas de firewall hacen que se produzca un error en esta prueba, consulte KB2512643 que cubre la habilitación de esas reglas para permitir que la prueba se realice correctamente. Esta prueba usa RPC junto con el protocolo de comunicación remota de EventLog.
+
+ | KnowsOfRoleHolders
+
+ | Esta prueba devuelve el conocimiento de los controladores de dominio de los cinco roles de operación maestra única flexible (FSMO), pero no comprueba todos los conocimientos de controladores de dominio para obtener coherencia. El uso del `/e` parámetro proporciona datos para la comparación. Esta prueba usa RPC para devolver DSListRoles dentro de las funciones del servicio de replicación de directorios (DRS).
+
+ | MachineAccount
+
+ | Comprueba si la cuenta del equipo se ha registrado correctamente y que los servicios se anuncian mediante LDAP y RPC a través de SMB, incluida la comprobación: 
+
+- La cuenta de equipo del controlador de dominio existe en AD. 
+
+- Está dentro de la unidad organizativa de controladores de dominio. 
+
+- Tiene las marcas UserAccountControl correctas para los controladores de dominio. 
+
+- Se establecen los atributos ServerReference correctos. 
+
+- Se establecen los nombres de entidad de seguridad de servicio (SPN) mínimos. Esta prueba es idéntica a CheckSecurityError , ya que usan la misma prueba interna. 
+
+ Esta prueba también tiene dos opciones de reparación: 
+
+- 
+ `/RecreateMachineAccount` - Vuelve a crear un objeto de equipo de controlador de dominio que falta. Esta no es una corrección recomendada, ya que no vuelve a crear ningún objeto secundario de un controlador de dominio, como suscripciones FRS y DFSR. El procedimiento recomendado es usar una copia de seguridad de SystemState válida para restaurar autoritativamente el objeto eliminado del controlador de dominio y los objetos secundarios. Si usa esta opción, el controlador de dominio debe degradarse correctamente y promoverse para reparar todas las relaciones que faltan. 
+
+- 
+ `/FixMachineAccount` - Agrega las marcas UserAccountControl TRUSTED_FOR_DELEGATION y SERVER_TRUST_ACCOUNT a un objeto de equipo de controladores de dominio. Es preferible usar esta opción de reparación en lugar de intentar configurar estas banderas usted mismo a través de ADSIEDIT u otros editores LDAP.
+
+ | NCSecDesc
+
+ | Comprueba los permisos en todos los contextos de nomenclatura (como Esquema, Configuración, etc.) en el controlador de dominio de origen para validar que la replicación y la conectividad funcionan entre controladores de dominio. Se asegura de que los grupos Controladores de dominio de empresa y administradores tengan los permisos mínimos correctos, que es la misma prueba realizada en CheckSecurityError. Esta prueba usa LDAP. 
+
+ | NetLogons
+
+ | Valida que el usuario que ejecuta DCDiag puede conectarse y leer los recursos compartidos SYSVOL y NETLOGON sin errores de seguridad. También comprueba que los grupos Administradores, Usuarios autenticados y Todos tienen acceso a este equipo desde el privilegio de red en el controlador de dominio.
+
+ | ObjectsReplicated
+
+ | Comprueba que se han replicado los objetos Del Agente de sistema de directorio y cuenta de equipo (DSA). De forma predeterminada, se validan dos objetos y existen en cada controlador de dominio y están actualizados en todos los demás controladores de dominio: 
+
+- 
+ CN=NTDS Settings 
+
+- 
+ CN=<Nombre de DC> 
+
+ Puede usar el `/objectdn:dn` parámetro con el `/n:nc` parámetro para especificar un objeto adicional que se va a comprobar. Esta prueba se realiza mediante RPC con funciones DRS.
+
+ | OutboundSecureChannels
+
+ | Esta prueba no se ejecuta de forma predeterminada. Comprueba que existen canales seguros de todos los controladores de dominio del dominio en los dominios especificados por el `/testdomain` parámetro . El `/nositerestriction` parámetro impide que DCDiag limite la prueba a los controladores de dominio del sitio.
+
+ | RegisterInDNS
+
+ | Comprueba si el servidor de directorios puede registrar los registros DNS del localizador de servidores de directorios. Estos registros deben estar presentes en DNS para que otros equipos busquen este servidor de directorios para el <dominio de Active_Directory_Domain_DNS_Name> . Esto también informa si se requieren modificaciones en la infraestructura DNS existente. Se debe usar el parámetro `/DnsDomain`:<Active_Directory_Domain_DNS_Name> . Esta prueba comprueba: 
+
+- Se puede contactar con la zona DNS autoritativa. 
+
+- Si al menos un adaptador de red tiene establecido un servidor DNS principal. 
+
+- Si tuviera un espacio de nombres inconexo basado en el sufijo DNS. 
+
+- Se puede contactar con la zona DNS autoritativa propuesta. 
+
+- Si es posible realizar actualizaciones dinámicas de DNS para el registro A del servidor. Comprueba la configuración de la zona DNS autoritativa y la configuración del registro de cliente de DnsUpdateOnAllAdapters y DisableDynamicUpdate. 
+
+- Si un registro DClocator LDAP, como _ldap._tcp.dc._msdcs.<domain>, se devuelve al consultar los bosques existentes. 
+
+ | Replications
+
+ | Esta prueba comprueba todos los objetos de conexión de replicación de AD para todos los contextos de nomenclatura en los controladores de dominio especificados si: 
+
+- La última replicación intentó ser correcta o devuelve un error. 
+
+- Esa replicación está deshabilitada. 
+
+- La latencia de replicación es superior a 12 horas. 
+
+ | RidManager
+
+ | Comprueba si el maestro de identificador relativo (RID) es accesible y si: 
+
+- Contiene la información adecuada. 
+
+- Se puede localizar y contactar a través de un DsBind. 
+
+- Tiene valores de grupo de RID válidos. 
+
+ El titular del rol debe estar en línea y accesible para que los controladores de dominio puedan crear entidades de seguridad (usuarios, equipos y grupos), así como para que se promuevan más controladores de dominio dentro de un dominio. Esta prueba usa LDAP y RPC.
+
+ | Services
+
+ | Esta prueba valida que varios servicios dependientes de AD se ejecutan, son accesibles y se establecen en tipos de inicio específicos. Estos servicios se inician automáticamente y se ejecutan en un proceso compartido a menos que se especifique lo contrario: 
+
+- DFSR (se ejecuta en un proceso propio) 
+
+- DNSCACHE 
+
+- EVENTSYSTEM 
+
+- IISADMIN (si se usa la replicación de AD basada en SMTP) 
+
+- ISMSERV 
+
+- KDC 
+
+- NETLOGON 
+
+- NTDS 
+
+- NTFRS (se ejecuta en un proceso propio) 
+
+- RPCSS 
+
+- SAMSS 
+
+- SERVER 
+
+- SMTPSVC (si se usa la replicación de AD basada en SMTP) 
+
+- W32TIME (se inicia automáticamente o manualmente) 
+
+- WORKSTATION 
+
+ Estos nombres de servicio se enumeran en la ruta de acceso del Registro HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services. Esta prueba usa RPC y el protocolo remoto de Service Control Manager .
+
+ | SysVolCheck
+
+ | Esta prueba lee la clave del Registro Netlogon SysVolReady de los controladores de dominio para validar que SYSVOL está listo. El nombre del valor debe existir con un valor de 1 para pasar esta prueba y funciona con SYSVOLs replicados de FRS o DFSR. No comprueba si se puede acceder a los recursos compartidos SYSVOL y NELOGON, ya que esto lo realiza CheckSecurityError. Esta prueba usa RPC a través de SMB.
+
+ | SystemLog
+
+ | Valida el estado del registro de eventos del sistema leyendo y escribiendo entradas de los últimos 60 minutos para detectar errores y advertencias. Esta prueba usa RPC y el protocolo remoto de Service Control Manager .
+
+ | Topology
+
+ | Comprueba que la topología de replicación de AD generada está totalmente conectada para todas las DSA. Esta prueba no se realiza de forma predeterminada y se debe ejecutar explícitamente. It checks: 
+
+- Si la generación automática de topologías dentro del sitio está deshabilitada. 
+
+- Si la generación automática de topología entre sitios está deshabilitada. 
+
+- Para topologías desconectadas (objetos de conexión que faltan), tanto ascendentes como descendentes de cada controlador de dominio de referencia. 
+
+ Esta prueba usa RPC, LDAP y DsReplicaSyncAll con la marca DS_REPSYNCALL_DO_NOT_SYNC, lo que significa que analiza y valida la topología de replicación sin replicar realmente los cambios. Esta prueba no valida la disponibilidad de los asociados de replicación. Tener un asociado sin conexión no provocará errores en esta prueba. Tampoco prueba si la programación está cerrada, lo que impide la replicación. Para ver esos resultados de replicación activos, use tests Replications o CutoffServers.
+
+ | VerifyEnterpriseReferences
+
+ | Comprueba que las referencias del sistema especificadas están intactas para la infraestructura de replicación y FRS en todos los objetos de la empresa en cada controlador de dominio. Esto incluye los siguientes atributos y objetos de sitio de controlador de dominio: 
+
+- 
+ frsComputerReference: cn=volumen del sistema de dominio (recurso compartido sysvol),cn=ntfrs subscriptions,cn=<Nombre de DC,ou>=controladores de dominio,DC=<dominio> 
+
+- 
+ frsComputerReferenceBL: cn=<Nombre> del DC,cn=volumen del sistema de dominio (recurso compartido sysvol),cn=servicio de replicación de archivos,cn=sistema,dc=<dominio> 
+
+- 
+ hasMasterNCs: cn=ntds settings,cn=<DC Name,cn>=<site,cn>=sites,cn=configuration,dc=<domain> 
+
+- 
+ msDFSR-ComputerReference: cn=<Nombre> del controlador de dominio,cn=topología,cn=volumen del sistema de dominio,cn=dfsr-blobalsettings,cn=sistema,dc=<dominio> 
+
+- 
+ msDFSR-ComputerReferenceBL: cn=<Nombre> de DC,ou=controladores de dominio,dc=<dominio> 
+
+- 
+ nCName: cn=<nombre de partición,cn>=particiones,cn=configuración,dc=<dominio> 
+
+- 
+ Referencia del servidor: cn=<Nombre> del DC,cn=<site,cn>=sites,cn=configuration,dc=<domain> 
+
+- 
+ ServerReferenceBL: cn=<Nombre> de DC,ou=controladores de dominio,dc=<dominio> 
+
+ Las dos pruebas DFSR solo se realizan si el nivel funcional de dominio es Windows Server 2008 o superior. Esto significa que habrá un error esperado si DFSR no se ha migrado a SYSVOL. Esta prueba usa LDAP y solo se contactan los controladores de dominio especificados.
+
+ | VerifyReferences
+
+ | Comprueba que determinadas referencias del sistema están intactas para la infraestructura de replicación y FRS. Esta prueba comprueba los atributos de referencia del equipo para un único controlador de dominio, incluidos los siguientes atributos y objetos del sitio de controlador de dominio: 
+
+- 
+ frsComputerReference: cn=volumen del sistema de dominio (recurso compartido sysvol),cn=ntfrs subscriptions,cn=<Nombre de DC,ou>=controladores de dominio,DC=<dominio> 
+
+- 
+ frsComputerReferenceBL: cn=<Nombre> del DC,cn=volumen del sistema de dominio (recurso compartido sysvol),cn=servicio de replicación de archivos,cn=sistema,dc=<dominio> 
+
+- 
+ msDFSR-ComputerReference: cn=<Nombre> del controlador de dominio,cn=topología,cn=volumen del sistema de dominio,cn=dfsr-blobalsettings,cn=sistema,dc=<dominio> 
+
+- 
+ msDFSR-ComputerReferenceBL: cn=<Nombre> de DC,ou=controladores de dominio,dc=<dominio> 
+
+- 
+ Referencia del servidor: cn=<Nombre> del DC,cn=<site,cn>=sites,cn=configuration,dc=<domain> 
+
+- 
+ ServerReferenceBL: cn=<Nombre> de DC,ou=controladores de dominio,dc=<dominio> 
+
+ Esta prueba usa LDAP y es similar a la prueba VerifyEnterpriseRefrences , excepto que no comprueba las referencias cruzadas de partición ni todos los demás objetos de controlador de dominio.
+
+ | VerifyReplicas
+
+ | Comprueba que todas las particiones de directorio de aplicaciones se crean instancias por completo en todos los servidores de réplica. Comprueba que el servidor especificado hospeda las particiones de aplicación especificadas por sus atributos de referencia cruzada en el contenedor de particiones. Funciona como CheckSDRefDom , excepto que no muestra datos de salida y valida el alojamiento. Esta prueba usa LDAP.
+
+Note
+
+No se pueden omitir las comprobaciones de conectividad en los controladores de dominio que están registrados en la red y se conectan con otros recursos como DNS, LDAP y RPC.
+
+## DNS syntax
+
+`dcdiag /test:DNS [/DnsBasic | /DnsForwarders | /DnsDelegation | /DnsDynamicUpdate | /DnsRecordRegistration | /DnsResolveExtName [/DnsInternetName:<InternetName>] | /DnsAll] [/f:<LogFile>] [/x:<XMLLog.xml>] [/xsl:<XSLFile.xsl> or <XSLTFile.xslt>] [/s:<DomainController>] [/e] [/v]
+`
+
+La prueba de DNS usa los parámetros siguientes:
+
+ | Parameter
+
+ | Description
+
+ | /test:DNS
+
+ | Realiza la prueba de DNS especificada. Si no se especifica ninguna prueba, el `/DnsAll`valor predeterminado es .
+
+ | /DnsBasic
+
+ | Realiza pruebas básicas de DNS, incluida la conectividad de red, la configuración del cliente DNS, la disponibilidad del servicio y la existencia de zona.
+
+ | /DnsForwarders
+
+ | Realiza las `/DnsBasic` pruebas y también comprueba la configuración de los reenviadores.
+
+ | /DnsDelegation
+
+ | Realiza las `/DnsBasic` pruebas y también comprueba si hay delegaciones adecuadas.
+
+ | /DnsDynamicUpdate
+
+ | 
+ `/DnsBasic` Realiza pruebas y también determina si la actualización dinámica está habilitada en la zona de Active Directory.
+
+ | /DnsRecordRegistration
+
+ | Realiza las `/DnsBasic` pruebas y también comprueba si se registran los registros de recursos de nombre canónico (A), nombre canónico (CNAME) y servicio conocido (SRV). Además, crea un informe de inventario basado en los resultados de la prueba.
+
+ | /DnsResolveExtName [/DnsInternetName:\`<InternetName>`]
+
+ | Realiza las `/DnsBasic` pruebas y también intenta resolver InternetName. Si `/DnsInternetName` no se especifica, intenta resolver el nombre <www.microsoft.com>. Si `/DnsInternetName` se especifica , intenta resolver el nombre de Internet proporcionado por el usuario.
+
+ | /DnsAll
+
+ | Realiza todas las pruebas, excepto para la `/DnsResolveExtName` prueba, y genera un informe.
+
+ | /f:`<LogFile>`
+
+ | Redirige toda la salida a un archivo de registro.
+
+ | /s:`<DomainController>`
+
+ | Ejecuta las pruebas en el controlador de dominio. Si no se especifica este parámetro, las pruebas se ejecutan en el controlador de dominio local.
+
+ | /e
+
+ | Ejecuta todas las pruebas especificadas por `/test:DNS` en todos los controladores de dominio del bosque de Active Directory.
+
+ | /v
+
+ | Verbose. Presenta información extendida sobre los resultados de pruebas correctas, además de información sobre errores y advertencias.
+Cuando no se usa el `/v` parámetro , solo proporciona información de error y advertencia. Use el `/v` modificador cuando se notifiquen errores o advertencias en la tabla de resumen.
+
+ | /x:`<XMLLog.xml>`
+
+ | Redirige toda la salida a xmllog.xml. Este parámetro solo funciona con la `/test:DNS` opción .
+
+ | /xsl:`<XSLFile.xsl>` o 
+/xsl:`<XSLTFile.xslt>`
+
+ | Agrega las instrucciones de procesamiento que hacen referencia a la hoja especificada. Este parámetro solo funciona con la `/test:DNS /x:<XMLLog.xml` opción .
+
+Note
+
+Los tiempos de ejecución de las pruebas DNS pueden ser significativos en grandes empresas cuando se usa el `/e` parámetro . Los controladores de dominio y los servidores DNS que están sin conexión aumentarán los tiempos de ejecución debido a largos períodos de tiempo de espera para RPC y otros protocolos.
+
+## Examples
+
+### Connectivity test
+
+Para ejecutar una serie de pruebas de conectividad en el dominio local, ejecute el siguiente comando:
+
+`dcdiag
+`
+
+Una salida de prueba de conectividad correcta:
+
+`Directory Server Diagnosis
+
+Performing initial setup:
+
+ Trying to find home server...
+
+ Home Server = MapleWaffle-WS22
+
+ * Identified AD Forest. 
+ Done gathering initial info.
+
+Doing initial required tests
+
+ Testing server: Default-First-Site-Name\MAPLEWAFFLE-WS2
+
+ Starting test: Connectivity
+
+ ......................... MAPLEWAFFLE-WS2 passed test Connectivity
+
+Doing primary tests
+
+ Testing server: Default-First-Site-Name\MAPLEWAFFLE-WS2
+
+ Starting test: Advertising
+ ......................... MAPLEWAFFLE-WS2 passed test Advertising
+
+ Starting test: FrsEvent
+ ......................... MAPLEWAFFLE-WS2 passed test FrsEvent
+
+ Starting test: DFSREvent
+ ......................... MAPLEWAFFLE-WS2 passed test DFSREvent
+
+ Starting test: SysVolCheck
+ ......................... MAPLEWAFFLE-WS2 passed test SysVolCheck
+
+ Starting test: KccEvent
+ ......................... MAPLEWAFFLE-WS2 passed test KccEvent
+
+ Starting test: KnowsOfRoleHolders
+ ......................... MAPLEWAFFLE-WS2 passed test KnowsOfRoleHolders
+
+ Starting test: MachineAccount
+ ......................... MAPLEWAFFLE-WS2 passed test MachineAccount
+
+ Starting test: NCSecDesc
+ ......................... MAPLEWAFFLE-WS2 passed test NCSecDesc
+
+ Starting test: NetLogons
+ ......................... MAPLEWAFFLE-WS2 passed test NetLogons
+
+ Starting test: ObjectsReplicated
+ ......................... MAPLEWAFFLE-WS2 passed test ObjectsReplicated
+
+ Starting test: Replications
+ ......................... MAPLEWAFFLE-WS2 passed test Replications
+
+ Starting test: RidManager
+ ......................... MAPLEWAFFLE-WS2 passed test RidManager
+
+ Starting test: Services
+ ......................... MAPLEWAFFLE-WS2 passed test Services
+
+ Starting test: SystemLog
+ ......................... MAPLEWAFFLE-WS2 passed test SystemLog
+
+ Starting test: VerifyReferences
+ ......................... MAPLEWAFFLE-WS2 passed test VerifyReferences
+
+ Running partition tests on : ForestDnsZones
+
+ Starting test: CheckSDRefDom
+ ......................... ForestDnsZones passed test CheckSDRefDom
+
+ Starting test: CrossRefValidation
+ ......................... ForestDnsZones passed test CrossRefValidation
+
+ Running partition tests on : DomainDnsZones
+
+ Starting test: CheckSDRefDom
+ ......................... DomainDnsZones passed test CheckSDRefDom
+
+ Starting test: CrossRefValidation
+ ......................... DomainDnsZones passed test CrossRefValidation
+
+ Running partition tests on : Schema
+
+ Starting test: CheckSDRefDom
+ ......................... Schema passed test CheckSDRefDom
+
+ Starting test: CrossRefValidation
+ ......................... Schema passed test CrossRefValidation
+
+ Running partition tests on : Configuration
+
+ Starting test: CheckSDRefDom
+ ......................... Configuration passed test 
+ CheckSDRefDom
+
+ Starting test: CrossRefValidation
+ ......................... Configuration passed test 
+ CrossRefValidation
+
+ Running partition tests on : corp
+
+ Starting test: CheckSDRefDom
+ ......................... corp passed test CheckSDRefDom
+
+ Starting test: CrossRefValidation
+ ......................... corp passed test CrossRefValidation
+
+ Running enterprise tests on : corp.contoso.com
+
+ Starting test: LocatorCheck
+ ......................... corp.contoso.com passed test
+ LocatorCheck
+
+ Starting test: Intersite
+ ......................... corp.contoso.com passed test 
+ Intersite
+`
+
+Para ejecutar una serie de pruebas de conectividad en un controlador de dominio específico, ejecute el siguiente comando:
+
+`dcdiag /s:<DomainControllerName>
+`
+
+Debe generar resultados similares a la prueba local si no se encuentra ningún problema.
+
+### Salida a un archivo de registro
+
+DCDiag puede guardar los resultados de salida en un archivo de texto mediante la ejecución de:
+
+`dcdiag /s:<DomainControllerName> /f:<FileName.txt>
+`
+
+Si no se especifica , `<FilePath>` los resultados se guardan en `C:\Users\<UserName>\<FileName.txt>` de forma predeterminada.
+
+Para guardar en una ubicación específica, ejecute:
+
+`dcdiag /s:<DomainControllerName> /f:<DriveLetter>\<FilePath>\<FileName.txt>
+`
+
+## See also
+
+ Clave de sintaxis de línea de comandos
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

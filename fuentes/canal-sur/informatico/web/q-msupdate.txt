@@ -1,0 +1,1330 @@
+URL: https://learn.microsoft.com/es-es/sql/t-sql/queries/update-transact-sql?view=sql-server-ver17
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# 
+ UPDATE (Transact-SQL)
+
+## 
+
+ Aplica a:SQL ServerAzure SQL DatabaseAzure SQL Managed InstanceAzure Synapse AnalyticsAlmacén en Microsoft FabricBase de datos SQL en Microsoft Fabric
+
+Cambia los datos de una tabla o vista de SQL Server. Para obtener ejemplos, vea Ejemplos.
+
+ Convenciones de sintaxis de Transact-SQL
+
+## Syntax
+
+`-- Syntax for SQL Server and Azure SQL Database 
+
+[ WITH <common_table_expression> [...n] ] 
+UPDATE 
+ [ TOP ( expression ) [ PERCENT ] ] 
+ { { table_alias | <object> | rowset_function_limited 
+ [ WITH ( <Table_Hint_Limited> [ ...n ] ) ] 
+ } 
+ | @table_variable 
+ } 
+ SET 
+ { column_name = { expression | DEFAULT | NULL } 
+ | { udt_column_name.{ { property_name = expression 
+ | field_name = expression } 
+ | method_name ( argument [ ,...n ] ) 
+ } 
+ } 
+ | column_name { .WRITE ( expression , @Offset , @Length ) } 
+ | @variable = expression 
+ | @variable = column = expression 
+ | column_name { += | -= | *= | /= | %= | &= | ^= | |= } expression 
+ | @variable { += | -= | *= | /= | %= | &= | ^= | |= } expression 
+ | @variable = column { += | -= | *= | /= | %= | &= | ^= | |= } expression 
+ } [ ,...n ] 
+
+ [ <OUTPUT Clause> ] 
+ [ FROM{ <table_source> } [ ,...n ] ] 
+ [ WHERE { <search_condition> 
+ | { [ CURRENT OF 
+ { { [ GLOBAL ] cursor_name } 
+ | cursor_variable_name 
+ } 
+ ] 
+ } 
+ } 
+ ] 
+ [ OPTION ( <query_hint> [ ,...n ] ) ] 
+[ ; ] 
+
+<object> ::= 
+{ 
+ [ server_name . database_name . schema_name . 
+ | database_name .[ schema_name ] . 
+ | schema_name . 
+ ] 
+ table_or_view_name} 
+`
+
+`-- Syntax for Azure Synapse Analytics and Microsoft Fabric
+
+[ WITH <common_table_expression> [ ,...n ] ]
+UPDATE [ database_name . [ schema_name ] . | schema_name . ] table_name
+SET { column_name = { expression | NULL } } [ ,...n ] 
+FROM [ database_name . [ schema_name ] . | schema_name . ] table_name 
+JOIN {<join_table_source>}[ ,...n ] 
+ON <join_condition>
+[ WHERE <search_condition> ] 
+[ OPTION ( LABEL = label_name ) ] 
+[;] 
+
+<join_table_source> ::= 
+{ 
+ [ database_name . [ schema_name ] . | schema_name . ] table_or_view_name [ AS ] table_or_view_alias 
+ [ <tablesample_clause>] 
+ | derived_table [ AS ] table_alias [ ( column_alias [ ,...n ] ) ] 
+} 
+`
+
+## Arguments
+
+CON <common_table_expression>
+
+Especifica el conjunto de resultados o vista temporal nombrada, también conocida como expresión de tabla común (CTE), definida dentro del alcance de la UPDATE sentencia. El conjunto de resultados CTE se deriva de una consulta simple y se referencia mediante UPDATE una sentencia.
+
+Las expresiones de tablas comunes también pueden usarse con las sentencias SELECT, INSERT, DELETE, y CREATE VIEW . Para más información, consulte WITH common_table_expression (Transact-SQL).
+
+TOP (expresión) [ PERCENT ]
+
+Especifica el número o porcentaje de filas que se va a actualizar. 
+ expression puede ser un número o un porcentaje de las filas.
+
+Las filas referenciadas en la expresión TOP usadas con INSERT, UPDATE, o DELETE no están organizadas en ningún orden.
+
+Se requieren paréntesis que delimitan la expresión en TOP en INSERT, UPDATE, y DELETE en sentencias. Para obtener más información, vea TOP (Transact-SQL).
+
+ table_alias
+
+El alias especificado en la UPDATE cláusula que representa la tabla o vista desde la que se deben actualizar las filas.
+
+ server_name
+
+Es el nombre del servidor (un nombre de servidor vinculado o la función OPENDATASOURCE como nombre de servidor) en el que se encuentra la tabla o la vista. Si se especifica server_name, se requiere database_name y schema_name.
+
+ database_name
+
+Es el nombre de la base de datos.
+
+ schema_name
+
+Es el nombre del esquema al que pertenece la tabla o la vista.
+
+ table_or_view_name
+
+Es el nombre de la tabla o vista cuyas filas se deben actualizar. La vista a la que hace referencia table_or_view_name debe poderse actualizar y debe hacer referencia exactamente a una tabla base de la cláusula FROM de la vista. Para más información sobre vistas actualizables, véaseCREATE VIEW (Transact-SQL).
+
+ rowset_function_limited
+
+Es la función OPENQUERY u OPENROWSET, según las funciones del proveedor.
+
+CON (<Table_Hint_Limited>)
+
+Especifica una o varias sugerencias de tabla que están permitidas en una tabla de destino. La palabra clave WITH y los paréntesis son obligatorios. NOLOCK, READUNCOMMITTED, NOEXPAND y otros no están permitidos. Para información sobre las sugerencias de tabla, vea Sugerencias de tabla (Transact-SQL).
+
+ @
+ table_variable
+
+Especifica una variable table como origen de la tabla.
+
+SET
+
+Especifica la lista de nombres de variable o de columna que se van a actualizar.
+
+ column_name
+
+Es una columna que contiene los datos que se van a cambiar. 
+ column_name debe existir en table_or view_name. No se pueden actualizar las columnas de identidad.
+
+ expression
+
+Es una variable, un valor literal, una expresión o una instrucción de subselección entre paréntesis que devuelve un solo valor. El valor devuelto por expression sustituye al valor existente en column_name o variable.
+
+Note
+
+Cuando se hace referencia a los tipos de datos de caracteres Unicode nchar, nvarchar y ntext, debe agregarse como prefijo la letra mayúscula "N" a "expression". Si no se especifica "N", SQL Server convierte la cadena en la página de códigos correspondiente a la intercalación predeterminada de la base de datos o columna. Los caracteres que no se encuentren en esta página de códigos se perderán.
+
+DEFAULT
+
+Especifica que el valor predeterminado definido para la columna debe reemplazar al valor existente en esa columna. Esta operación también puede utilizarse para cambiar la columna a NULL si no tiene asignado ningún valor predeterminado y se ha definido para aceptar valores NULL.
+
+{ += | -= | *= | /= | %= | &= } | ^= | |=
+
+Operador de asignación compuesta:
+
++= Sumar y asignar
+
+-= Restar y asignar
+
+*= Multiplicar y asignar
+
+/= Dividir y asignar
+
+%= Módulo y asignar
+
+&= AND bit a bit y asignar
+
+^= XOR bit a bit y asignar
+
+|= OR bit a bit y asignar
+
+ udt_column_name
+
+Es una columna de un tipo definido por el usuario.
+
+ property_name | field_name
+
+Es un miembro de propiedad público o un miembro de datos público de un tipo definido por el usuario.
+
+ method_name(discusión [ ,...n] )
+
+Es un método mutador público no estático de udt_column_name que usa uno o varios argumentos.
+
+ . WRITE (expresión,@Desplazamiento,@Longitud)
+
+Especifica que se va a modificar una sección del valor de column_name. 
+ expression sustituye a unidades @Length a partir de @Offset de column_name. Solo se pueden especificar con esta cláusula columnas de tipo varchar(max) , nvarchar(max) o varbinary(max) . 
+ column_name no puede ser NULL y no se puede calificar con un nombre de tabla o un alias de tabla.
+
+ expression es el valor que se copia en column_name. 
+ expression se debe evaluar, o bien se debe poder convertir implícitamente al tipo column_name. Si expression se establece en NULL, @Length se omitirá y el valor en column_name se truncará en el valor @Offset especificado.
+
+ @
+ Offset es el punto inicial del valor almacenado en column_name en el que se escribe expression.
+ @
+ desplazamiento es una posición de bytes ordinal basada en cero, es biginty no puede ser un número negativo. Si @Offset es NULL, la operación de actualización anexa expressional final del valor de column_name existente y @Length no se tiene en cuenta. Si @Offset es mayor que la longitud de bytes del valor de column_name, Motor de base de datos devuelve un error. Si la suma de @Offset y @Length excede el final del valor subyacente de la columna, se elimina todo hasta el último carácter del valor.
+
+ @
+ Length es la longitud de la sección de la columna, a partir de @Offset, que se reemplaza por expression.
+ @
+ longitud es bigint y no puede ser un número negativo. Si @Length es NULL, la operación de actualización quita todos los datos de @Offset hasta el final del valor de column_name.
+
+Para obtener más información, vea Actualizar tipos de datos de valores grandes.
+
+ @
+ variable
+
+Es una variable declarada que se establece en el valor devuelto por expression.
+
+ SET
+ @
+ variable = columna = La expresión establece la variable al mismo valor que la columna. Esto difiere de SET@la columna variable = y expresióncolumna = , que establece la variable al valor previo a la actualización de la columna.
+
+ <OUTPUT_Clause>
+
+Devuelve datos actualizados o expresiones basadas en ellos como parte de la UPDATE operación. La cláusula OUTPUT no se admite en ninguna instrucción DML que tenga como destino tablas o vistas remotas. Para más información sobre los argumentos y el comportamiento de esta cláusula, vea Cláusula OUTPUT (Transact-SQL).
+
+DE <table_source>
+
+Especifica que se utiliza un origen de tabla, vista o tabla derivada para proporcionar los criterios de la operación de actualización. Para obtener más información, vea FROM (Transact-SQL).
+
+Si el objeto que se actualiza es el que se indica en la cláusula FROM y solo hay una referencia al objeto en ella, puede especificarse o no un alias de objeto. Si el objeto que se actualiza aparece más de una vez en la cláusula FROM, una única referencia al objeto no debe especificar un alias de tabla. Todas las demás referencias al objeto de la cláusula FROM deben incluir un alias de objeto.
+
+Una vista con un disparador INSTEAD OF UPDATE no puede ser objetivo de una UPDATE con una cláusula FROM.
+
+Note
+
+Las llamadas a OPENDATASOURCE, OPENQUERY u OPENROWSET en la cláusula FROM se evalúan por separado y de forma independiente de otras llamadas a estas funciones utilizadas como destino de la actualización, incluso si se han suministrado argumentos idénticos a las dos llamadas. En particular, las condiciones de filtro o combinación aplicadas en el resultado de una de esas llamadas no tienen ningún efecto en los resultados de la otra llamada.
+
+WHERE
+
+Especifica las condiciones que limitan las filas que se actualizan. Hay dos modos de actualización, dependiendo del formato de cláusula WHERE que se utilice:
+
+- 
+Las actualizaciones por búsqueda especifican una condición de búsqueda para calificar las filas que se van a eliminar.
+
+- 
+Las actualizaciones posicionadas utilizan la cláusula CURRENT OF para especificar un cursor. La operación de actualización se produce en la posición actual del cursor.
+
+ <search_condition>
+
+Especifica la condición que debe cumplirse para que se actualicen las filas. La condición de búsqueda también puede ser la condición en la que se basa una combinación. No hay límite en el número de predicados que se pueden incluir en una condición de búsqueda. Para más información sobre los predicados y las condiciones de búsqueda, vea Condición de búsqueda (Transact-SQL).
+
+CORRIENTE DE
+
+Indica que la actualización se realice en la posición actual del cursor especificado.
+
+Una actualización posicionada que utiliza una cláusula WHERE CURRENT OF actualiza la fila que se encuentra en la posición actual del cursor. Este método puede ser más preciso que una actualización por búsqueda que use una cláusula WHERE <search_condition> para calificar las filas que se deben actualizar. Una actualización buscada modifica varias filas cuando la condición de búsqueda no identifica de forma única una sola fila.
+
+GLOBAL
+
+Especifica que cursor_name hace referencia a un cursor global.
+
+ cursor_name
+
+Es el nombre del cursor abierto desde el que se debe realizar la captura. Si hay un cursor global y otro local con el nombre cursor_name, este argumento hace referencia al cursor global si se especifica GLOBAL; de lo contrario, hace referencia al cursor local. El cursor debe permitir actualizaciones.
+
+ cursor_variable_name
+
+Es el nombre de una variable de cursor. 
+ cursor_variable_name debe hacer referencia a un cursor que permita realizar actualizaciones.
+
+OPCIÓN (<query_hint> [ ,...n ] )
+
+Especifica que se utilizan las sugerencias del optimizador para personalizar el modo en que el Motor de base de datos procesa la instrucción. Para obtener más información, consulte Sugerencias de consulta (Transact-SQL).
+
+## procedimientos recomendados
+
+Use la función `@@ROWCOUNT` para devolver el número de filas insertadas a la aplicación cliente. Para más información, consulta @@ROWCOUNT (Transact-SQL).
+
+Los nombres de variables pueden usarse en UPDATE sentencias para mostrar los valores antiguos y nuevos afectados, pero esto solo debe usarse cuando la UPDATE sentencia afecta a un único registro. Si la UPDATE sentencia afecta a varios registros, para devolver los valores antiguo y nuevo de cada registro, utilice la cláusula OUTPUT.
+
+Actúe con precaución al especificar la cláusula FROM para proporcionar los criterios de la operación de actualización. Los resultados de una UPDATE sentencia no están definidos si la sentencia incluye una cláusula FROM que no está especificada de tal manera que solo haya un valor disponible por cada ocurrencia de columna que se actualice, es decir, si la UPDATE sentencia no es determinista. Por ejemplo, en la UPDATE sentencia del siguiente script, ambas filas en `Table1` cumplen las cualificaciones de la cláusula FROM en la UPDATE sentencia; pero no se define qué fila de `Table1` se usa para actualizar la fila en `Table2.`
+
+`USE AdventureWorks2022; 
+GO 
+IF OBJECT_ID ('dbo.Table1', 'U') isn't NULL 
+ DROP TABLE dbo.Table1; 
+GO 
+IF OBJECT_ID ('dbo.Table2', 'U') isn't NULL 
+ DROP TABLE dbo.Table2; 
+GO 
+CREATE TABLE dbo.Table1 
+ (ColA INT NOT NULL, ColB DECIMAL(10,3) NOT NULL); 
+GO 
+CREATE TABLE dbo.Table2 
+ (ColA INT PRIMARY KEY NOT NULL, ColB DECIMAL(10,3) NOT NULL); 
+GO 
+INSERT INTO dbo.Table1 VALUES(1, 10.0), (1, 20.0); 
+INSERT INTO dbo.Table2 VALUES(1, 0.0); 
+GO 
+UPDATE dbo.Table2 
+SET dbo.Table2.ColB = dbo.Table2.ColB + dbo.Table1.ColB 
+FROM dbo.Table2 
+ INNER JOIN dbo.Table1 
+ ON (dbo.Table2.ColA = dbo.Table1.ColA); 
+GO 
+SELECT ColA, ColB 
+FROM dbo.Table2; 
+`
+
+Puede ocurrir el mismo problema cuando se combinan las cláusulas `FROM` y `WHERE CURRENT OF`. En el ejemplo siguiente, las dos filas de `Table2` cumplen los requisitos de la cláusula `FROM` de la instrucción `UPDATE`. No se ha definido qué fila de `Table2` se utilizará para actualizar la fila de `Table1`.
+
+`USE AdventureWorks2022; 
+GO 
+IF OBJECT_ID ('dbo.Table1', 'U') isn't NULL 
+ DROP TABLE dbo.Table1; 
+GO 
+IF OBJECT_ID ('dbo.Table2', 'U') isn't NULL 
+ DROP TABLE dbo.Table2; 
+GO 
+CREATE TABLE dbo.Table1 
+ (c1 INT PRIMARY KEY NOT NULL, c2 INT NOT NULL); 
+GO 
+CREATE TABLE dbo.Table2 
+ (d1 INT PRIMARY KEY NOT NULL, d2 INT NOT NULL); 
+GO 
+INSERT INTO dbo.Table1 VALUES (1, 10); 
+INSERT INTO dbo.Table2 VALUES (1, 20), (2, 30); 
+GO 
+DECLARE abc CURSOR LOCAL FOR 
+ SELECT c1, c2 
+ FROM dbo.Table1; 
+OPEN abc; 
+FETCH abc; 
+UPDATE dbo.Table1 
+SET c2 = c2 + d2 
+FROM dbo.Table2 
+WHERE CURRENT OF abc; 
+GO 
+SELECT c1, c2 FROM dbo.Table1; 
+GO 
+`
+
+## Soporte de compatibilidad
+
+El soporte para el uso de las pistas READUNCOMMITTED y NOLOCK en la cláusula FROM que se aplican a la tabla objetivo de una UPDATE instrucción o DELETE será eliminado en una versión futura de SQL Server. Evite usar estas sugerencias en este contexto en el nuevo trabajo de desarrollo y planee modificar las aplicaciones que las usan actualmente.
+
+## Tipos de datos
+
+Todas las columnas char y nchar se rellenan a la derecha hasta la longitud definida.
+
+Si ANSI_PADDING está configurado en OFF, todos los espacios finales se eliminan de los datos insertados en las columnas varchar y nvarchar , excepto en cadenas que contienen solo espacios. Estas cadenas se truncan en una cadena vacía. Si ANSI_PADDING está configurado en ON, se insertan espacios finales. El controlador ODBC de Microsoft SQL Server y el proveedor OLE DB Provider para SQL Server se activan ANSI_PADDING automáticamente para cada conexión. Se puede configurar en orígenes de datos ODBC o mediante atributos o propiedades de conexión. Para obtener más información, vea SET ANSI_PADDING (Transact-SQL).
+
+### Actualización de columnas de tipo text, ntext e image
+
+Modificar una columna de texto, ntext o imagen con UPDATE inicializa la columna, asigna un puntero de texto válido y asigna al menos una página de datos, a menos que la columna se actualice con NULL.
+
+Para reemplazar o modificar grandes bloques de texto, ntext o datos de imagen , utilice WRITETEXT o UPDATETEXT en lugar de la UPDATE sentencia.
+
+Si la UPDATE sentencia pudiera cambiar más de una fila mientras actualizaba tanto la clave de agrupamiento como una o más columnas de texto, ntext o imagen , la actualización parcial de estas columnas se ejecuta como un reemplazo completo de los valores.
+
+Important
+
+Los tipos de datos ntext, text e image se quitarán en una versión futura de SQL Server. Evite su uso en nuevos trabajos de desarrollo y piense en modificar las aplicaciones que los usan actualmente. Use nvarchar(max), varchar(max)y varbinary(max) en su lugar.
+
+### Actualización de tipos de datos de valores grandes
+
+Use la cláusula .WRITE (expression,@Offset,@Length) para realizar una actualización parcial o completa de los tipo de datos varchar(max), nvarchar(max) y varbinary(max).
+
+Por ejemplo, la actualización parcial de una columna varchar(max) podría eliminar o modificar solo los 200 primeros bytes de la columna (200 caracteres si se usan los caracteres ASCII), mientras que una actualización completa eliminaría o modificaría todos los datos de la columna. Las actualizaciones .WRITE que insertan o anexan datos nuevos se registran mínimamente si se ha establecido para la base de datos el modelo de recuperación optimizado para cargas masivas de registros o el modelo de recuperación simple. El registro mínimo no se usa cuando se actualizan los valores existentes. Para más información, consulte El registro de transacciones (SQL Server).
+
+El Motor de base de datos convierte una actualización parcial en una actualización completa cuando la UPDATE sentencia provoca alguna de estas acciones:
+
+- Cambia una columna de clave de la tabla o vista con particiones.
+
+- Modifica más de una fila y también actualiza la clave de un índice clúster no único en un valor no constante.
+
+No se puede usar el . WRITE cláusula para actualizar una columna NULL o establecer el valor de column_name en NULL.
+
+ @
+ Offset y @Length se especifican en bytes para los tipos de datos varbinary y varchar, y en pares de bytes para el tipo de datos nvarchar. Para obtener más información sobre las longitudes de tipos de datos de cadena, vea char y varchar (Transact-SQL) y nchar y nvarchar (Transact-SQL).
+
+Para que el rendimiento sea óptimo, se recomienda insertar o actualizar los datos en tamaños de fragmento que sean múltiplos de 8.040 bytes.
+
+Si se hace referencia en una cláusula OUTPUT a la columna modificada por la cláusula .WRITE, el valor completo de la columna, ya sea la imagen anterior de deleted.column_name o la imagen posterior de inserted.column_name, se devuelve en la columna que se ha especificado en la variable de la tabla. Vea el ejemplo R a continuación.
+
+Para obtener la misma funcionalidad de .WRITE con otros tipos de datos de carácter o binarios, use STUFF (Transact-SQL).
+
+### Actualización de columnas de tipos definidos por el usuario
+
+Hay varios métodos para actualizar los valores de columnas de tipos definidos por el usuario:
+
+- 
+Suministrar un valor de un tipo de datos del sistema de SQL Server, siempre y cuando el tipo definido por el usuario admita la conversión implícita o explícita desde ese tipo. En el ejemplo siguiente se muestra cómo actualizar un valor de una columna de tipo `Point`, definido por el usuario, mediante la conversión explícita de una cadena.
+
+`UPDATE Cities 
+SET Location = CONVERT(Point, '12.3:46.2') 
+WHERE Name = 'Anchorage'; 
+`
+
+- 
+Invocar un método, marcado como mutator, del tipo definido por el usuario, para realizar la actualización. En el ejemplo siguiente se invoca un método mutador de tipo `Point` denominado `SetXY`. Esto actualiza el estado de la instancia del tipo.
+
+`UPDATE Cities 
+SET Location.SetXY(23.5, 23.5) 
+WHERE Name = 'Anchorage'; 
+`
+
+Note
+
+SQL Server devuelve un error si se invoca un método mutador en un valor NULL de Transact-SQL, o si un nuevo valor producido por un método mutador es NULL.
+
+- 
+Modificar el valor de un miembro de propiedad registrado o un miembro de datos público del tipo definido por el usuario. La expresión que suministra el valor debe poder convertirse implícitamente al tipo de la propiedad. En el ejemplo siguiente se modifica el valor de la propiedad `X` del tipo `Point` definido por el usuario.
+
+`UPDATE Cities 
+SET Location.X = 23.5 
+WHERE Name = 'Anchorage'; 
+`
+
+Para modificar diferentes propiedades de la misma columna de tipo definida por el usuario, emitir múltiples UPDATE sentencias o invocar un método mutador del mismo tipo.
+
+### Actualización de datos FILESTREAM
+
+Puedes usar la UPDATE sentencia para actualizar un campo FILESTREAM a un valor nulo, un valor vacío o una cantidad relativamente pequeña de datos en línea. Sin embargo, se envía una gran cantidad de datos de manera más eficaz en un archivo si se utilizan interfaces de Win32. Al actualizar un campo FILESTREAM, modifica los datos de BLOB subyacentes en el sistema de archivos. Cuando un campo FILESTREAM está establecido en NULL, se eliminan los datos de BLOB asociados al campo. No se puede usar . WRITE(), para realizar actualizaciones parciales en los datos FILESTREAM. Para obtener más información, vea FILESTREAM (SQL Server).
+
+## Control de errores
+
+Si la actualización de una fila infringe una restricción o una regla, infringe la configuración de valores NULL de la columna o, si el nuevo valor es de un tipo de datos incompatible, se cancela la instrucción, se devuelve un error y no se actualiza ningún registro.
+
+Cuando una UPDATE sentencia encuentra un error aritmético (desbordamiento, división por cero o error de dominio) durante la evaluación de expresión, la actualización no se realiza. El resto del lote no se ejecuta y se devuelve un mensaje de error.
+
+Si la actualización de una o varias columnas que participan en un índice clúster hace que el tamaño del mismo y de la fila supere 8.060 bytes, la actualización no se produce y se devuelve un mensaje de error.
+
+## Interoperability
+
+ UPDATE las sentencias solo se permiten en el cuerpo de funciones definidas por el usuario si la tabla que se modifica es una variable de tabla.
+
+Cuando se define un `INSTEAD OF` disparador en UPDATE acciones contra una tabla, el disparador se ejecuta en lugar de la UPDATE sentencia. Las versiones anteriores de SQL Server solo soportan disparadores AFTER definidos en UPDATE y otras sentencias de modificación de datos. La cláusula FROM no puede especificarse en una UPDATE sentencia que haga referencia, directa o indirectamente, a una vista con un `INSTEAD OF` disparador definido. Para más información sobre los desencadenantes EN LUGAR de LOS, véaseCREATE TRIGGER (Transact-SQL).
+
+Actualmente, la cláusula FROM no puede especificarse en una UPDATE declaración sobre Warehouse en Microsoft Fabric. Se admiten sentencias de tabla UPDATE única.
+
+## Limitaciones y restricciones
+
+La cláusula FROM no puede especificarse en una UPDATE sentencia que haga referencia, directa o indirectamente, a una vista que tenga un `INSTEAD OF` disparador definido. Para más información sobre `INSTEAD OF` los desencadenantes, véaseCREATE TRIGGER (Transact-SQL).
+
+Cuando una expresión común de tabla (CTE) es el objetivo de una UPDATE afirmación, todas las referencias a la CTE en la instrucción deben coincidir. Por ejemplo, si la CTE tiene asignado un alias en la cláusula FROM, el alias se debe utilizar para obtener todas las otras referencias a la CTE. Se requieren referencias CTE inequívocas porque un CTE no tiene un identificador de objeto, que SQL Server usa para reconocer la relación implícita entre un objeto y su alias. Sin esta relación, el plan de consulta puede producir un comportamiento de la unión inesperado y resultados imprevistos de la consulta. Los ejemplos siguientes muestran métodos correctos e incorrectos de especificar una CTE cuando la CTE es el objeto de destino de la operación de actualización.
+
+`USE tempdb; 
+GO 
+-- UPDATE statement with CTE references that are correctly matched. 
+DECLARE @x TABLE (ID INT, Value INT); 
+DECLARE @y TABLE (ID INT, Value INT); 
+INSERT @x VALUES (1, 10), (2, 20); 
+INSERT @y VALUES (1, 100),(2, 200); 
+
+WITH cte AS (SELECT * FROM @x) 
+UPDATE x -- cte is referenced by the alias. 
+SET Value = y.Value 
+FROM cte AS x -- cte is assigned an alias. 
+INNER JOIN @y AS y ON y.ID = x.ID; 
+SELECT * FROM @x; 
+GO 
+`
+
+Este es el conjunto de resultados.
+
+`ID Value 
+------ ----- 
+1 100 
+2 200 
+(2 row(s) affected) 
+`
+
+ UPDATE Declaración con referencias CTE que están mal emparejadas.
+
+`USE tempdb; 
+GO 
+DECLARE @x TABLE (ID INT, Value INT); 
+DECLARE @y TABLE (ID INT, Value INT); 
+INSERT @x VALUES (1, 10), (2, 20); 
+INSERT @y VALUES (1, 100),(2, 200); 
+
+WITH cte AS (SELECT * FROM @x) 
+UPDATE cte -- cte isn't referenced by the alias. 
+SET Value = y.Value 
+FROM cte AS x -- cte is assigned an alias. 
+INNER JOIN @y AS y ON y.ID = x.ID; 
+SELECT * FROM @x; 
+GO 
+`
+
+Este es el conjunto de resultados.
+
+`ID Value 
+------ ----- 
+1 100 
+2 100 
+(2 row(s) affected) 
+`
+
+## Comportamiento de bloqueo
+
+Una UPDATE sentencia adquiere un bloqueo exclusivo (`X`) en cualquier fila que modifique y mantiene estos bloqueos hasta que la transacción se completa. Dependiendo del plan de consulta para la UPDATE sentencia, el número de filas que se modifiquen y el nivel de aislamiento de la transacción, los bloqueos pueden adquirirse a nivel de página o tabla en lugar de a nivel de fila. Para impedir que estos bloqueos de nivel superior se produzcan, considere la posibilidad de dividir en lotes las instrucciones UPDATE que afecten a miles de filas o más, y asegúrese de que los índices admitan las condiciones de combinación y de filtro. Vea el artículo sobre el bloqueo del motor de base de datos para obtener más información sobre la mecánica de bloqueo en SQL Server.
+
+Si el bloqueo optimizado está habilitado, algunos aspectos del comportamiento de bloqueo para `UPDATE` cambiar. Por ejemplo, los bloqueos exclusivos (`X`) no se mantienen hasta que se completa la transacción. Para obtener más información, consulte bloqueo optimizado.
+
+## Comportamiento de registro
+
+La UPDATE sentencia se registra; sin embargo, actualizaciones parciales a tipos de datos de gran valor usando el . Las cláusulas WRITE se registran mínimamente. Para obtener más información, vea “Actualizar tipos de datos de valores grandes” en la sección anterior “Tipos de datos”.
+
+## Security
+
+### Permissions
+
+Se requieren permisos `UPDATE` en la tabla de destino. 
+ `SELECT` También se requieren permisos para la tabla que se actualiza si la UPDATE sentencia contiene una cláusula WHERE, o si la expresión en la SET cláusula utiliza una columna en la tabla.
+
+ UPDATE Los permisos por defecto corresponden a los miembros del `sysadmin` rol fijo del servidor, los `db_owner` roles fijos de base de datos y `db_datawriter` el propietario de la tabla. Los miembros de los roles `sysadmin`, `db_owner` y `db_securityadmin`, y el propietario de la tabla pueden transferir permisos a otros usuarios.
+
+## Examples
+
+ | Category
+
+ | Elementos de sintaxis ofrecidos
+
+ | 
+ Sintaxis básica
+
+ | UPDATE
+
+ | 
+ Limitar las filas que se actualizan
+
+ | WHERE * TOP * WITH expresión de tabla común * WHERE CURRENT OF
+
+ | 
+ Establecer valores de columna
+
+ | valores calculados * operadores compuestos * valores predeterminados * subconsultas
+
+ | 
+ Especificar objetos de destino que no sean tablas estándar
+
+ | vistas * variables de tabla * alias de tabla
+
+ | 
+ Actualizar los datos basados en datos de otras tablas
+
+ | FROM
+
+ | 
+ Actualizar las filas de una tabla remota
+
+ | servidor vinculado * OPENQUERY * OPENDATASOURCE
+
+ | 
+ Actualizar tipos de datos de objetos grandes
+
+ | . WRITE * OPENROWSET
+
+ | 
+ Actualizar tipos definidos por el usuario
+
+ | Tipos definidos por el usuario
+
+ | 
+ Invalidar el comportamiento predeterminado del optimizador de consultas mediante sugerencias
+
+ | sugerencias de tabla * sugerencias de consulta
+
+ | 
+ Captura de los resultados de la UPDATE afirmación
+
+ | Cláusula OUTPUT
+
+ | 
+ Uso UPDATE en otras afirmaciones
+
+ | Procedimientos almacenados * TRY... ATRAPAR
+
+### Sintaxis básica
+
+Los ejemplos de esta sección demuestran la funcionalidad básica de la UPDATE afirmación usando la sintaxis mínima requerida.
+
+#### A. Usando una afirmación simple UPDATE
+
+En el ejemplo siguiente se actualiza un solo valor de columna para todas las filas de la tabla `Person.Address`.
+
+`USE AdventureWorks2022; 
+GO 
+UPDATE Person.Address 
+SET ModifiedDate = GETDATE(); 
+`
+
+#### B. Actualizar varias columnas
+
+En el siguiente ejemplo se actualizan los valores de las columnas `Bonus`, `CommissionPct` y `SalesQuota` para todas las filas de la tabla `SalesPerson`.
+
+`USE AdventureWorks2022; 
+GO 
+UPDATE Sales.SalesPerson 
+SET Bonus = 6000, CommissionPct = .10, SalesQuota = NULL; 
+GO 
+`
+
+### Limitar las filas que se actualizan
+
+Los ejemplos de esta sección muestran formas de limitar el número de filas afectadas por la UPDATE sentencia.
+
+#### C. Usar la cláusula WHERE
+
+En el ejemplo siguiente se utiliza la cláusula WHERE para especificar las filas que se van a actualizar. La instrucción actualiza el valor de la columna `Color` de la tabla `Production.Product` para todas las filas con un valor existente de 'Red' en la columna `Color` y con un valor que comience por 'Road-250' en la columna `Name`.
+
+`USE AdventureWorks2022; 
+GO 
+UPDATE Production.Product 
+SET Color = N'Metallic Red' 
+WHERE Name LIKE N'Road-250%' AND Color = N'Red'; 
+GO 
+`
+
+#### D. Usar la cláusula TOP
+
+Los siguientes ejemplos utilizan la cláusula TOP para limitar el número de filas que se modifican en una UPDATE sentencia. Cuando se usa una cláusula TOP (n) con UPDATE, la operación de actualización se realiza sobre una selección aleatoria de 'n' número de filas. En el ejemplo siguiente se actualiza un 25 por ciento la columna `VacationHours` en 10 filas aleatorias de la tabla `Employee`.
+
+`USE AdventureWorks2022;
+GO
+UPDATE TOP (10) HumanResources.Employee
+SET VacationHours = VacationHours * 1.25 ;
+GO 
+`
+
+Si debe usar TOP para aplicar actualizaciones por orden cronológico, debe utilizarla junto con ORDER BY en una instrucción de subselección. En el siguiente ejemplo se actualizan las horas de vacaciones de los 10 empleados cuyas fechas de alta son más antiguas.
+
+`UPDATE HumanResources.Employee 
+SET VacationHours = VacationHours + 8 
+FROM (SELECT TOP 10 BusinessEntityID FROM HumanResources.Employee 
+ ORDER BY HireDate ASC) AS th 
+WHERE HumanResources.Employee.BusinessEntityID = th.BusinessEntityID; 
+GO 
+`
+
+#### E. Usar la cláusula WITH common_table_expression
+
+En el siguiente ejemplo se actualiza el valor `PerAssemblyQty` para todas las partes y componentes que se utilizan directamente o indirectamente para crear el `ProductAssemblyID 800`. La expresión de tabla común devuelve una lista jerárquica de partes que se usan directamente para compilar `ProductAssemblyID 800` y las partes que se usan para compilar esos componentes, etc. Solo se modifican las filas devueltas por la expresión de tabla común.
+
+`USE AdventureWorks2022; 
+GO 
+WITH Parts(AssemblyID, ComponentID, PerAssemblyQty, EndDate, ComponentLevel) AS 
+( 
+ SELECT b.ProductAssemblyID, b.ComponentID, b.PerAssemblyQty, 
+ b.EndDate, 0 AS ComponentLevel 
+ FROM Production.BillOfMaterials AS b 
+ WHERE b.ProductAssemblyID = 800 
+ AND b.EndDate IS NULL 
+ UNION ALL 
+ SELECT bom.ProductAssemblyID, bom.ComponentID, p.PerAssemblyQty, 
+ bom.EndDate, ComponentLevel + 1 
+ FROM Production.BillOfMaterials AS bom 
+ INNER JOIN Parts AS p 
+ ON bom.ProductAssemblyID = p.ComponentID 
+ AND bom.EndDate IS NULL 
+) 
+UPDATE Production.BillOfMaterials 
+SET PerAssemblyQty = c.PerAssemblyQty * 2 
+FROM Production.BillOfMaterials AS c 
+JOIN Parts AS d ON c.ProductAssemblyID = d.AssemblyID 
+WHERE d.ComponentLevel = 0; 
+`
+
+#### F. Usar la cláusula WHERE CURRENT OF
+
+En el siguiente ejemplo se usa la cláusula WHERE CURRENT OF para actualizar solo la fila en la que se coloca el cursor. Cuando un cursor se basa en una unión, solo se modifica el `table_name` especificado en la UPDATE sentencia. Otras tablas que participan en el cursor no se ven afectadas.
+
+`USE AdventureWorks2022; 
+GO 
+DECLARE complex_cursor CURSOR FOR 
+ SELECT a.BusinessEntityID 
+ FROM HumanResources.EmployeePayHistory AS a 
+ WHERE RateChangeDate <> 
+ (SELECT MAX(RateChangeDate) 
+ FROM HumanResources.EmployeePayHistory AS b 
+ WHERE a.BusinessEntityID = b.BusinessEntityID) ; 
+OPEN complex_cursor; 
+FETCH FROM complex_cursor; 
+UPDATE HumanResources.EmployeePayHistory 
+SET PayFrequency = 2 
+WHERE CURRENT OF complex_cursor; 
+CLOSE complex_cursor; 
+DEALLOCATE complex_cursor; 
+GO 
+`
+
+### Establecer valores de columna
+
+Ejemplos en esta sección muestran la actualización de columnas utilizando valores computados, subconsultas y DEFAULT valores.
+
+#### G. Especificar un valor calculado
+
+Los siguientes ejemplos utilizan valores calculados en una UPDATE sentencia. En el ejemplo se duplica el valor de la columna `ListPrice` para todas las filas de la tabla `Product`.
+
+`USE AdventureWorks2022; 
+GO 
+UPDATE Production.Product 
+SET ListPrice = ListPrice * 2; 
+GO 
+`
+
+#### H. Especificar un operador compuesto
+
+En el ejemplo siguiente se usa la variable `@NewPrice` para incrementar el precio de todas las bicicletas rojas, tomando como base el precio actual y sumándole 10.
+
+`USE AdventureWorks2022; 
+GO 
+DECLARE @NewPrice INT = 10; 
+UPDATE Production.Product 
+SET ListPrice += @NewPrice 
+WHERE Color = N'Red'; 
+GO 
+`
+
+En el siguiente ejemplo se usa el operador compuesto += para anexar los datos `' - tool malfunction'` al valor existente de la columna `Name` de las filas que tienen un valor de `ScrapReasonID` comprendido entre 10 y 12.
+
+`USE AdventureWorks2022; 
+GO 
+UPDATE Production.ScrapReason 
+SET Name += ' - tool malfunction' 
+WHERE ScrapReasonID BETWEEN 10 and 12; 
+`
+
+#### I. Especificación de una subconsulta en la SET cláusula
+
+El siguiente ejemplo utiliza una subconsulta en la SET cláusula para determinar el valor que se utiliza para actualizar la columna. La subconsulta debe devolver solo un valor escalar. Es decir, un solo valor por fila. En el ejemplo se modifica la columna `SalesYTD` de la tabla `SalesPerson` para reflejar las ventas más recientes registradas en la tabla `SalesOrderHeader`. La subconsulta suma las ventas de cada vendedor en la instrucción `UPDATE`.
+
+`USE AdventureWorks2022; 
+GO 
+UPDATE Sales.SalesPerson 
+SET SalesYTD = SalesYTD + 
+ (SELECT SUM(so.SubTotal) 
+ FROM Sales.SalesOrderHeader AS so 
+ WHERE so.OrderDate = (SELECT MAX(OrderDate) 
+ FROM Sales.SalesOrderHeader AS so2 
+ WHERE so2.SalesPersonID = so.SalesPersonID) 
+ AND Sales.SalesPerson.BusinessEntityID = so.SalesPersonID 
+ GROUP BY so.SalesPersonID); 
+GO 
+`
+
+#### J. Actualización de filas usando DEFAULT valores
+
+En el siguiente ejemplo se establece la columna `CostRate` en su valor predeterminado (0.00) para todas las filas que tengan un valor de `CostRate` mayor que `20.00`.
+
+`USE AdventureWorks2022; 
+GO 
+UPDATE Production.Location 
+SET CostRate = DEFAULT 
+WHERE CostRate > 20.00; 
+`
+
+### Especificar objetos de destino que no sean tablas estándar
+
+En los ejemplos de esta sección se muestra cómo actualizar filas especificando una vista, un alias de tabla o una variable de tabla.
+
+#### K. Especificar una vista como el objeto de destino
+
+En el siguiente ejemplo se actualizan las filas de la tabla especificando una vista como el objeto de destino. La definición de vista hace referencia a varias tablas, sin embargo, la UPDATE sentencia tiene éxito porque solo hace referencia a columnas de una de las tablas subyacentes. La UPDATE sentencia fallaría si se especificaban columnas de ambas tablas. Para más información, vea Modificar datos mediante una vista.
+
+`USE AdventureWorks2022; 
+GO 
+UPDATE Person.vStateProvinceCountryRegion 
+SET CountryRegionName = 'United States of America' 
+WHERE CountryRegionName = 'United States'; 
+`
+
+#### L. Especificar un alias de tabla como el objeto de destino
+
+En el siguiente ejemplo se actualizan las filas de la tabla `Production.ScrapReason`. El alias de la tabla asignado `ScrapReason` en la cláusula FROM se especifica como objeto destino en la UPDATE cláusula.
+
+`USE AdventureWorks2022; 
+GO 
+UPDATE sr 
+SET sr.Name += ' - tool malfunction' 
+FROM Production.ScrapReason AS sr 
+JOIN Production.WorkOrder AS wo 
+ ON sr.ScrapReasonID = wo.ScrapReasonID 
+ AND wo.ScrappedQty > 300; 
+`
+
+#### M. Especificar una variable de tabla como el objeto de destino
+
+En el siguiente ejemplo se actualizan las filas de una variable de tabla.
+
+`USE AdventureWorks2022; 
+GO 
+-- Create the table variable. 
+DECLARE @MyTableVar TABLE ( 
+ EmpID INT NOT NULL, 
+ NewVacationHours INT, 
+ ModifiedDate DATETIME); 
+
+-- Populate the table variable with employee ID values from HumanResources.Employee. 
+INSERT INTO @MyTableVar (EmpID) 
+ SELECT BusinessEntityID FROM HumanResources.Employee; 
+
+-- Update columns in the table variable. 
+UPDATE @MyTableVar 
+SET NewVacationHours = e.VacationHours + 20, 
+ ModifiedDate = GETDATE() 
+FROM HumanResources.Employee AS e 
+WHERE e.BusinessEntityID = EmpID; 
+
+-- Display the results of the UPDATE statement. 
+SELECT EmpID, NewVacationHours, ModifiedDate FROM @MyTableVar 
+ORDER BY EmpID; 
+GO 
+`
+
+### Actualizar los datos basados en datos del resto de las tablas
+
+En los ejemplos de esta sección se muestran métodos para actualizar las filas de una tabla basada en la información de otra.
+
+#### N. Usando la UPDATE sentencia con información de otra tabla
+
+En este ejemplo se modifica la columna `SalesYTD` de la tabla `SalesPerson` para reflejar las ventas más recientes registradas en la tabla `SalesOrderHeader`.
+
+`USE AdventureWorks2022; 
+GO 
+UPDATE Sales.SalesPerson 
+SET SalesYTD = SalesYTD + SubTotal 
+FROM Sales.SalesPerson AS sp 
+JOIN Sales.SalesOrderHeader AS so 
+ ON sp.BusinessEntityID = so.SalesPersonID 
+ AND so.OrderDate = (SELECT MAX(OrderDate) 
+ FROM Sales.SalesOrderHeader 
+ WHERE SalesPersonID = sp.BusinessEntityID); 
+GO 
+`
+
+En el ejemplo anterior se asume que solo se registra una venta para un determinado vendedor en una fecha determinada y que las actualizaciones son recientes. Si se puede registrar más de una venta para un vendedor especificado en el mismo día, el ejemplo que se muestra no funciona correctamente. Se ejecuta sin errores, pero cada valor de `SalesYTD`se actualiza con una sola venta, independientemente del número de ventas que se produjeron ese día realmente. Esto se debe a que una sola UPDATE instrucción nunca actualiza la misma fila dos veces.
+
+Si puede haber más de una venta el mismo día para un vendedor especificado, todas las ventas de cada vendedor se deben agregar en la instrucción `UPDATE`, tal como se muestra en el ejemplo siguiente:
+
+`USE AdventureWorks2022; 
+GO 
+UPDATE Sales.SalesPerson 
+SET SalesYTD = SalesYTD + 
+ (SELECT SUM(so.SubTotal) 
+ FROM Sales.SalesOrderHeader AS so 
+ WHERE so.OrderDate = (SELECT MAX(OrderDate) 
+ FROM Sales.SalesOrderHeader AS so2 
+ WHERE so2.SalesPersonID = so.SalesPersonID) 
+ AND Sales.SalesPerson.BusinessEntityID = so.SalesPersonID 
+ GROUP BY so.SalesPersonID); 
+GO 
+`
+
+### Actualización de las filas de una tabla remota
+
+En los ejemplos de esta sección se muestra cómo actualizar las filas de una tabla de destino remota mediante un servidor vinculado o una función de conjunto de filas para hacer referencia a la tabla remota.
+
+#### O. Actualizar datos en una tabla remota con un servidor vinculado
+
+En el ejemplo siguiente se actualiza una tabla en un servidor remoto. En el ejemplo primero se crea un vínculo al origen de datos remoto mediante sp_addlinkedserver. El nombre del servidor vinculado, `MyLinkedServer`, se especifica después como parte del nombre de objeto de cuatro partes con el formato servidor.catálogo.esquema.objeto. Observe que debe especificar un nombre de servidor válido para `@datasrc`.
+
+`USE master; 
+GO 
+-- Create a link to the remote data source. 
+-- Specify a valid server name for @datasrc as 'server_name' or 'server_nameinstance_name'. 
+
+EXEC sp_addlinkedserver @server = N'MyLinkedServer', 
+ @srvproduct = N' ', 
+ @provider = N'SQLNCLI10', 
+ @datasrc = N'<server name>', 
+ @catalog = N'AdventureWorks2022'; 
+GO 
+USE AdventureWorks2022; 
+GO 
+-- Specify the remote data source using a four-part name 
+-- in the form linked_server.catalog.schema.object. 
+
+UPDATE MyLinkedServer.AdventureWorks2022.HumanResources.Department 
+SET GroupName = N'Public Relations' 
+WHERE DepartmentID = 4; 
+`
+
+#### P. Actualizar datos en una tabla remota con la función OPENQUERY
+
+En el ejemplo siguiente se actualiza una fila de una tabla remota mediante la especificación de la función de conjunto de filas OPENQUERY. En este ejemplo se usa el nombre del servidor vinculado creado en el ejemplo anterior.
+
+`UPDATE OPENQUERY (MyLinkedServer, 'SELECT GroupName FROM HumanResources.Department WHERE DepartmentID = 4') 
+SET GroupName = 'Sales and Marketing'; 
+`
+
+#### Q. Actualizar datos en una tabla remota con la función OPENDATASOURCE
+
+En el ejemplo siguiente se actualiza una fila de una tabla remota mediante la especificación de la función de conjunto de filas OPENDATASOURCE. Especifique un nombre de servidor válido para el origen de datos con el formato server_name o server_name\instance_name. Quizá deba configurar la instancia de SQL Server para las consultas distribuidas ad hoc. Para más información, vea Opción de configuración del servidor ad hoc distributed queries.
+
+`UPDATE OPENDATASOURCE('SQLNCLI', 'Data Source=<server name>;Integrated Security=SSPI').AdventureWorks2022.HumanResources.Department
+SET GroupName = 'Sales and Marketing' WHERE DepartmentID = 4; 
+`
+
+### Actualización de tipos de datos de objetos grandes
+
+En los ejemplos de esta sección se muestran los métodos de actualización de los valores de columnas definidos con tipos de datos de objetos grandes (LOB).
+
+#### R. Usando UPDATE con . WRITE para modificar datos en una columna nvarchar(max)
+
+En el ejemplo siguiente se usa la cláusula .WRITE para actualizar un valor parcial de `DocumentSummary`, una columna de tipo nvarchar(max) de la tabla `Production.Document`. La palabra `components` se sustituye por la palabra `features` especificando la palabra sustituta, la ubicación inicial (desplazamiento) de la palabra que se va a sustituir en los datos existentes y el número de caracteres que se va a sustituir (longitud). En el ejemplo también se usa la cláusula OUTPUT para devolver las imágenes anterior y posterior de la columna `DocumentSummary` a la variable de tabla `@MyTableVar`.
+
+`USE AdventureWorks2022; 
+GO 
+DECLARE @MyTableVar TABLE ( 
+ SummaryBefore NVARCHAR(max), 
+ SummaryAfter NVARCHAR(max)); 
+UPDATE Production.Document 
+SET DocumentSummary .WRITE (N'features',28,10) 
+OUTPUT deleted.DocumentSummary, 
+ inserted.DocumentSummary 
+ INTO @MyTableVar 
+WHERE Title = N'Front Reflector Bracket Installation'; 
+SELECT SummaryBefore, SummaryAfter 
+FROM @MyTableVar; 
+GO 
+`
+
+#### S. Usando UPDATE con . WRITE para añadir y eliminar datos en una columna nvarchar(max)
+
+En los ejemplos siguientes se agregan y quitan datos en una columna de tipo nvarchar(max) que tiene un valor establecido actualmente en NULL. Dado que . La cláusula WRITE no se puede usar para modificar una columna NULL; la columna se rellena primero con datos temporales. Después, estos datos se reemplazan por los datos correctos mediante la cláusula .WRITE. En los demás ejemplos se anexan datos al final del valor de la columna, se quitan (truncan) los datos de la columna y, por último, se quitan los datos parciales de la columna. Las sentencias SELECT muestran la modificación de datos generada por cada UPDATE sentencia.
+
+`USE AdventureWorks2022; 
+GO 
+-- Replacing NULL value with temporary data. 
+UPDATE Production.Document 
+SET DocumentSummary = N'Replacing NULL value' 
+WHERE Title = N'Crank Arm and Tire Maintenance'; 
+GO 
+SELECT DocumentSummary 
+FROM Production.Document 
+WHERE Title = N'Crank Arm and Tire Maintenance'; 
+GO 
+-- Replacing temporary data with the correct data. Setting @Length to NULL 
+-- truncates all existing data from the @Offset position. 
+UPDATE Production.Document 
+SET DocumentSummary .WRITE(N'Carefully inspect and maintain the tires and crank arms.',0,NULL) 
+WHERE Title = N'Crank Arm and Tire Maintenance'; 
+GO 
+SELECT DocumentSummary 
+FROM Production.Document 
+WHERE Title = N'Crank Arm and Tire Maintenance'; 
+GO 
+-- Appending additional data to the end of the column by setting 
+-- @Offset to NULL. 
+UPDATE Production.Document 
+SET DocumentSummary .WRITE (N' Appending data to the end of the column.', NULL, 0) 
+WHERE Title = N'Crank Arm and Tire Maintenance'; 
+GO 
+SELECT DocumentSummary 
+FROM Production.Document 
+WHERE Title = N'Crank Arm and Tire Maintenance'; 
+GO 
+-- Removing all data from @Offset to the end of the existing value by 
+-- setting expression to NULL. 
+UPDATE Production.Document 
+SET DocumentSummary .WRITE (NULL, 56, 0) 
+WHERE Title = N'Crank Arm and Tire Maintenance'; 
+GO 
+SELECT DocumentSummary 
+FROM Production.Document 
+WHERE Title = N'Crank Arm and Tire Maintenance'; 
+GO 
+-- Removing partial data beginning at position 9 and ending at 
+-- position 21. 
+UPDATE Production.Document 
+SET DocumentSummary .WRITE ('',9, 12) 
+WHERE Title = N'Crank Arm and Tire Maintenance'; 
+GO 
+SELECT DocumentSummary 
+FROM Production.Document 
+WHERE Title = N'Crank Arm and Tire Maintenance'; 
+GO 
+`
+
+#### T. Usar UPDATE con OPENROWSET para modificar una columna varbinary(max)
+
+En el ejemplo siguiente se sustituye por una imagen nueva una imagen almacenada en una columna de tipo varbinary(max) . La función OPENROWSET se usa con la opción BULK para cargar la imagen en la columna. En este ejemplo se da por supuesto que hay un archivo denominado `Tires.jpg` en la ruta de acceso especificada.
+
+`USE AdventureWorks2022; 
+GO 
+UPDATE Production.ProductPhoto 
+SET ThumbNailPhoto = ( 
+ SELECT * 
+ FROM OPENROWSET(BULK 'c:Tires.jpg', SINGLE_BLOB) AS x ) 
+WHERE ProductPhotoID = 1; 
+GO 
+`
+
+#### U. Uso UPDATE para modificar datos de FILESTREAM
+
+El siguiente ejemplo utiliza la UPDATE sentencia para modificar los datos en el archivo del sistema de archivos. No se recomienda este método para transmitir grandes cantidades de datos a un archivo. Use las interfaces de Win32 adecuadas. En el ejemplo siguiente se reemplaza cualquier texto del registro del archivo por el texto `Xray 1`. Para obtener más información, vea FILESTREAM (SQL Server).
+
+`UPDATE Archive.dbo.Records 
+SET [Chart] = CAST('Xray 1' as VARBINARY(max)) 
+WHERE [SerialNumber] = 2; 
+`
+
+### Actualizar tipos definidos por el usuario
+
+En los siguientes ejemplos se modifican valores de columnas de tipo definido por el usuario (UDT) CLR. Se muestran tres métodos. Para más información sobre las columnas definidas por el usuario, vea Tipos definidos por el usuario CLR.
+
+#### V. Usar un tipo de datos del sistema
+
+Puede actualizar un UDT suministrando un valor en un tipo de datos del sistema de SQL Server, siempre que el tipo definido por el usuario admita la conversión implícita o explícita desde ese tipo. En el ejemplo siguiente se muestra cómo actualizar un valor de una columna de tipo `Point`, definido por el usuario, mediante la conversión explícita de una cadena.
+
+`UPDATE dbo.Cities 
+SET Location = CONVERT(Point, '12.3:46.2') 
+WHERE Name = 'Anchorage'; 
+`
+
+#### W. Invocar un método
+
+Puede actualizar un UDT invocando un método, marcado como mutador, del tipo definido por el usuario, para realizar la actualización. En el ejemplo siguiente se invoca un método mutador de tipo `Point` denominado `SetXY`. Esto actualiza el estado de la instancia del tipo.
+
+`UPDATE dbo.Cities 
+SET Location.SetXY(23.5, 23.5) 
+WHERE Name = 'Anchorage'; 
+`
+
+#### X. Modificar el valor de una propiedad o miembro de datos
+
+Puede actualizar un UDT modificando el valor de un miembro de datos público o de un miembro de propiedad registrado del tipo definido por el usuario. La expresión que suministra el valor debe poder convertirse implícitamente al tipo de la propiedad. En el ejemplo siguiente se modifica el valor de la propiedad `X` del tipo `Point` definido por el usuario.
+
+`UPDATE dbo.Cities 
+SET Location.X = 23.5 
+WHERE Name = 'Anchorage'; 
+`
+
+### Invalidar el comportamiento predeterminado del optimizador de consultas mediante sugerencias
+
+Los ejemplos de esta sección demuestran cómo usar pistas de tabla y consulta para anular temporalmente el comportamiento por defecto del optimizador de consultas al procesar la UPDATE sentencia.
+
+Caution
+
+Como el optimizador de consultas de SQL Server suele seleccionar el mejor plan de ejecución de una consulta, se recomienda que únicamente los administradores de bases de datos y desarrolladores experimentados utilicen las sugerencias como último recurso.
+
+#### Y. Especificar una sugerencia de tabla
+
+En el ejemplo siguiente se especifica la sugerencia de tabla TABLOCK. Esta pista especifica que se toma un bloqueo compartido sobre la mesa `Production.Product` y se mantiene hasta el final de la UPDATE afirmación.
+
+`USE AdventureWorks2022; 
+GO 
+UPDATE Production.Product 
+WITH (TABLOCK) 
+SET ListPrice = ListPrice * 1.10 
+WHERE ProductNumber LIKE 'BK-%'; 
+GO 
+`
+
+#### Z. Especificar una sugerencia de consulta
+
+El siguiente ejemplo especifica la pista`OPTIMIZE FOR (@variable)` de consulta en la UPDATE sentencia. Esta sugerencia indica al optimizador de consultas que use un valor concreto para una variable local cuando la consulta se compile y optimice. El valor se utiliza solo durante la optimización de la consulta y no durante la ejecución de la misma.
+
+`USE AdventureWorks2022; 
+GO 
+CREATE PROCEDURE Production.uspProductUpdate 
+@Product NVARCHAR(25) 
+AS 
+SET NOCOUNT ON; 
+UPDATE Production.Product 
+SET ListPrice = ListPrice * 1.10 
+WHERE ProductNumber LIKE @Product 
+OPTION (OPTIMIZE FOR (@Product = 'BK-%') ); 
+GO 
+-- Execute the stored procedure 
+EXEC Production.uspProductUpdate 'BK-%'; 
+`
+
+### Captura de los resultados de la UPDATE afirmación
+
+Ejemplos en esta sección demuestran cómo usar la Cláusula OUTPUT para devolver información o expresiones basadas en cada fila afectada por una UPDATE sentencia. Estos resultados se pueden devolver a la aplicación de procesamiento para que los utilice en mensajes de confirmación, archivado y otros requisitos similares de una aplicación.
+
+#### AA. Usando UPDATE con la cláusula OUTPUT
+
+En el siguiente ejemplo se actualiza la columna `VacationHours` de la tabla `Employee` en un 25 % para los empleados con menos de 10 horas de vacaciones. Además, se establece el valor de la columna `ModifiedDate` en la fecha actual. La cláusula `OUTPUT` devuelve el valor de `VacationHours` antes de aplicar la instrucción `UPDATE` en la columna `deleted.VacationHours` y el valor actualizado en la columna `inserted.VacationHours` en la variable de tabla `@MyTableVar`.
+
+Las dos instrucciones `SELECT` que le siguen devuelven los valores en `@MyTableVar` y los resultados de la operación de actualización en la tabla `Employee`. Para más ejemplos en los que se usa la cláusula OUTPUT, vea Cláusula OUTPUT (Transact-SQL).
+
+`USE AdventureWorks2022; 
+GO 
+
+--Display the initial data of the table to be updated. 
+SELECT BusinessEntityID, VacationHours, ModifiedDate, HireDate 
+FROM HumanResources.Employee
+WHERE VacationHours < 10 
+GO 
+
+DECLARE @MyTableVar TABLE ( 
+ EmpID int NOT NULL, 
+ OldVacationHours smallint, 
+ NewVacationHours smallint, 
+ ModifiedDate datetime); 
+UPDATE HumanResources.Employee 
+SET VacationHours = VacationHours * 1.25, 
+ ModifiedDate = GETDATE() 
+OUTPUT inserted.BusinessEntityID, 
+ deleted.VacationHours, 
+ inserted.VacationHours, 
+ inserted.ModifiedDate 
+INTO @MyTableVar
+ WHERE VacationHours < 10 
+--Display the result set of the table variable. 
+SELECT EmpID, OldVacationHours
+, NewVacationHours, ModifiedDate 
+FROM @MyTableVar; 
+
+GO 
+--Display the result set of the table. 
+SELECT BusinessEntityID, VacationHours, ModifiedDate, HireDate 
+FROM HumanResources.Employee
+ WHERE VacationHours < 10 
+GO 
+`
+
+### Uso UPDATE en otras sentencias
+
+Los ejemplos de esta sección demuestran cómo usarlos UPDATE en otras sentencias.
+
+#### AB. Uso UPDATE en un procedimiento almacenado
+
+El siguiente ejemplo utiliza una UPDATE sentencia en un procedimiento almacenado. El procedimiento toma un parámetro de entrada, `@NewHours`y un parámetro de salida `@RowCount`. El `@NewHours` valor del parámetro se utiliza en la UPDATE sentencia para actualizar la columna `VacationHours` de la tabla `HumanResources.Employee`. El parámetro de salida `@RowCount` se usa para devolver el número de filas afectadas a una variable local. La expresión CASE se utiliza en la SET cláusula para determinar condicionalmente el valor que se establece para `VacationHours`. Cuando se paga al empleado por hora (`SalariedFlag` = 0), `VacationHours` se establece en el número actual de horas más el valor especificado en `@NewHours`; de lo contrario, `VacationHours` se establece en el valor especificado en `@NewHours`.
+
+`USE AdventureWorks2022; 
+GO 
+CREATE PROCEDURE HumanResources.Update_VacationHours 
+@NewHours SMALLINT 
+AS 
+SET NOCOUNT ON; 
+UPDATE HumanResources.Employee 
+SET VacationHours = 
+ ( CASE 
+ WHEN SalariedFlag = 0 THEN VacationHours + @NewHours 
+ ELSE @NewHours 
+ END 
+ ) 
+WHERE CurrentFlag = 1; 
+GO 
+
+EXEC HumanResources.Update_VacationHours 40; 
+`
+
+#### AC. Usando UPDATE en un INTENTO... Bloque CATCH
+
+El siguiente ejemplo utiliza una UPDATE sentencia en un TRY... bloque CATCH para gestionar errores de ejecución que puedan ocurrir durante la operación de actualización.
+
+`USE AdventureWorks2022; 
+GO 
+BEGIN TRANSACTION; 
+
+BEGIN TRY 
+ -- Intentionally generate a constraint violation error. 
+ UPDATE HumanResources.Department 
+ SET Name = N'MyNewName' 
+ WHERE DepartmentID BETWEEN 1 AND 2; 
+END TRY 
+BEGIN CATCH 
+ SELECT 
+ ERROR_NUMBER() AS ErrorNumber 
+ ,ERROR_SEVERITY() AS ErrorSeverity 
+ ,ERROR_STATE() AS ErrorState 
+ ,ERROR_PROCEDURE() AS ErrorProcedure 
+ ,ERROR_LINE() AS ErrorLine 
+ ,ERROR_MESSAGE() AS ErrorMessage; 
+
+ IF @@TRANCOUNT > 0 
+ ROLLBACK TRANSACTION; 
+END CATCH; 
+
+IF @@TRANCOUNT > 0 
+ COMMIT TRANSACTION; 
+GO 
+`
+
+## Ejemplos: Azure Synapse Analytics
+
+### AD. Usando una afirmación simple UPDATE
+
+En los ejemplos siguientes se muestra cómo se pueden ver afectadas todas las filas cuando no se usa una cláusula WHERE para especificar la fila (o filas) que se van a actualizar.
+
+En este ejemplo se actualizan los valores de las columnas `EndDate` y `CurrentFlag` de todas las filas de la tabla `DimEmployee`.
+
+`-- Uses AdventureWorks 
+
+UPDATE DimEmployee 
+SET EndDate = '2010-12-31', CurrentFlag='False'; 
+`
+
+También puedes usar valores calculados en una UPDATE sentencia. En el ejemplo siguiente se duplica el valor de la columna `ListPrice` para todas las filas de la tabla `Product`.
+
+`-- Uses AdventureWorks 
+
+UPDATE DimEmployee 
+SET BaseRate = BaseRate * 2; 
+`
+
+### AE. Usar la UPDATE sentencia con una cláusula WHERE
+
+En el ejemplo siguiente se utiliza la cláusula WHERE para especificar las filas que se van a actualizar.
+
+`-- Uses AdventureWorks 
+
+UPDATE DimEmployee 
+SET FirstName = 'Gail' 
+WHERE EmployeeKey = 500; 
+`
+
+### AF. Uso de la UPDATE sentencia con etiqueta
+
+El siguiente ejemplo muestra el uso de una ETIQUETA para la UPDATE sentencia.
+
+`-- Uses AdventureWorks 
+
+UPDATE DimProduct 
+SET ProductSubcategoryKey = 2 
+WHERE ProductKey = 313 
+OPTION (LABEL = N'label1'); 
+`
+
+### AG. Usando la UPDATE sentencia con información de otra tabla
+
+En este ejemplo se crea una tabla para almacenar las ventas totales por año. Actualiza las ventas totales del año 2004 mediante la ejecución de una instrucción SELECT en la tabla FactInternetSales.
+
+`-- Uses AdventureWorks 
+
+CREATE TABLE YearlyTotalSales ( 
+ YearlySalesAmount MONEY NOT NULL, 
+ Year SMALLINT NOT NULL ) 
+WITH ( DISTRIBUTION = REPLICATE ); 
+
+INSERT INTO YearlyTotalSales VALUES (0, 2004); 
+INSERT INTO YearlyTotalSales VALUES (0, 2005); 
+INSERT INTO YearlyTotalSales VALUES (0, 2006); 
+
+UPDATE YearlyTotalSales 
+SET YearlySalesAmount= 
+(SELECT SUM(SalesAmount) FROM FactInternetSales WHERE OrderDateKey >=20040000 AND OrderDateKey < 20050000) 
+WHERE Year=2004; 
+
+SELECT * FROM YearlyTotalSales; 
+`
+
+### AH. Unión de ANSI para las instrucciones de actualización
+
+En este ejemplo se muestra cómo actualizar datos en función del resultado de la combinación con otra tabla.
+
+`CREATE TABLE dbo.Table1 
+ (ColA INT NOT NULL, ColB DECIMAL(10,3) NOT NULL); 
+GO 
+CREATE TABLE dbo.Table2 
+ (ColA INT NOT NULL, ColB DECIMAL(10,3) NOT NULL); 
+GO 
+INSERT INTO dbo.Table1 VALUES(1, 10.0); 
+INSERT INTO dbo.Table2 VALUES(1, 0.0); 
+GO 
+UPDATE dbo.Table2 
+SET dbo.Table2.ColB = dbo.Table2.ColB + dbo.Table1.ColB 
+FROM dbo.Table2 
+ INNER JOIN dbo.Table1 
+ ON (dbo.Table2.ColA = dbo.Table1.ColA); 
+GO 
+SELECT ColA, ColB 
+FROM dbo.Table2;
+GO
+`
+
+## Contenido relacionado
+
+- 
+
+ CREATE TABLE (Transact-SQL)
+
+- 
+
+ CREATE TRIGGER (Transact-SQL)
+
+- 
+ Cursores (Transact-SQL)
+
+- 
+
+ DELETE (Transact-SQL)
+
+- 
+
+ INSERT (Transact-SQL)
+
+- 
+ Funciones text e image: TEXTPTR (Transact-SQL)
+
+- 
+ CON common_table_expression (Transact-SQL)
+
+- 
+ FILESTREAM (SQL Server)
+
+- 
+ Intercalación y compatibilidad con Unicode
+
+- 
+ Juegos de caracteres de un solo byte y de varios bytes
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-09-21

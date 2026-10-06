@@ -1,0 +1,68 @@
+URL: https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/plan/planning-global-catalog-server-placement
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Planear la ubicación del servidor de catálogo global
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+La selección de ubicación de catálogo global requiere planificación, excepto si tiene un bosque de un solo dominio. En un bosque de un solo dominio, configure todos los controladores de dominio como servidores de catálogo global. Como cada controlador de dominio almacena la única partición de directorio de dominio en el bosque, para la configuración de cada controlador de dominio como un servidor de catálogo global no se necesita uso adicional de espacio en disco, uso de CPU ni tráfico de replicación. En un bosque de un solo dominio, todos los controladores de dominio actúan como servidores de catálogos globales virtuales; es decir, todos pueden responder a cualquier solicitud de autenticación o servicio. Esta condición especial para bosques de dominio único es por diseño. Las solicitudes de autenticación no necesitan contactar con un servidor de catálogo global como cuando hay varios dominios y un usuario puede ser miembro de un grupo universal que exista en otro dominio. Pero solo los controladores de dominio designados como servidores de catálogo global pueden responder a consultas de catálogo globales en el puerto 3268 de catálogo global. Para simplificar la administración en este escenario y garantizar respuestas coherentes, la designación de todos los controladores de dominio como servidores de catálogo global elimina la preocupación por la que los controladores de dominio pueden responder a las consultas de catálogo globales. En concreto, cada vez que un usuario usa Start\Search\For Personas o Find Printers o expande Universal Groups, estas solicitudes solo van al catálogo global.
+
+En bosques de varios dominios, los servidores de catálogos globales facilitan las solicitudes de inicio de sesión de usuario y las búsquedas en todo el bosque. En la ilustración siguiente se muestra cómo determinar qué ubicaciones requieren servidores de catálogo globales.
+
+En la mayoría de los casos, se recomienda incluir el catálogo global al instalar controladores de dominio nuevos. Se aplican las excepciones siguientes:
+
+- Ancho de banda limitado: en sitios remotos, si el vínculo de red de área extensa (WAN) entre el sitio remoto y el sitio central está limitado, puede usar el almacenamiento en caché de pertenencia a grupos universales en el sitio remoto para adaptarse a las necesidades de inicio de sesión de los usuarios en el sitio.
+
+- Incompatibilidad del rol maestro de operaciones de infraestructura: no coloque el catálogo global en un controlador de dominio que hospede el rol maestro de operaciones de infraestructura en el dominio, a menos que todos los controladores de dominio en el dominio sean servidores de catálogo globales o el bosque tenga solo un dominio.
+
+## Adición de servidores de catálogo globales según los requisitos de la aplicación
+
+Algunas aplicaciones, como Microsoft Exchange, Message Queuing (también conocida como MSMQ) y las que usan DCOM no proporcionan una respuesta adecuada sobre vínculos WAN latentes y, por tanto, necesitan una infraestructura de catálogo global de alta disponibilidad para proporcionar una latencia de consulta baja. Determine si las aplicaciones que funcionan mal en un vínculo WAN lento se ejecutan en ubicaciones o si las ubicaciones requieren Microsoft Exchange Server. Si las ubicaciones incluyen aplicaciones que no entregan una respuesta adecuada mediante un vínculo WAN, debe colocar un servidor de catálogo global en la ubicación para reducir la latencia de las consultas.
+
+Note
+
+Los controladores de dominio de solo lectura (RODC) se pueden promover correctamente al estado del servidor de catálogo global. Pero determinadas aplicaciones habilitadas para directorios no pueden admitir un RODC como servidor de catálogo global. Por ejemplo, ninguna versión de Microsoft Exchange Server usa RODC. Pero Microsoft Exchange Server funciona en entornos que incluyen RODC, siempre y cuando haya controladores de dominio grabables disponibles. Exchange Server 2007 omite eficazmente los RODC. Exchange Server 2003 también omite los RODC en condiciones predeterminadas en las que los componentes de Exchange detectan automáticamente los controladores de dominio disponibles. No se realizaron cambios en Exchange Server 2003 para que sea consciente de los servidores de directorios de solo lectura. Por lo tanto, intentar forzar a los servicios y herramientas de administración de Exchange Server 2003 a usar RODC puede dar lugar a un comportamiento imprevisible.
+
+## Adición de servidores de catálogo globales para un gran número de usuarios
+
+Coloque servidores de catálogo globales en todas las ubicaciones que contengan más de 100 usuarios para reducir la congestión de los vínculos WAN de red y evitar la pérdida de productividad en caso de error de vínculo WAN.
+
+## Uso del ancho de banda de alta disponibilidad
+
+No es necesario colocar un catálogo global en una ubicación que no incluya aplicaciones que necesiten un servidor de catálogo global, que incluya menos de 100 usuarios y que también esté conectado a otra ubicación que incluya un servidor de catálogo global mediante un vínculo WAN que esté completamente disponible para Active Directory Domain Services (AD DS). En este caso, los usuarios pueden acceder al servidor de catálogo global mediante el vínculo WAN.
+
+Los usuarios móviles deben ponerse en contacto con los servidores de catálogo global cada vez que inicien sesión por primera vez en cualquier ubicación. Si el tiempo de inicio de sesión mediante el vínculo WAN es inaceptable, coloque un catálogo global en una ubicación visitada por un gran número de usuarios móviles.
+
+## Habilitación del almacenamiento en caché de pertenencia a grupos universales
+
+En el caso de las ubicaciones que incluyen menos de 100 usuarios y que no incluyen un gran número de usuarios móviles o aplicaciones que necesitan un servidor de catálogo global, puede implementar controladores de dominio que ejecutan Windows Server 2008 y habilitar el almacenamiento en caché de pertenencia a grupos universales. Asegúrese de que los servidores de catálogo global no estén a más de un salto de replicación del controlador de dominio en el que está habilitado el almacenamiento en caché de pertenencia a grupos universales para que se pueda actualizar la información del grupo universal en la caché. Para más información sobre cómo funciona el almacenamiento en caché de grupos universales, consulte el artículo Funcionamiento del catálogo global.
+
+Para obtener una hoja de cálculo que le ayude a documentar dónde planea colocar servidores de catálogo globales y controladores de dominio con el almacenamiento en caché del grupo universal habilitado, consulte las Ayudas al trabajo para el Kit de implementación de Windows Server 2003, descargue Job_Aids_Designing_and_Deploying_Directory_and_Security_Services.zip, and open Domain Controller Placement (DSSTOPO_4.doc). Consulte la información sobre las ubicaciones en las que necesita colocar servidores de catálogo global al implementar el dominio raíz del bosque y los dominios regionales.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-05-12

@@ -1,0 +1,360 @@
+URL: https://www.virtualbox.org/manual/topics/Introduction.html
+Leído: 2026-10-05
+
+About Oracle VirtualBox
+
+# About Oracle VirtualBox
+
+Oracle VirtualBox is a cross-platform virtualization application. That means it extends the capabilities of your existing computer so that it can run multiple operating systems, inside multiple virtual machines (VMs), at the same time. As an example, you can run Windows and Linux on your Mac, run Windows Server on your Linux server, run Linux on your Windows PC, and so on, all alongside your existing applications.
+
+You can install and run as many virtual machines as you like. The only practical limits are disk space and memory. You can also save, copy, export and transfer VMs between hosts, and Oracle Cloud Infrastructure.
+
+Oracle VirtualBox can run on multiple host operating systems, and on small embedded systems or desktop machines all the way up to data center servers and Cloud environments. You can install appliances (VMs pre-installed with applications and configured for a particular purpose, such as a mail server) to save time and improve consistency. You may even be able to install an old OS that your host computer no longer runs, because you can configure virtual hardware in a VM to suit your needs.
+
+Virtualization can significantly reduce hardware and electricity costs. Most of the time, computers only use a fraction of their potential power and run with low average system loads. A lot of hardware resources are therefore wasted. So, instead of running many such physical computers that are only partially used, you can pack many VMs onto a few powerful hosts and balance the loads between them.
+
+Oracle VirtualBox is a useful tool for development and testing. For example, you can investigate issues with software configuration or networking using VMs.
+
+For more information on Oracle VirtualBox, including support and licensing, see https://www.oracle.com/virtualization/virtualbox/#licensing.
+
+## Oracle VirtualBox Components
+
+Oracle VirtualBox is installed on the host operating system. The host is the physical computer, such as a laptop or server, where you run VirtualBox and the virtual machines you create or import. There are versions of Oracle VirtualBox for Windows, macOS, Linux, and Oracle Solaris hosts. See Choosing an Installation Package for more information. The VirtualBox Platform Package consists of all open source components and is licensed under the GNU General Public License V3.
+
+The Oracle VirtualBox Extension Pack is an optional, separately licensed, installation package that includes these additional features:
+
+- 
+
+VirtualBox Remote Desktop Protocol (VRDP) server. See Remote Display (VRDP Support). This allows remote clients to connect to a VM using RDP. For example in the case of a server running several applications in different VMs. There is no need for a GUI for any of these on the host machine, but you may wish to connect to them remotely for troubleshooting or maintenance.
+
+- 
+
+Host webcam passthrough. See Webcam Passthrough.
+
+- 
+
+Intel PXE boot ROM.
+
+- 
+
+Disk image encryption with AES algorithm. See Encryption of Disk Images.
+
+- 
+
+Cloud integration features. See Integrating with Oracle Cloud Infrastructure.
+
+The guest operating system (guest OS) is the OS that is running inside a virtual machine. Theoretically, Oracle VirtualBox can run any x86 OS such as DOS, Windows, OS/2, FreeBSD, and OpenBSD on an x86_64 host. It can also run a selection of Arm guests on Arm hosts. See Guest Operating Systems.
+
+The virtual machine (VM) is the special environment that Oracle VirtualBox creates for your guest OS while it is running. In other words, you run your guest OS in a VM. Normally, a VM is shown as a window on your computer's desktop. Depending on which of the various frontends of Oracle VirtualBox you use, the VM might be shown in full screen mode or remotely on another computer.
+
+Internally, Oracle VirtualBox treats a VM as a set of parameters that specify its behavior. Some parameters describe hardware settings, such as the amount of memory and number of CPUs assigned. Other parameters describe the state information, such as whether the VM is running or saved.
+
+You can view these VM settings in VirtualBox Manager, in the Settings window, and by running the VBoxManage command. See VBoxManage.
+
+Guest Additions for OSs that qualify for Oracle Premier Support are included in the VirtualBox base package. These are installed inside a VM, once the OS is installed and running, to improve performance of the guest OS and to add extra features. See Guest Additions.
+
+## Oracle VirtualBox Features
+
+### Portability
+
+Oracle VirtualBox is a so-called hosted hypervisor, sometimes referred to as a type 2 hypervisor. Whereas a bare-metal or type 1 hypervisor runs directly on the hardware, Oracle VirtualBox requires an existing OS to be installed. It can thus run alongside existing applications on that host. Oracle VirtualBox runs on a large number of 64-bit host operating systems. See Choosing an Installation Package.
+CAUTION:
+
+Do not run other hypervisors together with Oracle VirtualBox. 
+While several hypervisors can normally be installed in parallel, do not attempt to run virtual machines from competing hypervisors at the same time. Oracle VirtualBox cannot track what another hypervisor is currently attempting to do on the same host, and especially if several products attempt to use hardware virtualization features such as VT-x, this can crash the entire host.
+
+Oracle VirtualBox is available on multiple host platforms, and the same file and image formats are used on each. This enables you to run virtual machines created on one host on another host with a different host OS. For example, you can create a virtual machine (VM) on Windows and then run it on Linux.
+
+In addition, VMs can easily be imported and exported using the Open Virtualization Format (OVF), an industry standard created for this purpose. You can even import OVFs that were created with a different virtualization software. See Importing and Exporting Virtual Machines.
+
+### OCI Integration
+
+You can export and import VMs to and from Oracle Cloud Infrastructure. This simplifies development of applications and deployment to the production environment. See Exporting an Appliance to Oracle Cloud Infrastructure.
+
+### Guest Additions
+
+The Oracle VirtualBox
+ Guest Additions are software packages that can be installed on VMs to improve their performance and to provide additional integration and communication with the host system. VMs running Guest Additions support automatic adjustment of video resolutions, seamless windows, accelerated 3D graphics, shared folders, clipboard sharing, drag and drop, and more.
+
+### Virtual Hardware
+
+Oracle VirtualBox implements virtual hardware devices and drivers, and implements resource sharing with the real hardware on the host.
+
+- 
+
+Guest multiprocessing (SMP). Oracle VirtualBox can present up to 32 virtual CPUs to each virtual machine, irrespective of how many CPU cores are physically present on your host. 
+
+- 
+
+USB devices. Oracle VirtualBox implements a virtual USB controller and enables you to connect arbitrary USB devices to your virtual machines without having to install device-specific drivers on the host. USB support is not limited to certain device categories. See USB Settings. 
+
+- 
+
+Hardware compatibility. Oracle VirtualBox virtualizes a vast array of virtual devices, among them many devices that are typically provided by other virtualization platforms. That includes IDE, SCSI, and SATA hard disk controllers, several virtual network cards and sound cards, virtual serial ports and an Input/Output Advanced Programmable Interrupt Controller (I/O APIC), which is found in many computer systems. This enables easy cloning of disk images from real machines and importing of third-party virtual machines into Oracle VirtualBox.
+
+- 
+
+ACPI. The Advanced Configuration and Power Interface (ACPI) is available in Oracle VirtualBox. This enables easy cloning of disk images from real machines or third-party virtual machines into Oracle VirtualBox. With its unique ACPI power status support, Oracle VirtualBox can even report to ACPI-aware guest OSs the power status of the host. For mobile systems running on battery, the guest can thus enable energy saving and notify the user of the remaining power, for example in full screen modes.
+
+- 
+
+Multiscreen resolutions. Oracle VirtualBox VMs support screen resolutions many times that of a physical screen, allowing them to be spread over a large number of screens attached to the host system.
+
+- 
+
+Built-in iSCSI support. This unique feature enables you to connect a virtual machine directly to an iSCSI storage server without going through the host system. The VM accesses the iSCSI target directly without the extra overhead that is required for virtualizing hard disks in container files. See iSCSI Servers.
+
+- 
+
+PXE Network boot. The integrated virtual network cards of Oracle VirtualBox fully support remote booting using the Preboot Execution Environment (PXE).
+
+### VM Management
+
+- 
+
+Multigeneration branched snapshots.
+ Oracle VirtualBox can save arbitrary snapshots of the state of the VM. You can go back in time and revert the VM to any such snapshot and start an alternative VM configuration from there, effectively creating a whole snapshot tree. This can be useful for experimenting with a computing environment, testing, or troubleshooting without the need for frequent backups and restores. See Snapshots. You can create and delete snapshots while the VM is running.
+
+- 
+
+VM groups.
+ Oracle VirtualBox provides a groups feature that enables the user to organize and control virtual machines collectively, as well as individually. In addition to basic groups, it is also possible for any VM to be in more than one group, and for groups to be nested in a hierarchy. This means you can have groups of groups. In general, the operations that can be performed on groups are the same as those that can be applied to individual VMs: Start, Pause, Reset, Close (Save state, Send Shutdown, Power off), Discard Saved State, Show in File System, Sort.
+
+### Remote Access
+
+ The VirtualBox Remote Desktop Extension (VRDE) is a host extension package that enables high-performance remote access to any running VM. This extension supports the Remote Desktop Protocol (RDP) originally built into Windows, with special additions for full client USB support.
+
+The VRDE does not rely on the Windows RDP server and therefore works with guest OSs other than Windows, even in text mode, and does not require application support in the VM. The VRDE is described in detail in Remote Display (VRDP Support).
+
+- 
+
+Oracle VirtualBox also provides
+
+- 
+
+Extensible RDP authentication.
+ Oracle VirtualBox already supports Winlogon on Windows and PAM on Linux and Oracle Solaris for RDP authentication. In addition, it includes an easy-to-use SDK which enables you to create arbitrary interfaces for other methods of authentication. See RDP Authentication. 
+
+- 
+
+USB over RDP. Using RDP virtual channel support, Oracle VirtualBox also enables you to connect arbitrary USB devices locally to a virtual machine which is running remotely on an Oracle VirtualBox RDP server. See Remote USB. 
+
+### Modular Design and Interfaces
+
+ Oracle VirtualBox has an extremely modular design with well-defined internal programming interfaces and a clean separation of client and server code. This makes it easy to control it from several interfaces at once. For example, you can start a VM simply by clicking on a button in the Oracle VirtualBox graphical user interface and then control that machine from the command line, or even remotely.
+
+The front ends available are:
+
+- 
+
+VirtualBox Manager, a graphical user interface that uses the Qt toolkit. This interface is described throughout this user guide. While this is the simplest and easiest front end to use, some of the more advanced Oracle VirtualBox features are not included.
+
+- 
+
+VBoxManage, the command-line interface for automated and detailed control of every aspect of Oracle VirtualBox.
+
+- 
+
+VBoxHeadless, the Remote Desktop Server. An interface that produces no visible output on the host at all, but can act as a RDP server if the VirtualBox Remote Desktop Extension (VRDE) is installed and enabled for the VM. As opposed to the graphical interfaces, the headless front end requires no graphics support. This is useful, for example, if you want to host your virtual machines on a headless Linux server that has no X Window system installed.
+
+- 
+
+Separate Mode. A front end that is based on VBoxHeadless, but does not require VRDE or an RDP viewer.
+
+Oracle VirtualBox also provides a comprehensive software development kit (SDK), that enables integration of Oracle VirtualBox with other software systems. See Oracle VirtualBox Programming Interfaces.
+
+### Experimental Features
+
+Features listed as Experimental Features do not qualify for Oracle support. Feedback and suggestions about these features are welcome.
+
+## Guest Operating Systems
+
+You can run most operating systems (OSs) successfully on a virtual machine (VM) in Oracle VirtualBox. 
+
+However, to achieve near-native performance of the guest code on your machine, some optimizations that are specific to certain OSs had to be made. So while your favorite OS may run as a guest, Oracle provides premier support only for selected OSs and guest additions.
+
+Other guest OSs can be used with Oracle VirtualBox, but only qualify for limited support. Therefore, resolution of customer issues for such guest OSs cannot be assured.
+
+The virtual hardware determines the choice of guest OSs available, as does the host machine. Ensure you take all aspects of VM configuration into consideration when creating a VM.
+
+### Host and Guest Combinations
+
+Table 1. Host and Guest (VM) Platform Combinations Available in VirtualBox. Summary matrix of available host platforms and the Virtual machines they run.
+
+ | Host Hardware Architecture
+
+ | Host OS (all 64 bit)
+
+ | Guest Virtual Hardware Architecture
+
+ | Guest OS
+
+ | x86_64 (for example Intel or AMD)
+
+ | 
+
+Windows
+
+Windows Server
+
+macOS (requires Intel hardware)
+
+Linux (various distributions)
+
+Oracle Solaris
+
+ | x86 and x86_64
+
+ | 
+
+Windows
+
+Windows Server
+
+Oracle Solaris
+
+Linux (various distributions)
+
+ | Arm64
+
+ | 
+
+Windows 11 (Experimental Feature)
+
+macOS (requires Apple silicon hardware)
+
+ | Arm64
+
+ | 
+
+Linux (various distributions)
+
+Windows 11
+
+### Guest OSs That Run on x86_64 Hosts
+
+The following table shows the Guest OSs that run on hosts with an x86_64 processor and the tier of Oracle support offered for each. See also Guest OSs That Run on Arm64 Hosts.
+
+Table 2. Windows (x86_64), Linux (x86_64), macOS (x86_64), Solaris (x86_64) Hosts Will Run VMs with These OSs. Guest OSs that run on x86 hosts and their levels of support available from Oracle.
+
+ | Guest Operating System (all x86)
+
+ | Oracle Support Available
+
+ | Windows 11 (64-bit). Released versions only.
+
+ | Premier
+
+ | Windows 10 (32-bit and 64-bit). Released versions only.
+
+ | Windows Server 2025 (64-bit)
+
+ | Windows Server 2022 (64-bit)
+
+ | Oracle Solaris 11 (32-bit and 64-bit)
+
+ | Oracle Linux 10 (64-bit), Red Hat Enterprise Linux 10 (64-bit)
+
+ | Oracle Linux 9 (64-bit), Red Hat Enterprise Linux 9 (64-bit)
+
+ | Oracle Linux 8 (64-bit), Red Hat Enterprise Linux 8 (64-bit)
+
+ | Windows 8.1 and 8 (32-bit and 64-bit)
+
+ | Limited
+
+ | Windows 7 (32-bit and 64-bit)
+
+ | Windows Vista SP2 and later (32-bit and 64-bit)
+
+ | Windows XP (32-bit)
+
+ | Windows Vista (32-bit)
+
+ | Windows Server 2019 (64-bit)
+
+ | Windows Server 2016 (64-bit)
+
+ | Windows Server 2012 and 2012 R2 (64-bit)
+
+ | Windows Server 2008 and 2008 R2 (32-bit and 64-bit)
+
+ | Windows Server 2003 (32-bit and 64-bit)
+
+ | Oracle Solaris 10 8/11 Update 10 and later (32-bit and 64-bit)
+
+ | Oracle Linux 7 (64-bit), Red Hat Enterprise Linux 7 (64-bit)
+
+ | Oracle Linux 6 (32-bit and 64-bit), Red Hat Enterprise Linux 6 (32-bit and 64-bit)
+
+ | Oracle Linux 5 (32-bit and 64-bit), Red Hat Enterprise Linux 5 (32-bit and 64-bit)
+
+ | Ubuntu 24.10 LTS (Oracular Oriole) (64-bit)
+
+ | Ubuntu 24.04 LTS (Noble Numbat) (64-bit)
+
+ | Ubuntu 22.04 LTS (Jammy Jellyfish) (64-bit)
+
+ | Ubuntu 20.04 LTS (Focal Fossa) (64-bit)
+
+ | Ubuntu 18.04 LTS (Bionic Beaver) (64-bit)
+
+ | Ubuntu 16.04 LTS (Xenial Xerus) (32-bit and 64-bit)
+
+ | Ubuntu 14.04.5 LTS (Trusty Tahr) (32-bit and 64-bit)
+
+ | SUSE Linux Enterprise Server 15 (64-bit)
+
+ | SUSE Linux Enterprise Server 12 (64-bit)
+
+ | OS/2 Warp 4.5
+
+### Guest OSs That Run on Arm64 Hosts
+
+The following table shows the Guest OSs that run on hosts with an aarch64 processor and the tier of Oracle support offered for each. See also Guest OSs That Run on x86_64 Hosts.
+
+Table 3. Arm64 Hosts Will Run VMs with These OSs. Guest OSs that run on Arm64 hosts and their levels of support available from Oracle.
+
+ | Guest Operating System (all 64-bit Arm)
+
+ | Oracle Support Available
+
+ | Windows 11 (64-bit). Released versions only.
+
+ | Premier (macOS hosts only)
+
+ | Oracle Linux 10, Red Hat Enterprise Linux 10
+
+ | Oracle Linux 9, Red Hat Enterprise Linux 9
+
+ | Oracle Linux 8, Red Hat Enterprise Linux 8
+
+ | Oracle Linux 7, Red Hat Enterprise Linux 7
+
+ | Limited
+
+ | Debian 12
+
+ | Debian 11
+
+ | Ubuntu 24.10 LTS (Oracular Oriole)
+
+ | Ubuntu 24.04 LTS (Noble Numbat)
+
+ | Ubuntu 22.04 LTS (Jammy Jellyfish)
+
+ | Ubuntu 20.04 LTS (Focal Fossa)
+
+ | Ubuntu 18.04 LTS (Bionic Beaver)
+
+ | SUSE Linux Enterprise Server 15
+
+ | SUSE Linux Enterprise Server 12
+
+### 64-bit Guests
+
+Note: 
+
+Be sure to enable I/O APIC for virtual machines that you intend to use in 64-bit mode. This is especially true for 64-bit Windows VMs. See Motherboard Tab. For 64-bit Windows guests, ensure that the VM uses the Intel networking device because there is no 64-bit driver support for the AMD PCNet card. See Virtual Networking Hardware.
+
+If you use the Create VM process in VirtualBox Manager, Oracle VirtualBox automatically uses the correct settings for each selected 64-bit OS type. See Creating a New Virtual Machine.

@@ -1,0 +1,255 @@
+URL: https://learn.microsoft.com/es-es/windows/apps/get-started/enable-your-device-for-development
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Configuración para desarrolladores
+
+## 
+
+La página System > Advanced en Windows configuración incluye el modo de desarrollador y características adicionales que puede usar cuando el modo de desarrollador está habilitado. El modo de desarrollador desbloquea herramientas, configuraciones y características diseñadas para compilar, implementar y probar aplicaciones en Windows.
+
+Captura de pantalla de la Configuración avanzada para desarrolladores de Windows, que muestra el Modo de Desarrollador, el Portal de Dispositivos y la detección de dispositivos.
+
+Nota:
+
+Antes de Windows 11 25H2, esta configuración aparece en la página Para desarrolladores en Windows configuración. En Windows 11 25H2 y versiones posteriores, aparecen en la sección Para desarrolladores de la Configuración avanzada.
+
+## Habilitación del Modo de desarrollador
+
+Si está escribiendo software con Visual Studio, debe habilitar el modo de desarrollador en el equipo de desarrollo y en todos los dispositivos que usará para probar el código.
+
+Importante
+
+Si usas tu ordenador para actividades cotidianas normales (como juegos, exploración web, correo electrónico u aplicaciones de Office), no es necesario activar el modo de desarrollador. Si intenta corregir un problema con el equipo, consulte Windows ayuda.
+
+Para habilitar el modo de desarrollador o acceder a otras configuraciones:
+
+- 
+Abre Configuración de Windows.
+
+- 
+Busque Opciones avanzadas o vaya a System Advanced (Avanzado del sistema>) y desplácese hasta la sección For developers (Para desarrolladores).
+
+- 
+Cambie la opción Modo de desarrollador, en la parte superior de la sección Para desarrolladores .
+
+- 
+Lea la declinación de responsabilidades. Haga clic en Sí para aceptar el cambio.
+
+cuadro de diálogo 
+
+Nota:
+
+La habilitación del modo desarrollador requiere acceso de administrador. Si el dispositivo es propiedad de una organización, esta opción puede deshabilitarse.
+
+Si intenta compilar un proyecto de Windows en Visual Studio cuando el modo de desarrollador no está habilitado, aparece el siguiente cuadro de diálogo en Visual Studio:
+
+Si ve este cuadro de diálogo, seleccione la configuración para que los desarrolladores abran la página Configuración avanzada del sistema>.
+
+Nota:
+
+Puede ir a la página Configuración avanzada en cualquier momento para habilitar o deshabilitar el modo de desarrollador.
+
+## Características del modo de desarrollador
+
+El modo de desarrollador reemplaza los requisitos de una licencia de desarrollador. Además de la carga lateral, la configuración de modo de desarrollador permite la depuración y opciones de implementación adicionales. Esto incluye iniciar un servicio SSH para permitir la implementación en este dispositivo. Para detener este servicio, debe deshabilitar el modo de desarrollador.
+
+Al habilitar el modo de desarrollador en el escritorio, se instala un paquete de características, entre los que se incluyen:
+
+- 
+ Windows Device Portal: Device Portal solo está habilitado (y las reglas de firewall solo están configuradas para él) cuando la opción Enable Device Portal está activada.
+
+- Instala y configura reglas de firewall para los servicios SSH que permiten la instalación remota de aplicaciones. Al habilitar detección de dispositivos , se activará el servidor SSH.
+
+Nota:
+
+ El Portal de dispositivos y la detección de dispositivos son útiles cuando necesita desarrollar en una máquina, pero implementar la aplicación en otra máquina para realizar pruebas. Por ejemplo, si necesita implementar la aplicación en una tableta para probar una interfaz de usuario de tableta optimizada para tocar.
+
+### Portal de dispositivos
+
+Para obtener más información sobre Device Portal, consulte Windows Device Portal overview.
+
+Para obtener instrucciones de configuración específicas, consulte Device Portal para escritorio.
+
+### Detección de dispositivos
+
+Al habilitar la detección de dispositivos, permite que el dispositivo sea visible para otros dispositivos de la red a través de mDNS. Esta característica también le permite obtener el PIN SSH para emparejar al dispositivo presionando el botón Par expuesto inmediatamente después de habilitar la detección de dispositivos. Este mensaje de PIN debe mostrarse en la pantalla para completar la primera implementación de Visual Studio dirigida al dispositivo.
+
+Debe habilitar la detección de dispositivos solo si tiene la intención de usar el dispositivo como destino de implementación. Por ejemplo, si usa Device Portal para implementar una aplicación en una tableta para realizar pruebas, debe habilitar detección de dispositivos en la tableta, pero no en el equipo de desarrollo.
+
+#### SSH
+
+Los servicios SSH se habilitan al habilitar la detección de dispositivos en el dispositivo. Esto se usa cuando el dispositivo es un destino de implementación remota para aplicaciones empaquetadas MSIX. Los nombres de los servicios son SSH Server Broker y SSH Server Proxy.
+
+Nota:
+
+Esta no es la implementación de OpenSSH de Microsoft, que puede encontrar en GitHub.
+
+Para aprovechar los servicios SSH, puede habilitar el Descubrimiento de dispositivos para permitir el emparejamiento de PIN. Si piensa ejecutar otro servicio SSH, puede configurarlo en un puerto diferente o desactivar los servicios SSH del modo de desarrollador. Para desactivar los servicios SSH, desactive Detección de dispositivos.
+
+El inicio de sesión ssh se realiza a través de la cuenta de de DevToolsUser, que acepta una contraseña para la autenticación. Esta contraseña es el PIN que se muestra en el dispositivo después de presionar el botón Detección de dispositivos Par y solo es válido mientras se muestra el PIN. También se habilita un subsistema SFTP para la administración manual de la carpeta `DevelopmentFiles` donde se instalan implementaciones de archivos sueltos desde Visual Studio.
+
+Advertencias para el uso de SSH
+
+El servidor SSH existente usado en Windows aún no es compatible con el protocolo. El uso de un cliente SFTP o SSH puede requerir una configuración especial. En concreto, el subsistema SFTP se ejecuta en la versión 3 o menos, por lo que cualquier cliente de conexión debe configurarse para esperar un servidor antiguo. El servidor SSH en dispositivos anteriores usa `ssh-dss` para la autenticación de clave pública (que OpenSSH ha quedado en desuso). Para conectarse a estos dispositivos, el cliente SSH debe configurarse manualmente para aceptar `ssh-dss`.
+
+## Error al instalar el paquete del modo de desarrollador
+
+A veces, debido a problemas administrativos o de red, el modo de desarrollador no se instalará correctamente. El paquete modo de desarrollador es necesario para la implementación remota en este equipo (mediante Device Portal desde un explorador o detección de dispositivos para habilitar SSH), pero no para el desarrollo local. Aunque encuentre estos problemas, puede implementar la aplicación localmente mediante Visual Studio (o desde este dispositivo a otro dispositivo).
+
+Si el modo de desarrollador no se instala correctamente, le recomendamos que envíe una solicitud de comentarios mediante la aplicación Centro de opiniones.
+
+Nota:
+
+- Instale la aplicación Centro de comentarios (si aún no la tienes) y ábrela.
+
+- Haga clic en Agregar nuevos comentarios.
+
+- Elija la categoría Plataforma para Desarrolladores y la subcategoría Modo de Desarrollador.
+
+- Rellene los campos (opcionalmente puede adjuntar una captura de pantalla) y haga clic en Enviar.
+
+Enviar comentarios ayudará a Microsoft a resolver el problema que encontró.
+
+### No se pudo encontrar el paquete
+
+El paquete del modo de desarrollador no se pudo encontrar en Windows Update. Código de error 0x80004005. Aprende más.
+
+Este error puede producirse debido a un problema de conectividad de red, a la configuración empresarial o a que puede que falte el paquete.
+
+Para corregir este problema:
+
+- 
+Asegúrese de que el equipo está conectado a Internet.
+
+- 
+Si está en un equipo unido a un dominio, hable con el administrador de red. El paquete modo de desarrollador (como todas las características a petición) está bloqueado de forma predeterminada en WSUS 2.1. Para desbloquear el paquete del modo de desarrollador en las versiones actuales y anteriores, se deben permitir los siguientes KB en WSUS:
+
+- 4016509
+
+- 3180030
+
+- 3197985
+
+- 
+Busque actualizaciones de Windows en Settings → Updates and Security → Windows Updates.
+
+- 
+Compruebe que el paquete Modo Desarrollador de Windows está presente en Configuración → Sistema → Características opcionales → Agregar una característica (en versiones anteriores a Windows 10 22H2, busque en Configuración→Aplicaciones→Aplicaciones y características→ Características opcionales→Agregar una característica). Si falta, Windows no puede encontrar el paquete correcto para el equipo.
+
+- 
+Después de realizar los pasos anteriores, deshabilitar y, a continuación, volver a habilitar modo de desarrollador para comprobar la corrección.
+
+### No se pudo instalar el paquete
+
+No se pudo instalar el paquete del modo de desarrollador. Código de error 0x80004005. Aprende más.
+
+Este error puede producirse debido a incompatibilidades entre la compilación de Windows y el paquete del modo de desarrollador.
+
+Para corregir este problema:
+
+- Busque actualizaciones de Windows en Settings → Updates and Security → Windows Updates.
+
+- Reinicie el equipo para asegurarse de que se aplican todas las actualizaciones.
+
+## Uso de directivas de grupo o claves del Registro para habilitar un dispositivo
+
+Para la mayoría de los desarrolladores, querrán utilizar Configuración de Windows para habilitar su dispositivo para la depuración. En determinados escenarios (como las pruebas automatizadas), puede usar otras formas de habilitar el dispositivo de escritorio de Windows para el desarrollo.
+
+Nota:
+
+Estos pasos no habilitarán el servidor SSH ni permitirán que el dispositivo se utilice para la implementación y depuración remotas.
+
+Puedes usar `gpedit.msc` para establecer las directivas de grupo para habilitar el dispositivo, a menos que tengas Windows 10 Home o Windows 11 Home. Si lo hace, deberá usar los comandos regedit o PowerShell para establecer las claves del Registro directamente para habilitar el dispositivo.
+
+### Uso de gpedit para habilitar el dispositivo
+
+- 
+Ejecute `gpedit.msc`.
+
+- 
+Vaya a Directivas de equipo → Configuración del equipo → Plantillas administrativas → Windows Componentes → Implementación de paquetes de aplicaciones.
+
+- 
+Edite las siguientes políticas para habilitar la instalación lateral:
+
+- Permitir que todas las aplicaciones de confianza se instalen.
+
+OR
+
+Edite las siguientes políticas para habilitar tanto la carga lateral como el modo de desarrollador.
+
+- Permitir que todas las aplicaciones de confianza se instalen.
+
+- Permite el desarrollo de aplicaciones para UWP e instalación desde un entorno de desarrollo integrado (IDE) de .
+
+- Reinicie la máquina.
+
+### Usar regedit para habilitar el dispositivo
+
+- 
+Ejecute `regedit`.
+
+- 
+Para habilitar la carga lateral, establezca el valor de este `DWORD` en `1`:
+
+`HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock\AllowAllTrustedApps`
+
+OR
+
+Para habilitar el modo de desarrollador, establezca los valores de este `DWORD` en `1`:
+
+`HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock\AllowDevelopmentWithoutDevLicense`
+
+### Uso de PowerShell para habilitar el dispositivo
+
+- 
+Ejecute PowerShell con privilegios de administrador.
+
+- 
+Para habilitar la carga lateral, ejecute este comando:
+
+`PS C:\WINDOWS\system32> reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock" /t REG_DWORD /f /v "AllowAllTrustedApps" /d "1"
+`
+
+OR
+
+Para habilitar el modo de desarrollador, ejecute este comando:
+
+`PS C:\WINDOWS\system32> reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\AppModelUnlock" /t REG_DWORD /f /v "AllowDevelopmentWithoutDevLicense" /d "1"
+`
+
+ Colaborar con nosotros en GitHub
+
+ El origen de este contenido se puede encontrar en GitHub, donde también puede crear y revisar problemas y solicitudes de incorporación de cambios. Para más información, consulte nuestra guía para colaboradores.
+
+ Windows developer
+
+ Abrir incidencia con la documentación
+
+ Proporcionar comentarios sobre el producto
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-03-06

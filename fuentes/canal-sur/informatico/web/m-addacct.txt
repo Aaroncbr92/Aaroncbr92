@@ -1,0 +1,228 @@
+URL: https://support.microsoft.com/es-es/outlook/getstarted/add-an-email-account-to-outlook-for-windows
+Leído: 2026-10-05
+
+# Agregar una cuenta de correo electrónico a Outlook para Windows
+
+ Se aplica a
+Outlook para Microsoft 365 Outlook 2024 Outlook 2021 Outlook 2019 Outlook 2016 Administrador de Microsoft 365 Nuevo Outlook para Windows 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo agrego una cuenta de correo electrónico a Outlook para Windows?
+
+ ¿Cómo agrego una nueva cuenta de iCloud en el nuevo Outlook?
+
+ Guíame a través de qué más configurar
+
+Hay una gran variedad de tipos de cuentas de correo electrónico que puede agregar a Outlook, como una cuenta Outlook.com o Hotmail.com, la cuenta profesional o educativa que usa con cuentas de Microsoft 365, Gmail, Yahoo, iCloud y Exchange.
+
+Seleccione una de las siguientes opciones de pestaña para la versión de Outlook que está usando. 
+ ¿Qué versión de Outlook tengo?
+
+- 
+
+ Nuevo Outlook
+
+- 
+
+ Outlook clásico
+
+Nota
+
+Si los pasos descritos en esta nueva pestaña de Outlook no funcionan, es posible que aún no esté usando el nuevo Outlook para Windows. En su lugar, seleccione la pestaña de Outlook clásico y siga esos pasos.
+
+ En este artículo:
+
+ Agregar una nueva cuenta | Establecer como cuenta | principalQuitar cuenta | Solucionar problemas de contraseñas
+
+## Agregar una nueva cuenta en el nuevo Outlook
+
+- 
+En la pestaña Vista , selecciona Configuración de vista o, en la pestaña Archivo , selecciona Información de la cuenta.
+
+- 
+Seleccione Cuentas>Sus cuentas. Ahora puede agregar una nueva cuenta.
+
+- 
+En Cuentas de correo electrónico, selecciona Agregar cuenta y selecciona una cuenta sugerida en el menú desplegable, o introduce una dirección de correo electrónico diferente. Seleccione Continuar.
+
+Nota
+
+Antes de agregar cuentas a Outlook, algunos proveedores de correo electrónico que no son de Microsoft, como Gmail, Yahoo y iCloud, necesitan que cambie la configuración en sus sitios web.
+
+- 
+Si se le solicita, introduzca la contraseña de la cuenta y seleccione Listo.
+
+## Establecer como cuenta principal en el nuevo Outlook
+
+- En la pestaña Ver, selecciona Configuración de Vista o, en la pestaña Archivo, selecciona Información> de la cuentaCuentas>Sus cuentas.
+
+- En la sección Cuentas de correo electrónico , busque la cuenta en la que desea realizar cambios o eliminar. Junto al nombre de la cuenta, seleccione Administrar.
+
+- En Detalles de la cuenta, seleccione Establecer como cuenta principal.
+
+- Cuando hayas terminado, selecciona la página Volver a cuentas o cierra la ventana Configuración
+
+## Quitar una cuenta en el nuevo Outlook
+
+- 
+En la pestaña Ver, selecciona Configuración de Vista o, en la pestaña Archivo, selecciona Información> de la cuentaCuentas>Sus cuentas.
+
+- 
+En la sección Cuentas de correo electrónico , busque la cuenta que desea eliminar. Junto al nombre de la cuenta, seleccione Administrar.
+
+- 
+En Detalles de la cuenta, seleccione Quitar para quitar esta cuenta de Outlook. Todo el contenido almacenado en caché sin conexión de esta cuenta se eliminará al quitarla.
+
+Nota
+
+Este paso solo quita la cuenta de la aplicación de Outlook, no la elimina. Para eliminar una cuenta, obtenga ayuda de su proveedor de correo electrónico.
+
+- 
+Para las cuentas en las que Microsoft no es el proveedor de correo electrónico (por ejemplo, Gmail, Yahoo, iCloud y cuentas IMAP y POP que no son de Microsoft), aparece la ventana Quitar cuenta. Seleccione una opción para quitar la cuenta solo de este dispositivo o de todos los dispositivos.
+
+Si selecciona Quitar de todos los dispositivos, su cuenta se quitará de todos los dispositivos en los que agregó su cuenta a Outlook.
+
+Advertencia
+
+Al seleccionar Quitar de todos los dispositivos, se quitan la cuenta y los datos de Microsoft Cloud entre los clientes de Outlook. Si los calendarios u otros elementos solo existen en Microsoft Cloud y no están presentes en el correo web del proveedor, es posible que se pierdan permanentemente y que no se restauren cuando se vuelva a agregar la cuenta.
+
+- 
+Cuando hayas terminado, selecciona la página Volver a cuentas o cierra la ventana Configuración .
+
+## Solucionar problemas de contraseña al agregar una cuenta en el nuevo Outlook
+
+### ¿Ha olvidado su contraseña?
+
+Si has olvidado la contraseña de una cuenta de Microsoft, usa nuestro ayudante de inicio de sesión para volver a tu cuenta o ve a Restablecer una contraseña olvidada de una cuenta de Microsoft.
+
+Si olvidó la contraseña de una cuenta profesional o educativa, vaya a Restablecer la contraseña profesional o educativa con la información de seguridad.
+
+### Mensaje de contraseña de aplicación
+
+Si sabe que está usando la contraseña correcta para su cuenta de correo electrónico y recibe un mensaje como el siguiente:
+
+ "Cree una contraseña de aplicación para Outlook en el sitio de su proveedor de correo electrónico"
+
+Las contraseñas de aplicación se generan aleatoriamente contraseñas de un solo uso que proporcionan acceso temporal a las cuentas en línea. Las contraseñas temporales actúan como una capa de seguridad, lo que evita la necesidad de compartir las credenciales de la cuenta principal con aplicaciones potencialmente menos seguras o desconocidas.
+
+En función de su proveedor de correo electrónico, puede ser necesaria una contraseña de aplicación para agregar determinados tipos de cuenta al Outlook nuevo y clásico, como cuentas IMAP o iCloud.
+
+Para agregar una contraseña de aplicación, haga lo siguiente:
+
+- Vaya a su proveedor de correo electrónico para obtener la contraseña de la aplicación. Su proveedor de correo electrónico le proporcionará instrucciones sobre cómo generar una contraseña de aplicación para usarla en aplicaciones de correo electrónico, como Outlook nuevo y clásico, en lugar de la contraseña habitual. Por ejemplo, las instrucciones para AOL se encuentran en Crear y administrar contraseñas de aplicaciones de terceros.
+
+- Después de obtener la contraseña de la aplicación de su proveedor, cópiela y, a continuación, péguela cuando se le solicite la contraseña de su cuenta en Outlook.
+
+Para obtener ayuda específica para agregar una cuenta de Gmail o iCloud, vaya a Agregar una cuenta de Gmail o Agregar o administrar una cuenta de correo electrónico de iCloud.
+
+ El soporte guiado en el explorador puede proporcionar soluciones digitales para problemas de Office
+
+ Pruebe el soporte guiado
+
+## Agregar una nueva cuenta en Outlook clásico
+
+Estos pasos son los mismos en la versión clásica de Outlook para Windows tanto si agrega la primera cuenta de correo electrónico como si agrega cuentas de correo electrónico adicionales.
+
+- 
+Seleccione Archivo>Agregar cuenta.
+
+Si no tiene una pestaña Archivo , quizás esté usando el nuevo Outlook para Windows. Vaya a Nuevo Outlook para obtener instrucciones.
+
+- 
+Escriba su dirección de correo electrónico y seleccione Conectar.
+
+- 
+Si se te pide, vuelve a escribir la contraseña y, después, selecciona Aceptar>para empezar a usar tu cuenta de correo electrónico en Outlook clásico para Windows.
+
+## Quitar una cuenta
+
+Quitar una cuenta de correo electrónico de Outlook clásico para Windows no desactiva la cuenta de correo electrónico. Si quiere desactivar la cuenta, hable con el proveedor de la cuenta de correo electrónico. Una vez que elimine una cuenta de Outlook clásico, ya no podrá enviar ni recibir correo de esa cuenta en Outlook.
+
+- En Outlook clásico para Windows, seleccione Archivo.
+
+- Seleccione Configuración de> lacuenta, Configuración de la cuenta.
+
+- Seleccione la cuenta que quiera eliminar y, después, haga clic en Quitar.
+
+- Recibirás un mensaje advirtiendo de que se eliminará todo el contenido almacenado en caché sin conexión de esta cuenta. Esto solo afecta a contenido descargado y almacenado en el equipo.
+
+- Seleccione Sí para confirmar.
+
+Importante
+
+Si desea eliminar la última o la única cuenta de correo electrónico que tiene en Outlook clásico para Windows, recibirá una advertencia de que debe crear una nueva ubicación para los datos antes de quitar la cuenta. Para obtener más información, consulte Crear un archivo de datos de Outlook.
+
+## Solucionar problemas
+
+### ¿Ha olvidado su contraseña?
+
+Si has olvidado la contraseña de una cuenta de Microsoft, usa nuestro ayudante de inicio de sesión para volver a tu cuenta o ve a Restablecer una contraseña olvidada de una cuenta de Microsoft.
+
+Si olvidó la contraseña de una cuenta profesional o educativa, vaya a Restablecer la contraseña profesional o educativa con la información de seguridad.
+
+### Mensaje de contraseña de aplicación
+
+Si sabe que está usando la contraseña correcta para su cuenta de correo electrónico y recibe un mensaje como el siguiente:
+
+ "Cree una contraseña de aplicación para Outlook en el sitio de su proveedor de correo electrónico"
+
+Las contraseñas de aplicación se generan aleatoriamente contraseñas de un solo uso que proporcionan acceso temporal a las cuentas en línea. Las contraseñas temporales actúan como una capa de seguridad, lo que evita la necesidad de compartir las credenciales de la cuenta principal con aplicaciones potencialmente menos seguras o desconocidas.
+
+En función de su proveedor de correo electrónico, puede ser necesaria una contraseña de aplicación para agregar determinados tipos de cuenta al Outlook nuevo y clásico de Outlook para Windows, como cuentas IMAP o iCloud.
+
+Vaya a su proveedor de correo electrónico para obtener la contraseña de la aplicación. Su proveedor de correo electrónico le proporcionará instrucciones sobre cómo generar una contraseña de aplicación para que pueda usarla en aplicaciones de correo electrónico como la nueva y la clásica Outlook. Por ejemplo, para AOL las instrucciones se encuentran en este artículo en su sitio web: Crear y administrar contraseñas de aplicaciones de terceros
+
+Después de obtener la contraseña de aplicación de tu proveedor, cópiala y pégala cuando se te solicite la contraseña de tu cuenta en Outlook clásico.
+
+Para obtener ayuda específica para agregar una cuenta de Gmail o iCloud, vaya a Agregar una cuenta de Gmail o Agregar o administrar una cuenta de correo electrónico de iCloud.
+
+### Usar la configuración avanzada
+
+Es posible que tenga que agregar su cuenta de correo electrónico manualmente. Elija uno de los métodos avanzados siguientes:
+
+#### Usar la configuración avanzada para agregar una cuenta de correo POP o IMAP en Outlook clásico para Windows
+
+Si necesita escribir valores específicos en los nombres de los servidores de entrada y salida, en los números de puerto o en la configuración de SSL, puede usar la opción de configuración avanzada de Outlook. Puede usar estas instrucciones para agregar una cuenta POP o IMAP a la versión clásica de Outlook.
+
+- Abra Outlook clásico y seleccioneAgregar cuentade archivo>.
+
+- En la pantalla siguiente, escriba su dirección de correo electrónico, seleccione Opciones avanzadas. Después, active la casilla Permíteme configurar mi cuenta manualmente y seleccione Conectar.
+
+- Seleccione el tipo de cuenta. Cuando necesite usar esta opción, normalmente seleccionará IMAP.
+
+- La pantalla Configuración de la cuenta debería rellenarse automáticamente con la mayoría de las opciones de cuenta necesarias. Sin embargo, si necesita consultar su configuración, vaya al tema de configuración de cuenta POP e IMAP . Escriba las opciones de configuración del servidor de entrada y de salida y, después, seleccione Siguiente.
+
+- Escriba la contraseña y luego seleccione Conectar.
+
+#### Usar la configuración avanzada para agregar una cuenta de correo electrónico MAPI de terceros a Outlook clásico para Windows
+
+Si usa un proveedor MAPI de terceros, descargue y configure la aplicación del proveedor de correo electrónico MAPI como sugiere la empresa proveedora.
+
+- Abra Outlook clásico y seleccioneAgregar cuentade archivo>.
+
+- En la pantalla siguiente, escriba su dirección de correo electrónico, seleccione Opciones avanzadas, active la casilla Permitirme configurar mi cuenta manualmente y seleccione Conectar.
+
+- En la pantalla Configuración avanzada, seleccione Otros.
+
+- En la otra pantalla, elija el tipo de servidor al que desea conectarse de la lista.
+
+ Nota: La otra opción y el tipo de cuenta que aparece debajo de ella solo aparecerán si ha instalado y configurado correctamente el proveedor de MAPI.
+
+- Seleccione Conectar.
+
+- Se debe iniciar la aplicación de proveedor MAPI de terceros instalada en su máquina.
+
+- Para finalizar la configuración de la cuenta, siga las instrucciones del proveedor MAPI.
+
+## Artículos relacionados
+
+ Cambiar o actualizar la configuración de la cuenta de correo electrónico en Outlook para Windows
+
+ Agregair una cuenta de correo electrónico de Outlook para Mac
+
+ Configurar la aplicación de Outlook para iOS
+
+ Configurar el correo electrónico en la aplicación de Outlook para Android
+
+ Configuración de correo electrónico POP e IMAP para Outlook

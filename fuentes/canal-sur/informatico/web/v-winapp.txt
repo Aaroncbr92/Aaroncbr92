@@ -1,0 +1,200 @@
+URL: https://learn.microsoft.com/es-es/windows-app/overview
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# ¿Qué es la aplicación Windows?
+
+## 
+
+La aplicación windows se conecta de forma remota a los dispositivos y aplicaciones de Windows desde Azure Virtual Desktop, equipos en la nube de Windows 365, Microsoft Dev Box, Servicios de Escritorio remoto y equipos, lo que le conecta de forma segura a dispositivos y aplicaciones Windows.
+
+Puedes utilizar Aplicación de Windows en muchos tipos diferentes de dispositivos en diferentes plataformas y factores de forma, como equipos de escritorio y portátiles, tabletas, smartphones y mediante un explorador web. Si se conecta mediante un explorador web en un equipo de escritorio o portátil, puede conectarse sin tener que descargar e instalar ningún software.
+
+Aplicación de Windows está disponible para las siguientes plataformas:
+
+- Windows
+
+- macOS
+
+- iOS/iPadOS
+
+- Sistema operativo Android/Chrome
+
+- Exploradores web
+
+- Casco vr de Meta Quest
+
+## Vídeo introductorio
+
+Obtenga información sobre la aplicación de Windows en este vídeo:
+
+## ¿Qué puedes hacer con Aplicación de Windows?
+
+En la tabla siguiente se muestran los servicios y productos a los que puede conectarse desde distintas plataformas:
+
+ | Conectar a
+
+ | Windows
+
+ | macOS
+
+ | Ios/
+iPadOS
+
+ | Androide/
+Sistema operativo Chrome
+
+ | La web
+Navegador
+
+ | Metadatos
+Búsqueda
+
+ | 
+ Azure Virtual Desktop
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+ Windows 365
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+ Microsoft Dev Box
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+ Servicios de Escritorio remoto
+
+ | 
+
+ ❌¹
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | ❌
+
+ | ✅
+
+ | 
+ Pc remoto
+
+ | 
+
+ ✅²
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | ❌
+
+ | 
+
+ ✅³
+
+- 
+Para conectarse a Servicios de Escritorio remoto en Windows, siga usando la aplicación Escritorio remoto en Windows.
+
+- 
+Las conexiones de PC remotos están en versión preliminar en Windows. Para conectarse a un equipo remoto mediante una aplicación disponible con carácter general, siga usando la aplicación Conexión a Escritorio remoto que viene con Windows (también conocido como MSTSC).
+
+- 
+Para conectarse a un equipo remoto en Meta Quest, tienes dos opciones:
+
+- Usa El Escritorio remoto de Quest para conectarse a un equipo windows 11 cercano. Para obtener más información, siga las instrucciones de Meta.
+
+- Usa la aplicación de Windows para conectarse de forma nativa a un equipo remoto. Siga la información de este artículo.
+
+Nota:
+
+Solo tiene que iniciar sesión en la aplicación de Windows para conectarse a Azure Virtual Desktop, equipos en la nube de Windows 365, Microsoft Dev Box, Servicios de Escritorio remoto. En el caso de las plataformas que admiten conexiones remotas de PC, puede usar la aplicación de Windows sin iniciar sesión.
+
+Iniciar sesión requiere una cuenta profesional o educativa de Microsoft proporcionada por el administrador. No puede iniciar sesión en la aplicación de Windows con una cuenta Microsoft (MSA) personal.
+
+## Características
+
+Aplicación de Windows está diseñada con una pantalla de inicio personalizable para satisfacer tus necesidades únicas de flujo de trabajo. Puede acceder a Windows a través de varios servicios y equipos remotos desde un solo lugar y anclar los favoritos a los que más accede. Y si usas varias cuentas, puedes cambiar fácilmente entre ellas con nuestra sencilla característica de cambio de cuenta.
+
+Hay muchas características que puedes usar para mejorar la experiencia remota, como:
+
+- Compatibilidad con varios monitores.
+
+- Resoluciones de visualización personalizadas.
+
+- Resoluciones de visualización y escalado dinámicos.
+
+- Redirección de dispositivos, como cámaras web, audio, dispositivos de almacenamiento e impresoras.
+
+- Optimizaciones de Microsoft Teams.
+
+- Inicia sesión con varias cuentas y cambia fácilmente entre ellas.
+
+## ¿Cómo puedo obtener la aplicación Windows?
+
+Para obtener información sobre cómo descargar e instalar Aplicación de Windows en el dispositivo, conectarte a tus dispositivos y aplicaciones Windows, usa el vínculo siguiente.
+
+ Introducción a la aplicación de Windows
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-07-21

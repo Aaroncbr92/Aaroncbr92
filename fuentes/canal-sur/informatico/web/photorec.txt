@@ -1,0 +1,239 @@
+URL: https://www.cgsecurity.org/wiki/PhotoRec
+Leído: 2026-10-05
+
+
+
+Digital Picture and File Recovery
+
+PhotoRec
+
+From CGSecurity
+
+ Jump to navigation
+ Jump to search
+
+ English 中文 Deutsch Español Français Magyar Italiano Русский Türkçe 
+
+TestDisk_Download Latest stable version
+
+7.2 
+
+February 22, 2024
+
+PhotoRec, Digital Picture and File Recovery
+
+PhotoRec is file data recovery software designed to recover lost files including video, documents and archives from hard disks (Mechanical Hard drives, Solid State Drives...), CD-ROMs, and lost pictures (thus the Photo Recovery name) from digital camera memory. PhotoRec ignores the file system and goes after the underlying data, so it will still work even if your media's file system has been severely damaged or reformatted.
+
+PhotoRec is free - this open source multi-platform application is distributed under GNU General Public License (GPLV v2+). PhotoRec is a companion program to TestDisk, an application for recovering lost partitions on a wide variety of file systems and making non-bootable disks bootable again.
+You can download them from this link.
+
+For more safety, PhotoRec uses read-only access to handle the drive or memory card you are about to recover lost data from.
+Important: As soon as a picture or file is accidentally deleted, or you discover any missing, do NOT save any more pictures or files to that memory device or hard disk drive; otherwise you may overwrite your lost data. This means that while using PhotoRec, you must not choose to write the recovered files to the same partition they were stored on.
+
+Contents
+
+1 Operating systems
+
+2 File systems
+
+3 Media
+
+4 Known file formats
+
+5 How PhotoRec works
+
+6 Other topics
+
+7 Problems?
+
+Operating systems
+
+PhotoRec runs under
+
+DOS/Windows 9x
+
+Windows 11/10/8.1/8/7/Vista/XP, Windows Server 2022/2019/2016/2012/2008/2003
+
+Linux
+
+FreeBSD, NetBSD, OpenBSD
+
+Sun Solaris
+
+Mac OS X
+
+and can be compiled on almost every Unix system.
+
+ Download TestDisk & PhotoRec
+
+File systems
+
+PhotoRec ignores the file system; this way it works even if the file system is severely damaged.
+
+It can recover lost files from at least 
+
+FAT
+
+NTFS
+
+exFAT
+
+ext2/ext3/ext4 filesystem
+
+HFS+
+
+ReiserFS includes some special optimizations centered around tails, a name for files and end portions of files that are smaller than a filesystem block. In order to increase performance, ReiserFS is able to store files inside the b*tree leaf nodes themselves, rather than storing the data somewhere else on the disk and pointing to it. Unfortunately, PhotoRec isn't able to deal with this - that's why it doesn't work well with ReiserFS.
+
+Media
+
+PhotoRec works with hard disks, CD-ROMs, memory cards (CompactFlash, Memory Stick, Secure Digital/SD, SmartMedia, Microdrive, MMC, etc.), USB memory drives, DD raw image, EnCase E01 image, etc.
+
+PhotoRec has been successfully tested with various portable media players including iPod and the following Digital Cameras:
+
+Canon EOS 10D, 60D, 80D, 300D
+
+Casio Exilim EX-Z 750
+
+Fujifilm X-T10
+
+HP PhotoSmart 620, 850, 935
+
+Nikon CoolPix 775, 950, 5700
+
+Olympus C350N, C860L, Mju 400 Digital, Stylus 300
+
+Sony Alpha DSLR, DSC-P9, NEX-6
+
+Pentax K20D
+
+Praktica DCZ-3.4
+
+Known file formats
+
+PhotoRec searches for known file headers. If there is no data fragmentation, which is often the case, it can recover the whole file.
+PhotoRec recognizes and recovers numerous file formats including ZIP, Office, PDF, HTML, JPEG and various graphics file formats.
+The whole list of file formats recovered by PhotoRec contains more than 480 file extensions (about 300 file families).
+
+Want to know if PhotoRec can recover your files ? Upload a sample file via the PhotoRec online checker (BETA).
+
+How PhotoRec works
+
+FAT, NTFS, ext2/ext3/ext4 file systems store files in data blocks (also called clusters under Windows). The cluster or block size remains at a constant number of sectors after being initialized during the formatting of the file system. In general, most operating systems try to store the data in a contiguous way so as to minimize data fragmentation. The seek time of mechanical drives is significant for writing and reading data to/from a hard disk, so that's why it's important to keep the fragmentation to a minimum level.
+
+When a file is deleted, the meta-information about this file (file name, date/time, size, location of the first data block/cluster, etc.) is lost; for example, in an ext3/ext4 file system, the names of deleted files are still present, but the location of the first data block is removed. This means the data is still present on the file system, but only until some or all of it is overwritten by new file data.
+
+To recover these lost files, PhotoRec first tries to find the data block (or cluster) size. If the file system is not corrupted, this value can be read from the superblock (ext2/ext3/ext4) or volume boot record (FAT, NTFS). Otherwise, PhotoRec reads the media, sector by sector, searching for the first ten files, from which it calculates the block/cluster size from their locations. Once this block size is known, PhotoRec reads the media block by block (or cluster by cluster). Each block is checked against a signature database which comes with the program and has grown in the type of files it can recover ever since PhotoRec's first version came out.
+
+For example, PhotoRec identifies a JPEG file when a block begins with:
+
+0xff, 0xd8, 0xff, 0xe0
+
+0xff, 0xd8, 0xff, 0xe1
+
+or 0xff, 0xd8, 0xff, 0xfe
+
+If PhotoRec has already started to recover a file, it stops its recovery, checks the consistency of the file when possible and starts to save the new file (which it determined from the signature it found).
+
+If the data is not fragmented, the recovered file should be either identical to or larger than the original file in size. In some cases, PhotoRec can learn the original file size from the file header, so the recovered file is truncated to the correct size. If, however, the recovered file ends up being smaller than its header specifies, it is discarded. Some files, such as *.MP3 types, are data streams. In this case, PhotoRec parses the recovered data, then stops the recovery when the stream ends.
+
+When a file is recovered successfully, PhotoRec checks the previous data blocks to see if a file signature was found but the file wasn't able to be successfully recovered (that is, the file was too small), and it tries again. This way, some fragmented files can be successfully recovered.
+
+Other topics
+
+testdisk.pdf More than 60 pages about data recovery using TestDisk & PhotoRec and other tools
+
+Working with CD-R/CR-RW/DVD/floppy...
+
+PhotoRec Step By Step
+
+Recover data from an iPhone
+
+How to help 
+
+After Using PhotoRec: Some ideas to sort recovered files
+
+PhotoRec FAQ
+
+Scripted run: Running PhotoRec without user interaction (Batch mode).
+
+Developers How to contribute code to TestDisk & PhotoRec
+
+Problems?
+
+Don't hesitate to visit the PhotoRec forum if you have
+
+some difficulties using PhotoRec,
+
+some ideas to improve it
+
+If there is a file format you would like to be added, feel free to contact the developer Christophe GRENIER.
+
+Retrieved from "https://www.cgsecurity.org/mw/index.php?title=PhotoRec&oldid=9160"
+
+Category: 
+Data Recovery
+
+Navigation menu
+
+ Personal tools
+
+Log in
+
+ Namespaces
+
+Page
+
+ English
+
+ Views
+
+Read
+View source
+
+ More
+
+Search
+
+ Data Recovery
+
+TestDisk
+PhotoRec
+download
+Documentation
+Forum
+Donation
+
+ Password recovery
+
+CmosPwd
+Lilo Password
+Chntpw for dos
+
+ Security
+
+Publications
+SysOps in Practice
+
+ Misc
+
+Mon CV (FR)
+PGP Public Key
+Euro coins
+Roller
+Links
+
+ Tools
+
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+
+ This page was last edited on 21 May 2023, at 10:33.
+
+Content is available under GNU Free Documentation License 1.2 unless otherwise noted.
+
+About CGSecurity
+

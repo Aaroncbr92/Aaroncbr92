@@ -1,0 +1,96 @@
+URL: https://learn.microsoft.com/es-es/sharepoint/shareable-links-anyone-specific-people-organization
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Cómo funcionan los vínculos que se pueden compartir en OneDrive y SharePoint en Microsoft 365
+
+## 
+
+Cuando un usuario comparte un archivo o carpeta en Microsoft 365, crea un vínculo que se puede compartir con permisos para el elemento. Existen tres tipos de vínculos principales:
+
+- Vínculos "Cualquiera"
+
+- Vínculos de "People en su organización"
+
+- Vínculos de "personas específicas"
+
+Es importante que todos comprendan cómo funcionan los vínculos de uso compartido y cuáles usar para mantener la seguridad de los datos. En este artículo se describen diferentes tipos de vínculos de uso compartido e se incluyen vínculos a más recursos.
+
+## Vínculos "Cualquiera"
+
+Los vínculos Cualquiera conceden acceso al elemento a cualquiera que tenga el vínculo. Las personas que usen Cualquiera de los vínculos no tienen que autenticarse y sus accesos no pueden ser auditados.
+
+Un vínculo Cualquiera es una clave secreta revocable y transferible.
+
+- Es transferible porque se puede reenviar a otros usuarios.
+
+- Es revocable porque puede revocar el acceso de todos los usuarios que usaron el vínculo eliminándolo.
+
+- Es secreto porque no se puede adivinar ni derivar.
+
+La única forma de lograr acceso es obtener el vínculo, y la única manera de obtener el vínculo es que alguien se lo proporcione. Los vínculos de cualquier persona no se pueden usar con archivos en un sitio de canal compartido de Microsoft Teams.
+
+La creación de un vínculo Cualquiera no hace que el contenido asociado aparezca en los resultados de búsqueda ni que sea accesible a través de Copilot. Tampoco concede acceso inmediatamente al contenido a todos los usuarios. Un vínculo Cualquiera debe activarse haciendo clic en el vínculo (canje) antes de que la persona que tenga el vínculo pueda buscar el contenido compartido.
+
+## Vínculos de "People en su organización"
+
+Los vínculos delas personas de su organización solo funcionan para las personas dentro de su organización de Microsoft 365. (No funcionan para invitados en el directorio, solo los miembros).
+
+Al igual que un vínculo de cualquier persona, un vínculo de People en mi organización es una clave secreta revocable y transferible. Estos vínculos solo funcionan para las personas que están dentro de su organización de Microsoft 365. Cuando alguien abre un vínculo Personas de su organización, debe autenticarse como miembro en el directorio. Si no han iniciado sesión actualmente, se les pedirá que inicien sesión.
+
+La creación de un People en el vínculo de la organización no hace que el archivo o la carpeta asociados aparezcan en los resultados de la búsqueda ni que sea accesible a través de Copilot. Tampoco concede acceso a todos los usuarios de la organización. La creación de este vínculo no proporciona acceso de toda la organización al contenido. Para que las personas accedan al archivo o carpeta, deben poseer el vínculo y debe activarse a través del canje (haciendo clic en él). Un usuario canjea el vínculo seleccionándolo.
+
+Si el vínculo se envía desde la interfaz de usuario web de SharePoint o OneDrive, o mediante correo electrónico en Outlook o un mensaje de chat en Microsoft Teams, se canjea automáticamente por destinatarios individuales, hasta un límite de 100. Esta característica no es compatible con los destinatarios del grupo ni con los mensajes publicados en los canales de Microsoft Teams. El vínculo no funciona para invitados ni para otras personas ajenas a la organización.
+
+## Vínculos de "personas específicas"
+
+Los vínculos de usuarios específicos solo funcionan para las personas que especifican los usuarios al compartir el elemento.
+
+Un vínculo de personas específicos es una clave secreta revocable y no transferible. Los vínculos de personas específicos no funcionan si los abre alguien distinto de las personas especificadas por el remitente. Además, los vínculos de personas específicas hacen que el archivo o la carpeta asociados aparezcan en los resultados de búsqueda y que sea accesible a través de Copilot para todos los usuarios y miembros del grupo de seguridad que se agregan al vínculo de uso compartido.
+
+Se pueden usar vínculos de personas específicos para compartir con usuarios de la organización y personas ajenas a la organización. En ambos casos, el destinatario debe autenticarse como el usuario especificado en el vínculo. En el caso de los archivos de un sitio de canal compartido de Microsoft Teams, solo se pueden enviar vínculos de personas específicos a otros usuarios del canal.
+
+## Pasos siguientes
+
+Para administrar o cambiar las opciones de uso compartido, consulte los artículos siguientes:
+
+- 
+ Administrar la configuración de uso compartido para SharePoint y OneDrive en Microsoft 365
+
+- 
+ Cambiar el tipo de vínculo de uso compartido predeterminado para un sitio
+
+Para ayudar a los usuarios finales a comprender las opciones de uso compartido, envíeles estos artículos:
+
+- 
+ Compartir archivos y carpetas de OneDrive
+
+- 
+ Compartir archivos o carpetas de SharePoint
+
+Asegúrese de incluir información sobre las directivas de su organización para compartir información.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-05-19

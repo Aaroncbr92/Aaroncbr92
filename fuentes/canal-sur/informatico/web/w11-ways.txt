@@ -1,0 +1,235 @@
+URL: https://support.microsoft.com/es-es/windows/formas-de-instalar-windows-11-e0edbbfb-cfc5-4011-868b-2ce77ac7c70e
+Leído: 2026-10-05
+
+# Formas de instalar Windows 11
+
+ Se aplica a
+Windows 11 Windows 10 
+
+Importante
+
+ Actualizado el 04 de febrero de 2025
+
+Este artículo de soporte técnico se publicó originalmente el 30 de septiembre de 2021, cuando Windows 11 se lanzó por primera vez al público. En el momento de la publicación y aún hoy, la intención detrás de esta página de soporte técnico es detallar las formas de instalar Windows 11 en dispositivos que cumplen los requisitos del sistema para Windows 11. Si instalaste Windows 11 en un dispositivo que no cumple con los requisitos del sistema de Windows 11, Microsoft recomienda que vuelvas a Windows 10 inmediatamente.
+
+Los requisitos mínimos del sistema de Windows 11 permanecen sin cambios y se pueden encontrar en el artículo especificaciones, características y requisitos del equipo de Windows 11.
+
+Antes de instalar Windows 11, asegúrate de que el dispositivo en el que se está instalando Windows 11 cumple los requisitos mínimos del sistema. Si el dispositivo ejecuta actualmente Windows 10, Microsoft recomienda comprobar los requisitos mínimos del sistema mediante la aplicación Comprobación de estado del equipo. No es recomendable instalar Windows 11 en un dispositivo que no cumpla los requisitos. Para obtener más información, consulte Instalación de Windows 11 en dispositivos que no cumplen los requisitos mínimos del sistema.
+
+## Método recomendado para instalar Windows 11
+
+### Windows Update en Configuración
+
+Si se actualiza de Windows 10 a Windows 11, Microsoft recomienda esperar hasta que Windows Update notifique que la actualización está lista para el dispositivo. Para comprobar si Windows 11 está listo para un dispositivo mediante Windows Update, siga estos pasos:
+
+- 
+Seleccione Inicio y, a continuación, Configuración>Actualización & seguridad>Windows Update .
+
+O bien
+
+Seleccione el siguiente acceso directo de Windows Update:
+
+ Abrir Windows Update
+
+- 
+En la ventana de Windows Update que se abre, selecciona el botón Buscar actualizaciones.
+
+Nota
+
+Si hay actualizaciones disponibles para la versión actual de Windows, es posible que la actualización de Windows 11 no esté disponible hasta que se instalen esas actualizaciones. Instale las actualizaciones para la versión actual de Windows, reinicie el dispositivo e intente comprobar la actualización de Windows 11 de nuevo.
+
+- 
+Si Windows 11 está listo para instalarse en el dispositivo, se muestra un mensaje en la ventana de Windows Update que indica que Windows 11 está listo. Seleccione el botón Descargar e instalar para iniciar la actualización de Windows 11.
+
+- 
+En la ventana Términos de licencia del software que se abre, seleccione el botón Aceptar e instalar .
+
+- 
+La ventana de Windows Update se actualiza y el estado: muestra el progreso de la descarga e instalación de la actualización de Windows 11.
+
+- 
+Una vez que la parte de instalación de la actualización de Windows 11 se haya realizado en Windows 10:
+
+- La ventana de Windows Update se actualiza y se requieren cambios en Reiniciar. El estado: también se actualiza a Reinicio pendiente.
+
+- Aparecerá una notificación de Windows Update en el área de notificación con el mensaje Reiniciar para instalar la actualización de características de Windows más reciente.
+
+Para continuar con la actualización de Windows 11, reinicie el dispositivo seleccionando el botón Reiniciar ahora en la ventana de Windows Update o Reiniciar ahora en la notificación de Windows Update.
+
+- 
+El dispositivo se reinicia y continúa el proceso de actualización de Windows 11. El dispositivo se reiniciará automáticamente unas cuantas veces más para terminar de instalar Windows 11.
+
+- 
+La pantalla de inicio de sesión de Windows aparece una vez que se realiza la actualización a Windows 11. Inicie sesión en el dispositivo para completar la actualización.
+
+Si no aparece un mensaje en la ventana de Windows Update de que Windows 11 está listo, podría deberse a uno de los siguientes motivos:
+
+- 
+El dispositivo cumple los requisitos de hardware para Windows 11, pero la actualización de Windows 11 aún no está lista para instalarse.
+
+- 
+El dispositivo cumple los requisitos de hardware para Windows 11, pero puede haber un problema de compatibilidad conocido con el dispositivo y Windows 11. La actualización de Windows 11 se ofrece finalmente si se resuelve el problema de compatibilidad. Para obtener más información, consulte La notificación "Lo que necesita tu atención" se muestra durante una actualización de Windows.
+
+- 
+El dispositivo no cumple los requisitos de hardware para Windows 11. Para comprobar la compatibilidad del hardware de Windows 11 del dispositivo, usa la aplicación Comprobación de estado del PC disponible en el siguiente vínculo:
+
+ Cómo usar la aplicación Comprobación de estado del PC
+
+En su lugar, es posible que la ventana de Windows Update muestre el siguiente mensaje:
+
+- 
+
+ Prepárese para Windows 11
+
+ Para ver si este equipo puede ejecutar Windows 11, consulta los requisitos de hardware o visita el sitio web del fabricante del equipo.
+
+En el vínculo Comprobar los requisitos de hardware de este mensaje no se comprueba la compatibilidad de hardware de Windows 11 para el dispositivo, sino que se abre la página Buscar especificaciones, características y requisitos del equipo para Windows 11. Para comprobar manualmente si el dispositivo cumple los requisitos mínimos de hardware, usa la Comprobación de estado del PC disponible en el siguiente vínculo:
+
+ Cómo usar la aplicación Comprobación de estado del PC
+
+## Otros métodos para instalar Windows 11
+
+### Usar el Asistente de instalación de Windows 11 para actualizar
+
+El Asistente de instalación de Windows 11 es una aplicación que proporciona asistencia para actualizar a Windows 11. Microsoft recomienda esperar hasta que se ofrezca a un dispositivo la actualización de Windows 11 a través de Windows Update antes de usar la aplicación Asistente para la instalación de Windows 11. Sin embargo, la aplicación Asistencia de instalación de Windows 11 se puede usar antes de que Windows Update ofrezca la actualización a Windows 11.
+
+La Asistencia para la instalación de Windows 11 se puede descargar desde el siguiente vínculo:
+
+ Asistente para la instalación de Windows 11
+
+Cuando se ejecuta el Asistente para instalación de Windows 11, se muestra una de las siguientes opciones en la ventana del Asistente para instalación de Windows 11:
+
+- 
+
+ Instalar Windows 11: si el Asistente para instalación de Windows 11 determina que el dispositivo cumple los requisitos de hardware para Windows 11, ofrece instalarlo. Para continuar con la instalación, en la ventana Asistente para la instalación de Windows 11:
+
+- Selecciona el botón Aceptar e instalar para iniciar la actualización a Windows 11.
+
+- Cuando el proceso de actualización de Windows 11 solicite el reinicio, seleccione el botón Reiniciar ahora.
+
+- El dispositivo se reinicia y continúa el proceso de actualización de Windows 11. El dispositivo se reiniciará automáticamente unas cuantas veces más para terminar de instalar Windows 11.
+
+- La pantalla de inicio de sesión de Windows aparece una vez que se realiza la actualización a Windows 11. Inicie sesión en el dispositivo para completar la actualización.
+
+- 
+
+ Usar la aplicación Comprobación de estado del PC para comprobar la compatibilidad: El Asistente para instalación de Windows 11 necesita más información para determinar si el dispositivo cumple los requisitos de hardware de Windows 11. Ejecuta la aplicación Comprobación de estado del PC para comprobar si el dispositivo cumple los requisitos mínimos de hardware. Para obtener más información, consulte Cómo usar la aplicación Comprobación de estado del PC.
+
+Después de ejecutar la aplicación Comprobación de estado del equipo, selecciona el botón Actualizar en la ventana del Asistente de instalación de Windows 11 para actualizar el estado. El estado actualizado debe mostrar si Windows 11 está disponible para la instalación o si el dispositivo no cumple los requisitos mínimos de hardware para instalar Windows 11.
+
+- 
+
+ Este equipo no cumple los requisitos mínimos del sistema para instalar Windows 11: el dispositivo no cumple los requisitos de hardware para actualizar a Windows 11. Microsoft recomienda dejar el dispositivo en Windows 10.
+
+Nota
+
+ El soporte técnico para Windows 10 finalizó el 14 de octubre de 2025
+
+- Después del 14 de octubre de 2025, Microsoft ya no proporcionará actualizaciones de software gratuitas desde Windows Update, asistencia técnica ni correcciones de seguridad para Windows 10. El PC seguirá funcionando, pero recomendamos que se cambie a Windows 11.
+
+- 
+ Más información
+
+### Usar medios de instalación de Windows 11
+
+Los medios de instalación de Windows 11 son un método alternativo para instalar Windows 11. Los medios de instalación se suelen usar para instalar Windows 11 en un dispositivo que aún no tiene Windows instalado. Sin embargo, también se puede usar para actualizar instalaciones existentes de Windows a Windows 11.
+
+Para obtener más información sobre dónde obtener los medios de instalación de Windows 11 y cómo crearlos, consulta el artículo Crear medios de instalación para Windows.
+
+Una vez creado el medio de instalación, se puede usar para actualizar una instalación existente de Windows a Windows 11 mediante uno de los dos métodos siguientes:
+
+- 
+ Ejecute el medio de instalación en la versión actual de Windows.
+
+- 
+ Arranque desde el medio de instalación para instalar una copia nueva de Windows 11.
+
+ Ejecutar el medio de instalación en la versión actual de Windows
+
+Los medios de instalación de Windows 11 se pueden usar en la versión actual de Windows, por ejemplo, Windows 10, para actualizar a Windows 11:
+
+- 
+Inicie sesión en Windows en el dispositivo que se va a actualizar a Windows 11.
+
+- 
+Inserta el medio de instalación de Windows 11 en el dispositivo Windows. Por ejemplo, si el medio de instalación de Windows 11 se creó en una unidad flash USB, conecte la unidad flash USB al dispositivo Windows.
+
+- 
+Debería aparecer una ventana emergente de notificación preguntando qué hacer con los medios insertados. Selecciona Ejecutar setup.exe.
+
+Si no aparece una notificación emergente:
+
+- Haga clic con el botón derecho en el menú Inicio y, a continuación, seleccione Explorador de archivos .
+
+- Cuando se abra el Explorador de archivos, en la barra de navegación, seleccione Este equipo.
+
+- En el panel de resultados, en Dispositivos y unidades, haga clic con el botón derecho en el medio de instalación de Windows 11 y seleccione Instalar o ejecutar programa desde el medio.
+
+Nota
+
+Si aparece la ventana Control de cuentas de usuario , seleccione el botón Sí . Si la ventana Control de cuentas de usuario solicita un nombre de usuario y una contraseña de administrador, escriba un nombre de usuario y una contraseña de una cuenta que tenga privilegios de administrador. Una vez especificados el nombre de usuario y la contraseña, seleccione el botón Sí .
+
+- 
+Se abrirá la ventana de instalación de Windows 11. Recorrer las páginas de configuración de Windows 11 y seguir las instrucciones de cada paso.
+
+- 
+En la página Listo para instalar , el valor predeterminado es Mantener los archivos y aplicaciones personales. Sin embargo, al seleccionar el vínculo Cambiar lo que se conserva , se ofrecen las siguientes opciones:
+
+- 
+ Conservar los archivos personales y las aplicaciones: los archivos personales, las aplicaciones y la configuración de Windows se conservan y migran a la nueva instalación de Windows 11. Esta es la opción predeterminada.
+
+- 
+ Conservar solo los archivos personales: los archivos personales se conservan y migran a la nueva instalación de Windows 11, pero se eliminan las aplicaciones y la configuración de Windows.
+
+- 
+ Nada : se eliminará todo, incluidos los archivos personales, las aplicaciones y la configuración de Windows. Si esta opción está seleccionada y se necesitan archivos personales, primero se debe hacer una copia de seguridad, por ejemplo, en OneDrive o en un dispositivo de copia de seguridad externo.
+
+Seleccione la opción deseada o acepte el valor predeterminado de Mantener archivos y aplicaciones personales. Para iniciar la actualización, termine de recorrer las páginas de instalación de Windows 11.
+
+- 
+El dispositivo se actualiza a Windows 11.
+
+ Arranque desde el medio de instalación para instalar una copia nueva de Windows 11
+
+Los medios de instalación de Windows 11 se pueden arrancar desde un dispositivo Windows existente para actualizar a Windows 11:
+
+Advertencia
+
+- Este método borra completamente el contenido del disco duro y la instalación existente de Windows e instala una copia nueva de Windows 11. Se pierden todos los archivos y aplicaciones instalados en el dispositivo. Asegúrese de que se realiza una copia de seguridad de los archivos necesarios antes de continuar, por ejemplo, en OneDrive o en un dispositivo de copia de seguridad externo.
+
+- Aunque este método comprueba que el dispositivo cumple algunos de los requisitos mínimos del sistema para Windows 11, actualizar sin comprobar la elegibilidad de un sistema a través de la aplicación Comprobación de estado del PC o Windows Update podría dejar un sistema en un estado no compatible. Microsoft recomienda ejecutar la aplicación Estado del PC en la instalación actual de Windows para comprobar que el dispositivo cumple todos los requisitos para ejecutar Windows 11. La ejecución de la aplicación Estado del equipo debe realizarse antes de intentar usar los medios de instalación para instalar una copia nueva de Windows 11. Para obtener más información sobre cómo usar la aplicación Estado del PC para comprobar si el dispositivo cumple los requisitos mínimos de Windows 11, consulta Cómo comprobar si el dispositivo cumple los requisitos del sistema de Windows 11 después de cambiar el hardware del dispositivo.
+
+- En la instalación actual de Windows, ejecuta la aplicación Comprobación de estado del PC para comprobar que el dispositivo cumple los requisitos mínimos del sistema para Windows 11. Una vez comprobados los requisitos mínimos del sistema para Windows 11, apague el dispositivo.
+
+- Inserta el medio de instalación de Windows 11 en el dispositivo Windows. Por ejemplo, si el medio de instalación de Windows 11 se creó en una unidad flash USB, conecte la unidad flash USB al dispositivo Windows.
+
+- Encienda el dispositivo que se está actualizando a Windows 11 y, a continuación, inicie el menú de arranque del dispositivo. El menú de arranque se inicia seleccionando una tecla adecuada en el teclado cuando se inicia el dispositivo por primera vez. Esta tecla varía según el fabricante y el modelo del dispositivo, pero normalmente es una de las teclas de función (F1 - ,F12) de la parte superior del teclado o la tecla SUPR. Para obtener más información, consulte la documentación del dispositivo o el sitio web del fabricante del dispositivo.
+
+- En el menú de arranque del dispositivo, seleccione el medio de instalación de Windows 11.
+
+- Una vez que el dispositivo se inicia desde el medio de instalación de Windows 11, aparece la ventana Configuración de Windows 11. Pase por la configuración de Windows 11 y siga las instrucciones en pantalla.
+
+- El dispositivo se actualiza a Windows 11 y se instala una copia nueva de Windows.
+
+## Artículos relacionados
+
+- 
+ ¿Puedo actualizar a Windows 11?
+
+- 
+ Prepárese para la actualización de Windows 11.
+
+- 
+ Crear medios de instalación para Windows.
+
+- 
+ Actualizar a Windows 11: preguntas más frecuentes.
+
+- 
+ Instalar Windows 11 en equipos que no cumplen los requisitos mínimos del sistema.
+
+- 
+ Cómo comprobar si el dispositivo cumple los requisitos del sistema de Windows 11 después de cambiar el hardware del dispositivo.
+
+- 
+ La notificación "Lo que necesita tu atención" se muestra durante una actualización de Windows.

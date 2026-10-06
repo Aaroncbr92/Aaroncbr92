@@ -1,0 +1,521 @@
+1
+USB Performance Logo Usage Guidelines
+USB Performance Logo Usage Guidelines  |  © 2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+
+This document provides information pertaining to USB Performance 
+Logos. 
+Logo Usage Guidelines for Hi-Speed USB and Certified USB Chargers can 
+be found here.
+Logo Usage Guidelines for USB Type-C® Cable Logos can be found here.
+
+1:1
+4:1	
+Logo Color
+USB Logo Color Formulas
+USB Logo Color Versions
+5:1	
+Logo Improper Usage
+6:1	
+Layout and Logo Usage
+Including USB Performance Logos on  
+Various Materials
+USB Performance Packaging
+USB Performance Collateral and Advertisements
+USB Performance Manuals
+7:1	
+Art Files
+Table of Contents
+1:2	
+Introduction
+1:3	
+General Logo Usage Guidelines
+2:1	
+Logos and Word Mark
+Word Mark and Trademark Attribution Statement
+USB Packaging Logos
+USB Port Logos
+USB Device Power Port Logos
+3:1	
+Logo Usage (All Versions)
+Minimum Clear Space
+Minimum Size
+Logo Orientation
+Welcome to the USB Performance 
+Logo Usage Guidelines.
+
+1:2
+USB Performance Logo Usage Guidelines  |  © 2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+We are expanding the USB experience 
+through quality and ease of use.
+The Universal Serial Bus (USB) has gone beyond its 
+original intent to connect peripherals to PCs and is now a 
+prevailing standard in the interconnect market. USB can 
+be found everywhere from PCs to consumer electronics to 
+mobile devices. Because of its ease of use, speed and 
+expandability, USB is the preferred connection for many 
+consumers. This presents a continued market opportunity 
+for the future. 
+In order to realize this opportunity, USB products 
+must continue to enhance the consumers’ experience 
+through high quality and ease of use. That’s why USB 
+Implementers Forum, Inc. (USB-IF) developed trademarkprotected USB Performance Packaging Logos, Port Logos, 
+and Device Power Port Logos for use by qualified parties. 
+To qualify for the right to display these logos, products 
+must pass the specified USB-IF compliance testing for 
+product quality. 
+USB Performance Logos at a glance
+USB Performance-only Packaging Logos and Cable and Port Logos
+USB Device Power Port Logos
+USB Word Mark
+USB4® 
+Introduction
+
+1:3
+To maintain the integrity of the USB 
+Performance Logos, all Guidelines must 
+be followed. Refer to this page and 
+the following section for a complete 
+understanding of how to use the USB 
+Performance Logos.
+Your Brand in Relation to USB Logos
+Your company name, logo, or product name must appear 
+on any products or related materials where the USB 
+Performance Packaging, Port, and Device Power Port 
+Logos are used. The Logos cannot be larger or more 
+prominent than your product name, trademark, logo, or 
+company name. 
+USB Logo Usage Certification Requirement
+As stated in Section 2 of the USB-IF Trademark License 
+Agreement, a Certified USB-IF logo may be used solely in 
+conjunction with a product that has been submitted to 
+and passed the USB-IF Compliance Testing Program and 
+are included on the USB-IF Integrators List. The company 
+also must have a valid USB-IF Trademark License 
+Agreement on file. USB-IF Certified Logos cannot be 
+used generically on your website or product packaging, 
+collateral, advertisements, or manuals.
+Important: Please refer to the USB-IF Trademark License 
+Agreement Mark Requirements Chart for details regarding 
+the USB-IF Test Procedures and other requirements.
+USB Logos Must Not Be Altered
+You must use the logos exactly as they are shown in the 
+USB-IF digital artwork files; you may not imitate the USB 
+Performance Packaging, Port, and Device Power Port 
+Logos in any of your materials.
+USB Logos May Not Be Used as a Design Feature
+The USB Performance Packaging, Port, and Device Power 
+Port Logos may not be used as a design feature on any of 
+your materials.
+USB Logos Can Not Be Combined 
+With Any Other Feature
+You may not combine the USB Performance Packaging, 
+Port, and Device Power Port Logos with any other feature, 
+including other marks, words, graphics, photos, slogans, 
+numbers, design features, or symbols.
+General Logo Usage Guidelines
+
+2:1
+Word Mark and 
+Trademark Attribution Statement
+USB-IF Word Mark
+“USB4® is a registered trademark of USB Implementers 
+Forum and is only for use with products based on and 
+compliant with the USB4® specification. 
+The trademark notice symbol ® must be included in the first 
+instance of “USB4®” in any material. USB4® should not be 
+translated into languages other than English.
+Trademark Attribution Statement
+The trademark attribution statement should be included 
+in any materials using the word mark “USB4®”
+USB-IF Word Mark
+Trademark Attribution Statement
+USB4® is a registered trademark of 
+USB Implementers Forum.
+Logos and Word Mark
+USB4®
+
+2:2
+USB Packaging Logos
+The USB Packaging Logos may be used by companies 
+with a valid USB-IF Trademark License Agreement on file. 
+Products using the Packaging Logo must indicate the 
+port’s signaling capability (i.e. 5Gbps, etc.) that have been 
+submitted to and passed the USB-IF Test procedures for 
+the corresponding performance and have been posted on 
+the USB-IF Integrators List.
+The USB Packaging Logo may be reproduced only in the 
+versions shown in this document and may not be altered 
+in any way. Please note that the trademark (®) and the 
+word “certified” are integral parts of the Logos. They are 
+considered part of the Logo art and should not be altered 
+in any way. The Logos must be reproduced from the  
+USB-IF digital artwork files. 
+Logos and Word Mark
+
+2:3
+USB Port Logos
+The USB Port Logos may be used by companies with a valid 
+USB-IF Trademark License Agreement on file and indicates 
+the port’s signaling capability (i.e. 5Gbps, etc.). The USB Port 
+Logo may be used on End Product Host(s) with certified Si 
+regardless of whether the end product is certified. The USB 
+Port Logos may also be used on Host(s), peripheral device(s), 
+or hub(s) when the entire end product is certified and has 
+been posted on the USB-IF Integrators List.
+Logos and Word Mark
+
+2:4
+USB Device Power Port Logos
+The USB Device Power Port Logo may be used by 
+companies with a valid USB-IF Trademark License 
+Agreement on file. The USB Device Power Logo may 
+solely be used in conjunction with products consisting of 
+Host(s), peripheral device(s), or hub(s) that have been 
+submitted to and passed the USB-IF Test procedures for 
+the corresponding performance, USB Power Delivery and 
+USB Type-C® testing requirements, and have been posted 
+on the USB-IF Integrators List.
+Logos and Word Mark
+
+2:5
+USB Packaging Logo Spacing
+These requirements apply to use of the USB Packaging 
+Logos and must be followed.
+Minimum Clear Space 
+Avoid visual clutter by maintaining a minimum amount of 
+clear space around the Logo that is equal to 1/2 the height 
+of USB.
+Minimum Size for Print
+The minimum width of the Logo is 1 inch (25.4 mm).
+Minimum Size for On-Screen
+The minimum width of the Logo is 82 pixels. 
+Logo Alignment
+To align the Logo correctly with margins or other 
+elements, use the top and left edge of the circular arc.
+USB Performance Logo Usage Guidelines  |  © 2024 USB Implementers Forum, Inc. (USB-IF). All rights reserved.
+Logo Usage
+Minimum Clear Space
+Minimum Size for Print
+Minimum Size for On-Screen
+Logo Alignment
+Align Left Edge of double-line cable 
+graphic for Horizontal Alignment
+Minimum Size 
+includes the logo 
+Clear Space, 
+indicated by the 
+blue margin.
+1/2 X
+1/2 X
+1/2 X
+1/2 X
+X
+1 inch
+82 pixels
+Align Top Edge of “Certified” 
+for Vertical Alignment
+Examples
+Minimum Size for Print
+
+2:6
+Logo Usage
+Minimum Clear Space
+Minimum Size
+Logo Orientation
+USB Port Logo Spacing
+These requirements apply to use of the USB Port Logos 
+and must be followed.
+Clear Space
+Avoid visual clutter by maintaining a minimum amount of 
+clear space around the Logo that is equal to the height of 
+cable end device for the size selected.
+Minimum Size
+The minimum size of the largest dimension of the Logo is 
+.2 inches (5 mm).
+Logo Orientation
+The Logo can be oriented horizontally or vertically.
+Please Note: The USB 80Gbps Port Logo 
+is only to be used on devices.
+Licensee is not obligated to use the “®” and may omit the trademark ® symbol on the 
+USB Port Logo for mobile and non-mobile Product, for which the Licensee is printing/
+engraving on chassis where the reasonable alternatives for the location and size of the 
+Logo do not allow for the symbol to have a maximum dimension of 15mm or more. This 
+permission is limited only to these exact situations. 
+Where the symbol is so omitted, the manufacturer/Licensees must include the following 
+statement (corresponding the appropriate Port Logo) in their user’s manual/printed 
+materials accompanying the Product: “The USB 80Gbps Port Logo is a trademark of USB 
+Implementers Forum, Inc.” and must be accompanied with the image of the mark with 
+the correct rendering of the ®.
+1X
+1X
+X
+1X
+1X
+.2 inches
+Horizontal 
+Orientation
+Vertical 
+Orientation
+Examples
+
+2:7
+Logo Usage
+Minimum Clear Space
+Minimum Size
+.2 inches
+USB Device Power Port Logo Spacing
+These requirements apply to use of the USB Device Power 
+Port Logos and must be followed.
+Clear Space
+Avoid visual clutter by maintaining a minimum amount of 
+clear space around the Logo that is equal to the width of 
+the battery terminal for the size selected.
+Minimum Sizes
+The minimum size of the largest dimension of the Logo 
+is .2 inches (5 mm). Measurement does not include the “®”.
+Logo Orientation
+The Logo can be oriented horizontally with the battery 
+terminal to the right or vertically with the battery terminal 
+to the top.
+1X
+1X
+1X
+1X
+X
+Logo Orientation
+Vertical 
+Orientation
+Licensee in not obligated to use the “®” and may omit the trademark ® symbol on the 
+USB Device Power Port Logo for mobile and non-mobile Product, for which 
+the Licensee is printing/engraving on chassis where the reasonable alternatives for 
+the location and size of the Logos do not allow for the symbol to have a maximum 
+dimension of 15mm or more. This permission is limited only to these exact situations.
+Where the symbol is so omitted, the manufacturer/Licensees must include the 
+following statement (corresponding the appropriate Device Power Port Logo) in their 
+user’s manual/printed materials accompanying the Product: “The USB 80Gbps 
+Device Power Port Logo is a trademark of USB Implementers Forum, Inc.” and must 
+be accompanied with the proper USB Device Power Port image of the mark with 
+the correct rendering of the ®.
+Horizontal 
+Orientation
+Examples
+
+2:8
+USB Packaging Logo Color Formulas
+These requirements apply to use of the USB Packaging 
+Logo and must be followed.
+The USB Packaging Logos have been created as a 2-color 
+Logo. (Other color versions are shown on the following 
+pages). It is best to reproduce the Logo using the PANTONE® 
+numbers shown at the right. When reproducing these 
+colors in 4-color process inks, or on-screen (RGB), the 
+screen tints listed here should be used.
+Different color models may reproduce the USB Red and 
+USB Blue with slight color variations, e.g., a Logo printed 
+using USB Red as a spot color may result in a slightly 
+different hue of red when compared to one printed using 
+4-color process or compared to an on-screen (RGB) Logo.
+PANTONE Colors displayed here may not match 
+PANTONE-identified standards. Consult current PANTONE 
+Color Publications for accurate color. PANTONE® is the 
+property of Pantone, Inc.
+Logo Color
+USB Red
+PMS
+PANTONE® 185C
+CMYK
+C0 - M91 - Y76 - K0
+RGB
+R235 - G0 - B41
+USB Blue
+PMS
+PANTONE® 653C
+CMYK
+C100 - M62 - Y0 - K20
+RGB
+R52­ - G96 - B148
+USB Blue
+USB Red
+USB Red
+USB Red
+USB 80Gbps Packaging Logo Colors
+Example
+
+2:9
+Two-Color Logo
+USB Red PANTONE® 185C 
+USB Blue PANTONE® 653C
+One-Color Logo
+Black
+Reversed Logo
+On dark-colored background
+USB Packaging Logo Color Versions
+Two-Color Logo
+The 2-color version is the preferred version of the 
+USB Packaging Logos. 
+One-Color Logo
+The 1-color, black version of the USB Packaging Logos 
+should be used for single-color applications. 
+Reversed Logo
+The reversed version of the USB Packaging Logos should 
+be used on dark backgrounds and over photography. 
+When placed over photography make sure to use 
+photographs that have enough tone to support the 
+Logo and don’t prohibit legibility.
+Note:
+PANTONE Colors displayed here may not match 
+PANTONE-identified standards. Consult current PANTONE 
+Color Publications for accurate color. PANTONE® is the 
+property of Pantone, Inc.
+Logo Color
+Examples
+
+5:1
+USB Performance Packaging Logos 
+Improper Usage
+Proper use of the USB Logos strengthens their effectiveness 
+each time they are seen. The following examples depict 
+unacceptable uses of the USB Logos for both print and onscreen applications. These examples use the USB 20Gbps 
+Packaging Logo but apply to the USB 5Gbps, 10Gbps, 
+40Gbps, and 80Gbps Packaging Logos as well.
+You must use the Logos exactly as they are shown in the 
+USB-IF digital artwork files. No alterations are permitted.
+1  Don’t place the Logo on a busy background. 
+A busy background would not follow the clear space 
+guidelines, spelled out earlier in this document.
+2  Don’t change the colors of the Logo.
+3  Don’t use any version of the Logos without the  
+     “double-line cable graphic.”
+4  Don’t use the Logo without the trademark ® symbol.
+5  Don’t use the Logo without the word “CERTIFIED”.
+6   Don’t use the USB Performance Packaging Logos  
+ 
+      without their speed indicators.
+Logo Improper Usage
+1
+2
+3
+4
+5
+6
+
+6:1
+Including the USB Performance 
+Logos on Various Materials
+Incorporating the USB Performance Packaging Logos,  
+Port Logos, and Device Power Port Logos into your 
+packaging, marketing materials, advertisements 
+and manuals strengthens your marketing efforts by 
+informing your consumers of the USB compatibility of 
+your product(s). The following pages show samples of 
+various marketing materials and examples of the USB 
+Performance Logo placement.
+Examples shown on this page can only be used in 
+correlation with a product that has been certified by the 
+USB-IF and met the specific certification requirements.
+Layout and Logo Usage
+USB Performance Logo Layout examples at a glance
+Packaging
+Collateral and Advertising
+Manuals
+
+6:2
+USB Performace Packaging
+Packaging is printed in a variety of ways. Coarse printing, 
+such as flexography on corrugate or screen printing on 
+various materials, may benefit from using the 1-color 
+or the reversed Logo. Product that is printed using finer 
+printing methods, such as 4-color process, can choose  
+any Logo that best fits its Product box’s design. The goal  
+is to choose the Logo that will reproduce most attractively 
+onto the material upon which it is being printed.
+Example shown on this page can only be used in 
+correlation with a product that has been certified by the 
+USB-IF and met the specific certification requirements.
+Layout and Logo Usage: Packaging
+
+6:3
+USB Performance  Collateral 
+and Advertisements
+Collateral
+Where you are not restricted by color, the full-color Logo 
+can be used for your print material. In situations where 
+color is restricted, use the 1-color or reversed versions 
+of the Logo.
+One-Color Advertisements 
+For 1-color newspaper advertisements, use the black 
+or reversed version of the Logo.
+Full-Color Magazine Advertisements 
+Full-color magazine ads may use the 1-color, reversed 
+or full-color versions of the Logo, choosing the Logo that 
+works best with the design of the ad.
+Examples shown on this page can only be used in 
+correlation with a product that has been certified by the 
+USB-IF and met the specific certification requirements.
+Layout and Logo Usage: Collateral and Advertisements
+Collateral
+One-Color Advertisement
+Full-Color Magazine Advertisement
+
+6:4
+USB Performance  Manuals
+Where the ® symbol of the USB Performance Port Logos and Device Power Port 
+Logos have been omitted on the printing/engraving on Product chassis, the 
+manufacturer/Licensees must include the following statement(s) in their user’s 
+manual/printed materials accompanying the Product:
+Statement 1
+“The USB 5Gbps Port Logo is a trademark of the USB Implementers Forum, Inc.”
+Statement 2
+“The USB 10Gbps Port Logo is a trademark of the USB Implementers Forum, Inc.”
+Statement 3
+“The USB 20Gbps Port Logo is a trademark of the USB Implementers Forum, Inc.”
+Statement 4
+“The USB 40Gbps Port Logo is a trademark of the USB Implementers Forum, Inc.”
+Statement 5
+“The USB 80Gbps Port Logo is a trademark of the USB Implementers Forum, Inc.”
+Statement 6
+“The USB Device Power Port Logo is a trademark of the USB Implementers Forum, Inc.”
+The statement(s) must be accompanied with the proper USB Performance 
+Port Logos and Device Power Port Logos image of the mark(s) with the correct 
+rendering of the ®.
+Example shown on this page can only be used in correlation with a product that 
+has been certified by the USB-IF and met the specific certification requirements.
+Manual Example
+Layout and Logo Usage: Manuals
+Trademark statement with 
+correct rendering of the “®” and 
+Logo
+
+7:1
+Art Files
+The following USB Performance Logos 
+are available in various digital file formats.
+USB 5Gbps, USB 10Gbps, USB 20Gbps, USB 40Gbps, and 
+USB 80Gbps Packaging Logos, Port Logos, and Device 
+Power Port Logos
+Print Applications
+Encapsulated Postscript (EPS) files were created in Adobe* 
+Illustrator* and can be reproduced at any size without 
+compromising quality. Use these versions for printing. Each 
+version is a separate file. Logos can be printed using either 
+PANTONE® colors or the 4-color process mix specified on 
+page 6. Type has been converted to outlines; no fonts are 
+required to reproduce the Logos. The files have been saved 
+for both Macintosh* and PC.
+* Third-party names and brands are the property 
+of their respective owners. PANTONE® is the 
+property of Pantone, Inc.
+On-Screen Applications
+These versions are for on-screen applications such as the 
+Web or Microsoft* PowerPoint* presentations. They have 
+been created in RGB color mode and should not be used 
+for offset printing. These versions were rasterized in Adobe* 
+Photoshop* from Adobe Illustrator files (with the exception 
+of the EPS files). Keep in mind that these files look their best 
+when placed at 100% size, or smaller.
+PNG and or JPG files are provided for use in 
+on-screen applications.
+EPS files were created in Adobe* Illustrator* and are 
+saved in RGB color format. These files are to be used in 
+software applications that utilize vector-based artwork, 
+e.g., Adobe* Flash*.

@@ -1,0 +1,213 @@
+URL: https://www.usb.org/usb4
+Leído: 2026-10-05
+
+
+
+ USB4® | USB-IF
+
+ Skip to main content
+
+ Search this site
+
+Go
+
+Home
+
+USB4®
+
+USB 3.2
+
+USB Charger
+
+USB Type-C®
+
+ Toggle navigation
+
+Main navigation
+
+ About USB-IF
+
+ Members
+
+ Developers
+
+ Request a Vendor ID
+
+ Defined Class Codes
+
+ Human Interface Devices (HID)
+
+ BOS Descriptor Types
+
+ Technologies
+
+ USB4®
+
+ USB 3.2
+
+ USB Charger (USB PD)
+
+ USB Type-C®
+
+ Authentication
+
+ Compliance
+
+ USB4®
+
+ USB 3.2
+
+ USB 2.0
+
+ USB Type-C
+
+ Cables and Connectors
+
+ Compliance Tools
+
+ Test Labs
+
+ PIL Lab
+
+ USB-IF eStore
+
+ Request an XID
+
+ EU Conformity (IEC 62680)
+
+ Logo License Request
+
+ Pressroom
+
+ Upcoming Events
+
+ USB-IF Press Releases
+
+ Member Press Releases
+
+ Articles
+
+ Document Library
+
+ Products
+
+ Certified Product List
+
+ EU Conformity List (IEC 62680)
+
+User account menu
+
+ Member Login
+
+ Search
+
+USB4®
+
+USB4 Specification
+
+Welcome to the next generation of USB performance. Today’s advanced devices require significantly higher data performance to maintain the interactive experiences users have come to expect. USB4® represents a major update to deliver the next generation of USB architecture – enabling the highest USB bandwidth available and extending
+
+USB Type-C® performance.
+
+The USB4 Specification complements and builds upon the existing USB 3.2 and 2.0 architectures. Based on the Thunderbolt™ protocol specification contributed by the Intel Corporation, USB4 doubles the maximum aggregate bandwidth of USB and enables multiple simultaneous data and display protocols.
+
+The USB4 architecture defines a method to dynamically share a single high-speed link with multiple end device types to best serve the transfer of data by type and application. As the USB Type-C connector has evolved into the role as the external display port of many host products, the USB4 specification provides the host the ability to optimally scale allocations for display data flow. Compatibility with existing USB 3.2, USB 2.0, and Thunderbolt 3 hosts and devices is supported, and the resulting connection scales to the best mutual capability of the devices being connected.  
+
+Key characteristics of the USB4 solution include:
+
+Two-lane operation using existing USB Type-C cables and up to 80 Gbps operation over 80 Gbps certified cables
+
+Multiple data and display protocols to efficiently share the maximum aggregate bandwidth over the bus
+
+Backwards compatibility with all previous versions of USB
+
+USB Data Performance Language Usage Guidelines
+
+The USB Data Performance Usage Guidelines for products based on and compliant to the USB4 Specification are available for download here.
+
+USB Data Performance Language Usage Guidelines
+
+USB4®, USB Type-C® and USB-C® are trademarks of USB Implementers Forum. Thunderbolt™ is a trademark of Intel Corporation.
+
+Footer menu
+
+ About USB-IF
+
+ Members
+
+ Awards
+
+ Honor Roll Award
+
+ Compliance
+
+ USB4®
+
+ USB 3.2
+
+ USB 2.0
+
+ USB Type-C® / USB PD
+
+ Cables and Connectors
+
+ Compliance Tools
+
+ Test Labs
+
+ USB-IF eStore
+
+ Request an XID
+
+ EU Conformity (IEC 62680)
+
+ Developers
+
+ USB4®
+
+ USB-IF Logo License
+
+ Vendor ID Request
+
+ USB Type-C®
+
+ USB Charger (USB PD)
+
+ USB 3.2
+
+ Authentication
+
+ Press
+
+ USB-IF Press Releases
+
+ Member Press Releases
+
+ USB-IF Resources
+
+ Document Library
+
+ Certified Product List
+
+ EU Conformity List (IEC 62680)
+
+ Education
+
+ Consumers
+
+ Retailers
+
+ Contact
+
+ Members Login
+
+Site sponsored by USB Implementers Forum, Inc., creators of USB technology.
+
+USB4®, USB Type-C® and USB-C® are registered trademarks of USB Implementers Forum. USB 2.0 Type-C® is a trademark of USB Implementers Forum.
+
+Copyright Bar Menu
+
+ Privacy Statement
+
+ VTM Group
+

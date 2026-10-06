@@ -1,0 +1,106 @@
+URL: https://support.microsoft.com/es-es/office/restaurar-su-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15
+Leído: 2026-10-05
+
+# Restaurar su OneDrive
+
+Obtener ayuda con Copilot
+
+ ¿Cómo puedo restaurar OneDrive a un momento anterior?
+
+ ¿Cómo utilizo la restauración de archivos de OneDrive?
+
+ Guíame sobre cómo restaurar mi OneDrive.
+
+La característica Restaurar su OneDrive de OneDrive ayuda a los suscriptores de Microsoft 365 a deshacer todas las acciones que se produjeron en cualquier archivo y carpeta en los últimos 30 días.
+
+Si algún archivo o carpeta de OneDrive se eliminó, sobrescribió, dañó o infectó con malware, puede restaurar todo el OneDrive a un momento anterior.
+
+Si no quiere restaurar todo, también puede restaurar los archivos eliminados desde la papelera de reciclaje de OneDrive o restaurar una versión anterior de un archivo.
+
+Importante
+
+- Si un archivo se ha eliminado permanentemente de la papelera de reciclaje de OneDrive, nunca se podrá recuperar.
+
+- Al restaurar, todos los archivos o carpetas creados después de la fecha del punto de restauración se enviarán a la papelera de reciclaje de OneDrive. Puede restaurar archivos desde allí independientemente de la fecha del punto de restauración.
+
+## Restaurar OneDrive a un momento anterior
+
+Para restaurar todo OneDrive, deberá tener Microsoft 365.
+
+- 
+Inicie sesión en el sitio web de OneDrive en onedrive.com.
+
+ Iniciar sesión
+
+- Si ha iniciado sesión con una cuenta personal que incluye una suscripción a Microsoft 365, en la parte superior de la página, seleccioneOpciones de configuración> y, a continuación, seleccione Restaurar su OneDrive en el panel de navegación izquierdo.
+
+- Si ha iniciado sesión con una cuenta profesional o educativa, vaya a Configuración>Restaurar OneDrive.
+
+- 
+En la página Restaurar su OneDrive, seleccione una fecha de la lista desplegable, como Ayer, o seleccione Fecha y hora personalizadas. Si está restaurando archivos después de la detección automática de un ransomware, se rellenará el campo con una fecha de restauración sugerida.
+
+- 
+Use el gráfico de actividad y el panel de actividades para revisar las actividades recientes que quiera deshacer.
+
+El gráfico de actividad diaria muestra el volumen de actividades de archivos cada día en los últimos 30 días. Le proporciona información general de lo que ha ocurrido en OneDrive a lo largo del tiempo y puede ayudarle a identificar cualquier actividad inusual. Por ejemplo, si su OneDrive se infectó con malware, puede averiguar cuándo sucedió.
+
+El panel de actividades muestra las operaciones de carpetas y archivos individuales en orden cronológico inverso. Puedes desplazarte hacia abajo para ver los días anteriores o mover el control deslizante debajo del gráfico de actividad diaria para desplazarte rápidamente a un día específico.
+
+Recomendación
+
+Usa la flecha expandir y contraer junto a cada día en la fuente de actividades para mostrar u ocultar las actividades de ese día.
+
+- 
+Si ha seleccionado Fecha y hora personalizadas, seleccione la actividad más antigua que desea deshacer. Cuando selecciona una actividad, todas las demás actividades que se realizaron después se seleccionan automáticamente.
+
+Nota
+
+Antes de seleccionar Restaurar, desplázate hasta la parte superior de la fuente de actividades para revisar todas las actividades que estás a punto de deshacer. Al elegir un día en el gráfico de actividades, las actividades más recientes se ocultan en el feed, pero se siguen seleccionando al seleccionar una actividad.
+
+- 
+Cuando esté listo para restaurar su OneDrive, seleccione Restaurar. Esta acción deshará todas las actividades seleccionadas.
+
+Los archivos de OneDrive se restaurarán al estado anterior a la primera actividad seleccionada.
+
+Nota
+
+- Al restaurar, todos los archivos o carpetas creados después de la fecha del punto de restauración se enviarán a la papelera de reciclaje de OneDrive.
+
+- Si un archivo se ha eliminado permanentemente de la papelera de reciclaje de OneDrive, nunca se podrá recuperar.
+
+- Si cambias de opinión sobre la restauración que acabas de realizar, puedes deshacer la restauración ejecutando Restaurar de nuevo y seleccionando la acción de restauración que acabas de realizar.
+
+- Los álbumes no se restauran.
+
+## Más información
+
+Si no quiere restaurar todo, también puede restaurar los archivos eliminados desde la papelera de reciclaje de OneDrive o restaurar una versión anterior de un archivo.
+
+Para los archivos de SharePoint o Microsoft Teams, puede restaurar una biblioteca de documentos.
+
+ Habilitar y configurar el control de versiones para una lista o biblioteca.
+
+## ¿Necesitas más ayuda?
+
+- 
+
+ Cuentas personales
+
+- 
+
+ Cuentas profesionales o educativas
+
+Soporte técnico de cuentas. Para obtener ayuda con la cuenta de Microsoft y las suscripciones, visita Ayuda con la cuenta & la facturación.
+
+Soporte técnico. Para obtener soporte técnico, seleccione Ponerse en contacto con el Soporte técnico de Microsoft a continuación, escriba el problema y seleccione Obtener ayuda.
+
+ Ponerse en contacto con el Soporte técnico de Microsoft
+
+Los usuarios móviles pueden ponerse en contacto con el soporte técnico abriendo la aplicación de OneDrive y agitando suavemente el dispositivo.
+
+Soporte técnico de la comunidad. Las comunidades le ayudan a formular preguntas, enviar comentarios y leer a expertos con conocimientos extensos. 
+ Pregunte en Microsoft Community No reveles información personal o sensible en foros públicos.
+
+Soporte técnico. Para obtener soporte técnico, póngase en contacto con el departamento de soporte técnico de TI, el departamento de servicio o el administrador de su organización.
+
+Administradores de TI. Los administradores de TI deben ver la Ayuda para administradores de OneDrive, la comunidad tecnológica de OneDrive o ponerse en contacto con el soporte técnico de Microsoft 365 para empresas.

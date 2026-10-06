@@ -1,0 +1,220 @@
+URL: https://support.microsoft.com/es-es/powerpoint/training/choose-the-right-view-for-the-task-in-powerpoint
+Leído: 2026-10-05
+
+# Elegir la vista adecuada para una tarea en PowerPoint
+
+ Se aplica a
+PowerPoint para Microsoft 365 PowerPoint para Microsoft 365 para Mac PowerPoint 2024 PowerPoint 2024 para Mac PowerPoint 2021 PowerPoint 2021 para Mac PowerPoint 2019 PowerPoint 2016 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo puedo ver para crear una presentación en PowerPoint?
+
+ Explica cómo usar los controles en la vista del presentador.
+
+ Elige la vista adecuada para la tarea en PowerPoint para mí.
+
+- 
+
+ Windows
+
+- 
+
+ macOS
+
+- 
+
+ Web
+
+Puede ver el archivo de PowerPoint de varias maneras, dependiendo de la tarea que esté usando. Algunas vistas resultan útiles para crear la presentación y otras vistas resultan más útiles para mostrar la presentación.
+
+Puede encontrar las vistas de PowerPoint en la pestaña Vista, tal como se muestra a continuación.
+
+También puede encontrar las vistas que se usan con mayor frecuencia en la barra de tareas de la parte inferior derecha de la ventana de diapositiva, tal como se muestra abajo.
+
+Nota
+
+Para cambiar la vista predeterminada en PowerPoint, vea Cambiar la vista predeterminada.
+
+### Vistas para crear su presentación
+
+#### Vista Normal
+
+Puede ir a la vista Normal desde el botón Vista normal de la barra de tareas , en la parte inferior de la ventana de diapositiva, o desde la pestaña Vista de la cinta de opciones.
+
+ La vista Normal es el modo de edición en el que trabajará con más frecuencia para crear las diapositivas. Debajo, la vista Normal muestra miniaturas de diapositiva a la izquierda, una ventana grande que muestra la diapositiva actual y una sección debajo de la diapositiva actual donde puede escribir sus notas de orador para cada diapositiva.
+
+#### Vista Clasificador de diapositivas
+
+Puede ir a la vista Clasificador de diapositivas desde la barra de tareas en la parte inferior de la ventana de diapositiva o desde la pestaña Vista de la cinta de opciones.
+
+La vista Clasificador de diapositivas (a continuación) muestra todas las diapositivas de la presentación en diapositivas en miniatura en secuencia horizontal. La vista Presentación con diapositivas es útil si necesita reorganizar las diapositivas; solo tiene que hacer clic y arrastrar las diapositivas a una nueva ubicación o agregar secciones para organizar las diapositivas en grupos significativos.
+
+Para obtener más información sobre las secciones, vea Organizar las diapositivas de PowerPoint en secciones.
+
+#### Vista Página de notas
+
+Puede mostrar u ocultar las notas del orador con el en la parte inferior de la ventana de diapositiva, o puede ir a la vista Página de notas desde la pestaña Vista de la cinta de opciones.
+
+El panel Notas se encuentra debajo de la ventana de diapositiva. Puede imprimir sus notas o incluirlas en una presentación que envía a la audiencia o, simplemente, usarlas como indicaciones para sí mismo mientras presenta.
+
+Para obtener más información sobre las notas, vea el tema sobre cómo agregar notas de orador a las diapositivas.
+
+#### Vista Esquema
+
+Puede ir a la vista Esquema desde la pestaña Vista de la cinta de opciones. (En PowerPoint 2013 y versiones posteriores, ya no puede ir a la vista Esquema desde la vista Normal . Tiene que acceder a ella desde la pestaña Vista ).
+
+Use la vista Esquema para crear un esquema o un panel de artículos para la presentación. Solo muestra el texto de las diapositivas, no las imágenes ni otros elementos gráficos.
+
+#### Vistas Patrón
+
+Para ir a una vista maestra, en la pestaña Vista, en el grupo Vista Patrón, elija la vista maestra que desea.
+
+ Las vistas Patrón incluyen Diapositiva, Documento y Notas. El beneficio clave de trabajar en una vista patrón es que puede realizar cambios de estilo universales a todas las diapositivas, páginas de notas o documentos asociados con su presentación.
+
+Para obtener más información acerca del trabajo con patrones, vea:
+
+- 
+ ¿Qué es un patrón de diapositivas?
+
+- 
+ Usar varios patrones de diapositiva en una presentación
+
+- 
+ Editar la numeración de página, pies de página y encabezados de las páginas de Notas en PowerPoint
+
+### Vistas para ofrecer y ver una presentación
+
+#### Vista Presentación con diapositivas
+
+Puede ir a la vista Presentación con diapositivas desde la barra de tareas , en la parte inferior de la ventana de la diapositiva.
+
+Use la vista Presentación con diapositivas para ofrecer la presentación al público. La vista Presentación con diapositivas ocupa toda la pantalla del equipo, exactamente del modo en que se verá la presentación en una pantalla grande cuando la vea el público.
+
+#### Vista Moderador
+
+Para ir a la vista Moderador , en la vista Presentación con diapositivas , en la esquina inferior izquierda de la pantalla, haga clic y, a continuación, haga clic en Mostrar vista Moderador (como se muestra a continuación).
+
+Use la vista Moderador para ver sus notas mientras expone su presentación. En la vista Moderador, su audiencia no puede ver sus notas.
+
+ Para obtener más información sobre el uso de la vista Moderador, vea Iniciar la presentación y ver las notas en la vista Moderador.
+
+#### Vista de lectura
+
+Puede ir a la vista de lectura desde el botón de vista de lectura de la barra de tareas , en la parte inferior de la ventana de la diapositiva.
+
+La mayoría de los usuarios que revisen una presentación de PowerPoint sin un moderador desearán usar la vista Lectura. Muestra la presentación en una pantalla completa como la vista Presentación con diapositivas, e incluye algunos controles sencillos para facilitar la acción de voltear por las diapositivas.
+
+Las vistas de PowerPoint que puede usar para editar, imprimir y mostrar la presentación son las siguientes:
+
+- Vista normal
+
+- Vista Clasificador de diapositivas
+
+- Vista Página de notas
+
+- Vista Esquema
+
+- Vista Presentación con diapositivas
+
+- Vista Moderador
+
+- Vistas Patrón: Diapositiva, Documento y Notas
+
+Puede cambiar entre las vistas de PowerPoint en dos lugares:
+
+Usar el menú Ver para cambiar entre cualquiera de las vistas
+
+Obtener acceso a las tres vistas principales (Normal, Clasificador de diapositivas o Presentación con diapositivas) en la barra inferior de la ventana de PowerPoint
+
+### Vistas para crear o editar una presentación
+
+Varias vistas de PowerPoint pueden ayudarle a crear una presentación profesional.
+
+- 
+
+ Vista Normal La vista Normal es la vista de edición principal, donde escribe y diseña las presentaciones. La vista Normal tiene tres áreas de trabajo:
+
+- Panel de miniaturas
+
+- Panel Diapositivas
+
+- Panel Notas
+
+- 
+
+ Vista Clasificador de diapositivas La vista Clasificador de diapositivas le ofrece una vista de las diapositivas en forma de miniatura. Esta vista facilita la ordenación y la organización de la secuencia de diapositivas a medida que crea la presentación y, a continuación, también al preparar la presentación para la impresión. También puede agregar secciones en la vista Clasificador de diapositivas y ordenar las diapositivas en distintas categorías o secciones.
+
+- 
+
+ Vista Página de notas El panel Notas se encuentra debajo del panel Diapositiva. Puede escribir notas que se apliquen a la diapositiva actual. Más adelante, puede imprimir las notas y hacer referencia a ellas cuando realice la presentación. También puede imprimir notas para dar a su público o incluirlas en una presentación que envíe al público o que publique en una página web.
+
+- 
+
+ La vista Esquema (introducida en PowerPoint 2016 para Mac) La vista Esquema muestra la presentación como un esquema formado por los títulos y el texto principal de cada diapositiva. Cada título aparece en el lado izquierdo del panel que contiene la vista Esquema, junto con un icono de diapositiva y un número de diapositiva. Trabajar en la vista Esquema es especialmente útil si desea realizar modificaciones globales, obtener información general sobre la presentación, cambiar la secuencia de viñetas o diapositivas o aplicar cambios de formato.
+
+- 
+
+ Vistas patrón Las vistas patrón incluyen las vistas Diapositiva, Documento y Notas. Son las diapositivas principales que almacenan información sobre la presentación, incluidos el fondo, los colores del tema, las fuentes del tema, los efectos del tema, los tamaños de los marcadores de posición y las posiciones. La principal ventaja de trabajar en una vista patrón es que, en el patrón de diapositivas, el patrón de notas o el patrón de documentos, puede realizar cambios de estilo universales en todas las diapositivas, páginas de notas o documentos asociados a la presentación. Para obtener más información sobre cómo trabajar con patrones, vea Modificar un patrón de diapositivas en PowerPoint.
+
+### Vistas para la presentación
+
+- 
+ Vista Presentación con diapositivas Use la vista Presentación con diapositivas para ofrecer la presentación al público. En esta vista, las diapositivas ocupan la pantalla completa del equipo.
+
+- 
+ Vista Moderador La vista Moderador le ayuda a administrar las diapositivas mientras realiza la presentación haciendo un seguimiento de cuánto tiempo ha transcurrido, qué diapositiva es la siguiente y mostrando notas que solo usted puede ver (al tiempo que le permite tomar notas de la reunión mientras realiza la presentación).
+
+### Vistas para preparar e imprimir la presentación
+
+Para ayudarle a guardar el papel y la entrada de lápiz, deberá preparar el trabajo de impresión antes de imprimir. PowerPoint proporciona vistas y configuraciones para ayudarle a especificar lo que desea imprimir (diapositivas, documentos o páginas de notas) y cómo quiere que se impriman esos trabajos (en color, escala de grises, blanco y negro, con marcos, etc.).
+
+- 
+ Vista Clasificador de diapositivas La vista Clasificador de diapositivas le ofrece una vista de las diapositivas en forma de miniatura. Esta vista facilita ordenar y organizar la secuencia de las diapositivas mientras se prepara para imprimir las diapositivas.
+
+- 
+ Vista previa de impresión Vista previa de impresión le permite especificar la configuración de lo que desea imprimir: documentos, páginas de notas, esquema o diapositivas.
+
+### Vea también
+
+ Organizar las diapositivas de PowerPoint en secciones
+
+ Imprimir documentos, notas o diapositivas de PowerPoint
+
+ Iniciar la presentación y ver las notas en la vista Moderador
+
+En PowerPoint para la Web, cuando el archivo se almacena en OneDrive, la vista predeterminada es Vista de lectura. Cuando el archivo se almacena en OneDrive para el trabajo o la escuela o SharePoint en Microsoft 365, la vista predeterminada es Vista de edición.
+
+### Vista para crear una presentación
+
+#### Vista de edición
+
+Puede ir a la Vista de edición desde la pestaña Vista o desde la barra de tareas de la parte inferior de la ventana de la diapositiva.
+
+ Vista de edición es el modo de edición en el que trabajará con más frecuencia para crear las diapositivas. A continuación, la Vista de edición muestra miniaturas de diapositivas a la izquierda, una ventana grande que muestra la diapositiva actual y un panel de notas debajo de la diapositiva actual, donde puede escribir notas del orador para esa diapositiva.
+
+#### Vista Clasificador de diapositivas
+
+El clasificador de diapositivas le permite ver las diapositivas en la pantalla en una cuadrícula que facilita la reorganización, u organizarlas en secciones, simplemente arrastrándolas y soltándolas donde quiera.
+
+Para agregar una sección, haga clic con el botón derecho en la primera diapositiva de la nueva sección y seleccione Agregar sección. Para obtener más información, vea Organizar las diapositivas de PowerPoint en secciones.
+
+Para acceder a la vista Clasificador de diapositivas, haga clic en el botón Clasificador de en la barra de estado en la parte inferior de la ventana.
+
+### Vistas para ofrecer o ver una presentación
+
+#### Vista Presentación con diapositivas
+
+Puede ir a la vista Presentación con diapositivas desde la barra de tareas , en la parte inferior de la ventana de la diapositiva.
+
+Use la vista Presentación con diapositivas para ofrecer la presentación al público. La vista Presentación con diapositivas ocupa toda la pantalla del equipo, exactamente del aspecto que tendrá la presentación en una pantalla grande cuando el público la vea.
+
+#### Vista de lectura
+
+Nota
+
+ La Vista de lectura no está disponible para PowerPoint para la Web archivos almacenados en OneDrive para el trabajo, la escuela o SharePoint en Microsoft 365.
+
+Puede ir a la Vista de lectura desde la pestaña Vista o desde el botón de vista de lectura de la barra de tareas , en la parte inferior de la ventana de la diapositiva.
+
+La mayoría de los usuarios que revisen una presentación de PowerPoint sin un moderador desearán usar la vista Lectura. Muestra la presentación en una pantalla completa como la vista Presentación con diapositivas, e incluye algunos controles sencillos para facilitar la acción de voltear por las diapositivas. También puede ver las notas del orador en la Vista de lectura.

@@ -1,0 +1,221 @@
+URL: https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/active-directory-functional-levels
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Niveles funcionales de Servicios de dominio de Active Directory en Windows Server
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+Los niveles funcionales determinan las funcionalidades disponibles de dominio o bosque de Active Directory Domain Services (AD DS). También determinan los sistemas operativos Windows Server que se pueden ejecutar en los controladores de dominio del dominio o del bosque. Sin embargo, los niveles funcionales no afectan a los sistemas operativos que se pueden ejecutar en las estaciones de trabajo y los servidores miembro que están unidos al dominio o al bosque. En este artículo se describe qué niveles de funcionamiento son compatibles con las versiones de Windows Server.
+
+Al implementar AD DS, establezca los niveles funcionales de dominio y bosque en el valor más alto que pueda admitir el entorno para usar tantas características de AD DS como sea posible. Al implementar un nuevo bosque, debe establecer los niveles funcionales de bosque y dominio. Puede establecer un nivel funcional de dominio superior al nivel funcional del bosque. No se puede establecer un nivel funcional de dominio inferior al nivel funcional del bosque.
+
+## Interoperabilidad de nivel funcional de Windows Server
+
+En la siguiente matriz de interoperabilidad se resumen las versiones de Windows Server que se pueden ejecutar como controladores de dominio para cada nivel funcional de bosque y dominio de AD DS actualmente compatibles.
+
+ | Versión de Windows Server (DC)
+
+ | Nivel funcional de Windows Server 2025
+
+ | Nivel funcional de Windows Server 2016
+
+ | Nivel funcional de Windows Server 2012 R2
+
+ | Windows Server 2025
+
+ | 
+ ✅ Soportado
+
+ | 
+ ✅ Soportado
+
+ | 
+ ❌ No se admite
+
+ | Windows Server 2022
+
+ | 
+ ❌ No se admite
+
+ | 
+ ✅ Soportado
+
+ | 
+ ✅ Soportado
+
+ | Windows Server 2019
+
+ | 
+ ❌ No se admite
+
+ | 
+ ✅ Soportado
+
+ | 
+ ✅ Soportado
+
+ | Windows Server 2016
+
+ | 
+ ❌ No se admite
+
+ | 
+ ✅ Soportado
+
+ | 
+ ✅ Soportado
+
+ | Windows Server 2012 R2
+
+ | 
+ ❌ No se admite
+
+ | 
+ ❌ No se admite
+
+ | 
+ ✅ Soportado
+
+ ✅ Admitido significa que puede ejecutar un controlador de dominio con esa versión de Windows Server en el nivel funcional de bosque y dominio especificados; ❌ No admitido significa que no se puede.
+
+Note
+
+Windows Server 2019 y Windows Server 2022 usan Windows Server 2016 como el nivel funcional más reciente. Para conocer los niveles funcionales anteriores (por ejemplo, Windows Server 2008 R2), consulte Descripción de los niveles funcionales de Active Directory Domain Services (AD DS).
+
+### Niveles funcionales de Windows Server 2025
+
+Puede usar los siguientes sistemas operativos como controladores de dominio (CONTROLADORES de dominio) con el nivel funcional de dominio y bosque de Windows Server 2025.
+
+- Windows Server 2025
+
+#### Características del nivel funcional de bosque y dominio de Windows Server 2025
+
+El nivel funcional de dominio de Windows Server 2025 incluye todas las características disponibles en los niveles funcionales de dominio anteriores, pero también tiene las siguientes características nuevas:
+
+- Característica opcional de páginas de 32k de base de datos. Para obtener más información sobre cómo usar el tamaño de páginas de 32k de base de datos, consulte Páginas de 32k de base de datos para Active Directory.
+
+Para obtener más información sobre las nuevas características, consulta Novedades de Windows Server 2025.
+
+Note
+
+Windows Server 2019 y Windows Server 2022 usan Windows Server 2016 como los niveles funcionales más recientes.
+
+### Niveles funcionales de Windows Server 2016
+
+Puede usar los siguientes sistemas operativos como controladores de dominio (CONTROLADORES de dominio) con el nivel funcional de dominio y bosque de Windows Server 2016.
+
+- Windows Server 2025
+
+- Windows Server 2022
+
+- Windows Server 2019
+
+- Windows Server 2016
+
+Note
+
+Los dominios deben usar DFSR como motor para replicar SYSVOL. Para más información sobre la migración a DFSR, consulte Migración simplificada de FRS a DFSR SYSVOL. Windows Server 2016 es la última versión de Windows Server que admite el servicio de replicación de archivos (FRS). Consulte Windows Server versión 1709 ya no admite FRS para obtener información sobre cómo solucionar este problema.
+
+#### Características del nivel funcional de bosque y dominio de Windows Server 2016
+
+Todas las características predeterminadas de Active Directory en los niveles funcionales del bosque anteriores están disponibles, además de las siguientes características:
+
+- 
+ Privileged Access Management (PAM) con Microsoft Identity Manager (MIM)
+
+Todas las características predeterminadas de Active Directory en los niveles funcionales de dominio anteriores están disponibles, además de las siguientes características:
+
+- 
+Los controladores de dominio pueden admitir la sustitución automática de New Technology LAN Manager (NTLM) y otros secretos basados en contraseña en una cuenta de usuario configurada para requerir autenticación de infraestructura de clave pública (PKI). Esta configuración también se conoce como tarjeta inteligente necesaria para el inicio de sesión interactivo.
+
+- 
+Los controladores de dominio pueden admitir NTLM de red cuando un usuario está restringido a determinados dispositivos unidos a un dominio.
+
+- 
+Los clientes Kerberos que se autentican correctamente con la extensión de actualización PKInit obtendrán el identificador de seguridad de identidad (SID) de clave pública actualizado.
+
+Para obtener más información, consulte Novedades de la autenticación Kerberos.
+
+### Niveles funcionales de Windows Server 2012 R2
+
+Puede usar los siguientes sistemas operativos como controladores de dominio (CONTROLADORES de dominio) con el nivel funcional de dominio y bosque de Windows Server 2012 R2.
+
+- Windows Server 2022
+
+- Windows Server 2019
+
+- Windows Server 2016
+
+- Windows Server 2012 R2
+
+#### Características del nivel funcional de bosque y dominio de Windows Server 2012 R2
+
+Todas las características predeterminadas de Active Directory, todas las características del nivel funcional del dominio de Windows Server 2012 y las características siguientes:
+
+- 
+Protecciones en el lado del controlador de dominio para los usuarios protegidos. Cuando los usuarios protegidos se autentican en un dominio de Windows Server 2012 R2, ya no pueden:
+
+- 
+Autenticación con autenticación NTLM.
+
+- 
+Use conjuntos de cifrado DES o RC4 en la autenticación previa de Kerberos.
+
+- 
+Delegue con delegación sin restricciones o restringida.
+
+- 
+Renueve vales de usuario (TGT) más allá de la duración inicial de cuatro horas.
+
+- 
+Directivas de autenticación
+
+- Las nuevas directivas de autenticación basadas en bosques se pueden aplicar a las cuentas. Las directivas pueden controlar desde qué hosts una cuenta puede iniciar sesión y aplicar condiciones de control de acceso para la autenticación a los servicios que se ejecutan como una cuenta.
+
+- 
+Silos de directivas de autenticación
+
+- Nuevo objeto de Active Directory basado en bosque que se usará para clasificar las cuentas de las directivas de autenticación o para el aislamiento de autenticación. El nuevo objeto puede crear una relación entre cuentas de usuario, servicio administrado y equipo.
+
+### Niveles funcionales y de dominio en versiones anteriores de Windows Server
+
+Si quiere identificar los niveles funcionales de una versión anterior de Windows Server, como Windows Server 2008 R2, consulte Descripción de los niveles funcionales de Active Directory Domain Services (AD DS).
+
+## Contenido relacionado
+
+- 
+Use el comando de PowerShell Set-ADForestMode para elevar el nivel funcional del bosque.
+
+- 
+Use el comando de PowerShell Set-ADDomainMode para elevar el nivel funcional del dominio.
+
+- 
+Para obtener más información sobre cómo elevar los niveles funcionales de dominio y bosque, consulte Cómo elevar los niveles funcionales de dominio y bosque de Active Directory.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-10-31

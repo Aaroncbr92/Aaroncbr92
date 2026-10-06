@@ -1,0 +1,1107 @@
+URL: https://learn.microsoft.com/es-es/microsoftteams/plan-town-halls
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Planear eventos en Teams
+
+- Se aplica a: Microsoft Teams
+
+## 
+
+ SE APLICA A:hay reuniones Eventos
+
+Importante
+
+ Actualización de licencias para Teams Premium y Teams Enterprise
+
+A partir del 1 de abril de 2026, algunas características que anteriormente solo estaban disponibles con Teams Premium ahora se incluyen con Teams Enterprise. Teams Premium sigue ofreciendo protección avanzada de reuniones, comunicación avanzada (como la aplicación Colas), personalización y personalización de marca, y capacidades de inteligencia. 
+ Más información.
+
+Los clientes que compraron licencias de Teams Premium antes del 1 de abril de 2026 seguirán teniendo acceso a todas las características y experiencias de producto de Teams Premium incluidas anteriormente con estas licencias hasta que expiren.
+
+Para administrar las características de Teams Premium, el inquilino debe tener al menos una licencia activa de Teams Premium.
+
+## Información general
+
+Los eventos de Teams admiten una amplia variedad de experiencias de comunicación estructuradas, desde sesiones interactivas hasta eventos de difusión para grandes audiencias.
+
+Este artículo proporciona a los administradores información general sobre los eventos de Teams, incluidas las consideraciones de planeación, los controles de directiva y las instrucciones para ayudarles a prepararse para los eventos de su organización.
+
+## Descripción de los eventos de Teams
+
+### Licencias y capacidad para eventos de Teams
+
+Con Teams Enterprise, los organizadores pueden:
+
+- Organice eventos para hasta 1000 asistentes con las siguientes capacidades de participación: micrófono y cámara de asistentes, chat interactivo, reacciones, levantar la mano, sondeos y preguntas&respuestas.
+
+- Organice eventos para hasta 3000 asistentes con las siguientes capacidades de participación: chat de reuniones para eventos grandes, reacciones, levantar la mano, sondeos y preguntas&respuestas.
+
+- Organice eventos para hasta 10 000 asistentes en una experiencia de solo vista, con Q&A.
+
+Con una licencia de complemento Paquete de capacidad de asistente , los organizadores pueden escalar eventos hasta 100 000 asistentes. Para obtener más información sobre las licencias para eventos de Teams, consulte Información general sobre licencias de eventos de Teams.
+
+La disponibilidad de algunas características depende de la capacidad del evento. Para obtener más información, consulte Características de eventos a escala.
+
+Nota
+
+Recomendamos usar los Servicios de eventos de Teams para eventos con más de 20 000 asistentes.
+
+### La aplicación Eventos
+
+La aplicación Eventos (anteriormente la aplicación Meet) de Teams proporciona una forma centralizada para que los usuarios de su organización puedan crear, descubrir y administrar eventos digitales e híbridos. La aplicación está preinstalada para todos los usuarios de Teams.
+
+Los organizadores usan un flujo de creación unificado para configurar las opciones del evento, como el registro y la interacción de los asistentes, en función de la capacidad y el escenario del evento, en lugar de seleccionar un tipo de evento fijo. Este enfoque reemplaza las configuraciones preestablecidas vinculadas a tipos de eventos específicos y proporciona una experiencia coherente y flexible que permite a los organizadores adaptar los eventos a su audiencia y objetivos. Para obtener más información, consulte Introducción a la aplicación Eventos de Microsoft Teams.
+
+Las directivas existentes de seminarios web y asambleas informativas de Teams se siguen aplicando, por lo que los administradores pueden controlar quién puede crear eventos y qué funcionalidades pueden usar los organizadores sin adoptar un nuevo modelo de directiva. Cuando la directiva lo permite, los organizadores pueden crear eventos desde cero y configurar opciones para su escenario o usar plantillas precompiladas de seminarios web o asambleas informativas. Los eventos interactivos de hasta 1000 asistentes usan la configuración de directiva de seminarios web, mientras que los eventos optimizados para grandes audiencias usan la configuración de directiva de asamblea informativa.
+
+### Optimizar para una gran audiencia en eventos de Teams
+
+El formulario de programación de eventos y las plantillas de la aplicación Eventos incluyen la opción Optimizar para audiencia grande . Esta opción optimiza un evento para su entrega de estilo broadcast para admitir grandes audiencias.
+
+Cuando Optimizar para público grande está activado, el evento respeta toda la configuración de la asamblea en la directiva de eventos de Teams (CsTeamsEventsPolicy).
+
+Los organizadores tienen la siguiente experiencia al crear eventos:
+
+- Para eventos con hasta 1000 asistentes, la opción Optimizar para audiencias grandes está desactivada y los organizadores pueden elegir activarla.
+
+- Para eventos con más de 1000 asistentes, la opción Optimizar para gran audiencia está activada y no se puede desactivar.
+
+Para obtener más información sobre cómo funciona la configuración de directiva con Optimizar para gran audiencia, consulte Administrar quién puede programar y asistir eventos en Microsoft Teams.
+
+#### Experiencia de evento basada en Optimizar para gran audiencia
+
+Cuando Optimizar para gran audiencia está activado, el evento usa la configuración de directiva de asamblea. Algunas características de los asistentes están limitadas o ajustadas y la configuración se aplica para admitir la entrega a gran escala. Por ejemplo, los asistentes no pueden encender sus micrófonos y cámaras a petición, y los asistentes ven el evento con un ligero retraso y pueden pausar y rebobinar el vídeo en directo. Los asistentes también usan una red de entrega de contenido empresarial (eCDN), si procede.
+
+Cuando Optimizar para gran audiencia está desactivado, el evento usa la configuración de directiva de seminario web y admite una experiencia más interactiva. Los asistentes pueden usar características como micrófono, cámara y chat interactivo.
+
+Tenga en cuenta que la plantilla de la asamblea informativa usa la configuración de directiva de la asamblea informativa a menos que esté desactivada la opción Optimizar para audiencias grandes , y la plantilla de seminario web use la configuración de directiva de seminarios web, a menos que Optimizar para audiencias grandes esté activada.
+
+Para obtener una lista de las características disponibles en eventos con hasta 1000 asistentes y en eventos optimizados para grandes audiencias, consulte Comparación de características de reuniones y eventos.
+
+Nota
+
+Actualmente, los clientes de China no pueden crear eventos de Teams optimizados para grandes audiencias, como asambleas informativas. Pueden unirse a eventos optimizados para grandes audiencias hospedadas en un espacio empresarial fuera de China si se agregan como una cuenta de invitado (el enfoque recomendado para la participación autenticada) o de forma anónima si el organizador habilita el acceso anónimo.
+
+### Descripción de las directivas
+
+Los eventos de Teams se administran mediante una combinación de directivas de reunión de Teams (CsTeamsMeetingPolicy), directivas de eventos de Teams (CsTeamsEventsPolicy) y configuración para organizadores y asistentes. Las directivas de reuniones controlan las capacidades principales que se aplican en reuniones y eventos, mientras que las directivas de eventos controlan las capacidades específicas de los eventos. La configuración del organizador define aún más la experiencia de los eventos dentro de los límites establecidos por las directivas de administración.
+
+- 
+Para obtener información general de alto nivel sobre la administración de directivas para reuniones y eventos de Teams, consulte Administración de directivas de reuniones y eventos en Microsoft Teams.
+
+- 
+Para obtener una lista de las directivas de administración y la configuración del organizador de eventos, vea Administración y directiva del organizador y controles de configuración más adelante en este artículo.
+
+## Planear y configurar
+
+### Decidir quién puede asistir a los eventos que crean los organizadores
+
+Usted controla si los organizadores pueden programar eventos públicos a los que todos puedan asistir o eventos dentro de la organización a los que solo puedan asistir personas de su organización.
+
+Existen algunas diferencias clave entre los eventos dentro de la organización y los eventos públicos. Tenga en cuenta la siguiente información cuando administre quién puede asistir a eventos.
+
+- 
+
+ Eventos de hasta 1000 asistentes
+
+- 
+
+ Eventos optimizados para grandes audiencias
+
+ | Funcionalidad
+
+ | Evento dentro de la organización
+
+ | Evento público
+
+ | Incluye invitados
+
+ | 
+
+ | 
+
+ | Los miembros de la organización que creó el evento pueden unirse
+
+ | 
+
+ | 
+
+ | Cualquier persona con un vínculo de registro puede unirse
+
+ | 
+
+ | 
+
+ | Los usuarios anónimos pueden registrarse
+
+ | 
+
+ | 
+
+ | Los asistentes escriben su nombre en el formulario de registro al registrarse
+
+ | 
+
+ | 
+
+ | Los asistentes deben volver a escribir su información después de seleccionar el vínculo para unirse
+
+ | 
+
+ | 
+
+ | Los asistentes tienen vínculos de unión únicos
+
+ | 
+
+ | 
+
+ | Los organizadores pueden decidir si los asistentes con un vínculo de registro pueden omitir la sala de espera
+
+ | 
+
+ | 
+
+ | Los organizadores pueden decidir si cualquier persona que no pueda omitir la sala de espera es rechazada automáticamente
+
+ | 
+
+ | 
+
+ | Los asistentes pueden marcar para unirse
+
+ | 
+
+ | 
+
+ | Incluye moderadores externos
+
+ | 
+
+ | 
+
+ | Funcionalidad
+
+ | Evento dentro de la organización
+
+ | Evento público
+
+ | Incluye invitados
+
+ | 
+
+ | 
+
+ | Los miembros de la organización que creó el evento pueden unirse
+
+ | 
+
+ | 
+
+ | Cualquier persona con un vínculo de registro puede unirse
+
+ | 
+
+ | 
+
+ | Los usuarios anónimos pueden registrarse
+
+ | 
+
+ | 
+
+ | Los asistentes escriben su nombre en el formulario de registro al registrarse
+
+ | 
+
+ | 
+
+ | Los asistentes deben volver a escribir su información después de seleccionar el vínculo para unirse
+
+ | 
+
+ | 
+
+ | Los asistentes tienen vínculos de unión únicos
+
+ | 
+
+ | 
+
+ | Los asistentes pueden marcar para unirse
+
+ | 
+
+ | 
+
+ | Incluye moderadores externos
+
+ | 
+
+ | 
+
+### Prepare su red para eventos optimizados para grandes audiencias
+
+Siga estos pasos para asegurarse de que su red está configurada para admitir eventos optimizados para grandes audiencias.
+
+- 
+ Asegúrese de que el entorno de Teams está configurado para conectarse a nuestros servicios
+
+Asegúrese de que su conectividad de red a Microsoft 365 sigue los principios de conectividad de red descritos en Principios de conectividad de red de Microsoft 365. Los principios de conectividad de red son principios estándar a seguir para todos los servicios de Microsoft 365, no solo específicos de eventos de Teams.
+
+- 
+ Asegúrese de que sus dispositivos estén optimizados para conectarse a nuestros servicios
+
+Como parte de los principios de conectividad de red, asegúrese de que los puntos de conexión de Microsoft 365 son accesibles como se define en los puntos de conexión de Microsoft 365.
+
+- 
+ Comprenda las consideraciones especiales para eventos en entornos VPN
+
+Si su organización usa conectividad VPN para participantes remotos, revise las instrucciones en Consideraciones especiales para eventos de Teams en entornos VPN. Este artículo detalla cómo optimizar el tráfico de asistentes para la conectividad directa (también conocida como túnel dividido) al servicio.
+
+- 
+ Planificar las consideraciones de ancho de banda para eventos
+
+Siga los requisitos de ancho de banda documentados en Preparar la red de su organización para Microsoft Teams para sus organizadores, coorganizadores y moderadores. Sin una red de entrega de contenido empresarial (eCDN), los requisitos de ancho de banda se pueden aproximar a 2 Mbps por visor en cada ubicación. (Actualización a 3 Mbps para 1080p). Para ubicaciones físicas con un gran número de asistentes o entornos de red densos, recomendamos implementar una solución de eCDN para optimizar el uso de ancho de banda y garantizar una experiencia de streaming con velocidad de transmisión adaptable.
+
+- 
+ Optimice su red interna mediante eCDN
+
+Una eCDN toma el contenido de vídeo de Internet y lo distribuye por toda su empresa sin afectar al rendimiento de red.
+De forma predeterminada, la eCDN de Microsoft está habilitada para organizadores de eventos optimizados para grandes audiencias. También puede elegir entre una de las siguientes soluciones certificadas de partners de eCDN para optimizar la red para eventos que tengan lugar en su organización: 
+
+- 
+ Hive
+
+- 
+ Kollective
+
+- 
+ Rampa Para desactivar la eCDN de Microsoft para los organizadores y obtener más información sobre las soluciones de nuestros partners, consulte Redes de entrega de contenido empresarial para el streaming de eventos de Microsoft Teams. Para más información sobre la eCDN de Microsoft, consulte Introducción a la eCDN de Microsoft.
+
+- 
+ Realizar una prueba silenciosa
+
+Antes de eventos a gran escala, recomendamos realizar una prueba silenciosa para evaluar el rendimiento de la red e identificar posibles cuellos de botella. Si usa eCDN de Microsoft, consulte Realizar una prueba silenciosa para conocer los pasos para validar la disponibilidad de la red. Si usa una solución de asociado de eCDN, trabaje directamente con su proveedor para programar y ejecutar una prueba silenciosa antes del evento.
+
+- 
+ Planear un simulacro
+
+Siempre programe un simulacro antes de su evento para garantizar la preparación. Esto incluye realizar una prueba silenciosa de eCDN (si procede) para validar el rendimiento de la red y exponer de forma proactiva las brechas antes de ponerlas en marcha.
+
+### Teams para la infraestructura de escritorio virtualizada (VDI)
+
+Los usuarios de su organización pueden usar VDI. Para obtener información sobre qué funcionalidades de evento son compatibles con entornos VDI, consulte:
+
+- 
+ Nueva solución VDI para Teams
+
+- 
+ Implementar Teams para la infraestructura de escritorio virtualizada (VDI)
+
+## Operar y supervisar
+
+### Supervisar eventos en las organizaciones
+
+#### Supervisión en tiempo real
+
+Puedes usar la telemetría de datos en tiempo real para supervisar eventos y solucionar problemas técnicos.
+
+- 
+
+ Supervisión en tiempo real de la experiencia del moderador y del organizador
+
+Puede ver los eventos programados y ver los problemas relacionados con el audio, el vídeo, el uso compartido de contenido y las redes. Como administrador, puede usar esta telemetría para investigar cualquier problema que experimenten los moderadores y organizadores durante el evento y solucionar problemas en tiempo real. Para obtener más información, consulte Uso de telemetría en tiempo real para solucionar problemas de mala calidad de la reunión.
+
+Para obtener más información, consulte Supervisar y solucionar problemas de reuniones y llamadas de Teams desde el Centro de administración de Teams.
+
+- 
+
+ Supervisión en tiempo real de la experiencia de los asistentes
+
+Puede usar el panel de análisis de la eCDN de Microsoft para analizar el rendimiento y solucionar problemas de red de la experiencia de los asistentes durante los eventos.
+
+Para más información sobre la supervisión en tiempo real de los asistentes, consulte Análisis en tiempo real de eCDN de Microsoft.
+
+#### Panel de calidad de llamadas
+
+Use el Panel de calidad de llamadas (CQD) para supervisar la calidad de los eventos en el nivel de toda la organización y optimizar su red para mejorar la calidad del rendimiento.
+
+Para más información sobre cómo usar el CQD para eventos en su organización, consulte Qué es el Panel de calidad de llamadas (CQD). Puede usar el conector de Calidad de llamadas de Microsoft para ver los informes especializados 'Información general de eventos de Teams' y 'Detalles de estado de eventos' en Power BI Desktop.
+
+Para empezar, descargue la última Plantilla de informe de Calidad de la experiencia (QER) del Panel de calidad de llamadas.
+
+Para obtener más información sobre las dimensiones y medidas visibles a través de Panel de calidad de llamadas para eventos, busque la palabra "eventos" en Dimensiones y medidas disponibles en el Panel de calidad de llamadas (CQD).
+
+#### Conclusiones de eventos de Teams para organizadores
+
+Durante un evento, los organizadores y coorganizadores pueden ver análisis de eventos en tiempo real, como el recuento de espectadores, el país o la región de asistentes y mucho más. Los análisis constan de varios widgets de datos, incluidos cuadros y gráficos, tablas de desgloses y una escala de tiempo de la experiencia de visualización.
+
+Para obtener más información, consulte Información sobre eventos de Teams.
+
+## Referencia
+
+### Controles de configuración y directiva de Administración y organizador
+
+Los administradores y organizadores tienen diferentes directivas y configuraciones para controlar la experiencia del evento. En la tabla siguiente se enumeran las características de los eventos y cómo interactúan las directivas y la configuración del administrador y del organizador.
+
+- 
+
+ Eventos de hasta 1000 asistentes
+
+- 
+
+ Eventos optimizados para grandes audiencias
+
+ | Característica
+
+ | Administradores
+
+ | Organizadores
+
+ | 
+ Anunciar cuándo se unen o abandonan los autores de llamadas
+
+ | Controle si se reproduce un anuncio de entrada y salida cuando se unen o abandonan los asistentes que llamaron al evento.
+
+ | Sin control.
+
+ | 
+ Participantes anónimos
+
+ | Administre cómo los asistentes anónimos acceden a las reuniones de Teams en su organización.
+
+ | Puede impedir que los usuarios anónimos se unan a eventos específicos si el administrador lo permite.
+
+ | 
+ Informe de asistencia y participación
+
+ | Puede imponer que esté activado o desactivado, o permitir que el organizador elija.
+
+ | Puede activarse o desactivarse si lo permite el administrador. Los organizadores también pueden ver la información de participación que captura cómo reaccionaron e interactuaron los asistentes durante la reunión o el evento.
+
+ | 
+ Audio y vídeo
+
+ | Puede establecer los modos de audio y vídeo y la configuración de red.
+
+ | Puede permitir o impedir micrófonos y cámaras de los asistentes.
+
+ | 
+ Cámaras
+
+ | Puede usar el modo IP para la directiva de vídeo para controlar el vídeo entrante y saliente de los eventos que los usuarios organizan o a los que asisten.
+
+ | Puede usar la configuración Permitir cámara para los asistentes al crear el evento para administrar si los asistentes pueden activar las cámaras.
+
+ | 
+ Chat
+
+ | Puede administrar si los organizadores, moderadores, coorganizadores y asistentes pueden leer y escribir mensajes de chat.
+
+ | Puede administrar si el chat está disponible para sus eventos.
+
+ | 
+ Elegir coorganizadores
+
+ | Sin control
+
+ | Puede asignar diferentes roles en un evento para conceder permisos específicos a los usuarios.
+
+ | 
+ Características de colaboración
+
+ | Puede controlar la disponibilidad de PowerPoint Live, pizarra y notas compartidas.
+
+ | Sin control.
+
+ | 
+ Grabación de cumplimiento
+
+ | Puede implementar una directiva de administrador para la grabación automática.
+
+ | Sin control
+
+ | 
+ Uso compartido de contenido
+
+ | Puede controlar el modo de uso compartido y quién puede solicitar el control, y puede establecer una configuración predeterminada para quién puede presentar.
+
+ | Puede controlar quién puede presentar.
+
+ | 
+ Grabación por conveniencia
+
+ | Puede permitir o impedir la grabación y establecer el tiempo de expiración de la grabación.
+
+ | Si el administrador permite la grabación, los organizadores pueden administrar quién puede grabar (Teams Premium) y la grabación automática.
+
+ | 
+ Fondos personalizados (Teams Premium)
+
+ | Puede cargar imágenes para que los usuarios las muestren en segundo plano de su fuente de vídeo durante las reuniones.
+
+ | Puede usar los fondos que cargue.
+
+ | 
+ Decorar mi fondo (Teams Premium)
+
+ | Sin control
+
+ | Los organizadores, coorganizadores, presentadores y participantes con licencia de Teams Premium pueden usar IA para decorar sus fondos.
+
+ | 
+ Diccionario personalizado para Teams (Microsoft Copilot)
+
+ | Puede cargar un diccionario personalizado en el Centro de administración de Microsoft 365 para mejorar la calidad de la transcripción para reuniones y eventos de Teams.
+
+ | Sin control
+
+ | 
+ Descargar transcripciones
+
+ | Sin control.
+
+ | Puede descargar transcripciones de sus eventos.
+
+ | 
+ Comunicaciones por Email
+
+ | Puede controlar si los organizadores y coorganizadores de eventos pueden editar las plantillas de correo electrónico para sus eventos.
+
+ | Puede editar plantillas de correo electrónico antes de enviarlas.
+
+ | 
+ Moderadores externos
+
+ | Sin control.
+
+ | Puede invitar a moderadores de fuera de su organización. Los moderadores externos tienen un vínculo único para unirse al evento sin tener que esperar en la sala de espera.
+
+ | 
+ Sala de espera
+
+ | Sin control.
+
+ | Puede elegir si se usa la sala de espera para un evento. Puede usar el botón Finalizar reunión para finalizar el evento para los asistentes, al tiempo que permite que los organizadores y moderadores permanezcan en la sala de espera hasta que estén listos para salir.
+
+ | 
+ Resumen inteligente (Teams Premium y Microsoft Copilot)
+
+ | Las licencias asignadas y las directivas de transcripción controlan esta característica.
+
+ | Sin control. Los organizadores, coorganizadores y moderadores pueden acceder al resumen inteligente una vez finalizado el evento. Los asistentes no tienen acceso a un resumen inteligente.
+
+ | 
+ Verificación de combinación para moderadores externos
+
+ | Puede requerir que moderadores externos anónimos y no verificados verifiquen su identidad antes de unirse a eventos.
+
+ | Si el administrador especifica que no se necesita ninguna comprobación, puede elegir si se requiere verificación en sus opciones de reunión.
+
+ | 
+ Limitar permisos de rol de moderador
+
+ | Puede limitar los permisos de rol de moderador para el inquilino.
+
+ | Sin control.
+
+ | 
+ Transmisión en directo con RTMP de salida
+
+ | Puede decidir si los organizadores pueden transmitir eventos a puntos de conexión externos proporcionando una dirección URL del Protocolo de mensajería de Real-Time (RTMP) y una clave para la aplicación de streaming personalizada integrada en Teams.
+
+ | Puede transmitir eventos a través de aplicaciones como Custom Streaming.
+
+ | 
+ Subtítulos traducidos en directo (Teams Premium)
+
+ | Puede controlar si los organizadores con una licencia Premium pueden tener subtítulos traducidos en directo para sus eventos.
+
+ | Puede habilitar subtítulos traducidos en directo para sí mismos; Los asistentes siempre pueden activar los subtítulos traducidos en directo.
+
+ | 
+ Transcripción traducida en directo (Teams Premium)
+
+ | Puede controlar si los organizadores con una licencia Premium pueden tener transcripción traducida en directo para sus eventos.
+
+ | Puede activar la transcripción traducida en directo por sí mismos; Los asistentes siempre pueden activar la transcripción traducida en directo.
+
+ | 
+ Sala de espera
+
+ | Puede establecer los valores predeterminados para nuevos eventos.
+
+ | Puede elegir la configuración de la sala de espera para determinados eventos.
+
+ | 
+ Administrar lo que ven los asistentes
+
+ | Sin control
+
+ | Puede decidir a quién destacar durante un evento. Otros están ocultos a la vista.
+
+ | 
+ Administrar quién puede programar eventos
+
+ | Puede deshabilitar eventos para usuarios y grupos, controlar qué organizadores pueden programar eventos y decidir si los organizadores pueden programar eventos públicos.
+
+ | Puede programar eventos si lo permite el administrador.
+
+ | 
+ Temas de reunión (Teams Premium)
+
+ | Puede definir temas de reunión, incluidos colores, imágenes y logotipo.
+
+ | Puede activar o desactivar el tema definido por el administrador.
+
+ | 
+ Micrófonos
+
+ | Puede usar la directiva de modo IP para audio para controlar el audio entrante y saliente de los eventos que los usuarios organizan o a los que asisten.
+
+ | Puede usar la opción Permitir micrófono para los asistentes al crear el evento para administrar si los asistentes pueden activar sus micrófonos.
+
+ | 
+ Microsoft Copilot en reuniones y eventos de Teams
+
+ | Puede controlar los valores predeterminados y exigir valores específicos para Microsoft Copilot en reuniones y eventos de Teams en las opciones de reunión de los organizadores.
+
+ | Puede controlar si Microsoft Copilot en reuniones y eventos de Teams se usa Solo durante la reunión, Durante y después de la reunión, o Apagado durante sus eventos. Los asistentes pueden usar Copilot si tienen una licencia de Copilot de Microsoft Copilot.
+
+ | 
+ Salas de Microsoft Teams (Windows) puede unirse como moderador
+
+ | Sin control.
+
+ | Puede agregar Salas de Microsoft Teams en Windows con una licencia Pro como moderador. Salas de Microsoft Teams pueden ver, pero no enviar mensajes de chat. Los organizadores deben agregar Salas de Microsoft Teams de organizaciones externas como moderadores externos.
+
+ | 
+ Complemento de Outlook (Outlook clásico)
+
+ | Puede controlar si los usuarios pueden programar eventos desde la versión clásica de Outlook.
+
+ | Si el administrador lo permite, puede programar eventos desde la versión clásica de Outlook.
+
+ | 
+ Impedir copiar o reenviar chats, títulos y transcripciones (Teams Premium)
+
+ | Puede impedir la copia o el reenvío del contenido del chat con una plantilla de reunión o una etiqueta de confidencialidad.
+
+ | Puede administrar las opciones si el administrador no bloquea la configuración de etiquetas o plantillas.
+
+ | 
+ Preguntas y respuestas
+
+ | Puede administrar si los organizadores pueden usar Q&A en eventos.
+
+ | Puede decidir si Q&A está disponible para sus eventos si los administradores lo permiten. Los organizadores y coorganizadores pueden exportar las preguntas y respuestas del evento a un archivo CSV.
+
+ | 
+ Calidad de servicio (QoS)
+
+ | Puede priorizar el tráfico de red en tiempo real que sea sensible a los retrasos de red sobre el tráfico que sea menos sensible.
+
+ | Sin control.
+
+ | 
+ Reacciones
+
+ | Puede controlar el valor predeterminado en las opciones de reunión de los organizadores.
+
+ | Puede controlar si se pueden usar reacciones en sus eventos.
+
+ | 
+ Grabación.
+
+ | Puede permitir o impedir la grabación de eventos.
+
+ | Si el administrador habilita la grabación, los organizadores pueden establecer quién puede grabar y la grabación automática.
+
+ | 
+ Registro
+
+ | Puede administrar quién puede registrarse para eventos.
+
+ | Los organizadores pueden decidir cuántas personas pueden registrarse en un evento. También pueden requerir la aprobación manual del registro, habilitar una lista de espera y limitar la hora de inicio y finalización del registro.
+
+ | 
+ Formulario de registro
+
+ | Puede administrar los tipos de preguntas que un organizador puede requerir que respondan los asistentes al registrarse para eventos.
+
+ | Puede editar el formulario de registro dependiendo de la configuración de administración.
+
+ | 
+ RTMP-In
+
+ | Puede permitir o deshabilitar RTMP-In para organizadores.
+
+ | Puede producir su evento directamente desde un codificador externo basado en hardware o software mediante Real-Time protocolo de mensajería (RTMP).
+
+ | 
+ SRT-In
+
+ | Puede permitir o deshabilitar SRT-In para organizadores.
+
+ | Puede producir su evento directamente desde un codificador externo basado en hardware o software mediante el protocolo Secure Reliable Transport (SRT).
+
+ | 
+ Entrenador de discursos
+
+ | Administre si los usuarios de su organización pueden usar el entrenador de discursos durante los eventos.
+
+ | Sin control. Todos los participantes pueden usar el entrenador de discursos si el administrador lo permite.
+
+ | 
+ Informe de uso de eventos de Teams
+
+ | Vea las tendencias de actividad y uso de todos los eventos creados en su organización.
+
+ | Sin control.
+
+ | 
+ Tematización
+
+ | Sin control.
+
+ | Puede personalizar el tema del evento.
+
+ | 
+ Transcripción y subtítulos
+
+ | Puede permitir o impedir transcripciones y subtítulos para los asistentes.
+
+ | Puede habilitar subtítulos.
+
+ | 
+ Efectos de vídeo
+
+ | Controla si los usuarios pueden personalizar su fondo de vídeo.
+
+ | Si el administrador lo permite, los organizadores y los asistentes pueden difuminar su fondo de vídeo, elegir entre un conjunto de imágenes predeterminado o cargar imágenes personalizadas para usarlas como fondo.
+
+ | 
+ Publicación de vídeo bajo demanda
+
+ | Puede administrar los tipos de grabaciones que los organizadores pueden publicar.
+
+ | Puede publicar y modificar grabaciones de eventos.
+
+ | 
+ Aislamiento de voz
+
+ | Puede controlar si los usuarios pueden usar el aislamiento de voz en eventos.
+
+ | Puede habilitar el aislamiento de voz.
+
+ | 
+ Marcas de agua (Teams Premium)
+
+ | Puede permitir o impedir marcas de agua para el vídeo de los asistentes y el contenido compartido
+
+ | Puede aplicar marcas de agua si el administrador lo permite.
+
+ | 
+ Unirse y sala de espera
+
+ | Puede establecer los valores predeterminados para nuevas reuniones y eventos.
+
+ | Puede elegir la configuración de sala de espera y unión a la reunión para cada evento.
+
+ | Característica
+
+ | Administradores
+
+ | Organizadores
+
+ | 
+ Anunciar cuándo se unen o abandonan los autores de llamadas
+
+ | Sin control.
+
+ | Controle si se reproduce un anuncio de entrada y salida cuando se unen o abandonan los asistentes que llamaron al evento.
+
+ | 
+ Informe de asistencia y participación
+
+ | Puede imponer que esté activado o desactivado, o permitir que el organizador elija.
+
+ | Puede activarse o desactivarse si lo permite el administrador. Los organizadores también pueden ver la información de participación que captura cómo reaccionaron e interactuaron los asistentes durante la reunión o el evento.
+
+ | 
+ Reacciones de los asistentes
+
+ | Sin control.
+
+ | Controla si los asistentes pueden participar durante el evento con reacciones en directo.
+
+ | 
+ Audio y vídeo
+
+ | Puede administrar la disponibilidad y el uso de audio y vídeo para moderadores y organizadores.
+
+ | Solo los moderadores y organizadores pueden usar su audio y vídeo. Los asistentes no pueden compartir su audio o vídeo, pero interactúan a través de las preguntas y respuestas.
+
+ | 
+ Chat para los asistentes
+
+ | Puede administrar si los organizadores pueden activar el chat para los asistentes.
+
+ | Puede decidir si los asistentes pueden chatear durante los eventos si la directiva de su administrador lo permite.
+
+ | Chat de grupo de eventos (organizadores, coorganizadores y moderadores)
+
+ | Sin control.
+
+ | Puede chatear con moderadores y coorganizadores. Los asistentes no usan este chat durante los eventos. Para obtener información sobre cómo los asistentes pueden usar el chat durante eventos optimizados para grandes audiencias, consulte Administrar el chat en eventos de Teams.
+
+ | 
+ Interoperabilidad de vídeo en la nube(CVI)
+
+ | Puede administrar si su organización usa CVI, una solución de terceros calificada por Microsoft que permite a los dispositivos de sala de vídeo (VTCs) SIP y H.323 de terceros unirse a eventos y reuniones.
+
+ | Para permitir que los moderadores se unan y presenten en eventos mediante sus propios dispositivos de videoconferencia (VTC), los organizadores pueden compartir códigos de unión a CVI directamente desde el cuadro de diálogo compartir evento del evento. Los VTCs no pueden unirse cuando el acceso del evento está restringido a personas y grupos.
+
+ | 
+ Grabación de cumplimiento
+
+ | Puede implementar una directiva de administrador para la grabación automática.
+
+ | Sin control
+
+ | 
+ Uso compartido de contenido
+
+ | Puede controlar el modo de uso compartido, quién puede solicitar el control, y puede establecer una configuración predeterminada para quién puede presentar.
+
+ | Puede controlar quién puede presentar entre presentadores, organizadores y coorganizadores. Los asistentes no pueden compartir contenidos en eventos.
+
+ | 
+ Grabación por conveniencia
+
+ | Puede permitir o impedir la grabación y establecer el tiempo de expiración de la grabación.
+
+ | Si el administrador permite la grabación, los organizadores pueden administrar quién puede grabar (Teams Premium) y la grabación automática.
+
+ | 
+ Diccionario personalizado para Teams (Microsoft Copilot)
+
+ | Puede cargar un diccionario personalizado en el Centro de administración de Microsoft 365 para mejorar la calidad de la transcripción para reuniones y eventos de Teams.
+
+ | Sin control
+
+ | 
+ Fondos personalizados (Teams Premium)
+
+ | Puede cargar imágenes para los organizadores, coorganizadores y moderadores con una licencia de Teams Premium de su organización para que se muestren en segundo plano de su fuente de vídeo durante las reuniones.
+
+ | Los organizadores internos, los coorganizadores y los moderadores con una licencia de Teams Premium pueden usar los fondos que cargue.
+
+ | 
+ Decorar mi fondo (Teams Premium)
+
+ | Sin control
+
+ | Los organizadores, coorganizadores y presentadores con licencia de Teams Premium pueden usar IA para decorar sus fondos.
+
+ | 
+ Descargar transcripciones
+
+ | Sin control.
+
+ | Puede descargar transcripciones de sus eventos.
+
+ | 
+ eCDN
+
+ | Puede administrar y configurar la disponibilidad de eCDN para los organizadores. Los administradores también pueden deshabilitar la eCDN de Microsoft para los organizadores y cambiar a un proveedor de eCDN asociado.
+
+ | Sin control.
+
+ | 
+ Análisis de eCDN
+
+ | Puede usar el panel de análisis de eCDN para solucionar problemas de la experiencia de los asistentes durante los eventos.
+
+ | Algunos análisis pueden estar disponibles a través del proveedor de eCDN, en función de la solución de eCDN utilizada.
+
+ | 
+ Comunicaciones por Email
+
+ | Puede controlar si los organizadores y coorganizadores de eventos pueden editar las plantillas de correo electrónico para sus eventos.
+
+ | Puede editar plantillas de correo electrónico antes de enviarlas.
+
+ | 
+ Moderadores externos
+
+ | Sin control.
+
+ | Puede invitar a moderadores de fuera de su organización. Los moderadores externos tienen un vínculo único para unirse al evento sin tener que esperar en la sala de espera.
+
+ | 
+ Sala de espera
+
+ | Sin control.
+
+ | Puede elegir si se usa la sala de espera para un evento. Puede usar el botón Finalizar reunión para finalizar el evento para los asistentes, al tiempo que permite que los organizadores y moderadores permanezcan en la sala de espera hasta que estén listos para salir.
+
+ | 
+ Resumen inteligente (Teams Premium y Microsoft Copilot)
+
+ | Las licencias asignadas y las directivas de transcripción controlan esta característica.
+
+ | Sin control. Los organizadores, coorganizadores y moderadores pueden acceder al resumen inteligente una vez finalizado el evento. Los asistentes no tienen acceso a un resumen inteligente.
+
+ | 
+ Verificación de combinación para moderadores externos
+
+ | Puede requerir que moderadores externos anónimos y no verificados verifiquen su identidad antes de unirse a eventos.
+
+ | Si el administrador especifica que no se necesita ninguna comprobación, puede elegir si se requiere verificación en sus opciones de reunión.
+
+ | 
+ Limitar permisos de rol de moderador
+
+ | Puede limitar los permisos de rol de moderador para el inquilino.
+
+ | Sin control.
+
+ | 
+ Subtítulos en directo y transcripción
+
+ | Puede permitir o impedir transcripciones y subtítulos para los asistentes.
+
+ | Actualmente solo están disponibles los subtítulos generados por inteligencia artificial.
+
+ | 
+ Subtítulos traducidos en directo (Teams Premium)
+
+ | Puede controlar si los organizadores con una licencia Premium pueden tener subtítulos traducidos en directo para sus eventos.
+
+ | Los organizadores pueden seleccionar 6 idiomas o 10 si tienen una licencia Premium para que los asistentes los usen al traducir subtítulos durante el evento.
+
+ | 
+ Transcripción traducida en directo (Teams Premium)
+
+ | Puede controlar si los organizadores con una licencia Premium pueden tener transcripción traducida en directo para sus eventos.
+
+ | Puede habilitar la transcripción traducida en directo para sí mismo mismos; los asistentes siempre pueden activar la transcripción traducida en directo.
+
+ | 
+ Administrar lo que ven los asistentes
+
+ | Sin control.
+
+ | Puede decidir a quién destacar durante un evento. Otros están ocultos a la vista.
+
+ | 
+ Administrar quién puede programar y asistir a eventos
+
+ | Puede deshabilitar eventos para usuarios y grupos, controlar qué organizadores pueden programar eventos y decidir si los organizadores pueden programar eventos públicos.
+
+ | Puede programar eventos si lo permite el administrador.
+
+ | 
+ Temas de reunión (Teams Premium)
+
+ | Puede definir temas de reunión, incluidos colores, imágenes y logotipo.
+
+ | Puede activar o desactivar el tema definido por el administrador.
+
+ | 
+ Microsoft Copilot en reuniones y eventos de Teams
+
+ | Puede controlar los valores predeterminados y exigir valores específicos para Microsoft Copilot en reuniones y eventos de Teams en las opciones de reunión de los organizadores.
+
+ | Puede controlar si Microsoft Copilot en reuniones y eventos de Teams se usa solo durante la reunión, durante y después de la reunión, o si está desactivado para sus eventos.
+
+ | Salas de Microsoft Teams (Android) puede unirse como moderador o asistente1
+
+ | No hay soporte técnico.
+
+ | No hay soporte técnico.
+
+ | 
+ Salas de Microsoft Teams (Windows) puede unirse como moderador1
+
+ | Sin control.
+
+ | Puede agregar Salas de Microsoft Teams en Windows con una licencia Pro como moderador. Salas de Microsoft Teams pueden ver, pero no enviar mensajes de chat. Los organizadores deben agregar Salas de Microsoft Teams de organizaciones externas como moderadores externos.
+
+ | 
+ Impedir copiar o reenviar chats, títulos y transcripciones (Teams Premium)
+
+ | Puede impedir la copia o el reenvío del contenido del chat con una plantilla de reunión o una etiqueta de confidencialidad.
+
+ | Puede administrar las opciones si el administrador no bloquea la configuración de etiquetas o plantillas.
+
+ | 
+ Preguntas y respuestas
+
+ | Puede administrar si los organizadores pueden usar Q&A en eventos.
+
+ | Puede decidir si Q&A está disponible para sus eventos si los administradores lo permiten. Las preguntas y respuestas son la única forma que tienen los asistentes de interactuar e involucrarse con los moderadores y organizadores. Los organizadores y coorganizadores pueden exportar las preguntas y respuestas del evento a un archivo CSV.
+
+ | 
+ Calidad de servicio (QoS)
+
+ | Puede priorizar el tráfico de red en tiempo real que sea sensible a los retrasos de red sobre el tráfico que sea menos sensible.
+
+ | Sin control.
+
+ | 
+ Grabación.
+
+ | Puede permitir o impedir la grabación de eventos.
+
+ | Las grabaciones se inician automáticamente para los eventos, pero los organizadores pueden desactivar esta opción.
+
+ | 
+ Expiración de grabación
+
+ | Puede administrar si las grabaciones expiran automáticamente.
+
+ | De forma predeterminada, las grabaciones publicadas expiran después de 30 días. Los organizadores pueden ampliar la fecha de expiración a 60 días. Una vez superada la nueva fecha, deben volver a cargar y publicar el archivo para seguir compartiendo.
+
+ | 
+ Registro
+
+ | Puede administrar quién puede registrarse para eventos.
+
+ | Los organizadores pueden decidir cuántas personas pueden registrarse en un evento. También pueden requerir la aprobación manual del registro, habilitar una lista de espera y limitar la hora de inicio y finalización del registro.
+
+ | 
+ Formulario de registro
+
+ | Puede administrar los tipos de preguntas que un organizador puede requerir que respondan los asistentes al registrarse para eventos.
+
+ | Puede editar el formulario de registro dependiendo de la configuración de administración.
+
+ | 
+ RTMP-In
+
+ | Puede permitir o deshabilitar RTMP-In para organizadores.
+
+ | Puede producir su evento directamente desde un codificador externo basado en hardware o software mediante Real-Time protocolo de mensajería (RTMP).
+
+ | 
+ SRT-In
+
+ | Puede permitir o deshabilitar SRT-In para organizadores.
+
+ | Puede producir su evento directamente desde un codificador externo basado en hardware o software mediante el protocolo Secure Reliable Transport (SRT).
+
+ | 
+ Notas compartidas
+
+ | Puede administrar si los organizadores y coorganizadores pueden usar notas compartidas con otros durante los eventos.
+
+ | Puede usar notas compartidas con coorganizadores durante eventos.
+
+ | 
+ Entrenador de discursos
+
+ | Puede administrar si los organizadores, presentadores y coorganizadores pueden usar el entrenador de discursos durante los eventos.
+
+ | Puede usar el entrenador de discursos para obtener información privada en tiempo real y sugerencias de mejora para sí mismo, los coorganizadores y los moderadores.
+
+ | 
+ Codificadores de streaming
+
+ | Puede controlar si los organizadores pueden usar RTMP de entrada.
+
+ | Puede usar codificadores para tomar contenido de audio y vídeo de fuentes como una cámara, un micrófono o una captura de pantalla de escritorio.
+
+ | 
+ Conclusiones de eventos de Teams para organizadores
+
+ | Sin control.
+
+ | Los organizadores y los coorganizadores pueden ver análisis de eventos en tiempo real, como el recuento de espectadores, el país o la región de los asistentes y mucho más. Los análisis constan de varios widgets de datos, incluidos cuadros y gráficos, tablas de desgloses y una escala de tiempo de la experiencia de visualización.
+
+ | 
+ Informe de uso de eventos de Teams
+
+ | Vea las tendencias de actividad y uso de todos los eventos creados en su organización.
+
+ | Sin control.
+
+ | 
+ Transmisión por secuencias de latencia ultrabaja
+
+ | Sin control.
+
+ | Sin control.
+
+ | 
+ Publicación de vídeo bajo demanda
+
+ | Puede administrar los tipos de grabaciones que los organizadores pueden publicar.
+
+ | Puede publicar y modificar grabaciones de eventos.
+
+ | 
+ Aislamiento de voz
+
+ | Puede controlar si los usuarios pueden usar el aislamiento de voz en eventos.
+
+ | Puede habilitar el aislamiento de voz.
+
+ | 
+ Quién tiene el control de las herramientas de producción
+
+ | Sin control.
+
+ | Los organizadores pueden elegir organizadores, coorganizadores o moderadores específicos que pueden controlar las herramientas de producción para iniciar el evento, administrar lo que ven los asistentes y finalizar el evento. Los organizadores también pueden ofrecer capacidades de producción de Salas de Microsoft Teams (Windows).
+
+ | 
+ Resolución de vídeo de 1080p
+
+ | Puede habilitar la resolución de vídeo de 1080p para los asistentes.
+
+ | Sin control.
+
+ 1 Solo Salas de Microsoft Teams en Windows con una licencia Pro se admiten oficialmente para unirse a reuniones y eventos como moderador o como asistente. Para permitir que Salas se unan como moderador en las reuniones, los organizadores deben establecer Quién puede presentar en Solo organizador o Solo coorganizador o bien Personas específicas. Para permitir que Salas se unan como asistentes en eventos optimizados para grandes audiencias, como asambleas informativas, los organizadores deben agregar la sala como asistente al crear el evento. Para permitir que Salas se unan como asistentes en eventos de hasta 1000 asistentes, el asistente registrado debe enviar el vínculo de registro a la sala.
+
+### ¿Necesita ayuda con sus eventos?
+
+¿Son usted y sus organizadores nuevos en la organización de eventos o simplemente necesitan un poco de ayuda adicional? Los Servicios de eventos de Teams ofrecen instrucciones y asistencia para ayudarle a planear, configurar, producir y ejecutar eventos en Teams. Para obtener más información, consulte Servicios de eventos de Teams.
+
+### Artículos relacionados
+
+- 
+ Información general sobre reuniones y eventos en Microsoft Teams
+
+- 
+ Comparación de características de reuniones y eventos
+
+- 
+ Referencia de configuración y directivas de Teams
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-07-10

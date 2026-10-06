@@ -1,0 +1,31 @@
+URL: https://csrc.nist.gov/glossary/term/virus
+Leído: 2026-10-05
+
+Definitions:
+Type of malicious software that propagates itself by modifying other programs to include a possibly changed copy of itself and that is executed when the infected program is invoked. Note: A virus often causes damage and may be triggered by some event such as the occurrence of a predetermined date.
+Sources:
+CNSSI 4009-2022
+from
+ISO/IEC 2382:2015
+NIST SP 800-12 Rev. 1
+under Virus
+from
+CNSSI 4009
+A program that replicates itself by attaching to other programs or files, where it hides until activated.
+Sources:
+NIST SP 800-28 Version 2
+under Virus
+A hidden, self-replicating section of computer software, usually malicious logic, that propagates by infecting (i.e., inserting a copy of itself into and becoming part of) another program. A virus cannot run by itself; it requires that its host program be run to make the virus active.
+Sources:
+NIST SP 800-82r3
+from
+RFC 4949
+- adapted
+About
+See the identified Source document to understand each term-definition pair in its proper context.
+Send inquiries about terminology to the Source's authors; NIST publications will usually include a contact email for that Source.
+For other inquiries, such as comments about the Glossary's presentation and functionality, use
+this link
+.
+See the
+Glossary homepage

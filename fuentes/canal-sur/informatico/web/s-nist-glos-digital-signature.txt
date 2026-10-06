@@ -1,0 +1,25 @@
+URL: https://csrc.nist.gov/glossary/term/digital_signature
+Leído: 2026-10-05
+
+Definitions:
+The result of a cryptographic transformation of data that, when properly implemented, provides a mechanism for verifying origin authentication, data integrity, and signatory non-repudiation.
+Sources:
+FIPS 186-5
+under Digital signature
+The result of a cryptographic transformation of data that, when properly implemented, provides a mechanism to verify origin authenticity and data integrity and to enforce signatory non-repudiation.
+Sources:
+FIPS 204
+The result of a cryptographic transformation of data that, when properly implemented, provides a mechanism for verifying origin authentication, data integrity, and signatory non-repudiation.
+Sources:
+FIPS 205
+from
+FIPS 186-5
+The result of a cryptographic transformation of data which, when properly implemented, provides the services of: 1. origin authentication, 2. data integrity, and 3. signer non-repudiation.
+Sources:
+NIST SP 800-12 Rev. 1
+under Digital Signature
+from
+FIPS 140-2
+The result of a cryptographic transformation of data that, when properly implemented, provides origin authentication, assurance of data integrity and signatory non-repudiation.
+Sources:
+NIST SP 800-1

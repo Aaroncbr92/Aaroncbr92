@@ -1,0 +1,192 @@
+Intel Introduces Thunderbolt 5 Connectivity
+Standard
+The industry-leading connectivity solution will
+provide up to three times more bandwidth
+compared with Thunderbolt 4.
+News
+September 12, 2023
+Contact Intel PR
+Follow Intel Newsroom on
+social:
+author-image
+By
+More Client Computing
+News
+ 
+What’s New: Today, Intel announced Thunderbolt™
+5 – the next generation of Thunderbolt – and
+demonstrated a prototype laptop and
+dock. Thunderbolt 5 promises to deliver significant
+improvements in connectivity speed and
+bandwidth benefits for computer users.
+Intel Newsroom 
+Intel Introduces Thunderbolt 5 Standard
+  
+logo -
+Return
+to the
+home
+page
+Skip To Main Content
+
+–Jason Ziller, general manager of the Client
+Connectivity Division at Intel
+“Thunderbolt 5 will provide industry-leading
+performance and capability for connecting
+computers to monitors, docks, storage and
+more. Intel is excited to continue our
+tradition of leadership for wired connectivity
+solutions. Thunderbolt is now the
+mainstream port for connectivity on mobile
+PCs, and delivering the next generation of
+performance with Thunderbolt 5 will provide
+even more capability for the most
+demanding users.”
+What It Does: Thunderbolt 5 will deliver 80
+gigabits per second (Gbps) of bi-directional
+bandwidth, and with Bandwidth Boost it will
+provide up to 120 Gbps for the best display
+experience. These improvements will provide up to
+three times more bandwidth than the best existing
+connectivity solution, providing outstanding
+display and data connections. Thunderbolt 5 will
+meet the high bandwidth needs of content
+creators and gamers. Built on industry standards –
+including USB4 V2 – Thunderbolt 5 will be broadly
+compatible with previous versions of Thunderbolt
+and USB.  
+Why It Matters: Bandwidth needs of content
+creators, gamers and professionals are increasing
+significantly. These users want high-resolution
+displays and low-latency visuals while working
+with increasingly larger video and data files.
+Thunderbolt 5 has been designed to massively
+improve connectivity speed and bandwidth to
+ensure modern PC users can enjoy the highestquality visuals and immersive experiences for
+years to come. 
+“Microsoft is excited to closely collaborate with
+Intel to bring the latest USB4 standard to Windows
+customers," said Ian LeGrow, corporate vice
+president of Core OS product management at
+Microsoft Corp. "Thunderbolt 5 is fully USB
+80Gbps standard compliant to support the next
+generation of high-performance displays, storage
+and connectivity.”
+Skip To Main Content
+
+Thunderbolt 5 builds upon Thunderbolt 4 in
+several ways, including:
+ 
+Two times the total bi-directional bandwidth;
+Bandwidth Boost provides up to three times
+the throughput for video-intensive usage, up
+to 120 Gbps.
+Double the PCI Express data throughput for
+faster storage and external graphics.
+Built on industry standards including USB4
+V2, DisplayPort 2.1 and PCI Express Gen 4;
+fully compatible with previous versions.
+Double the bandwidth of Thunderbolt
+Networking for high-speed PC-to-PC
+connections.
+Utilizes a new signaling technology, PAM-3, to
+deliver these significant increases in
+performance with today’s printed circuit
+boards, connectors and passive cables up to 1
+meter.
+ 
+About Thunderbolt in the PC Market:
+Thunderbolt products have become mainstream in
+the PC marketplace, with leading PC accessory
+vendors worldwide adopting the standard to reach
+hundreds of millions of PC users active today.
+Thunderbolt 5 will build on this extensive base and
+continue to deliver on the vision of one USB-C port
+Thunderbolt 5 has been designed to massively improve connectivity speed
+and bandwidth to ensure modern PC users can enjoy the highest-quality
+visuals and immersive experiences for years to come. (Credit: Intel
+Corporation)
+Thunderbolt 5 will deliver 80 gigabits per second (Gbps) of bi-directional
+bandwidth, and with Bandwidth Boost it will provide up to 120 Gbps for the
+best display experience. These improvements will provide up to three times
+more bandwidth than the best existing connectivity solution, providing
+outstanding display and data connections. Thunderbolt 5 will meet the high
+bandwidth needs of content creators and gamers.  (Credit: Intel Corporation)
+Skip To Main Content
+
+and cable that can do it all – simplifying the PC
+experience for users around the globe while still
+providing the highest quality and performance
+possible. 
+The announcement of Thunderbolt 5 is another
+milestone in Intel’s long history of leading the
+industry in input/output (I/O) innovation. Intel
+works closely with PC, accessory and cable
+partners to deliver the most advanced and
+complete wired connectivity solutions through
+dedicated enabling and testing programs.
+All Thunderbolt products undergo stringent
+certification testing to ensure the best wired
+connection solution performance for the PC
+industry. Products that pass this testing use the
+Thunderbolt brand royalty-free. That’s why
+Thunderbolt has become a globally recognized
+indicator of the best wired connectivity solutions
+for PCs and accessories.
+What’s Next: Computers and accessories based on
+Intel's Thunderbolt 5 controller, code-named
+Barlow Ridge, are expected to be available starting
+in 2024.
+More Context: Intel Thunderbolt Technology
+ |
+Engineered for Intel® Evo™ Accessory Program
+ | Thunderbolt 5:
+The Next Generation -- The Best Solution for
+Creators and Gamers
+(Media Deck)
+Tags
+Client Computing
+About Intel
+Intel (Nasdaq: INTC) is an industry leader, creating world-changing technology that enables global
+progress and enriches lives. Inspired by Moore’s Law, we continuously work to advance the design
+and manufacturing of semiconductors to help address our customers’ greatest challenges. By
+Skip To Main Content
+
+embedding intelligence in the cloud, network, edge and every kind of computing device, we unleash
+the potential of data to transform business and society for the better. To learn more about Intel’s
+innovations, go to newsroom.intel.com
+ and intel.com
+.
+© Intel Corporation. Intel, the Intel logo and other Intel marks are trademarks of Intel Corporation or
+its subsidiaries. Other names and brands may be claimed as the property of others.
+Company Overview
+Contact Intel
+Newsroom
+Investors
+Careers
+Corporate Responsibility
+Diversity & Inclusion
+Public Policy
+
+
+
+
+© Intel Corporation
+Terms of Use 
+*Trademarks 
+Cookies 
+Privacy 
+Supply Chain Transparency 
+Site Map 
+Recycling 
+Intel technologies may require enabled hardware, software or service activation. // No product or component can be absolutely
+secure. // Your costs and results may vary. // Performance varies by use, configuration and other factors. // See our complete legal
+Notices and Disclaimers
+. // Intel is committed to respecting human rights and avoiding causing or contributing to adverse
+impacts on human rights. See Intel’s Global Human Rights Principles
+. Intel’s
+products and software are intended only to be used in applications that do not cause or contribute to adverse impacts on human
+rights.
+Skip To Main Content
+
+ 

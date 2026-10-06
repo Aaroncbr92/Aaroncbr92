@@ -1,0 +1,442 @@
+URL: https://learn.microsoft.com/es-es/troubleshoot/windows-server/system-management-components/remote-server-administration-tools
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Herramientas de administración remota del servidor (RSAT) para Windows
+
+- Se aplica a: Supported versions of Windows Server
+
+## 
+
+RSAT permite a los administradores de TI administrar de forma remota roles y características en Windows Server desde un equipo que ejecuta Windows 10 y Windows 7 Service Pack 1.
+
+ Número de KB original: 2693643
+
+## Introducción
+
+No puede instalar RSAT en equipos que ejecutan ediciones Home o Standard de Windows. Solo puede instalar RSAT en las ediciones Professional o Enterprise del sistema operativo cliente Windows. A menos que la página de descarga indique específicamente que RSAT se aplica a una versión beta, versión preliminar u otra versión previa de Windows, debe ejecutar una versión completa (RTM) del sistema operativo Windows para instalar y usar RSAT. Algunos usuarios han encontrado formas de descifrar o piratear manualmente el MSU de RSAT para instalar RSAT en versiones o ediciones no admitidas de Windows. Este comportamiento es una infracción de los términos de licencia de Windows.
+
+La instalación de RSAT es similar a Adminpak.msi en equipos cliente basados en Windows 2000 o basados en Windows XP. Sin embargo, hay una diferencia importante: en Windows 7, las herramientas no están disponibles automáticamente después de descargar e instalar RSAT. Habilite las herramientas que desea usar mediante el Panel de control. Para habilitar las herramientas, seleccione Inicio>Panel de control>Programas y características y después Activar o desactivar las características de Windows.
+
+En las versiones RSAT para Windows 10, las herramientas están de nuevo todas habilitadas de forma predeterminada. Puede abrir Activar o desactivar las características de Windows para deshabilitar las herramientas que no desea usar para Windows 7.
+
+Para RSAT en Windows 7, debe habilitar las herramientas para los roles y características que desea administrar después de ejecutar el paquete de instalación descargado.
+
+Nota:
+
+No puede realizar los siguientes cambios para RSAT en Windows 8 o versiones posteriores.
+
+Si tiene que instalar herramientas de administración en Windows Server 2012 R2 para roles o características específicos que se ejecutan en servidores remotos, no tiene que instalar software adicional. Inicie el Asistente para agregar roles y características en Windows Server 2012 R2 y versiones posteriores. A continuación, en la página Seleccionar características, expanda Herramientas de administración remota del servidor y luego seleccione las herramientas que desea instalar. Complete el asistente para instalar las herramientas de administración.
+
+## Ubicaciones de descarga para RSAT
+
+- 
+ Herramientas de administración remota del servidor para Windows 10
+
+## RSAT para la plataforma de Windows 10 y la matriz de soporte de herramientas
+
+ | Tecnología de herramientas de administración remota del servidor
+
+ | Descripción
+
+ | Administra la tecnología en Windows Server 2012 R2
+
+ | Administra la tecnología en Windows Server 2016 Technical Preview y Windows Server 2012 R2
+
+ | 
+ Herramientas de Servicios de certificados de Active Directory (AD CS)
+
+ | Entre las herramientas de AD CS se incluyen los complementos Autoridad de certificación, Plantillas de certificado, Infraestructura de Clave Pública Empresarial y Administración del respondedor en línea.
+
+ | 
+ √
+
+ | 
+ √
+
+ | 
+ Herramientas de Servicios de dominio de Active Directory (AD DS) y herramientas de Active Directory Lightweight Directory Services (AD LDS)
+
+ | Entre las herramientas de AD DS y AD LDS se incluyen las siguientes:
+
+- Centro de administración de Active Directory 
+- Dominios y confianzas de Active Directory
+- Sitios y servicios de Active Directory
+- Usuarios y equipos de Active Directory
+- Editor ADSI
+- Módulo de Active Directory para Windows PowerShell 
+- Herramientas como 
+
+- DCPromo.exe
+
+- LDP.exe
+
+- NetDom.exe
+
+- NTDSUtil.exe
+
+- RepAdmin.exe
+
+- DCDiag.exe
+
+- DSACLs.exe
+
+- DSAdd.exe
+
+- DSDBUtil.exe
+
+- DSMgmt.exe
+
+- DSMod.exe
+
+- DSMove.exe
+
+- DSQuery.exe
+
+- DSRm.exe
+
+- GPFixup.exe
+
+- KSetup.exe
+
+- NlTest.exe
+
+- NSLookup.exe
+
+- W32tm.exe
+
+ | 
+
+ | 
+ √
+
+ | 
+ Analizador de procedimientos recomendados
+
+ | Cmdlets del Best Practices Analyzer para Windows PowerShell
+
+ | 
+ √
+
+ | 
+ √
+
+ | 
+ Utilidades de administración del cifrado de disco BitLocker
+
+ | 
+ `Manage-bde`, cmdlets de Windows PowerShell para BitLocker, Visor de contraseñas de recuperación de BitLocker para Active Directory
+
+ | 
+ √
+
+ | 
+ √
+
+ | 
+ Herramientas de servidor DHCP
+
+ | Entre las herramientas de servidor DHCP se incluyen la Consola de administración DHCP, el módulo de cmdlet de servidor DHCP para Windows PowerShell y la herramienta de línea de comandos Netsh.
+
+ | 
+ √
+
+ | 
+ √
+
+ | 
+ DirectAccess, enrutamiento y acceso remoto
+
+ | - Consola de administración de enrutamiento y acceso remoto
+ - Consola del Kit de administración de Connection Manager
+- Proveedor de acceso remoto para Windows PowerShell
+ - Proxy de aplicación web
+
+ | 
+ √
+
+ | 
+ √
+
+ | 
+ Herramientas de servidor DNS
+
+ | Entre las herramientas de servidor DNS se incluyen el complemento Administrador de DNS, el módulo DNS para Windows PowerShell y la herramienta de línea de comandos Ddnscmd.exe.
+
+ | 
+ √
+
+ | 
+ √
+
+ | 
+ Herramientas de clústeres de conmutación por error
+
+ | Entre las herramientas de clústeres de conmutación por error se incluyen el Administrador de clústeres de conmutación por error, Clústeres de conmutación por error (cmdlets de Windows PowerShell), MSClus, Cluster.exe, consola de administración para la actualización con compatibilidad con clústeres y cmdlets de actualización con compatibilidad con clústeres para Windows PowerShell.
+
+ | 
+ √
+
+ | 
+ √ 
+
+Las herramientas de GUI admiten Windows Server 2016 Technical Preview y Windows Server 2012 R2. Solo las herramientas de PowerShell funcionan en Windows Server 2012.
+
+ | 
+ Herramientas de Servicios de archivos
+
+ | Las herramientas de Servicios de archivos incluyen las siguientes herramientas: 
+
+- Herramientas de Administración de almacenamiento y recursos compartidos
+- Herramientas del Sistema de archivos distribuido
+
+- El complemento de administración de DFS
+
+- Las herramientas de línea de comandos `Dfsradmin.exe`, `Dfsrdiag.exe`, `Dfscmd.exe`, `Dfsdiag.exe` y `Dfsutil.exe`
+
+- Módulos de PowerShell para DFSN y DFSR
+
+- Herramientas del Administrador de recursos del servidor de archivos
+
+- Administrador de Recursos del Servidor de Archivos 
+
+- Las herramientas de línea de comandos `Dirquota.exe`, `Filescrn.exe` y `Storrept.exe`.
+
+- Servicios para herramientas de administración de NFS
+- Cmdlets de administración iSCSI para Windows PowerShell
+- Herramientas de administración de carpetas de trabajo
+
+ | 
+ √
+
+ | 
+ √ 
+
+El complemento Administración de almacenamiento y recursos compartidos está en desuso después del lanzamiento de Windows Server 2016. La característica Réplica de almacenamiento es nueva en Windows Server 2016 Technical Preview y no funcionará en Windows Server 2012 R2.
+
+ | 
+ Herramientas de administración de directivas de grupo
+
+ | Las herramientas de administración de directivas de grupo incluyen la Consola de administración de directivas de grupo, el Editor de administración de directivas de grupo y el Editor de políticas de grupo iniciales.
+
+ | 
+ √
+
+ | 
+ √ 
+
+La directiva de grupo tiene algunas características nuevas en Windows Server 2016 Technical Preview que no están disponibles en sistemas operativos anteriores.
+
+ | 
+ Herramientas de Hyper-V
+
+ | Entre las herramientas de Hyper-V se incluyen el complemento Administrador de Hyper-V y la herramienta de acceso remoto Conexión a máquina virtual.
+
+ | Las herramientas de Hyper-V no forman parte de las Herramientas de administración remota del servidor para Windows 10. Estas herramientas están disponibles como parte de Windows 10. No tiene que instalar RSAT para usar las herramientas. La consola del Administrador de Hyper-V para Windows Server 2016 Technical Preview no admite la administración de servidores de Hyper-V que ejecutan Server 2008 o Server 2008 R2.
+
+ | Hyper-V en Windows 10 puede administrar Hyper-V en Windows Server 2012 R2.
+
+ | 
+ Herramientas de administración de direcciones IP (IPAM)
+
+ | Consola cliente de administración de direcciones IP
+
+ | 
+ √
+
+ Las herramientas IPAM de en Herramientas de administración remota del servidor para Windows 10 no se pueden usar para administrar IPAM que se ejecuta en Windows Server 2012 R2.
+
+ | 
+ √
+
+ Las herramientas IPAM de en Herramientas de administración remota del servidor para Windows 10 no se pueden usar para administrar IPAM que se ejecuta en Windows Server 2012 R2.
+
+ | 
+ Agrupación de adaptadores de red o agrupación NIC
+
+ | Consola de administración de agrupación de NICs
+
+ | 
+ √
+
+ | 
+ √
+
+ | 
+ Controladora de red
+
+ | Módulo de PowerShell de controlador de red
+
+ | No disponible
+
+ | 
+ √
+
+ | 
+ Herramientas de equilibrio de carga de red
+
+ | Entre las herramientas de equilibrio de carga de red se incluyen el Administrador de equilibrio de carga de red, los cmdlets de Windows PowerShell de equilibrio de carga de red y las herramientas de línea de comandos NLB.exe y WLBS.exe.
+
+ | 
+ √
+
+ | 
+ √
+
+ | 
+ Herramientas de Servicios de Escritorio remoto
+
+ | Las herramientas de Servicios de Escritorio remoto incluyen: 
+ - Complementos de Escritorio remoto
+ - Administrador de Gateway de Escritorio Remoto
+ - `tsgateway.msc`
+ - Administrador de licencias de RD
+ - licmgr.exe
+ - Diagnóstico de licencias RD
+ - `lsdiag.msc` 
+
+Utilice el Administrador de servidores para administrar todos los demás servicios de rol de RDS excepto la puerta de enlace RD y las licencias RD.
+
+ | 
+ √
+
+ | 
+ √
+
+ | 
+ Herramientas de servidor para NIS
+
+ | Entre las herramientas de servidor para NIS se incluyen una extensión al complemento Usuarios y equipos de Active Directory y la herramienta de línea de comandos Ypclear.exe.
+
+ | Estas herramientas no están disponibles en RSAT para Windows 10 versiones posteriores.
+
+ | 
+
+ | 
+ Administrador del servidor
+
+ | El Administrador del servidor incluye la consola del Administrador del servidor.
+
+La administración remota con el Administrador de servidores está disponible en Windows Server 2016 Technical Preview, Windows Server 2012 R2 y Windows Server 2012.
+
+ | 
+ √
+
+ | 
+ √
+
+ | 
+ Herramientas de servidor del Protocolo simple de transferencia de correo (SMTP)
+
+ | Entre las herramientas del servidor SMTP se incluye el complemento SMTP.
+
+ | Estas herramientas no están disponibles en RSAT para Windows 8 y versiones posteriores.
+
+ | 
+
+ | 
+ Herramientas de explorador de almacenamiento
+
+ | Entre las herramientas de explorador de almacenamiento se incluye el complemento Explorador de almacenamiento.
+
+ | Estas herramientas no están disponibles en RSAT para Windows 8 y versiones posteriores.
+
+ | 
+
+ | 
+ Gestor de Almacenamiento para herramientas de Redes de Área de Almacenamiento (SAN)
+
+ | Las herramientas del Administrador de almacenamiento para SAN incluyen el complemento de administración para SAN y la herramienta de línea de comandos Provisionstorage.exe.
+
+ | Estas herramientas no están disponibles en RSAT para Windows 8 y versiones posteriores.
+
+ | 
+
+ | 
+ Activación de volumen
+
+ | Administrar Activación de Volumen, vmw.exe
+
+ | 
+ √
+
+ | 
+ √
+
+ | 
+ Herramientas de Administrador de recursos del sistema de Windows
+
+ | Entre las herramientas de Administrador de recursos del sistema de Windows se incluyen el complemento Administrador de recursos del sistema de Windows y la herramienta de línea de comandos Wsrmc.exe.
+
+ | 
+ √
+
+ WSRM ha quedado en desuso en Windows Server 2012 R2. Las herramientas para administrar WSRM no están disponibles en RSAT para Windows 8.1 y versiones posteriores de RSAT.
+
+ | 
+
+ | 
+ Herramientas de Windows Server Update Services
+
+ | Las herramientas de Windows Server Update Services incluyen el complemento Windows Server Update Services, WSUS.msc, y los cmdlets de PowerShell.
+
+ | 
+ √
+
+ | 
+ √
+
+## RSAT para Windows 10, versión 1809 o posterior
+
+Nota:
+
+No puede usar el cuadro de diálogo Activar y desactivar características de Windows desde el Panel de control.
+Para Windows 11, versión 25H2 en dispositivos basados en Arm64, acceda a algunas de las herramientas de RSAT; para ello, vaya a Programasy características> del Panel>> de controlActivar o desactivar características de Windows.
+Los complementos RSAT disponibles actualmente en Arm64 son RSAT: Active Directory Domain Services y Herramientas ligeras de Servicios de directorio, RSAT: Herramientas de Servicios de certificados de Active Directory, RSAT: Administrador del servidor, RSAT: Herramientas de administración de directivas de grupo, RSAT: Herramientas de servidor DNS y RSAT: Herramientas del servidor DHCP.
+
+La instalación de las herramientas RSAT para Windows 10, versión 1809 y posteriores es ligeramente diferente de las versiones anteriores. RSAT forma ahora parte del sistema operativo y se puede añadir a través de Características opcionales.
+
+Para habilitar las herramientas, seleccione Inicio>Configuración>Aplicaciones (si usa Windows 10, versión 22H2 o versiones posteriores, seleccione Sistema en su lugar) y después seleccione Características opcionales. Después, seleccione el panel Agregar una característica y escriba Remoto en la barra de búsqueda.
+
+## Referencias
+
+- 
+
+ Implementar herramientas de administración remota del servidor
+
+- 
+
+ Administración remota de Server Core mediante RSAT
+
+- 
+
+ Screencast: Cómo instalar y habilitar Microsoft RSAT (Herramientas de administración remota del servidor) para Windows Vista
+
+- 
+
+ Uso de complementos de MMC y RSAT
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-02-24

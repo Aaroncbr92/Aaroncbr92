@@ -1,0 +1,1158 @@
+URL: https://download.lenovo.com/pccbbs/thinkcentre_pdf/m920s_ughmm_en.pdf
+Leído: 2026-10-05
+M920s User Guide and Hardware 
+Maintenance Manual
+Energy Star Machine Types: 10SJ, 10SK, 10SL, 10TN, 10U2 and 
+10U3
+
+Note: Before using this information and the product it supports, be sure to read and understand the 
+Important Product Information Guide and Appendix A “Notices” on page 63.
+Second Edition (August 2019)
+© Copyright Lenovo 2018, 2019. 
+LIMITED AND RESTRICTED RIGHTS NOTICE: If data or software is delivered pursuant to a General Services 
+Administration “GSA” contract, use, reproduction, or disclosure is subject to restrictions set forth in Contract No. GS- 
+35F-05925.
+
+Contents
+Chapter 1. Overview. . . . . . . . . . . 1
+Front view . . . . . . . . . . . . . . . . . . 1
+Rear view . . . . . . . . . . . . . . . . . . 3
+System board
+. . . . . . . . . . . . . . . . 5
+Machine type and model label . . . . . . . . . . 6
+Chapter 2. Specifications . . . . . . . . 7
+Chapter 3. Computer locks . . . . . . . 9
+Enabling or disabling the E-lock
+. . . . . . . . . 9
+Locking the computer cover . . . . . . . . . . 
+10
+Attaching a Kensington-style cable lock . . . . . 
+10
+Attaching a cable lock . . . . . . . . . . . . 
+11
+Chapter 4. Replacing hardware . . . . 12
+Before replacing hardware
+. . . . . . . . . . 
+12
+Knowing FRUs (including CRUs) . . . . . . . . 
+12
+Locating FRUs (including CRUs) . . . . . . . . 
+13
+Replacing the power cord . . . . . . . . . . . 
+15
+Replacing the external options . . . . . . . . . 
+16
+Removing the computer cover . . . . . . . . . 
+18
+Replacing the front bezel . . . . . . . . . . . 
+19
+Replacing the optical drive
+. . . . . . . . . . 
+20
+Pivoting the drive bay assembly upward and 
+downward . . . . . . . . . . . . . . . . . 
+22
+Replacing the internal speaker . . . . . . . . . 
+23
+Replacing the illuminated red dot . . . . . . . . 
+26
+Replacing the thermal sensor
+. . . . . . . . . 
+27
+Replacing the front I/O options . . . . . . . . . 
+30
+Replacing the storage drive . . . . . . . . . . 
+33
+Replacing the memory module . . . . . . . . . 
+39
+Replacing the heat sink and fan assembly
+. . . . 
+40
+Replacing the microprocessor . . . . . . . . . 
+42
+Replacing a PCI Express card . . . . . . . . . 
+44
+Replacing the E-lock . . . . . . . . . . . . . 
+45
+Replacing the cover presence switch
+. . . . . . 
+46
+Replacing the Wi-Fi card . . . . . . . . . . . 
+47
+Replacing the Wi-Fi antennas
+. . . . . . . . . 
+51
+Replacing the coin-cell battery . . . . . . . . . 
+53
+Replacing the M.2 storage drive
+. . . . . . . . 
+55
+Replacing the M.2 storage drive bracket . . . . . 
+57
+Replacing the power supply assembly . . . . . . 
+58
+Replacing the system board . . . . . . . . . . 
+60
+Completing the parts replacement
+. . . . . . . 
+61
+Appendix A. Notices. . . . . . . . . . 63
+Appendix B. Trademarks . . . . . . . 64
+© Copyright Lenovo 2018, 2019
+i
+
+1
+© Copyright Lenovo 2018, 2019
+Chapter 1. Overview
+This chapter provides basic information to help you get familiar with your computer.
+Front view
+Note: Your computer model might look slightly different from the illustration.
+Figure 1. Front view
+1 Optical drive eject/close button (optional)
+2 Optical drive status indicator (optional)
+3 Storage drive activity indicator
+4 Card reader (optional)
+5 USB-C™ connector (only supports USB data 
+transmission)
+6 Power button
+7 Power indicator
+8 Microphone connector
+9 Headset connector
+10 USB 3.1 Gen 1 connectors (2)
+11 USB 3.1 Gen 2 connectors (2)
+12 Illuminated red dot
+13 Internal speaker
+1 Optical drive eject/close button
+
+Used to eject the tray of the optical drive. After you insert a disc into the tray, press the eject/close button to 
+close the tray.
+2 Optical drive activity indicator
+This indicator is on when the optical drive is in use.
+3 Storage drive activity indicator
+This indicator is on when the storage drive is in use.
+4 Card reader slot
+Used to read data from a supported memory card.
+5 USB-C connector (only supports USB data transmission)
+Use the connector to transfer data (USB 3.1 Gen 1, 5.0Gbps), charge your device (5V/3A), or connect to 
+USB-C accessories to help expand your computer functionality. To purchase USB-C accessories, go to: 
+https://www.lenovo.com/accessories
+6 Power button
+Used to turn on your computer. When you cannot shut down the computer from the operating system, press 
+and hold the power button for four or more seconds to turn off the computer.
+7 Power indicator
+This indicator is on when the computer is on.
+8 Microphone connector
+Used to connect a microphone to your computer. You can use the microphone to record sounds or interact 
+with the computer using speech-recognition software.
+9 Headset connector
+Used to connect headset to your computer.
+10 USB 3.1 Gen 1 connectors
+Used to connect a USB-compatible device. For optimal data transfer, connect a USB 3.1 Gen 1 device to a 
+USB 3.1 Gen 2 or USB 3.1 Gen 1 connector instead of a USB 2.0 connector.
+11 USB 3.1 Gen 2 connectors
+Used to connect a USB-compatible device. For optimal data transfer, connect a USB 3.1 Gen 2 device to a 
+USB 3.1 Gen 2 connector instead of a USB 3.1 Gen 1 or USB 2.0 connector.
+12 Illuminated red dot
+This indicator is on when the computer is on.
+13 Internal speaker
+Used to listen to the sounds from your computer without using a headset or headphones.
+Chapter 1. Overview
+2
+
+Rear view
+Note: Your computer model might look slightly different from the illustration.
+Figure 2. Rear view
+1 Audio line-out connector
+2 VGA-out connector
+3 DisplayPort® 1.2 out connector(2)
+4 USB 3.1 Gen 1 connector
+5 USB 3.1 Gen 1 connectors (3)
+6 Serial connector
+7 PS/2 mouse connector (optional)
+8 PS/2 keyboard connector (optional)
+9 Ethernet connector
+10 Security-lock slot
+11 Padlock loop
+12 PCI-Express card area (different cards provide different 
+connectors)
+13 Power cord connector
+1 Audio line-out connector
+Used to send audio signals from the computer to external devices, such as powered stereo speakers, 
+headphones, or multimedia keyboards. To connect a stereo system or other external recording device, 
+connect a cable between the audio line-in connector of the device and the audio line-out connector of the 
+computer. 
+3
+M920s User Guide and Hardware Maintenance Manual
+
+Note: If your computer has both an audio line-out connector and a headset or headphone connector, always 
+use the headset connector or headphone connector for earphones, headphones, or a headset. The 
+headphone connector does not support headset microphones.
+2 VGA-out connector
+Used to send video signals from the computer to another video device, such as a monitor.
+3 DisplayPort 1.2 out connector
+Used to send audio and video signals from the computer to another audio or video device, such as a high- 
+performance monitor.
+4 USB 3.1 Gen 1 connector
+Used to connect a USB-compatible device. For optimal data transfer, connect a USB 3.1 Gen 1 device to a 
+USB 3.1 Gen 2 or USB 3.1 Gen 1 connector instead of a USB 2.0 connector. This connector supports the 
+smart power on feature that enables you to turn on the computer or wake it up from S4 hibernation mode by 
+pressing Alt+P on the keyboard. You can enable or disable the smart power on feature from the Setup Utility 
+program. For detailed information, see the Important Product Information Guide.
+5 USB 3.1 Gen 1 connectors
+Used to connect a USB-compatible device. For optimal data transfer, connect a USB 3.1 Gen 1 device to a 
+USB 3.1 Gen 2 or USB 3.1 Gen 1 connector instead of a USB 2.0 connector.
+6 Serial connector
+Used to connect an external modem, a serial printer, or other devices that use a serial connector.
+7 PS/2 mouse connector
+Used to connect a mouse, a trackball, or other pointing devices that use a PS/2 mouse connector.
+8 PS/2 keyboard connector
+Used to connect a keyboard that uses a Personal System/2 (PS/2) keyboard connector.
+9 Ethernet connector
+Used to connect an Ethernet cable for network access.
+10 Security-lock slot
+Used to secure a Kensington-style cable lock.
+11 Padlock loop
+Used to secure a padlock.
+12 PCI-Express card area
+To improve the operating performance of the computer, you can connect PCI-Express cards into this area. 
+Depending on the computer model, the connectors in this area vary.
+13 Power cord connector
+Chapter 1. Overview
+4
+
+Used to connect the power cord to your computer for power supply.
+System board
+Note: See “Front view” on page 1 and “Rear view” on page 3 for additional component descriptions.
+Figure 3. System board
+1 4-pin power connector
+2 Microprocessor fan connector
+3 Memory slot (DIMM1)
+4 Memory slot (DIMM2)
+5 Memory slot (DIMM3)
+6 Memory slot (DIMM4)
+7 Power button board connector
+8 Internal speaker connector
+9 10-pin power connector
+10 SATA power connector
+11 SATA power connector
+12 Auxiliary fan connector
+13 SATA 3.0 connector
+14 SATA 3.0 connector
+15 SATA 3.0 connector
+16 Clear CMOS jumper
+17 SATA 3.0 connector
+18 M.2 storage drive slot
+19 M.2 Wi-Fi card slot
+20 Thermal sensor connector
+21 Illuminated red dot connector
+22 Front USB 2.0 connector
+23 Front USB 2.0 connector
+24 Serial connector (optional)
+25 Thunderbolt connector
+26 PCI Express card slot (physical link width x16; 
+negotiable link width x4, x1)
+27 PCI Express x1 card slot
+28 PCI Express x16 graphics card slot
+5
+M920s User Guide and Hardware Maintenance Manual
+
+29 E-lock connector
+30 System fan connector
+31 Cover presence switch
+32 Coin-cell battery
+33 Microprocessor socket
+34 PS/2 keyboard and mouse connector
+Machine type and model label
+The machine type and model label identifies the computer. When you contact Lenovo for help, the machine 
+type and model information helps support technicians to identify the computer and provide faster service. 
+The machine type and model label is attached on the side of the computer as shown. 
+Figure 4. Machine type and model label
+Chapter 1. Overview
+6
+
+7
+© Copyright Lenovo 2018, 2019
+Chapter 2. Specifications
+Power supply
+• 180 watt automatic voltage-sensing power supply
+• 210 watt automatic voltage-sensing power supply
+• 260 watt automatic voltage-sensing power supply
+Storage drives
+Up to two SATA storage drives and one M.2 storage drive
+Video features
+• The integrated graphics card supports the following: 
+– DisplayPort-out connector
+– VGA-out connector
+• The optional discrete graphics card provides an enhanced video experience and extended capabilities.
+Audio features
+• The integrated audio card supports the following: 
+– Audio line-out connector
+– Headset connector
+– Internal speaker
+– Microphone connector
+• The optional discrete audio card provides an enhanced audio experience and extended capabilities.
+Input/Output (I/O) features
+• Audio connectors (audio line-out connector, headset connector, and microphone connector)
+• Card reader slot (optional)
+• Display connectors (DisplayPort-out connector and VGA-out connector)
+• Ethernet connector
+• PS/2 keyboard connector (optional)
+• PS/2 mouse connector (optional)
+• Serial connector
+• USB connectors
+Expansion
+• Card reader (optional)
+• Memory slot
+• Optical drive (optional)
+• PCI Express card slot (physical link width x16; negotiable link width x4, x1)
+• PCI Express x1 card slot
+• PCI Express x16 graphics card slot
+• Storage drive bay
+
+Network features
+• Ethernet LAN
+• Wireless LAN (optional)
+• Bluetooth (optional)
+Physical dimensions
+• Width: 92.5 mm (3.6 inches)
+• Height: 343.5 mm (13.5 inches)
+• Depth: 290.5 mm (11.4 inches)
+Weight (without the package)
+Maximum configuration as shipped: 6.0 kg (13.2 lb)
+Statement on USB transfer rate
+Depending on many factors such as the processing capability of the host and peripheral devices, file 
+attributes, and other factors related to system configuration and operating environments, the actual transfer 
+rate using the various USB connectors on this device will vary and will be slower than the data rate listed 
+below for each corresponding device.
+USB device
+Data rate (Gbit/s)
+3.1 Gen 1
+5
+3.1 Gen 2
+10
+3.2
+20
+Chapter 2. Specifications
+8
+
+9
+© Copyright Lenovo 2018, 2019
+Chapter 3. Computer locks
+This chapter provides instructions on how to lock your computer with the locking devices to keep your 
+computer safe.
+Enabling or disabling the E-lock
+Your computer may have a security lock solution installed to protect the computer from unauthorized 
+tampering of the internal components. Using the E-Lock, you can mechanically lock or unlock the computer 
+cover.
+To enable or disable the E-Lock, do the following: 
+1. Turn on or restart the computer.
+2. Before Windows starts up, repeatedly press and release the F1 or Fn+F1 key until the Setup Utility 
+program opens.
+3. Click Security ➙ Electronic Lock to enable or disable the E-lock.
+4. Press F10 or Fn+F10 to save the changes and reboot the computer.
+Note: Changes do not take effect until the setting is saved and the system is rebooted.
+Figure 5. Enabling or disabling the E-lock
+
+Locking the computer cover
+Locking the computer cover helps prevent unauthorized access to the inside of your computer. Your 
+computer features a padlock loop so that the computer cover cannot be removed when a padlock is 
+installed. 
+Figure 6. Locking the computer cover
+Attaching a Kensington-style cable lock
+You can use a Kensington-style cable lock to secure your computer to a desk, table, or other nonpermanent 
+fixture. The cable lock connects to the security-lock slot at the rear of your computer. Depending on the type 
+selected, the cable lock can be operated with a key or combination. The cable lock also locks the buttons 
+used to open the computer cover. This is the same type of lock used with many notebook computers. You 
+can order such a cable lock directly from Lenovo by searching for Kensington at: 
+http://www.lenovo.com/support
+Figure 7. Attaching a Kensington-style cable lock
+Chapter 3. Computer locks
+10
+
+Attaching a cable lock
+A cable lock can be used to secure devices, such as the keyboard and the mouse, by locking the device 
+cables to the computer. The cable lock connects to the cable-lock slots on the rear of the computer. To 
+install a cable lock, do the following: 
+1. Insert the clip 1 into the cable-lock slot 4 .
+2. Pull the cables you want to lock through the dents in the cable lock.
+3. Press the clip 2 into the cable-lock slot 3 until it snaps into position.
+Figure 8. Attaching a cable lock
+11
+M920s User Guide and Hardware Maintenance Manual
+
+Chapter 4. Replacing hardware
+This chapter provides instructions on how to replace hardware for your computer.
+Before replacing hardware
+Attention: Do not open your computer or attempt any repairs before reading this section and the Important 
+Product Information Guide.
+Notes before replacing hardware
+• Use computer components provided only by Lenovo.
+• When installing or replacing an option, use the appropriate instructions explained in this manual along with 
+the instructions that come with the option.
+• In most areas of the world, Lenovo requires the return of defective CRUs. Information about this will come 
+with the CRU or will come a few days after the CRU arrives.
+Handling static-sensitive devices
+Do not open the static-protective package containing the new part until the defective part has been removed 
+and you are ready to install the new part. Static electricity, although harmless to you, can seriously damage 
+computer components and options.
+When you handle options and other computer components, take these precautions to avoid static-electricity 
+damage: 
+• Limit your movement. Movement can cause static electricity to build up around you.
+• Always handle options and other computer components carefully. Handle PCI/PCIe cards, memory 
+modules, system boards, and microprocessors by the edges. Never touch any exposed circuitry.
+• Prevent others from touching the options and other computer components.
+• Touch the static-protective package containing the part to a metal expansion-slot cover or other 
+unpainted metal surface on the computer for at least two seconds. This reduces static electricity from the 
+package and your body before you install or replace a new part.
+• When possible, remove the new part from the static-protective package, and install it directly in the 
+computer without setting the part down. When this is not possible, place the static-protective package on 
+a smooth, level surface and place the part on the package.
+• Do not place the part on the computer cover or other metal surface.
+Knowing FRUs (including CRUs)
+• Field Replaceable Units (FRUs) are computer parts that a trained technician can upgrade or replace. FRUs 
+include all CRUs. For detailed FRU information, such as the FRU part numbers and supported computer 
+models, go to: 
+http://www.lenovo.com/serviceparts-lookup
+• Customer Replaceable Units (CRUs) are computer parts that a user can upgrade or replace.
+– Self-service CRUs: You can install self-service CRUs easily. These CRUs might be stand-alone, 
+latched, or secured by up to two screws. Examples of self-service CRUs include the keyboard, mouse, 
+any USB device. You are responsible for replacing all self-service CRUs.
+– Optional-service CRUs: Handling optional-service CRUs requires some technical skills and simple tools 
+(such as a screwdriver). These CRUs are isolated parts within the computer. They are usually 
+© Copyright Lenovo 2018, 2019
+12
+
+concealed by an access panel that is secured by more than two screws. You must remove the screws 
+and panel to access the specific CRU. Optional-service CRUs can be removed and installed by users 
+or, during the warranty period, by a Lenovo service technician.
+Before replacing FRUs
+Before replacing any FRU, read the following:
+• Only certified and trained personnel can service the computer.
+• Before replacing an FRU, read the entire section about replacing the part.
+• Be extremely careful during writing operations such as copying, saving, or formatting.
+The sequence of the drives in the computer that you are servicing might have been altered. If you select 
+an incorrect drive, data or programs might be overwritten.
+• Replace an FRU only with another FRU of the correct model.
+When you replace an FRU, ensure that the model of the machine and the FRU part number are correct.
+• An FRU should not be replaced because of a single, unreproducible failure.
+Single failures can occur for a variety of reasons that have nothing to do with a hardware defect, such as 
+cosmic radiation, electrostatic discharge, or software errors. Consider replacing an FRU only when a 
+problem recurs. If you suspect that an FRU is defective, clear the error log and run the test again. If the 
+error does not recur, do not replace the FRU.
+• Only replace a defective FRU.
+Locating FRUs (including CRUs)
+Notes: 
+• Some of the following components are optional.
+• To replace a component that is not in the list below, contact a Lenovo service technician. For a list of 
+Lenovo Support phone numbers, go to: 
+http://www.lenovo.com/support/phone
+13
+M920s User Guide and Hardware Maintenance Manual
+
+Figure 9. Locating FRUs (including CRUs)
+Self-service CRUs
+Optional-service CRUs
+Non-CRUs
+1 Computer cover
+7 Wi-Fi card
+2 Heat sink and fan assembly
+4 Memory module
+8 Wi-Fi card shield
+3 Microprocessor
+6 Coin-cell battery
+34 Power supply assembly
+5 System board
+10 M.2 storage drive
+36 E-lock
+9 Cover presence switch
+11 M.2 storage drive bracket
+14 Power button
+12 Secondary storage drive bracket
+15 Card reader
+13 Secondary storage drive (a 2.5- 
+inch storage drive)
+16 Front I/O bracket
+Chapter 4. Replacing hardware
+14
+
+Self-service CRUs
+Optional-service CRUs
+Non-CRUs
+18 Optical drive bracket
+17 Optical drive cable
+19 Optical drive
+28 Storage drive cable
+20 Front bezel
+29 Illuminated red dot
+21 Dust shield
+30 Thermal sensor
+22 Keyboard
+31 Internal speaker
+23 Mouse
+33 Chassis
+24 Power cord
+35 Wi-Fi antennas
+25 Primary storage drive (a 2.5-inch 
+or 3.5-inch storage drive)
+26 Primary storage drive bracket
+27 Storage drive converter
+32 Vertical stand
+37 PCI Express card
+Replacing the power cord
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Replace the power cord.
+Figure 10. Removing the power cord
+15
+M920s User Guide and Hardware Maintenance Manual
+
+Figure 11. Installing the power cord
+Replacing the external options
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Refer to the following to replace external options.
+• Vertical stand
+Figure 12. Removing the vertical stand
+Chapter 4. Replacing hardware
+16
+
+Figure 13. Assembling the vertical stand
+Figure 14. Installing the vertical stand
+• Dust shield
+17
+M920s User Guide and Hardware Maintenance Manual
+
+Figure 15. Removing the dust shield
+Figure 16. Installing the dust shield
+3. Reconnect all cables.
+Removing the computer cover
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+CAUTION: 
+Before you open the computer cover, turn off the computer and wait several minutes until the 
+computer is cool.
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+Chapter 4. Replacing hardware
+18
+
+2. Unlock any locking device that secures the computer cover.
+3. Remove the computer cover.
+Figure 17. Removing the computer cover
+4. Complete the replacement. See “Completing the parts replacement” on page 61.
+Replacing the front bezel
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Replace the front bezel.
+19
+M920s User Guide and Hardware Maintenance Manual
+
+Figure 18. Removing the front bezel
+Figure 19. Installing the front bezel
+4. Complete the replacement. See “Completing the parts replacement” on page 61.
+Replacing the optical drive
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+Chapter 4. Replacing hardware
+20
+
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+4. Disconnect the signal cable and the power cable from the optical drive.
+5. Replace the optical drive.
+Figure 20. Removing the optical drive
+Figure 21. Removing the optical drive retainer
+21
+M920s User Guide and Hardware Maintenance Manual
+
+Figure 22. Installing the optical drive retainer
+Figure 23. Installing the optical drive
+6. Connect the signal cable and the power cable to the new optical drive.
+7. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Pivoting the drive bay assembly upward and downward
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+4. Pivot the drive bay assembly upward and downward.
+Chapter 4. Replacing hardware
+22
+
+Figure 24. Pivoting the drive bay assembly upward
+Figure 25. Pivoting the drive bay assembly downward
+5. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the internal speaker
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+23
+M920s User Guide and Hardware Maintenance Manual
+
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+4. Disconnect the internal speaker cable from the system board.
+5. Replace the internal speaker.
+Figure 26. Removing the internal speaker screws
+Figure 27. Pivoting the drive bay assembly upward
+Chapter 4. Replacing hardware
+24
+
+Figure 28. Removing the internal speaker
+Figure 29. Installing the internal speaker
+Figure 30. Installing the internal speaker screws
+25
+M920s User Guide and Hardware Maintenance Manual
+
+Figure 31. Pivoting the drive bay assembly downward
+6. Connect the new internal speaker cable to the system board.
+7. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the illuminated red dot
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+4. Pivot the drive bay assembly upward. See “Pivoting the drive bay assembly upward and downward” on 
+page 22.
+5. Disconnect the illuminated red dot cable from the system board.
+6. Replace the illuminated red dot.
+Figure 32. Removing the illuminated red dot cover
+Chapter 4. Replacing hardware
+26
+
+Figure 33. Removing the illuminated red dot
+Figure 34. Installing the illuminated red dot
+Figure 35. Installing the illuminated red dot cover
+7. Connect the new illuminated red dot cable to the system board.
+8. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the thermal sensor
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+27
+M920s User Guide and Hardware Maintenance Manual
+
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+4. Disconnect the thermal sensor cable from the system board.
+5. Replace the thermal sensor.
+Figure 36. Pressing the tab
+Figure 37. Pivoting the drive bay assembly upward
+Chapter 4. Replacing hardware
+28
+
+Figure 38. Removing the thermal sensor
+Figure 39. Installing the thermal sensor
+Figure 40. Pivoting the drive bay assembly downward
+6. Connect the new thermal sensor cable to the system board.
+29
+M920s User Guide and Hardware Maintenance Manual
+
+7. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the front I/O options
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+4. Disconnect the power button board cable and card reader cable from the system board.
+5. Replace the front I/O options.
+Figure 41. Removing the front I/O bracket
+Figure 42. Removing the power button board
+Chapter 4. Replacing hardware
+30
+
+Figure 43. Removing the card reader bracket
+Figure 44. Removing the card reader
+31
+M920s User Guide and Hardware Maintenance Manual
+
+Figure 45. Installing the card reader
+Figure 46. Installing the card reader bracket
+Chapter 4. Replacing hardware
+32
+
+Figure 47. Installing the power button board
+Figure 48. Installing the front I/O bracket
+6. Connect the new front I/O options cable to the system board.
+7. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the storage drive
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+Replacing the 3.5-inch primary storage drive
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+33
+M920s User Guide and Hardware Maintenance Manual
+
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+4. Pivot the drive bay assembly outward. See “Pivoting the drive bay assembly upward and downward” on 
+page 22.
+5. Disconnect the signal cable and the power cable from the 3.5-inch primary storage drive.
+6. Replace the 3.5-inch primary storage drive.
+Figure 49. Removing the storage drive bracket
+Figure 50. Removing the storage drive
+Chapter 4. Replacing hardware
+34
+
+Figure 51. Installing the storage drive
+Figure 52. Installing the storage drive bracket
+7. Connect the signal cable and the power cable to the new 3.5-inch storage drive.
+8. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the 2.5-inch primary storage drive
+1. Remove the storage converter with the 2.5-inch primary sstorage drive. See "Replacing the 3.5-inch 
+primary storage drive".
+2. Replace the 2.5-inch primary storage drive in the storage converter.
+35
+M920s User Guide and Hardware Maintenance Manual
+
+Figure 53. Removing the storage drive
+Figure 54. Installing the storage drive
+3. Reinstall the storage converter with the 2.5-inch primary storage drive. See "Replacing the 3.5-inch 
+primary storage drive".
+Replacing the 2.5-inch secondary storage drive
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+Chapter 4. Replacing hardware
+36
+
+4. Pivot the drive bay assembly outward. See “Pivoting the drive bay assembly upward and downward” on 
+page 22.
+5. Disconnect the signal cable and the power cable from the 2.5-inch secondary storage drive.
+6. Replace the 2.5-inch secondary storage drive.
+Figure 55. Removing the outer storage drive bracket
+Figure 56. Removing the inner storage drive bracket
+37
+M920s User Guide and Hardware Maintenance Manual
+
+Figure 57. Removing the storage drive
+Figure 58. Installing the storage drive
+Figure 59. Installing the inner storage drive bracket
+Chapter 4. Replacing hardware
+38
+
+Figure 60. Installing the outer storage drive bracket
+7. Connect the signal cable and the power cable to the new 2.5-inch secondary storage drive.
+8. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the memory module
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+Ensure that you follow the order of installing memory modules shown in the following figure.
+Figure 61. The order of installing memory modules
+39
+M920s User Guide and Hardware Maintenance Manual
+
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+4. Pivot the drive bay assembly upward. See “Pivoting the drive bay assembly upward and downward” on 
+page 22.
+5. Replace the memory module.
+Figure 62. Removing the memory module
+Figure 63. Installing the memory module
+6. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the heat sink and fan assembly
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+CAUTION: 
+The heat sink and fan assembly might be very hot. Before you open the computer cover, turn off the 
+computer and wait several minutes until the computer is cool.
+Chapter 4. Replacing hardware
+40
+
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+4. Pivot the drive bay assembly upward. See “Pivoting the drive bay assembly upward and downward” on 
+page 22.
+5. Disconnect the heat sink and fan assembly cable from the system board.
+6. Replace the heat sink and fan assembly.
+Figure 64. Removing the heat sink and fan assembly
+Figure 65. Installing the heat sink and fan assembly
+7. Connect the new heat sink and fan assembly cable to the system board.
+41
+M920s User Guide and Hardware Maintenance Manual
+
+8. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the microprocessor
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+CAUTION: 
+The heat sink and microprocessor might be very hot. Before you open the computer cover, turn off the 
+computer and wait several minutes until the computer is cool.
+1. Remove the computer cover. See “Removing the computer cover” on page 18.
+2. Remove the front bezel. See “Replacing the front bezel” on page 19.
+3. Pivot the drive bay assembly upward. See “Pivoting the drive bay assembly upward and downward” on 
+page 22.
+4. Remove the heat sink and fan assembly. See “Replacing the heat sink and fan assembly” on page 40.
+5. Disconnect all cables connected to the system board.
+6. Replace the microprocessor. 
+Notes: 
+• Your microprocessor and socket might look different from the one illustrated.
+• Touch only the edges of the microprocessor. Do not touch the gold contacts on the bottom.
+• Do not drop anything onto the microprocessor socket while it is exposed. The socket pins must be 
+kept as clean as possible.
+Figure 66. Releasing the holder
+Figure 67. Pivoting up the socket
+Chapter 4. Replacing hardware
+42
+
+Figure 68. Removing the microprocessor
+Figure 69. Installing the microprocessor
+Figure 70. Pivoting the socket downward
+43
+M920s User Guide and Hardware Maintenance Manual
+
+Figure 71. Securing the holder
+7. Reconnect all cables that were disconnected from the system board.
+8. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing a PCI Express card
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+4. Pivot the drive bay assembly upward. See “Pivoting the drive bay assembly upward and downward” on 
+page 22.
+5. Replace a PCI Express card.
+Figure 72. Removing a PCI Express card
+Note: If the card is held in place by a retaining latch, press the latch 1 as shown to disengage the latch. 
+Then, gently remove the card from the slot. 
+Chapter 4. Replacing hardware
+44
+
+Figure 73. Installing a PCI Express card
+6. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the E-lock
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+Note: To remove the screws, you need a special tool (T15 star wrench).
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Disconnect the E-lock cable from the system board.
+4. Replace the E-lock.
+45
+M920s User Guide and Hardware Maintenance Manual
+
+Figure 74. Removing the E-lock
+Figure 75. Installing the E-lock
+5. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the cover presence switch
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Disconnect the cover presence switch cable from the system board.
+4. Replace the cover presence switch.
+Chapter 4. Replacing hardware
+46
+
+Figure 76. Removing the cover presence switch
+Figure 77. Installing the cover presence switch
+5. Connect the new cover presence switch cable to the system board.
+6. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the Wi-Fi card
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+4. Pivot the drive bay assembly upward. See “Pivoting the drive bay assembly upward and downward” on 
+page 22.
+5. Replace the Wi-Fi card.
+47
+M920s User Guide and Hardware Maintenance Manual
+
+• Type 1
+Figure 78. Removing the Wi-Fi card shield
+Figure 79. Disconnecting the antennas
+Figure 80. Removing the Wi-Fi card
+Chapter 4. Replacing hardware
+48
+
+Figure 81. Installing the Wi-Fi card
+Figure 82. Connecting the antennas
+Figure 83. Installing the Wi-Fi card shield
+• Type 2
+49
+M920s User Guide and Hardware Maintenance Manual
+
+Figure 84. Removing the Wi-Fi card shield
+Figure 85. Disconnecting the antennas
+Figure 86. Removing the Wi-Fi card
+Chapter 4. Replacing hardware
+50
+
+Figure 87. Installing the Wi-Fi card
+Figure 88. Connecting the antennas
+Figure 89. Installing the Wi-Fi card shield
+6. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the Wi-Fi antennas
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+51
+M920s User Guide and Hardware Maintenance Manual
+
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+4. Pivot the drive bay assembly upward. See “Pivoting the drive bay assembly upward and downward” on 
+page 22.
+5. Disconnect the antenna cables from the Wi-Fi card.
+6. Replace the Wi-Fi antennas.
+• Front Wi-Fi antenna
+Figure 90. Removing the Wi-Fi antenna
+Figure 91. Installing the Wi-Fi antenna
+• Rear Wi-Fi antenna
+Chapter 4. Replacing hardware
+52
+
+Figure 92. Removing the Wi-Fi antenna
+Figure 93. Installing the Wi-Fi antenna
+7. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the coin-cell battery
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+Your computer has a special type of memory that maintains the date, time, and settings for built-in features, 
+such as parallel connector assignments (configurations). A coin-cell battery keeps this information active 
+when you turn off the computer.
+The coin-cell battery normally requires no charging or maintenance throughout its life; however, no coin-cell 
+battery lasts forever. If the coin-cell battery fails, the date, time, and configuration information (including 
+passwords) are lost. An error message is displayed when you turn on the computer.
+To replace the coin-cell battery,
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+53
+M920s User Guide and Hardware Maintenance Manual
+
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+4. Pivot the drive bay assembly upward. See “Pivoting the drive bay assembly upward and downward” on 
+page 22.
+5. Replace the coin-cell battery.
+Figure 94. Removing the coin-cell battery
+Figure 95. Removing the coin-cell battery
+Figure 96. Installing the coin-cell battery
+Figure 97. Installing the coin-cell battery
+6. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+To dispose of the coin-cell battery, refer to Lithium coin-cell battery notice in the Safety and Warranty Guide.
+Chapter 4. Replacing hardware
+54
+
+Replacing the M.2 storage drive
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+4. Pivot the drive bay assembly upward. See “Pivoting the drive bay assembly upward and downward” on 
+page 22.
+5. Replace the M.2 storage drive.
+• Type 1
+Figure 98. Pulling out the plastic fastener
+Figure 99. Removing the M.2 storage drive
+55
+M920s User Guide and Hardware Maintenance Manual
+
+Figure 100. Installing the M.2 storage drive
+Figure 101. Installing the plastic fastener
+• Type 2
+Figure 102. Pulling out the plastic fastener
+Chapter 4. Replacing hardware
+56
+
+Figure 103. Removing the M.2 storage drive
+Figure 104. Installing the M.2 storage drive
+Figure 105. Installing the plastic fastener
+6. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the M.2 storage drive bracket
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+57
+M920s User Guide and Hardware Maintenance Manual
+
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+4. Pivot the drive bay assembly upward. See “Pivoting the drive bay assembly upward and downward” on 
+page 22.
+5. Remove the M.2 storage drive.
+6. Replace the M.2 storage drive bracket.
+Figure 106. Removing the M.2 storage drive bracket
+Figure 107. Installing the M.2 storage drive bracket
+7. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the power supply assembly
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+Chapter 4. Replacing hardware
+58
+
+Although there are no moving parts in your computer after the power cord has been disconnected, the 
+following warnings are required for your safety and proper Underwriters Laboratories (UL) certification.
+CAUTION: 
+Never remove the cover on a power supply or any part that has the following label attached.
+Hazardous voltage, current, and energy levels are present inside any component that has this label 
+attached. There are no serviceable parts inside these components. If you suspect a problem with one 
+of these parts, contact a service technician.
+1. Remove the computer cover. See “Removing the computer cover” on page 18.
+2. Remove the front bezel. See “Replacing the front bezel” on page 19.
+3. Remove the optical drive. See “Replacing the optical drive” on page 20.
+4. Remove the storage drive bracket. See “Replacing the storage drive” on page 33.
+5. Disconnect the power supply assembly cable from the system board.
+6. Replace the power supply assembly.
+Figure 108. Removing the power supply assembly
+59
+M920s User Guide and Hardware Maintenance Manual
+
+Figure 109. Installing the power supply assembly
+7. Connect the new power supply assembly cable to the system board.
+8. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Replacing the system board
+Attention: Do not open your computer or attempt any repairs before reading the Important Product 
+Information Guide.
+1. Remove any media from the drives and turn off all connected devices and the computer. Disconnect all 
+power cords from electrical outlets and disconnect all cables from the computer.
+2. Remove the computer cover. See “Removing the computer cover” on page 18.
+3. Remove the front bezel. See “Replacing the front bezel” on page 19.
+4. Remove the front I/O options. See “Replacing the front I/O options” on page 30.
+5. Pivot the drive bay assembly upward. See “Pivoting the drive bay assembly upward and downward” on 
+page 22.
+6. Remove all memory modules. See “Replacing the memory module” on page 39.
+7. Remove the heat sink and fan assembly. See “Replacing the heat sink and fan assembly” on page 40.
+8. Remove the microprocessor. See “Replacing the microprocessor” on page 42.
+9. Remove all PCI Express cards. See “Replacing a PCI Express card” on page 44.
+10. Remove the Wi-Fi card. See “Replacing the Wi-Fi card” on page 47.
+11. Remove the M.2 storage drive. See “Replacing the M.2 storage drive” on page 55.
+12. Record the cable routing and cable connections, and then disconnect all cables from the system board. 
+See “System board” on page 5.
+Chapter 4. Replacing hardware
+60
+
+13. Replace the system board. 
+Notes: 
+• The numbers in the following figure show the locations of the screws instead of the removing and 
+reinstalling order of the screws.
+• Handle the system board carefully by its edges.
+Figure 110. Removing the system board
+14. Route all the cables that you disconnected from the failing system board, and then reconnect the cables 
+to the new system board. See “System board” on page 5.
+15. Reinstall the removed parts. To complete the replacement, see “Completing the parts replacement” on 
+page 61.
+Completing the parts replacement
+After completing the installation or replacement for all parts, reinstall the computer cover and reconnect the 
+cables.
+To reinstall the computer cover and reconnect the cables to your computer, do the following: 
+1. Ensure that all components have been reassembled correctly and that no tools or loose screws are left 
+inside your computer.
+2. Ensure that the cables are routed correctly before reinstalling the computer cover. Keep cables clear of 
+the hinges and sides of the computer chassis to avoid interference when reinstalling the computer 
+cover.
+61
+M920s User Guide and Hardware Maintenance Manual
+
+3. Reinstall the computer cover.
+Figure 111. Reinstalling the computer cover
+4. Place the computer in an upright position.
+5. If a locking device is available, use it to lock the computer.
+6. Reconnect the external cables and power cords to the corresponding connectors on the computer.
+Chapter 4. Replacing hardware
+62
+
+63
+© Copyright Lenovo 2018, 2019
+Appendix A. Notices
+Lenovo may not offer the products, services, or features discussed in this document in all countries. Consult 
+your local Lenovo representative for information on the products and services currently available in your 
+area. Any reference to a Lenovo product, program, or service is not intended to state or imply that only that 
+Lenovo product, program, or service may be used. Any functionally equivalent product, program, or service 
+that does not infringe any Lenovo intellectual property right may be used instead. However, it is the user's 
+responsibility to evaluate and verify the operation of any other product, program, or service.
+Lenovo may have patents or pending patent applications covering subject matter described in this 
+document. The furnishing of this document does not give you any license to these patents. You can send 
+license inquiries, in writing, to: 
+Lenovo (United States), Inc. 
+1009 Think Place - Building One
+Morrisville, NC 27560
+U.S.A.
+Attention: Lenovo Director of Licensing
+LENOVO PROVIDES THIS PUBLICATION "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS 
+OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF NON-INFRINGEMENT, 
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Some jurisdictions do not allow 
+disclaimer of express or implied warranties in certain transactions, therefore, this statement may not apply to 
+you.
+This information could include technical inaccuracies or typographical errors. Changes are periodically made 
+to the information herein; these changes will be incorporated in new editions of the publication. Lenovo may 
+make improvements and/or changes in the products and/or the programs described in this publication at any 
+time without notice.
+The products described in this document are not intended for use in implantation or other life support 
+applications where malfunction may result in injury or death to persons. The information contained in this 
+document does not affect or change Lenovo product specifications or warranties. Nothing in this document 
+shall operate as an express or implied license or indemnity under the intellectual property rights of Lenovo or 
+third parties. All information contained in this document was obtained in specific environments and is 
+presented as an illustration. The result obtained in other operating environments may vary.
+Lenovo may use or distribute any of the information you supply in any way it believes appropriate without 
+incurring any obligation to you.
+Any references in this publication to non-Lenovo Web sites are provided for convenience only and do not in 
+any manner serve as an endorsement of those Web sites. The materials at those Web sites are not part of the 
+materials for this Lenovo product, and use of those Web sites is at your own risk.
+Any performance data contained herein was determined in a controlled environment. Therefore, the result 
+obtained in other operating environments may vary significantly. Some measurements may have been made 
+on development-level systems and there is no guarantee that these measurements will be the same on 
+generally available systems. Furthermore, some measurements may have been estimated through 
+extrapolation. Actual results may vary. Users of this document should verify the applicable data for their 
+specific environment.
+
+Appendix B. Trademarks
+LENOVO, LENOVO logo, and the THINKCENTRE logo are trademarks of Lenovo. DisplayPort is a trademark 
+of the Video Electronics Standards Association. USB-C is a trademark of USB Implementers Forum. All other 
+trademarks are the property of their respective owners. © 2019 Lenovo.
+© Copyright Lenovo 2018, 2019
+64
+

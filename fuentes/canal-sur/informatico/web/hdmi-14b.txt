@@ -1,0 +1,210 @@
+HDMI Specification 1.4b
+
+ If you are having problems seeing website images please make sure you update your browser to the latest version.
+
+ ×
+
+ Chinese
+
+|
+
+ Extranet Login
+
+ Home
+
+ Specifications
+
+ Specifications Overview
+
+ HDMI Specification 2.2
+
+ HDMI 2.2 Overview
+
+ Bandwidths and Resolutions
+
+ Ultra96 HDMI Cable and Ultra High Speed HDMI Cable
+
+ Ultra96 Feature Name
+
+ Latency Indication Protocol (LIP)
+
+ Dynamic HDR
+
+ Source-Based Tone Mapping (SBTM)
+
+ Enhanced Audio Return Channel (eARC)
+
+ Enhanced Gaming Features
+
+ Variable Refresh Rate (VRR)
+
+ Auto Low Latency Mode (ALLM)
+
+ Quick Frame Transport (QFT)
+
+ Quick Media Switching (QMS)
+
+ Cable Power
+
+ HDMI Specification 1.4b
+
+ Premium Cable
+
+ HDMI Passive Adapter
+
+ Adopters
+
+ Becoming an Adopter
+
+ New HDMI Adopters
+
+ HDMI Founders
+
+ HDMI Adopters
+
+ Embedded Licensees
+
+ Terminated Adopters
+
+ Enforcement Search Tool
+
+ About HDMI Forum
+
+ Adopter-Only Extranet
+
+ Resources
+
+ Resources Overview
+
+ HDMI Cables
+
+ Testing Resources
+
+ Testing Policies
+
+ Test Equipment Manufacturers
+
+ Authorized Test Centers (ATC)
+
+ Licensing and Trademarks
+
+ HDMI as a Brand
+
+ Trademarks Guidelines
+
+ Royalty Discounts
+
+ HDMI Logos
+
+ Brand Enforcement
+
+ Enforcement Search Tool
+
+ Report an Infringer 
+
+ Approved Connectors
+
+ Press Events Social
+
+ Press Releases
+
+ Announcements
+
+ Events & Plugfests
+
+ HDMI Blog Posts
+
+ Tweets @HDMI Licensing
+
+ Press Resources
+
+ Archives
+
+ Press Releases
+
+ Announcements
+
+ Blogs
+
+HDMI Specification 1.4b
+
+HDMI 1.4b Specification, 4K support enables video resolutions beyond 1080p, supporting high-resolution displays that deliver movie theater-like experiences to the home with incredible depth, detail and color.
+
+HDMI 1.4b Specification
+
+The major features introduced in the HDMI® 1.4b specification include:
+
+4K support enables video resolutions beyond 1080p, supporting high-resolution displays that deliver movie theater-like experiences to the home with incredible depth, detail and color. This includes support for 4096×2160 at 24 Hz, 3840×2160 at 24, 25, and 30 Hz, and 1920×1080 at 120 Hz. All resolutions and refresh rates can be support with the High Speed HDMI Cable.
+
+HDMI Ethernet Channel adds high-speed networking to an HDMI link, allowing users to take full advantage of their IP-enabled devices without a separate Ethernet cable; a very important advantage with so many devices now connecting to the internet.This requires the use of the High Speed HDMI Cable with Ethernet. 
+
+Audio Return Channel (ARC) allows an HDMI-connected TV to send audio data "upstream" to an AVR or soundbar with an HDMI cable, eliminating the need for a separate audio cable and making it easier to bring immersive movie theater sound to the living room.
+
+3D support defines input/output protocols for several major 3D video formats enabling true 3D gaming and 3D home theater applications.
+
+Content Type enables real-time signaling of content types between display and source devices, enabling a TV to optimize picture settings for the best viewing quality.
+
+Additional Color Spaces add support for multiple color gamuts used in digital photography and computer graphics. In addition to RGB color and x.v.Color, support is now included for sYCC601 color, and Adobe RGB and YCC601 color.
+
+HDMI Micro Connector is a new, smaller connector for phones and other portable devices, supporting video resolutions up to 1080p.
+
+Automotive Connection System includes new cables and connectors for automotive video systems, designed to meet the unique demands of the motoring environment while delivering true HD quality to a seatback or dashboard display. 
+
+HDMI 1.4b is also supported with the HDMI Alt Mode for USB Type-C™ Connector. 
+
+The HDMI Alt Mode for USB Type-C connector will allow HDMI-enabled source devices to utilize a USB Type-C connector to directly connect to HDMI-enabled displays, and deliver native HDMI signals over a simple cable without the need for protocol and connector adapters or dongles. Please check our information pages on HDMI Alt Mode for USB Type-C.
+
+The HDMI 1.4b Specification is available to all HDMI Adopters and can be downloaded from the HDMI Adopter extranet.
+
+However, the updated 3D portion of the HDMI Specification Version 1.4b is available for public download.
+
+HDMI Specification Ver. 1.3a download page.
+
+Expanded HDMI 1.4 feature descriptions available to download.
+
+HDMI® Licensing Administrator, Inc. (HDMI LA) is the agent appointed by the HDMI Forum to license Version 2.2 of the HDMI Specification and is the agent appointed by the HDMI Founders to license earlier HDMI Specifications.
+
+Latest Posts
+
+ Upcoming Events
+
+ HDMI Blog Posts
+
+ Follow HDMI LA on X
+
+Useful Links
+
+ About HDMI Technology
+
+ Becoming an Adopter
+
+ Trademarks & Logos
+
+Our Contacts
+
+USA
+
+ HDMI® Licensing Administrator, Inc.
+
+ 550 S. Winchester Blvd,
+Suite 515
+
+ San Jose, CA 95128, USA
+
+ Contact HDMI LA
+
+2026 © All Rights Reserved.
+
+ Privacy Policy
+
+ |
+
+ Terms of Use
+
+ |
+
+ Login 
+
+ The terms HDMI, HDMI High-Definition Multimedia Interface, HDMI Trade Dress and the HDMI Logos are trademarks or registered trademarks of HDMI Licensing Administrator, Inc.
+
+Last updated:

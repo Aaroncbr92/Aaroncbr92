@@ -1,0 +1,141 @@
+URL: https://learn.microsoft.com/es-es/windows-server/remote/remote-desktop-services/clients/change-listening-port
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Cambiar el puerto de escucha de Escritorio remoto en el equipo
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10
+
+## 
+
+Escritorio remoto permite realizar conexiones remotas con equipos que ejecutan Windows o Windows Server a través del Protocolo de escritorio remoto (RDP) escuchando en el puerto 3389 de forma predeterminada. Este puerto de escucha se puede cambiar con fines de seguridad o de configuración. En este artículo se proporcionan instrucciones paso a paso para modificar el puerto de escucha mediante PowerShell o el Editor del Registro.
+
+## Prerequisites
+
+Antes de comenzar, asegúrese de que tiene los siguientes elementos:
+
+- 
+Acceso de administrador, o equivalente, al equipo al que desea conectarse.
+
+- 
+Un equipo con Escritorio remoto habilitado. Para más información, consulte habilitar la conexión a Escritorio remoto.
+
+- 
+Un cliente desde el que probar los cambios, como Conexión a Escritorio remoto (`mstsc.exe`) o Aplicación de Windows.
+
+## Configuración del puerto de escucha de Escritorio remoto
+
+El puerto de escucha de Escritorio remoto se especifica en el registro. Aquí se explica cómo cambiar el valor del Registro mediante PowerShell o el Editor del Registro. Seleccione la pestaña correspondiente al método que prefiera.
+
+- 
+
+ PowerShell
+
+- 
+
+ Editor del Registro
+
+Para cambiar el puerto de escucha mediante PowerShell, siga estos pasos:
+
+- 
+Abra PowerShell como administrador.
+
+- 
+Ejecute el siguiente comando de PowerShell para comprobar el puerto actual:
+
+`Get-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp' -name 'PortNumber'
+`
+
+La salida es similar a la del ejemplo siguiente:
+
+`PortNumber : 3389
+PSPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp
+PSParentPath : Microsoft.PowerShell.Core\Registry::HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations
+PSChildName : RDP-Tcp
+PSDrive : HKLM
+PSProvider : Microsoft.PowerShell.Core\Registry
+`
+
+- 
+Cambie el puerto ejecutando el siguiente comando de PowerShell. Asegúrese de reemplazar `<Port Number>` por el nuevo número de puerto.
+
+`$portValue = '<Port Number>'
+
+Set-ItemProperty -Path 'HKLM:\SYSTEM\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp' -name 'PortNumber' -Value $portValue
+`
+
+Para cambiar el puerto de escucha mediante el Editor del Registro, siga estos pasos:
+
+- 
+Seleccione el botón Iniciar , escriba Editor del Registro, abra el Editor del Registro en la lista de coincidencias más adecuada.
+
+- 
+En el panel de navegación, expanda la clave `HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Terminal Server\WinStations\RDP-Tcp`**`.
+
+- 
+En el panel principal, seleccione `PortNumber`.
+
+- 
+En la barra de menús, seleccione Editar > Modificar y, a continuación, seleccione Decimal.
+
+- 
+Escriba el nuevo número de puerto y, a continuación, seleccione Aceptar.
+
+- 
+Cierre el Editor del Registro y reinicie el equipo.
+
+## Agregar el nuevo puerto al Firewall de Windows
+
+Si usa el Firewall de Windows, debe agregar una nueva regla de entrada para permitir el tráfico en el puerto nuevo. Para obtener más información sobre los distintos métodos que puede usar para configurar el Firewall de Windows, consulte Herramientas de Firewall de Windows.
+
+Important
+
+Si usa cualquier otro firewall, asegúrese de que usted o el administrador permiten las conexiones al número de puerto nuevo.
+
+Si desea crear nuevas reglas de Firewall de Windows para permitir el nuevo puerto, ejecute el siguiente comando de PowerShell como administrador. Asegúrese de reemplazar `<Port Number>` por el nuevo número de puerto.
+
+`$portValue = '<Port Number>'
+
+New-NetFirewallRule -DisplayName 'RDPPORTLatest-TCP-In' -Profile Public -Direction Inbound -Action Allow -Protocol TCP -LocalPort $portValue
+New-NetFirewallRule -DisplayName 'RDPPORTLatest-UDP-In' -Profile Public -Direction Inbound -Action Allow -Protocol UDP -LocalPort $portValue
+`
+
+## Prueba del nuevo puerto de escucha de Escritorio remoto
+
+La próxima vez que se conecte a este equipo mediante la conexión a Escritorio remoto u otro cliente, escriba el nombre de host junto con el puerto nuevo. Por ejemplo, si ha cambiado el puerto para usar 3390 en el equipo `pc1.contoso.com`, la dirección es `pc1.contoso.com:3390`.
+
+## Contenido relacionado
+
+- 
+ Habilitar Escritorio remoto en un equipo
+
+- 
+ Permitir el acceso a un PC desde fuera de la red del equipo
+
+- 
+ Preguntas más frecuentes sobre las conexiones de equipos remotos
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

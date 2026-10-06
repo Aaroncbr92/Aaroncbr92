@@ -1,0 +1,14 @@
+URL: https://csrc.nist.gov/glossary/term/intrusion_prevention_system
+Leído: 2026-10-05
+
+Definitions:
+A system that can detect an intrusive activity and also attempt to stop the activity, ideally before it reaches its targets.
+Sources:
+NIST SP 800-82r3
+under intrusion prevention system
+System which can detect an intrusive activity and can also attempt to stop the activity, ideally before it reaches its targets.
+Sources:
+NISTIR 7711
+under Intrusion Prevention System
+About
+See the identified Source document to understand each term-definition pair in its proper context.

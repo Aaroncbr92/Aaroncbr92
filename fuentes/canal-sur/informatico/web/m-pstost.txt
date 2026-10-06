@@ -1,0 +1,123 @@
+URL: https://support.microsoft.com/es-es/office/introducci%C3%B3n-a-archivos-de-datos-de-outlook-pst-y-ost-222eaf92-a995-45d9-bde2-f331f60e2790
+Leído: 2026-10-05
+
+# Abrir y buscar elementos en un archivo de datos de Outlook (.pst)
+
+ Se aplica a
+Outlook para Microsoft 365 Outlook 2024 Outlook 2021 Outlook 2019 Outlook 2016 Nuevo Outlook para Windows 
+
+Los Outlook Data Files (.pst), o archivos de tablas de almacenamiento personal, contienen mensajes de usuario de Outlook y otros elementos de Outlook, como contactos, citas, tareas, notas y entradas de diario. También puede usar un archivo de datos de Outlook para hacer una copia de seguridad de mensajes o almacenar elementos antiguos localmente en su equipo para mantener reducido el tamaño del buzón.
+
+Actualmente, ofrecemos diferentes niveles de compatibilidad para Outlook Data Files, en función de la versión de Outlook que use. Para determinar qué versión de Outlook está usando, busque la palabra Outlook en la barra de aplicaciones superior. Si solo ve el icono de Outlook, está usando Outlook clásico. Si el nombre del producto está junto al icono de Outlook, está usando el nuevo Outlook.
+
+- 
+
+ Nuevo Outlook
+
+- 
+
+ Outlook clásico
+
+## Compatibilidad con archivos de datos de Outlook (.pst) en el nuevo Outlook
+
+Puede mover, copiar y eliminar correos electrónicos y carpetas en el archivo .pst. También puede arrastrar y colocar correos electrónicos entre el buzón y los archivos .pst. La actualización más reciente ahora incluye la capacidad de exportar correos electrónicos, calendarios, contactos y tareas desde un buzón a un archivo .pst.
+
+Tenemos previsto lanzar la compatibilidad para la importación masiva de Correo, Calendario y Contactos desde un PST a un buzón. También eliminaremos el requisito de que los usuarios tengan Outlook clásico instalado para usar PST en el nuevo Outlook. Después de eso, no tenemos más inversiones planeadas.
+
+Para obtener más información, vea: Exportar correos electrónicos, contactos y elementos de calendario a Outlook con un archivo .pst.
+
+### Abrir un archivo de datos de Outlook (.pst) en el nuevo Outlook
+
+Puede abrir archivos .pst, leer correos electrónicos en archivos .pst y buscar correos electrónicos en archivos .pst.
+
+- Para abrir un archivo de datos de Outlook (.pst), vaya a SettingsFilesOutlook>>Data Files.
+
+- Seleccione Agregar archivo.
+
+- Seleccione un archivo .pst y, a continuación, seleccione Abrir.
+
+## Requisitos
+
+Para abrir archivos .pst en el nuevo Outlook, tenga en cuenta los siguientes requisitos:
+
+- 
+Abrir archivos .pst en el nuevo Outlook requiere que también se instale Outlook clásico. Ambas versiones deben tener la misma arquitectura: 32 bits (x86) o 64 bits (x64).
+
+- 
+ Instalar Outlook clásico para Windows
+
+- 
+ Instalar el nuevo Outlook de 32 bits (x86)
+
+ | Si tiene...
+
+ | Necesitas...
+
+ | Máquina de 64 bits
+
+ | Outlook clásico de 64 bits y Outlook nuevo de 64 bits
+
+ | Máquina de 32 bits
+
+ | Outlook clásico de 32 bits y Outlook nuevo de 32 bits
+
+Importante
+
+Antes de instalar una versión diferente de Outlook, 32 bits (x86) o 64 bits (x64), asegúrese de desinstalar la versión anterior. Más información en Elija entre la versión de 64 bits o de 32 bits de Office.
+
+Nota
+
+La nueva aplicación de Outlook para Windows se actualiza automáticamente a la versión que coincide con la arquitectura del equipo (32 bits o 64 bits). Obtenga más información en Administrar actualizaciones en el nuevo Outlook para Windows.
+
+- 
+La cuenta que usa en el nuevo Outlook debe tener una suscripción a Microsoft 365.
+
+- Si la suscripción proviene de una cuenta de Microsoft con una dirección de correo electrónico de terceros, como Gmail o Yahoo, consulte Conectar una suscripción comprada con una cuenta de Microsoft a Outlook.
+
+- 
+Outlook Data Files (.pst) no es compatible con la versión ARM del nuevo Outlook.
+
+- 
+El nuevo Outlook no puede estar en modo seguro ni de recuperación.
+
+## Abrir un archivo de datos de Outlook (.pst) en Outlook clásico
+
+Si usa una cuenta POP o IMAP, toda la información de Outlook se almacenan en un archivo de datos de Outlook, también conocido como un archivo de tabla de almacenamiento personal (.pst).
+
+De forma predeterminada, al usar las herramientas de búsqueda de Outlook clásico, este solo busca en el buzón actual. A menos que cambie el ámbito de búsqueda a todos los buzones no se buscarán archivos de datos de Outlook adicionales almacenados en el equipo.
+
+También es posible tener un archivo de datos de Outlook si elige Autoarchivar con su cuenta de correo electrónico de Exchange server. Esta es una característica diferente que el botón de archivar en Outlook 2016. Para obtener más información, vea Archivar en Outlook 2016. Para ver la ubicación y la configuración de Autoarchivar e instrucciones para desactivar Autoarchivar, vea Archivar elementos antiguos automáticamente.
+
+## Abrir un archivo de datos de Outlook en Outlook clásico
+
+Para que Outlook pueda buscar una palabra, frase o remitente en un archivo de carpetas personales, el archivo debe estar abierto en Outlook.
+
+- En Outlook clásico, elija Abrir archivo>& Exportar>Abrir archivo de datos de Outlook.
+
+- Elija el archivo de datos de Outlook que desee abrir.
+
+- Expanda el nivel superior del archivo de datos de Outlook en el panel de navegación de Outlook para ver las subcarpetas del archivo. Haga clic en cada subcarpeta para ver el contenido.
+
+- Para buscar un correo electrónico específico, use las herramientas de búsqueda integrada de Outlook.
+
+- Si quiere importar los elementos archivados de nuevo a la Bandeja de entrada, siga las instrucciones para importar un archivo .pst.
+
+### Buscar el archivo .pst
+
+En Outlook 2016 y versiones más recientes, los nuevos archivos de datos de Outlook se guardan de forma predeterminada en las siguientes ubicaciones:
+
+- Unidad deWindows 10:\Usuarios\usuario\Documentos\Outlook Files\archivo.pst
+
+En versiones anteriores de Outlook: El archivo de almacenamiento se guarda en las siguientes ubicaciones:
+
+- Unidad deWindows 10:\Usuarios\usuario\AppData\Local\Microsoft\Outlook\archivo.pst
+
+## Temas relacionados
+
+ Cambiar a otro perfil de correo electrónico de Outlook
+
+ Crear un nuevo perfil de correo electrónico
+
+ Realizar copias de seguridad, restaurar o eliminar elementos con Autoarchivar
+
+ Archivar elementos manualmente

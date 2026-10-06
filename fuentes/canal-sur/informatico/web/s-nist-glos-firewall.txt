@@ -1,0 +1,15 @@
+URL: https://csrc.nist.gov/glossary/term/firewall
+Leído: 2026-10-05
+
+Definitions:
+A gateway that limits access between networks in accordance with local security policy.
+Sources:
+NIST SP 800-12 Rev. 1
+under Firewall
+NISTIR 7621 Rev. 1
+under Firewall
+An inter-network gateway that restricts data communication traffic to and from one of the connected networks (the one said to be “inside” the firewall) and thus protects that network’s system resources against threats from the other network (the one that is said to be “outside” the firewall).
+Sources:
+NIST SP 800-82r3
+under Firewall
+from

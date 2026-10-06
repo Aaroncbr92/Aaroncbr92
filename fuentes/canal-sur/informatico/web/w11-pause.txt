@@ -1,0 +1,92 @@
+URL: https://support.microsoft.com/es-es/windows/deployment/updates-lifecycle/pause-updates-in-windows
+Leído: 2026-10-05
+
+# Pausar actualizaciones en Windows
+
+ Se aplica a
+Windows 11 Windows 10 
+
+- 
+
+ Windows 11
+
+- 
+
+ Windows 10
+
+Windows ayuda a mantener el dispositivo seguro y confiable descargando e instalando actualizaciones automáticamente. Pero, ¿qué sucede si está de viaje, asiste a una conferencia, de vacaciones o desea evitar interrupciones durante una presentación o fecha límite importantes? Si necesitas más tiempo, puedes pausar las actualizaciones. 
+
+Con la experiencia de pausar actualizaciones más reciente, puedes elegir una fecha de finalización específica para la pausa y ampliarla cuando sea necesario. 
+
+## Pausar actualizaciones
+
+Para pausar las actualizaciones hasta una fecha específica:
+
+- Selecciona Inicio>Configuración>:Windows Update .
+
+- Selecciona Elegir una fecha en el control Pausar actualizaciones .
+
+Cuando pausas las actualizaciones, las retrasas temporalmente hasta la fecha que elijas. Esto no desactiva permanentemente las actualizaciones automáticas. Cuando reanudes las actualizaciones, Windows volverá a comprobar si hay actualizaciones, por lo que es posible que tengas que volver a descargarlas e instalarlas.
+
+- Las novedades que puedan requerir un reinicio no se descargarán ni instalarán hasta que finalice la pausa.
+
+- El dispositivo no se reiniciará automáticamente para finalizar la instalación de las actualizaciones hasta que finalice la pausa.
+
+- Una vez que finalice la pausa, el dispositivo buscará, descargará e instalará las últimas actualizaciones disponibles.
+
+- Si hay actualizaciones en curso al pausar las actualizaciones, esas actualizaciones se cancelarán.
+
+Puede pausar las actualizaciones hasta 35 días a partir de la fecha actual. El calendario solo le permite seleccionar fechas dentro del período de pausa admitido, por lo que no podrá seleccionar fechas en meses futuros si faltan más de 35 días. 
+
+Puede reanudar las actualizaciones manualmente en cualquier momento. Al reanudar las actualizaciones, el dispositivo comprueba si hay actualizaciones y, a continuación, descarga e instala las últimas actualizaciones disponibles.
+
+## Extender la pausa de actualización
+
+Si las actualizaciones ya están en pausa y necesitas más tiempo, puedes ampliar la pausa. Para ampliar:
+
+- Selecciona Inicio>Configuración>:Windows Update .
+
+- Selecciona una nueva fecha de finalización en el calendario Pausar actualizaciones .
+
+Al extender una pausa: 
+
+- La nueva fecha de finalización puede tardar hasta 35 días a partir de hoy (no se agrega el tiempo previamente pausado).
+
+- El calendario solo permite fechas dentro del período de pausa admitido, por lo que es posible que algunas fechas de meses futuros no estén disponibles.
+
+Puedes volver a ampliar una pausa más adelante, siempre y cuando la nueva fecha de finalización esté dentro de los 35 días siguientes a la fecha actual.
+
+Siempre puedes volver a ampliar la pausa más tarde, siguiendo el mismo límite de 35 días. 
+
+Si no hace nada, las actualizaciones se reanudarán automáticamente cuando expire la pausa para ayudar a mantener su dispositivo seguro y confiable.
+
+Nota
+
+ El soporte técnico para Windows 10 finalizó el 14 de octubre de 2025
+
+- Después del 14 de octubre de 2025, Microsoft ya no proporcionará actualizaciones de software gratuitas desde Windows Update, asistencia técnica ni correcciones de seguridad para Windows 10. El PC seguirá funcionando, pero recomendamos que se cambie a Windows 11.
+
+- 
+ Más información
+
+Windows ayuda a mantener el dispositivo seguro y confiable descargando e instalando actualizaciones automáticamente. Pero, ¿qué sucede si está de viaje, asiste a una conferencia, de vacaciones o desea evitar interrupciones durante una presentación o fecha límite importantes? Si necesitas más tiempo, puedes pausar las actualizaciones. 
+
+Con la experiencia de pausar actualizaciones más reciente, puedes elegir una fecha de finalización específica para la pausa y ampliarla cuando sea necesario.
+
+## Pausar actualizaciones
+
+En Windows 10, si no está listo para obtener las actualizaciones recomendadas, puede pausar la descarga e instalación de la actualización. En Windows 10, versión 1903 (o posterior), Windows 10 Pro, versión 1809 o Windows 10 Enterprise, versión 1809:
+
+- Selecciona Inicio>, Configuración>,Actualización & Seguridad>Windows Update .
+
+- Selecciona si prefieres Pausar actualizaciones de 7 días u Opciones avanzadas. A continuación, en la sección Pausar actualizaciones , selecciona el menú desplegable y especifica una fecha de reanudación de las actualizaciones.
+
+Cuando se pausan las actualizaciones:
+
+- Windows no descarga ni instala nuevas actualizaciones.
+
+- Las novedades que requieran reinicio se posponen.
+
+- El dispositivo no se reinicia automáticamente para completar la instalación de la actualización.
+
+Pausar actualizaciones no desactiva permanentemente las actualizaciones automáticas. Las novedades se reanudan automáticamente en la fecha seleccionada.

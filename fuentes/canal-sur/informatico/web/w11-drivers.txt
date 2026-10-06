@@ -1,0 +1,215 @@
+URL: https://support.microsoft.com/es-es/windows/update-drivers-through-device-manager-in-windows-ec62f46c-ff14-c91d-eead-d7126dc1f7b6
+Leído: 2026-10-05
+
+# 
+
+ Se aplica a
+Windows 11 Windows 10 
+
+Sugerencia: La mejor manera de obtener actualizaciones de controladores en Windows es usar automáticamente Windows Update. Para obtener más información, consulta Obtener automáticamente actualizaciones y controladores recomendados para el hardware.
+
+Las actualizaciones de controladores para la mayoría de los dispositivos de hardware de Windows se descargan e instalan automáticamente a través de Windows Update. Windows Update actualiza los controladores de diversos hardware, incluidos adaptadores de red, impresoras, escáneres y tarjetas de vídeo. Los controladores actualizados a través de Windows Update suelen ser recientes y actualizados.
+
+Sin embargo, los controladores también se pueden actualizar a través de Administrador de dispositivos. Los controladores actualizados a través de Administrador de dispositivos se pueden realizar de forma automática o manual. Si es necesario, los controladores también se pueden reinstalar a través de Administrador de dispositivos. Para actualizar o reinstalar un controlador a través de Administrador de dispositivos en Windows, mira el vídeo o selecciona la tarea deseada en la siguiente lista:
+
+¿Tiene problemas para reproducir este vídeo? Véalo en YouTube.
+
+## 
+
+- 
+
+Guarda todo el trabajo y cierra todas las aplicaciones.
+
+- 
+
+Haz clic con el botón derecho en el menú Inicio y, a continuación, selecciona Administrador de dispositivos.
+
+- 
+
+En la ventana Administrador de dispositivos que se abre, seleccione la flecha situada junto a la categoría de dispositivo deseada para expandir la categoría. Al seleccionar la flecha situada junto a la categoría, se expande la categoría. Por ejemplo, para reinstalar el controlador de un adaptador de pantalla, selecciona la flecha situada junto a Adaptadores de pantalla.
+
+- 
+
+Es posible que varios dispositivos aparezcan en la categoría seleccionada después de expandirla. Determina cuál de los dispositivos necesita reinstalar el controlador.
+
+- 
+
+Haz clic con el botón derecho en el dispositivo deseado y selecciona Desinstalar dispositivo.
+
+- 
+
+En la ventana Desinstalar dispositivo que se abre, confirma la desinstalación del dispositivo seleccionando el botón Desinstalar .
+
+- 
+
+Reinicia el dispositivo Windows. Para ello, haz clic con el botón derecho en el menú Inicio y luego selecciona Apagar o cerrar sesión > Reiniciar.
+
+- 
+
+Una vez reiniciado el dispositivo Windows, Windows intenta reinstalar el controlador del dispositivo. Si el controlador no se reinstala, consulta una de las siguientes secciones de este artículo:
+
+- 
+
+ Actualiza el controlador de dispositivo automáticamente.
+
+- 
+
+ Actualiza manualmente el controlador de dispositivo.
+
+Nota: Es posible que algunos dispositivos, como las impresoras, deban reinstalarse manualmente. Para obtener más información, consulta Instalar una impresora en Windows.
+
+## 
+
+Importante: 
+
+- 
+
+Debes haber iniciado sesión con permisos de administrador para revertir los controladores.
+
+- 
+
+Si el problema se produjo después de un Windows Update, reinstalar el controlador anterior suele resolverlo.
+
+- 
+
+Haz clic con el botón derecho en el menú Inicio y, a continuación, selecciona Administrador de dispositivos.
+
+- 
+
+En la ventana Administrador de dispositivos que se abre, seleccione la flecha situada junto a la categoría de dispositivo deseada para expandir la categoría. Al seleccionar la flecha situada junto a la categoría, se expande la categoría. Por ejemplo, para actualizar el controlador de una impresora, selecciona la flecha situada junto a Impresoras .
+
+- 
+
+Es posible que varios dispositivos aparezcan en la categoría seleccionada después de expandirla. Determina cuál de los dispositivos necesita actualizar los controladores.
+
+- 
+
+Haz clic con el botón derecho en el dispositivo y selecciona Propiedades.
+
+- 
+
+Selecciona la pestaña Controlador .
+
+- 
+
+Selecciona Revertir al controlador anterior.
+
+- 
+
+Elige un motivo cuando se te solicite.
+
+- 
+
+ Haga clic en Sí para confirmar.
+
+- 
+
+Reinicie el dispositivo si se le solicita.
+
+## 
+
+- 
+
+Haz clic con el botón derecho en el menú Inicio y, a continuación, selecciona Administrador de dispositivos.
+
+- 
+
+En la ventana Administrador de dispositivos que se abre, seleccione la flecha situada junto a la categoría de dispositivo deseada para expandir la categoría. Al seleccionar la flecha situada junto a la categoría, se expande la categoría. Por ejemplo, para actualizar el controlador de una impresora, selecciona la flecha situada junto a Impresoras .
+
+- 
+
+Es posible que varios dispositivos aparezcan en la categoría seleccionada después de expandirla. Determina cuál de los dispositivos necesita actualizar los controladores.
+
+- 
+
+Haz clic con el botón derecho en el dispositivo deseado y selecciona Actualizar controlador.
+
+- 
+
+En la ventana Actualizar controladores que se abre, selecciona Buscar automáticamente software de controlador actualizado. Windows continúa con la búsqueda de controladores actualizados. Si encuentra alguno, instala los controladores actualizados.
+
+- 
+
+Si Windows no encuentra controladores actualizados, se pueden buscar controladores actualizados desde Windows Update seleccionando la opción Buscar controladores actualizados en Windows Update. A partir de ahí, sigue las instrucciones del artículo Obtener automáticamente actualizaciones y controladores recomendados para el hardware.
+
+- 
+
+Selecciona el botón Cerrar para cerrar la ventana Actualizar controladores .
+
+## 
+
+Este método se basa en que los controladores se descarguen primero desde el sitio web del fabricante de dispositivos.
+
+- 
+
+Descarga los controladores del dispositivo deseado desde el sitio del fabricante del dispositivo. Asegúrate de descargar los controladores correctos que coincidan con la versión y la arquitectura de Windows. Una vez descargado, si es necesario, descomprima los controladores descargados. Anota dónde se encuentran los controladores en el dispositivo Windows.
+
+- 
+
+Haz clic con el botón derecho en el menú Inicio y, a continuación, selecciona Administrador de dispositivos.
+
+- 
+
+En la ventana Administrador de dispositivos que se abre, seleccione la flecha situada junto a la categoría de dispositivo deseada para expandir la categoría. Al seleccionar la flecha situada junto a la categoría, se expande la categoría. Por ejemplo, para actualizar el controlador de una impresora, selecciona la flecha situada junto a Impresoras .
+
+- 
+
+Es posible que varios dispositivos aparezcan en la categoría seleccionada después de expandirla. Determina cuál de los dispositivos necesita actualizar los controladores.
+
+- 
+
+Haz clic con el botón derecho en el dispositivo deseado y selecciona Actualizar controlador.
+
+- 
+
+En la ventana Actualizar controladores que se abre, selecciona Buscar controladores en el equipo.
+
+- 
+
+En la ventana Buscar controladores en el equipo, selecciona el botón Examinar...
+
+- 
+
+En la ventana Buscar carpeta , busca la ubicación donde se descargaron los controladores y, a continuación, selecciona el botón Aceptar .
+
+- 
+
+En la ventana Buscar controladores en el equipo , asegúrate de que la ruta de acceso a los controladores sea correcta y, a continuación, selecciona el botón Siguiente .
+
+- 
+
+Windows procede a instalar los controladores si descubre que los controladores son versiones actualizadas de los controladores. Si los controladores actualizados ya están instalados, se muestra el mensaje Los mejores controladores para el dispositivo ya están instalados .
+
+- 
+
+Selecciona el botón Cerrar para cerrar la ventana Actualizar controladores .
+
+## Ponte en contacto con el fabricante del dispositivo
+
+Si no puedes actualizar el controlador siguiendo los pasos anteriores, ponte en contacto con el fabricante del dispositivo para obtener el controlador compatible más reciente o soporte técnico adicional. Evita descargar controladores de cualquier sitio web que no sea el sitio oficial del fabricante.
+
+ SUSCRIBIRSE A FUENTES RSS
+
+### ¿Necesita más ayuda?
+
+### ¿Quiere más opciones?
+
+Explore las ventajas de las suscripciones, examine los cursos de aprendizaje, aprenda a proteger su dispositivo y mucho más.
+
+Ventajas de la suscripción de Microsoft 365
+
+Aprendizaje de Microsoft 365
+
+Seguridad de Microsoft
+
+Centro de accesibilidad
+
+ Las comunidades le ayudan a formular y responder preguntas, enviar comentarios y leer a expertos con conocimientos extensos.
+
+Pregunte en Microsoft Community
+
+Microsoft Tech Community
+
+Windows Insiders
+
+Microsoft 365 Insiders

@@ -1,0 +1,39 @@
+URL: https://www.utm.mx/~merg/AC/2009/2.4-Programas_evaluacion_rendimiento.html
+Leído: 2026-10-05
+
+﻿
+
+Arquitectura de Computadoras
+
+ Preguntas:
+Moisés E. Ramírez G. | 
+UTM | 
+
+2.4 Programas para la evaluación del rendimiento
+
+Un usuario de computadoras que ejecuta los mismos programas día tras día debería ser el candidato perfecto para evaluar una nueva computadora. Para evaluar un nuevo sistema simplemente compararía el tiempo de ejecución de su carga de trabajo (workload) - la mezcla de programas y órdenes del sistema operativo que los usuarios corren en una máquina. Sin embargo, pocos están en esta feliz situación. La mayoría debe confiar en otros métodos, para evaluar las máquinas, y, con frecuencia, en otros evaluadores, esperando que estos métodos predigan el rendimiento de la nueva máquina.
+
+Hay cinco niveles de programas utilizados para evaluar el rendimiento de computadoras. 
+
+ Programas reales (Real programs) - Ejemplos son compiladores de C, software de tratamiento de textos como Word y otras herramientas como Photoshop. 
+
+ Programas modificados (o scripted) - Los programas reales modificados por una de dos razones primarias: para mejorar la portabilidad o para centrarse en un aspecto particular del funcionamiento del sistema. Por ejemplo, crear un benchmark orientada a CPU, las E/S se pueden quitar para reducir al mínimo su impacto al tiempo de ejecución. 
+
+ «Núcleos» (Kernels) - Se han hecho algunos intentos para extraer pequeñas piezas clave de programas reales y utilizarlas para evaluar el rendimiento. «Livermore Loops» y «Linpack» son los ejemplos mejor conocidos. 
+
+ Benchmarks reducidos (Toy benchmarks) - Los benchmarks reducidos, normalmente, tienen entre 10 y 100 líneas de código y producen un resultado que el usuario conoce antes de ejecutarlos. Los ejemplos: “Criba de Eratóstenes”, “Puzzle”, “Clasificación Rápida” (Quicksort). 
+
+ Benchmarks Sintéticos - Análogos en filosofía a los «núcleos», diferencia es que los «núcleos» se extraen de programas reales, mientras que los benchmarks sintéticos se crean artificialmente. Ejemplos: “Whetstone” (procesamiento de números de punto flotante) y “Dhrystone” (procesamiento de números enteros). 
+
+Los kernel benchmarks son pequeñas partes de código que se usan de manera intensiva en programas reales. Livermore Loops consta de 21 fragmentos de bucles pequeños. Linpack contiene rutinas de algebra lineal.
+
+Los núcleos son utilizados para aislar la medición del rendimiento de características específicas de una arquitectura y de esta forma poder explicar la diferencia de rendimiento con respecto a las aplicaciones reales. Además los programas científicos ejecutan la mayor parte del tiempo pequeños pedazos de código, por lo tanto para el mundo científico este es el modo de caracterización más usado.
+
+Whetstone fue creado para medir el rendimiento de programas científicos escritos en Algol 60. Este programa se reescribio en Fortran de ahí se empezó a usar para caracterizar el rendimiento de arquitecturas para programas científicos. El rendimiento se mide en Whetstones por segundo. 
+
+Más información:
+
+ Standard Performance Evaluation Corporation 
+
+UTM © 2009 (merg)
+

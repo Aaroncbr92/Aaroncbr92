@@ -1,0 +1,149 @@
+URL: https://learn.microsoft.com/en-us/windows-hardware/drivers/install/cm-prob-failed-post-start
+Leído: 2026-10-05
+
+ 
+
+ CM_PROB_FAILED_POST_START - Windows drivers | Microsoft Learn
+
+ Skip to main content
+
+ Skip to Ask Learn chat experience
+
+This browser is no longer supported.
+
+ Upgrade to Microsoft Edge to take advantage of the latest features, security updates, and technical support.
+
+ Download Microsoft Edge
+
+ More info about Internet Explorer and Microsoft Edge
+
+ Table of contents 
+
+ Exit editor mode
+
+ Ask Learn
+
+ Ask Learn
+
+ Reading mode
+
+ Table of contents
+
+ Read in English
+
+ Add
+
+ Add to Plans
+
+ Edit
+
+ Copy Markdown
+
+ Print
+
+ Note
+
+ Access to this page requires authorization. You can try signing in or changing directories.
+
+ Access to this page requires authorization. You can try changing directories.
+
+Code 43 - CM_PROB_FAILED_POST_START
+
+ Feedback
+
+ Summarize this article for me
+
+ In this article
+
+This Device Manager error message indicates that a driver has reported a device failure.
+
+Error Code
+
+43
+
+Display Message
+
+"Windows has stopped this device because it has reported problems. (Code 43)"
+
+Recommended Resolution
+
+Uninstall and reinstall the device.
+
+One of the drivers controlling the device told the operating system the device failed in some manner in response to IRP_MN_QUERY_PNP_DEVICE_STATE.
+
+For driver developers
+
+A driver invalidated the device state of the device and in the resulting query device state the device stack reported PNP_DEVICE_FAILED.
+
+If the driver is a WDF driver, the reporting of the device as failed may be indirectly caused by the WDF driver calling WdfDeviceSetFailed or returning an error from a WDF callback. For more info, see Reporting Device Failures.
+
+Feedback
+
+ Was this page helpful?
+
+ Yes
+
+ No
+
+ No
+
+ Need help with this topic?
+
+ Want to try using Ask Learn to clarify or guide you through this topic?
+
+ Ask Learn
+
+ Ask Learn
+
+ Suggest a fix? 
+
+ Additional resources
+
+ Last updated on 
+ 2021-12-15
+
+In this article
+
+ Was this page helpful?
+
+ Need help with this topic?
+
+ Want to try using Ask Learn to clarify or guide you through this topic?
+
+ Ask Learn
+
+ Ask Learn
+
+ Suggest a fix? 
+
+ en-us
+
+ Your Privacy Choices
+
+ Theme
+
+ Light 
+
+ Dark 
+
+ High contrast 
+
+ AI Disclaimer
+
+ Previous Versions
+
+ Blog
+
+ Contribute
+
+ Privacy
+
+ Consumer Health Privacy
+
+ Terms of Use
+
+ Trademarks
+
+© Microsoft 2026
+
+ 

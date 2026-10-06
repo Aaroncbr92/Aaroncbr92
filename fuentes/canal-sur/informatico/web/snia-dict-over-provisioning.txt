@@ -1,0 +1,351 @@
+URL: https://www.snia.org/education/online-dictionary/term/over-provisioning
+Leído: 2026-10-05
+
+
+
+ over provisioning | SNIA | Experts on Data
+
+ Skip to main content
+
+Login
+
+Join SNIA
+
+Main navigation
+
+ About
+
+ Mission and Vision
+
+ History of SNIA
+
+ Organization
+
+ Board of Directors
+
+ Technical Council
+
+ SNIA Staff
+
+ SNIA Alliance Program
+
+ CXL™ Consortium
+
+ DMTF
+
+ DMTF / NVMe Alliance
+
+ Fibre Channel Industry Association (FCIA)
+
+ JEDEC
+
+ NVM Express
+
+ Open Compute Project
+
+ OpenFabrics Alliance
+
+ SODA Foundation
+
+ The Green Grid
+
+ PCI-SIG
+
+ Trusted Computing Group
+
+ Ultra Ethernet Consortium
+
+ SNIA International
+
+ SNIA India
+
+ SNIA Japan
+
+ Corporate Information
+
+ Annual Reports
+
+ IP Policy
+
+ Cookies Policy
+
+ Copyright Information
+
+ Privacy Policy
+
+ Procurement Policy Statement
+
+ SNIA-Observed Holidays
+
+ Logos & Templates
+
+ Contact Us
+
+ Data Focus Areas
+
+ Technical Work
+
+ Technical Work Groups
+
+ Technical Specifications
+
+ Open for Public Review 
+
+ Standards and Software
+
+ Cloud Data Management Interface (CDMI™)
+
+ SNIA Emerald™ Power Efficiency Measurement Specification​
+
+ I/O Traces,Tools & Analysis Repository​
+
+ Real World Storage Workload (RWSW)
+
+ Smart Data Accelerator Interface (SDXI) Specification​ 
+
+ Solid State Storage (SSS) Performance Test Specification (PTS)​
+
+ Swordfish Scalable Storage Management API Specification​
+
+ TLS Specification for Storage Systems​
+
+ XAM Software Development Kit (XAM SDK)​
+
+ Completed Standards
+
+ Common RAID Disk Data Format (DDF)​
+
+ IP-Based Drive Management Specification
+
+ iSCSI Management API (IMA)​
+
+ Linear Tape File System (LTFS) Format Specification​
+
+ Multipath Management API (MMA)​
+
+ NVM Programming Model​
+
+ Self-contained Information Retention Format (SIRF) Specification​
+
+ Storage Management Initiative Specification (SMI-S)​
+
+ eXtensible Access Method (XAM)​
+
+ NDMP V4
+
+ Technical White papers
+
+ Connect with SNIA TC
+
+ SNIA Open Source Liaison​
+
+ SNIA Contributor Agreement for Non-Members​
+
+ Submit Feedback​
+
+ Resources
+
+ Educational Library
+
+ Videos
+
+ Podcasts
+
+ Blogs
+
+ SNIA Dictionary
+
+ What Is…?
+
+ Membership
+
+ Join SNIA
+
+ Membership Benefits
+
+ How to Get Involved
+
+ Volunteer Recognition
+
+ Hall of Fame
+
+ SNIA Member Recognition Program
+
+ FAQ
+
+ Full Member Directory
+
+ Platinum Members
+
+ Groups
+
+ Overview
+
+ Start a New Group
+
+ Cloud Storage Technologies
+
+ Knowledge Center
+
+ Compute, Memory, and Storage
+
+ Knowledge Center
+
+ Compute, Memory, and Storage Initiative Committees and SIGs
+
+ Computational Storage
+
+ Computational Storage Use Cases
+
+ Computational Storage Technical Work Group
+
+ Persistent Memory 
+
+ Persistent Memory Programming Workshop & Hackathon Program
+
+ Persistent Memory Special Interest Group
+
+ Smart Data Accelerator Interface Technical Work
+
+ Persistent Memory Special Interest Group
+
+ Solid State Storage
+
+ Solid State Drive Special Interest Group (SSD SIG)
+
+ Endurance of NVMe, SAS, and SATA SSDs
+
+ SSD Form Factors
+
+ NVMe SSD Classification
+
+ Total Cost of Ownership (TCO) Model for Storage
+
+ Media Sanitization 
+
+ Real World Workloads
+
+ Reference Real World Workloads
+
+ Reference Test Platform
+
+ Solid State Storage Technical Work Group
+
+ SNIA SSS Performance Test Specification (PTS) Testing Service
+
+ Understanding SSD Performance Project
+
+ MRAM Alliance SIG
+
+ Data, Storage & Networking
+
+ Knowledge Center
+
+ DNA Data Storage
+
+ Green Storage
+
+ STA: SCSI Trade Association
+
+ SFF
+
+ SFF IP Disclosures
+
+ SFF Specifications
+
+ StorageAI
+
+ Storage Management
+
+ SM Lab Program
+
+ Swordfish
+
+ Swordfish CTP
+
+ Swordfish CTP Results
+
+ Events
+
+ Overview
+
+ Webinars
+
+ Event Calendar
+
+ SDC US
+
+ SNIA Preview
+
+ SDC: StorageAI
+
+ Newsroom
+
+ Overview
+
+ Press Releases
+
+ Media Coverage
+
+ Newsletters
+
+ SNIA Matters Archive
+
+ Press Center
+
+ SNIA Logos
+
+ Clip Art Library
+
+over provisioning
+
+ [Storage System]
+
+ [Management]
+
+Purposely providing more capacity than advertised.
+
+The over provisioned capacity is used to replace capacity that is no longer useable (e.g., due to media defects or wear out).   The over provisioned capacity is reserved for controller use, is not addressable by the user, and is used to improve performance and device life.
+
+ Back to Dictionary
+ Print PDF
+
+SNIA 
+SNIA: Experts on Data 
+SNIA develops and promotes architectures, standards, and education through vendor-neutral collaboration of experts on data technologies that lead the industry worldwide. Become a member today!
+
+Join SNIA
+
+Discover SNIA
+
+Discover SNIA
+
+ About
+
+ Technical Work
+
+ Education
+
+ Data Focus Areas
+
+ News & Events
+
+ Resources
+
+ Membership
+
+Snia Blogs
+
+SNIA Blog
+
+ SNIA: Experts on Data Blog
+
+SNIA Socials
+
+ Site Map
+ Contact Us
+ Privacy Policy
+ Chat provider: LiveChat
+
+ Copyright © 2024 SNIA
+

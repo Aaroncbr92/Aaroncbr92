@@ -1,0 +1,382 @@
+URL: https://beta.computer-networking.info/syllabus/default/index.html
+Leído: 2026-10-05
+
+Toggle navigation
+
+ Contents
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Computer Networking : Principles, Protocols and Practice, third edition
+
+## Contents 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Computer Networking : Principles, Protocols and Practice, third edition¶
+
+- Preface
+
+# Part 1: Principles¶
+
+- Connecting two hosts
+
+- The physical layer
+
+- The datalink layer
+
+- Framing
+
+- Recovering from transmission errors
+
+- Reliable data transfer on top of an imperfect link
+
+- Go-back-n and selective repeat
+
+- Building a network
+
+- The datagram organization
+
+- Computing forwarding tables
+
+- Flat or hierarchical addresses
+
+- Dealing with heterogeneous datalink layers
+
+- Virtual circuit organization
+
+- The control plane
+
+- Distance vector routing
+
+- Link state routing
+
+- Applications
+
+- The transport layer
+
+- Transport layer services
+
+- The connectionless service
+
+- The connection-oriented service
+
+- The request-response service
+
+- The transport layer
+
+- Connectionless transport
+
+- Connection establishment
+
+- Data transfer
+
+- Connection release
+
+- Naming and addressing
+
+- Benefits of names
+
+- Sharing resources
+
+- Sharing bandwidth
+
+- Network congestion
+
+- Distributing the load across the network
+
+- Medium Access Control algorithms
+
+- Static allocation methods
+
+- ALOHA
+
+- Carrier Sense Multiple Access
+
+- Carrier Sense Multiple Access with Collision Detection
+
+- Carrier Sense Multiple Access with Collision Avoidance
+
+- Deterministic Medium Access Control algorithms
+
+- Congestion control
+
+- Congestion control with a window-based transport protocol
+
+- The reference models
+
+- The five layers reference model
+
+- The Physical layer
+
+- The Datalink layer
+
+- The Network layer
+
+- The Transport layer
+
+- The Application layer
+
+- Reference models
+
+- The TCP/IP reference model
+
+- The OSI reference model
+
+- Network security
+
+- Threats
+
+- Cryptographic primitives
+
+- Cryptographic protocols
+
+- Key exchange
+
+# Part 2: Protocols¶
+
+- The application layer
+
+- The Domain Name System
+
+- Electronic mail
+
+- The Simple Mail Transfer Protocol
+
+- The Post Office Protocol
+
+- The HyperText Transfer Protocol
+
+- Making HTTP faster
+
+- Remote Procedure Calls
+
+- Encoding data
+
+- Reaching the callee
+
+- Remote login
+
+- The secure shell (ssh)
+
+- Transport Layer Security
+
+- The TLS handshake
+
+- The TLS record protocol
+
+- Improving TLS
+
+- Securing the Domain Name System
+
+- Internet transport protocols
+
+- The User Datagram Protocol
+
+- The Transmission Control Protocol
+
+- TCP connection establishment
+
+- TCP reliable data transfer
+
+- Segment transmission strategies
+
+- TCP windows
+
+- TCP’s retransmission timeout
+
+- Advanced retransmission strategies
+
+- TCP connection release
+
+- Congestion control
+
+- Controlling congestion without losing data
+
+- Modeling TCP congestion control
+
+- The network layer
+
+- IP version 6
+
+- IPv6 addressing architecture
+
+- IPv6 packet format
+
+- ICMP version 6
+
+- The IPv6 subnet
+
+- Interactions between IPv6 and the datalink layer
+
+- Routing in IP networks
+
+- Intradomain routing
+
+- RIP
+
+- OSPF
+
+- Interdomain routing
+
+- The Border Gateway Protocol
+
+- The BGP decision process
+
+- BGP convergence
+
+- Datalink layer technologies
+
+- The Point-to-Point Protocol
+
+- Ethernet
+
+- Ethernet Switches
+
+- The Spanning Tree Protocol (802.1d)
+
+- Virtual LANs
+
+- 802.11 wireless networks
+
+# Part 3: Practice¶
+
+- Exercises
+
+- Reliable transfer
+
+- Open questions
+
+- Practice
+
+- Discussion questions
+
+- Using sockets for inter-process communication
+
+- Sending data to a peer using a socket
+
+- Receiving data from a peer using a socket
+
+- `connect`: connecting a socket to a remote address
+
+- Creating a new socket to communicate through a network
+
+- Sending a message to a remote peer using its IPv6 address
+
+- Endianness: exchanging integers between different computers
+
+- Exercises
+
+- Building a network
+
+- Multiple-choice questions
+
+- Open questions
+
+- Discussion questions
+
+- Serving applications
+
+- Multiple choices questions
+
+- Open questions
+
+- Practice
+
+- Discussion questions
+
+- Sharing resources
+
+- Medium Access Control
+
+- Fairness and congestion control
+
+- Discussion questions
+
+- Application layer
+
+- The DNS
+
+- Internet email protocols
+
+- The HyperText Transfer Protocol
+
+- TLS and ssh
+
+- Analyzing packet traces
+
+- TCP basics
+
+- A closer look at TCP
+
+- Injecting segments in the Linux TCP stack
+
+- Open questions
+
+- IPv6 Networks
+
+- Basic questions on IPv6 Networks
+
+- Design questions
+
+- Configuring IPv6 Networks
+
+- IPv6 packets
+
+- Inter-domain routing
+
+- Exercises
+
+- Exploring routing protocols
+
+- Exploring OSPF
+
+- Exploring RIP
+
+- Exploring BGP
+
+- Exercises
+
+- Local Area Networks: The Spanning Tree Protocol and Virtual LANs
+
+- Exercises
+
+- Testing the Spanning Tree with IPMininet
+
+# Appendices¶
+
+- Glossary
+
+- Bibliography
+
+## Indices and tables¶
+
+- 
+Index
+
+- 
+Search Page
+
+next
+
+Preface

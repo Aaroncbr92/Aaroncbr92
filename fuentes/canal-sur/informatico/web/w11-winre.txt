@@ -1,0 +1,376 @@
+URL: https://learn.microsoft.com/es-es/windows-hardware/manufacture/desktop/windows-recovery-environment--windows-re--technical-reference
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Entorno de recuperación de Windows (Windows RE)
+
+## 
+
+Windows Entorno de recuperación (WinRE) es un entorno de recuperación que puede reparar las causas comunes de los sistemas operativos que no se pueden arrancar. WinRE se basa en el Entorno de preinstalación de Windows (Windows PE) y se puede personalizar con controladores adicionales, idiomas adicionales, componentes opcionales de Windows PE y otras herramientas de solución de problemas y diagnóstico. De forma predeterminada, WinRE viene preinstalado en Windows 10 y Windows 11 para las ediciones de escritorio (Home, Pro, Enterprise y Education), así como en las instalaciones de Windows Server 2016 y versiones posteriores.
+
+## Novedades de WinRE para Windows 11
+
+- Ahora puedes ejecutar la mayoría de las herramientas en WinRE sin seleccionar una cuenta de administrador ni escribir la contraseña. Cuando se inicia en el entorno de recuperación, los archivos cifrados no serán accesibles a menos que el usuario tenga la clave para descifrar el volumen.
+
+- Hemos actualizado el comportamiento del inicio avanzado (configuración > Update & Security > Recovery > Inicio avanzado "Reiniciar ahora") para que las características de facilidad de acceso funcionen en el entorno de recuperación. Por ejemplo, anteriormente, si activabas la función Narrador antes de iniciar el arranque avanzado, no se activaba al reiniciar (y no se podía habilitar). Ahora, el inicio avanzado se inicia directamente en el entorno de recuperación de Windows, donde un usuario puede activar las características de facilidad de acceso mediante un método abreviado de teclado.
+
+## Novedades de WinRE para Windows 10
+
+- De forma predeterminada, si instalas Windows con medios creados a partir de Windows Diseñador de imágenes y configuraciones (ICD), obtendrás una partición dedicada de herramientas winRE en dispositivos basados en UEFI y BIOS, ubicados inmediatamente después de la partición de Windows. Esto permite Windows reemplazar y cambiar el tamaño de la partición según sea necesario. (Si instala Windows mediante el programa de instalación de Windows, obtendrá el mismo diseño de partición que hizo en Windows 8.1).
+
+- Si agregas una herramienta personalizada al menú de inicio de WinRE Advanced, solo puede usar componentes opcionales que ya estén en las herramientas de WinRE predeterminadas. Por ejemplo, si tiene una aplicación de Windows 8 que dependía de los componentes opcionales de .NET, deberá volver a escribir la aplicación para Windows 10.
+
+- Si agregas una herramienta personalizada al menú de inicio de WinRE Advanced, debe colocarse en la carpeta \Sources\Recovery\Tools para que pueda seguir funcionando después de futuras actualizaciones de WinRE.
+
+- Al agregar idiomas a las herramientas de restablecimiento de botón de inserción, ahora tendrás que agregar el componente opcional WinPE-HTA.
+
+## Herramientas
+
+WinRE incluye estas herramientas:
+
+- 
+ Reparación automática y otras herramientas de solución de problemas. Para obtener más información, consulta Funciones de solución de problemas de Windows RE.
+
+- 
+ Restauración a un momento dado: los usuarios pueden restaurar rápidamente su equipo Windows al estado exacto, en el que estaba en un momento dado anterior, mediante puntos de restauración almacenados localmente. Para obtener más información, consulta Restauración a un punto en el tiempo para Windows. Si la restauración a un momento concreto no está disponible o si necesitas remontarte más allá de 3 días, puedes activar Restaurar sistema. La restauración del sistema revierte los archivos y la configuración del sistema (pero no los archivos personales). Está disponible tanto en Windows 10 como en Windows 11.
+
+- 
+ Restablecimiento mediante botón (solo para las ediciones de escritorio de Windows). Los usuarios pueden reparar sus propios equipos rápidamente, a la vez que conservan sus datos y personalizaciones importantes, sin tener que realizar copias de seguridad de los datos de antemano. Para obtener más información, consulte Información general sobre el restablecimiento de botón de inserción.
+
+- 
+ Recuperación de imágenes del sistema (solo Windows Server ediciones). Esta herramienta restaura todo el disco duro. Para obtener más información, consulta Recuperar el sistema operativo o el servidor completo.
+
+Además, puede crear su propia solución de recuperación personalizada mediante la API de creación de imágenes de Windows o mediante la API de administración y mantenimiento de imágenes de implementación (DISM).
+
+## Puntos de entrada en WinRE
+
+Los usuarios pueden acceder a las características de WinRE a través del menú Inicio avanzado, que se puede iniciar desde Windows de varias maneras diferentes:
+
+- En la pantalla de inicio de sesión, haga clic en Apagar y mantenga presionada la tecla Mayús mientras selecciona Reiniciar.
+
+- Haga clic en Iniciar>configuración>Actualizar y recuperación de seguridad>> en Inicio avanzado, haga clic en Reiniciar ahora.
+
+- Arranque en medios de recuperación.
+
+- Use un botón de recuperación de hardware (o combinación de botones) configurado por el fabricante del equipo original (OEM).
+
+Después de realizar cualquiera de estas acciones, se cierran todas las sesiones de usuario y se muestra el menú Inicio avanzado. Si los usuarios seleccionan una característica winRE en este menú, el equipo se reinicia en WinRE y se inicia la característica seleccionada.
+
+WinRE se inicia automáticamente después de detectar los siguientes problemas:
+
+- Dos intentos fallidos consecutivos de iniciar Windows.
+
+- Dos apagados inesperados consecutivos que se producen en un plazo de dos minutos después de la finalización del arranque.
+
+- Dos reinicios consecutivos del sistema en un plazo de dos minutos después de la finalización del arranque.
+
+- Error de arranque seguro (excepto los problemas relacionados con Bootmgr.efi).
+
+- Un error de BitLocker en dispositivos solo táctiles.
+
+### Menú inicio avanzado
+
+Los usuarios pueden realizar estas acciones en el menú:
+
+- Inicie las herramientas de recuperación, solución de problemas y diagnóstico.
+
+- Arranque desde un dispositivo (solo UEFI).
+
+- Acceda al menú Firmware (solo UEFI).
+
+- Elija el sistema operativo que se va a arrancar, si hay varios sistemas operativos instalados en el equipo.
+
+Nota:
+
+Puede agregar una herramienta personalizada al menú Inicio avanzado . De lo contrario, estos menús no se pueden personalizar aún más. Para obtener más información, consulta Agregar una herramienta personalizada al menú de inicio avanzado de Windows RE.
+
+## Consideraciones de seguridad
+
+Al trabajar con WinRE, tenga en cuenta estas consideraciones de seguridad:
+
+- Si los usuarios abren el menú Inicio avanzado en Windows y seleccionan una herramienta WinRE, deben proporcionar el nombre de usuario y la contraseña de una cuenta de usuario local con derechos de administrador.
+
+- Puede ejecutar la mayoría de las herramientas en WinRE sin seleccionar una cuenta de administrador y escribir la contraseña. Una vez arrancado el sistema en el entorno de recuperación, no se podrá acceder a los archivos cifrados a menos que el usuario disponga de la clave para descifrar el volumen.
+
+- WinRE no mantiene la conectividad de red de uso general de forma predeterminada. Las redes solo están activadas cuando un flujo de trabajo de recuperación requiere conectividad (por ejemplo, recuperación rápida de la máquina, recompilación en la nube).
+
+- Cuando se requieren redes, WinRE puede usar opciones de conexión de red disponibles como Ethernet, perfiles de Wi-Fi preconfigurados para WinRE, redes Wi-Fi seleccionadas manualmente y en versiones compatibles de Windows, perfiles Wi-Fi aptos guardados en el sistema operativo Windows (consulte más información a continuación).
+
+## Redes en WinRE
+
+Windows Entorno de recuperación puede usar redes para escenarios de recuperación que requieren conectividad. Entre los escenarios pertinentes se incluyen la recuperación rápida de la máquina, la recompilación en la nube, la corrección remota u otros flujos de trabajo de recuperación que necesitan acceso a servicios Microsoft o a la infraestructura de administración de la organización.
+
+De forma predeterminada, WinRE no mantiene una conexión de red de uso general. Las redes solo están activadas cuando un flujo de trabajo de recuperación lo requiere o cuando un usuario se conecta manualmente a una red desde WinRE. Cuando se requieren redes, WinRE intenta conectarse a la red en el orden siguiente:
+
+- 
+ Conexión Ethernet: si Ethernet está conectado, WinRE usa Ethernet.
+
+- 
+ Credenciales de Wi‑Fi preconfiguradas: si el SSID y la contraseña de una red Wi‑Fi están preconfigurados para WinRE, WinRE se conecta automáticamente a ella si está dentro del alcance. Configure previamente las credenciales de Wi-Fi mediante el CSP de recuperación. Como alternativa, use la línea de comandos.
+
+- 
+ Reutilización de perfiles de Wi-Fi guardados de Windows sistema operativo (versión preliminar): a menos que lo desactive, WinRE sincroniza los perfiles de Wi-Fi desde el sistema operativo Windows e intenta conectarse a esos perfiles. Consulte Reutilizar perfiles de Wi‑Fi guardados del sistema operativo Windows.
+
+- 
+ Selección manual de Wi-Fi: si es necesario, el usuario puede seleccionar una red Wi-Fi durante la recuperación mediante la interfaz de usuario (UI) de conexión manual.
+
+### Reutilización de perfiles de Wi-Fi guardados desde Windows sistema operativo (versión preliminar)
+
+En las versiones compatibles de Windows (inicialmente solo en las compilaciones de Windows Insider Preview), WinRE puede reutilizar los perfiles de Wi‑Fi guardados del sistema operativo principal de Windows para ayudar al dispositivo a restablecer la conectividad durante la recuperación. Esto incluye perfiles Wi-Fi compatibles basados en certificados, cuando el perfil necesario y el material de credenciales están disponibles y se pueden usar desde WinRE. Este comportamiento mejora el éxito de la recuperación en escenarios en los que el dispositivo necesita acceso a internet o a la red de la organización antes de que el usuario pueda volver al entorno completo de Windows.
+
+En el caso de los dispositivos administrados, los flujos de recuperación conectados a la red, como la recuperación rápida de la máquina, están desactivados de forma predeterminada. Debe activarlo para que el flujo pueda iniciar la conectividad de red desde WinRE. En el caso de los dispositivos no administrados, la recuperación rápida de la máquina está activada de forma predeterminada.
+
+### Configuración de redes en WinRE
+
+Use el nodo ReuseWifiSavedOnDevice dentro del CSP de recuperación para controlar si WinRE reutiliza los perfiles wi-Fi guardados del sistema operativo Windows.
+
+La opción de reutilizar los perfiles de Wi-Fi guardados del sistema operativo Windows está activado de forma predeterminada en sistemas administrados y no administrados.
+
+ | Configuración del nodo CSP
+
+ | Comportamiento de WinRE
+
+ | Resultado
+
+ | 
+ ReuseWifiSavedOnDevice = Activado 
+(default)
+
+ | WinRE puede reutilizar perfiles Wi-Fi aptos guardados en el sistema operativo Windows cuando un flujo de trabajo de recuperación requiere conectividad de red.
+
+ | WinRE accede al perfil Wi‑Fi del sistema operativo Windows y a los secretos solo cuando se activa un desencadenante de conectividad de red. Entre los desencadenadores se incluyen la recuperación rápida de la máquina y las características futuras de recuperación conectada a la red.
+
+ | 
+ ReuseWifiSavedOnDevice = Desactivado
+
+ | WinRE no accede a los secretos y perfiles de Wi-Fi del sistema operativo guardados Windows, incluso cuando un flujo de trabajo de recuperación requiere conectividad de red.
+
+ | Los flujos de trabajo de recuperación todavía pueden usar Ethernet, perfiles de WinRE Wi-Fi preconfigurados o conexión Wi-Fi manual desde la interfaz de usuario de WinRE, si está disponible.
+
+Nota:
+
+Si desactiva el nodo ReuseWifiSavedOnDevice , es posible que los flujos de trabajo de recuperación conectados a la red necesiten intervención manual del usuario. Esto se aplica especialmente a los dispositivos que no están conectados a Ethernet y no tienen un perfil deWi-Fi para WinRE preconfigurado.
+
+Utilice su proveedor de MDM para configurar el nodo ReuseWifiSavedOnDevice. De forma predeterminada, esta configuración está activada.
+
+### Limitaciones y consideraciones
+
+- WinRE solo puede conectarse a redes disponibles y admitidas en el entorno de recuperación. Estos incluyen: 
+
+- Ethernet sin autenticar
+
+- redes de WPA-Personal (SSID/contraseña)
+
+- Ciertas redes WPA-Enterprise que usan certificados de máquina (EAP-TLS, PEAP, EAP-TTLS, TEAP)
+
+- Perfiles Wi-Fi que utilizan certificados con claves privadas respaldadas por el KSP de software 
+
+Nota:
+
+Los perfiles de Wi‑Fi que usan certificados con claves privadas protegidas por TPM no se admiten en este momento.
+
+- Algunos hardware, controladores, proveedores de certificados o configuraciones de autenticación empresarial de Wi-Fi pueden requerir componentes que no estén presentes en WinRE.
+
+- La deshabilitación de radio de nivel de firmware o de nivel de hardware puede impedir que WinRE use Wi-Fi.
+
+- Si el nodo ReuseWifiSavedOnDevice está deshabilitado, WinRE no usa los perfiles Wi‑Fi guardados del sistema operativo Windows. Asegúrese de que hay otra ruta de acceso de red de recuperación disponible. Entre las alternativas se incluyen Ethernet, un perfil preconfigurado de WinRE Wi-Fi o una conexión manual de usuario.
+
+### Prueba de redes automáticas en WinRE
+
+Puede validar la conectividad automática de red en WinRE antes de usarla en flujos de trabajo de recuperación.
+
+Antes de realizar las pruebas:
+
+- Configure un perfil de Wi-Fi compatible en Windows para conectarse automáticamente.
+
+- Si el dispositivo está conectado a Ethernet, desconecte la conexión Ethernet antes de probar la conectividad automática Wi-Fi en WinRE.
+
+Utilice uno de los métodos siguientes:
+
+#### Iniciar la recompilación de la nube desde WinRE (recomendado)
+
+Nota:
+
+Esta opción solo está disponible para los dispositivos inscritos en el programa Windows Insiders en el canal experimental a partir del 6 de julio de 2026.
+
+La recompilación en la nube proporciona la manera más sencilla de comprobar que WinRE puede conectarse automáticamente a una red.
+
+- En un dispositivo Windows, seleccione Iniciar>configuración>Recuperación del sistema>.
+
+- En Inicio avanzado, seleccione Reiniciar ahora para arrancar en WinRE.
+
+- Seleccione Solucionar problemas>Reconstrucción en la nube.
+
+- Confirme si WinRE se conecta automáticamente a una red.
+
+- Si el dispositivo se conecta automáticamente a la red, aparece la siguiente pantalla: "El equipo se instalará con la siguiente configuración". Esta pantalla incluye la información de compilación de destino.
+
+- Si el dispositivo no se conecta automáticamente, se muestra la experiencia de conexión manual Wi-Fi. Si no ve esta experiencia, es probable que a WinRE le falten controladores de Wi‑Fi. Use medios de recuperación proporcionados por OEM para volver a crear imágenes del sistema con todos los controladores de red necesarios en WinRE.
+
+No es necesario completar el flujo de trabajo de recompilación de la nube para validar la conectividad automática de red. Iniciar el flujo de trabajo es suficiente.
+
+#### Uso del modo de prueba de recuperación rápida de la máquina
+
+ La recuperación rápida de la máquina incluye un modo de prueba que simula el proceso de corrección automática sin necesidad de un error de arranque real.
+
+Nota:
+
+ El modo de prueba de recuperación rápida de la máquina está disponible para los dispositivos inscritos en el canal experimental de Windows Insider Program.
+
+- Habilite y ejecute el modo de prueba de recuperación rápida de la máquina. Siga estas instrucciones.
+
+- Permitir que el dispositivo se reinicie en WinRE.
+
+- Observe el proceso de recuperación: si aparece la pantalla de conexión manual a la red Wi‑Fi, la conexión automática a la red ha fallado. De lo contrario, la conexión automática a la red probablemente se haya realizado correctamente.
+
+- Confirmar que se ha completado correctamente: Después de que el dispositivo se reinicie en Windows, abra Configuración>Windows Update>Historial de actualizaciones. En la sección Actualizaciones de calidad, busque una "actualización rápida de recuperación del equipo". Si se muestra, la conexión automática de red se realizó correctamente; si no es así, se produjo un error. Envíe comentarios a través de Recuperación y desinstalación>Recuperación rápida del equipo en el Centro de opiniones.
+
+## Personalización de WinRE
+
+Puede personalizar WinRE agregando paquetes (Windows PE Optional Components), idiomas, controladores y herramientas personalizadas de diagnóstico o solución de problemas. La imagen base de WinRE incluye estos componentes opcionales Windows PE:
+
+- Microsoft-Windows-Foundation-Package
+
+- WinPE-EnhancedStorage
+
+- WinPE-Rejuv
+
+- WinPE-Scripting
+
+- WinPE-SecureStartup
+
+- WinPE-Setup
+
+- WinPE-SRT
+
+- WinPE-WDS-Tools
+
+- WinPE-WMI
+
+- WinPE-StorageWMI-Package (agregado a la imagen base en Windows 8.1 y Windows Server 2012 R2)
+
+- WinPE-HTA (agregado a la imagen base en Windows 10)
+
+Nota:
+
+El número de paquetes, idiomas y controladores está limitado por la cantidad de memoria disponible en el equipo. Por motivos de rendimiento, minimice el número de idiomas, controladores y herramientas que agregue a la imagen.
+
+## Particiones de disco duro
+
+Al instalar Windows mediante el programa de instalación de Windows, WinRE se configura de la siguiente manera:
+
+- 
+Durante la configuración de Windows, Windows prepara las particiones del disco duro para que sean compatibles con WinRE.
+
+- 
+Windows inicialmente coloca el archivo de imagen WinRE (winre.wim) en la partición Windows, en la carpeta \Windows\System32\Recovery.
+
+Antes de entregar el equipo al cliente, puedes modificar o reemplazar el archivo de imagen winRE para incluir idiomas, controladores o paquetes adicionales.
+
+- 
+Durante el paso de configuración especializada, el archivo de imagen winRE se copia en la partición de herramientas de recuperación para que el dispositivo pueda arrancar en las herramientas de recuperación incluso si hay un problema con la partición de Windows.
+
+Al implementar Windows aplicando imágenes, debe configurar manualmente las particiones de disco duro. Cuando WinRE está instalado en un disco duro, la partición debe tener el formato NTFS.
+
+Agregue la imagen de las herramientas winRE de línea base (winre.wim) a una partición independiente de los Windows y las particiones de datos. De este modo, los usuarios pueden utilizar WinRE incluso si la partición de Windows está cifrada con Cifrado de unidad BitLocker de Windows. También impide que los usuarios modifiquen o quiten accidentalmente las herramientas de WinRE.
+
+Almacene las herramientas de recuperación en una partición dedicada directamente después de la partición Windows. De este modo, si las actualizaciones futuras requieren una partición de recuperación mayor, Windows podrá controlarla de forma más eficaz ajustando los tamaños de las particiones de recuperación y Windows, en lugar de tener que crear un nuevo tamaño de partición de recuperación mientras el anterior permanece en su lugar.
+
+Para obtener más información, consulte Configurar particiones del disco duro basadas en UEFI/GPT o Configurar particiones del disco duro basadas en BIOS/MBR.
+
+## Requisitos de memoria
+
+Para arrancar Windows RE directamente desde la memoria (también conocida como arranque de disco RAM), debe estar disponible una parte contigua de la memoria física (RAM) que puede contener toda la imagen re de Windows (winre.wim). Para optimizar el uso de memoria, los fabricantes deben asegurarse de que su firmware reserva ubicaciones de memoria al principio o al final del espacio de direcciones de memoria física.
+
+## Actualización del entorno de recuperación de Windows en disco
+
+La copia en disco de Windows RE se puede actualizar como parte de las actualizaciones acumulativas del sistema operativo. No todas las actualizaciones acumulativas actualizarán Windows RE.
+
+A diferencia del proceso normal de actualización del sistema operativo, las actualizaciones de Windows RE no actualizan directamente la imagen de Windows RE almacenada en disco (winre.wim). En su lugar, una versión más reciente de la imagen de Windows RE reemplaza a la existente, por el siguiente contenido que se inserta o migra a la nueva imagen:
+
+- Los controladores esenciales para el arranque y los controladores de dispositivos de entrada del entorno completo del sistema operativo se añaden a la nueva imagen de Windows RE.
+
+- Las personalizaciones de Windows RE en `\Sources\Recovery` del archivo winre.wim montado se migran a la nueva imagen.
+
+El siguiente contenido de la imagen de re de Windows existente no se migra a la nueva imagen:
+
+- Controladores que están en la imagen de RE de Windows existente, pero no en el entorno completo del sistema operativo
+
+- Componentes opcionales de Windows PE que no forman parte de la imagen predeterminada de Windows RE
+
+- Paquetes de idioma para Windows PE y componentes opcionales
+
+El proceso de actualización de Windows RE hace todo lo posible por reutilizar la partición existente de Windows RE sin modificarla. Sin embargo, en algunas situaciones poco frecuentes en las que la nueva imagen de RE Windows (junto con el contenido migrado o insertado) no cabe en la partición re de Windows existente, el proceso de actualización se comportará de la siguiente manera:
+
+- Si la partición existente de Windows RE se encuentra inmediatamente después de la partición de Windows, la partición de Windows se reducirá de tamaño y se añadirá espacio a la partición de Windows RE. La nueva imagen de Windows RE se instalará en la partición de Windows RE expandida.
+
+- Si la partición de Windows RE existente no se encuentra inmediatamente después de la partición de Windows, la partición de Windows se reducirá y se creará una nueva partición de Windows RE. La nueva imagen Windows RE se instalará en esta nueva partición Windows RE. La partición Windows RE existente estará huérfana.
+
+- Si no se puede reutilizar la partición re de Windows existente y la partición de Windows no se puede reducir correctamente, la nueva imagen de WINDOWS RE se instalará en la partición de Windows. La partición Windows RE existente estará huérfana.
+
+Importante
+
+Para asegurarse de que sus personalizaciones sigan funcionando después de que se haya actualizado Windows RE, no deben depender de las funciones proporcionadas por componentes opcionales de Windows PE que no estén en la imagen predeterminada de Windows RE (por ejemplo, WinPE-NetFX). Para facilitar el desarrollo de personalizaciones de Windows RE, el componente opcional WinPE-HTA se ha agregado a la imagen predeterminada de Windows RE en Windows 10.
+
+Nota:
+
+La nueva imagen de Windows RE implementada como parte de la actualización acumulativa solo contiene recursos de idioma para el idioma predeterminado del sistema, incluso si la imagen existente de Windows RE contiene recursos para varios idiomas. En la mayoría de los equipos, el idioma predeterminado del sistema es el idioma seleccionado en el momento de la OOBE.
+
+## Problema conocido
+
+Si el GPO "Configuración de Windows/Configuración de seguridad/Directivas locales/Opciones de seguridad/Cuentas: Bloquear cuentas Microsoft" está configurado para habilitar la directiva "El usuario no puede agregar ni iniciar sesión con una cuenta Microsoft", al intentar restaurar el sistema en WinRE, la operación fallará con el mensaje de error "Debe iniciar sesión como administrador para continuar, pero no hay ninguna cuenta de administrador en este equipo."
+
+Se trata de un problema conocido y la solución consiste en evitar establecer "Cuentas: Bloquear Microsoft cuentas" en "El usuario no puede agregar ni registrar con Microsoft cuenta" o establecer la directiva MDM Security/RecoveryEnvironmentAuthentication en 2.
+
+## Consulte también
+
+ | Tipo de contenido
+
+ | References
+
+ | 
+
+ Implementación
+
+ | 
+
+ Personalizar Windows RE | Implementar Windows RE
+
+ | 
+
+ Operations
+
+ | 
+
+ Opciones de línea de comandos de REAgentC
+
+ | 
+
+ Solución de problemas
+
+ | 
+
+ características de solución de problemas de Windows RE
+
+ | 
+
+ Herramientas de complemento
+
+ | 
+
+ Agregar una herramienta personalizada al menú de inicio avanzado de Windows RE | Agregar un botón de recuperación de hardware para iniciar Windows RE | Descripción general del restablecimiento mediante botón
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-08-19

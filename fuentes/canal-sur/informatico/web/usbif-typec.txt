@@ -1,0 +1,215 @@
+URL: https://www.usb.org/usb-type-cr-cable-and-connector-specification
+Leído: 2026-10-05
+
+
+
+ USB Type-C® Cable and Connector Specification | USB-IF
+
+ Skip to main content
+
+ Search this site
+
+Go
+
+Home
+
+USB4®
+
+USB 3.2
+
+USB Charger
+
+USB Type-C®
+
+ Toggle navigation
+
+Main navigation
+
+ About USB-IF
+
+ Members
+
+ Developers
+
+ Request a Vendor ID
+
+ Defined Class Codes
+
+ Human Interface Devices (HID)
+
+ BOS Descriptor Types
+
+ Technologies
+
+ USB4®
+
+ USB 3.2
+
+ USB Charger (USB PD)
+
+ USB Type-C®
+
+ Authentication
+
+ Compliance
+
+ USB4®
+
+ USB 3.2
+
+ USB 2.0
+
+ USB Type-C
+
+ Cables and Connectors
+
+ Compliance Tools
+
+ Test Labs
+
+ PIL Lab
+
+ USB-IF eStore
+
+ Request an XID
+
+ EU Conformity (IEC 62680)
+
+ Logo License Request
+
+ Pressroom
+
+ Upcoming Events
+
+ USB-IF Press Releases
+
+ Member Press Releases
+
+ Articles
+
+ Document Library
+
+ Products
+
+ Certified Product List
+
+ EU Conformity List (IEC 62680)
+
+User account menu
+
+ Member Login
+
+ Search
+
+USB Type-C® Cable and Connector Specification
+
+USB Type-C® Cable and Connector Specification
+
+With the continued success of the USB interface, there exists a need to adapt USB technology to serve newer computing platforms and devices as they trend toward smaller, thinner and lighter form-factors. Many of these newer platforms and devices are reaching a point where existing USB receptacles and plugs are inhibiting innovation, especially given the relatively large size and internal volume constraints of the Standard-A and Standard-B versions of USB connectors. Additionally, as platform usage models have evolved, usability and robustness requirements have advanced and the existing set of USB connectors were not originally designed for some of these newer requirements. This specification is to establish a new USB connector ecosystem that addresses the evolving needs of platforms and devices while retaining all of the functional benefits of USB that form the basis for this most popular of computing device interconnects.
+
+LIMITED COPYRIGHT LICENSE
+
+The USB 3.0 Promoters grant a conditional copyright license under the copyrights embodied in the USB Type-C® Cable and Connector Specification to use and reproduce the Specification for the sole purpose of, and solely to the extent necessary for, evaluating whether to implement the Specification in products that would comply with the specification. Without limiting the foregoing, use of the Specification for the purpose of filing or modifying any patent application to target the Specification or USB compliant products is not authorized. Except for this express copyright license, no other rights or licenses are granted, including without limitation any patent licenses. In order to obtain any additional intellectual property licenses or licensing commitments associated with the Specification a party must execute the USB 3.0 Adopters Agreement. NOTE: By using the Specification, you accept these license terms on your own behalf and, in the case where you are doing this as an employee, on behalf of your employer.
+
+USB Type-C® Key Messages
+
+Slim and sleek connector tailored to fit mobile device product designs, yet robust enough for laptops and tablets
+
+Features reversible plug orientation and cable direction 
+
+Supports scalable power and performance to future-proof your solution
+
+USB Type-C® and USB-C® are registered trademarks of USB Implementers Forum.
+
+USB Type-C® Compliance Program
+
+The USB Type-C® Specification can be found in the Document Library. USB Type-C® testing is now available. For more information about USB Type-C® testing please visit the USB Type-C Compliance Area. Information on how to register your product for testing can be found here.
+
+In addition to passing USB-IF compliance testing and inclusion of its USB Type-C® products on the Integrators List, companies wishing to use the certified USB logos must have a current USB-IF Trademark License Agreement on file. All implementation examples and reference designs contained within this Specification are included as part of the limited patent license for those companies that execute the USB 3.0 Adopters Agreement.
+
+USB Type-C® Language, Product and Packaging Guidelines
+
+The USB Type-C® Cable and Connector Language and Packaging Usage Guidelines are available for download here.
+
+Footer menu
+
+ About USB-IF
+
+ Members
+
+ Awards
+
+ Honor Roll Award
+
+ Compliance
+
+ USB4®
+
+ USB 3.2
+
+ USB 2.0
+
+ USB Type-C® / USB PD
+
+ Cables and Connectors
+
+ Compliance Tools
+
+ Test Labs
+
+ USB-IF eStore
+
+ Request an XID
+
+ EU Conformity (IEC 62680)
+
+ Developers
+
+ USB4®
+
+ USB-IF Logo License
+
+ Vendor ID Request
+
+ USB Type-C®
+
+ USB Charger (USB PD)
+
+ USB 3.2
+
+ Authentication
+
+ Press
+
+ USB-IF Press Releases
+
+ Member Press Releases
+
+ USB-IF Resources
+
+ Document Library
+
+ Certified Product List
+
+ EU Conformity List (IEC 62680)
+
+ Education
+
+ Consumers
+
+ Retailers
+
+ Contact
+
+ Members Login
+
+Site sponsored by USB Implementers Forum, Inc., creators of USB technology.
+
+USB4®, USB Type-C® and USB-C® are registered trademarks of USB Implementers Forum. USB 2.0 Type-C® is a trademark of USB Implementers Forum.
+
+Copyright Bar Menu
+
+ Privacy Statement
+
+ VTM Group
+

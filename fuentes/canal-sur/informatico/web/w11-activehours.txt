@@ -1,0 +1,76 @@
+URL: https://support.microsoft.com/es-es/windows/deployment/updates-lifecycle/keep-your-pc-up-to-date-with-active-hours
+Leído: 2026-10-05
+
+# Mantener el equipo al día con las horas activas
+
+ Se aplica a
+Windows 11 Windows 10 
+
+Obtener ayuda con Copilot
+
+ ¿Puedes mostrarme cómo establecer horas activas en Windows?
+
+ ¿Qué necesito saber después de habilitar BitLocker?
+
+ ¿Qué hago si no puedo renombrar el dispositivo?
+
+- 
+
+ Windows 11
+
+- 
+
+ Windows 10
+
+## Resumen
+
+Hemos hecho más fácil mantener Windows actualizado con las últimas funciones y mejoras, y con menos interrupciones y reinicios cuando más usas tu PC.
+
+La buena noticia es que no tiene que hacer nada para obtener las actualizaciones más recientes, ya que se descargarán e instalarán automáticamente cuando estén disponibles (a menos que tenga una conexión de uso medido, las actualizaciones no se descargarán hasta que las obtenga).
+
+En ocasiones, es posible que sea necesario reiniciar el equipo para terminar de instalar las actualizaciones. Puedes definir las horas activas para hacernos saber cuando usas normalmente tu PC y ayudar a evitar que se produzcan reinicios en momentos inconvenientes.
+
+Hay dos maneras de establecer las horas activas en Windows 11.
+
+## Hacer que Windows ajuste automáticamente las horas activas en función de la actividad del dispositivo
+
+- Selecciona Inicio>Configuración>, Windows Update>y Opciones avanzadas.
+
+- Selecciona Horas activas y, a continuación, elige Automáticamente en la lista desplegable Ajustar horas activas .
+
+## Seleccionar sus propias horas activas
+
+- Selecciona Inicio>Configuración>, Windows Update>y Opciones avanzadas.
+
+- Selecciona Horas activas y, a continuación, elige Manual en la lista desplegable Ajustar horas activas .
+
+Nota
+
+ El soporte técnico para Windows 10 finalizó el 14 de octubre de 2025
+
+- Después del 14 de octubre de 2025, Microsoft ya no proporcionará actualizaciones de software gratuitas desde Windows Update, asistencia técnica ni correcciones de seguridad para Windows 10. El PC seguirá funcionando, pero recomendamos que se cambie a Windows 11.
+
+- 
+ Más información
+
+## Resumen
+
+Hemos hecho más fácil mantener Windows actualizado con las últimas funciones y mejoras, y con menos interrupciones y reinicios cuando más usas tu PC.
+
+La buena noticia es que no tiene que hacer nada para obtener las actualizaciones más recientes, ya que se descargarán e instalarán automáticamente cuando estén disponibles (a menos que tenga una conexión de uso medido, las actualizaciones no se descargarán hasta que las obtenga).
+
+En ocasiones, es posible que sea necesario reiniciar el equipo para terminar de instalar las actualizaciones. Puedes definir las horas activas para hacernos saber cuando usas normalmente tu PC y ayudar a evitar que se produzcan reinicios en momentos inconvenientes.
+
+Hay dos formas de configurar las horas activas en Windows 10.
+
+## Hacer que Windows ajuste automáticamente las horas activas en función de la actividad del dispositivo
+
+- Seleccione Inicio , luego Configuración>Actualizar & seguridad>Windows Update y luego seleccione Cambiar horas activas.
+
+- Active Ajustar automáticamente las horas activas de este dispositivo en función de la actividad. Después, seleccione Guardar.
+
+## Seleccionar sus propias horas activas
+
+- Seleccione Inicio , luego Configuración>Actualizar & seguridad>Windows Update y luego seleccione Cambiar horas activas.
+
+- Junto a tus horas activas actuales, selecciona Cambiar. Seleccione la hora de inicio y la hora de finalización de las horas activas. Después, seleccione Guardar.

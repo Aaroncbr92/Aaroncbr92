@@ -1,0 +1,730 @@
+URL: https://support.microsoft.com/es-es/windows/hardware/drivers/error-codes-in-device-manager-in-windows
+Leído: 2026-10-05
+
+# Códigos de error en el Administrador de dispositivos de Windows
+
+ Se aplica a
+Windows 11 Windows 10 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo encuentro un código de error en el Administrador de dispositivos?
+
+ ¿Cómo reinstalo un controlador de cámara?
+
+ ¿Cómo soluciono un código de error en el Administrador de dispositivos?
+
+Este artículo trata los códigos de error que el Administrador de dispositivos genera en Windows. Probablemente llegó a este artículo porque el Administrador de dispositivos u otra herramienta (como DXDiag) le informaron de un código de error y no sabe muy bien cómo resolverlo. En el artículo le ayudaremos a encontrar su código de error y le sugeriremos lo que puede intentar para corregirlo.
+
+Siga las resoluciones recomendadas para ese código de error. También puede hacer clic en el código de error específico para obtener información más detallada.
+
+Nota
+
+Este artículo no contiene todos los códigos de error que generó el Administrador de dispositivos. Si recibe un código de error que no aparece aquí, puede ponerse en contacto con el soporte técnico del proveedor del dispositivo o con el Soporte técnico de Microsoft para obtener ayuda.
+
+## Cómo encontrar un código de error en el Administrador de dispositivos
+
+- En el Administrador de dispositivos, haga doble clic en el tipo de dispositivo que tiene el problema.
+
+- Haga clic con el botón derecho en el dispositivo que tiene el problema y luego haga clic en Propiedades. Se abre el cuadro de diálogo Propiedades. Puede ver el código de error en el área Estado del dispositivo de este cuadro de diálogo.
+
+## Códigos de error y cómo resolverlos
+
+## Código 1: "El dispositivo no está configurado correctamente. (Código 1)"
+
+ Causa
+
+El dispositivo no tiene instalados los controladores en su equipo o los controladores se han configurado incorrectamente.
+
+ Solución recomendada
+
+Actualizar el controlador
+
+En el cuadro de diálogo Propiedades, haga clic en la pestaña Controlador y luego en Actualizar controlador para iniciar el Asistente para actualización de hardware. Siga las instrucciones para actualizar el controlador. Si actualizar el controlador no funciona, consulte la documentación del hardware para obtener más información.
+
+ Nota: Se le puede solicitar que proporcione la ruta de acceso del controlador. Windows puede tener el controlador incorporado o es posible que tenga los archivos del controlador instalados desde la última vez que ha configurado el dispositivo. Si se le solicita el controlador y no lo tiene, puede intentar descargar el controlador más reciente en el sitio web del fabricante del hardware.
+
+## Código 3: "El controlador de este dispositivo podría estar dañado... (Código 3)"
+
+ Mensaje completo del error
+
+"El controlador de este dispositivo podría estar dañado o es posible que su sistema tenga poca memoria u otros recursos. (Código 3)"
+
+ Causa
+
+El controlador del dispositivo puede estar dañado o su equipo se está quedando sin memoria; queda poca memoria del sistema disponible y puede ser necesario liberar una parte o agregar más memoria.
+
+ Soluciones recomendadas
+
+Cerrar algunas de las aplicaciones abiertas
+
+Si el equipo tiene memoria insuficiente para ejecutar el dispositivo, puede cerrar algunas aplicaciones para liberar memoria. También puede comprobar los recursos de memoria y del sistema, así como los valores de configuración de la memoria virtual.
+
+- Para comprobar los recursos del sistema y la memoria, abra el Administrador de tareas. Para ello, presione CTRL + ALT + SUPR y luego haga clic en Administrador de tareas.
+
+- Para comprobar la configuración de la memoria virtual, abra el cuadro de diálogo Propiedades del sistema, haga clic en la pestaña Avanzado y luego haga clic en Configuración en el área Rendimiento.
+
+Desinstalar y reinstalar el controlador
+
+El controlador de dispositivo puede haberse dañado. Desinstale el controlador desde el Administrador de dispositivos y busque nuevo hardware para instalarlo otra vez.
+
+- En el cuadro de diálogo Propiedades, haga clic en la pestaña Controlador y luego en Desinstalar. Siga las instrucciones.
+
+- Reinicie el equipo.
+
+- Abra el Administrador de dispositivos, haga clic en Acción y luego en Buscar cambios de hardware. Siga las instrucciones.
+
+ Nota: Se le puede solicitar que proporcione la ruta de acceso del controlador. Windows puede tener el controlador incorporado o es posible que tenga los archivos del controlador instalados desde la última vez que ha configurado el dispositivo. Sin embargo, en ocasiones, abrirá el Asistente para agregar nuevo hardware que puede solicitar el controlador. Si se le solicita el controlador y no lo tiene, puede intentar descargar el controlador más reciente en el sitio web del fabricante del hardware.
+
+Instalar RAM adicional
+
+Quizá tenga que instalar memoria de acceso aleatorio (RAM) adicional.
+
+## Código 9: "Windows no puede identificar este hardware... (Código 9)"
+
+ Mensaje completo del error
+
+"Windows no puede identificar este hardware porque no tiene un número de identificación de hardware válido. Para obtener ayuda, póngase en contacto con el fabricante del hardware. (Código 9)"
+
+ Causa
+
+El equipo detectó identificadores de dispositivo no válidos para su hardware.
+
+ Soluciones recomendadas
+
+Póngase en contacto con el proveedor del hardware. El hardware o el controlador son defectuosos.
+
+## Código 10: "No se puede iniciar el dispositivo. (Código 10)"
+
+ Mensaje completo del error
+
+"No se puede iniciar el dispositivo. Intente actualizar los controladores de este dispositivo. (Código 10)"
+
+ Causa
+
+Normalmente, la clave de hardware del dispositivo contiene un valor "FailReasonString" cuya cadena de valores se muestra en un mensaje de error definido por el fabricante del hardware. Si esta clave no contiene un valor "FailReasonString", se muestra el mensaje anterior.
+
+ Soluciones recomendadas
+
+Actualizar el controlador
+
+En el cuadro de diálogo Propiedades, haga clic en la pestaña Controlador y luego en Actualizar controlador para iniciar el Asistente para actualización de hardware. Siga las instrucciones para actualizar el controlador.
+
+ Nota: Se le puede solicitar que proporcione la ruta de acceso del controlador. Si se le solicita el controlador y no lo tiene, puede intentar descargar el controlador más reciente en el sitio web del fabricante del hardware.
+
+## Código 12: "Este dispositivo no encuentra suficientes recursos libres que pueda usar... (Código 12) “
+
+ Mensaje completo del error
+
+Este dispositivo no encuentra suficientes recursos libres que pueda usar. Si desea utilizar el dispositivo, debe deshabilitar otro de este sistema. (Código 12)
+
+ Causa
+
+Este error se puede producir si dos dispositivos instalados en el equipo se han asignado a los mismos puertos de E/S, la misma interrupción o el mismo canal de Acceso directo a memoria (bien por el BIOS, por el sistema operativo o por ambos). Este mensaje de error puede aparecer también si el BIOS no asignó recursos suficientes al dispositivo.
+
+ Solución recomendada
+
+Windows Vista y versiones posteriores de Windows
+
+Utilice el Administrador de dispositivos para determinar el origen del conflicto y resolverlo. Para obtener más información sobre cómo resolver conflictos de dispositivos, consulte la Ayuda sobre el uso del Administrador de dispositivos. Este mensaje de error puede aparecer también si el BIOS no asignó recursos suficientes a un dispositivo. Por ejemplo, aparecerá si el BIOS no asigna una interrupción a un controlador USB debido a una tabla de especificación de multiproceso (MPS) no válida.
+
+Windows Server 2003, Windows XP y Windows 2000
+
+- Abra el Administrador de dispositivos.
+
+- Haga doble clic en el icono que representa al dispositivo en la ventana del Administrador de dispositivos.
+
+- En la ficha de propiedades que aparece, haga clic en Solución de problemas para iniciar el solucionador de problemas de hardware del dispositivo.
+
+Este mensaje de error puede aparecer también si el BIOS no asignó recursos suficientes a un dispositivo. Por ejemplo, aparecerá si el BIOS no asigna una interrupción a un controlador USB debido a una tabla de especificación de multiproceso (MPS) no válida.
+
+## Código 14: "El dispositivo no puede funcionar correctamente hasta que reinicie su equipo. (Código 14)"
+
+ Mensaje completo del error
+
+"El dispositivo no puede funcionar correctamente hasta que reinicie su equipo. Para reiniciar el equipo, haga clic en Reiniciar el equipo. (Código 14)"
+
+ Solución recomendada
+
+Reinicie el equipo. Desde Inicio, haga clic en Apagar y, a continuación, seleccione Reiniciar.
+
+## Código 16: "Windows no puede identificar todos los recursos que usa este dispositivo. (Código 16)"
+
+ Mensaje completo del error
+
+"Windows no puede identificar todos los recursos que usa este dispositivo. Para especificar otros recursos, haga clic en la pestaña Recursos y rellene los valores que faltan. Consulte la documentación del hardware para saber qué valores usar. (Código 16)"
+
+ Causa
+
+El dispositivo solo está configurado en parte y podría ser necesaria una configuración manual adicional de los recursos que precisa.
+
+ Solución recomendada
+
+Los pasos siguientes solamente funcionarán si se trata de un dispositivo Plug and Play. Si no es un dispositivo Plug and Play, consulte la documentación del dispositivo o póngase en contacto con el fabricante para obtener más información.
+
+- Desde Inicio, busque administrador de dispositivos y seleccione Administrador de dispositivos entre los resultados.
+
+- En la lista, haga doble clic en el dispositivo y elija la pestaña Recursos.
+
+- En la lista Configuración de recursos, compruebe si junto a algún recurso aparece una marca de interrogación. Si es así, seleccione dicho recurso y asígnelo al dispositivo.
+
+- Si el recurso no se puede cambiar, haga clic en Cambiar configuración. Si Cambiar configuración no está disponible, pruebe a desactivar la casilla Usar configuración automática para hacer que esté disponible.
+
+## Código 18: "Vuelva a instalar los controladores para este dispositivo. (Código 18)"
+
+ Solución recomendada
+
+Reinstalar el controlador del dispositivo mediante el Asistente para actualización de hardware
+
+- Desde Inicio, busque administrador de dispositivos y seleccione Administrador de dispositivos entre los resultados.
+
+- En la lista, haga clic con el botón derecho en el dispositivo.
+
+- En el menú que aparece, elija Actualizar controlador para iniciar el Asistente para actualización de hardware.
+
+Reinstalar manualmente el controlador del dispositivo
+
+- Desde Inicio, busque administrador de dispositivos y seleccione Administrador de dispositivos entre los resultados.
+
+- En la lista, haga clic con el botón derecho en el dispositivo.
+
+- Seleccione Desinstalar en el menú que aparece.
+
+- Una vez desinstalado el dispositivo, elija Acción en la barra de menús.
+
+- Seleccione Buscar cambios de hardware para reinstalar el controlador.
+
+ Nota: Se le puede solicitar que proporcione la ruta de acceso del controlador. Si se le solicita el controlador y no lo tiene, puede intentar descargar el controlador más reciente en el sitio web del fabricante del hardware.
+
+## Código 19: "Windows no puede iniciar este dispositivo de hardware... (Código 19)"
+
+ Mensaje completo del error
+
+Windows no puede iniciar este dispositivo de hardware porque su información de configuración (en el registro) está incompleta o dañada. (Código 19)
+
+ Causa
+
+Este error puede producirse cuando hay más de un servicio definido para un dispositivo, si se produce un error al abrir la clave de servicio o si el nombre del controlador no se puede obtener de la clave de servicio.
+
+ Solución recomendada
+
+Desinstalar y reinstalar el controlador
+
+- Desde Inicio, busque administrador de dispositivos y seleccione Administrador de dispositivos entre los resultados.
+
+- En la lista, haga clic con el botón derecho en el dispositivo.
+
+- Seleccione Desinstalar en el menú que aparece.
+
+- Una vez desinstalado el dispositivo, elija Acción en la barra de menús.
+
+- Seleccione Buscar cambios de hardware para reinstalar el controlador.
+
+ Nota: Se le puede solicitar que proporcione la ruta de acceso del controlador. Si se le solicita el controlador y no lo tiene, puede intentar descargar el controlador más reciente en el sitio web del fabricante del hardware.
+
+Volver a la configuración del Registro correcta más reciente
+
+Para devolver un sistema a la configuración del Registro correcta más reciente, puede reiniciar el equipo en Modo seguro y seleccionar la opción La última configuración válida conocida. O bien, si creó un punto de restauración del sistema, puede intentar restaurarlo.
+
+ Opciones de recuperación en Windows 10
+
+ Realizar una copia de seguridad y restaurar su equipo (Windows 8.1)
+
+¿Cuáles son las opciones de recuperación del sistema en Windows? (Windows 7)
+
+## Código 21: "Windows está quitando este dispositivo… (Código 21)"
+
+ Mensaje completo del error
+
+Windows está quitando este dispositivo. (Código 21)
+
+ Causa
+
+Este error significa que Windows está en proceso de quitar el dispositivo. Sin embargo, el dispositivo no se ha quitado completamente. Este código de error es temporal y existe solo durante los intentos de realizar consultas a un dispositivo y luego quitarlo.
+
+ Soluciones recomendadas
+
+Puede esperar a que Windows termine de quitar el dispositivo o bien reiniciar el equipo.
+
+- Espere varios segundos y luego presione la tecla F5 para actualizar la vista del Administrador de dispositivos.
+
+- Si así no se resuelve el problema, reinicie el equipo. Haga clic en Inicio, seleccione Apagar y luego Reiniciar en el cuadro de diálogo Apagar Windows para reiniciar el equipo.
+
+## Código 22: "Este dispositivo está deshabilitado. (Código 22)"
+
+ Causa
+
+El usuario deshabilitó el dispositivo mediante el Administrador de dispositivos.
+
+ Solución recomendada
+
+En el Administrador de dispositivos, haga clic en Acción y luego en Habilitar dispositivo. Así se inicia el Asistente para habilitar dispositivo. Siga las instrucciones.
+
+## Código 24: "Este dispositivo no está presente, no funciona correctamente... (Código 24)"
+
+ Mensaje completo del error
+
+Este dispositivo no está presente, no funciona correctamente o no tiene todos sus controladores instalados. (Código 24)
+
+ Causa
+
+El dispositivo está instalado incorrectamente. El problema podría ser un error de hardware, aunque también es posible que se necesite un nuevo controlador. Los dispositivos se quedan en este estado si se han preparado para su eliminación. Después de quitar el dispositivo, este error desaparece.
+
+ Solución recomendada
+
+Este error debería resolverse quitando el dispositivo.
+
+## Código 28: "Los controladores de este dispositivo no están instalados. (Código 28)"
+
+ Solución recomendada
+
+Reinstalar manualmente el controlador del dispositivo
+
+- Desde Inicio, busque administrador de dispositivos y seleccione Administrador de dispositivos entre los resultados.
+
+- En la lista, haga clic con el botón derecho en el dispositivo.
+
+- Seleccione Desinstalar en el menú que aparece.
+
+- Una vez desinstalado el dispositivo, elija Acción en la barra de menús.
+
+- Seleccione Buscar cambios de hardware para reinstalar el controlador.
+
+ Nota: Se le puede solicitar que proporcione la ruta de acceso del controlador. Si se le solicita el controlador y no lo tiene, puede intentar descargar el controlador más reciente en el sitio web del fabricante del hardware.
+
+## Código 29: "Este dispositivo está deshabilitado… (Código 29)"
+
+ Mensaje completo del error
+
+Este dispositivo está deshabilitado porque su firmware no le proporcionó los recursos requeridos. (Código 29)
+
+ Solución recomendada
+
+Habilite el dispositivo en el BIOS. Para obtener información sobre cómo realizar este cambio, consulte la documentación del hardware o póngase en contacto con el fabricante de su equipo. 
+
+## Código 31: "Este dispositivo no funciona correctamente… (Código 31)"
+
+ Mensaje completo del error
+
+Este dispositivo no funciona correctamente porque Windows no puede cargar los controladores requeridos para este dispositivo. (Código 31)
+
+ Solución recomendada
+
+Reinstalar el controlador del dispositivo mediante el Asistente para actualización de hardware
+
+- Desde Inicio, busque administrador de dispositivos y seleccione Administrador de dispositivos entre los resultados.
+
+- En la lista, haga clic con el botón derecho en el dispositivo.
+
+- En el menú que aparece, elija Actualizar controlador para iniciar el Asistente para actualización de hardware.
+
+ Nota: Se le puede solicitar que proporcione la ruta de acceso del controlador. Si se le solicita el controlador y no lo tiene, puede intentar descargar el controlador más reciente en el sitio web del fabricante del hardware.
+
+## Código 32: "Se ha deshabilitado el controlador (servicio) para este dispositivo. (Código 32)"
+
+ Mensaje completo del error
+
+Se ha deshabilitado el controlador (servicio) para este dispositivo. Un controlador alternativo debe estar proporcionando la funcionalidad. (Código 32)
+
+ Causa
+
+El tipo de inicio de este controlador se ha establecido como deshabilitado en el Registro.
+
+ Solución recomendada
+
+Reinstalar manualmente el controlador del dispositivo
+
+- Desde Inicio, busque administrador de dispositivos y seleccione Administrador de dispositivos entre los resultados.
+
+- En la lista, haga clic con el botón derecho en el dispositivo.
+
+- Seleccione Desinstalar en el menú que aparece.
+
+- Una vez desinstalado el dispositivo, elija Acción en la barra de menús.
+
+- Seleccione Buscar cambios de hardware para reinstalar el controlador.
+
+ Nota: Se le puede solicitar que proporcione la ruta de acceso del controlador. Si se le solicita el controlador y no lo tiene, puede intentar descargar el controlador más reciente en el sitio web del fabricante del hardware.
+
+## Código 33: "Windows no puede determinar los recursos necesarios para este dispositivo. (Código 33)"
+
+ Causa
+
+Error en el traductor que determina los tipos de recursos requeridos por el dispositivo.
+
+ Soluciones recomendadas
+
+- Pruebe a utilizar la utilidad setuputility del BIOS, o bien actualice el BIOS.
+
+- Configure, repare o sustituya el hardware.
+
+Póngase en contacto con el proveedor del hardware del dispositivo para obtener más información sobre cómo actualizar el BIOS y cómo configurar o reemplazar el dispositivo.
+
+## Código 34: "Windows no puede determinar la configuración para este dispositivo... (Código 34)"
+
+ Mensaje completo del error
+
+Windows no puede determinar la configuración para este dispositivo. Consulte la documentación que acompaña a este dispositivo y utilice la ficha Recurso para establecer la configuración. (Código 34)
+
+ Solución recomendada
+
+El dispositivo requiere una configuración manual. Vea la documentación del hardware o póngase en contacto con el proveedor para conocer las instrucciones para configurar manualmente el dispositivo. Después de configurar el dispositivo, puede usar la pestaña Recursos del Administrador de dispositivos para configurar los valores de configuración del recurso en Windows.
+
+## Código 35: "El firmware de su equipo no... (Código 35)"
+
+ Mensaje completo del error
+
+El firmware de su equipo no incluye información suficiente para configurar y utilizar de forma apropiada este dispositivo. Para utilizar este dispositivo, póngase en contacto con el fabricante de su equipo para obtener una actualización del firmware o del BIOS. (Código 35)
+
+ Causa
+
+En la tabla Sistema de multiprocesador (MPS), en la que se almacenan las asignaciones de recursos del BIOS, falta una entrada para el dispositivo y la tabla se debe actualizar.
+
+ Solución recomendada
+
+Póngase en contacto con el fabricante de su equipo para actualizar el BIOS. 
+
+## Código 36: "Este dispositivo requiere una interrupción PCI... (Código 36)"
+
+ Mensaje completo del error
+
+Este dispositivo requiere una interrupción PCI pero está configurado con una interrupción ISA (o viceversa). Utilice el programa de configuración del sistema del equipo para volver a configurar la interrupción para este dispositivo. (Código 36)
+
+ Causa
+
+Error en la traducción de la solicitud de interrupción (IRQ).
+
+ Solución recomendada
+
+Cambiar la configuración para las reservas de IRQ en el BIOS.
+
+Para obtener más información sobre cómo cambiar la configuración del BIOS, consulte la documentación del hardware o póngase en contacto con el fabricante de su equipo. También puede utilizar la herramienta de configuración del BIOS para cambiar la configuración de las reservas de IRQ (si tales opciones existen). En el BIOS podrían estar establecidas las opciones para reservar ciertas IRQ para la interconexión de componentes periféricos o (PCI) dispositivos ISA. 
+
+## Código 37: "Windows no puede inicializar el controlador de dispositivo para este hardware. (Código 37)"
+
+ Causa
+
+El controlador devolvió un error cuando se ejecutó la rutina DriverEntry.
+
+ Solución recomendada
+
+Reinstalar manualmente el controlador del dispositivo
+
+- Desde Inicio, busque administrador de dispositivos y seleccione Administrador de dispositivos entre los resultados.
+
+- En la lista, haga clic con el botón derecho en el dispositivo.
+
+- Seleccione Desinstalar en el menú que aparece.
+
+- Una vez desinstalado el dispositivo, elija Acción en la barra de menús.
+
+- Seleccione Buscar cambios de hardware para reinstalar el controlador.
+
+ Nota: Se le puede solicitar que proporcione la ruta de acceso del controlador. Si se le solicita el controlador y no lo tiene, puede intentar descargar el controlador más reciente en el sitio web del fabricante del hardware.
+
+## Código 38: "Windows no puede cargar el controlador de dispositivo... (Código 38)"
+
+ Mensaje completo del error
+
+Windows no puede cargar el controlador de dispositivo para este hardware porque una instancia anterior del controlador de dispositivo todavía está en memoria. (Código 38)
+
+ Causa
+
+No se pudo cargar el controlador porque todavía está cargada una instancia anterior.
+
+ Solución recomendada
+
+Reinicie el equipo. Desde Inicio, haga clic en Apagar y, a continuación, seleccione Reiniciar.
+
+## Código 39: "Windows no puede cargar el controlador de dispositivo para este hardware... (Código 39)."
+
+ Mensaje completo del error
+
+Windows no puede cargar el controlador de dispositivo para este hardware. Es posible que el controlador esté dañado o no se encuentre. (Código 39)
+
+ Solución recomendada
+
+Reinstalar manualmente el controlador del dispositivo
+
+- Desde Inicio, busque administrador de dispositivos y seleccione Administrador de dispositivos entre los resultados.
+
+- En la lista, haga clic con el botón derecho en el dispositivo.
+
+- Seleccione Desinstalar en el menú que aparece.
+
+- Una vez desinstalado el dispositivo, elija Acción en la barra de menús.
+
+- Seleccione Buscar cambios de hardware para reinstalar el controlador.
+
+ Nota: Se le puede solicitar que proporcione la ruta de acceso del controlador. Si se le solicita el controlador y no lo tiene, puede intentar descargar el controlador más reciente en el sitio web del fabricante del hardware.
+
+## Código 40: "Windows no puede obtener acceso a este hardware... (Código 40)"
+
+ Mensaje completo del error
+
+Windows no puede obtener acceso a este hardware porque su información de clave de servicio en el Registro no está presente o no está registrada correctamente. (Código 40)
+
+ Causa
+
+La información de la subclave de servicio para el controlador que se encuentra en el Registro no es válida.
+
+ Solución recomendada
+
+Reinstalar manualmente el controlador del dispositivo
+
+- Desde Inicio, busque administrador de dispositivos y seleccione Administrador de dispositivos entre los resultados.
+
+- En la lista, haga clic con el botón derecho en el dispositivo.
+
+- Seleccione Desinstalar en el menú que aparece.
+
+- Una vez desinstalado el dispositivo, elija Acción en la barra de menús.
+
+- Seleccione Buscar cambios de hardware para reinstalar el controlador.
+
+ Nota: Se le puede solicitar que proporcione la ruta de acceso del controlador. Si se le solicita el controlador y no lo tiene, puede intentar descargar el controlador más reciente en el sitio web del fabricante del hardware.
+
+## Código 41: "Windows cargó correctamente el controlador de dispositivo ... (Código 41)"
+
+ Mensaje completo del error
+
+Windows cargó correctamente el controlador de dispositivos para este hardware pero no puede encontrar el dispositivo de hardware. (Código 41)
+
+ Causa
+
+Este problema se produce si instala un controlador para un dispositivo que no es Plug and Play, pero Windows no puede encontrar el dispositivo.
+
+ Solución recomendada
+
+Reinstalar manualmente el controlador del dispositivo
+
+- Desde Inicio, busque administrador de dispositivos y seleccione Administrador de dispositivos entre los resultados.
+
+- En la lista, haga clic con el botón derecho en el dispositivo.
+
+- Seleccione Desinstalar en el menú que aparece.
+
+- Una vez desinstalado el dispositivo, elija Acción en la barra de menús.
+
+- Seleccione Buscar cambios de hardware para reinstalar el controlador.
+
+ Nota: Se le puede solicitar que proporcione la ruta de acceso del controlador. Si se le solicita el controlador y no lo tiene, puede intentar descargar el controlador más reciente en el sitio web del fabricante del hardware.
+
+## Código 42: "Windows no puede cargar el controlador de dispositivo... (Código 42)"
+
+ Mensaje completo del error
+
+Windows no puede cargar el controlador de dispositivo para este hardware porque ya hay un dispositivo duplicado ejecutándose en el sistema. (Código 42)
+
+ Causa
+
+Se detectó un dispositivo duplicado. Este error aparece cuando un controlador del bus crea incorrectamente dos subprocesos con el mismo nombre (error del controlador del bus), o cuando se descubre un dispositivo con un número de serie en una nueva ubicación antes de quitarse de la ubicación anterior.
+
+ Solución recomendada
+
+Reinicie el equipo. Desde Inicio, haga clic en Apagar y, a continuación, seleccione Reiniciar.
+
+## Código 43: "Windows detuvo este dispositivo porque informó de problemas. (Código 43)"
+
+ Causa
+
+Uno de los controladores que controlan el dispositivo notificó al sistema operativo que en el dispositivo se produjo, de alguna manera, un error.
+
+ Solución recomendada
+
+Si ya ejecutó el solucionador de problemas en la sección "Pruebe estos pasos primero", revise la documentación del hardware o póngase en contacto con el fabricante para obtener más información sobre cómo diagnosticar el problema.
+
+Reinstalar manualmente el controlador del dispositivo
+
+- Desde Inicio, busque administrador de dispositivos y seleccione Administrador de dispositivos entre los resultados.
+
+- En la lista, haga clic con el botón derecho en el dispositivo.
+
+- Seleccione Desinstalar en el menú que aparece.
+
+- Una vez desinstalado el dispositivo, elija Acción en la barra de menús.
+
+- Seleccione Buscar cambios de hardware para reinstalar el controlador.
+
+ Nota: Se le puede solicitar que proporcione la ruta de acceso del controlador. Si se le solicita el controlador y no lo tiene, puede intentar descargar el controlador más reciente en el sitio web del fabricante del hardware.
+
+## Código 44: "Una aplicación o servicio apagó este dispositivo de hardware. (Código 44)"
+
+ Solución recomendada
+
+Reinicie el equipo. Desde Inicio, haga clic en Apagar y luego seleccione Reiniciar. 
+
+## Código 45: "Actualmente, este dispositivo de hardware no está conectado al equipo... (Código 45)"
+
+ Mensaje completo del error
+
+Actualmente, este dispositivo de hardware no está conectado al equipo. Para solucionar el problema, vuelva a conectar este dispositivo de hardware al equipo. (Código 45)
+
+ Causa
+
+Este error se produce si un dispositivo que estaba antes conectado al equipo, ha dejado de estarlo. Para resolver este problema, vuelva a conectar este dispositivo de hardware al equipo.
+
+ Solución recomendada
+
+No es necesaria ninguna solución. Este código de error solamente se usa para indicar el estado de desconexión del dispositivo y no necesita una solución. El código de error se resuelve automáticamente cuando conecta el dispositivo asociado al equipo.
+
+## Código 46: "Windows no puede obtener acceso al dispositivo de hardware... (Código 46)"
+
+ Mensaje completo del error
+
+Windows no puede obtener acceso al dispositivo de hardware porque el sistema operativo está en el proceso de apagado. El dispositivo de hardware deberá funcionar correctamente la próxima vez que inicie su equipo. (Código 46)
+
+ Causa
+
+El dispositivo no está disponible porque el sistema está cerrándose.
+
+ Solución recomendada
+
+No es necesaria ninguna solución. El dispositivo de hardware debería funcionar correctamente la próxima vez que inicie el equipo. Este código de error se establece solo cuando el Comprobador de controlador está habilitado y ya se han cerrado todas las aplicaciones.
+
+## Código 47: "Windows no puede usar este dispositivo de hardware... (Código 47)"
+
+ Mensaje completo del error
+
+Windows no puede usar este dispositivo de hardware porque se ha preparado para "extracción segura", pero aún no se ha extraído del equipo. Para solucionar este problema, desconecte el dispositivo de su equipo y vuelva a conectarlo. (Código 47)
+
+ Causa
+
+Este código de error solamente aparece si utilizó la aplicación para "extracción segura" a la hora de retirar el dispositivo o si presionó el botón para extraerlo.
+
+ Solución recomendada
+
+Desconecte el dispositivo del equipo y luego conéctelo de nuevo. Si esto no resuelve el error, reinicie el equipo. Desde Inicio, haga clic en Apagar y, a continuación, seleccione Reiniciar. 
+
+## Código 48: "Se ha bloqueado el software de este dispositivo... (Código 48)".
+
+ Mensaje completo del error
+
+Se ha bloqueado el inicio del software de este dispositivo porque se sabe que presenta problemas con Windows. Póngase en contacto con el fabricante del hardware para obtener un controlador nuevo. (Código 48)
+
+ Solución recomendada
+
+Póngase en contacto con el fabricante del dispositivo de hardware con el fin de obtener la versión más reciente del controlador actualizado. Después, instálelo en el equipo.
+
+## Código 49: "Windows no puede iniciar nuevos dispositivos de hardware... (Código 49)."
+
+ Mensaje completo del error
+
+Windows no puede iniciar nuevos dispositivos de hardware porque el subárbol del sistema es demasiado largo (sobrepasa el límite de tamaño del Registro). (Código 49)
+
+ Causa
+
+El subárbol del sistema ha superado su tamaño máximo y los nuevos dispositivos no pueden funcionar hasta que se reduzca el tamaño. El subárbol del sistema es una parte permanente del Registro asociada a un conjunto de archivos que contiene información relacionada con la configuración del equipo en el que está instalado el sistema operativo. Los elementos configurados incluyen aplicaciones, preferencias del usuario, dispositivos, etc. El problema podrían ser dispositivos concretos que ya no están conectados al equipo pero que todavía aparecen en el subárbol del sistema.
+
+ Solución recomendada
+
+Desinstale cualquier dispositivo hardware que ya no esté utilizando.
+
+- 
+Configure el Administrador de dispositivos para mostrar los dispositivos que ya no están conectados al equipo.
+
+- Desde Inicio, haga clic en Ejecutar.
+
+- En el cuadro Abrir, escriba cmd. Se abre la ventana del símbolo del sistema.
+
+- En el símbolo del sistema, escriba el comando siguiente y presione Entrar: set devmgr_show_nonpresent_devices=1
+
+- 
+En el Administrador de dispositivos, haga clic en Ver y luego en Mostrar dispositivos ocultos. Ahora ya podrá ver los dispositivos que no están conectados al equipo.
+
+- 
+Seleccione un dispositivo que no esté presente. En la pestaña Controlador, elija Desinstalar.
+
+- 
+Repita el paso 3 para cualquier dispositivo no presente que ya no utilice. A continuación, reinicie el equipo.
+
+- 
+Compruebe si se ha resuelto el error en el cuadro de diálogo Propiedades de dispositivo del Administrador de dispositivos.
+
+## Código 50: "Windows no puede aplicar todas las propiedades para este dispositivo... (Código 50)"
+
+ Mensaje completo del error
+
+Windows no puede aplicar todas las propiedades para este dispositivo. Las propiedades del dispositivo pueden incluir información que describa sus capacidades y configuración (como la configuración de seguridad, por ejemplo). Para arreglar el problema puede probar a reinstalar el dispositivo. Sin embargo, le recomendamos que se ponga en contacto con el fabricante del hardware para obtener un nuevo controlador. (Código 50)
+
+ Solución recomendada
+
+Reinstalar manualmente el controlador del dispositivo
+
+- Desde Inicio, busque administrador de dispositivos y seleccione Administrador de dispositivos entre los resultados.
+
+- En la lista, haga clic con el botón derecho en el dispositivo.
+
+- Seleccione Desinstalar en el menú que aparece.
+
+- Una vez desinstalado el dispositivo, elija Acción en la barra de menús.
+
+- Seleccione Buscar cambios de hardware para reinstalar el controlador.
+
+ Nota: Se le puede solicitar que proporcione la ruta de acceso del controlador. Si se le solicita el controlador y no lo tiene, puede intentar descargar el controlador más reciente en el sitio web del fabricante del hardware.
+
+## Código 51: "Este dispositivo está esperando el inicio de otro dispositivo... (Código 51)."
+
+ Mensaje completo del error
+
+Este dispositivo está esperando el inicio de otro dispositivo o conjunto de dispositivos. (Código 51).
+
+ Solución recomendada
+
+Actualmente no se conoce ninguna solución para este problema. Para ayudar a diagnosticar el problema, compruebe en el árbol de dispositivos si falla algún otro dispositivo del que pudiera depender este. Si logra determinar por qué no se inició otro dispositivo relacionado, tal vez pueda resolver este problema.
+
+## Código 52: "Windows no puede comprobar la firma digital para los controladores requeridos para este dispositivo. (Código 52)"
+
+ Mensaje completo del error
+
+Windows no puede comprobar la firma digital para los controladores requeridos para este dispositivo. Es posible que un cambio de hardware o software haya instalado un archivo que se haya firmado incorrectamente o se haya dañado, o que un software malintencionado de un origen desconocido. (Código 52)
+
+ Causa
+
+Es posible que el controlador no esté firmado o esté dañado.
+
+ Solución recomendada
+
+Descargue el controlador más reciente desde el sitio web del fabricante del hardware o póngase en contacto con él para obtener ayuda.
+
+## Código 53: "El depurador del kernel de Windows ha reservado este dispositivo para su uso... (Código 53)"
+
+ Mensaje completo del error
+
+El depurador del kernel de Windows ha reservado este dispositivo para su uso durante toda esta sesión de arranque. (Código 53)
+
+ Solución recomendada
+
+Deshabilite la depuración del kernel de Windows para permitir que el dispositivo se inicie normalmente.
+
+## Código 54: "Este dispositivo ha fallado y se está restableciendo. (Código 54)"
+
+ Causa
+
+Se trata de un código de problema intermitente que se asigna mientras se ejecuta un método ACPI de restablecimiento. Si el dispositivo no llega a reiniciarse debido a un fallo, se quedará bloqueado en este estado y debería reiniciarse el sistema.
+
+ Solución recomendada
+
+Reinicie el equipo. Desde Inicio, haga clic en Apagar y, a continuación, seleccione Reiniciar. 
+
+## También te puede interesar...
+
+ PC Manager de Microsoft para ayudar a proteger y mejorar el rendimiento del equipo. 
+ No disponible en todas las configuraciones regionales.
+
+## Artículos relacionados
+
+- 
+ El Administrador de dispositivos no muestra los dispositivos que no están conectados
+
+- 
+ Actualizar controladores en Windows 10
+
+- 
+ Recursos para solucionar problemas de sonido en Windows 10
+
+- 
+ Solucionar problemas de conexión e impresión de la impresora en Windows 10
+
+- 
+ Cámara no funciona en Windows 10

@@ -1,0 +1,42 @@
+URL: https://learn.microsoft.com/es-es/windows/application-management/app-v/appv-for-windows
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Virtualización de aplicaciones (App-V) para información general del cliente de Windows
+
+## 
+
+ Se aplica a:
+
+- Windows 10
+
+- Windows 11
+
+Importante
+
+El soporte extendido para MDOP finaliza el 14 de abril de 2026. Para obtener más información, consulte Compatibilidad con Microsoft Desktop Optimization Pack (MDOP) extendida.
+
+La documentación de las versiones anteriores de MDOP está disponible con la documentación de las versiones anteriores de Windows.
+
+Importante
+
+El cliente de Windows App-V se encuentra en soporte extendido fijo. Para obtener más información, consulta Compatibilidad con cliente de App-V.
+
+Los artículos de esta sección proporcionan información e instrucciones para ayudarte a administrar App-V y sus componentes. Esta información está destinada a los administradores del sistema que administran grandes instalaciones con muchos servidores y clientes, y al personal de soporte técnico que interactúa directamente con los equipos o usuarios.
+
+Te recomendamos que consultes Azure Virtual Desktop con la conexión de aplicaciones MSIX. Para obtener más información, consulte ¿Qué es Azure Virtual Desktop? y Agregar y administrar aplicaciones asociadas y aplicaciones MSIX en Azure Virtual Desktop.
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2024-07-30

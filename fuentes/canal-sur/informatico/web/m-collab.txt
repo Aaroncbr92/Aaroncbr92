@@ -1,0 +1,160 @@
+URL: https://learn.microsoft.com/es-es/sharepoint/collaboration-options
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Planear opciones de uso compartido y colaboración en SharePoint y OneDrive
+
+## 
+
+SharePoint y OneDrive proporcionan una plataforma para la colaboración a través del almacenamiento y el uso compartido de archivos y carpetas.
+
+A medida que planee el lanzamiento de SharePoint y OneDrive, estas son las principales áreas de decisión en torno a la colaboración:
+
+- 
+ Creación de sitios: ¿desea permitir que los usuarios creen sitios de SharePoint o desea administrarlo a través de TI o un proceso empresarial?
+
+- 
+ Uso compartido externo : ¿desea permitir que los usuarios compartan archivos, carpetas o sitios con personas ajenas a su organización?
+
+- 
+ Valores predeterminados de uso compartido de archivos y carpetas : ¿qué valores predeterminados de uso compartido desea usar para facilitar el uso compartido mientras ayuda a proteger la información confidencial?
+
+Para obtener más información sobre la gobernanza de la colaboración en Microsoft 365, consulte ¿Qué es la gobernanza de colaboración?.
+
+Para obtener una vista detallada de la colaboración de archivos en SharePoint, consulte Introducción a la colaboración de archivos en Microsoft 365, con tecnología de Colaboración de archivos y SharePointen SharePoint con Microsoft 365.
+
+Tenga en cuenta que la configuración que elija para la colaboración en SharePoint también puede afectar a Teams. Para obtener más información, vea Información general sobre la integración de Teams y SharePoint.
+
+## Creación y ciclo de vida del sitio
+
+De forma predeterminada, los usuarios pueden crear nuevos sitios de equipo y sitios de comunicación en SharePoint y bibliotecas compartidas en OneDrive. Se recomienda mantener esta configuración y usar directivas de expiración para administrar el número de sitios no utilizados.
+
+Si no desea permitir que los usuarios creen sitios directamente, puede deshabilitar la creación de sitios de usuario. Para obtener más información, vea Administrar la creación de sitios en SharePoint.
+
+Incluso si desactiva la creación de sitios para los usuarios en SharePoint, todavía pueden crear sitios de equipo conectados a grupos de Microsoft 365 mediante la creación de un grupo de Microsoft 365 o cualquiera de sus servicios relacionados, como un equipo de Microsoft Teams. Si no desea permitir que los usuarios creen Grupos de Microsoft 365 o servicios relacionados, incluidos los sitios de equipo conectados a grupos, consulte Administrar quién puede crear Grupos de Microsoft 365.
+
+Como parte de la implementación de SharePoint, se recomienda crear su propia guía personalizada para los propietarios de sitios de SharePoint sobre cómo se configuran y administran los sitios en su organización. Consulte Crear directrices para el uso del sitio para obtener más información.
+
+## Uso compartido externo
+
+El uso compartido externo en SharePoint y OneDrive usa Microsoft Entra colaboración B2B para crear cuentas de invitado para personas ajenas a la organización. Los invitados pueden tener acceso a sitios de SharePoint o a archivos y carpetas individuales en SharePoint y OneDrive.
+
+El uso compartido externo está habilitado de forma predeterminada en Microsoft 365, incluidos SharePoint y OneDrive. Se recomienda dejar habilitado el uso compartido externo. Las opciones de uso compartido externo de Microsoft 365 pueden proporcionar un entorno de uso compartido más seguro y gobernable que el envío de datos adjuntos por correo electrónico o el uso de servicios de uso compartido de consumidores.
+
+Use la página Uso compartido del Centro de administración de SharePoint para configurar las opciones de uso compartido. Para obtener más información, consulte Administración de la configuración de uso compartido.
+
+Para obtener más información sobre cómo configurar la colaboración de invitados en sitios de SharePoint, vea Colaborar con invitados en un sitio.
+
+### Configuración de uso compartido de nivel de organización
+
+La configuración de uso compartido de nivel de organización para SharePoint y OneDrive proporciona una configuración predeterminada para sitios y bibliotecas de OneDrive. Los sitios individuales se pueden bloquear aún más, pero no se pueden hacer más permisivos que la configuración de la organización.
+
+Una decisión clave para el lanzamiento de SharePoint y OneDrive es con quién se puede compartir el contenido:
+
+- 
+ Cualquiera: los usuarios pueden compartir archivos y carpetas mediante vínculos que no requieren inicio de sesión.
+
+- 
+ Invitados nuevos y existentes : los invitados se agregan al directorio cuando se comparte un elemento y deben iniciar sesión o proporcionar un código de verificación para acceder al contenido.
+
+- 
+ Invitados existentes : los usuarios solo pueden compartir con invitados que ya están en el directorio de su organización. (Esta configuración no se recomienda porque los invitados se pueden agregar al directorio de varias maneras fuera de SharePoint y OneDrive).
+
+- 
+ Solo personas de la organización : no se permite el uso compartido externo.
+
+Esta configuración se puede establecer por separado para SharePoint y OneDrive, aunque la configuración de OneDrive no puede ser más permisiva que la configuración de SharePoint.
+
+Decisiones importantes:
+
+- ¿Quiere permitir el uso compartido externo? Si no es así, elija la opción Solo personas de su organización .
+
+- ¿Desea permitir que los usuarios creen vínculos de uso compartido que permitan a las personas no autenticadas (anónimas) acceder a archivos o carpetas? Si es así, elija Cualquiera.
+
+### Restricciones de uso compartido externo
+
+Puede restringir el uso compartido externo con estas opciones:
+
+- Restringir con qué dominios pueden compartir los usuarios.
+
+- Limitar el uso compartido externo a personas de un grupo de seguridad específico.
+
+- Expire el acceso de invitado después de un período especificado.
+
+- Requerir la reautenticación después de un período especificado para los usuarios que usan un código de verificación.
+
+Si desea restringir los dominios con los que los usuarios pueden compartir, puede elegir la opción Limitar el uso compartido externo por dominio . Para obtener más información, vea Restringir el uso compartido de contenido de SharePoint y OneDrive por dominio. Tenga en cuenta que esta configuración solo afecta a SharePoint y OneDrive. Si desea establecer esta opción para todos los servicios de Microsoft 365, puede configurar la restricción en Microsoft Entra ID. Consulte Permitir o bloquear invitaciones a usuarios B2B de organizaciones específicas para obtener más información.
+
+Si no desea que todos los usuarios puedan compartir externamente, puede restringir el uso compartido externo a grupos de seguridad específicos. Elija la opción Permitir que solo los usuarios de grupos de seguridad específicos compartan externamente y elija los grupos que desea permitir.
+
+Si desea que el acceso de invitado expire después de un período determinado, use el acceso de invitado a un sitio o OneDrive expirará automáticamente después de esta configuración de muchos días . Los usuarios que compartieron el contenido tendrán la opción de ampliar la expiración por el período especificado antes de que los invitados pierdan el acceso. Para obtener más información, consulte Administración de la expiración de invitado para un sitio.
+
+A los invitados con direcciones de correo electrónico que no son de Microsoft, como Gmail, se les envía un código de verificación cuando intentan acceder al contenido compartido. Puede requerir que estos invitados vuelvan a autenticarse después de un período especificado. Use el Personas que usan un código de verificación debe volver a autenticarse después de esta configuración de muchos días para configurarlo.
+
+## Uso compartido de archivos y carpetas
+
+Para crear una experiencia de uso compartido fácil para los usuarios a la vez que se reduce el riesgo de uso compartido excesivo, puede elegir entre estas opciones para los vínculos de uso compartido de archivos y carpetas:
+
+- Elija el tipo de vínculo predeterminado que ven los usuarios cuando comparten un archivo o carpeta.
+
+- Elija si el vínculo de uso compartido predeterminado permite a los destinatarios editar los archivos.
+
+- Elija si los vínculos cualquiera expiran después de un período determinado.
+
+- Elija si los vínculos Cualquiera permiten a los destinatarios editar los archivos.
+
+Cuando los usuarios comparten un archivo o una carpeta, pueden elegir entre varios tipos de vínculos de uso compartido que ofrecen distintos niveles de permisos. Puede elegir qué tipo de vínculo se muestra de forma predeterminada:
+
+- Los vínculos de personas específicos requieren que el usuario especifique una lista de personas que tendrán acceso al archivo o carpeta.
+
+- 
+ Solo los usuarios de los vínculos de la organización proporcionan acceso al archivo o carpeta a cualquier persona de la organización que tenga el vínculo.
+
+- Los vínculos de cualquiera (si los ha habilitado en la configuración de uso compartido de nivel de organización) proporcionan acceso anónimo a cualquier persona que tenga el vínculo, incluidas las personas ajenas a la organización.
+
+También puede elegir el nivel de permiso predeterminado (ver o editar) para compartir vínculos.
+
+Estas opciones también se pueden configurar para sitios individuales. Consulte Cambiar la configuración de uso compartido de un sitio para obtener más información.
+
+Si ha habilitado los vínculos cualquiera , puede elegir si estos vínculos deben expirar después de un período determinado y si deben permitir el acceso de edición o simplemente ver el acceso.
+
+## Pasos siguientes
+
+ Administración de cambios y entrenamiento
+
+## Temas relacionados
+
+ Planeamiento de SharePoint y OneDrive en Microsoft 365
+
+ Configuración del uso compartido de archivos seguro y la colaboración con Microsoft Teams
+
+ Introducción a las opciones de colaboración externa en Microsoft 365
+
+ Sincronización de archivos de SharePoint y OneDrive
+
+ Creación de un entorno de uso compartido de invitados más seguro
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2023-04-07

@@ -1,0 +1,20 @@
+URL: https://csrc.nist.gov/glossary/term/advanced_encryption_standard
+Leído: 2026-10-05
+
+Definitions:
+A U.S. Government-approved cryptographic algorithm that can be used to protect electronic data. The AES algorithm is a symmetric block cipher that can encrypt (encipher) and decrypt (decipher) information.
+Sources:
+CNSSI 4009-2022
+under advanced encryption standard
+from
+FIPS 197
+- adapted
+About
+See the identified Source document to understand each term-definition pair in its proper context.
+Send inquiries about terminology to the Source's authors; NIST publications will usually include a contact email for that Source.
+For other inquiries, such as comments about the Glossary's presentation and functionality, use
+this link
+.
+See the
+Glossary homepage
+for more guidance.

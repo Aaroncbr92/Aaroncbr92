@@ -1,0 +1,164 @@
+URL: https://www.ieee802.org/
+Leído: 2026-10-05
+
+IEEE802
+
+ | 
+
+# IEEE 802 LMSC 
+
+ | 
+
+ | 
+
+The IEEE 802 LAN/MAN Standards Committee (LMSC) develops and maintains
+networking standards and recommended practices for local,
+metropolitan, and other area networks, using an open and accredited
+process, and advocates them on a global basis. The most widely used
+standards are for Ethernet, Bridging and Virtual Bridged LANs Wireless
+LAN, Wireless PAN, Wireless MAN, Wireless Coexistence, Media
+Independent Handover Services, and Wireless RAN. An individual Working
+Group provides the focus for each area.
+
+## Get 802 standards 
+
+- Get 802 Standards
+
+- (IEEE-SA / IEEE 802 LMSC 2016 "Get IEEE802" Program Guideline)
+
+## IEEE 802 LMSC 
+Working Groups, Technical Advisory Groups, Study Groups, and Standing Committees
+
+- 802.1 Higher Layer LAN Protocols Working Group
+
+- 802.3 Ethernet Working Group 
+
+- 802.11 Wireless LAN Working Group 
+
+- 802.15 Wireless Specialty Network (WSN) Working Group
+
+- 802.18 Radio Regulatory TAG 
+
+- 802.19 Wireless Coexistence Working Group 
+
+- 802.24 Vertical Applications TAG
+
+- IEEE 802 LMSC Standing Committees
+
+List of Hibernating and Disbanded Working Groups and Study Groups
+
+## IEEE 802 LMSC Session Information 
+
+- IEEE 802 LMSC Plenary/Interim meeting information
+
+- IEEE 802 LMSC Meeting Agendas, Minutes and Reports
+
+- PARs under consideration
+
+- Tutorial information for the plenary meetings
+
+- IEEE 802 LMSC conference call schedule and minutes
+
+- IEEE 802 LMSC and subgroup calendar
+
+## IEEE 802 LMSC General Information
+
+- IEEE SA Policies
+
+- IEEE SA Training 
+
+- Approved/In process IEEE 802 Activities (Standards/Projects/Pre-par)
+
+- IEEE 802 LMSC Orientation
+
+- IEEE 802 LMSC Policies & Procedures and other documents related to standards development
+
+- List of active IEEE 802 Standards
+
+- IEEE 802 LMSC Archived and Obsolete Documents 
+
+- Join a ballot pool for 802 standards (and other IEEE standards)
+
+- Appeals made to the 802 Executive Committee
+
+- IEEE 802 LMSC Liaisons 
+
+- IEEE 802 LMSC Public Statements to Government Bodies
+
+- IEEE Computer Society Home Page
+
+- Standards Development Toolbox
+
+- 802 Wireless Frequency Band Table 
+
+- Participation in IEEE activities by Participants on the BIS Entity List
+
+- FAQs
+
+- IEEE Statement
+
+- IEEE SA Statement
+
+- Draft Sharing Status
+
+## IEEE 802 LMSC Document Repository
+
+- IEEE 802 LMSC
+
+- Archived IEEE 802-EC Server (LMSC documents from 2009-2025)
+
+- Various IEEE 802 LMSC Groups
+
+- Approved CSD Repository
+
+- Archived Approved CSD Repository (approved prior to April 2025)
+
+## IEEE 802 LMSC Email List
+
+- To join the 802 LMSC email reflector, send an email to
+
+- Search the 802 LMSC email archive
+
+- Browse by date
+
+- Browse by thread
+
+- 802 SEC Email Reflector Archive (Reflector disabled 01 Jan 2025)
+
+- 802w-cc Reflector Archive
+
+## News about IEEE 802 LMSC
+
+- IEEE Transmitter - IEEE 802 LMSC
+
+- IEEE 802 LMSC: Keeping the World Connected
+
+- Virtual Panel Series - IEEE 802 LMSC Networking Standards Tech Talks
+
+- IEEE 802 LMSC Next Generation Efforts
+
+## Contact Information
+
+- IEEE 802 LMSC Chair:
+
+- IEEE 802 LMSC members, including all IEEE 802 LMSC Working Group Chairs
+
+- IEEE 802 LMSC Staff Lead and Manager for 802.1 and 802.3: 
+
+- IEEE 802 LMSC Manager for 802.11, 802.15, 802.18, 802.19 and 802.24: 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+Last Update: 
+July 28, 2026
+
+This page is maintained by 
+
+It has been designed to be compliant with HTML 3.2 and
+above and should work with all compliant browsers.

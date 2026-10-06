@@ -1,0 +1,170 @@
+URL: https://learn.microsoft.com/es-es/sharepoint/document-library-version-history-limits
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Información general sobre los límites del historial de versiones para las bibliotecas de documentos y OneDrive
+
+## 
+
+Los límites del historial de versiones controlan cómo se almacenan las versiones en una biblioteca de documentos de SharePoint o una cuenta de OneDrive. Los límites se pueden establecer en el nivel de la organización, el sitio, la biblioteca o la cuenta de usuario de OneDrive, lo que permite a los administradores y propietarios del sitio administrar mejor los requisitos de auditoría y recuperación de contenido. Los administradores globales y de SharePoint de Microsoft 365 pueden establecer límites de historial de versiones en el nivel de organización. Esta configuración se aplica universalmente a todas las bibliotecas nuevas, ya sean en sitios de SharePoint existentes o nuevos, y en bibliotecas predeterminadas en nuevos sitios de OneDrive. Los propietarios de sitios pueden sobrescribir la configuración de la versión de nivel de organización mediante la configuración de la configuración de versiones para los sitios que poseen. Los propietarios de sitios pueden sobrescribir la configuración de la organización o del sitio configurando la configuración de versiones para las bibliotecas y listas que poseen.
+
+En la tabla siguiente se resumen las distintas formas de administrar los límites del historial de versiones en las bibliotecas de documentos:
+
+ | Área
+
+ | ¿Cómo funciona?
+
+ | 
+ Establecimiento de límites predeterminados del historial de versiones de la organización
+
+ | Los límites predeterminados del historial de versiones de la organización se establecen en todas las bibliotecas de documentos nuevas creadas en sitios de SPO existentes y nuevos.
+
+ | 
+ Establecimiento de límites de historial de versiones de nivel de sitio o biblioteca
+
+ | Si es necesario, los administradores del sitio pueden interrumpir la herencia de los límites de organización predeterminados para un sitio o biblioteca individuales.
+
+ | 
+ Informe sobre el almacenamiento de versiones en un sitio
+
+ | Ejecute un informe para analizar el uso del almacenamiento de versiones de las versiones existentes, comprender cómo funciona un límite de versiones antes de configurar los límites o analizar el impacto del recorte de las versiones existentes antes de programar el trabajo de recorte.
+
+ | 
+ Recorte de versiones existentes
+
+ | Los administradores del sitio pueden optar por recortar las versiones existentes mediante la puesta en cola de un trabajo de temporizador para ejecutar el recorte.
+
+## Cómo se aplican los límites del historial de versiones
+
+Los límites del historial de versiones se aplican de las siguientes maneras:
+
+- 
+ Límites de organización predeterminados: La configuración predeterminada de la organización se aplica a todas las bibliotecas nuevas creadas en sitios que no tienen configurada la configuración de nivel de sitio.
+
+- 
+ Límites de sitio: Es posible interrumpir la herencia de un sitio mediante la configuración de los límites del historial de versiones para el sitio. Cuando se configuran límites de versión en un sitio, la configuración se aplica a todas las bibliotecas nuevas creadas en el sitio.
+
+- 
+ Límites de biblioteca: Es posible interrumpir la herencia en el nivel de biblioteca para definir los límites de versión de los archivos almacenados en la biblioteca.
+
+En el ejemplo siguiente, los límites predeterminados de la organización se aplican a las nuevas bibliotecas creadas en sitios de marketing y ventas, ya que estos sitios no tienen límites de nivel de sitio aplicados. El sitio legal tiene límites de nivel de sitio aplicados y herencia rota de los valores predeterminados de la organización. Las bibliotecas creadas en el sitio legal siguen los límites aplicados en el nivel de sitio legal.
+
+En la ilustración siguiente se muestra el flujo de trabajo de aplicación de un límite de versión en nuevas bibliotecas de documentos. Cuando se crea una nueva biblioteca, se realiza la comprobación de la configuración de nivel de sitio. Si no se define ninguna configuración de sitio, la configuración predeterminada de la organización se aplica a las nuevas bibliotecas.
+
+## Tipos de límites de versión
+
+Hay dos opciones de configuración del historial de versiones que los administradores pueden usar para configurar los límites de versión para todas las bibliotecas nuevas creadas en su organización:
+
+### Configuración automática
+
+Se recomienda la configuración automática para el almacenamiento de versiones optimizado. Combina las ventajas de recuperación de datos que ofrece el historial de versiones al tiempo que optimiza su almacenamiento. Para los administradores, esta configuración ofrece la opción de almacenamiento más óptima sin tener que calcular el número de versiones o los límites de edad necesarios para satisfacer la necesidad diversificada de sus usuarios finales.
+ Para obtener más información, consulte Almacenamiento de versiones bajo límites automáticos.
+
+### Configuración manual
+
+La configuración manual permite a los administradores establecer límites de recuento en el número de versiones principales o establecer límites de expiración y recuento. Cuando se selecciona esta opción, los administradores pueden configurarla de las siguientes maneras.
+
+- 
+
+ Límite de versiones principales con período de expiración: las versiones se eliminan después de superar el número establecido de versiones principales o después del período de tiempo establecido. Por ejemplo, si configura una biblioteca para almacenar 500 versiones principales con una expiración de 365 días, el sistema no almacena más de 500 versiones y elimina automáticamente cualquier versión anterior a 365 días.
+
+- 
+
+ Límites de versiones principales sin período de expiración: las versiones se eliminan después de superar el número establecido de versiones principales. Por ejemplo, si una biblioteca está configurada para almacenar 500 versiones principales, no se almacenan más de 500 versiones para cada archivo o elemento.
+
+Para obtener más información, consulte determinación del recuento correcto o los límites de versión de expiración.
+
+Nota:
+
+- 
+La interfaz de usuario no permite establecer un valor menor que 100 versiones principales o menos de 30 días, pero es posible establecer el sistema para almacenar menos versiones mediante API públicas. Por motivos de confiabilidad, no se recomienda cualquier valor inferior a 100 versiones o un límite de tiempo de expiración inferior a 30 días y puede dar lugar a que la actividad del usuario provoque una pérdida de datos involuntaria.
+
+- 
+Si los límites del historial de versiones de tiempo están configurados en una biblioteca, la fecha de expiración de la versión del archivo se marca en una versión en el momento de la creación. La fecha de expiración establecida en una versión de archivo se determina a partir de SnapshotDate de la versión, que es la fecha en que una versión se convirtió en una versión histórica. SnapshotDate podría calcularse si la versión se hizo una instantánea antes del 1 de enero de 2023.
+
+## Comportamiento del almacenamiento de versiones
+
+El almacenamiento de versiones en SharePoint viene determinado por varios factores, incluidos los límites configurados en una biblioteca, la actividad de eliminación de usuarios o las directivas de retención. En la tabla siguiente se enumeran los distintos escenarios y el comportamiento de almacenamiento de versiones esperado:
+
+En la tabla siguiente se enumeran los escenarios y el comportamiento de almacenamiento de versiones esperado:
+
+ | Escenario
+
+ | Comportamiento de recorte de versiones
+
+ | El usuario elimina las versiones del historial de versiones de un archivo.
+
+ | Cuando un usuario elimina una versión del historial de versiones de un archivo, la versión eliminada se mueve a la papelera de reciclaje del sitio y se puede recuperar durante un período. Para obtener más información, consulte Restaurar elementos de la papelera de reciclaje que se eliminaron de SharePoint o Teams.
+
+ | Las versiones superan la configuración aplicada en la biblioteca de documentos.
+
+ | Cuando las versiones superan los límites establecidos en la biblioteca, las versiones que coinciden con los criterios se marcan para la eliminación permanente. Este flujo de trabajo de eliminación de versiones omite la papelera de reciclaje normal y las versiones eliminadas no se pueden recuperar de la papelera de reciclaje.
+
+ | Trabajo del temporizador programado para recortar las versiones existentes en una biblioteca o sitio.
+
+ | Las versiones eliminadas mediante trabajos programados se eliminan permanentemente. Este flujo de trabajo de eliminación de versiones omite la papelera de reciclaje normal y las versiones eliminadas no se pueden recuperar de la papelera de reciclaje.
+
+ | Almacenamiento de versiones en elementos que están sujetos a la directiva de retención o a una suspensión de exhibición de documentos electrónicos.
+
+ | En el caso de los elementos que están sujetos a una directiva de retención (o a una suspensión de exhibición de documentos electrónicos), se omiten los límites de control de versiones de la biblioteca de documentos. Esta exención continúa hasta que se alcanza el período de retención del documento (o se libera la suspensión de eDiscovery). Para obtener más información, consulte Cómo funciona la retención con las versiones del documento.
+
+ | El trabajo del temporizador programado para recortar las versiones existentes en una biblioteca o sitio encuentra versiones que están sujetas a la directiva de retención o a una suspensión de eDiscovery.
+
+ | Cuando un trabajo de recorte encuentra una versión en una directiva de retención o una suspensión de eDiscovery, marcará una fecha de expiración en la versión en lugar de eliminarla. Una vez alcanzada la fecha de expiración: 1) si la directiva de retención o la suspensión de eDiscovery siguen en vigor para la versión, la fecha de expiración se extiende; o 2) si se ha quitado la directiva de retención o la suspensión de eDiscovery para la versión, se elimina la versión.
+
+ | Recorte de versiones existentes en sitios que son de solo lectura (sitios bloqueados).
+
+ | El recorte de las versiones expiradas en sitios que están en retención o están en espera se suspende hasta que se desbloquea el sitio.
+
+ | Eliminación de versiones en elementos con etiquetas de retención aplicadas.
+
+ | Los límites de control de versiones se respetan en los elementos con etiquetas de retención cuando el contenido no está sujeto a una directiva de retención (o a una suspensión de eDiscovery). Las versiones que coinciden con los criterios de límite se eliminan automáticamente para dar cabida a nuevas versiones, pero los usuarios siguen impedidos de eliminar versiones.
+
+ | Eliminación de versiones en elementos marcados como registros.
+
+ | La eliminación de versiones en documentos marcados como registros está bloqueada. Para obtener más información, vea Uso del control de versiones de registros en SharePoint o OneDrive.
+
+## Auditoría de eventos de control de versiones
+
+Los eventos de auditoría están disponibles en el portal de Microsoft Purview para ayudarle a supervisar las actividades del historial de versiones. Los eventos de auditoría se registran para las actividades siguientes:
+
+- Cambios realizados en los límites del historial de versiones de la organización.
+
+- Cambios realizados en los límites del historial de versiones del sitio.
+
+- Cambios realizados en los límites del historial de versiones de la biblioteca.
+
+- El usuario pone en cola un trabajo para generar un informe de uso del almacenamiento de versiones.
+
+- El usuario pone en cola un trabajo para actualizar los límites del historial de versiones en todas las bibliotecas de un sitio.
+
+- El usuario pone en cola un trabajo para eliminar de forma masiva el historial de versiones de los archivos de una biblioteca o sitio.
+
+- El usuario elimina las versiones del historial de versiones de un archivo.
+
+- Versiones eliminadas cuando expiran o se eliminan masivamente.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2024-10-04

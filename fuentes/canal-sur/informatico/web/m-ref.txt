@@ -1,0 +1,95 @@
+URL: https://support.microsoft.com/es-es/excel/how-to-correct-a-ref-error
+Leído: 2026-10-05
+
+# ¡Cómo corregir un #REF! error
+
+ Se aplica a
+Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021 para Mac Excel 2019 Excel 2016 Excel para iPad Excel para iPhone Excel para tabletas Android Excel para teléfonos Android Excel para Windows Phone 10 Excel Mobile 
+
+Obtener ayuda con Copilot
+
+ Explica cómo corregir un error #REF!.
+
+ Háblame sobre cómo ingresar una fórmula que contenga una función integrada.
+
+ Explica cómo descargar el libro de tutorial de fórmulas.
+
+El error #REF! se muestra cuando una fórmula hace referencia a una celda que no es válida. Esto ocurre la mayoría de las veces cuando las celdas a las que se hace referencia mediante fórmulas se eliminan o se pegan encima. 
+
+## #REF! se ha provocado al eliminar una columna
+
+En el siguiente ejemplo se usa la fórmula =SUMA(B2,C2,D2) en la columna E. 
+
+ Si eliminara la columna B, C o D, ¡causaría un #REF! al escribir la fórmula =SUMA(C2:C3 E4:E6). En este caso, eliminaremos la columna C (Ventas de 2007) y la fórmula ahora es =SUMA(B2,#REF!,C2). Cuando se usan referencias de celda explícitas como esta (donde se hace referencia a cada celda individualmente, separadas por una coma) y se elimina una fila o columna a la que se hace referencia, Excel no puede resolverlo, por lo que devuelve el #REF. al escribir la fórmula =SUMA(C2:C3 E4:E6). Esta es la razón principal por la que no se recomienda usar referencias de celda explícitas en las funciones.
+
+ Solución
+
+- Si ha eliminado filas o columnas por error, puede seleccionar inmediatamente el botón Deshacer de la barra de herramientas de acceso rápido (o presionar CTRL+Z) para restaurarlas.
+
+- Ajuste la fórmula de forma que use una referencia de rango en lugar de celdas individuales, como =SUMA(B2:D2). Ahora puede eliminar cualquier columna dentro del rango de suma y Excel ajustará automáticamente la fórmula. También puede usar =SUMA(B2:B5) para una suma de filas.
+
+## Ejemplo: BUSCARV con referencias de rango incorrectas
+
+En el siguiente ejemplo, =BUSCARV(A8,A2:D5,5,FALSO) devolverá un error #¡REF! porque está buscando un valor para devolver de la columna 5, pero el rango de referencia es A:D, que es solo 4 columnas.
+
+ Solución
+
+Ajuste el rango para que sea mayor o reduzca el valor de búsqueda de columnas para que coincida con el rango de referencia. 
+ =BUSCARV(A8,A2:E5,5,FALSO) sería un rango de referencia válido, al igual que =BUSCARV(A8,A2:D5,4,FALSO).
+
+## INDEX con referencia incorrecta a fila o columna
+
+En este ejemplo, la fórmula =INDICE(B2:E5,5,5) devuelve un error #¡REF! porque el rango del ÍNDICE es de 4 filas por 4 columnas, pero la fórmula pide devolver lo que hay en la 5ª fila y la 5ª columna.
+
+ Solución
+
+Ajuste las referencias de fila o columna de forma que estén dentro del rango de búsqueda de INDICE. 
+ =INDICE(B2:E5,4,4) devolverá un resultado válido.
+
+## Hacer referencia a un libro cerrado con INDIRECTO
+
+En el ejemplo siguiente, una función INDIRECTO intenta hacer referencia a un libro que está cerrado, provocando un #REF! al escribir la fórmula =SUMA(C2:C3 E4:E6).
+
+ Solución
+
+Abra el libro al que se hace referencia. Encontrará el mismo error si hace referencia a un libro cerrado con una función de matriz dinámica.
+
+## Referencias estructuradas no admitidas
+
+No se admiten referencias estructuradas a nombres de tabla y columna en libros vinculados.
+
+## Las referencias calculadas no se admiten
+
+No se admiten referencias calculadas a libros vinculados.
+
+## Error de referencia de celda no válida
+
+Mover o eliminar celdas provocó una referencia de celda no válida, o la función devuelve un error de referencia.
+
+## Problemas de OLE
+
+Si ha usado un vínculo de vinculación e incrustación de objetos (OLE) que devuelve un #REF! , inicie el programa al que llama el vínculo.
+
+ Nota: OLE es una tecnología que puede usar para compartir información entre programas.
+
+## Problemas de DDE
+
+Si ha utilizado un tema de Intercambio dinámico de datos (DDE) que devuelve un #REF! compruebe primero que está haciendo referencia al tema correcto. ¡Si todavía está recibiendo un #REF! , compruebe la configuración del Centro de confianza para el contenido externo, como se describe en Bloquear o desbloquear contenido externo en documentos de Microsoft 365.
+
+ Nota:El Intercambio dinámico de datos (DDE) es un protocolo establecido para intercambiar datos entre programas basados en Microsoft Windows.
+
+## ¿Necesitas más ayuda?
+
+Siempre puede preguntar a un experto en Excel Tech Community u obtener soporte técnico en Comunidades.
+
+## Consulte también
+
+ Información general sobre fórmulas en Excel
+
+ Cómo evitar la ruptura de las fórmulas
+
+ Detectar errores en fórmulas
+
+ Funciones de Excel (por orden alfabético)
+
+ Funciones de Excel (por categoría)

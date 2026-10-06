@@ -1,0 +1,113 @@
+URL: https://support.microsoft.com/es-es/teams/files/file-storage-in-microsoft-teams
+Leído: 2026-10-05
+
+# Almacenamiento de archivos en Microsoft Teams
+
+ Se aplica a
+Teams Microsoft Teams 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo puedo configurar archivos en Teams para escritorio?
+
+ ¿Cómo encuentro archivos en canales y chats?
+
+ Dame almacenamiento de archivos.
+
+Almacene y acceda a archivos en Teams en cualquier lugar y en cualquier momento. Carga archivos en un canal o chat específico para conceder a otros usuarios acceso a su contenido.
+
+- 
+
+ Escritorio
+
+- 
+
+ iOS
+
+- 
+
+ Android
+
+## Acceder a archivos en Teams para escritorio
+
+Seleccione OneDrive en el lado izquierdo de Teams para acceder a sus archivos. En OneDrive, puede buscar y filtrar archivos para encontrar los que necesita. 
+
+### Files en canales y chats
+
+Los Files que cargue en un canal se almacenan en la carpeta de SharePoint de su equipo. Estos archivos están disponibles en la pestaña Compartido en la parte superior de cada canal.
+
+Los Files que envíe en el chat se almacenan en su OneDrive para la Empresa y solo se comparten con las personas en esa conversación. Puede encontrarlos en la pestaña Compartido en la parte superior de un chat.
+
+Nota
+
+Los archivos de OneDrive que ve en Teams son archivos de OneDrive para la Empresa asociados a su cuenta de Microsoft 365, no a su OneDrive personal. Actualmente, Teams no puede conectarse a su OneDrive personal.
+
+Los Files que cargue en un canal se almacenan en la carpeta de SharePoint de su equipo.
+
+Para acceder a los archivos y carpetas de SharePoint de un canal:
+
+- Desde el o el icono de Teams, vaya al canal en el que quiera ver los archivos.
+
+- Pulse Archivos.
+
+Para acceder a archivos y carpetas desde un chat:
+
+- Pulse Chat en Teams.
+
+- Pulse el chat en el que desea ver los archivos.
+
+- Pulse el nombre del chat o de la persona con la que está chateando en la parte superior de la conversación.
+
+- En Files, pulse Ver todo. 
+
+Para cargar archivos en Teams:
+
+- Pulse el en Teams.
+
+- Pulse en FilesOneDrive> .
+
+- Pulse Agregar>Files.
+
+- Seleccione un archivo y pulse Abrir. 
+
+Nota
+
+Files carga en un chat individual o grupal se almacenan en el Chat Files de Microsoft Teams en la carpeta OneDrive para la Empresa y solo se comparten con las personas de esa conversación.
+
+Los Files que cargue en un canal se almacenan en la carpeta de SharePoint de su equipo.
+
+Para acceder a los archivos y carpetas de SharePoint de un canal:
+
+- Desde el o el icono de Teams, vaya al canal en el que quiera ver los archivos.
+
+- Pulse Archivos.
+
+Para acceder a archivos y carpetas desde un chat:
+
+- Pulse Chat en Teams.
+
+- Pulse el chat en el que desea ver los archivos.
+
+- Pulse el nombre del chat o de la persona con la que está chateando en la parte superior de la conversación.
+
+- En Files, pulse Ver todo. 
+
+Para cargar archivos:
+
+- Pulse el en Teams.
+
+- Pulse en FilesOneDrive>.
+
+- Pulse Agregar>Files.
+
+- Seleccione un archivo y pulse Abrir. 
+
+Nota
+
+Files carga en un chat individual o grupal se almacenan en el Chat Files de Microsoft Teams en la carpeta OneDrive para la Empresa y solo se comparten con las personas de esa conversación.
+
+## Temas relacionados
+
+ Compartir archivos en Microsoft Teams
+
+ Compartir un archivo desde el almacenamiento en nube en Microsoft Teams

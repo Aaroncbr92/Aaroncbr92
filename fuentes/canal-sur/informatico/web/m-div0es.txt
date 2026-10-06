@@ -1,0 +1,65 @@
+URL: https://support.microsoft.com/es-es/excel/how-to-correct-a-div-0-error
+Leído: 2026-10-05
+
+# ¡Cómo corregir un #DIV/0! error
+
+ Se aplica a
+Excel para Microsoft 365 Excel para Microsoft 365 para Mac Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021 para Mac Excel 2019 Excel 2016 Excel para iPad Aplicación web de Excel Excel para iPhone Excel para tabletas Android Excel para teléfonos Android Excel para Windows Phone 10 Excel Mobile 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo puedo usar SI.ERROR para suprimir el error #DIV/0!?
+
+ Muéstrame cómo corregir un error #valor! en la función si.
+
+ Explica cómo corregir un error #DIV/0!.
+
+ Microsoft Excel muestra el #DIV/0! cuando un número se divide por cero (0). Esto puede suceder al escribir una fórmula simple (como =5/0) o si una fórmula hace referencia a una celda con valor 0 o en blanco, tal como se muestra en esta imagen.
+
+Para corregir el error, siga uno de estos procedimientos:
+
+- Asegúrese de que el divisor de la función o fórmula no sea cero o una celda en blanco.
+
+- Cambie la referencia de celda de la fórmula a otra celda que no tenga cero (0) o un valor en blanco.
+
+- Escriba #N/A en la celda a la que se hace referencia como divisor en la fórmula, lo que cambiará el resultado de la fórmula a #N/A para indicar que el valor del divisor no está disponible.
+
+Muchas veces el error #¡DIV/0! no se puede evitar porque las fórmulas están esperando su entrada o la de otra persona. En ese caso, no desea que se muestre el mensaje de error, por lo que hay algunos métodos de control de errores que puede usar para suprimir el error mientras espera la entrada. 
+
+## Evaluar el denominador para 0 o ningún valor
+
+¡La forma más sencilla de suprimir el #DIV/0! es usar la función SI para evaluar la existencia del denominador. Si es un valor 0 o ninguno, muestra un valor 0 o ningún valor como resultado de la fórmula en lugar del #DIV/0. valor de error, de lo contrario, calcule la fórmula.
+
+Por ejemplo, si la fórmula que devuelve el error es =A2/A3, use =SI(A3,A2/A3,0) para devolver 0 o =SI(A3,A2/A3,"") para devolver una cadena vacía. También puede mostrar un mensaje personalizado como este: =SI(A3;A2/A3;"Entrada necesaria"). Con la función COCIENTE del primer ejemplo usaría =SI(A3,COCIENTE(A2,A3),0). Esto indica a Excel SI(A3 existe, entonces devuelve el resultado de la fórmula, de otro modo lo ignora).
+
+### ¡Use SI.ERROR para suprimir el #DIV/0! error
+
+También puede suprimir este error anidando la operación de división dentro de la función SI.ERROR. De nuevo, al usar A2/A3, puede usar =SI.ERROR(A2/A3,0). Esto indica a Excel si su fórmula se evalúa como un error, entonces devuelve 0, de otro modo devuelve el resultado de la fórmula.
+
+Nota: los métodos SI.ERROR y SI (ESERROR()) son controladores de errores abiertos, suprimirán todos los errores, no solo los #¡DIV/0!. Debe asegurarse de que la fórmula funciona correctamente antes de aplicar cualquier control de errores; de lo contrario, es posible que no se dé cuenta de que la fórmula no funciona según lo esperado.
+
+Recomendación
+
+Si se ha activado la comprobación de errores en Excel, puede seleccionar junto a la celda que muestra el error. Seleccione Mostrar pasos de cálculo si está disponible y elija la resolución más adecuada para los datos.
+
+## ¿Necesitas más ayuda?
+
+Siempre puede preguntar a un experto en Excel Tech Community u obtener soporte técnico en Comunidades.
+
+## Consulte también
+
+ Función SI
+
+ Función SI.ERROR
+
+ Funciones ES
+
+ Información general sobre fórmulas en Excel
+
+ Cómo evitar la ruptura de las fórmulas
+
+ Detectar errores en fórmulas
+
+ Funciones de Excel (por orden alfabético)
+
+ Funciones de Excel (por categoría)

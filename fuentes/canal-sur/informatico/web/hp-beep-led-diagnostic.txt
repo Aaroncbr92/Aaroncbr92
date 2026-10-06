@@ -1,0 +1,86 @@
+Interactive Beep and LED Diagnostic
+Welcome to this interactive beep and LED diagnostic viewer
+Here’s how to use it…
+Beep & LED Diagnostic (Click the link to navigate this platform’s diagnostic codes)
+On this page you will find a diagnostic viewer with a menu of this product’s diagnostic error features. To identify the diagnostic codes for an error 
+feature, simply click that feature. To learn more about the behavior and meaning of the specific beep codes, click the beep code and review the 
+information that presents in the right-hand pane. There is also a LED diagnostic, which you can review by hovering over the information icon on the 
+image.
+That’s it! On every page there is a link that brings you back to the Welcome page.
+HP Desktop Pro A G2/G3 Series
+
+BIOS
+Back to Welcome page
+BIOS
+Hardware
+Thermal
+System Board
+Click a beep code in the Beep Codes column to learn more about that beep code.
+ 
+ Beep Codes
+ 
+ Description
+ 
+ 2 Long, 2 Short
+ 
+ 2 Long, 3 Short
+ 
+ 2 Long, 4 Short
+
+Hardware
+Back to Welcome page
+BIOS
+Hardware
+Thermal
+System Board
+Click a beep code in the Beep Codes column to learn more about that beep code.
+ 
+ Beep Codes
+ 
+ Description
+ 
+ 3 Long, 2 Short
+ 
+ 3 Long, 3 Short
+ 
+ 3 Long, 4 Short
+ 
+ 3 Long, 5 Short
+ 
+ 3 Long, 6 Short
+
+Thermal
+Back to Welcome page
+BIOS
+Hardware
+Thermal
+System Board
+Click a beep code in the Beep Codes column to learn more about that beep code.
+ 
+ Beep Codes
+ 
+ Description
+ 
+ 4 Long, 2 Short
+ 
+ 4 Long, 3 Short
+
+System Board
+Back to Welcome page
+BIOS
+Hardware
+Thermal
+System Board
+Click a beep code in the Beep Codes column to learn more about that beep code.
+ 
+ Beep Codes
+ 
+ Description
+ 
+ 5 Long, 2 Short
+ 
+ 5 Long, 3 Short
+ 
+ 5 Long, 4 Short
+ 
+ 5 Long, 5 Short

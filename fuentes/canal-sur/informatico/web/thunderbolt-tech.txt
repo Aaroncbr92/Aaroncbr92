@@ -1,0 +1,89 @@
+URL: https://www.thunderbolttechnology.net/tech
+Leído: 2026-10-05
+
+ 
+
+ Thunderbolt™ Technology | Thunderbolt Technology Community
+
+About Us
+
+Contact Us
+
+Login
+
+Menu
+
+Technology
+Thunderbolt Share
+
+Solution Briefs
+
+Certification
+
+ODM Design & Manufacturing Service Providers
+
+Frequently Asked Questions
+
+News
+
+Products
+
+Developers Area
+New Peripheral Application
+
+Thunderbolt™ Technology
+
+ Universal Cable Connectivity for Everyone
+
+Thunderbolt™ 5 builds on the innovation of Thunderbolt™ 3 & 4 for a truly universal cable connectivity experience. Thunderbolt 4 always delivers 40 Gbps speeds and data, video and power over a single connection, while Thunderbolt 5 promises speeds of 80/120 Gbps. It is the most comprehensive Thunderbolt specification yet with compliance across the broadest set of industry-standard specifications – including USB4, DisplayPort and PCI Express (PCIe) – and is fully compatible with prior generations of Thunderbolt and USB products.
+
+Full 4K Video Experience
+
+Connect displays with astonishing resolution, contrast, and color depth to see your photos, videos, applications, and text with amazing detail.
+
+Best Single-Cable Docking
+
+Now, one compact port provides Thunderbolt data transfer, support for two 4K 60 Hz displays, and quick notebook charging with a single cable. It's the most advanced and versatile USB-C docking solution available.
+
+External Graphics
+
+Gamers can now connect plug 'n' play external graphics to a notebook to enjoy the latest games at recommended or higher settings.
+
+Thunderbolt™ Networking
+
+Provides a peer-to-peer connection at 10GbE speeds to quickly transfer files between computers, perform PC migrations, or set up small workgroups with shared storage.
+
+Intel® Thunderbolt™ 5 Solution Brief
+
+ Thunderbolt™ 5 Technology Brief[BRIEF; pdf, 404KB]
+
+Intel® Thunderbolt™ 4 Infographic
+
+ Thunderbolt™ 4 Infographic PDF Download[INFOGRAPHIC; pdf]
+
+Intel® Thunderbolt™ 3 Controller Briefs
+
+Intel® 7000 Series Thunderbolt™3 Controllers [BRIEF; pdf, 796KB]
+
+Intel® 6000 Series Thunderbolt™ 3 Controllers [BRIEF; pdf, 839KB]
+
+Thunderbolt™ 3 at Events
+
+Thunderbolt™ 3 Technology and USB-C [Presentation; 2015 Slides; pdf, 1.7MB] [Presentation; 2016 Slides; pdf, 2MB] 
+
+Update from Computex 2016! [Presentation; pdf, 1.7MB]
+
+Thunderbolt 3 One Year Later [One-Pager; pdf, 419 KB]
+
+Technology
+
+Thunderbolt Share
+
+Solution Briefs
+
+Certification
+
+ODM Design & Manufacturing Service Providers
+
+Frequently Asked Questions
+

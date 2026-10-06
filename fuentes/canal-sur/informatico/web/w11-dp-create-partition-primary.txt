@@ -1,0 +1,130 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/create-partition-primary
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# crear partición principal
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Crea una partición principal en el disco básico con concentración. Después de crear la partición, ésta recibe el foco automáticamente.
+
+Important
+
+Se debe seleccionar un disco básico para que esta operación se realice correctamente. Debe usar el comando select disk para seleccionar un disco básico y cambiar el foco a él.
+
+## Syntax
+
+`create partition primary [size=<n>] [offset=<n>] [id={ <byte> | <guid> }] [align=<n>] [noerr]
+`
+
+### Parameters
+
+ | Parameter
+
+ | Description
+
+ | size=`<n>`
+
+ | Especifica el tamaño de la partición en megabytes (MB). Si no indica un tamaño, la partición continuará mientras haya espacio no asignado en la región actual.
+
+ | offset=`<n>`
+
+ | El desplazamiento en kilobytes (KB), en el que se crea la partición. Si no se indica ningún desplazamiento, la partición se iniciará al principio de la mayor extensión del disco que sea lo suficientemente grande como para contenerla.
+
+ | align=`<n>`
+
+ | Alinea todas las extensiones de partición con el límite de alineación más cercano. Se utiliza normalmente con matrices de número de unidad lógica (LUN) de RAID de hardware para mejorar el rendimiento. 
+ `<n>` es el número de kilobytes (KB) desde el principio del disco hasta el límite de alineación más cercano.
+
+ | id={ `<byte> | <guid>` }
+
+ | Especifica el tipo de partición. Este parámetro está pensado solo para el uso del fabricante de equipos originales (OEM). El byte de tipo de partición o GUID se puede especificar con este parámetro. DiskPart no comprueba la validez del tipo de partición excepto para asegurarse de que es un byte en forma hexadecimal o un GUID. 
+ Cautela: La creación de particiones con este parámetro puede hacer que el equipo falle o no pueda iniciarse. A menos que sea un fabricante de equipo original (OEM) o un profesional de TI con experiencia en discos GPT, no debe crear particiones en discos GPT con este parámetro. En su lugar, use siempre el comando create partition efi para crear particiones de sistema EFI, el comando create partition msr para crear particiones reservadas de Microsoft y el comando create partition primary (sin el parámetro `id={ <byte> | <guid>`) para crear particiones primarias en discos GPT.
+
+ En el caso de los discos de registro de arranque maestro (MBR), se puede especificar un byte de tipo de partición, en forma hexadecimal, para la partición. Si no se especifica este parámetro, el comando crea una partición de tipo `0x06`, que especifica que un sistema de archivos no está instalado. Examples include:
+
+- 
+ Partición de datos LDM: 0x42
+
+- 
+ Partición de recuperación: 0x27
+
+- 
+ Partición OEM reconocida: 0x12, 0x84, 0xDE, 0xFE, 0xA0
+
+ En el caso de los discos de tabla de particiones GUID (GPT), se puede especificar un GUID de tipo de partición para la partición. Los GUID reconocidos incluyen:
+
+- 
+ Partición del sistema EFI: c12a7328-f81f-11d2-ba4b-00a0c93ec93b
+
+- 
+ Partición reservada de Microsoft: e3c9e316-0b5c-4db8-817d-f92df00215ae
+
+- 
+ Partición de datos básicos: ebd0a0a2-b9e5-4433-87c0-68b6b72699c7
+
+- 
+ Partición de metadatos LDM (disco dinámico): 5808c8aaa-7e8f-42e0-85d2-e1e90434cfb3
+
+- 
+ Partición de datos LDM (disco dinámico): af9b60a0-1431-4f62-bc68-3311714a69ad
+
+- 
+ Partición de recuperación: de94bba4-06d1-4d40-a16a-bfd50179d6ac
+Si no se especifica este parámetro para un disco GPT, el comando crea una partición de datos básica.
+
+ | noerr
+
+ | Sólo para scripting. Cuando se detecta un error, DiskPart sigue procesando los comandos como si no hubiera ningún error. Si no se especifica el parámetro noerr, un error hará que DiskPart se cierre con un código de error.
+
+## Examples
+
+Para crear una partición principal de 1000 megabytes de tamaño, escriba:
+
+`create partition primary size=1000
+`
+
+## Related links
+
+- 
+
+ Clave de sintaxis de línea de comandos
+
+- 
+
+ assign command
+
+- 
+
+ create command
+
+- 
+
+ select disk
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

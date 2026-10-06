@@ -1,0 +1,76 @@
+URL: https://support.microsoft.com/es-es/office/marcar-un-mensaje-como-importante-o-urgente-en-microsoft-teams-ea99d5b6-1317-4550-8d75-86ff14cd4462
+Leído: 2026-10-05
+
+# Marcar un mensaje como importante en Microsoft Teams
+
+ Se aplica a
+Teams Microsoft Teams 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo deshago la etiqueta de prioridad en un mensaje?
+
+ ¿Cómo edito o elimino un mensaje enviado?
+
+ Guíame para marcar un mensaje como importante.
+
+- 
+
+ Escritorio
+
+- 
+
+ Móvil
+
+### Marcar un mensaje como importante
+
+Para asegurarse de que el mensaje se destaque, márquelo como importante.
+
+¡Aparece un mensaje importante con la palabra IMPORTANTE! en el chat. Puede marcar un mensaje como importante en cualquier momento antes de enviarlo.
+
+### Para marcar un mensaje como importante:
+
+- 
+ Seleccione Acciones y aplicaciones . 
+
+- Selecciona Establecer opciones de entrega.
+
+- Seleccione Importante.
+
+### Para marcar un mensaje como importante después de enviarlo:
+
+- En el mensaje, seleccione el
+
+- 
+ Seleccione Acciones y aplicaciones .
+
+- Selecciona Establecer opciones de entrega.
+
+- Seleccione Importante.
+
+### Para deshacer la etiqueta de prioridad de un mensaje:
+
+- En el mensaje, seleccione el
+
+- 
+ Seleccione Acciones y aplicaciones .
+
+- Selecciona Establecer opciones de entrega.
+
+- Seleccione Standard.
+
+Para asegurarse de que el mensaje se destaque, márquelo como importante.
+
+- Pulse el , junto al cuadro donde escribe el mensaje.
+
+- 
+ Pulse Prioridad.
+
+- 
+ Pulse Importante. Esto agrega la palabra IMPORTANTE. a tu mensaje.
+
+Marque un mensaje como importante en cualquier momento antes de enviarlo con los pasos anteriores. Si ya ha enviado el mensaje, edítelo y asígnele una prioridad.
+
+Para editar el mensaje en Teams, mantenga pulsado el mensaje y, a continuación, seleccione el mensaje . Después, siga los pasos anteriores para asignar una prioridad.
+
+Para deshacer esta opción, pulse el junto al cuadro donde escribe el mensaje y, a continuación, pulse Prioridad .

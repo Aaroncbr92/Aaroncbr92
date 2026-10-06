@@ -1,0 +1,245 @@
+URL: https://www.sede.fnmt.gob.es/descargas/descarga-software
+Leído: 2026-10-05
+
+Descarga de Software - Sede
+Descarga software generación de claves
+×
+La Fábrica Nacional de Moneda y Timbre ha desarrollado esta aplicación para solicitar las claves necesarias en la obtención de un certificado digital. Puede ser ejecutada en cualquier navegador y sistema Operativo.
+Descargue e instale el software necesario para su sistema operativo.
+Los antivirus y proxies pueden impedir el uso de esta aplicación, por favor no utilice proxy o permita el acceso a esta aplicación en su proxy.
+WINDOWS
+Configurador FNMT-RCM para Windows 64 bits
+MAC
+Configurador FNMT-RCM para MacOS
+Si al instalar en MacOS aparece un mensaje indicando que no se puede instalar el software por proceder de un desarrollador no identificado debe ir a Preferencias del sistema / Seguridad y Privacidad / Pestaña GENERAL, en la sección Permitir apps descargadas de, debe permitir la ejecución de la aplicación para que continúe el proceso de instalación. En MacOS Ventura debe de ir a Ajustes del sistema > Privacidad y Seguridad > apartado de Seguridad aparecerá la opción de permitir apps descargadas.
+MAC con chip M  ¿Cómo puedo comprobar qué chip tiene mi MAC?
+Una vez instalado el programa Configurador FNMT-RCM para MacOS vaya al launchpad y ejecute el programa instalado. Si no tuviera instalada la aplicación Rosetta le pedirá que la instale, permita su instalación. Ahora podrá solicitar el certificado desde Mozilla Firefox o Google Chrome.
+LINUX
+Configurador FNMT-RCM para GNU/Linux 64 bits (DEB)
+Configurador FNMT-RCM para GNU/Linux 64 bits (RPM)
+Navegación
+FNMT
+Ceres
+Sede Electrónica
+Museo Casa de la Moneda
+SIAEN
+Escuela de Grabado
+Tienda Virtual
+05/10/2026
+es
+Seleccionar  Lenguaje :
+Bienvenido Benvinguda Benvido Ongi etorri Welcome
+x
+Buscar :
+x
+Inicio
+Cert. Electrónico Ciudadano
+Mostrar/Ocultar
+App Móvil
+Certificado con Vídeo Identificación
+Mostrar/Ocultar
+Configuración previa
+Solicitar Certificado
+Acreditar Identidad
+Descargar Certificado
+Certificado con Acreditación Presencial
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar Identidad
+Descargar Certificado
+Certificado con DNIe
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Descargar Certificado
+Verificar Estado
+Renovar Certificado
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Renovación
+Descargar Certificado
+Lista de Precios
+Facturas
+Anular
+Mostrar/Ocultar
+Solicitar Anulación
+Cert. Electrónico Empresa
+Mostrar/Ocultar
+Administrador Único o Solidario
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Mostrar/Ocultar
+Solicitud con certificado
+Solicitud con DNIe
+Descargar Certificado
+Persona Jurídica
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar identidad
+Descargar Certificado
+Entidad sin Personalidad Jurídica
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar identidad
+Descargar Certificado
+Verificar Estado
+Lista de Precios - Política de devolución
+Facturas
+Anular
+Mostrar/Ocultar
+Solicitar Anulación
+Cert. Electrónico Sector Público
+Mostrar/Ocultar
+Información General
+Certificado de empleado público
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar Identidad
+Descargar Certificado
+Certificado con Seudónimo
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar Identidad
+Descargar Certificado
+Certificado Seudónimo Adm. Justicia
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar Identidad
+Descargar Certificado
+Certificado de Firma Centralizada
+Mostrar/Ocultar
+Solicitud Certificado de Firma Centralizada
+Acreditar Identidad
+Portal de Gestión de identidades
+Certificado Seudónimo Adm. Justicia Firma Centralizada
+Mostrar/Ocultar
+Solicitud Cert Seudonimo Firma Centralizada Justicia
+Acreditar identidad
+Portal de Gestión de Identidades
+Preguntas Frecuentes
+Verificar Estado
+Soporte Técnico
+Mostrar/Ocultar
+Atención a Usuarios
+Consultas
+Descargas
+Mostrar/Ocultar
+Certificados raíz de la FNMT
+Descarga de Software
+Contratos
+Carta de Servicios
+Trámites
+Mostrar/Ocultar
+Formulario de propósito general
+Quejas y sugerencias
+Ofertas de empleo
+Trazabilidad productos de tabaco
+Descarga de Software
+Descarga de Software
+-->
+-->
+Inicio
+Soporte Técnico
+Descargas
+Descarga de Software
+Descarga de software
+Aquí encontrarás el software necesario para utilizar certificados digitales y tarjetas criptográficas.
+Antes de empezar
+Comprueba tu sistema operativo (Windows, Mac o Linux).
+Si usas tarjeta criptográfica, necesitarás instalar software adicional.
+Generación de claves (obligatorio)
+Este paso es imprescindible.
+Para poder solicitar y obtener tu certificado digital es necesario generar previamente un par de claves en tu equipo.
+Sin este software no podrás completar la solicitud del certificado.
+Utiliza el Configurador de la FNMT-RCM para generar las claves de forma segura antes de iniciar el trámite en la Sede electrónica.
+Descargar Configurador FNMT-RCM para la generación de claves
+Certificados en tarjeta criptográfica
+Windows
+La FNMT-RCM ha desarrollado un Instalable que integra todos los elementos necesarios para el funcionamiento de los Certificados de Usuario en Tarjeta. Los elementos que se instalan son:
+Software adicional para certificados de usuario en tarjeta criptográfica. (Requiere Java v.8 Update 45 hasta Java 15)
+Módulo PKCS#11, para trabajar en Mozilla.
+Módulo Smart Card Minidriver para Windows.
+Pulsa en el enlace correspondiente dependiendo de si tu Sistema Operativo es de 32 o de 64 bits. Para su correcto funcionamiento descarga el ejecutable en tu ordenador, cierra los navegadores, haz clic sobre el mismo con permisos de administrador e instala el programa.
+Instalador Tarjeta TC-FNMT para 32 bits (Versión 2.0.0 ; EXE - 24,7 MB)
+Instalador Tarjeta TC-FNMT para 64 bits (Versión 2.0.0 ; EXE - 27,5 MB)
+Si necesitas ayuda para la instalación, descarga el siguiente Manual de Instalador Tarjeta TC-FNMT Dnie .
+Asimismo, tienes a tu disposición el Historial de versiones de TC-FNMT para Windows .
+Mac / Linux – Librerías MultiCard FNMT-DNIe
+Instala estas librerías para usar tarjetas criptográficas en Mac o Linux.
+Manual de Instalación de MultiCard PKCS11 FNMT DNIe (PDF - 1,17 MB)
+GNU/LINUX Debian 12 - 64 bits (DEB - 1.50 MB)
+GNU/LINUX Debian 13 - 64 bits (DEB - 1.61 MB)
+GNU/LINUX  - Ubuntu 24.04 - 64 bits ​(DEB - 1.66 MB)
+GNU/LINUX  - Ubuntu 25.04 - 64 bits ​(DEB - 1.66 MB)
+GNU/LINUX Fedora 41 - 32/64 bits   (RPM - 1.64 MB)
+GNU/LINUX Fedora 42 - 64 bits (RPM - 1.64 MB)
+GNU/LINUX OpenSUSE LEAP 15.6 - 64 bits (RPM - 1.63 MB)
+MAC OS 13.0 (Ventura) - 14.0 (Sonoma) - 15.0 Sequoia - Arquitectura x64 (DMG - 2.18 MB)
+MAC OS 13.0 (Ventura) - 14.0 (Sonoma) - 15.0 Sequoia - Arquitectura x64 (PKG - 2.13 MB)
+MAC OS 13.0 (Ventura) - 14.0 (Sonoma) - 15.0 Sequoia - Arquitectura ARM (chip M2) (DMG - 2.17 MB)
+MAC OS 13.0 (Ventura) - 14.0 (Sonoma) - 15.0 Sequoia - Arquitectura ARM (chip M2) (PKG - 2.01 MB)
+Herramientas adicionales para Certificados en tarjeta criptográfica (Windows / Mac / Linux)
+Estas utilidades permiten gestionar certificados almacenados en la tarjeta.
+Importante:
+Windows: requiere Java 8 hasta Java 15
+Mac Intel: requiere librería MultiCard
+Mac ARM (M1/M2): requiere Java 11
+Gestión de certificados en tarjeta
+Ver certificados
+Importar copias de seguridad
+Cambiar o desbloquear el PIN
+Windows: Descargar Utilidad para la Gestión de Certificados  (versión 1.4.0.8 ; ZIP - 53,5 MB)
+Mac / Linux: Descargar Utilidad para la Gestión de Certificados  (versión 1.4.0.8 ; ZIP – 8,08 MB)
+Eliminar certificados antiguos
+Permite borrar certificados antiguos si existen varios en la tarjeta.
+Windows: Descarga del Software de Eliminación de Certificado  (ZIP - 7,4 MB)
+Mac: Descarga del Software de Eliminación de Certificado  (ZIP - 7,4 MB)
+Eliminar claves sin certificado
+Elimina claves que no están asociadas a ningún certificado, tanto públicas como privadas.
+Windows: Descarga Actualizador de Claves. (ZIP - 7,4 MB)
+Mac: Descarga Actualizador de Claves. (ZIP - 7,4 MB)
+Formatear tarjeta
+Restablece la tarjeta criptográfica a estado de fábrica.
+Windows: Descarga Formatear Tarjeta (ZIP -  7,4 MB)
+Mac: Descarga Formatear Tarjeta (ZIP -  7,4 MB)
+Oculto
+Sobre la Sede
+Resolución de creación de la Sede
+Resolución creación Registro Electrónico
+Fecha y hora oficial
+Calendario de días inhábiles
+Declaración de Conformidad
+Código Identificación de la FNMT-RCM (DIR3)
+Normativa
+Declaración de Prácticas de Certificación
+Administración digital y Firma electrónica
+Reglamento General de Protección de Datos
+Política Integrada y de Seguridad
+Calidad
+Descargas
+Certificados raíz de la FNMT
+Descarga de Software
+Contratos
+Carta de Servicios
+Otros servicios
+Ofertas de Empleo Público
+Perfil de Contratante
+Preguntas Frecuentes
+Atención a Usuarios
+Accesibilidad
+Aviso legal
+Mapa web
+Facebook
+Twitter
+Youtube
+Blog
+Linkedin
+INFORMACIÓN SOBRE COOKIES
+La página Web de la FNMT-RCM utiliza cookies propias y de terceros para facilitar la navegación por la página web así como almacenar las preferencias seleccionadas por el usuario durante su navegación. No empleamos las cookies para almacenar o tratar datos de carácter personal. Si continúa navegando, consideramos que acepta su uso ACEPTO . Más Información .

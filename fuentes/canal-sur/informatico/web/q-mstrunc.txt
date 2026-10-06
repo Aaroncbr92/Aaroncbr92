@@ -1,0 +1,267 @@
+URL: https://learn.microsoft.com/es-es/sql/t-sql/statements/truncate-table-transact-sql?view=sql-server-ver17
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# 
+ TRUNCATE TABLE (Transact-SQL)
+
+## 
+
+ Aplica a:SQL ServerAzure SQL DatabaseAzure SQL Managed InstanceAzure Synapse AnalyticsAlmacén en Microsoft FabricBase de datos SQL en Microsoft Fabric
+
+Quita todas las filas de una tabla o las particiones especificadas de una tabla, sin registrar las eliminaciones individuales de filas. 
+ `TRUNCATE TABLE` es similar a la `DELETE` instrucción sin `WHERE` cláusula; sin embargo, `TRUNCATE TABLE` es más rápida y usa menos recursos del registro de transacciones y del sistema.
+
+ Convenciones de sintaxis de Transact-SQL
+
+## Syntax
+
+Sintaxis para SQL Server, Azure SQL Database, Fabric SQL Database
+
+`TRUNCATE TABLE
+ { database_name.schema_name.table_name | schema_name.table_name | table_name }
+ [ WITH ( PARTITIONS ( { <partition_number_expression> | <range> }
+ [ , ...n ] ) ) ]
+[ ; ]
+
+<range> ::=
+<partition_number_expression> TO <partition_number_expression>
+`
+
+Syntax for Microsoft Fabric y Azure Synapse Analytics.
+
+`TRUNCATE TABLE { database_name.schema_name.table_name | schema_name.table_name | table_name }
+[ ; ]
+`
+
+## Arguments
+
+#### 
+ database_name
+
+El nombre de la base de datos.
+
+#### 
+ schema_name
+
+El nombre del esquema al que pertenece la tabla.
+
+#### 
+ table_name
+
+Nombre de la tabla que se va a truncar o de la que se quitan todas las filas. 
+ table_name debe ser un valor literal. 
+
+ table_name no puede ser la `OBJECT_ID()` función ni una variable.
+
+#### WITH ( PARTITIONS ( { <partition_number_expression> | <gama> } [ , ... n ] ) )
+
+ Se aplica a: SQL Server 2016 (13.x) y versiones posteriores.
+
+Especifica las particiones para truncar o desde las que se quitan todas las filas. Si la tabla no tiene particiones, el `WITH PARTITIONS` argumento genera un error. Si no se proporciona la `WITH PARTITIONS` cláusula , se trunca toda la tabla.
+
+ `<partition_number_expression>` se puede especificar de estas maneras:
+
+- 
+Proporcionando el número de una partición, como por ejemplo: `WITH (PARTITIONS (2))`
+
+- 
+Proporcionando los números de partición para varias particiones individuales separadas por comas, como por ejemplo: `WITH (PARTITIONS (1, 5))`
+
+- 
+Proporcionando ambos intervalos y particiones individuales, como por ejemplo: `WITH (PARTITIONS (2, 4, 6 TO 8))`
+
+- 
+
+ `<range>` se puede especificar como números de partición separados por la palabra `TO`, por ejemplo: `WITH (PARTITIONS (6 TO 8))`
+
+Para truncar una tabla con particiones, la tabla y los índices deben estar alineados (con particiones en la misma función de partición).
+
+## Remarks
+
+En comparación con la `DELETE` instrucción , `TRUNCATE TABLE` tiene las siguientes ventajas:
+
+- 
+Se utiliza menos espacio del registro de transacciones.
+
+La `DELETE` instrucción quita las filas una a la vez y registra una entrada en el registro de transacciones para cada fila eliminada. 
+ `TRUNCATE TABLE` quita los datos desasignando las páginas de datos usadas para almacenar la tabla y los datos de índice y registra solo las desasignaciones de página en el registro de transacciones.
+
+- 
+Por regla general, se utilizan menos bloqueos.
+
+Cuando la `DELETE` instrucción se ejecuta mediante un bloqueo de fila, cada fila de la tabla se bloquea para su eliminación. 
+ `TRUNCATE TABLE` siempre bloquea la tabla (incluido un bloqueo de esquema (`SCH-M`) y la página, pero no cada fila.
+
+- 
+Sin excepción, se dejan cero páginas en la tabla o sus índices.
+
+Una vez ejecutada una `DELETE` instrucción, la tabla todavía puede contener páginas vacías. Por ejemplo, las páginas vacías de un montón no se pueden desasignar sin al menos un bloqueo de tabla exclusivo (`LCK_M_X`). Si la operación de eliminación no usa un bloqueo de tabla, la tabla (montón) podría contener muchas páginas vacías. En el caso de los índices, la `DELETE` instrucción puede dejar páginas vacías detrás. A continuación, un proceso de limpieza en segundo plano desasigna estas páginas.
+
+ `TRUNCATE TABLE` quita todas las filas de una tabla, pero la estructura de la tabla y sus columnas, restricciones, índices, etc., permanecen. Para quitar la definición de tabla además de los datos, utilice la instrucción `DROP TABLE`.
+
+Si la tabla contiene una columna de identidad, el contador para dicha columna se restablece al valor de inicialización definido para ella. Si no se definió ningún valor de inicialización, se usa el valor `1` predeterminado. Para conservar el contador de identidades, use `DELETE` en su lugar.
+
+Una `TRUNCATE TABLE` operación se puede revertir dentro de una transacción.
+
+En Fabric SQL Database, truncar una tabla elimina todos los datos reflejados de Fabric OneLake para esa tabla.
+
+### Asignación diferida
+
+Cuando se trunca una tabla que usa 128 extensiones o más, el motor de base de datos aplaza las desasignaciones de página reales y sus bloqueos asociados, hasta después de que la transacción se confirme. El truncamiento se produce en dos fases independientes: lógica y física. En la fase lógica, las unidades de asignación existentes usadas por la tabla y sus índices se marcan para la desasignación y se bloquean hasta que la transacción se confirma. En la fase física, un proceso en segundo plano quita las páginas marcadas para la desasignación. Esto significa que es posible que el espacio liberado por `TRUNCATE TABLE` no esté disponible para las nuevas asignaciones inmediatamente.
+
+Si la recuperación acelerada de la base de datos está habilitada, el truncamiento usa fases lógicas y físicas independientes, independientemente del número de extensiones.
+
+## Limitations
+
+No se puede usar `TRUNCATE TABLE` en tablas que:
+
+- 
+Se hace referencia a ello mediante una `FOREIGN KEY` restricción . (Puede truncar una tabla que tenga una clave externa que haga referencia a sí misma).
+
+- 
+Tablas que participan en una vista indizada.
+
+- 
+Tablas que se publican mediante replicación transaccional o replicación de mezcla.
+
+- 
+Tablas temporales con versiones del sistema.
+
+- 
+Se hace referencia a una `EDGE` restricción.
+
+En el caso de las tablas con una o varias de estas características, use la `DELETE` instrucción en su lugar.
+
+ `TRUNCATE TABLE` no puede activar un desencadenador porque la operación no registra eliminaciones de filas individuales. Para obtener más información, vea CREATE TRIGGER (Transact-SQL).
+
+En Azure Synapse Analytics:
+
+- 
+
+ `TRUNCATE TABLE` no se permite dentro de la `EXPLAIN` instrucción .
+
+- 
+
+ `TRUNCATE TABLE` no se puede ejecutar dentro de una transacción.
+
+## Permissions
+
+El permiso mínimo necesario es `ALTER` en table_name. 
+ `TRUNCATE TABLE` los permisos predeterminados para el propietario de la tabla, los miembros del `sysadmin` rol fijo de servidor y los `db_owner``db_ddladmin` roles fijos de base de datos y no se pueden transferir. No obstante, puede incorporar la instrucción `TRUNCATE TABLE` en un módulo, por ejemplo un procedimiento almacenado, y conceder los permisos correspondientes al módulo mediante la cláusula `EXECUTE AS`.
+
+## Examples
+
+### A. Truncar una tabla
+
+En el siguiente ejemplo se quitan todos los datos de la tabla `JobCandidate`. Se incluyen instrucciones `SELECT` antes y después de la instrucción `TRUNCATE TABLE` para comparar los resultados.
+
+`USE AdventureWorks2022;
+
+SELECT COUNT(*) AS BeforeTruncateCount
+FROM HumanResources.JobCandidate;
+
+TRUNCATE TABLE HumanResources.JobCandidate;
+
+SELECT COUNT(*) AS AfterTruncateCount
+FROM HumanResources.JobCandidate;
+`
+
+### B. Truncar las particiones de la tabla
+
+ Se aplica a: SQL Server 2016 (13.x) y versiones posteriores.
+
+En el ejemplo siguiente se trunca las particiones especificadas de una tabla con particiones. La sintaxis de `WITH (PARTITIONS (2, 4, 6 TO 8))` provoca que los números de partición 2, 4, 6, 7 y 8 se trunquen.
+
+`TRUNCATE TABLE PartitionTable1
+WITH (PARTITIONS (2, 4, 6 TO 8));
+GO
+`
+
+### C. Reversión de una operación truncada
+
+En el ejemplo siguiente se muestra que se puede revertir una `TRUNCATE TABLE` operación dentro de una transacción.
+
+- 
+Cree una tabla de prueba con tres filas.
+
+`USE [tempdb];
+
+CREATE TABLE TruncateTest (ID INT IDENTITY (1, 1) NOT NULL);
+GO
+INSERT INTO TruncateTest DEFAULT VALUES;
+GO 3
+`
+
+- 
+Compruebe los datos antes de truncar.
+
+`SELECT ID FROM TruncateTest;
+`
+
+- 
+Truncar la tabla dentro de una transacción y comprobar el número de filas.
+
+`BEGIN TRANSACTION;
+
+TRUNCATE TABLE TruncateTest;
+
+SELECT ID FROM TruncateTest;
+`
+
+Verá que la tabla está vacía.
+
+- 
+Revierte la transacción y compruebe los datos.
+
+`ROLLBACK TRANSACTION;
+
+SELECT ID FROM TruncateTest;
+`
+
+Verá las tres filas.
+
+- 
+Limpie la tabla.
+
+`DROP TABLE TruncateTest;
+`
+
+## Contenido relacionado
+
+- 
+
+ DELETE (Transact-SQL)
+
+- 
+
+ DROP TABLE (Transact-SQL)
+
+- 
+
+ CREATE TABLE (Transact-SQL) IDENTITY (Propiedad)
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-09-21

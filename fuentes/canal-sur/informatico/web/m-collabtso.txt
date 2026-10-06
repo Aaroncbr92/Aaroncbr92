@@ -1,0 +1,125 @@
+URL: https://support.microsoft.com/es-es/topic/9ea6aa07-6e5e-4917-9267-d4d361da3dea
+Leído: 2026-10-05
+
+# Colaborar con Teams, SharePoint y OneDrive
+
+ Se aplica a
+Microsoft Teams 
+
+Obtener ayuda con Copilot
+
+ Háblame sobre colaborar con Teams y SharePoint.
+
+ ¿Qué hago si no puedo crear un equipo de Microsoft desde un SharePoint?
+
+ Colabora con Teams, SharePoint y OneDrive para mí.
+
+Las organizaciones y los equipos tienen diferentes formas y tamaños, y los miembros del equipo pueden ser locales o estar repartidos por todo el mundo. Pueden incluir proveedores y contratistas junto con empleados de tiempo completo. Las iniciativas y el trabajo pueden abarcar empresas, organizaciones y equipos de proyectos pequeños.
+
+Microsoft 365, incluidos Teams, SharePoint y OneDrive, está diseñado para ser un kit de herramientas universal para proporcionar a los miembros del equipo formas integradas y flexibles de trabajar en sus proyectos y tareas.
+
+Esta guía se centra en las eficaces capacidades de Teams, SharePoint y OneDrive, incluido el almacenamiento de documentos, la colaboración, el uso compartido y las conversaciones. No es necesario usar una sola herramienta para realizar el trabajo: cada una trabaja de forma conjunta para proporcionar una productividad óptima.
+
+Este es un ejemplo de cómo pueden usar estos servicios juntos: Al crear un equipo, se crean automáticamente un grupo de Office 365 y un sitio de grupo de SharePoint. Puede cargar los documentos en el sitio de grupo de SharePoint. Después, cuando un borrador del documento esté listo para su revisión, es fácil agregar el archivo a su equipo de Teams y usar el sistema basado en chat para que todos sepan que está listo para su revisión. Los miembros del equipo pueden abrir el archivo directamente en Teams y empezar a realizar cambios o comentarios. Si un miembro del equipo almacena un archivo en OneDrive, también se puede agregar al canal de Teams mediante la pestaña Files de Teams. Lo mejor de todo es que puede utilizar Teams de forma móvil, para que los miembros del proyecto puedan trabajar desde cualquier lugar.
+
+## Resumen
+
+Esta tabla proporciona un resumen de alto nivel de cómo puede usar Teams, SharePoint y OneDrive en diferentes situaciones. Desplácese hacia abajo en la página para obtener más información.
+
+ | 
+
+ | 
+ Usuarios principales
+
+ | 
+ Ideal para...
+
+ | 
+ Uso compartido y control de acceso
+
+ | 
+ Conversaciones y comunicación
+
+ | 
+
+ Teams
+
+ | Equipo
+
+ | 
+ Equiposorientados a proyectos para tener una conversación, trabajar juntos en archivos, llamar y reunirsejusto donde se realiza el trabajo.
+
+ | Los equipos pueden ser públicos (abiertos a todos los usuarios de su organización) o privados (pertenencia administrada).
+
+ | Comuníquese en tiempo real con sus compañeros de equipo en un entorno basado en chat y en reuniones en línea.
+
+ | 
+
+ SharePoint
+
+ | Equipo, grupo, organización
+
+ | Almacenar archivos en la nube y compartirlos con su equipo u organización, usar una administración de permisos sólida y crear sitios ricos en características que se agregarán a su canal de Teams.
+
+ | Comparta archivos con su equipo, organización y usuarios externos. 
+ Use Grupos de Office 365 para controlar el acceso a sitios de grupo o configurar permisos más sólidos para sitios y documentos.
+
+ | Comuníquese con Noticias de SharePoint. También puede agregar noticias a su canal de Teams. Además, puede agregar comentarios y me gusta a las páginas de SharePoint.
+
+ | 
+
+ OneDrive
+
+ | Individual y de equipo
+
+ | Almacenar y sincronizar archivos personales, laborales o educativos en la nube y acceder a ellos desde cualquier lugar con cualquier dispositivo. Ideal para trabajos en curso y compartidos con personas específicas.
+
+ | Los documentos son privados hasta que los comparta. Comparta archivos individualmente y trabaje en documentos de Office con otros usuarios al mismo tiempo.
+
+ | Comente los documentos y use el -sign con el `@`nombre de alguien. La persona que menciona recibe un correo con un vínculo a su comentario.
+
+## Usar Teams, SharePoint y OneDrive
+
+Puede almacenar y compartir archivos con SharePoint, OneDrive y Microsoft Teams. SharePoint sustenta cada una de estas herramientas, pero cada una puede usarse a su manera para acelerar la colaboración y la eficiencia en diferentes situaciones.
+
+Nota
+
+- Al crear un nuevo equipo o un nuevo canal privado en Microsoft Teams, se crea automáticamente un sitio de grupo en SharePoint. Para editar la descripción o clasificación del sitio de grupo, vaya a la configuración del canal correspondiente en Microsoft Teams.
+
+- Obtenga más información sobre cómo administrar los sitios de grupos conectados a Microsoft Teams.
+
+ Microsoft Teams
+
+Cuando colabora en tiempo real, es un gran ahorro de tiempo acceder fácilmente a los archivos que son importantes para su proyecto. Los Files compartidos en Microsoft Teams están disponibles en el mismo lugar en el que mantiene conversaciones y reuniones, y su equipo puede poseerlos juntos. Los documentos compartidos en Microsoft Teams se almacenan en SharePoint, por lo que obtiene lo mejor de ambos mundos.
+
+Puede comunicarse a través de un chat persistente y encadenado y mantener a todos informados. En Microsoft Teams, también puedes chatear en privado con cualquier contacto, incluso cuando estén desconectados, lo que resulta especialmente útil cuando tu contacto se encuentra en una zona horaria diferente. Con un historial de conversaciones persistente, puede iniciar y continuar intercambios en cualquier momento. Use el chat privado para crear conjuntamente un documento en tiempo real y seguir colaborando después de una llamada. Incluso puedes anclar chats importantes para recuperarlos fácilmente.
+
+Los equipos pueden ser públicos o privados. Los equipos públicos están abiertos a todos los miembros de su organización. Se administra la pertenencia a equipos privados.
+
+ SharePoint
+
+Todos los canales de Teams tienen un sitio de grupo de SharePoint y todos los sitios de grupo de SharePoint tienen un canal de Teams. SharePoint es ideal para almacenar archivos en la nube y hacerlos accesibles a un público amplio. Además, podrá aprovechar la sólida administración de permisos de archivos, los flujos de procesos de documentos, las directivas de retención y mucho más. Estas son maneras de trabajar con SharePoint:
+
+- Colabore en archivos en Teams, cree páginas, use un bloc de notas compartido y use el grupo de Office 365 integrado para reunir conversaciones, calendarios y tareas.
+
+- Reparte la propiedad y los permisos entre un grupo más amplio de personas. Si un documento es importante para el éxito de un proyecto, es una buena idea que otras personas puedan controlar lo que sucede en el sitio.
+
+- Otorgue permisos en un sitio, en lugar de en documentos individuales. Si los usuarios tienen acceso al sitio del grupo, tendrán acceso a los documentos almacenados en el sitio.
+
+- Cree páginas de sitio atractivas y eficaces para organizar información, publicar noticias, proporcionar información de contacto y proporcionar navegación a documentos, medios y otros tipos de información.
+
+Más información sobre SharePoint.
+
+ OneDrive
+
+Los archivos personales o los documentos en los que solo usted está trabajando se pueden almacenar de forma segura en OneDrive. Considérelo como su repositorio personal: una versión en la nube de Mis documentos. Files siempre están sincronizados y disponibles para acceder a ellos, incluso cuando se trabaja sin conexión. Con OneDrive, tus archivos siempre están contigo y listos para compartir. En términos de longevidad, OneDrive es ideal para el trabajo en curso. Estos son algunos ejemplos de cómo puede aprovechar OneDrive:
+
+- Desea compartir archivos individuales con solo unas pocas personas o no compartirlos en absoluto.
+
+Los documentos que coloques en OneDrive son privados hasta que los compartas. Puede compartir archivos individualmente y trabajar en documentos de Office con otras personas al mismo tiempo. Esto hace que OneDrive para el trabajo o la escuela sea una excelente opción para borradores de documentos que nadie más necesita ver. Por ejemplo, está escribiendo una entrada de blog que puede no estar asociada a un proyecto y le gustaría que algunos compañeros la revisaran antes de publicarla. En este caso, esperará que los usuarios usen el documento una sola vez sin necesidad de almacenamiento adicional ni información contextual. Todo lo que necesitan es un vínculo al documento y permisos de edición. Además, puede comentar documentos y usar el signo @ con el nombre de alguien, y la persona a la que mencione recibirá un correo con un vínculo al comentario.
+
+- Publique un archivo de OneDrive en un canal de Teams para su revisión.
+
+- No puede identificar un sitio de grupo al que pertenezca el documento y no cree que el propósito del documento justifique la creación de uno nuevo.
+
+Para obtener información más detallada, vea ¿Debo guardar mis documentos en OneDrive para un sitio de grupo?

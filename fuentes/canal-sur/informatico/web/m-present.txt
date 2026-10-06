@@ -1,0 +1,365 @@
+URL: https://support.microsoft.com/es-es/teams/meetings/present-content-in-microsoft-teams-meetings
+Leído: 2026-10-05
+
+# Presentar contenido en reuniones de Microsoft Teams
+
+ Se aplica a
+Teams Microsoft Teams 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo comparto contenido desde un dispositivo complementario?
+
+ ¿Qué hago si no puedo compartir el escritorio o un programa?
+
+ Presenta contenido en reuniones de Microsoft Teams para mí.
+
+Al trabajar de forma remota en Microsoft Teams, puede presentar contenido compartiendo su pantalla, todo el escritorio, un archivo de PowerPoint y mucho más.
+
+- 
+
+ Escritorio
+
+- 
+
+ Móvil
+
+## Presentar contenido
+
+Para presentar contenido en una reunión, seleccione el los controles de la reunión. Presente toda la pantalla o una ventana.
+
+Mientras se carga el contenido, los participantes verán brevemente una pantalla de carga que indica que se está iniciando el uso compartido de la pantalla. Esta experiencia es coherente en todos los equipos de escritorio y web.
+
+Si un recurso compartido de pantalla no se inicia correctamente, es posible que otros participantes vean un breve mensaje de error con opciones para reiniciar la aplicación o volver a unirse a la reunión.
+
+Colabore con otros usuarios en tiempo real compartiendo en directo un archivo de PowerPoint, un archivo de Excel o una pizarra.
+
+## Controles del moderador
+
+Mientras realiza la presentación, use los controles de la barra de herramientas moderador para mantener su presentación atractiva y funcionando sin problemas. La barra de herramientas solo es visible para la persona que presenta.
+
+Para mostrar la barra de herramientas del moderador en pantalla, mueva el cursor a la parte superior de la pantalla compartida. Esto desplegará la barra de herramientas. 
+
+La barra de herramientas permanecerá en su lugar momentáneamente mientras ajusta los controles. 
+
+ | 
+ Control moderador
+
+ | Cómo usarla
+
+ | Controlador de arrastre 
+
+ | Seleccione y mantenga presionado el controlador de arrastre de la barra de herramientas para mover la barra de herramientas del moderador. Esto evitará que bloquee partes importantes de la pantalla. Suelte el controlador de arrastre cuando lo haya colocado en el área derecha.
+
+ Propina: También puede mover la barra de herramientas haciendo clic y manteniendo presionada cualquier área de la barra de herramientas que no sea interactiva (por ejemplo, entre los controles del moderador) y arrastrándola.
+
+ | 
+
+ cámara
+
+ | Selecciona el de cámara para activar o desactivar la cámara.
+
+ | 
+ Icono de 
+
+ | Seleccione el para silenciar o reactivar el audio.
+
+ | 
+ Ceder el control
+
+ | Seleccione Ceder el control para permitir que alguien acceda a la pantalla e interactúe con ella. Mientras tienen el control, pueden realizar selecciones, ediciones y otras modificaciones en la pantalla compartida.
+
+ Advertencia:Solo ceda el control a las personas en las que confía. People con control puede enviar comandos que podrían afectar al sistema o a otras aplicaciones. Hemos tomado precauciones para evitar esto, pero no hemos probado todas las posibles personalizaciones del sistema.
+
+ | 
+ Recuperar
+
+ | Si has cedido el control a alguien, selecciona Retirar cuando estés listo para recuperar el control.
+
+ | 
+ Control de diapositivas
+
+ | Seleccione Control de diapositivas para permitir que otras personas de la reunión se desplacen por las diapositivas para todos los usuarios durante una presentación. Esto ayuda a que las transiciones del moderador sean más fluidas durante las reuniones.
+
+Para dejar de compartir el control de diapositiva, seleccione Control de diapositivas> de control de diapositivasFinalizar control de diapositiva en la barra de herramientas del moderador.
+
+ | 
+
+ | Seleccione el botón Compartir audio para transmitir audio desde su dispositivo a los participantes de la reunión a través de Teams. Todo el sonido de su equipo, incluidas las notificaciones, se oirá en la reunión.
+
+Antes de empezar a compartir, seleccione el botón Compartir en los controles de la reunión y active el botón de alternancia Incluir sonido . Para obtener más información, consulte Compartir sonido desde su equipo en una reunión de Teams o un evento en directo.
+
+ | 
+ Icono Optimizar
+
+ | Seleccione el para evitar interrupciones o retrasos al compartir contenido de vídeo.
+
+ | 
+ Icono de vista de de diseño.
+
+ | Selecciona el icono de vista de de diseño. mientras la cámara está activada y comparte contenido. Luego, elija un diseño que ayude a que su presentación sea más atractiva:
+
+- 
+ Solo contenido: los participantes verán su contenido y vídeo.
+
+- 
+ Destacar: esto bloquea tu fondo y te ayuda a destacar en tu feed de vídeo.
+
+- 
+ En paralelo: usted y otro participante se colocarán uno al lado del otro en la ventana de la reunión.
+
+- 
+ Reportero: Este diseño te aísla de tu fuente de video y te coloca frente al contenido que estás compartiendo, como un reportero frente a una escena.
+
+ | 
+ Anotar
+
+ | Selecciona Anotar para bloquear lo que hay en la pantalla mientras tú y otras personas dibujáis o agregan notas sobre el contenido.
+
+Para obtener más información, consulte Usar anotación al compartir la pantalla en Microsoft Teams.
+
+ | 
+ Chat
+
+ | Seleccione Chat para ver y participar en una vista compacta del chat de la reunión mientras presenta contenido. El público no verá la ventana de chat en la pantalla compartida.
+
+Para obtener más información, consulte Chat en reuniones de Microsoft Teams.
+
+ | 
+ Botón People
+
+ | Mientras realiza la presentación, aparecerá una ventana de reunión minimizada junto al contenido compartido. Seleccione el para ver a otras personas en la reunión.
+
+ | 
+ Dejar de compartir
+
+ | Seleccione Dejar de compartir para dejar de compartir la pantalla y volver a la ventana principal de la reunión.
+
+ | 
+
+ | Seleccione Anclar para mantener la barra de herramientas en el lugar donde la ha colocado.
+
+Nota
+
+En Teams para la web, puede compartir la pantalla con Google Chrome o con la última versión de Microsoft Edge. Linux no se admite actualmente.
+
+## Ventana de reunión del moderador
+
+Al compartir contenido en una reunión, la ventana de reunión se hará más pequeña. Administre el micrófono y la cámara, vea las manos levantadas y vea el contenido compartido desde la ventana minimizada.
+
+Cambie entre las vistas en la parte superior de la ventana de la reunión para mostrar más o menos personas, ver solo el orador activo o minimizar la ventana por completo. Para obtener más información, consulte Multitarea durante una reunión de Microsoft Teams.
+
+## Tomar el control
+
+Para tomar el control mientras otra persona comparte:
+
+- Seleccione Solicitar control. La persona que comparte puede aprobar o rechazar la solicitud.
+
+- Realice selecciones, ediciones y otras modificaciones en la pantalla compartida mientras tenga el control.
+
+- Seleccione Devolver control para dejar de compartir el control.
+
+## Ceder control de diapositivas
+
+Realice fácilmente la transición durante una presentación compartiendo el control de las diapositivas de PowerPoint con hasta 20 personas. People con control de diapositivas puede navegar por las diapositivas para todos los participantes de la reunión.
+
+Para presentar un PowerPoint y dar control de diapositiva:
+
+- 
+Únase a la reunión o evento.
+
+- 
+Seleccione Compartir en los controles de la reunión.
+
+- 
+En Ventana, seleccione la ventana en la que está abierta la presentación. Ceder el control de diapositivas no está disponible si comparte la pantalla o todo el escritorio.
+
+- 
+Asegúrese de que la presentación está en modo de pantalla completa, ya sea en un explorador o en una aplicación de escritorio, seleccionando Presentación con diapositivas o Empezar desde el principio en la presentación.
+
+- 
+En la barra de herramientas del moderador, seleccione Control de diapositivas . Solo verá esta opción si ha iniciado la presentación y si hay al menos un organizador, coorganizador o moderador de la reunión en la llamada.
+
+- 
+Seleccione las personas a las que quiera conceder el control de la diapositiva.
+
+- Solo las personas con la capacidad de compartir su pantalla pueden tener control de diapositivas; En las reuniones, normalmente se trata de cualquier persona, pero en los eventos, debe tener el rol de organizador, coorganizador o moderador.
+
+- Para recuperar el control de un individuo, selecciona X junto a su nombre.
+
+Para dejar de dar control de diapositiva, seleccione Control de diapositivas> de control de diapositivasFinalizar control de diapositiva en la barra de herramientas del moderador.
+
+Nota
+
+- El control de diapositivas solo está disponible durante las presentaciones iniciadas desde Teams para escritorio.
+
+- El control de diapositivas no se admite en las Salas de Microsoft Teams ni para las presentaciones compartidas en dispositivos móviles.
+
+- People que se unan desde un dispositivo Mac no puede iniciar el control de diapositivas, pero se les puede dar el control de las diapositivas de otra persona.
+
+## Desactivar el uso compartido de pantalla si la pantalla se bloquea
+
+- En Teams, seleccione Configuración y más> de Más opciones de Microsoft Teams >Configuración Privacidad .
+
+- Activa la opción Desactivar la cámara y el micrófono cuando se bloquee la pantalla .
+
+- Reinicie Teams para activar esta configuración.
+
+## Presentar contenido desde un equipo Mac
+
+Importante
+
+Tenga en cuenta un problema conocido con la experiencia de uso compartido que afecta a los indicadores y paneles de control al usar DisplayLink u otras versiones de una base de acoplamiento en MacOS 14 y versiones posteriores.
+
+Si usa un equipo Mac con el sistema operativo más reciente, primero conceda permiso a Teams para grabar la pantalla de su equipo antes de realizar la presentación. Teams le pedirá que permita la grabación de pantalla la primera vez que comparta la pantalla.
+
+Para permitir la grabación de pantalla y empezar a presentar contenido en Teams:
+
+- 
+Seleccione el botón Compartir en los controles de la reunión.
+
+- 
+Si Teams le pide que permita la grabación de pantalla, seleccione Permitir en el elemento emergente. 
+
+- Si necesitas cambiar los permisos de grabación de pantalla en tu dispositivo, selecciona Abrir configuración del sistema en la ventana emergente.
+
+- En Pantalla & Grabación de audio del sistema, asegúrese de que el botón de alternancia de Microsoft Teams está activado.
+
+- Si no escuchas la solicitud, ve aConfiguración del> sistema del menú> ApplePrivacidad & Seguridad para acceder a esta configuración.
+
+- Vuelva a la reunión y seleccione Permitir en la ventana emergente.
+
+- 
+Seleccione el nuevamente desde los controles de la reunión.
+
+- 
+Seleccione una ventana o archivo para empezar a compartirlo.
+
+Nota
+
+- Si usa Teams en la web, asegúrese de que también concede permiso de grabación de pantalla a su explorador.
+
+- Con el lanzamiento de macOS Sequoia 15.2, es posible que observe mensajes que indican que Teams está accediendo a la pantalla. Este cambio forma parte de las medidas de seguridad mejoradas de Apple para informarte cuando las aplicaciones soliciten permisos de grabación de pantalla.
+
+- Si tiene problemas para compartir la pantalla en un Mac, actualice a la versión más reciente de macOS (versión 26.4+), cierre las aplicaciones que no se usan para liberar memoria y vuelva a intentar compartir la pantalla. Si su dispositivo está administrado por su organización, póngase en contacto con su administrador de TI para obtener ayuda con las actualizaciones.
+
+Comparta su pantalla o ventanas específicas con la experiencia de uso compartido nativa de macOS integrada. Esta es una experiencia opcional que solo está disponible en dispositivos Mac.
+
+Para activar la experiencia de uso compartido nativa de macOS:
+
+- Seleccione Configuración y más>Configuración en Teams.
+
+- EnUso compartido de pantalla general>, seleccione Usar el uso compartido de contenido de macOS.
+
+El cambio surtirá efecto inmediatamente, sin necesidad de reiniciar Teams.
+
+Nota
+
+Dar y tomar el control del contenido presentado no es compatible con la experiencia de uso compartido nativa de macOS.
+
+## Zoom en el contenido compartido
+
+Para ver mejor el contenido compartido, pulse y arrástrelo para ver las diferentes áreas. Para acercar o alejar el contenido compartido, use los botones de la esquina de la ventana de la reunión: [+] para acercar y [-] para alejar.
+
+También puede intentar lo siguiente:
+
+- Pellizca hacia dentro o hacia fuera en el trackpad.
+
+- 
+ Use métodos abreviados de teclado de Teams.
+
+- Mantenga presionada la tecla Ctrl y desplácese con el mouse.
+
+Nota
+
+Los panel táctiles de los equipos Mac no admiten el zoom en reuniones. Si usa un equipo Mac, use otra opción. Si usas Linux, no puedes compartir ni tomar el control del contenido compartido.
+
+## Abrir contenido compartido en una ventana nueva
+
+Expanda su vista abriendo el contenido compartido en una ventana independiente durante las reuniones de Teams.
+
+Para abrir contenido compartido:
+
+- Únase a la reunión desde Teams para escritorio.
+
+- Cuando otro moderador comparta contenido en la ventana de la reunión, seleccione Abrir en ventana nueva Botón emergente de la barra de herramientas de la reunión.
+
+- Para minimizar el contenido, seleccione X.
+
+## Compartir contenido
+
+Para compartir contenido desde tu dispositivo móvil:
+
+- 
+Pulse el controles de la reunión.
+
+- 
+Elija el tipo de contenido que desea compartir.
+
+- 
+
+ Pulse Iniciar presentación o Iniciar difusión cuando esté listo.
+
+- 
+Pulse Detener presentación o Detener retransmisión cuando haya terminado.
+
+ | Seleccionar...
+
+ | Si quiere...
+
+ | 
+ Compartir PowerPoint
+
+ | Presentar un archivo de PowerPoint con el que otros puedan interactuar. Cuando elija el PowerPoint que quiere compartir, el uso compartido se iniciará automáticamente.
+
+ | 
+ Compartir foto
+
+ | Haz una foto para compartir o elige una de la galería.
+
+ | 
+ Compartir vídeo
+
+ | Compartir vídeo en directo desde la cámara.
+
+ | 
+ Compartir pantalla
+
+ | Mostrar la pantalla completa, incluidas las notificaciones y otra actividad. Habilite No molestar para evitar que otros usuarios vean sus notificaciones. Elija si quiere compartir la pantalla con o sin audio
+
+ | 
+ Compartir pizarra
+
+ | 
+ Comparta o cree una pizarra colaborativa.
+
+Si su rol cambia de moderador a asistente mientras realiza la presentación, se detendrá el uso compartido de pantalla. 
+
+## Zoom en el contenido compartido
+
+Acerca o aleja los dedos para ampliar, o pulsa y arrastra para ver diferentes áreas.
+
+Nota
+
+El zoom no se admite actualmente al compartir fotos y vídeos.
+
+## Minimizar el contenido compartido
+
+Minimice el contenido que alguien está compartiendo para ver mejor a las personas en la reunión en su dispositivo móvil. 
+
+- Pulse el junto al nombre de la persona que comparte.
+
+- 
+ Toque Minimizar contenido.
+
+Esto le dará una mejor visión de las personas que están presentes en la reunión. Seguirás viendo el contenido compartido en la parte inferior de la pantalla.
+
+## Compartir contenido desde un dispositivo complementario
+
+- 
+ Unirse a una reunión de Teams en un segundo dispositivo.
+
+- 
+ Pulse Iniciar presentación en la parte inferior de la pantalla. Verás el contenido compartido en ambos dispositivos conectados.
+
+- Cuando haya terminado, pulse Detener la presentación o simplemente cuelgue. El otro dispositivo permanecerá conectado a la reunión.

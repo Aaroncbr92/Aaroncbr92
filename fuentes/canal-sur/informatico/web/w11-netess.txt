@@ -1,0 +1,204 @@
+URL: https://support.microsoft.com/es-es/windows/tareas-y-configuraci%C3%B3n-de-red-esenciales-en-windows-f21a9bbc-c582-55cd-35e0-73431160a1b9
+Leído: 2026-10-05
+
+# Tareas y configuración de red esenciales en Windows
+
+ Se aplica a
+Windows 10 Windows 11 
+
+Obtener ayuda con Copilot
+
+ ¿Cómo cambio la configuración de TCP/IP?
+
+ ¿Cómo soluciono problemas de conexiones de red?
+
+ ¿Cómo encuentro mi dirección IP?
+
+## Resumen
+
+La configuración de la red e Internet de Windows le permite administrar las conexiones de red y la configuración de Internet. Tanto si necesita conectarse a Wi-Fi, configurar una VPN o solucionar problemas de red, esta configuración proporciona todas las opciones necesarias para garantizar una experiencia en línea sin problemas. Explore las distintas secciones para personalizar las preferencias de red y mantener una conexión confiable.
+
+Puede acceder a esta configuración de las siguientes maneras:
+
+- Selecciona laconfiguración de>Inicio>Red & Internet.
+
+- Haz clic con el botón derecho en el icono Red o Wi-Fi de la barra de tareas y, a continuación, selecciona Configuración de Red e Internet.
+
+ Abrir la configuración de Red & Internet
+
+Además, la configuración de red & Internet le permite comprobar rápidamente el estado de la conexión de red. El estado de la conexión de red aparecerá en la parte superior.
+
+## Buscar la dirección IP
+
+Recomendación
+
+Para ver rápidamente los detalles sobre la red conectada, vaya a Red & configuración de Internet y, a continuación, seleccione Propiedades cerca de la red conectada.
+
+- 
+Vaya a Configuración de red & Internet y, a continuación, seleccione la opción adecuada:
+
+- Para Wi-Fi conexión, selecciona Wi-Fi y, a continuación, selecciona la red Wi-Fi a la que estás conectado.
+
+- Para una conexión Ethernet, seleccione Ethernet.
+
+- 
+Busca tu dirección IP junto a la dirección IPv4.
+
+## Establecer el límite de datos
+
+Windows puede ayudarte a no superar el límite del plan de datos y buscar formas de reducir el uso de datos. Después de establecer un límite de datos, te avisaremos cuando te estés acercando a él y cuando lo superes.
+
+- Selecciona Inicio>Configuración>Red & Internet > Wi-Fi.
+
+- Selecciona la red Wi-Fi a la que estás conectado.
+
+- Seleccione Establecer un límite de datos para ayudar a controlar el uso de datos en esta red.
+
+- Para especificar un límite de datos para esa red, selecciona Introducir límite, elige el tipo de límite que tienes para tu plan de datos, introduce otra información de límite y, a continuación, selecciona Guardar.
+
+## Activar o desactivar el modo avión
+
+El modo avión ofrece una forma rápida de desactivar todas las comunicaciones inalámbricas en el equipo. Algunos ejemplos de comunicaciones inalámbricas son Wi-Fi, celular, Bluetooth y comunicación de campo cercano (NFC).
+
+Estas son dos formas de activar o desactivar el modo avión:
+
+- Selecciona el icono de red, volumen o batería en la barra de tareas y, a continuación, selecciona Modo avión.
+
+- Vaya a la configuración de> Red & Internet Modo avión y, a continuación, seleccione el botón de alternancia para Activado o Desactivado.
+
+Nota
+
+El modo avión conserva la configuración que usó la última vez. Al activar el modo avión, Windows recuerda si tenía Wi-Fi o Bluetooth activado la última vez y mantiene esa configuración para que el Wi-Fi o Bluetooth vuelva a estar activado. Si quieres volver a la configuración predeterminada con Wi-Fi y Bluetooth desactivados, desactívalos mientras estás en modo avión; permanecerán desactivados la próxima vez que uses el modo avión. También permanecerán apagadas cuando salga del modo avión.
+
+## Hacer pública o privada una red
+
+Cuando se conecta por primera vez a una red en Windows 11, se establece como pública de forma predeterminada. Esta es la configuración recomendada . Sin embargo, puede establecerla como pública o privada en función de la red y de lo que quiera hacer:
+
+- 
+ Red pública (recomendado): Úselo para las redes a las que se conecte en casa, en el trabajo o en un lugar público. Debe usar esto en la mayoría de los casos. El equipo se ocultará a otros dispositivos de la red. Por lo tanto, no puedes usar tu PC para compartir archivos e impresoras.
+
+- 
+ Red privada: El equipo es reconocible para otros dispositivos en la red y puedes usarlo para compartir archivos e impresoras. Debe conocer a las personas y los dispositivos de la red y confiar en ellos.
+
+### Para cambiar una red a pública o privada
+
+Recomendación
+
+Para ver rápidamente los detalles sobre la red conectada, vaya a Red & configuración de Internet y, a continuación, seleccione Propiedades cerca de la red conectada.
+
+- 
+Vaya a Configuración de red & Internet y, a continuación, seleccione la opción adecuada:
+
+- Para Wi-Fi conexión, selecciona Wi-Fi y, a continuación, selecciona la red Wi-Fi a la que estás conectado.
+
+- Para una conexión Ethernet, seleccione Ethernet.
+
+- 
+En la pantalla Red, en Tipo de perfil de red, seleccione Red pública (recomendado) o Red privada.
+
+## Cambiar la configuración de TCP/IP
+
+TCP/IP define la forma en que el equipo se comunica con otros equipos. Para facilitar la administración de la configuración de TCP/IP, se recomienda usar el Protocolo de configuración dinámica de host (DHCP). DHCP asigna automáticamente direcciones de Protocolo de Internet (IP) a los dispositivos de la red si esta lo admite. Si usa DHCP, no es necesario cambiar la configuración de TCP/IP si mueve el dispositivo a otra ubicación.
+
+Si necesita actualizar la asignación IP del dispositivo, siga estos pasos:
+
+- 
+Ve a Configuración de red & Internet y realiza una de las siguientes acciones:
+
+- Para una red Wi-Fi, seleccione Wi-Fi>Administrar redes conocidas. Elige la red para la que deseas cambiar la configuración.
+
+- Para una red Ethernet, selecciona Ethernet y, a continuación, elige la red Ethernet a la que estás conectado.
+
+- 
+Junto a la asignación de IP, seleccione Editar.
+
+- 
+En Editar configuración IP, selecciona Automático (DHCP) o Manual.
+
+- Al seleccionar Automático (DHCP), la configuración de la dirección IP y la dirección de servidor DNS son establecidas automáticamente por el enrutador u otro punto de acceso (recomendado).
+
+- Al seleccionar Manual, puedes establecer manualmente la configuración de la dirección IP y la dirección de servidor DNS.
+
+### Especificar manualmente la configuración de IPv4
+
+- 
+En Editar la configuración IP, elige Manual y, a continuación, activa IPv4.
+
+- 
+Para especificar una dirección IP, escriba la configuración de dirección IP en los cuadros Dirección IP, Máscara de subred y Puerta de enlace .
+
+- 
+Para especificar una dirección del servidor DNS, en los cuadros DNS preferido y DNS alternativo, escribe las direcciones de los servidores DNS principales y secundarios.
+
+- 
+Para especificar si desea utilizar una conexión cifrada (DNS sobre HTTPS) o no cifrada con el servidor o servidores DNS que especifique, para DNS sobre HTTPS, elija la configuración que quiera:
+
+Nota
+
+La configuración de DNS sobre HTTPS no está disponible en Windows 10.
+
+- 
+
+ Desactivado: todas las consultas DNS se enviarán al servidor DNS sin cifrar en texto no cifrado a través de HTTP.
+
+- 
+
+ Activado (plantilla automática): las consultas DNS se cifrarán y se enviarán al servidor DNS a través de HTTPS. Las consultas DNS usarán la configuración predeterminada para la plantilla automática o intentarán descubrirla automáticamente.
+
+- 
+
+ Activado (plantilla manual): las consultas DNS se cifrarán y se enviarán al servidor DNS a través de HTTPS. Usarán la configuración que especifique en el cuadro de plantilla DNS sobre HTTPS .
+
+- 
+Si usa DNS sobre HTTPS (plantilla automática o manual), active o desactive la reserva a texto no cifrado : 
+
+- Cuando esté activado, se enviará una consulta DNS sin cifrar si no se puede enviar a través de HTTPS.
+
+- Cuando está desactivada, no se enviará una consulta DNS si no se puede enviar a través de HTTPS.
+
+- 
+Cuando termines, selecciona Guardar.
+
+### Especificar manualmente la configuración de IPv6
+
+- 
+En Editar configuración IP de red o Editar configuración IP, elija Manual y, a continuación, active IPv6.
+
+- 
+Para especificar una dirección IP, escriba la configuración de dirección IP en los cuadros Dirección IP, Longitud de prefijo de subred y Puerta de enlace .
+
+- 
+Para especificar una dirección del servidor DNS, en los cuadros DNS preferido y DNS alternativo, escribe las direcciones de los servidores DNS principales y secundarios.
+
+- 
+Para especificar si desea utilizar una conexión cifrada (DNS sobre HTTPS) o no cifrada con el servidor o servidores DNS que especifique, para DNS sobre HTTPS, elija la configuración que quiera:
+
+Nota
+
+La configuración de DNS sobre HTTPS no está disponible en Windows 10.
+
+- 
+
+ Desactivado: todas las consultas DNS se enviarán al servidor DNS sin cifrar en texto no cifrado a través de HTTP.
+
+- 
+
+ Activado (plantilla automática): las consultas DNS se cifrarán y se enviarán al servidor DNS a través de HTTPS. Las consultas DNS usarán la configuración predeterminada para la plantilla automática o intentarán descubrirla automáticamente.
+
+- 
+
+ Activado (plantilla manual): las consultas DNS se cifrarán y se enviarán al servidor DNS a través de HTTPS. Usarán la configuración que especifique en el cuadro de plantilla DNS sobre HTTPS .
+
+- 
+Si usa DNS sobre HTTPS (plantilla automática o manual), active o desactive la reserva a texto no cifrado : 
+
+- Cuando esté activado, se enviará una consulta DNS sin cifrar si no se puede enviar a través de HTTPS.
+
+- Cuando está desactivada, no se enviará una consulta DNS si no se puede enviar a través de HTTPS.
+
+- 
+Cuando termines, selecciona Guardar.
+
+Nota
+
+Para instalar IPv4, ejecuta el símbolo del sistema como administrador, escribe netsh interface ipv4 install y, a continuación, presiona Entrar.

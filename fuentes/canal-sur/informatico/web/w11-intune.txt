@@ -1,0 +1,116 @@
+URL: https://learn.microsoft.com/es-es/intune/intune-service/fundamentals/what-is-intune
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# ¿Qué es Microsoft Intune?
+
+## 
+
+Microsoft Intune es un servicio de administración de puntos de conexión basado en la nube que protege y administra los dispositivos y aplicaciones de su organización. Use Intune para inscribir, configurar, proteger y actualizar dispositivos, implementar y proteger aplicaciones y controlar qué usuarios y dispositivos pueden acceder a los recursos de la organización.
+
+Las plataformas admitidas incluyen Android, iOS/iPadOS, Linux, macOS, tvOS, visionOS y Windows. El servicio se ejecuta completamente en la nube, sin que sea necesaria ninguna infraestructura local, y admite el modelo de seguridad de Confianza cero.
+
+## ¿Qué hace Intune?
+
+Intune cubre todo el ciclo de vida de un dispositivo administrado y las aplicaciones que se ejecutan en él: inscribir dispositivos, configurar opciones, proteger puntos de conexión, implementar y proteger aplicaciones y mantener todo actualizado. Todo esto se administra desde el centro de administración de Microsoft Intune, una consola basada en web. Cada acción del centro de administración está respaldada por una llamada Graph API de Microsoft, por lo que puede automatizar las mismas operaciones a través de una interfaz de programación pública.
+
+Intune se basa en tres pilares: las identidades que inician sesión, los dispositivos desde los que inician sesión y las aplicaciones que usan para realizar el trabajo. La identidad se ejecuta en Microsoft Entra ID. El flujo de posición del dispositivo y la aplicación vuelve a Microsoft Entra acceso condicional, que permite acceder a los recursos corporativos en función de señales reales y actualizadas.
+
+Para obtener un tutorial más profundo sobre cómo encajan los pilares, consulte Microsoft Intune conceptos básicos. Para obtener una visita guiada por el centro de administración, consulte Tutorial: Microsoft Intune centro de administración.
+
+## Cómo se usa Intune: MDM, MAM o ambos
+
+Intune admite dos modos de administración que puede usar de forma independiente o conjunta.
+
+- 
+ Administración de dispositivos móviles (MDM): los dispositivos están inscritos, ya sea por un usuario a través de la Portal de empresa o automáticamente a través de Windows Autopilot, Inscripción de dispositivos automatizada de Apple o Android Enterprise. Intune luego administra todo el dispositivo, incluida la configuración, la seguridad y las aplicaciones. Si se pierde o se roba un dispositivo, puede borrarlo.
+
+- 
+ Administración de aplicaciones móviles (MAM): Intune solo administra las aplicaciones de trabajo y los datos dentro de ellas, no el resto del dispositivo. MAM es habitual para dispositivos personales en escenarios de bring-your-own-device (BYOD), pero también se ejecuta junto con MDM en dispositivos corporativos. El usuario mantiene el control de las aplicaciones personales y el contenido, mientras protege los datos dentro de Outlook, Microsoft Teams y otras aplicaciones administradas. Cuando el usuario se marcha, puede borrar selectivamente los datos de la organización sin tocar el contenido personal.
+
+Puede combinar los dos. Por ejemplo, un teléfono corporativo inscrito (MDM) también puede tener directivas de protección de aplicaciones (MAM) en aplicaciones que controlan datos especialmente confidenciales.
+
+Para obtener más información, consulte Introducción a la inscripción de dispositivos en lasdirectivas de Microsoft Intune y Protección de aplicaciones.
+
+## Cómo funciona Intune con Microsoft Entra
+
+Intune no almacena identidades de usuario ni realiza la autenticación. Se basa en Microsoft Entra ID para tres cosas:
+
+- 
+ Autenticación: los usuarios inician sesión en dispositivos administrados con credenciales Entra, con inicio de sesión único, autenticación multifactor o opciones sin contraseña.
+
+- 
+ Usuarios y grupos: Entra grupos de seguridad son la base para asignar directivas, perfiles y aplicaciones en Intune. Tiene como destino un grupo de usuarios, dispositivos o ambos, y Intune aplica la configuración al proteger.
+
+- Entra usuarios y grupos también se usan para asignar licencias de Intune. Cada usuario o dispositivo administrado necesita una licencia de Intune, pero los administradores pueden administrar Intune sin una.
+
+- 
+ Acceso condicional: Intune envía el estado de cumplimiento del dispositivo a Entra y el acceso condicional lo combina con las señales de riesgo de usuario, aplicación, ubicación y Defender para permitir o bloquear el acceso a los recursos corporativos.
+
+Este enfoque cierra el bucle de Confianza cero: las decisiones de acceso se basan en la posición real y actualizada del dispositivo, no en si el dispositivo está en la red corporativa.
+
+Para ver el flujo de acceso completo y cómo encajan las piezas, consulte Microsoft Intune conceptos básicos. Para obtener más información sobre el acceso condicional, consulte Uso del acceso condicional con Microsoft Intune.
+
+## Funcionalidades avanzadas
+
+Además del servicio principal, Intune ofrece funcionalidades avanzadas que agregan profundidad en la seguridad de los puntos de conexión, la administración de aplicaciones, los certificados, la compatibilidad remota, el análisis, las actualizaciones de dispositivos, el acceso remoto seguro y la administración de dispositivos especializados. Puede acceder a estas funcionalidades a través de planes de Microsoft 365, Microsoft Intune Suite o como suscripciones independientes.
+
+Para obtener más información, consulte Microsoft Intune funcionalidades avanzadas.
+
+## Copilot en Intune
+
+Copilot en Intune es una asistente de inteligencia artificial integrada en el centro de administración, con tecnología de Microsoft Security Copilot. Copilot puede:
+
+- Resuma lo que hace una directiva existente y marque los conflictos.
+
+- Explicar qué controles de configuración y valores recomendados.
+
+- Detalles del dispositivo Surface y ayudan a evaluar los problemas.
+
+- Ejecute agentes de inteligencia artificial especializados que evalúen las solicitudes de aprobación de varios Administración, generen directivas a partir de líneas base y prioricen la corrección de vulnerabilidades.
+
+Para obtener más información, consulte Microsoft Copilot en Intune.
+
+## Pruebe Intune
+
+- Regístrese para obtener una evaluación gratuita de 30 días para evaluar Intune en su entorno.
+
+- Compare los planes y los precios en Microsoft Intune licencias.
+
+- Después de la prueba, consulte Registrarse o iniciar sesión en Intune para configurar la suscripción de su organización.
+
+## Contenido relacionado
+
+- 
+ Microsoft Intune conceptos básicos
+
+- 
+ arquitectura de Microsoft Intune
+
+- 
+ Microsoft Intune funcionalidades avanzadas
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-05-23

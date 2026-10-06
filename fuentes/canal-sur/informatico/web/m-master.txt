@@ -1,0 +1,61 @@
+URL: https://support.microsoft.com/es-es/powerpoint/training/what-is-a-slide-master-in-powerpoint
+Leído: 2026-10-05
+
+# ¿Qué es un patrón de diapositivas en PowerPoint?
+
+ Se aplica a
+PowerPoint para Microsoft 365 PowerPoint para Microsoft 365 para Mac PowerPoint 2024 PowerPoint 2024 para Mac PowerPoint 2021 PowerPoint 2021 para Mac PowerPoint 2019 PowerPoint 2016 
+
+Si quiere que todas las diapositivas contengan las mismas fuentes e imágenes (como logotipos), puede realizar los cambios en un solo lugar, el patrón de diapositivas, y se aplicarán a todas las diapositivas. Para abrir la vista Patrón de diapositivas, en la pestaña Vista, seleccione Patrón de diapositivas:
+
+El patrón de diapositivas es la diapositiva superior en el panel de miniaturas situado a la izquierda de la ventana.
+
+Cuando el patrón de diapositivas se modifique, todas las diapositivas que se basen en dicho patrón reflejarán dichos cambios. Sin embargo, la mayoría de los cambios que realice probablemente se hagan en los diseños de diapositiva relacionados con el patrón.
+
+Al realizar cambios en los patrones de diseño y el patrón de diapositivas en la vista Patrón de diapositivas, otras personas que trabajan en la presentación (en la vista Normal) no pueden eliminar o editar accidentalmente lo que ha hecho. Por el contrario, si está trabajando en la vista Normal y se encuentra con que no puede editar un elemento en una diapositiva (por ejemplo, "¿por qué no puedo quitar esta imagen?") puede deberse a que lo que intenta cambiar se define en el patrón de diapositivas o en un patrón de diseño. Para editar el elemento, deberá cambiar a la vista Patrón de diapositivas.
+
+Nota
+
+Conviene editar el patrón de diapositivas y los diseñosantes de empezar a crear diapositivas individuales. De ese modo, todas las diapositivas que agregue a la presentación estarán basadas en sus modificaciones personales. Si edita el patrón de diapositivas o los diseños después de crear diapositivas individuales, tendrá que volver a aplicar los diseños cambiados a las diapositivas existentes en la presentación en la vista Normal.
+
+## Temas
+
+Un tema es una paleta de colores, fuentes y efectos especiales (como sombras, reflejos, efectos 3D, etc.) que se complementan entre sí. Un diseñador experto ha creado cada tema en PowerPoint. Estos temas prediseñados están disponibles en la pestaña Diseño de la vista Normal. También puede obtener más plantillas gratuitas de PowerPoint en línea.
+
+Cada tema que use en la presentación incluye un patrón de diapositivas y el conjunto de diseños correspondiente. Si usa más de un tema en la presentación, tendrá más de un patrón de diapositivas y varios conjuntos de diseños.
+
+## Diseños de diapositivas
+
+Puede cambiar y administrar los diseños de diapositivas en la vista Patrón de diapositivas. Cada tema contiene varios diseños de diapositivas. Elija los diseños que mejor se adapten al contenido de su diapositiva. Algunos son mejores para texto y otros para gráficos.
+
+En la vista Normal, aplicará los diseños a las diapositivas.
+
+Cada diseño de diapositiva se configura de forma diferente, con diferentes tipos de marcadores de posición en ubicaciones diferentes en cada diseño.
+
+Cada patrón de diapositivas tiene un diseño de diapositiva relacionado denominado Diseño de diapositiva de título, mientras que cada tema organiza el texto y otros marcadores de posición de objeto para el diseño de forma diferente (usa otros colores, fuentes y efectos). Las imágenes siguientes muestran la diferencia entre los diseños de diapositiva de título de dos temas: el primero es el tema Básico, mientras que el segundo es el tema Integral.
+
+Puede cambiar cualquier aspecto de un diseño para satisfacer sus necesidades. Cuando cambia un diseño y, después, va a la vista Normal, todas las diapositivas que agregue a partir de aquí se basarán en este diseño y reflejarán la nueva apariencia del diseño. Sin embargo, si hay diapositivas existentes en la presentación que se basan en la versión anterior del diseño, tendrá que volver a aplicar el diseño a esas diapositivas. (Para obtener instrucciones, consulte Modificar y volver a aplicar un diseño de diapositiva).
+
+Para obtener una explicación completa de los diseños de diapositiva, vea ¿Qué es un diseño de diapositiva?
+
+## Limpiar los patrones de diapositivas sin usar
+
+ | 
+
+ Esta característica solo está disponible para los suscriptores de Microsoft 365 para clientes de escritorio de Windows.
+
+En Microsoft 365, cuando abre una presentación con 25 o más patrones de diapositivas y algunas de ellas no se usan, PowerPoint abre un cuadro de mensaje que le ofrece quitar los patrones de diapositivas que no use. Puede aceptar o rechazar. Quizás simplemente quiera saber que hay patrones sin usar para poder revisarlos manualmente usted mismo en otro momento.
+
+## Más información sobre patrones de diapositivas, diseños y temas
+
+- 
+ ¿Qué es un diseño de diapositiva?
+
+- 
+ Usar varios patrones de diapositiva en una presentación
+
+- 
+ Aplicar colores y diseños a mis diapositivas (tema)
+
+- 
+ Aplicar varios estilos de diapositiva (temas) a una presentación

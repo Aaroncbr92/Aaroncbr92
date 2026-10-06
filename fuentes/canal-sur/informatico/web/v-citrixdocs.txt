@@ -1,0 +1,435 @@
+URL: https://docs.citrix.com/en-us/citrix-workspace.html
+Leído: 2026-10-05
+
+Citrix® StoreFront Cloud Overview | Citrix® StoreFront Cloud
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+ Citrix® StoreFront Cloud
+
+- 
+
+ Overview
+
+- 
+
+ What's New
+
+- 
+
+ Get started with Citrix® StoreFront Cloud
+
+- 
+
+ System Requirements
+
+- 
+
+ Prepare for Citrix® StoreFront Cloud
+
+- 
+
+ User access
+
+- 
+
+ End user experience
+
+- 
+
+ Require Citrix Workspace app
+
+- 
+
+ Citrix Workspace app detection
+
+- 
+
+ Assigned desktop power management
+
+- 
+
+ Activity Manager
+
+- 
+
+ Citrix® web extension
+
+- 
+
+ What's new in Citrix web extension
+
+- 
+
+ Install Citrix web extension
+
+- 
+
+ Configure access to stores
+
+- 
+
+ Configure a custom domain
+
+- 
+
+ Configure store URLs
+
+- 
+
+ Connectivity to DaaS resources
+
+- 
+
+ Configure authentication
+
+- 
+
+ Customize store experience
+
+- 
+
+ Customize the appearance of stores
+
+- 
+
+ Enable features for users
+
+- 
+
+ Custom announcements
+
+- 
+
+ Allow end users to change their account password
+
+- 
+
+ Pinned links
+
+- 
+
+ User interface settings
+
+- 
+
+ Store Sessions
+
+- 
+
+ Store access
+
+- 
+
+ Log in dialog
+
+- 
+
+ Integrate services into stores
+
+- 
+
+ Optimize DaaS in Citrix® StoreFront Cloud
+
+- 
+
+ Aggregate on-premise Virtual Apps and Desktops sites
+
+- 
+
+ Service continuity
+
+- 
+
+ Enable single sign-on with Citrix Federated Authentication Service (FAS)
+
+- 
+
+ Resource filtering
+
+- 
+
+ Configure Citrix Workspace app using Global App Configuration service
+
+- 
+
+ What's new in Global App Configuration service
+
+- 
+
+ Configure settings for cloud stores
+
+- 
+
+ Configure settings for on-premises stores
+
+- 
+
+ Setup email-based discovery
+
+- 
+
+ Configure test channel
+
+- 
+
+ Manage Citrix Workspace app versions
+
+- 
+
+ Manage plug-ins
+
+- 
+
+ Manage settings for user group using configuration profile
+
+- 
+
+ Clone settings across stores, channels, and configuration profiles
+
+- 
+
+ Manage settings for hybrid launch
+
+- 
+
+ Configure settings for custom domain
+
+- 
+
+ Citrix® StoreFront Cloud security overview
+
+- 
+
+ Configure store using PowerShell
+
+- 
+
+ Document History
+
+ View PDF
+
+ This content has been machine translated dynamically.
+
+ Give feedback here
+
+ Thank you for the feedback 
+
+- 
+
+- 
+
+This content has been machine translated dynamically.
+
+Dieser Inhalt ist eine maschinelle Übersetzung, die dynamisch erstellt wurde. (Haftungsausschluss)
+
+Cet article a été traduit automatiquement de manière dynamique. (Clause de non responsabilité)
+
+Este artículo lo ha traducido una máquina de forma dinámica. (Aviso legal)
+
+此内容已经过机器动态翻译。 放弃
+
+このコンテンツは動的に機械翻訳されています。免責事項
+
+이 콘텐츠는 동적으로 기계 번역되었습니다. 책임 부인
+
+Este texto foi traduzido automaticamente. (Aviso legal)
+
+Questo contenuto è stato tradotto dinamicamente con traduzione automatica.(Esclusione di responsabilità))
+
+This article has been machine translated.
+
+Dieser Artikel wurde maschinell übersetzt. (Haftungsausschluss)
+
+Ce article a été traduit automatiquement. (Clause de non responsabilité)
+
+Este artículo ha sido traducido automáticamente. (Aviso legal)
+
+この記事は機械翻訳されています.免責事項
+
+이 기사는 기계 번역되었습니다.책임 부인
+
+Este artigo foi traduzido automaticamente.(Aviso legal)
+
+这篇文章已经过机器翻译.放弃
+
+Questo articolo è stato tradotto automaticamente.(Esclusione di responsabilità))
+
+ Switch to english
+ Auf Englisch anzeigen
+ Lire en anglais
+ Leer en inglés
+ 英語に切り替え
+ 영어로 전환
+ Mudar para ingles
+ 切换到英文
+ Passa all'inglese
+
+Translation failed!
+
+# Citrix® StoreFront Cloud Overview 
+
+ June 22, 2026
+
+ Contributed by: 
+
+ C
+
+Citrix® StoreFront Cloud is a service that provides secure access to your virtual apps, desktops, web and SaaS apps from a web browser or Citrix Workspace app. For an overview of the services available through Citrix® StoreFront Cloud, see Cloud-hosted services through Citrix® StoreFront Cloud.
+
+Citrix® StoreFront Cloud is a cloud service managed by Citrix. If you wish to deploy this functionality in your own environment on-premise then see StoreFront.
+
+Within Citrix® StoreFront Cloud, you can configure one or more stores. End users authenticate to their stores using the selected identity provider. When users launch resources through their store they single sign-on to avoid having to re-enter credentials. For more information on configuring store authentication, visit Configure authentication.
+
+## 
+Get started
+
+See Get started with Citrix® StoreFront Cloud.
+
+## 
+End user access
+
+End-users connect to Citrix® StoreFront Cloud from their devices using either Citrix Workspace app or their web browser. For more information, see User access
+
+## 
+Cloud-hosted services through Citrix® StoreFront Cloud
+
+End users use Citrix® StoreFront Cloud to access the resources provided by cloud-hosted services.
+
+This section describes the main cloud-hosted services that can be enabled for Citrix® StoreFront Cloud, depending on your entitlements.
+
+### Citrix DaaS™
+
+Citrix DaaS is a service that provides app and desktop virtualization, giving IT control of on-prem or cloud-hosted virtual machines, applications, and security while providing anywhere access for any device. End users can use applications and desktops independently of the device’s operating system and interface.
+
+If you’re an on-premises Virtual Apps and Desktops customer, it is recommended that you first migrate to Citrix DaaS before adopting Citrix® StoreFront Cloud.
+
+### SaaS and Web apps, secured with the Citrix Secure Private Access™ service
+
+Citrix Secure Private Access provides single sign-on (SSO) to Web and SaaS apps and allows internal web apps to be accessed remotely. The service also allows you to manage access permissions and control policies.
+
+### Citrix Remote Browser Isolation™ service
+
+Integrate Citrix Remote Browser Isolation service into your stores to isolate web browsing and protect the corporate network from browser-based attacks. When subscribers navigate to the store URL, their published browsers are shown, along with other apps and desktops that are configured in other Citrix Cloud services.
+
+ The official version of this product documentation is in English. Any non-English version is solely provided for your convenience and may include machine-translated content. For more information, please refer to the Machine Translation Disclaimer on Cloud Software Group home. 
+
+ DIESER DIENST KANN ÜBERSETZUNGEN ENTHALTEN, DIE VON GOOGLE BEREITGESTELLT WERDEN. GOOGLE LEHNT JEDE AUSDRÜCKLICHE ODER STILLSCHWEIGENDE GEWÄHRLEISTUNG IN BEZUG AUF DIE ÜBERSETZUNGEN AB, EINSCHLIESSLICH JEGLICHER GEWÄHRLEISTUNG DER GENAUIGKEIT, ZUVERLÄSSIGKEIT UND JEGLICHER STILLSCHWEIGENDEN GEWÄHRLEISTUNG DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND DER NICHTVERLETZUNG VON RECHTEN DRITTER.
+
+ CE SERVICE PEUT CONTENIR DES TRADUCTIONS FOURNIES PAR GOOGLE. GOOGLE EXCLUT TOUTE GARANTIE RELATIVE AUX TRADUCTIONS, EXPRESSE OU IMPLICITE, Y COMPRIS TOUTE GARANTIE D'EXACTITUDE, DE FIABILITÉ ET TOUTE GARANTIE IMPLICITE DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON.
+
+ ESTE SERVICIO PUEDE CONTENER TRADUCCIONES CON TECNOLOGÍA DE GOOGLE. GOOGLE RENUNCIA A TODAS LAS GARANTÍAS RELACIONADAS CON LAS TRADUCCIONES, TANTO IMPLÍCITAS COMO EXPLÍCITAS, INCLUIDAS LAS GARANTÍAS DE EXACTITUD, FIABILIDAD Y OTRAS GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN EN PARTICULAR Y AUSENCIA DE INFRACCIÓN DE DERECHOS.
+
+ 本服务可能包含由 Google 提供技术支持的翻译。Google 对这些翻译内容不做任何明示或暗示的保证，包括对准确性、可靠性的任何保证以及对适销性、特定用途的适用性和非侵权性的任何暗示保证。
+
+ このサービスには、Google が提供する翻訳が含まれている可能性があります。Google は翻訳について、明示的か黙示的かを問わず、精度と信頼性に関するあらゆる保証、および商品性、特定目的への適合性、第三者の権利を侵害しないことに関するあらゆる黙示的保証を含め、一切保証しません。
+
+ ESTE SERVIÇO PODE CONTER TRADUÇÕES FORNECIDAS PELO GOOGLE. O GOOGLE SE EXIME DE TODAS AS GARANTIAS RELACIONADAS COM AS TRADUÇÕES, EXPRESSAS OU IMPLÍCITAS, INCLUINDO QUALQUER GARANTIA DE PRECISÃO, CONFIABILIDADE E QUALQUER GARANTIA IMPLÍCITA DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM PROPÓSITO ESPECÍFICO E NÃO INFRAÇÃO.
+
+ Was this helpful
+
+ Send us your feedback
+
+ Instructions for Contributors
+
+ This content has been machine translated dynamically.
+
+ Give feedback here
+
+ Thank you for the feedback 
+
+ Citrix® StoreFront Cloud Overview 
+
+ June 22, 2026
+
+ Contributed by: 
+
+ C
+
+Share
+
+ June 22, 2026
+
+ Contributed by: 
+
+ C
+
+Share
+
+### 
+ In this article
+
+- Get started
+
+- End user access
+
+- Cloud-hosted services through Citrix® StoreFront Cloud
+
+ Was this helpful
+
+ Send us your feedback
+
+ Instructions for Contributors
+
+ Citrix
+ Preview Documentation
+
+This Preview product documentation is 
+ Citrix
+ Confidential.
+
+You agree to hold this documentation confidential pursuant to the
+ terms of your 
+ Citrix
+ Beta/Tech Preview Agreement.
+
+The development, release and timing of any features or functionality
+ described in the Preview documentation remains at our sole discretion and are subject to
+ change without notice or consultation.
+
+The documentation is for informational purposes only and is not a
+ commitment, promise or legal obligation to deliver any material, code or functionality
+ and should not be relied upon in making 
+ Citrix
+ product purchase decisions.
+
+If you do not agree, select I DO NOT AGREE to exit.
+
+ Send us your feedback
+
+Machine Translation Feedback Form
+
+ YES
+
+ NO
+
+ Write something?
+
+ Copied!
+ Failed!
+
+Do you want to switch to the website in your browser preferred language?
+
+ Please enter a Commit message

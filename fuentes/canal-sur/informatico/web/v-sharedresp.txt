@@ -1,0 +1,248 @@
+URL: https://learn.microsoft.com/es-es/azure/security/fundamentals/shared-responsibility
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Responsabilidad compartida en la nube
+
+## 
+
+A medida que considera y evalúa los servicios en la nube pública, es fundamental comprender el modelo de responsabilidad compartida y qué tareas de seguridad controla el proveedor de nube y qué tareas maneja usted. Las responsabilidades de la carga de trabajo varían según si la carga está alojada en software como servicio (SaaS), plataforma como servicio (PaaS), infraestructura como servicio (IaaS) o en un centro de datos local:
+
+- 
+ IaaS (infraestructura como servicio): gestionas máquinas virtuales, sistemas operativos y aplicaciones. Entre los ejemplos se incluyen Azure Virtual Machines, Azure Disk Storage y redes virtuales.
+
+- 
+ PaaS (plataforma como servicio): Despliegas aplicaciones sin gestionar máquinas virtuales ni sistemas operativos. Algunos ejemplos son Azure App Service, Azure Functions, Azure SQL Database y Azure Storage.
+
+- 
+ SaaS (software como servicio): Usas aplicaciones ya hechas. Entre los ejemplos se incluyen Microsoft 365, Dynamics 365 y otras aplicaciones en la nube.
+
+Muchas soluciones de Azure usan una combinación de modelos de servicio. Para obtener instrucciones más detalladas sobre cómo elegir servicios de proceso, consulte Elección de un servicio de proceso de Azure.
+
+Para cargas de trabajo de IA generativa, véase el modelo de responsabilidad compartida de IA. Para agentes de IA autónomos que usan herramientas, véase el modelo de responsabilidad compartida de agentes de IA.
+
+Note
+
+Este artículo utiliza la "responsabilidad" en un sentido de gobernanza: quién se espera que configure, opere y supervise cada control. Es una guía ilustrativa y no pretende transmitir conclusiones legales ni modificar o contradecir los términos de ningún acuerdo entre usted y Microsoft.
+
+## División de responsabilidad
+
+En un centro de datos local, usted es el propietario de toda la pila. A medida que se mueve a la nube, algunas responsabilidades se transfieren a Microsoft. En el diagrama siguiente se muestran las áreas de responsabilidad entre usted y Microsoft, según el tipo de implementación de la pila.
+
+Para todos los tipos de implementación en la nube, posee sus datos e identidades. Es responsable de proteger la seguridad de los datos e identidades, los recursos locales y los componentes en la nube que controla. Los componentes en la nube que controla varían según el tipo de servicio.
+
+### Matriz de responsabilidades
+
+En la tabla siguiente se detalla la división de responsabilidades entre Microsoft y usted en cada área de la pila:
+
+ | Área de responsabilidad
+
+ | Local
+
+ | IaaS
+
+ | PaaS (Plataforma como Servicio)
+
+ | SaaS
+
+ | Datos del cliente
+
+ | Cliente
+
+ | Cliente
+
+ | Cliente
+
+ | Cliente
+
+ | Opciones y configuración
+
+ | Cliente
+
+ | Cliente
+
+ | Cliente
+
+ | Cliente
+
+ | Identidades y usuarios
+
+ | Cliente
+
+ | Cliente
+
+ | Cliente
+
+ | Cliente
+
+ | Dispositivos cliente
+
+ | Cliente
+
+ | Cliente
+
+ | Cliente
+
+ | Shared
+
+ | APLICACIONES
+
+ | Cliente
+
+ | Cliente
+
+ | Shared
+
+ | Shared
+
+ | Controles de red
+
+ | Cliente
+
+ | Cliente
+
+ | Shared
+
+ | Microsoft
+
+ | Sistema operativo
+
+ | Cliente
+
+ | Cliente
+
+ | Microsoft
+
+ | Microsoft
+
+ | Anfitriones físicos
+
+ | Cliente
+
+ | Microsoft
+
+ | Microsoft
+
+ | Microsoft
+
+ | Red física
+
+ | Cliente
+
+ | Microsoft
+
+ | Microsoft
+
+ | Microsoft
+
+ | Centro de datos físico
+
+ | Cliente
+
+ | Microsoft
+
+ | Microsoft
+
+ | Microsoft
+
+### Responsabilidades que siempre conserva
+
+Independientemente del tipo de implementación, siempre se conservan las siguientes responsabilidades:
+
+- 
+ Datos : es responsable de los datos, incluida la clasificación de datos, la protección de datos, las decisiones de cifrado y el cumplimiento de los requisitos de gobernanza de datos.
+
+- 
+ Puntos de conexión : es responsable de proteger los dispositivos cliente y los puntos de conexión que acceden a los servicios en la nube, incluidos los dispositivos móviles, los portátiles y los escritorios.
+
+- 
+ Cuentas : es responsable de administrar cuentas de usuario, incluida la creación, administración y eliminación del acceso de usuario.
+
+- 
+ Administración de acceso : es responsable de implementar y administrar controles de acceso, incluido el control de acceso basado en rol (RBAC), la autenticación multifactor y las directivas de acceso condicional.
+
+### Responsabilidades compartidas explicadas
+
+Algunas responsabilidades se comparten entre usted y Microsoft, con la división que varía según el modelo de servicio:
+
+- 
+ Aplicaciones : en IaaS, es totalmente responsable de las aplicaciones implementadas. En PaaS y SaaS, Microsoft administra partes de la pila de aplicaciones, pero es responsable de la configuración de la aplicación, la seguridad del código y los controles de acceso.
+
+- 
+ Controles de red : en IaaS, configurará toda la seguridad de red, incluidos los firewalls y la segmentación de red. En PaaS, Microsoft proporciona seguridad de red de línea base, pero configura controles de red de nivel de aplicación. En SaaS, Microsoft administra la seguridad de red.
+
+- 
+ Dispositivos cliente - En escenarios SaaS, Microsoft puede ofrecer algunas capacidades de gestión de dispositivos, pero tú eres responsable de la protección y cumplimiento de endpoints.
+
+### Responsabilidades de Microsoft
+
+Microsoft es responsable de la infraestructura en la nube subyacente, que incluye:
+
+- 
+ Seguridad física : protección de los centros de datos, incluidas las instalaciones, los controles de acceso físico y los controles de entorno.
+
+- 
+ Red física : administración de la infraestructura de red, incluidos enrutadores, conmutadores y cables dentro de los centros de datos.
+
+- 
+ Hosts físicos: administración y mantenimiento de los servidores físicos que hospedan servicios en la nube.
+
+- 
+ Hipervisor : administración de la capa de virtualización que habilita máquinas virtuales en IaaS y PaaS.
+
+- 
+ Servicios de plataforma : en PaaS y SaaS, Microsoft administra sistemas operativos, entornos en tiempo de ejecución y middleware.
+
+## Ventajas de seguridad en la nube
+
+La nube ofrece ventajas significativas para resolver desafíos de seguridad de la información de larga data. En un entorno local, las organizaciones probablemente tienen responsabilidades incumplidas y recursos limitados para invertir en seguridad. Esta situación crea un entorno donde los atacantes pueden explotar vulnerabilidades en todas las capas.
+
+Entre los ejemplos comunes de responsabilidades no satisfechas en entornos locales tradicionales se incluyen:
+
+- 
+ Aplicación de revisiones retrasadas: las actualizaciones de seguridad no se aplican rápidamente debido al personal de TI limitado o a la interrupción del sistema, lo que deja expuestas las vulnerabilidades conocidas.
+
+- 
+ Seguridad física insuficiente : las salas de servidores pueden carecer de controles de acceso adecuados, supervisión ambiental o vigilancia debido a limitaciones presupuestarias.
+
+- 
+ Monitorización incompleta de la red : las organizaciones pueden no disponer de herramientas o experiencia para detectar intrusiones, monitorizar anomalías de tráfico o responder a amenazas en tiempo real.
+
+- 
+ Hardware obsoleto : la infraestructura envejecida puede que ya no reciba actualizaciones de seguridad de los proveedores, lo que crea brechas de seguridad permanentes.
+
+- 
+ Copia de seguridad insuficiente y recuperación ante desastres : las copias de seguridad pueden ser poco frecuentes, sin probar o almacenarse en el sitio, lo que deja los datos vulnerables a ransomware o desastres físicos.
+
+El siguiente diagrama muestra un enfoque tradicional en el que los recursos limitados conducen a muchas responsabilidades de seguridad no cumplidas. En el enfoque habilitado para la nube, puedes trasladar las responsabilidades diarias de seguridad a tu proveedor de nube y reasignar tus recursos.
+
+En el enfoque habilitado para la nube, también puedes aplicar capacidades de seguridad basadas en la nube de forma más eficaz y utilizar inteligencia en la nube para mejorar la detección de amenazas y el tiempo de respuesta. Al transferir responsabilidades al proveedor de la nube, las organizaciones pueden obtener una mayor cobertura de seguridad. Este cambio les ayuda a reasignar recursos de seguridad y presupuesto a otras prioridades empresariales.
+
+## Paso siguiente
+
+Obtenga más información sobre la responsabilidad compartida y las estrategias para mejorar la posición de seguridad en la información general de Well-Architected Framework sobre el pilar de seguridad.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-08-24

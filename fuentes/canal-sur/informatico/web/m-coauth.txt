@@ -1,0 +1,29 @@
+URL: https://support.microsoft.com/es-es/word/training/collaborate-on-word-documents-with-real-time-co-authoring
+Leído: 2026-10-05
+
+# Colaborar en documentos de Word en coautoría a tiempo real
+
+ Se aplica a
+Word para Microsoft 365 Word para Microsoft 365 para Mac Word 2024 Word 2024 para Mac Word 2021 Word 2021 para Mac Word 2019 Word 2016 
+
+Obtener ayuda con Copilot
+
+ Háblame sobre colaborar en documentos de Word en tiempo real.
+
+ ¿Cómo debo escanear un documento como archivo PDF y editarlo?
+
+ ¿Cómo creo un documento en Word para la web?
+
+Cuando alguien comparte un Word documento con usted, el correo electrónico que recibe incluye un vínculo que abre el documento en el explorador web. Seleccione Abrir para ver el documento compartido.
+
+Si cualquier otra persona está trabajando en el documento, verá su presencia y los cambios que está realizando. Esto se denomina coautoría o colaboración en tiempo real.
+
+ Desde aquí, si prefiere trabajar en la aplicación de Word, cambie de Edición a Abrir en el escritorio.
+
+Si usa una versión anterior de Word, o si no está suscrito a Microsoft 365, puede editar el documento al mismo tiempo que otros usuarios trabajan en él, pero no tendrá colaboración en tiempo real. Para ver los cambios de otros usuarios y compartir los suyos, tendrá que guardar el documento de vez en cuando.
+
+ Documentos con macros (.docm)
+
+Si el documento contiene macros (.docm), aún puede editar y colaborar. Puede abrir y editar el contenido como cualquier otro documento, incluidas las macros en ejecución. Si necesita editar el código de la macro, simplemente desproteger el archivo, editar el código y volver a protegerlo.
+
+ Más información sobre macros

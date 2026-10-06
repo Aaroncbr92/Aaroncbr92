@@ -1,0 +1,54 @@
+URL: https://support.microsoft.com/es-es/powerpoint/the-difference-between-animations-and-transitions
+Leído: 2026-10-05
+
+# La diferencia entre animaciones y transiciones
+
+ Se aplica a
+PowerPoint para Microsoft 365 PowerPoint para Microsoft 365 para Mac PowerPoint 2024 PowerPoint 2024 para Mac PowerPoint 2021 PowerPoint 2021 para Mac PowerPoint 2019 PowerPoint 2016 PowerPoint para iPad PowerPoint para iPhone PowerPoint para tabletas Android PowerPoint para teléfonos Android 
+
+Obtener ayuda con Copilot
+
+ ¿Cuál es la mejor manera de configurar la diferencia?
+
+ Muéstrame cómo agregar una diapositiva con Copilot.
+
+ Dame la diferencia entre animaciones y transiciones.
+
+Los efectos de animación y los efectos de transición, cuando se usan con cuidado, pueden ayudar a comunicar bien el mensaje.
+
+- Una animación es un efecto especial que se aplica a un solo elemento de una diapositiva, como texto, forma, imagen, etc.
+
+- Una transición es el efecto especial que se produce al salir de una diapositiva y pasar a la siguiente durante una presentación.
+
+## Dónde encontrar estos efectos
+
+Hay pestañas específicas en la cinta de opciones que le ayudarán a crear cada tipo de efecto. Vaya a la pestaña Transiciones o a la pestaña Animaciones cuando desee crear o editar un efecto:
+
+## Conceptos básicos sobre la transición
+
+- Se aplica una transición a toda una diapositiva.
+
+- Solo se puede aplicar un efecto de transición a una diapositiva.
+
+- Para usar un efecto de transición, seleccione la diapositiva a la que desea aplicar la transición y luego aplique un efecto. En la presentación con diapositivas, el efecto aparecerá cuando la diapositiva anterior dé paso a la diapositiva que tiene el efecto de transición.
+
+ Para empezar, veaCómo crear un efecto de transición.
+
+## Conceptos básicos de animación
+
+- Una animación se aplica a un solo elemento de una diapositiva, por lo que es posible que una diapositiva tenga varios efectos de animación.
+
+- 
+ Los efectos de entrada hacen que aparezca un objeto.
+
+ Los efectos de salida hacen desaparecer un objeto.
+
+ Los efectos de énfasis resaltan un objeto ya visible.
+
+ Las trayectorias de la animación mueven un objeto de una posición a otra.
+
+ Para empezar, veaCómo animar texto o un objeto.
+
+## Transformación
+
+ Transformación es un efecto de transición que tiene el aspecto de un efecto de animación. Crea un movimiento suave de los objetos de una posición o tamaño a otra. Para obtener más información, incluido un vídeo de demostración rápida, vea Usar la transición Transformación.

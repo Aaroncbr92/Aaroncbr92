@@ -1,0 +1,395 @@
+URL: https://learn.microsoft.com/es-es/azure/virtual-desktop/app-attach-overview
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Asociación de aplicaciones en Azure Virtual Desktop
+
+## 
+
+App Attach permite adjuntar aplicaciones de forma dinámica desde un paquete de aplicación a una sesión de usuario en Azure Virtual Desktop. Las aplicaciones no se instalan localmente en hosts de sesión o imágenes, lo que facilita la creación de imágenes personalizadas para los hosts de sesión y reduce la sobrecarga y los costos operativos para su organización. Las aplicaciones se ejecutan dentro de contenedores, que separan los datos de usuario, el sistema operativo y otras aplicaciones, lo que aumenta la seguridad y facilita su solución de problemas.
+
+Estas son algunas de las principales ventajas de App Attach:
+
+- 
+Las aplicaciones se entregan mediante RemoteApp o como parte de una sesión de escritorio. Los permisos se aplican por aplicación por usuario, lo que le proporciona un mayor control sobre a qué aplicaciones pueden tener acceso los usuarios en una sesión remota. Los usuarios de escritorio solo ven las aplicaciones de App Attach asignadas a ellos.
+
+- 
+El mismo paquete de aplicación se puede utilizar en varios grupos de hosts.
+
+- 
+Las aplicaciones se pueden ejecutar en cualquier host de sesión que ejecute un cliente Windows o un sistema operativo Windows Server compatible en la misma región de Azure que el paquete de aplicación.
+
+- 
+Las aplicaciones se pueden actualizar a una nueva versión de aplicación con una nueva imagen de disco sin necesidad de una ventana de mantenimiento.
+
+- 
+Los usuarios pueden ejecutar varias versiones de la misma aplicación simultáneamente en el mismo host de sesión.
+
+- 
+La telemetría para el uso y el estado está disponible a través de Azure Log Analytics.
+
+Puede utilizar los siguientes tipos de paquetes de aplicaciones y formatos de archivo:
+
+ | Tipo de paquete
+
+ | Formatos de archivo
+
+ | MSIX y Paquete MSIX
+
+ | `.msix`
+`.msixbundle`
+
+ | Paquete Appx y Appx
+
+ | `.appx`
+`.appxbundle`
+
+ | App-V
+
+ | `.appv`
+
+MSIX y Appx son formatos de paquete de aplicaciones de Windows que proporcionan una experiencia de empaquetado moderna para las aplicaciones de Windows. Las aplicaciones se ejecutan dentro de contenedores, que separan los datos de usuario, el sistema operativo y otras aplicaciones, lo que aumenta la seguridad y facilita su solución de problemas. MSIX y Appx son similares, donde la principal diferencia es que MSIX es un superconjunto de Appx. MSIX admite todas las características de Appx, además de otras características que lo hacen más adecuado para uso empresarial.
+
+ Microsoft Application Virtualization (App-V) para Windows entrega aplicaciones Win32 a los usuarios como aplicaciones virtuales. Estas aplicaciones se instalan en servidores administrados de forma centralizada y se entregan a los usuarios como un servicio en tiempo real y según sea necesario. Los usuarios inician aplicaciones virtuales desde puntos de acceso conocidos e interactúan con ellas como si estuvieran instaladas localmente.
+
+Puede obtener paquetes MSIX de proveedores de software o puede crear un paquete MSIX a partir de un instalador existente. Para obtener más información sobre MSIX, consulte ¿Qué es MSIX?.
+
+## Cómo un usuario obtiene una aplicación
+
+Puede asignar diferentes aplicaciones a diferentes usuarios en el mismo grupo de hosts o en el mismo host de sesión. Durante el inicio de sesión, deben cumplirse los tres requisitos siguientes para que el usuario obtenga la aplicación adecuada en el momento adecuado:
+
+- 
+La aplicación se debe asignar al grupo de hosts. La asignación de la aplicación al grupo de hosts le permite ser selectivo en cuanto a los grupos de hosts en los que está disponible la aplicación para asegurarse de que la aplicación disponga de los recursos de hardware adecuados. Por ejemplo, si una aplicación es intensiva en gráficos, puede asegurarse de que solo se ejecuta en un grupo de hosts con hosts de sesión optimizados para GPU.
+
+- 
+El usuario debe poder iniciar sesión en los hosts de sesión del grupo de hosts, por lo que debe estar en un grupo de aplicaciones de escritorio o de RemoteApp. Para un grupo de aplicaciones RemoteApp, la aplicación Conexión de aplicaciones debe agregarse al grupo de aplicaciones, pero no es necesario agregar la aplicación a un grupo de aplicaciones de escritorio.
+
+- 
+La aplicación se debe asignar al usuario. Puede usar una cuenta de grupo o de usuario.
+
+Si se cumplen todos estos requisitos, el usuario obtiene la aplicación. Este proceso proporciona control sobre quién obtiene una aplicación en qué grupo de hosts y también cómo es posible que los usuarios dentro de un único grupo de hosts, o incluso los que han iniciado sesión en el mismo host de sesión multisesión, obtengan diferentes combinaciones de aplicaciones. Los usuarios que no cumplan los requisitos no obtienen la aplicación.
+
+## Imágenes de aplicación
+
+Para poder usar paquetes de aplicaciones MSIX con Azure Virtual Desktop, debe crear una imagen MSIX a partir de los paquetes de aplicaciones existentes. Como alternativa, puedes usar un paquete de App-V en su lugar. A continuación, debes almacenar cada imagen MSIX o paquete de App-V en un recurso compartido de archivos al que puedan acceder los hosts de sesión. Para obtener más información sobre los requisitos de un recurso compartido de archivos, consulte Recurso compartido de archivos.
+
+### Tipos de imagen de disco
+
+Para las imágenes de disco MSIX y Appx, puede usar el Sistema de archivos de imagen compuesta (CimFS),VHDX o VHD, pero no se recomienda usar VHD. El montaje y desmontaje de imágenes CimFS es más rápido que las imágenes VHD y VHDX y también consume menos CPU y memoria. Solo se recomienda usar CimFS para las imágenes de aplicación si los hosts de sesión ejecutan Windows 11.
+
+Una imagen de CimFS es una combinación de varios archivos: un archivo tiene la `.cim` extensión de archivo y contiene metadatos, junto con al menos otros dos archivos, uno que comienza y `objectid_` el otro que comienza con `region_` que contienen los datos reales de la aplicación. Los archivos que acompañan al `.cim` archivo no tienen una extensión de archivo. La siguiente tabla es una lista de archivos de ejemplo que encontraría para una imagen de CimFS:
+
+ | Nombre de archivo
+
+ | Size
+
+ | `MyApp.cim`
+
+ | 1 KB
+
+ | `objectid_b5742e0b-1b98-40b3-94a6-9cb96f497e56_0`
+
+ | 27 KB
+
+ | `objectid_b5742e0b-1b98-40b3-94a6-9cb96f497e56_1`
+
+ | 20 KB
+
+ | `objectid_b5742e0b-1b98-40b3-94a6-9cb96f497e56_2`
+
+ | 42 KB
+
+ | `region_b5742e0b-1b98-40b3-94a6-9cb96f497e56_0`
+
+ | 428 KB
+
+ | `region_b5742e0b-1b98-40b3-94a6-9cb96f497e56_1`
+
+ | 217 KB
+
+ | `region_b5742e0b-1b98-40b3-94a6-9cb96f497e56_2`
+
+ | 264.132 KB
+
+La tabla siguiente es una comparación de rendimiento entre VHDX y CimFS. Estos números fueron el resultado de una prueba con 500 archivos de 300 MB cada uno por formato y las pruebas se realizaron en una máquina virtual DSv4 de Azure.
+
+ | Métrica
+
+ | VHD
+
+ | CimFS
+
+ | Tiempo medio de montaje
+
+ | 356 ms
+
+ | 255 ms
+
+ | Tiempo medio de desmontaje
+
+ | 1615 ms
+
+ | 36 ms
+
+ | Consumo de memoria
+
+ | 6 % (de 8 GB)
+
+ | 2 % (de 8 GB)
+
+ | CPU (pico de recuento)
+
+ | Maximizado varias veces
+
+ | Ningún efecto
+
+## Registro de la aplicación
+
+App Attach monta imágenes de disco o paquetes App-V que contienen las aplicaciones de un recurso compartido de archivos en la sesión de un usuario durante el inicio de sesión, un proceso de registro pone las aplicaciones a disposición del usuario. Hay dos tipos de registro:
+
+- 
+
+ A petición: las aplicaciones solo se registran parcialmente en el inicio de sesión y el registro completo de una aplicación se pospone hasta que el usuario inicia la aplicación. A petición es el tipo de registro que le recomendamos usar, ya que no afecta al tiempo que tarda en iniciar sesión en Azure Virtual Desktop. A petición es el método de registro predeterminado.
+
+- 
+
+ Bloqueo de inicio de sesión: cada aplicación que asigne a un usuario está completamente registrada. El registro se produce mientras el usuario inicia sesión en su sesión, lo que puede afectar al tiempo de inicio de sesión en Azure Virtual Desktop.
+
+Importante
+
+Todos los paquetes de aplicaciones MSIX y Appx incluyen un certificado. Es responsable de asegurarse de que los certificados sean de confianza en su entorno. Los certificados autofirmados cuentan con la cadena de confianza adecuada.
+
+App Attach no limita el número de aplicaciones que los usuarios pueden usar. Debe tener en cuenta el rendimiento de red disponible y el número de identificadores abiertos por archivo (cada imagen) que admite el recurso compartido de archivos, ya que podría limitar el número de usuarios o aplicaciones que puede admitir. Para obtener más información, consulte Recurso compartido de archivos.
+
+## Estado de la aplicación
+
+Los paquetes de aplicación se establecen como activos o inactivos. Paquetes establecidos en activo hacen que la aplicación esté disponible para los usuarios. Azure Virtual Desktop omite los paquetes establecidos como inactivos y no se agregan cuando un usuario inicia sesión.
+
+## Nuevas versiones de aplicaciones
+
+Puede agregar una nueva versión de una aplicación proporcionando una nueva imagen que contenga la aplicación actualizada. Puede usar esta nueva imagen de dos maneras:
+
+- 
+
+ En paralelo: cree una nueva aplicación con la nueva imagen de disco y asígnela a los mismos grupos de hosts y usuarios que la aplicación existente.
+
+- 
+
+ En contexto: cree una nueva imagen en la que cambie el número de versión de la aplicación y, a continuación, actualice la aplicación existente para usar la nueva imagen. El número de versión puede ser mayor o menor, pero no se puede actualizar una aplicación con el mismo número de versión. No elimine la imagen existente hasta que todos los usuarios hayan terminado de usarla.
+
+Una vez actualizada, los usuarios obtendrán la versión actualizada de la aplicación la próxima vez que inicien sesión. Los usuarios no necesitan dejar de usar la versión anterior para agregar una nueva versión.
+
+## Proveedores de identidades
+
+Estos son los proveedores de identidad que puede usar con App Attach:
+
+ | Proveedor de identidades
+
+ | Estado
+
+ | Microsoft Entra ID
+
+ | Compatible
+
+ | Servicios de dominio de Active Directory (AD DS)
+
+ | Compatible
+
+ | Servicios de dominio de Microsoft Entra
+
+ | No se admite
+
+## Compartir archivos
+
+La conexión de aplicaciones requiere que las imágenes de la aplicación se almacenen en un recurso compartido de archivos SMB, que luego se monta en cada host de sesión durante el inicio de sesión. App Attach no tiene dependencias en el tipo de tejido de almacenamiento que usa el recurso compartido de archivos. Recomendamos usar Azure Files, ya que es compatible con Microsoft Entra ID o con los Servicios de dominio de Active Directory, y ofrece una gran relación entre costes y gastos generales de administración.
+
+También puede usar Azure NetApp Files, pero eso requiere que los hosts de sesión se unan a Servicios de dominio de Active Directory.
+
+En las secciones siguientes se proporcionan instrucciones sobre los permisos, el rendimiento y la disponibilidad necesarios para el recurso compartido de archivos.
+
+### Permissions
+
+Cada host de sesión monta imágenes de aplicación desde el recurso compartido de archivos. Debe configurar los permisos NTFS y de recurso compartido para permitir que cada objeto de equipo host de sesión acceda de lectura a los archivos y al recurso compartido de archivos. La manera de configurar los permisos correctos depende del proveedor de almacenamiento y el proveedor de identidad que use para el recurso compartido de archivos y los hosts de sesión.
+
+- 
+Para usar Azure Files cuando los hosts de la sesión se unieron a Microsoft Entra ID, debe asignar la función de control de acceso basado en roles (RBAC) de Lector y Acceso a datos Azure a las entidades de servicio de proveedor de ARM de Azure Virtual Desktop y Azure Virtual Desktop. Esta asignación de roles RBAC permite a los hosts de sesión tener acceso a la cuenta de almacenamiento mediante claves de acceso o Microsoft Entra.
+
+- 
+Para obtener información sobre cómo asignar un rol RBAC de Azure a las entidades de servicio de Azure Virtual Desktop, consulte Asignación de roles RBAC a las entidades de servicio de Azure Virtual Desktop. En una actualización futura, no necesitará asignar la entidad de servicio del proveedor de ARM de Azure Virtual Desktop.
+
+Para más información acerca del uso de Azure Files con hosts de sesión que están unidos a Microsoft Entra ID, Servicios de dominio de Active Directory o Servicios de dominio de Microsoft Entra, consulte Información general sobre las opciones de autenticación basada en identidad de Azure Files para el acceso SMB.
+
+Advertencia
+
+La asignación de la entidad de servicio del proveedor de ARM de Azure Virtual Desktop a la cuenta de almacenamiento otorga el servicio Azure Virtual Desktop a todos los datos dentro de la cuenta de almacenamiento. Le recomendamos que solo almacene aplicaciones para usar la conexión de aplicaciones en esta cuenta de almacenamiento y que gire las teclas de acceso periódicamente.
+
+- 
+Para Azure Files con Servicios de dominio de Active Directory, debe asignar el rol de control de acceso basado en roles (RBAC) de Azure al lector de recursos compartidos de SMB de datos de archivos de almacenamiento como el permiso de nivel de recurso compartido predeterminado y configurar los permisos NTFS para proporcionar acceso de lectura al objeto de equipo de cada host de sesión.
+
+Para más información acerca del uso de Azure Files con hosts de sesión que están unidos a Microsoft Entra ID, Servicios de dominio de Active Directory o Servicios de dominio de Microsoft Entra, consulte Información general sobre las opciones de autenticación basada en identidad de Azure Files para el acceso SMB.
+
+- 
+Para Azure NetApp Files, puede crear un volumen SMB y configurar permisos NTFS para conceder acceso de lectura al objeto de equipo de cada host de sesión. Los hosts de sesión deben estar unidos a Servicios de dominio de Active Directory o a Servicios de dominio de Microsoft Entra.
+
+Puede comprobar que los permisos son correctos mediante PsExec. Para obtener más información, consulte Comprobar el acceso al recurso compartido de archivos.
+
+### Usuario e implementación Configuration Files
+
+Para los paquetes de App-V entregados a través de App Attach, puedes usar los archivos de configuración dinámica de App-V para personalizar el comportamiento de la aplicación. Conexión de aplicaciones detecta automáticamente los archivos de configuración estándar que siguen la convención de nomenclatura esperada. Si están en la misma carpeta que el paquete de App Attach y el xml tiene el prefijo del nombre del archivo App-V, estos archivos se asocian automáticamente con el paquete de aplicación durante el procesamiento. Si la ruta del archivo es \share\folder\filename.appv, los ejemplos siguientes se detectarán automáticamente y se usarán con el paquete.
+
+- 
+\share\folder\filename_UserConfig.xml
+
+- 
+\share\folder\filename_DeploymentConfig.xml
+
+`$a = Get-AzWvdAppAttachPackage -SubscriptionId blahblah -ResourceGroupName blahblahrg -Name contosoPackage
+
+$dependencyType = $a.GetType().Assembly.GetTypes() |
+ Where-Object {
+ $_.Name -eq 'MsixPackageDependencies' -and
+ $_.Namespace -like '*DesktopVirtualization*'
+ } |
+ Select-Object -First 1
+
+$newDependency = [System.Activator]::CreateInstance($dependencyType)
+$newDependency.DependencyName = "FilePathToUserConfig"
+$newDependency.Publisher = "Group Object Id"
+$newDependency.MinVersion = 1
+$dependencyList = $a.ImagePackageDependency
+$dependencyList += $newDependency
+Update-AzWvdAppAttachPackage -ImagePackageDependency $dependencyList -SubscriptionId blahblah -ResourceGroupName blahblahrg -Name contosoPackage
+
+# Remove logic
+$a = Get-AzWvdAppAttachPackage -SubscriptionId blahblah -ResourceGroupName blahblahrg -Name contosoPackage
+$dependencyList = $a.ImagePackageDependency
+$dependencyList = $dependencyList | where-Object {$_.DependencyName -ne "FilePathToUserConfig"}
+Update-AzWvdAppAttachPackage -ImagePackageDependency $dependencyList -SubscriptionId blahblah -ResourceGroupName blahblahrg -Name contosoPackage
+
+`
+
+Los archivos de configuración de usuario se evalúan en el nivel de usuario, lo que permite que los distintos usuarios reciban diferentes configuraciones de la aplicación. Los archivos de configuración de implementación, por el contrario, se aplican en el nivel de equipo y son compartidos por todos los usuarios del host de sesión. En este momento, la configuración de usuario solo se admite en conexiones de escritorio, no en conexiones de aplicaciones remotas.
+
+Los escenarios avanzados pueden requerir varios archivos de configuración de usuario para la misma aplicación. En estos casos, los archivos de configuración de usuario adicionales deben asociarse explícitamente al paquete de aplicación mediante PowerShell.
+
+La conexión de aplicaciones comprueba el objeto de dependencia
+
+- 
+Tiene una ruta de acceso de archivo especificada en el campo NombreDeDependencia que termina con UserConfig.xml
+
+- 
+Contiene un campo Publisher que identifica el grupo de seguridad de Microsoft Entra que debe recibir esa configuración. El valor del campo Publicador del paquete de la aplicación debe establecerse en el identificador de objeto del grupo de seguridad de destino.
+
+Durante el inicio de sesión, la conexión de aplicaciones evalúa la pertenencia a grupos del usuario y aplica la configuración de usuario adecuada en función del grupo asociado.
+
+Los administradores deben usar varios archivos de configuración de usuario solo cuando diferentes poblaciones de usuarios requieran configuraciones de aplicación distintas; Las implementaciones estándar pueden seguir basándose en el archivo de configuración de usuario único detectado automáticamente.
+
+### Rendimiento
+
+Los requisitos pueden variar mucho en función del número de aplicaciones empaquetadas almacenadas en una imagen y necesita probar las aplicaciones para comprender los requisitos. Para imágenes más grandes, necesita asignar más ancho de banda. En la tabla siguiente se proporciona un ejemplo de los requisitos que requiere por host de sesión una sola imagen de 1 GB o un paquete de App-V que contenga una aplicación:
+
+ | Recurso
+
+ | Requisitos
+
+ | IOP de estado estable
+
+ | Un IOP
+
+ | Inicio de sesión de arranque del equipo
+
+ | 10 IOP
+
+ | Latencia
+
+ | 400 ms
+
+Para optimizar el rendimiento de las aplicaciones, se recomienda lo siguiente:
+
+- 
+El recurso compartido de archivos debe estar en la misma región de Azure que los hosts de sesión. Si usa Azure Files, la cuenta de almacenamiento debe estar en la misma región de Azure que los hosts de sesión.
+
+- 
+Excluya las imágenes de disco que contengan sus aplicaciones de los exámenes antivirus, ya que son de solo lectura.
+
+- 
+Asegúrese de que el almacenamiento y el tejido de red puedan proporcionar un rendimiento adecuado. Debe evitar usar el mismo recurso compartido de archivos con los contenedores de perfiles FSLogix.
+
+### Disponibilidad
+
+Cualquier plan de recuperación ante desastres para Azure Virtual Desktop debe incluir la replicación del recurso compartido de archivos en la ubicación de conmutación por error secundaria. También debe asegurarse de que la ruta de acceso al recurso compartido de archivos sea accesible en la ubicación secundaria. Por ejemplo, puede usar espacios de nombres del Sistema de archivos distribuido (DFS) con Azure Files para proporcionar un único nombre de recurso compartido entre distintos recursos compartidos de archivos. Para obtener más información sobre la recuperación ante desastres para Azure Virtual Desktop, consulte Configuración de un plan de continuidad empresarial y recuperación ante desastres.
+
+### Azure Files
+
+Azure Files tiene límites en el número de identificadores abiertos por directorio raíz, directorio y archivo. Las imágenes de disco VHDX o CimFS se montan con la cuenta de equipo del host de sesión, lo que significa que se abre un identificador por host de sesión por imagen de disco, en lugar de por usuario. Para obtener más información sobre los límites y la guía de tamaño, consulte Azure Files objetivos de escalabilidad y rendimiento, y Azure Files guía de tamaño para Azure Virtual Desktop.
+
+## Certificados de paquete MSIX y Appx
+
+Todos los paquetes MSIX y Appx requieren un certificado de firma de código válido. Para usar estos paquetes con App Attach, debe asegurarse de que los hosts de sesión confían en toda la cadena de certificados. Un certificado de firma de código tiene el identificador `1.3.6.1.5.5.7.3.3`de objeto . Puedes obtener un certificado de firma de código para tus paquetes desde:
+
+- 
+Una entidad de certificación pública (CA).
+
+- 
+Una empresa interna o una entidad de certificación independiente, como los Servicios de certificados de Active Directory. Debe exportar el certificado de firma de código, incluida su clave privada.
+
+- 
+Una herramienta como el cmdlet de PowerShell New-SelfSignedCertificate que genera un certificado autofirmado. Solo debe usar certificados autofirmados en un entorno de prueba. Para obtener más información sobre cómo crear un certificado autofirmado para paquetes MSIX y Appx, consulte Creación de un certificado para la firma de paquetes.
+
+Una vez que obtenga un certificado, debe firmar digitalmente los paquetes MSIX o Appx con el certificado. Puede utilizar la herramienta de empaquetado MSIX para firmar los paquetes al crear un paquete MSIX. Para obtener más información, consulte Crear un paquete MSIX desde cualquier instalador de escritorio.
+
+Para asegurarse de que los hosts de sesión confían en el certificado, necesita que los hosts de sesión confíen en toda la cadena de certificados. La confianza de los hosts de sesión en la cadena de certificados depende de dónde haya obtenido el certificado y de cómo administre los hosts de sesión y el proveedor de identidad que use. En la tabla siguiente se proporcionan instrucciones sobre cómo asegurarse de que los hosts de sesión confían en el certificado:
+
+- 
+
+ CA pública: los certificados de una CA pública son de confianza de forma predeterminada en Windows y Windows Server.
+
+- 
+
+ CA interna de la empresa:
+
+- 
+Para la sesión, los hosts unidos a Active Directory, con AD CS configurado como CA empresarial interna, son de confianza de forma predeterminada y se almacenan en el contexto de nomenclatura de configuración de los Servicios de dominio de Active Directory. Cuando AD CS se configura como una CA independiente, debe configurar la directiva de grupo para distribuir los certificados raíz e intermedios a los hosts de sesión. Para obtener más información, consulte Distribuir certificados a dispositivos Windows mediante la directiva de grupo.
+
+- 
+Para los hosts de sesión unidos a Microsoft Entra ID, puede usar Microsoft Intune para distribuir los certificados raíz e intermedios a los hosts de sesión. Para obtener más información, consulte Perfiles de certificado raíz de confianza para Microsoft Intune.
+
+- 
+Para los hosts de sesión que usan la combinación híbrida de Microsoft Entra, puede utilizar cualquiera de los métodos anteriores, según sus requisitos.
+
+- 
+
+ Autofirmado: instale la raíz de confianza en el almacén de las entidades de certificación raíz de confianza en cada host de sesión. No se recomienda distribuir este certificado mediante la Directiva de grupo o Intune, ya que solo debe usarse para pruebas.
+
+Importante
+
+Debe marcar el tiempo del paquete para que su validez pueda durar más que la fecha de caducidad del certificado. De lo contrario, una vez que expire el certificado, debe actualizar el paquete con un nuevo certificado válido y una vez más asegurarse de que los hosts de sesión confían en la cadena de certificados.
+
+## Pasos siguientes
+
+Obtenga información sobre cómo agregar y administrar aplicaciones de conexión de aplicaciones en Azure Virtual Desktop.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-08-26

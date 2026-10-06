@@ -1,0 +1,87 @@
+URL: https://learn.microsoft.com/es-es/windows-server/administration/windows-commands/list
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# list
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+Muestra una lista de discos, de particiones en un disco, de volúmenes de un disco o de discos duros virtuales (VHD).
+
+## Syntax
+
+`list { disk | partition | volume | vdisk }
+`
+
+### Parameters
+
+ | Parameter
+
+ | Description
+
+ | disk
+
+ | Muestra una lista de discos e información sobre ellos, como su tamaño, la cantidad de espacio libre disponible, si el disco es un disco básico o dinámico, y si el disco usa el registro de arranque maestro (MBR) o el estilo de partición GUID (GPT).
+
+ | partition
+
+ | Muestra las particiones enumeradas en la tabla de particiones del disco actual.
+
+ | volume
+
+ | Muestra una lista de volúmenes básicos y dinámicos en todos los discos.
+
+ | vdisk
+
+ | Muestra una lista de los discos duros virtuales que están conectados o seleccionados. Este comando enumera los VHD desasociados si están seleccionados actualmente; sin embargo, el tipo de disco se establece en Desconocido hasta que se conecte el disco duro virtual. El VHD marcado con un asterisco (*) tiene el foco.
+
+#### Remarks
+
+- 
+Al enumerar particiones en un disco dinámico, es posible que las particiones no se correspondan con los volúmenes dinámicos del disco. Esta discrepancia se produce porque los discos dinámicos contienen entradas en la tabla de particiones para el volumen del sistema o el volumen de arranque (si están presentes en el disco). También contienen una partición que ocupa el resto del disco para reservar el espacio para su uso por volúmenes dinámicos.
+
+- 
+El objeto marcado con un asterisco (*) tiene el foco.
+
+- 
+Al enumerar discos, si falta un disco, su número de disco tiene el prefijo M. Por ejemplo, el primer disco que falta está numerado M0.
+
+### Examples
+
+`list disk
+list partition
+list volume
+list vdisk
+`
+
+## Related links
+
+- 
+ Clave de sintaxis de línea de comandos
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

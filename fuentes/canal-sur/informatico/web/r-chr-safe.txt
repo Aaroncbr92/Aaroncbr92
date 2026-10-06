@@ -1,0 +1,177 @@
+URL: https://support.google.com/chrome/answer/9890866?hl=es
+Leído: 2026-10-05
+
+Elegir un nivel de protección de Navegación segura en Chrome - Ordenador - Ayuda de Google Chrome Saltar al contenido principal 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+# Elegir un nivel de protección de Navegación segura en Chrome
+
+Cuando usas Navegación segura de Google en Chrome, recibes advertencias que te protegen contra malware, extensiones y sitios engañosos, phishing, anuncios maliciosos e invasivos, y ataques de ingeniería social.
+
+Navegación segura rastrea y analiza la Web para detectar sitios potencialmente dañinos y añadirlos a sus listas. Cada vez que visitas un sitio web o intentas realizar una descarga, Chrome lo verifica con Navegación segura en función del nivel de protección que hayas seleccionado.
+
+Tienes estas opciones:
+
+- Protección mejorada: la experiencia de navegación más segura de Google, ofrece protección frente a peligros conocidos y peligros nuevos potenciales.
+
+- Protección estándar: opción predeterminada, la protección estándar ofrece seguridad frente a peligros conocidos.
+
+- Sin protección (no recomendado): también puedes desactivar Navegación segura, pero no se te protegerá frente a sitios web, descargas y extensiones potencialmente peligrosos. La configuración de Navegación segura en otros productos de Google no se verá afectada.
+
+Aunque recibas una advertencia de Chrome, podrás visitar el sitio no seguro o descargar el archivo.
+
+## Acerca de los niveles de protección de Navegación segura
+
+Protección mejorada
+
+Al activar la protección mejorada, recibirás advertencias sobre sitios, descargas y extensiones potencialmente peligrosos, incluso de algunos que Google desconocía antes.
+
+Cuando visitas un sitio, Chrome envía la URL del sitio y una pequeña muestra del contenido de la página, la actividad de la extensión e información del sistema a Navegación segura de Google para comprobar si son potencialmente dañinos, incluidos análisis exhaustivos de descargas sospechosas. La información que se envía a Navegación segura de Google solo se usa con fines de seguridad.
+
+Si decides activar Navegación segura mejorada para tu cuenta, la función te protegerá cuando tengas la sesión iniciada y mejorará tu seguridad en Google Chrome y Gmail. Si has iniciado sesión en tu cuenta de Google, la protección de Navegación segura se extiende a todos tus servicios de Google ya que se guardan estos datos en tu cuenta de Google. Por ejemplo, tras un incidente de seguridad, Navegación segura puede aumentar la protección en Gmail.
+
+Protección mejorada:
+
+- Mejora tu seguridad y la de todo el mundo en la Web.
+
+- Te avisa si usas una contraseña vulnerada en una brecha de seguridad de datos.
+
+- No ralentiza de forma significativa tu navegador ni tu dispositivo.
+
+Protección estándar
+
+Cuando usas Chrome, la protección estándar está activada de forma predeterminada. Recibirás advertencias sobre sitios, descargas y extensiones que se hayan identificado como peligrosos.
+
+Para ocultar tu dirección IP cuando visitas un sitio, Chrome envía una parte ofuscada de las URLs que visitas a través de servidores de privacidad antes de que se reenvíen a Google. Ni Google ni el tercero que gestiona el servidor de privacidad pueden ver la URL en la que estás ni tu dirección IP. Google comprueba si la parte ofuscada de la URL está en las listas de Navegación segura y te avisa si el sitio está en alguna.
+
+La protección estándar envía URLs completas y fragmentos de contenido de la página a Google solo si un sitio hace algo sospechoso.
+
+## Cambiar el nivel de protección de Navegación segura
+
+- En tu ordenador, abre Chrome.
+
+- Arriba a la derecha, selecciona Más Configuración.
+
+- A la izquierda, selecciona Privacidad y seguridad Seguridad.
+
+- Selecciona el nivel de Navegación segura que quieras usar.
+
+- Protección mejorada
+
+- Protección estándar
+
+- Sin protección
+
+Para disfrutar de una experiencia de navegación más privada y segura, también puedes revisar y gestionar tu configuración de Seguridad avanzada. Consulta cómo gestionar la configuración de seguridad adicional de Chrome.
+
+## Recursos relacionados
+
+- Gestionar las advertencias sobre sitios que no son seguros
+
+- Cómo Navegación segura de Chrome mantiene la privacidad de tus datos de navegación
+
+- Google Chrome bloquea algunas descargas
+
+Esta página puede incluir contenido traducido con tecnología de IA. Las traducciones generadas por IA pueden contener errores.
+
+## ¿Te ha resultado útil esta información?
+
+¿Cómo podemos mejorar esta página?
+
+ Ordenador AndroidiPhone y iPad 
+ Más 
+
+## ¿Necesitas más ayuda?
+
+### Prueba estos pasos:
+
+ Publicar en la comunidad de ayuda Obtener respuestas de los miembros de la comunidad 
+
+true
+
+## 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Búsqueda
+
+Borrar búsqueda
+
+Cerrar búsqueda
+
+Aplicaciones de Google
+
+Menú principal
+
+6242884694326804268
+
+true
+
+Buscar en el Centro de ayuda
+
+false
+
+true
+
+true
+
+true
+
+true
+
+true
+
+237
+
+false
+
+false
+
+false
+
+false
+
+false

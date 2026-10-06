@@ -1,0 +1,311 @@
+URL: https://learn.microsoft.com/es-es/sql/t-sql/queries/select-transact-sql?view=sql-server-ver17
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# SELECT (Transact-SQL)
+
+## 
+
+ Aplica a:SQL ServerAzure SQL DatabaseAzure SQL Managed InstanceAzure Synapse AnalyticsEndpoint de analítica SQL en Microsoft FabricAlmacén en Microsoft FabricBase de datos SQL en Microsoft Fabric
+
+Use la `SELECT` instrucción para recuperar filas de la base de datos. 
+ `SELECT` permite elegir una o varias filas o columnas de una o varias tablas en el motor de base de datos de SQL Server.
+
+Dado que la instrucción de sintaxis `SELECT` completa es compleja, se muestran los elementos de sintaxis detallados y los argumentos por cláusula. Consulte la sección Sintaxis para ver cómo funcionan juntas estas cláusulas.
+
+- 
+ CON XMLNAMESPACES
+
+- 
+ CON common_table_expression
+
+- 
+ cláusula SELECT
+
+- 
+ cláusula INTO
+
+- 
+ Cláusula FROM (incluye JOIN, APPLY y PIVOT)
+
+- 
+ Cláusula WHERE
+
+- 
+ Cláusula GROUP BY
+
+- 
+ Cláusula HAVING
+
+- 
+ Cláusula QUALIFICA (solo en Fabric Data Warehouse)
+
+- 
+ Cláusula WINDOW
+
+- 
+ Cláusula ORDER BY
+
+Los operadores UNION, EXCEPT e INTERSECT se pueden usar entre consultas para combinar o comparar sus resultados en un conjunto de resultados.
+
+ Convenciones de sintaxis de Transact-SQL
+
+## Syntax
+
+Sintaxis de SQL Server y Azure SQL Database:
+
+`<SELECT statement> ::=
+ [ WITH { [ XMLNAMESPACES , ] [ <common_table_expression> [ , ...n ] ] } ]
+ <query_expression>
+ [ ORDER BY <order_by_expression> ]
+ [ <FOR Clause> ]
+ [ OPTION ( <query_hint> [ , ...n ] ) ]
+<query_expression> ::=
+ { <query_specification> | ( <query_expression> ) }
+ [ { UNION [ ALL ] | EXCEPT | INTERSECT }
+ <query_specification> | ( <query_expression> ) [ ...n ] ]
+<query_specification> ::=
+SELECT [ ALL | DISTINCT ]
+ [ TOP ( expression ) [ PERCENT ] [ WITH TIES ] ]
+ <select_list>
+ [ INTO new_table ]
+ [ FROM { <table_source> } [ , ...n ] ]
+ [ WHERE <search_condition> ]
+ [ <GROUP BY> ]
+ [ HAVING <search_condition> ]
+[ ; ]
+`
+
+Syntax for Azure Synapse Analytics and Microsoft Fabric:
+
+`[ WITH <common_table_expression> [ , ...n ] ]
+SELECT <select_criteria>
+[ ; ]
+
+<select_criteria> ::=
+ [ TOP ( top_expression ) ]
+ [ ALL | DISTINCT ]
+ { * | column_name | expression } [ , ...n ]
+ [ FROM { table_source } [ , ...n ] ]
+ [ WHERE <search_condition> ]
+ [ GROUP BY <group_by_clause> ]
+ [ HAVING <search_condition> ]
+ [ QUALIFY <filter_condition> ]
+ [ ORDER BY <order_by_expression> ]
+ [ OPTION ( <query_option> [ , ...n ] ) ]
+`
+
+## Remarks
+
+El orden de las cláusulas de la `SELECT` instrucción es significativo. Se puede omitir cualquiera de las cláusulas opcionales pero, cuando se utilizan, deben aparecer en el orden apropiado.
+
+ `SELECT` Las instrucciones se permiten en funciones definidas por el usuario solo si las listas de selección de estas instrucciones contienen expresiones que asignan valores a variables locales a las funciones.
+
+Un nombre de cuatro partes construido con la `OPENDATASOURCE` función como elemento de nombre de servidor se puede usar como origen de tabla siempre que un nombre de tabla pueda aparecer en una `SELECT` instrucción . No se puede especificar un nombre de cuatro partes para Azure SQL Database.
+
+Algunas restricciones de sintaxis se aplican a `SELECT` las instrucciones que implican tablas remotas.
+
+## Orden de procesamiento lógico de la instrucción SELECT
+
+Los pasos siguientes muestran el orden de procesamiento lógico o el orden de enlace para una `SELECT` instrucción . Este orden determina cuándo los objetos definidos en un paso están disponibles para las cláusulas en pasos posteriores. Por ejemplo, si el procesador de consultas puede enlazar (acceso) a las tablas o vistas definidas en la `FROM` cláusula , estos objetos y sus columnas están disponibles para todos los pasos posteriores. Por el contrario, dado que la cláusula es el `SELECT` paso 8, no se puede hacer referencia a ningún alias de columna o columnas derivadas definidas en esa cláusula mediante cláusulas anteriores. Sin embargo, las cláusulas posteriores pueden hacer referencia a ellas, como la `ORDER BY` cláusula . El procesador de consultas determina la ejecución física real de la instrucción y el orden puede variar de esta lista.
+
+- `FROM`
+
+- `ON`
+
+- `JOIN`
+
+- `WHERE`
+
+- `GROUP BY`
+
+- 
+ `WITH CUBE` o `WITH ROLLUP`
+
+- `HAVING`
+
+- 
+ `QUALIFY`(solo en Fabric Data Warehouse)
+
+- `SELECT`
+
+- `DISTINCT`
+
+- `ORDER BY`
+
+- `TOP`
+
+Warning
+
+Hay casos poco comunes en los que la secuencia anterior podría diferir. Supongamos que tiene un índice agrupado en una vista y la vista excluye algunas filas de tabla y la lista de columnas de `SELECT` la vista usa un `CONVERT` que cambia un tipo de datos de varchar a int. En esta situación, `CONVERT` puede ejecutarse antes de que se ejecute la `WHERE` cláusula . A menudo hay una manera de modificar la vista para evitar la secuencia diferente, si es importante en su caso.
+
+## Permissions
+
+La selección de datos requiere `SELECT` permiso en la tabla o vista, que se podría heredar de un ámbito superior, como `SELECT` el permiso en el esquema o `CONTROL` el permiso de la tabla. Debe pertenecer a los roles fijos de base de datos db_datareader o db_owner o al rol fijo de servidor sysadmin. La creación de una tabla con `SELECT INTO` también requiere el `CREATE TABLE` permiso y el `ALTER SCHEMA` permiso en el esquema que posee la nueva tabla.
+
+## Examples
+
+En los siguientes ejemplos se usa la base de datos AdventureWorksPDW2022.
+
+### A. Usar SELECT para recuperar filas y columnas
+
+En esta sección se muestran tres códigos de ejemplo. En este primer ejemplo de código se devuelven todas las filas (no se especifica ninguna `WHERE` cláusula) y todas las columnas (mediante ) `*`de la `DimEmployee` tabla.
+
+`SELECT *
+FROM DimEmployee
+ORDER BY LastName;
+`
+
+El siguiente ejemplo usa alias de tabla para lograr el mismo resultado.
+
+`SELECT e.*
+FROM DimEmployee AS e
+ORDER BY LastName;
+`
+
+En este ejemplo se devuelven todas las filas (no se especifica ninguna `WHERE` cláusula) y un subconjunto de las columnas (`FirstName`, `LastName`, `StartDate`) de la `DimEmployee` tabla de la base de datos AdventureWorksPDW2022 . El nombre del tercer encabezado de columna cambia a `FirstDay`.
+
+`SELECT FirstName,
+ LastName,
+ StartDate AS FirstDay
+FROM DimEmployee
+ORDER BY LastName;
+`
+
+En este ejemplo solo se devuelven las filas de `DimEmployee` que tienen un `EndDate` valor que no `NULL` es y de `MaritalStatus``M` (casado).
+
+`SELECT FirstName,
+ LastName,
+ StartDate AS FirstDay
+FROM DimEmployee
+WHERE EndDate IS NOT NULL
+ AND MaritalStatus = 'M'
+ORDER BY LastName;
+`
+
+### B. Usar SELECT con encabezados de columna y cálculos
+
+El siguiente ejemplo devuelve todas las filas de la tabla `DimEmployee` y calcula el sueldo bruto de cada empleado partiendo de su `BaseRate` y de una semana laboral de 40 horas.
+
+`SELECT FirstName,
+ LastName,
+ BaseRate,
+ BaseRate * 40 AS GrossPay
+FROM DimEmployee
+ORDER BY LastName;
+`
+
+### C. Usar DISTINCT con SELECT
+
+En el siguiente ejemplo se usa `DISTINCT` para generar una lista de todos los puestos únicos de la tabla `DimEmployee`.
+
+`SELECT DISTINCT Title
+FROM DimEmployee
+ORDER BY Title;
+`
+
+### D. Usar GROUP BY
+
+En el ejemplo siguiente se busca la cantidad total de todas las ventas de cada día.
+
+`SELECT OrderDateKey,
+ SUM(SalesAmount) AS TotalSales
+FROM FactInternetSales
+GROUP BY OrderDateKey
+ORDER BY OrderDateKey;
+`
+
+Debido a la cláusula `GROUP BY`, solo se devuelve una fila que contiene la suma de todas las ventas de cada día.
+
+### E. Usar GROUP BY con varios grupos
+
+En el siguiente ejemplo se busca el precio medio y la suma de ventas por Internet de cada día, agrupados por fecha de pedido y por clave de promoción.
+
+`SELECT OrderDateKey,
+ PromotionKey,
+ AVG(SalesAmount) AS AvgSales,
+ SUM(SalesAmount) AS TotalSales
+FROM FactInternetSales
+GROUP BY OrderDateKey, PromotionKey
+ORDER BY OrderDateKey;
+`
+
+### F. Usar GROUP BY y WHERE
+
+En el siguiente ejemplo, los resultados se colocan en grupos después de recuperar únicamente las filas con fechas de pedido posteriores al 1 de agosto de 2002.
+
+`SELECT OrderDateKey,
+ SUM(SalesAmount) AS TotalSales
+FROM FactInternetSales
+WHERE OrderDateKey > '20020801'
+GROUP BY OrderDateKey
+ORDER BY OrderDateKey;
+`
+
+### G. Usar GROUP BY con una expresión
+
+En este ejemplo se agrupa por una expresión. Puede agrupar por una expresión si ésta no incluye funciones de agregado.
+
+`SELECT SUM(SalesAmount) AS TotalSales
+FROM FactInternetSales
+GROUP BY (OrderDateKey * 10);
+`
+
+### H. Usar GROUP BY con ORDER BY
+
+En el siguiente ejemplo se busca la suma de las ventas por día y los pedidos por día.
+
+`SELECT OrderDateKey,
+ SUM(SalesAmount) AS TotalSales
+FROM FactInternetSales
+GROUP BY OrderDateKey
+ORDER BY OrderDateKey;
+`
+
+### I. Usar la cláusula HAVING
+
+En esta consulta se usa la cláusula `HAVING` para acotar los resultados.
+
+`SELECT OrderDateKey,
+ SUM(SalesAmount) AS TotalSales
+FROM FactInternetSales
+GROUP BY OrderDateKey
+HAVING OrderDateKey > 20010000
+ORDER BY OrderDateKey;
+`
+
+## Contenido relacionado
+
+- 
+ Ejemplos select (Transact-SQL)
+
+- 
+ Cláusula OPTION (Transact-SQL)
+
+- 
+ Sugerencias (Transact-SQL)
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-09-21

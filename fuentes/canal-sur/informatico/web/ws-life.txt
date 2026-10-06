@@ -1,0 +1,44 @@
+URL: https://learn.microsoft.com/es-es/lifecycle/products/windows-server-2025
+Leído: 2026-10-05
+
+Leer en inglés
+
+# 
+ Windows Server 2025
+
+Windows Server 2025 se rige por la Directiva de ciclo de vida fijo.
+
+Esto se aplica a las siguientes ediciones: Datacenter, Datacenter: Azure Edition y Standard
+
+Las fechas de soporte técnico se muestran en la zona horaria del Pacífico: Redmond, Washington (Estados Unidos).
+
+## Fechas de soporte técnico
+
+ | Lista
+
+ | Fecha de inicio
+
+ | Fecha de finalización estándar
+
+ | Fecha de finalización ampliada
+
+ | Windows Server 2025
+
+ | 
+ 11/1/2024 8:00:00 AM
+
+ | 
+ 11/14/2029 6:59:59 AM
+
+ | 
+ 11/15/2034 6:59:59 AM
+
+## Ediciones
+
+- Centro de datos
+
+- Datacenter: Azure Edition
+
+- Essentials
+
+- Estándar

@@ -1,0 +1,307 @@
+URL: https://learn.microsoft.com/es-es/troubleshoot/windows-server/backup-and-storage/disk-management-snap-in-basic-dynamic-disks
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Cómo usar el complemento de administración de discos para administrar discos básicos y dinámicos
+
+- Se aplica a: Supported versions of Windows Server
+
+## 
+
+En este artículo se describe cómo usar el complemento de administración de discos para administrar discos básicos y dinámicos.
+
+Número de KB original: 323442
+
+## Resumen
+
+Puede usar la herramienta de complemento administración de discos de Windows Server 2003 para administrar los discos duros y los volúmenes o particiones que contienen. Con Administración de discos, puede crear y eliminar particiones, formatear volúmenes con los sistemas de archivos FAT, FAT32 o NTFS, cambiar discos básicos a discos dinámicos y volver a cambiar discos dinámicos a discos básicos, y crear sistemas de disco tolerantes a errores. Puede realizar la mayoría de las tareas relacionadas con discos sin tener que reiniciar el equipo, porque la mayoría de los cambios de configuración surten efecto inmediatamente. En este artículo se describen algunas de las tareas de administración de almacenamiento en disco más comunes que puede realizar mediante la administración de discos.
+
+### Iniciar la administración de discos
+
+Nota:
+
+Debe haber iniciado sesión como administrador o como miembro del grupo Administradores para usar la Administración de discos.
+
+- 
+Haga clic en Inicio, apunte a Herramientas administrativas y luego haga clic en Administración de equipos.
+
+- 
+En el árbol de la consola, haga clic en Administración de discos.
+
+La ventana Administración de discos que aparece muestra los discos y volúmenes en una vista gráfica o vista de lista.
+
+Para personalizar si ve los discos y volúmenes en el panel superior o inferior de la ventana, seleccione Superior o Inferior en el menú Ver y, a continuación, haga clic en la vista que desee.
+
+Nota:
+
+Antes de que se pueda usar un disco nuevo sin particionar en Windows (con particiones o actualizado al disco dinámico), debe contener una firma de disco. La primera vez que ejecute el complemento Administración de discos después de instalar un nuevo disco duro, se iniciará el Asistente para firma y actualización de disco. Si cancela el asistente, es posible que al intentar crear una partición en el nuevo disco duro, la opción Crear partición no esté disponible (aparece atenuada).
+
+### Administración de discos básicos
+
+El almacenamiento en disco básico admite discos orientados a particiones. Un disco básico es un disco físico que contiene volúmenes básicos (particiones principales, particiones extendidas o unidades lógicas). En los discos de registro de arranque maestro (MBR), puede crear hasta cuatro particiones principales en un disco básico, o hasta tres particiones principales y una partición extendida. También puede usar espacio libre en una partición extendida para crear unidades lógicas. En los discos de tabla de particiones GUID (GPT), puede crear hasta 128 particiones principales. Dado que no está limitado a cuatro particiones en discos GPT, no es necesario crear particiones extendidas en unidades lógicas.
+
+Use discos básicos, en lugar de discos dinámicos, en equipos que ejecuten Microsoft Windows XP Professional o un miembro de Windows Server 2003 que esté configurado para el arranque dual o arranque múltiple con Microsoft Windows XP Home Edition, Microsoft Windows NT 4.0, Microsoft Windows Millennium Edition (Me), Microsoft Windows 98 o anteriores, o Microsoft MS-DOS. Estos sistemas operativos no pueden acceder a los datos almacenados en discos dinámicos.
+
+Nota:
+
+Los sistemas operativos Windows Server 2003 y Windows XP Professional no admiten volúmenes básicos multidisco (por ejemplo, conjuntos distribuidos, reflejados, seccionados, o conjunto seccionados con paridad) creados mediante Windows NT 4.0 o versiones anteriores.
+
+#### Creación de una nueva partición o unidad lógica
+
+- 
+En la ventana Administración de discos, elija una que crear:
+
+- Para crear una nueva partición, haga clic con el botón derecho en el espacio sin asignar en el disco básico donde desea crear la partición y, a continuación, haga clic en Nueva partición.
+
+O bien
+
+- Para crear una nueva unidad lógica, haga clic con el botón derecho en el espacio libre de una partición extendida donde quiera crear la unidad lógica y, a continuación, haga clic en Nueva unidad lógica.
+
+- 
+En la página Este es el Asistente para nueva partición, haga clic en Siguiente.
+
+- 
+En la página Seleccionar el tipo de partición, seleccione el tipo de partición que desee crear, y luego haga clic en Siguiente.
+
+- 
+En la página Especificar tamaño de partición, especifique el tamaño en megabytes (MB) de la partición que desea crear y, a continuación, haga clic en Siguiente.
+
+- 
+En la página Asignar letra de unidad o ruta de acceso, escriba una letra de unidad o una ruta de acceso de unidad y haga clic en Siguiente.
+
+- 
+En la página Dar formato a la partición, especifique las opciones de formato que desee y, a continuación, haga clic en Siguiente.
+
+- 
+En la página Finalización del Asistente para nueva partición, compruebe que las opciones que ha seleccionado son correctas y, a continuación, haga clic en Finalizar.
+
+Administración de discos crea la nueva partición o unidad lógica y la muestra en el disco básico adecuado en la ventana Administración de discos. Si eligió dar formato a la partición en el paso 6, ahora se inicia el proceso de formato.
+
+#### Dar formato a una partición o una unidad lógica
+
+- En la ventana Administración de discos, haga clic con el botón derecho en la partición o unidad lógica a la que desea dar formato y, a continuación, haga clic en Formato.
+
+- Especifique las opciones de formato que desee y haga clic en Aceptar.
+
+- Haga clic en Aceptar cuando se le pida que confirme los cambios de formato.
+
+#### Ver las propiedades de una partición o unidad lógica
+
+- En la ventana Administración de discos, haga clic con el botón derecho en la partición o unidad lógica de la que desea ver las propiedades y, a continuación, haga clic en Propiedades.
+
+- Haga clic en la pestaña adecuada para ver una propiedad.
+
+#### Eliminación de una partición o una unidad lógica
+
+- 
+En la ventana Administración de discos, haga clic con el botón derecho en la partición o unidad lógica que desea eliminar y, después, haga clic en Eliminar partición o Eliminar unidad lógica.
+
+- 
+Haga clic en Sí cuando se le solicite que confirme la eliminación.
+
+Nota:
+
+- Al eliminar una partición o unidad lógica, se eliminan todos los datos que contiene y la partición o unidad lógica.
+
+- No se puede eliminar la partición del sistema, la partición de arranque o una partición que contenga el archivo de paginación (intercambio) activo.
+
+- No se puede eliminar una partición extendida a menos que esté vacía. Debe eliminar todas las unidades lógicas para poder eliminar la partición extendida.
+
+#### Cambiar un disco básico a uno dinámico
+
+Antes de cambiar un disco básico a uno dinámico, tenga en cuenta las instrucciones siguientes:
+
+- Debe tener al menos 1 megabyte (MB) de espacio en disco disponible sin asignar en cualquier disco básico de registro de arranque maestro (MBR) que quiera cambiar a un disco dinámico.
+
+- Al cambiar un disco básico a uno dinámico, se cambian las particiones existentes en el disco básico a volúmenes simples en el disco dinámico.
+
+- Después de cambiar un disco básico a uno dinámico, no puede volver a cambiar los volúmenes dinámicos a particiones. Elimine primero todos los volúmenes dinámicos del disco y, después, vuelva a cambiarlo a un disco básico.
+
+- Los sistemas operativos Windows Server 2003, Windows XP Professional y Windows 2000 admiten discos dinámicos. Después de cambiar un disco básico a uno dinámico, solo puede acceder al disco localmente desde estos sistemas operativos.
+
+Para cambiar un disco básico a uno dinámico:
+
+- 
+En la vista gráfica de la ventana Administración de discos, haga clic con el botón derecho en el disco básico que desea cambiar y, después, haga clic en Convertir en disco dinámico.
+
+Nota:
+
+Para hacer clic con el botón derecho en el disco básico, debe hacer clic con el botón derecho en el área gris que contiene el título del disco a la izquierda del panel de detalles de Administración de discos (por ejemplo, Disco 0).
+
+- 
+Haga clic para seleccionar la casilla junto al disco que desea cambiar y, luego, haga clic en Aceptar.
+
+- 
+Si desea ver la lista de volúmenes en el disco, haga clic en Detalles en el cuadro de diálogo Discos para convertir.
+
+- 
+Haga clic en Convertir.
+
+- 
+Haga clic en Sí cuando se le pida que confirme la conversión y haga clic en Aceptar.
+
+### Cómo administrar discos dinámicos
+
+El almacenamiento de discos dinámicos admite discos orientados a volúmenes. Un disco dinámico es un disco físico que contiene volúmenes dinámicos. Con discos dinámicos, puede crear volúmenes simples, volúmenes que abarquen varios discos (volúmenes distribuidos y seccionados) y volúmenes tolerantes a errores (volúmenes reflejados y RAID-5). Los discos dinámicos pueden contener un número ilimitado de volúmenes.
+
+El acceso local a discos dinámicos (y a los datos que contienen) se limita a los equipos que ejecutan sistemas operativos Windows Server 2003, Windows XP Professional o Windows 2000. No puede acceder a volúmenes dinámicos en equipos configurados para arranque dual o de arranque múltiple en un Windows Server 2003, Windows XP Professional o Windows 2000 y uno o varios de Windows XP Home Edition, Windows NT 4.0 y versiones anteriores, Windows Millennium Edición, Windows 98 Second Edition y versiones anteriores, o MS-DOS.
+
+Los discos dinámicos se crean cuando se usa el comando Convertir en disco dinámico en Administración de discos para cambiar un disco básico.
+
+#### Creación de un volumen simple o un volumen distribuido
+
+- 
+En la ventana Administración de discos, elija una que crear:
+
+- Para crear un volumen simple, haga clic con el botón derecho en el espacio sin asignar en el disco dinámico donde desea crear el volumen simple y, después, haga clic en Nuevo volumen.
+
+O bien
+
+- Para crear un volumen distribuido, haga clic con el botón derecho en el espacio sin asignar en el disco dinámico donde desea crear el volumen distribuido y, después, haga clic en Nuevo volumen.
+
+- 
+En la página Asistente para nuevo volumen, haga clic en Siguiente.
+
+- 
+En la página Seleccionar el tipo de volumen, haga clic en Volumen simple o Volumen distribuido y, después, en Siguiente.
+
+- 
+En la página Seleccionar discos, seleccione una de las siguientes opciones:
+
+- Si va a crear un volumen simple, compruebe que el disco en el que desea crearlo aparece en el cuadro Discos dinámicos seleccionados.
+
+O bien
+
+- 
+Si va a crear un volumen distribuido, haga clic para seleccionar los discos que desee en Todos los discos dinámicos disponibles y en Agregar.
+
+Compruebe que los discos en los que desea crear un volumen distribuido aparecen en el cuadro Discos dinámicos seleccionados.
+
+- 
+En el cuadro Tamaño, especifique el tamaño (en MB) que quiere que tenga el volumen y, después, haga clic en Siguiente.
+
+- 
+En la página Asignar letra de unidad o ruta de acceso, escriba una letra de unidad o una ruta de acceso de unidad y haga clic en Siguiente.
+
+- 
+En la página Formatear volumen, especifique las opciones de formato que desee y haga clic en Siguiente.
+
+- 
+En la página Finalización del Asistente para volumen nuevo, asegúrese de que las opciones seleccionadas son correctas y haga clic en Finalizar.
+
+#### Extender un volumen simple o un volumen distribuido
+
+Si desea aumentar el tamaño de un volumen simple o distribuido después de crearlo, puede ampliarlo añadiendo espacio libre sin asignar en el disco dinámico. Para ampliar un volumen simple o extendido:
+
+- 
+En la ventana Administración de discos, haga clic con el botón derecho en el volumen simple o distribuido que desea ampliar y en Extender volumen.
+
+- 
+En la página Este es el Asistente para extender volúmenes, haga clic en Siguiente.
+
+- 
+En la página Seleccionar discos, haga clic para seleccionar el disco o los discos en los que desea ampliar el volumen y haga clic en Agregar.
+
+- 
+Compruebe que los discos en los que desea ampliar el volumen aparecen en el cuadro Discos dinámicos seleccionados.
+
+- 
+En el cuadro Tamaño, especifique la cantidad de espacio en disco sin asignar (en MB) que desea añadir y, después, haga clic en Siguiente.
+
+- 
+En la página Finalización del Asistente para extender volúmenes, asegúrese de que las opciones seleccionadas son correctas y haga clic en Finalizar.
+
+Nota:
+
+- Solo puede ampliar volúmenes NTFS o que aún no contengan un sistema de archivos.
+
+- Si ha actualizado de Windows 2000 a Windows Server 2003 (o a Windows XP Professional), no puede ampliar un volumen simple o distribuido que creó originalmente como volumen básico y, después, cambió a un volumen dinámico en Windows 2000.
+
+- No se puede ampliar el sistema o el volumen de arranque.
+
+#### Crear un volumen RAID-5
+
+Un volumen RAID-5 es un volumen tolerante a errores en el que los datos y la paridad se seccionan en tres o más discos físicos. Si se produce un error en parte de un disco físico, puede recuperar los datos del disco con errores mediante la información de datos y paridad de los discos que funcionan.
+
+#### Formatear un volumen dinámico
+
+- En la ventana Administración de discos, haga clic con el botón derecho en el volumen dinámico que desea formatear y haga clic en Formatear.
+
+- Especifique las opciones de formato que desee y haga clic en Aceptar.
+
+- Haga clic en Aceptar cuando se le pida que confirme los cambios de formato.
+
+#### Ver las propiedades de un volumen dinámico
+
+- En la ventana Administración de discos, haga clic con el botón derecho en el volumen dinámico del que desea ver las propiedades y, después, haga clic en Propiedades.
+
+- Haga clic en la pestaña adecuada para ver una propiedad.
+
+#### Eliminar un volumen dinámico
+
+- En la ventana Administración de discos, haga clic con el botón derecho en el volumen dinámico que desea eliminar y, después, haga clic en Eliminar volumen.
+
+- Haga clic en Sí cuando se le solicite que confirme la eliminación.
+
+Nota:
+
+- Al eliminar un volumen, se eliminan todos los datos de este y el propio volumen.
+
+- No se puede eliminar el volumen del sistema, el volumen de arranque ni ningún volumen que contenga el archivo de paginación (intercambio) activo.
+
+#### Volver a cambiar un disco dinámico a un disco básico
+
+Para poder volver a cambiar un disco dinámico a uno básico, debe eliminar todos los volúmenes del disco dinámico.
+
+Para volver a cambiar un disco dinámico a uno básico, haga clic con el botón derecho en el disco dinámico que desea volver a cambiar a uno básico en la ventana Administración de discos y, después, haga clic en Convertir en disco básico.
+
+Nota:
+
+Para hacer clic con el botón derecho en el disco, haga clic con el botón derecho en el área gris que contiene el título del disco a la izquierda del panel de detalles de Administración de discos (por ejemplo, Disco 0).
+
+### Solución de problemas
+
+Cuando se produce un error en un disco o volumen, Administración de discos muestra descripciones de estado de discos y volúmenes en la ventana Administración de discos. Estas descripciones, que se muestran en la lista siguiente, le informan del estado actual del disco o volumen.
+
+- 
+En línea: es el estado normal del disco cuando es accesible y funciona correctamente.
+
+- 
+Correcto: es el estado normal del volumen cuando es accesible y funciona correctamente.
+
+- 
+En línea (errores) (solo se muestra con discos dinámicos): es posible que se hayan detectado errores de E/S en el disco dinámico.
+
+Para resolver este problema, haga clic con el botón derecho en el disco y, después, haga clic en Reactivar disco para devolverlo al estado En línea.
+
+- 
+Sin conexión o Falta (solo se muestra con discos dinámicos): es posible que no se pueda acceder al disco. Este problema puede producirse si el disco está dañado o no está disponible temporalmente.
+
+Para resolver este problema, repare cualquier disco, controlador o problema de conexión, compruebe que el disco físico está activado y conectado correctamente al equipo, haga clic con el botón derecho en el disco y, después, haga clic en Reactivar disco para devolver el disco al estado En línea.
+
+Para obtener una lista completa de las descripciones de estado de disco y volumen, consulte la Ayuda de administración de discos. (En el complemento Administración de discos, haga clic en el menú Acción y, a continuación, haga clic en Ayuda. )
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-02-12

@@ -1,0 +1,184 @@
+URL: https://learn.microsoft.com/es-es/defender-endpoint/microsoft-defender-antivirus-windows
+Leído: 2026-10-05
+
+Introducción a Microsoft Defender Antivirus en Windows - Microsoft Defender for Endpoint | Microsoft Learn
+Ir al contenido principal
+Omisión de la experiencia de chat de Ask Learn
+Este explorador ya no se admite.
+Actualice a Microsoft Edge para aprovechar las características y actualizaciones de seguridad más recientes, y disponer de soporte técnico.
+Descargar Microsoft Edge
+Más información sobre Internet Explorer y Microsoft Edge
+Tabla de contenido
+Salir del modo de editor
+Preguntar a Learn
+Preguntar a Learn
+Modo de lectura
+Tabla de contenido
+Leer en inglés
+Agregar
+Añadir a Planes
+Copiar Markdown
+Imprimir
+Nota:
+El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+Introducción a Microsoft Defender Antivirus en Windows
+Se aplica a: Microsoft Defender for Business, Microsoft Defender Antivirus
+Comentarios
+En este artículo
+Antivirus de Microsoft Defender está disponible en Windows 10, Windows 11 y en versiones de Windows Server.
+El Antivirus de Microsoft Defender es un componente principal de su protección de nueva generación en Microsoft Defender para punto de conexión. Esta protección reúne el aprendizaje automático, el análisis de macrodatos, la investigación de resistencia contra amenazas en profundidad y la infraestructura de nube de Microsoft para proteger a los dispositivos (o puntos de conexión) en la organización. El antivirus de Microsoft Defender está integrado en Windows y funciona con Microsoft Defender para punto de conexión para proporcionar protección en el dispositivo y en la nube.
+Sugerencia
+Como complemento a este artículo, consulte nuestra guía de configuración de Security Analyzer para revisar los procedimientos recomendados y aprender a fortalecer las defensas, mejorar el cumplimiento y navegar por el panorama de ciberseguridad con confianza. Para una experiencia personalizada basada en su entorno, puede acceder a la guía de configuración automatizada de Security Analyzer en el Centro de administración de Microsoft 365.
+Requisitos previos
+Sistemas operativos admitidos
+Windows
+funcionalidades de antivirus de Microsoft Defender
+Microsoft Defender Antivirus proporciona detección de anomalías, una capa de protección para malware que no se ajusta a ningún patrón predefinido. Monitores de detección de anomalías para eventos de creación de procesos o archivos que se descargan de Internet. A través del aprendizaje automático y la protección entregada en la nube, Microsoft Defender Antivirus puede mantenerse un paso por delante de los atacantes. La detección de anomalías está activada de forma predeterminada y puede ayudar a bloquear ataques como 3CX Security Alert for Electron Aplicación de Windows. Microsoft Defender Antivirus comenzó a bloquear este malware cuatro días antes de que el ataque se registrara en VirusTotal.
+El malware moderno requiere soluciones modernas. En 2015, Microsoft Defender Antivirus pasó de usar un motor estático basado en firmas a un modelo que usa tecnologías predictivas (como el aprendizaje automático, la ciencia aplicada y la inteligencia artificial), ya que este cambio es lo necesario para mantener a usted y a sus organizaciones a salvo de la complejidad del panorama de malware en constante evolución actual.
+Microsoft Defender Antivirus puede bloquear casi todo el malware a primera vista, en milisegundos.
+Hemos diseñado nuestra solución antivirus para que funcione tanto en escenarios en línea como sin conexión. Para situaciones sin conexión, la inteligencia dinámica más reciente del Grafo de seguridad inteligente se suministra periódicamente al dispositivo durante todo el día. Cuando se conecta a la nube, la inteligencia en tiempo real se alimenta del gráfico de seguridad inteligente.
+Microsoft Defender Antivirus también puede detener las amenazas en función de sus comportamientos y procesar árboles incluso cuando la amenaza ha comenzado a ejecutarse. Un ejemplo común de estos tipos de ataques es el malware sin archivos. Las características de protección de última generación de Microsoft funcionan conjuntamente para identificar y bloquear el malware en función del comportamiento anómalo. Para obtener más información, consulte Bloqueo y contención del comportamiento.
+Compatibilidad con otros productos antivirus
+Si usa un producto antivirus o antimalware que no es de Microsoft en el dispositivo, es posible que pueda ejecutar Microsoft Defender Antivirus en modo pasivo junto con la solución antivirus que no es de Microsoft. Depende del sistema operativo que se utilice y de si su dispositivo está integrado en Defender for Endpoint. Para más información, consulte Compatibilidad con Antivirus de Microsoft Defender.
+Microsoft Defender servicios y procesos antivirus
+La siguiente tabla resume los procesos y servicios de Microsoft Defender Antivirus. Puede verlos en el Administrador de tareas en Windows.
+Proceso o servicio
+Dónde ver su estado
+Servicio principal de Microsoft Defender Antivirus
+(MdCoreSvc)
+la pestaña Procesos: Antimalware Core Service
+la pestaña Detalles: MpDefenderCoreService.exe
+pestaña Servicios: Microsoft Defender Core Service
+servicio de Antivirus de Microsoft Defender
+(WinDefend)
+la pestaña Procesos: Antimalware Service Executable
+la pestaña Detalles: MsMpEng.exe
+pestaña Servicios: Microsoft Defender Antivirus
+Servicio de inspección de red en tiempo real de Microsoft Defender Antivirus
+(WdNisSvc)
+la pestaña Procesos: Microsoft Network Realtime Inspection Service
+la pestaña Detalles: NisSrv.exe
+pestaña Servicios: Microsoft Defender Antivirus Network Inspection Service
+Utilidad de línea de comandos de Microsoft Defender Antivirus
+la pestaña Procesos: N/A
+la pestaña Detalles: MpCmdRun.exe
+Servicios: pestaña N/D
+Herramienta de configuración de directivas de cliente de Seguridad de Microsoft
+la pestaña Procesos: N/A
+la pestaña Detalles: ConfigSecurityPolicy.exe
+Servicios: pestaña N/D
+Para más información sobre el servicio Microsoft Defender Core, visite introducción al servicio Microsoft Defender Core.
+Para La prevención de pérdida de datos de punto de conexión de Microsoft (DLP de punto de conexión), en la tabla siguiente se resumen los procesos y los servicios. Puede verlos en el Administrador de tareas en Windows.
+Proceso o servicio
+Dónde ver su estado
+Servicio DLP de punto de conexión de Microsoft
+(MDDlpSvc)
+la pestaña Procesos: MpDlpService.exe
+la pestaña Detalles: MpDlpService.exe
+pestaña Servicios: Microsoft Data Loss Prevention Service
+Utilidad de línea de comandos de Microsoft Endpoint DLP
+la pestaña Procesos: N/A
+la pestaña Detalles: MpDlpCmd.exe
+Servicios: pestaña N/D
+Comparación del modo activo, el modo pasivo y el modo deshabilitado
+En la tabla siguiente se describe qué esperar cuando el Antivirus de Microsoft Defender está en modo activo, en modo pasivo o deshabilitado.
+Modo
+Qué ocurre
+Modo activo
+En modo activo, el Antivirus de Microsoft Defender se usa como la aplicación antivirus principal en el dispositivo. Los archivos se examinan, se corrigen las amenazas y las amenazas detectadas se enumeran en los informes de seguridad de la organización y en la aplicación de Seguridad de Windows.
+Modo pasivo
+En modo pasivo, Microsoft Defender Antivirus no se usa como la aplicación antivirus principal en el dispositivo. Se analizan los archivos y se notifican las amenazas detectadas, pero Microsoft Defender Antivirus no neutraliza las amenazas.
+IMPORTANTE: Microsoft Defender Antivirus solo puede ejecutarse en modo pasivo en los puntos de conexión que están incorporados a Microsoft Defender para punto de conexión. Consulte Requisitos para que el Antivirus de Microsoft Defender se ejecute en modo pasivo.
+Deshabilitado o desinstalado
+Cuando se deshabilita o desinstala, no se usa Microsoft Defender Antivirus. Los archivos no se analizan y las amenazas no se neutralizan. En general, no se recomienda deshabilitar ni desinstalar Microsoft Defender Antivirus.
+Para más información, consulte Compatibilidad con Antivirus de Microsoft Defender.
+Comprobar el estado del Antivirus de Microsoft Defender en el dispositivo
+Puede usar uno de varios métodos, como la aplicación Seguridad de Windows o Windows PowerShell, para comprobar el estado de Antivirus de Microsoft Defender en el dispositivo.
+Importante
+A partir de la versión de la plataforma 4.18.2208.0 y posteriores: si un servidor se ha incorporado a Microsoft Defender para punto de conexión, la configuración de la directiva de grupo "Desactivar Windows Defender" ya no deshabilita por completo el Antivirus de Microsoft Defender en Windows Server 2012 R2 y posteriores. En su lugar, lo coloca en modo pasivo. Además, la característica de protección contra alteraciones permite cambiar al modo activo, pero no al modo pasivo.
+Si "Desactivar Windows Defender" ya está configurado antes de la incorporación a Microsoft Defender para punto de conexión, no se produce ningún cambio y Microsoft Defender Antivirus sigue deshabilitado.
+Para poner Antivirus de Microsoft Defender en modo pasivo, aunque se hubiera deshabilitado antes de la incorporación del dispositivo, puede aplicar la configuración ForceDefenderPassiveMode con un valor de 1. Para colocarlo en modo activo, cambie este valor a 0 en su lugar.
+Comprender la lógica modificada para ForceDefenderPassiveMode cuando está habilitada la protección contra alteraciones: una vez que Microsoft Defender Antivirus cambia al modo activo, la protección contra alteraciones impide que vuelva al modo pasivo incluso cuando ForceDefenderPassiveMode se establece en 1.
+Usar la aplicación Seguridad de Windows para comprobar el estado del Antivirus de Microsoft Defender
+En el dispositivo Windows, seleccione el menú Inicio y empiece a escribir Security. A continuación, abra la aplicación Seguridad de Windows en los resultados.
+Seleccione Protección antivirus y contra amenazas.
+En ¿Quién me protege?, elija Administrar proveedores.
+Verá el nombre de la solución antivirus/antimalware en la página de proveedores de seguridad.
+Usar PowerShell para comprobar el estado del Antivirus de Microsoft Defender
+Seleccione el menú Inicio y empiece a escribir PowerShell. A continuación, abra Windows PowerShell en los resultados.
+Escriba Get-MpComputerStatus.
+En la lista de resultados, examine la fila AMRunningMode.
+Normal significa que el Antivirus de Microsoft Defender se ejecuta en modo activo.
+El modo pasivo significa Microsoft Defender antivirus en ejecución, pero no es el producto antivirus o antimalware principal del dispositivo. El modo pasivo solo está disponible para los dispositivos que se incorporan a Microsoft Defender para punto de conexión y que cumplen determinados requisitos. Consulte Requisitos para que el Antivirus de Microsoft Defender se ejecute en modo pasivo.
+Modo de bloqueo de EDR: significa que el Antivirus de Microsoft Defender se está ejecutando y que está habilitada la Detección y respuesta de puntos de conexión (EDR) en modo de bloqueo, una funcionalidad de Microsoft Defender para punto de conexión. Compruebe la clave del Registro ForceDefenderPassiveMode . Si su valor es 0, se ejecuta en modo normal; De lo contrario, se ejecuta en modo pasivo.
+El modo pasivo SxS significa Microsoft Defender Antivirus se ejecuta junto con otro producto antivirus/antimalware y se usa un examen periódico limitado.
+Sugerencia
+Para obtener más información sobre el cmdlet de Get-MpComputerStatus PowerShell, consulte el artículo de referencia Get-MpComputerStatus.
+Sugerencia de rendimiento Debido a una variedad de factores (ejemplos que se enumeran a continuación) Microsoft Defender Antivirus, al igual que otros software antivirus, puede causar problemas de rendimiento en los dispositivos de punto de conexión. En algunos casos, es posible que tenga que ajustar el rendimiento de Microsoft Defender Antivirus para aliviar esos problemas de rendimiento.
+El analizador de rendimiento de Microsoft es una herramienta de línea de comandos de PowerShell que ayuda a determinar qué archivos, rutas de acceso de archivo, procesos y extensiones de archivo podrían estar causando problemas de rendimiento; Algunos ejemplos son:
+Rutas de acceso principales que afectan al tiempo de examen
+Archivos principales que afectan al tiempo de examen
+Principales procesos que afectan al tiempo de examen
+Extensiones de archivo principales que afectan al tiempo de examen
+Combinaciones: por ejemplo:
+archivos principales por extensión
+rutas principales por extensión
+procesos principales por ruta
+análisis principales por archivo
+análisis principales por archivo por proceso
+Puede usar la información recopilada mediante el Analizador de rendimiento para evaluar mejor los problemas de rendimiento y aplicar acciones de corrección.
+Consulte: Analizador de rendimiento para Microsoft Defender Antivirus.
+Obtención de las actualizaciones de la plataforma antivirus/antimalware
+Es importante mantener Microsoft Defender Antivirus (o cualquier solución antivirus/antimalware) actualizada. Microsoft publica actualizaciones periódicas para ayudar a garantizar que los dispositivos tengan la última tecnología para protegerse contra nuevas técnicas de ataque y malware. Para obtener más información, consulte Administrar actualizaciones de Antivirus de Microsoft Defender y aplicar bases de referencia.
+Sugerencia
+Si busca información relacionada con el antivirus para otras plataformas, consulte:
+Establecer las preferencias para Microsoft Defender para punto de conexión en macOS
+Microsoft Defender para punto de conexión en Mac
+Configuración de la directiva de antivirus de macOS para Microsoft Defender Antivirus en Intune
+Establecer preferencias para Microsoft Defender para punto de conexión en Linux
+Microsoft Defender para punto de conexión en Linux
+Configurar las funciones de Defender for Endpoint en Android
+Configurar las funciones de Microsoft Defender para punto de conexión en iOS
+Después de instalar la versión más reciente Microsoft Defender la plataforma antivirus o la actualización del motor, es posible que algunas entradas del Registro no se actualicen automáticamente. Para asegurarse de que el registro refleja la versión actual, los administradores deben comprobar y actualizar manualmente las claves del Registro pertinentes mediante el Editor del Registro (regedit) o un script de implementación compatible.
+Vea también
+Analizador de rendimiento para Microsoft Defender Antivirus
+Administración y configuración de Antivirus de Microsoft Defender
+Evaluar la protección de Antivirus de Microsoft Defender
+Exclusiones para Microsoft Defender para punto de conexión y antivirus de Microsoft Defender
+Protección en tiempo de ejecución de agentes de IA con Microsoft Defender para punto de conexión
+Comentarios
+¿Le ha resultado útil esta página?
+Sí
+No
+No
+¿Necesita ayuda con este tema?
+¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+Preguntar a Learn
+Preguntar a Learn
+¿Sugerir una corrección?
+Recursos adicionales
+Last updated on
+2026-08-05
+En este artículo
+¿Le ha resultado útil esta página?
+¿Necesita ayuda con este tema?
+¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+Preguntar a Learn
+Preguntar a Learn
+¿Sugerir una corrección?
+es-es
+Sus opciones de privacidad
+Tema
+Claro
+Oscuro
+Contraste alto
+Declinación de responsabilidades de IA
+Versiones anteriores
+Blog
+Contribuir
+Privacidad
+Privacidad de estado del consumidor
+Términos de uso
+Marcas comerciales
+© Microsoft 2026

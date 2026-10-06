@@ -1,0 +1,153 @@
+URL: https://www.ieee802.org/3/
+Leído: 2026-10-05
+
+IEEE 802.3 ETHERNET
+
+ | 
+
+ | 
+
+## IEEE 802.3 ETHERNET WORKING GROUP
+
+ | 
+
+- The IEEE 802.3 Working Group develops standards for Ethernet networks.
+ We have a number of active projects, study groups, and ad hocs as listed below:
+
+- IEEE P802.3dj 200 Gb/s, 400 Gb/s, 800 Gb/s, and 1.6 Tb/s Ethernet Task Force.
+
+- IEEE P802.3dm Asymmetrical Electrical Automotive Ethernet Task Force.
+
+- IEEE P802.3dp Cabling Restrictions for Single Pair Power over Ethernet Task Force.
+
+- IEEE Std 802.3-2022/Cor 2 (IEEE 802.3dr) Optical Automotive Ethernet TDFOM Task Force.
+
+- IEEE P802.3dq Pin-Optimized PHY Interface Task Force.
+
+- IEEE P802.3ds 200 Gb/s per Wavelength MMF PHYs Task Force.
+
+- IEEE P802.3dt Ethernet Metadata Services Task Force.
+
+- IEEE P802.3 (IEEE 802.3du) Revision to IEEE Std 802.3-2022 Maintenance #18 Task Force
+
+- IEEE 802.3 400 Gb/s/Lane Signaling Study Group.
+
+- IEEE 802.3 FMP Ethernet Interoperability Study Group.
+
+- IEEE 802.3 PLCA Enhancements Study Group.
+
+- IEEE 802.3 New Ethernet Applications Ad Hoc.
+
+- IEEE 802.3 New Ethernet Applications Ad Hoc Ethernet for AI Assessment
+
+- IEEE 802.3 PDCC Ad Hoc.
+
+- IEEE 802.3 Channel Operating Margin (COM) Open Source Project Ad Hoc.
+
+- IEEE 802.3 YANG Open Source Project Ad Hoc.
+
+- Additional information:
+
+- Next IEEE 802.3 meeting notice.
+
+- IEEE 802.3 Call and Meeting Calendar.
+
+- IEEE 802.3 Balloting information.
+
+- IEEE 802.3 Working Group agendas and minutes.
+
+- IEEE 802.3 Maintenance.
+
+- IEEE 802.3 reflector policy.
+
+- IEEE 802.3 Working Group Dialog Reflector.
+
+- IEEE 802.3 Working Group Reflector archive (password-protected).
+
+- Other information:
+
+- Operating Rules of the IEEE 802.3 Ethernet Working Group.
+
+- Requirements for Voting on IEEE 802.3 Drafts.
+
+- Typical Working Group 802.3 meetings during IEEE 802 Plenary Week.
+
+- IEEE-SA Patent, Copyright and Participation policy.
+
+- Discussion of cost in IEEE 802.3.
+
+- IEEE 802.3 Working Group tools and resources.
+
+- Electronic voting tool (DirectVoteLive)
+
+- Published standard:
+
+- IEEE 802 Standards Available for Free Download.
+
+- Purchasing published IEEE 802.3 Standards and drafts.
+
+- IEEE Standards On-Line Collections.
+
+- Machine readable extracts of published IEEE 802.3 Standard.
+
+- IEEE 802.3 archive of completed work.
+
+- Contact information:
+
+- IEEE 802.3 Working Group Chair:
+
+ David Law
+
+ .
+
+- IEEE 802.3 Working Group Vice Chair:
+
+ Adam Healey
+
+ .
+
+- IEEE 802.3 Working Group Executive Secretary:
+
+ Chad Jones
+
+ .
+
+- IEEE 802.3 Working Group Secretary:
+
+ Jon Lewis
+
+ .
+
+- IEEE 802.3 Working Group Treasurer:
+
+ Valerie Maguire
+
+ .
+
+- IEEE Standards Staff Liaison:
+
+ Jodi Haasz
+
+ .
+
+- List of Task Force, Study Group, and Ad Hoc Officers.
+
+Search IEEE 802.3 Pages
+
+Return to the IEEE 802 Home Page
+
+ Last Update: 6 August 2026
+
+ This area is maintained by
+
+ Adam Healey, comments are welcome.
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+NOTICE: Contributions to an IEEE Standards Project are submitted to IEEE Standards Association for review, consideration, and possible use in a draft IEEE standard. The Contributions remain the property of the respective copyright owners. The views expressed in any Contribution are those of the authors and may not represent a position of the IEEE Standards Working Group, IEEE, or IEEE Standards Association. You are permitted to view the Contributions as an interested party in the development of the IEEE Standards Project. Use of Contributions are only permitted with respect to standards development in the IEEE Standards Project to which it was contributed. Any other use requires permission from the copyright owners of the Contributions. IEEE assumes no responsibility for the content or security of Contributions. Users should take all security precautions with respect to these files, including but not limited to, precautions against malware.

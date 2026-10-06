@@ -1,0 +1,14 @@
+URL: https://csrc.nist.gov/glossary/term/key_exchange
+Leído: 2026-10-05
+
+Definitions:
+Process of exchanging public keys (and other information) in order to establish secure communications.
+Sources:
+CNSSI 4009-2022
+A (pair-wise) key-establishment procedure whereby one party (i.e., the sender) selects a value for the secret keying material and then securely distributes the value to another party (i.e., the receiver). Contrast with key agreement.
+Sources:
+NIST SP 800-227
+under key transport
+About
+See the identified Source document to understand each term-definition pair in its proper context.
+Send inquiries abou

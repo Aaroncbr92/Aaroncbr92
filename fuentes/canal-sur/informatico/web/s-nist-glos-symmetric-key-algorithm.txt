@@ -1,0 +1,24 @@
+URL: https://csrc.nist.gov/glossary/term/symmetric_key_algorithm
+Leído: 2026-10-05
+
+Definitions:
+A cryptographic algorithm that uses secret keying material that is shared between authorized parties.
+Sources:
+NIST SP 800-56B Rev. 2
+under Symmetric-key algorithm
+A cryptographic algorithm that employs the same secret key for an operation and its complement (e.g., encryption and decryption).
+Sources:
+NIST SP 800-57 Part 2 Rev.1
+under Symmetric-key algorithm
+A cryptographic algorithm that uses the same secret key for an operation and its complement (e.g., encryption and decryption). Also called a secret-key algorithm. See SP 800-185.13
+Sources:
+NIST SP 800-57 Part 1 Rev. 5
+under Symmetric-key algorithm
+A cryptographic algorithm that uses the same secret key for its operation and (if applicable) for reversing the effects of the operation (e.g., an HMAC key for keyed hashing or an AES key for encryption and decryption); also known as a secret-key algorithm.
+Sources:
+NIST SP 800-133 Rev. 2
+under Symmetric-key algorithm
+A cryptographic algorithm that uses the same secret key for an operation and its complement (e.g., encryption and decryption). Also called a secret-key algorithm.
+Sources:
+NIST SP 800-227
+under symmetric-key algorithm

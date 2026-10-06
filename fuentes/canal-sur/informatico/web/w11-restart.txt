@@ -1,0 +1,430 @@
+URL: https://learn.microsoft.com/es-es/windows/deployment/update/waas-restart
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Administrar los reinicios de los dispositivos después de las actualizaciones
+
+- Se aplica a: ✅ Windows 11, ✅ Windows 10
+
+## 
+
+¿Buscas información para consumidores? Consulta Windows Update: preguntas más frecuentes
+
+Puede usar la configuración de directiva de grupo, la administración de dispositivos móviles (MDM) o el registro de Windows para configurar cuándo se reiniciarán los dispositivos después de instalar una actualización de Windows. Puede programar la instalación de actualizaciones y establecer directivas para el reinicio, configurar las horas activas para cuando no se deba realizar el reinicio o puede hacer ambas cosas.
+
+Nota
+
+No se recomienda editar directamente el registro de Windows.
+
+## Programar la instalación de actualizaciones
+
+En la directiva de grupo, en Configurar Novedades automática, puede configurar un reinicio forzado después de una hora de instalación especificada.
+
+Para establecer la hora, vaya a Configurar la Novedades automática, seleccione la opción 4 : Descarga automática y programación de la instalación y, a continuación, use Tiempo de instalación programado para especificar una hora. Como alternativa, puede especificar que la instalación se produzca durante el tiempo de mantenimiento automático. Para configurar este método alternativo, use Configuración del equipo\Plantillas administrativas\Componentes de Windows\Programador de mantenimiento.
+
+La configuración de Always automatically restart at the scheduled time fuerza un reinicio después de la hora de instalación especificada. Permite configurar un temporizador para advertir a un usuario que ha iniciado sesión de que se va a realizar un reinicio. Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+Aunque no se recomienda, puede lograr el mismo resultado con el Registro de Windows. En `HKLM\Software\Policies\Microsoft\Windows\WindowsUpdate\AU`, establezca `AuOptions``4` en y establezca el tiempo de instalación con `ScheduledInstallTime`. Habilite `AlwaysAutoRebootAtScheduledTime` y especifique el retraso en minutos a través de `AlwaysAutoRebootAtScheduledTimeMinutes`. De forma similar a la directiva de grupo, `AlwaysAutoRebootAtScheduledTimeMinutes` establece el temporizador para advertir a un usuario que ha iniciado sesión de que se va a realizar un reinicio.
+
+Para obtener una descripción detallada de estas claves del Registro, consulta Claves del Registro usadas para administrar reinicios.
+
+## Retraso del reinicio automático
+
+Al habilitar Configurar la Novedades automática en la directiva de grupo, también puede habilitar una de las siguientes directivas para retrasar un reinicio automático después de la instalación de la actualización:
+
+- 
+
+ Desactivar el reinicio automático para actualizar durante las horas activas impide que se realice el reinicio automático durante las horas activas.
+
+- 
+La opción No reiniciar automáticamente para instalar actualizaciones automáticas programadas si hay usuarios conectados impide el reinicio automático si un usuario ha iniciado sesión. Si un usuario programa el reinicio en la notificación de actualización, el dispositivo se reinicia en el momento en que el usuario especifica incluso si un usuario ha iniciado sesión en ese momento. Esta directiva solo se aplica cuando Configurar Novedades automático está establecido en la opción 4: Descarga automática y programación de la instalación.
+
+Nota
+
+- Cuando se usan conexiones de Protocolo de Escritorio remoto (RDP), solo las sesiones RDP activas se consideran usuarios con sesión iniciada. Los dispositivos que no tienen usuarios con sesión iniciada localmente o sesiones RDP activas se reinician.
+
+- La directiva de instalación Sin reinicio automático con usuarios conectados para actualizaciones automáticas programadas nunca se creó como CSP. En directiva de grupo esta directiva no funciona exactamente según la descripción. Esta directiva puede dar lugar a un período de reinicio de actualizaciones de calidad, dado que muchos usuarios nunca cierran sesión. La recomendación para reemplazar esto sería aprovechar la fecha límite de cumplimiento y, a continuación, configurar el reinicio no automático para evitar reinicios no compatibles con el usuario antes de que se alcanzara la fecha límite. En el caso de los dispositivos de servidor, aproveche las opciones de configuración automática de Novedades 7: notificar para instalar y notificar el reinicio.
+
+También puede usar el Registro de Windows para evitar reinicios automáticos cuando un usuario ha iniciado sesión. En `HKLM\Software\Policies\Microsoft\Windows\WindowsUpdate\AU`, establezca en `4``AuOptions` y habilite `NoAutoRebootWithLoggedOnUsers`. Al igual que con la directiva de grupo, si un usuario programa el reinicio en la notificación de actualización, invalida esta configuración.
+
+Para obtener una descripción detallada de estas claves del Registro, consulta Claves del Registro usadas para administrar reinicios.
+
+## Configurar las horas activas
+
+Las horas activas identifican el período en el que se prevé que el dispositivo estará en uso. Se reinicia automáticamente después de que se produzca una actualización fuera del horario activo.
+
+De forma predeterminada, las horas activas son de 8 a. m. a 5 p. m. en equipos. Los usuarios pueden cambiar manualmente las horas activas.
+
+También puede especificar el intervalo máximo de horas activas. El intervalo especificado se cuenta a partir de la hora de inicio de las horas activas.
+
+Nota
+
+La longitud máxima de las horas activas para Windows 10, versión 1607 y Windows Server 2016 es 12. Las versiones posteriores admiten una duración máxima de 18 horas.
+
+### Configuración de horas activas con directiva de grupo
+
+Para configurar las horas activas mediante la directiva de grupo, vaya a Configuración del equipo\Plantillas administrativas\Componentes de Windows\Windows Update y abra la configuración de directiva Desactivar reinicio automático para actualizaciones durante horas activas. Si se habilita la directiva, puedes establecer las horas de inicio y final de las horas activas.
+
+### Configuración de horas activas con MDM
+
+Para configurar las horas activas, MDM usa los siguientes valores en el CSP de la directiva de actualización:
+
+- 
+ ActiveHoursStart
+
+- 
+ ActiveHoursEnd
+
+- 
+ ActiveHoursMaxRange
+
+### Configuración de horas activas mediante el Registro de Windows
+
+Este método no se recomienda y solo se debe usar cuando no se puede usar la directiva de grupo o MDM. Cualquier configuración configurada a través del Registro podría entrar en conflicto con cualquier configuración existente que use cualquiera de los otros métodos.
+
+Configure las horas activas estableciendo una combinación de los siguientes valores del Registro:
+
+En `HKLM\Software\Policies\Microsoft\Windows\WindowsUpdate` Usar `SetActiveHours` para habilitar o deshabilitar las horas activas y `ActiveHoursEnd``ActiveHoursStart` para especificar el intervalo de horas activas.
+
+Para obtener una descripción detallada de estas claves del Registro, consulta Claves del Registro usadas para administrar reinicios.
+
+Sugerencia
+
+Para configurar manualmente las horas activas en un dispositivo, vaya a Configuración>Windows Update>Opciones avanzadas y seleccione Horas activas.
+
+### Configuración del intervalo máximo de horas activas
+
+Puede especificar el intervalo máximo de horas activas que los usuarios pueden establecer. Esta opción le ofrece flexibilidad para dejar parte de la decisión de las horas activas en el lado del usuario, a la vez que se asegura de que permite el tiempo suficiente para que se instalen las actualizaciones. El intervalo máximo se calcula a partir de la hora de inicio de las horas activas.
+
+Para configurar el intervalo máximo de horas activas mediante la directiva de grupo, vaya a Configuración del equipo\Plantillas administrativas\Componentes de Windows\Windows Update y abra la opción Especificar intervalo de horas activas para reinicios automáticos.
+
+Para configurar el intervalo máximo de horas activas a través de MDM, use ActiveHoursMaxRange.
+
+## Limitar los retrasos de reinicio
+
+Una vez que Windows instala una actualización, intenta reiniciarse automáticamente fuera del horario activo. Si el reinicio no se realiza correctamente después de un período predeterminado de siete días, el usuario ve una notificación de que se requiere un reinicio. Para cambiar el retraso, use la opción Especificar fecha límite antes del reinicio automático para la instalación de actualizaciones. El valor mínimo es de dos días y el valor máximo es de dos semanas (14 días). Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+## Controlar las notificaciones de reinicio
+
+### Mostrar opciones para las notificaciones de actualización
+
+Puede definir qué notificaciones de Windows Update se muestran al usuario. Esta directiva no controla cómo y cuándo se descargan e instalan las actualizaciones.
+
+Para configurar este comportamiento a través de la directiva de grupo, vaya a Configuración del equipo\Plantillas administrativas\Componentes de Windows\Windows Update y seleccione la directiva para Mostrar opciones para las notificaciones de actualización. Configure los siguientes valores:
+
+- 
+ `0`(valor predeterminado): use las notificaciones de Windows Update predeterminadas.
+
+- 
+ `1`: desactive la mayoría de las notificaciones, pero mantenga las advertencias de reinicio.
+
+- 
+ `2`: desactive todas las notificaciones, incluidas las advertencias de reinicio.
+
+Para configurar este comportamiento a través de MDM, use UpdateNotificationLevel.
+
+A partir de Windows 11, versión 22H2, Se agregó Aplicar solo durante las horas activas como otra opción para Mostrar opciones para las notificaciones de actualización. Al seleccionar Aplicar solo durante las horas activas, las notificaciones solo se deshabilitan durante las horas activas cuando se usan opciones `1` o `2`. Para asegurarse de que el dispositivo permanece actualizado, se sigue mostrando una notificación durante las horas activas si selecciona Aplicar solo durante las horas activas y una vez que se alcanza una fecha límite al configurar Especificar fechas límite para actualizaciones y reinicios automáticos. 
+
+Para configurar este comportamiento a través de MDM, use UpdateNotificationLevel.
+
+### Notificaciones de reinicio automático
+
+Puede invalidar el comportamiento predeterminado de la notificación necesaria de reinicio automático. De forma predeterminada, esta notificación se descarta automáticamente.
+
+- 
+Para configurar este comportamiento a través de la directiva de grupo, vaya a Configuración del equipo\Plantillas administrativas\Componentes de Windows\Windows Update y seleccione la directiva Configurar la notificación necesaria de reinicio automático para las actualizaciones. Cuando el valor se establece en 2: Acción del usuario, el usuario que recibe esta notificación debe descartarla manualmente. Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+- 
+Para configurar este comportamiento a través de MDM, use AutoRestartRequiredNotificationDismissal. Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+También puede configurar el período anterior a una actualización que aparece en esta notificación. El valor predeterminado es 15 minutos.
+
+- 
+Para cambiarlo a través de la directiva de grupo, seleccione Configurar notificaciones de recordatorio de reinicio automático para actualizaciones en Configuración del equipo\Plantillas administrativas\Componentes de Windows\Windows Update y seleccione el período en minutos. Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+- 
+Para cambiarlo a través de MDM, use AutoRestartNotificationSchedule. Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+En algunos casos, no es necesario mostrar una notificación.
+
+- 
+Para hacerlo a través de la directiva de grupo, vaya a Configuración del equipo\Plantillas administrativas\Componentes de Windows\Windows Update y seleccione la opción Desactivar notificaciones de reinicio automático para instalaciones de actualizaciones. Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+- 
+Para hacerlo a través de MDM, use SetAutoRestartNotificationDisable. Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+### Advertencias de reinicio automático programadas
+
+Dado que los usuarios no pueden posponer un reinicio programado una vez que se alcanza la fecha límite, puede configurar un aviso de advertencia antes del reinicio programado. También puede configurar una advertencia antes del reinicio para notificar a los usuarios una vez que el reinicio sea inminente y permitirles guardar su trabajo.
+
+Para configurar ambos a través de la directiva de grupo, busque la opción Configurar la programación de notificaciones de advertencia de reinicio automático para actualizaciones en Configuración del equipo\Plantillas administrativas\Componentes de Windows\Windows Update. El aviso de advertencia se puede configurar mediante recordatorio (horas) y la advertencia antes de un reinicio automático inminente se puede configurar mediante advertencia (minutos). Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+En MDM, para configurar el aviso de advertencia, use ScheduleRestartWarning. Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura. Para configurar la advertencia de reinicio automático inminente, use ScheduleImminentRestartWarning. Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+### Reinicio establecido
+
+El reinicio establecido es el período de tiempo en el que los usuarios deben programar un reinicio. Inicialmente, Windows se reinicia automáticamente fuera del horario laboral. Una vez que finaliza el período predeterminado de siete días, Windows realiza la transición a reinicios programados por el usuario.
+
+Puede ajustar la siguiente configuración para el reinicio activado:
+
+- 
+Período de tiempo antes de que el reinicio automático pase a un reinicio comprometido.
+
+- 
+El número de días que los usuarios pueden posponer las notificaciones de aviso de reinicio establecido.
+
+- 
+El número de días antes de que un reinicio pendiente se ejecute automáticamente fuera del horario de trabajo.
+
+En la directiva de grupo, vaya a Configuración del equipo\Plantillas administrativas\Componentes de Windows\Windows Update y use la opción Especificar la transición de reinicio comprometida y la programación de notificaciones para las actualizaciones. Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+En MDM, use las siguientes directivas:
+
+- 
+ EngagedRestartTransitionSchedule
+
+- Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+- 
+ EngagedRestartSnoozeSchedule
+
+- Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+- 
+ EngagedRestartDeadline
+
+- Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+## Configuración de directiva de grupo para reiniciar
+
+En el editor de directivas de grupo, la configuración de directiva para el comportamiento de reinicio se encuentra en Configuración del equipo\Plantillas administrativas\Componentes de Windows\Windows Update. En la tabla siguiente se muestra qué directivas se aplican a Windows 10.
+
+ | Directiva
+
+ | Válido para Windows 10
+
+ | Notas
+
+ | Desactivar el reinicio automático para actualizar durante las horas activas
+
+ | Sí
+
+ | Use esta directiva para configurar las horas activas, durante las cuales el dispositivo no se reiniciará. Esta directiva no tiene efecto si están habilitadas las directivas No reiniciar automáticamente para instalar actualizaciones automáticas programadas con usuarios que hayan iniciado sesión o Reiniciar automáticamente siempre en la hora programada.
+
+ | Reiniciar automáticamente siempre en la hora programada
+
+ | Sí
+
+ | Usa esta directiva para configurar un temporizador de reinicio (entre 15 y 180 minutos) que se iniciará inmediatamente después de que Windows Update instale actualizaciones importantes. Esta directiva no tiene efecto si está habilitada la directiva No reiniciar automáticamente para instalar actualizaciones automáticas programadas con usuarios que hayan iniciado sesión. Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+ | Especificar fecha límite antes de reiniciar automáticamente para instalar la actualización
+
+ | Sí
+
+ | Usa esta directiva para especificar el número de días (entre 2 y 14) que se puede retrasar un reinicio automático. Esta directiva no tiene efecto si están habilitadas las directivas No reiniciar automáticamente para instalar actualizaciones automáticas programadas con usuarios que hayan iniciado sesión o Reiniciar automáticamente siempre en la hora programada. Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+ | No reiniciar automáticamente para instalar actualizaciones automáticas programadas con usuarios que hayan iniciado sesión
+
+ | Sí
+
+ | Usa esta directiva para evitar el reinicio automático si un usuario ha iniciado sesión. Esta directiva solo se aplica cuando se configura la directiva para configurar la Novedades automática para programar la instalación. La directiva de instalación Sin reinicio automático con usuarios conectados para actualizaciones automáticas programadas nunca se creó como CSP. En directiva de grupo esta directiva no funciona exactamente según la descripción. Esta directiva puede dar lugar a un período de reinicio de actualizaciones de calidad, dado que muchos usuarios nunca cierran sesión. La recomendación para reemplazar esto sería aprovechar la fecha límite de cumplimiento y, a continuación, configurar el reinicio no automático para evitar reinicios no compatibles con el usuario antes de que se alcanzara la fecha límite. En el caso de los dispositivos de servidor, aproveche las opciones de configuración automática de Novedades 7: notificar para instalar y notificar el reinicio.
+
+ | Volver a pedir la intervención del usuario para reiniciar con instalaciones programadas
+
+ | No
+
+ | Esta directiva no se implementa en Windows 10 y no tiene ningún efecto si se establece en Windows 10 o Windows 11.
+
+ | Retrasar el reinicio para las instalaciones programadas
+
+ | No
+
+ | Esta directiva no se implementa en Windows 10 y no tiene ningún efecto si se establece en Windows 10 o Windows 11.
+
+ | Volver a programar las instalaciones programadas de actualizaciones automáticas
+
+ | No
+
+ | Esta directiva no se implementa en Windows 10 y no tiene ningún efecto si se establece en Windows 10 o Windows 11.
+
+Nota
+
+- Solo puedes elegir una ruta para el comportamiento de reinicio.
+
+- Si estableces directivas de reinicio que entren en conflicto, es posible que el comportamiento real de reinicio sea diferente de lo que esperas.
+
+- Cuando se usa RDP, solo las sesiones RDP activas se consideran usuarios con sesión iniciada.
+
+- La directiva de instalación Sin reinicio automático con usuarios conectados para actualizaciones automáticas programadas nunca se creó como CSP. En directiva de grupo esta directiva no funciona exactamente según la descripción. Esta directiva puede dar lugar a un período de reinicio de actualizaciones de calidad, dado que muchos usuarios nunca cierran sesión. La recomendación para reemplazar esto sería aprovechar la fecha límite de cumplimiento y, a continuación, configurar el reinicio no automático para evitar reinicios no compatibles con el usuario antes de que se alcanzara la fecha límite. En el caso de los dispositivos de servidor, aproveche las opciones de configuración automática de Novedades 7: notificar para instalar y notificar el reinicio.
+
+## Claves del Registro usadas para administrar reinicios
+
+En las tablas siguientes se enumeran los valores del Registro correspondientes a la configuración de directiva de grupo para controlar los reinicios después de las actualizaciones de Windows 10.
+
+### `HKLM\Software\Policies\Microsoft\Windows\WindowsUpdate`
+
+ | Clave del Registro
+
+ | Tipo de clave
+
+ | Valor
+
+ | `ActiveHoursEnd`
+
+ | `REG_DWORD`
+
+ | 
+ `0-23`: establezca las horas activas para que finalicen en una hora específica. 
+
+Comienza a las 12 a. m. (`0`) y termina con las 11 p. m. (`23`).
+
+ | `ActiveHoursStart`
+
+ | `REG_DWORD`
+
+ | 
+ `0-23`: establezca las horas activas para que comiencen en una hora específica. 
+
+Comienza a las 12 a. m. (`0`) y termina con las 23:00 (`23`.
+
+ | `SetActiveHours`
+
+ | `REG_DWORD`
+
+ | 
+ `0`: deshabilite el reinicio automático después de las actualizaciones fuera del horario activo. 
+
+ `1`: habilite el reinicio automático después de las actualizaciones fuera del horario activo.
+
+### `HKLM\Software\Policies\Microsoft\Windows\WindowsUpdate\AU`
+
+ | Clave del Registro
+
+ | Tipo de clave
+
+ | Valor
+
+ | `AlwaysAutoRebootAtScheduledTime`
+
+ | `REG_DWORD`
+
+ | 
+ `0`: deshabilite el reinicio automático después de la instalación de la actualización a la hora programada. 
+
+ `1`: habilite el reinicio automático después de la instalación de la actualización a una hora programada.
+
+ | `AlwaysAutoRebootAtScheduledTimeMinutes`
+
+ | `REG_DWORD`
+
+ | 
+ `15-180`: establezca el reinicio automático para que se produzca después del número de minutos especificado.
+
+ | `AUOptions`
+
+ | `REG_DWORD`
+
+ | 
+ `2`: notifique la descarga y notifique la instalación de actualizaciones. 
+
+ `3`: descargue y notifique automáticamente la instalación de actualizaciones. 
+
+ `4`: descargue y programe automáticamente la instalación de actualizaciones. 
+
+ `5`: permite que el administrador local configure estas opciones. 
+
+ Nota: Para configurar el comportamiento de reinicio, establezca este valor en `4`.
+
+ | `NoAutoRebootWithLoggedOnUsers`
+
+ | `REG_DWORD`
+
+ | 
+ `0`: si los usuarios han iniciado sesión, reinicie automáticamente ("deshabilitar no reiniciar"). 
+
+ `1`: si un usuario ha iniciado sesión, no se reinicie después de una instalación de actualización. 
+
+ Nota: Si está deshabilitado (`0`), el Novedades automático notifica al usuario que el equipo está programado para reiniciarse automáticamente en cinco minutos para completar la instalación.
+
+ | `ScheduledInstallTime`
+
+ | `REG_DWORD`
+
+ | 
+ `0-23`: programe el tiempo de instalación de la actualización a una hora específica. 
+
+Comienza a las 12 a. m. (`0`) y termina con las 11 p. m. (`23`).
+
+Hay tres combinaciones diferentes del Registro para controlar el comportamiento del reinicio:
+
+- 
+Para establecer las horas activas:
+
+- 
+ `SetActiveHours` debe ser `1`.
+
+- A continuación, para definir el intervalo de tiempo, use `ActiveHoursStart` y `ActiveHoursEnd`.
+
+- 
+Para programar una hora de instalación y reinicio específica:
+
+- 
+ `AUOptions` debe ser `4`.
+
+- 
+ `ScheduledInstallTime` debe especificar la hora de instalación.
+
+- Establezca en `AlwaysAutoRebootAtScheduledTime``1`. Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+- 
+ `AlwaysAutoRebootAtScheduledTimeMinutes` debe especificar el número de minutos que debe esperar antes de reiniciar. Esta directiva es una directiva heredada y no es aplicable a Windows 11. Las directivas heredadas podrían quitarse en una versión futura.
+
+- 
+Para retrasar el reinicio si un usuario ha iniciado sesión:
+
+- 
+ `AUOptions` debe ser `4`.
+
+- Establezca en `NoAutoRebootWithLoggedOnUsers``1`.
+
+## Más recursos
+
+- 
+ Introducción a Windows como servicio
+
+- 
+ Configuración de la optimización de distribución para actualizaciones de Windows
+
+- 
+ Configuración de directivas de cliente de Windows Update
+
+- 
+ Tutorial: uso de la directiva de grupo para configurar directivas de cliente Windows Update
+
+- 
+ Administración de actualizaciones de software de Windows en Microsoft Intune
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-10-06

@@ -1,0 +1,194 @@
+URL: https://www.sede.fnmt.gob.es/preguntas-frecuentes/-/asset_publisher/5a9kmeLaGgXw/content/1551-como-puedo-exportar-un-certificado-en-internet-explorer-
+Leído: 2026-10-05
+
+1551 - ¿Cómo puedo exportar un certificado en EDGE? - Sede
+Navegación
+FNMT
+Ceres
+Sede Electrónica
+Museo Casa de la Moneda
+SIAEN
+Escuela de Grabado
+Tienda Virtual
+05/10/2026
+es
+Seleccionar  Lenguaje :
+Bienvenido Benvinguda Benvido Ongi etorri Welcome
+x
+Buscar :
+x
+Inicio
+Cert. Electrónico Ciudadano
+Mostrar/Ocultar
+App Móvil
+Certificado con Vídeo Identificación
+Mostrar/Ocultar
+Configuración previa
+Solicitar Certificado
+Acreditar Identidad
+Descargar Certificado
+Certificado con Acreditación Presencial
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar Identidad
+Descargar Certificado
+Certificado con DNIe
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Descargar Certificado
+Verificar Estado
+Renovar Certificado
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Renovación
+Descargar Certificado
+Lista de Precios
+Facturas
+Anular
+Mostrar/Ocultar
+Solicitar Anulación
+Cert. Electrónico Empresa
+Mostrar/Ocultar
+Administrador Único o Solidario
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Mostrar/Ocultar
+Solicitud con certificado
+Solicitud con DNIe
+Descargar Certificado
+Persona Jurídica
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar identidad
+Descargar Certificado
+Entidad sin Personalidad Jurídica
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar identidad
+Descargar Certificado
+Verificar Estado
+Lista de Precios - Política de devolución
+Facturas
+Anular
+Mostrar/Ocultar
+Solicitar Anulación
+Cert. Electrónico Sector Público
+Mostrar/Ocultar
+Información General
+Certificado de empleado público
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar Identidad
+Descargar Certificado
+Certificado con Seudónimo
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar Identidad
+Descargar Certificado
+Certificado Seudónimo Adm. Justicia
+Mostrar/Ocultar
+Configuración Previa
+Solicitar Certificado
+Acreditar Identidad
+Descargar Certificado
+Certificado de Firma Centralizada
+Mostrar/Ocultar
+Solicitud Certificado de Firma Centralizada
+Acreditar Identidad
+Portal de Gestión de identidades
+Certificado Seudónimo Adm. Justicia Firma Centralizada
+Mostrar/Ocultar
+Solicitud Cert Seudonimo Firma Centralizada Justicia
+Acreditar identidad
+Portal de Gestión de Identidades
+Preguntas Frecuentes
+Verificar Estado
+Soporte Técnico
+Mostrar/Ocultar
+Atención a Usuarios
+Consultas
+Descargas
+Mostrar/Ocultar
+Certificados raíz de la FNMT
+Descarga de Software
+Contratos
+Carta de Servicios
+Trámites
+Mostrar/Ocultar
+Formulario de propósito general
+Quejas y sugerencias
+Ofertas de empleo
+Trazabilidad productos de tabaco
+1551 - ¿Cómo puedo exportar un certificado en EDGE?
+Preguntas Frecuentes
+-->
+-->
+Inicio
+Preguntas Frecuentes
+1551 - ¿Cómo puedo exportar un certificado en EDGE?
+Problemas y Dudas más habituales
+Certificado de Ciudadano
+Certificado de Empresa
+Navegadores
+Exportación / Importación y Eliminación de un Certificado
+Android / Mac
+Tarjetas Inteligentes
+Uso de los Certificados con Correo Electrónico
+Otras Preguntas
+En este apartado queremos responder todas aquellas dudas referentes a los diferentes procesos implicados en la solicitud, acreditación, descarga y uso de nuestros certificados.
+Podrás acceder a las diferentes FAQs a través del menú lateral, pulsa sobre el texto que se aproxime más a la consulta que quieras realizar y podrás acceder al contenido relacionado con ese tema.
+Recuerda que trabajamos continuamente en mejorar nuestros servicios, haciéndolos siempre lo más claros, sencillos y disponibles para el mayor número de usuarios.
+Si alguno de los pasos en la obtención, acreditación, descarga, renovación o revocación resulta algo más complejo de lo que se pudiera esperar, es por tu seguridad y para cumplir con los procedimientos que se nos exige por ser prestadores de servicios de certificación. Recuerda también que estamos supeditados a herramientas de terceros que tienen sus propias medidas de seguridad a las cuales debemos adaptarnos para que puedas obtener tus certificados.
+TOP 10 Preguntas Frecuentes
+1551 - ¿Cómo puedo exportar un certificado en EDGE?
+Para exportar un certificado en Microsoft EDGE debemos realizar los siguientes pasos:
+Acceder al menú (botón de 3 puntos o pulsar ALT+F) y pulsar en Configuración, en el buscador buscar Certificados y pulsar Intro. A la derecha acceder a Administrar Certificados.
+En la ventana pulsaremos la pestaña "Personal". Aquí se nos muestra una pantalla con la relación de Certificados personales instalados en nuestro navegador. Seleccionamos el que queremos exportar y pulsamos el botón "Exportar".
+A partir de este momento nos guiará un asistente de Windows.
+Seleccionamos la opción "Exportar la clave privada" y pulsamos "Siguiente".
+En "Formato de archivo de exportación" dejaremos las opciones tal y como se nos muestran por defecto y pulsamos "Siguiente".
+Llegamos a una pantalla donde se nos pide indicar una contraseña y su validación para proteger el archivo que contiene el Certificado exportado. Las introducimos y pulsamos el botón "Siguiente". (Esta misma contraseña se pedirá para importar el certificado a otro navegador o equipo diferente, es importante que la recuerde).
+En el siguiente cuadro de dialogo indicaremos la ruta y el nombre del archivo que queremos que contenga el certificado exportado, para ello pulsamos el botón "Examinar", una vez elegida la ruta y el nombre del archivo pulsamos "Guardar", a continuación, pulsaremos el botón "Siguiente".
+Por último, se nos muestra una ventana con las características del certificado exportado, pulsaremos el botón "Finalizar" y nos aparece un mensaje de aviso diciendo que la clave privada va a ser exportada, pulsamos "Aceptar" y si la operación ha sido correcta se nos mostrará un cuadro informándonos de que el certificado ha sido exportado con éxito.
+El archivo generado en la ruta indicada será la copia de seguridad de su certificado junto con la clave privada, guárdela en lugar seguro. Nunca entregue copia de su clave privada a nadie bajo ningún concepto, el certificado es responsabilidad del titular del mismo.
+Oculto
+Sobre la Sede
+Resolución de creación de la Sede
+Resolución creación Registro Electrónico
+Fecha y hora oficial
+Calendario de días inhábiles
+Declaración de Conformidad
+Código Identificación de la FNMT-RCM (DIR3)
+Normativa
+Declaración de Prácticas de Certificación
+Administración digital y Firma electrónica
+Reglamento General de Protección de Datos
+Política Integrada y de Seguridad
+Calidad
+Descargas
+Certificados raíz de la FNMT
+Descarga de Software
+Contratos
+Carta de Servicios
+Otros servicios
+Ofertas de Empleo Público
+Perfil de Contratante
+Preguntas Frecuentes
+Atención a Usuarios
+Accesibilidad
+Aviso legal
+Mapa web
+Facebook
+Twitter
+Youtube
+Blog
+Linkedin
+INFORMACIÓN SOBRE COOKIES
+La página Web de la FNMT-RCM utiliza cookies propias y de terceros para facilitar la navegación por la página web así como almacenar las preferencias seleccionadas por el usuario durante su navegación. No empleamos las cookies para almacenar o tratar datos de carácter personal. Si continúa navegando, consideramos que acepta su uso ACEPTO . Más Información .

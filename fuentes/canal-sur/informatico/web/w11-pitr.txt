@@ -1,0 +1,168 @@
+URL: https://support.microsoft.com/es-es/windows/experience/backup-recovery/point-time-restore-for-windows
+Leído: 2026-10-05
+
+# Restauración puntual para Windows
+
+ Se aplica a
+Windows 11 Windows 10 
+
+La restauración puntual te ayuda a recuperar tu PC Windows devolviéndolo al estado exacto en el que se encontraba en un momento anterior. Esto incluye las aplicaciones, la configuración y los archivos. Windows guarda automáticamente los puntos de restauración a intervalos regulares. Si se produce un error (como una actualización problemática, un conflicto de software o un cambio inesperado), puedes volver a un momento anterior al problema.
+
+Nota
+
+Los profesionales de TI que buscan opciones de configuración avanzadas, como CSP y administración de línea de comandos, pueden obtener más información en Restauración puntual para Windows.
+
+Importante
+
+La restauración puntual revierte todo el sistema al punto de restauración seleccionado. Los cambios realizados después de ese punto de restauración se perderán. Esto incluye nuevos archivos, instalaciones de aplicaciones, cambios de configuración y contraseñas. La restauración no afecta a los archivos almacenados en servicios en la nube como OneDrive.
+
+## ¿Cómo funciona la restauración puntual?
+
+Cuando se habilita la restauración puntual, Windows crea automáticamente puntos de restauración a intervalos regulares (de forma predeterminada, aproximadamente cada 24 horas). Estos puntos son instantáneas de todo el sistema almacenados localmente en el equipo.
+
+Si el equipo desarrolla un problema y no puede arrancar, puedes seleccionar un punto de restauración reciente en el Entorno de recuperación de Windows (WinRE) y restaurar el equipo a ese estado. El equipo se reinicia y vuelve al estado en el que se encontraba cuando se capturó el punto de restauración.
+
+Los puntos de restauración se conservan hasta 72 horas. Después, se eliminan automáticamente para liberar espacio.
+
+## Configurar la restauración en un momento determinado
+
+Nota
+
+Solo los administradores locales pueden ver o editar configuraciones para restaurarlas en un momento determinado.
+
+Para ver o cambiar la configuración de restauración puntual:
+
+- En el dispositivo Windows, ve a Configuración > Recuperación del sistema>.
+
+- Selecciona Restauración puntual.
+
+- Seleccione Ver o editar.
+
+- Si el Control de cuentas de usuario lo solicita, seleccione Sí.
+
+- Para habilitar la restauración en un momento dado, cambie el botón de alternancia a Activado.
+
+Estas son las opciones de configuración disponibles:
+
+ | Configuración
+
+ | Descripción
+
+ | Valor predeterminado
+
+ | Activar o desactivar
+
+ | Cuando se activa, la restauración puntual crea automáticamente puntos de restauración. Cuando se desactiva, los puntos de restauración existentes permanecen hasta que expiran o se necesita espacio en disco.
+
+ | Activado*
+
+ | Frecuencia de punto de restauración
+
+ | Frecuencia con la que se crean los puntos de restauración
+
+ | Cada 24 horas**
+
+ | Retención de puntos de restauración
+
+ | Cuánto tiempo se conservan los puntos de restauración antes de la eliminación automática
+
+ | 72 horas**
+
+ | Límite de uso máximo
+
+ | Límite superior del espacio total en disco usado por los puntos de restauración. El espacio no está reservado con antelación; capacidad sin utilizar sigue estando disponible para el sistema.
+
+ | 2% del disco
+
+* Esta característica está deshabilitada de manera predeterminada en los dispositivos administrados por TI. A partir de Windows 11, versión 26H2, se habilitará de forma predeterminada. La restauración puntual ya está habilitada de forma predeterminada en dispositivos no administrados.
+
+Para que la característica esté habilitada de manera predeterminada, el volumen del sistema operativo Windows debe ser de 200 GB o más. Los dispositivos con volúmenes de SO más pequeños pueden habilitar la función manualmente.
+
+** Esta configuración solo se puede configurar en dispositivos Windows que ejecuten la edición Enterprise de Windows.
+
+Puedes ver el espacio en disco usado actualmente por los puntos de restauración y ver los puntos de restauración disponibles en el mismo cuadro de diálogo de configuración.
+
+## Restaurar el equipo a un punto anterior en el tiempo
+
+Para realizar una restauración, debes estar en el Entorno de recuperación de Windows (WinRE). Siga estos pasos:
+
+- Acceder al Entorno de recuperación de Windows.
+
+- Una vez en WinRE, selecciona Solucionar problemas>de restauración puntual.
+
+- Si se te pide, escribe la clave de recuperación de BitLocker.
+
+- Selecciona un punto de restauración.
+
+- Revise la información y, a continuación, seleccione Continuar para confirmar los riesgos.
+
+- Confirma la selección del punto de restauración y, a continuación, selecciona Restaurar para iniciar el proceso de restauración.
+
+- Una vez completado el proceso de restauración, el equipo se reinicia e inicia Windows.
+
+Advertencia
+
+No apagues el dispositivo durante una restauración. Esto podría dejar el equipo en un estado inutilizable.
+Te recomendamos que conectes el dispositivo a la corriente antes de iniciarlo.
+
+## Lo que debe saber antes de restaurar
+
+La restauración puntual revierte todo el contenido de la unidad del sistema, incluidos los archivos, las aplicaciones, la configuración, las contraseñas, los certificados y las claves, al estado en el que se encontraban en el punto de restauración seleccionado. Los cambios realizados después del punto de restauración se perderán.
+
+- Files almacenados en servicios en la nube como OneDrive no se ven afectados por una restauración.
+
+- Si BitLocker está habilitado, necesitas tu clave de recuperación de BitLocker para realizar una restauración.
+
+- Tu PC necesita suficiente espacio libre en disco para completar el proceso de restauración. Asegúrate de tener al menos tanto espacio libre como el tamaño total de todos los puntos de restauración del sistema.
+
+- Solo se restaura la unidad donde está instalado Windows. Otras unidades no se ven afectadas.
+
+- Un proceso de restauración podría revertir las actualizaciones de seguridad recientes. Después de restaurar, busca e instala las últimas actualizaciones de Windows.
+
+## ¿En qué se diferencia la restauración puntual de Restaurar sistema?
+
+Tanto restaurar en un momento dado como Restaurar sistema pueden restaurar el equipo a un estado anterior, pero funcionan de forma diferente:
+
+ | Capacidad
+
+ | Restauración puntual
+
+ | Restauración del sistema
+
+ | Qué se restaura
+
+ | Todo el sistema: sistema operativo, aplicaciones, configuración y archivos
+
+ | Solo archivos y opciones de configuración del sistema; los archivos personales no se ven afectados
+
+ | Frecuencia de punto de restauración
+
+ | Automático, de forma periódica
+
+ | Desencadenado por eventos o manual
+
+ | Retención de puntos de restauración
+
+ | Hasta 72 horas
+
+ | Indefinido (sujeto a espacio en disco)
+
+ | Método de configuración
+
+ | Aplicación de configuración
+
+ | Panel de control
+
+ | Impacto en el almacenamiento
+
+ | Diseñado para minimizar el impacto en el almacenamiento
+
+ | Mayor impacto en el espacio de almacenamiento
+
+Si ambas opciones están disponibles, prueba primero la restauración puntual, ya que ofrece una experiencia de recuperación más completa. Si la restauración puntual no está disponible o necesitas volver más de 72 horas, usa Restaurar sistema.
+
+## Envíenos sus comentarios
+
+Cuéntanos qué te gusta, comparte tus ideas y ofrece sugerencias sobre cómo mejorar la experiencia en el Centro de opiniones. En la aplicación Centro de opiniones de tu dispositivo Windows, seleccionaRestaurar restauraciónpuntual de desinstalación> de recuperación>.
+
+Para obtener más información técnica, consulta Restauración puntual para Windows.

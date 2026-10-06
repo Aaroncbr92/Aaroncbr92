@@ -1,0 +1,13 @@
+URL: https://csrc.nist.gov/glossary/term/sandbox
+Leído: 2026-10-05
+
+Definitions:
+A restricted, controlled execution environment that prevents potentially malicious software, such as mobile code, from accessing any system resources except those for which the software is authorized.
+Sources:
+CNSSI 4009-2022
+under sandboxing
+A system that allows an untrusted application to run in a highly controlled environment where the application’s permissions are restricted to an essential set of computer permissions. In particular, an application in a sandbox is usually restricted from accessing the file system or the network. A widely used example of applications running inside a sandbox is a Java applet.
+Sources:
+NIST SP 800-95
+from
+NIST ITL Bulletin, Mar. 2000

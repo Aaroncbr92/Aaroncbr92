@@ -1,0 +1,76 @@
+URL: https://learn.microsoft.com/es-es/defender-endpoint/malware/trojans-malware
+Leído: 2026-10-05
+
+Malware troyano - Microsoft Defender for Endpoint | Microsoft Learn
+Ir al contenido principal
+Omisión de la experiencia de chat de Ask Learn
+Este explorador ya no se admite.
+Actualice a Microsoft Edge para aprovechar las características y actualizaciones de seguridad más recientes, y disponer de soporte técnico.
+Descargar Microsoft Edge
+Más información sobre Internet Explorer y Microsoft Edge
+Tabla de contenido
+Salir del modo de editor
+Preguntar a Learn
+Preguntar a Learn
+Modo de lectura
+Tabla de contenido
+Leer en inglés
+Agregar
+Añadir a Planes
+Copiar Markdown
+Imprimir
+Nota:
+El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+Troyanos
+Comentarios
+En este artículo
+Los troyanos son un tipo común de malware, que, a diferencia de los virus, no se puede propagar por sí mismos. Esto significa que tienen que descargarse manualmente u otro malware debe descargarlos e instalarlos.
+Los troyanos suelen usar los mismos nombres de archivo que las aplicaciones reales y legítimas. Es fácil descargar accidentalmente un troyano pensando que es una aplicación legítima.
+Funcionamiento de los troyanos
+Los troyanos pueden venir en muchas variedades diferentes, pero generalmente realizan las siguientes tareas:
+Descargue e instale otro malware, como virus o gusanos.
+Use el dispositivo infectado para seleccionar fraudes.
+Grabar pulsaciones de tecla y sitios web visitados.
+Envíe información sobre el dispositivo infectado a un hacker malintencionado, incluidas las contraseñas, los detalles de inicio de sesión de los sitios web y el historial de exploración.
+Dar un control de hacker malintencionado sobre el dispositivo infectado.
+Protección contra troyanos
+Use el siguiente software gratuito de Microsoft para detectarlo y quitarlo:
+Microsoft Defender Antivirus para Windows 10 y 11.
+Examen de seguridad de Microsoft
+Para obtener sugerencias más generales, consulte prevención de la infección por malware.
+Comentarios
+¿Le ha resultado útil esta página?
+Sí
+No
+No
+¿Necesita ayuda con este tema?
+¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+Preguntar a Learn
+Preguntar a Learn
+¿Sugerir una corrección?
+Recursos adicionales
+Last updated on
+2024-10-30
+En este artículo
+¿Le ha resultado útil esta página?
+¿Necesita ayuda con este tema?
+¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+Preguntar a Learn
+Preguntar a Learn
+¿Sugerir una corrección?
+es-es
+Sus opciones de privacidad
+Tema
+Claro
+Oscuro
+Contraste alto
+Declinación de responsabilidades de IA
+Versiones anteriores
+Blog
+Contribuir
+Privacidad
+Privacidad de estado del consumidor
+Términos de uso
+Marcas comerciales
+© Microsoft 2026

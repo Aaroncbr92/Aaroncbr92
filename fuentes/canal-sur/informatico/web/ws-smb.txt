@@ -1,0 +1,221 @@
+URL: https://learn.microsoft.com/es-es/windows-server/storage/file-server/file-server-smb-overview
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# ¿Qué es el uso compartido de archivos SMB para Windows y Windows Server?
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10, ✅ Azure Local 2311.2 and later
+
+## 
+
+En este artículo se proporciona información general sobre el protocolo Bloque de mensajes del servidor (SMB) en Windows. Abarca aplicaciones, características y conceptos clave prácticos para el uso compartido de archivos.
+
+El protocolo SMB es un protocolo de uso compartido de archivos de red. SMB permite leer y escribir en archivos a través de la red sobre TCP/IP u otros protocolos. Con SMB, una aplicación (o el usuario de una aplicación) puede acceder a archivos u otros recursos en un servidor remoto, lo que permite a las aplicaciones leer, crear y actualizar archivos en el servidor remoto. SMB también puede comunicarse con cualquier programa del servidor que esté configurado para recibir la solicitud de un cliente SMB.
+
+SMB también es un protocolo de red para soluciones de almacenamiento hiperconvergido y en clúster, como Storage Spaces Direct y Storage Replica. Para obtener más información, vea SMB como base para los servicios de Windows Server.
+
+## Usage
+
+En esta sección se describen algunas maneras prácticas de usar el protocolo SMB.
+
+- 
+
+ Almacenamiento de archivos para virtualización (Hyper-V™ a través de SMB). En Hyper-V se pueden almacenar archivos de máquinas virtuales, como los archivos de configuración, disco duro virtual (VHD) e instantáneas, en recursos de archivos compartidos a través del protocolo SMB 3.0. Puede usar esta característica tanto para servidores de archivos independientes como para servidores de archivos en clúster que usan Hyper-V junto con el almacenamiento de archivos compartidos para el clúster.
+
+- 
+
+ Microsoft SQL Server a través de SMB. En SQL Server se pueden almacenar archivos de base de datos de usuarios en recursos compartidos de archivos SMB. Actualmente, se admite el uso de SQL Server a través de SMB con SQL Server 2008 R2 para servidores SQL independientes. Las próximas versiones de SQL Server agregan compatibilidad con servidores SQL Server en clúster y bases de datos del sistema.
+
+- 
+
+ Almacenamiento tradicional para datos de usuario final. El protocolo SMB 3.0 cuenta con mejoras para las cargas de trabajo del trabajador de la información (o cliente). Estas mejoras incluyen la reducción de las latencias de la aplicación que experimentan los usuarios de las sucursales cuando acceden a los datos a través de las redes de área extensa (WAN) y protegen los datos contra los ataques de interceptación.
+
+Note
+
+Si necesita ahorrar espacio de almacenamiento en un recurso compartido de archivos SMB, considere la posibilidad de usar Azure File Sync con los niveles de nube habilitados. Azure File Sync permite almacenar en caché los archivos a los que se accede con más frecuencia localmente y almacenar en capas los archivos a los que se accede con menos frecuencia a la nube, lo que ahorra espacio de almacenamiento local mientras mantiene el rendimiento. Para obtener más información, consulte Planeamiento de una implementación de Azure File Sync.
+
+## Características de SMB
+
+SMB incluye una amplia gama de características organizadas en las siguientes categorías:
+
+- 
+
+ Seguridad y autenticación : SMB proporciona varias capas de protección, como cifrado, firma, bloqueo NTLM y limitación de velocidad de autenticación. Estas características protegen los datos en tránsito y ayudan a evitar ataques por fuerza bruta y acceso no autorizado.
+
+- 
+
+ Redes y conectividad : SMB admite varias opciones de transporte, como TCP tradicional, QUIC para el acceso seguro a Internet sin VPN y RDMA para cargas de trabajo del centro de datos de alto rendimiento. Las características como los puertos alternativos y la protección del firewall proporcionan otra flexibilidad y seguridad.
+
+- 
+
+ Rendimiento : SMB incluye características para optimizar las velocidades de transferencia de archivos y reducir la sobrecarga de red, como la compresión, los límites de ancho de banda, el almacenamiento en caché de directorios y las optimizaciones wan.
+
+- 
+
+ Alta disponibilidad y escalabilidad : para entornos empresariales, SMB admite la conmutación por error transparente, los servidores de archivos de escalamiento horizontal y las actualizaciones graduales del clúster para garantizar el acceso continuo a los recursos compartidos de archivos durante el mantenimiento o los fallos.
+
+- 
+
+ Administración y supervisión : los administradores pueden administrar SMB mediante cmdlets de PowerShell, controlar versiones de dialecto y supervisar el rendimiento a través de contadores dedicados.
+
+Para obtener información detallada sobre las características individuales y su disponibilidad en las versiones de Windows, consulte Características SMB en Windows y Windows Server.
+
+## Componentes de SMB
+
+La comunicación SMB implica dos componentes: el cliente SMB y el servidor SMB. Estos términos hacen referencia a los roles de protocolo SMB, no a las ediciones del sistema operativo Windows.
+
+- 
+
+ El servidor SMB es el componente que comparte recursos (archivos, impresoras, canalizaciones con nombre) y responde a las solicitudes de los clientes SMB. Al crear un recurso compartido de archivos en un equipo, el servidor SMB del equipo controla las conexiones entrantes y las solicitudes de acceso a archivos.
+
+- 
+
+ El cliente SMB es el componente que se conecta a recursos compartidos remotos y envía solicitudes a servidores SMB. Cuando asigna una unidad de red o accede a una ruta de acceso UNC como `\\server\share`, es el cliente SMB de su equipo quien inicia y gestiona esa conexión.
+
+Tanto Windows Server como los sistemas operativos cliente de Windows incluyen el cliente SMB y los componentes del servidor SMB. Lo que significa que un equipo cliente de Windows, como Windows 11, puede hospedar recursos compartidos de archivos (que actúan como un servidor SMB) al mismo tiempo que se conectan a recursos compartidos en otros equipos (actuando como un cliente SMB). Del mismo modo, Windows Server puede conectarse a recursos compartidos hospedados en otros servidores o equipos cliente.
+
+La disponibilidad de características varía entre las versiones del sistema operativo. Algunas características solo están disponibles en el componente de servidor SMB, algunas solo en el componente de cliente SMB y algunas en ambas. Además, es posible que algunas características estén disponibles en Windows Server, pero no en las ediciones de cliente de Windows, o viceversa. Para obtener más información sobre la disponibilidad de características en distintas versiones de Windows, consulte Características SMB en Windows y Windows Server.
+
+## Dialectos SMB
+
+Un dialecto SMB es una versión específica del protocolo SMB que define las características, funcionalidades y formatos de mensaje admitidos durante la comunicación entre un cliente y un servidor. Al establecer una conexión SMB, el cliente y el servidor negocian para usar la versión de dialecto más alta que ambos admiten. Las versiones más altas de dialecto proporcionan más características, como seguridad mejorada, mejor rendimiento y nuevas funcionalidades, al tiempo que mantienen la compatibilidad con versiones anteriores.
+
+En la tabla siguiente se muestra qué versión del dialecto SMB es compatible con cada versión del sistema operativo Windows.
+
+ | Dialecto SMB
+
+ | Cliente de Windows
+
+ | Servidor de Windows
+
+ | SMB 3.1.1
+
+ | Windows 10, versión 1607 y posteriores
+
+ | Windows Server 2016 y versiones posteriores
+
+ | SMB 3.02
+
+ | Windows 8.1
+
+ | Windows Server 2012 R2
+
+ | SMB 3.0
+
+ | Windows 8
+
+ | Windows Server 2012
+
+Note
+
+Aunque varias versiones de Windows admiten el mismo dialecto SMB (3.1.1), cada versión presenta más características y mejoras más allá del protocolo base. Para obtener más información sobre las mejoras específicas de la versión y la disponibilidad de características, consulte Características de SMB en Windows y Windows Server.
+
+## SMB como base
+
+SMB actúa como protocolo subyacente para muchos servicios de archivos y almacenamiento de Windows Server. Estos servicios se basan en SMB para proporcionar más funcionalidades al heredar las características de seguridad, rendimiento y confiabilidad de SMB.
+
+### Almacenamiento hiperconvergido y agrupado
+
+SMB es un protocolo de tejido para la infraestructura hiperconvergida (HCI) y las soluciones de almacenamiento en clúster:
+
+- 
+
+ Espacios de almacenamiento directo usa SMB 3 para la comunicación de nodo a nodo, incluida la replicación de datos y la sincronización de caché en implementaciones hiperconvergidas y desagregadas. SMB Direct (RDMA) proporciona conectividad de alto rendimiento y baja latencia entre los nodos del clúster. Para obtener más información, consulte Descripción de Storage Spaces Direct.
+
+- 
+
+ Réplica de almacenamiento usa SMB 3 para replicar datos entre servidores o clústeres para la recuperación ante desastres. El cifrado SMB protege los datos replicados en tránsito. Para obtener más información, consulte Visión general de la réplica de almacenamiento.
+
+- 
+
+ Las arquitecturas de almacenamiento desagregadas separan el proceso y el almacenamiento en distintos clústeres, con clústeres de proceso que acceden al almacenamiento a través de SMB 3. Esta arquitectura permite el escalado independiente de los recursos de proceso y almacenamiento. Para más información, consulte Arquitecturas de almacenamiento de clústeres de conmutación por error.
+
+### Tecnologías del servidor de archivos
+
+Varias características del servidor de archivos se basan en SMB para el acceso a archivos:
+
+- 
+
+ Servidor de archivos de escalado horizontal proporciona recursos compartidos de archivos que están disponibles de forma continua en varios nodos de clúster mediante SMB 3. Las aplicaciones como Hyper-V y SQL Server pueden almacenar datos en estos recursos compartidos con conmutación por error transparente. Para obtener más información, consulte Descripción general del Scale-Out File Server.
+
+- 
+
+ Los espacios de nombres DFS organizan carpetas compartidas entre varios servidores en un espacio de nombres lógico. Aunque DFS Namespaces administra el espacio de nombres y las referencias, el acceso real de archivos usa SMB. Para obtener más información, consulte Introducción a los espacios de nombres DFS.
+
+- 
+
+ Replicación DFS replica carpetas entre servidores para escenarios de redundancia y oficinas remotas. Se accede al contenido replicado a través de recursos compartidos de archivos SMB. Para obtener más información, consulte Introducción a la replicación DFS.
+
+### Cargas de trabajo de aplicaciones y virtualización
+
+SMB 3 permite el almacenamiento de alto rendimiento para entornos virtualizados:
+
+- 
+
+ Hyper-V a través de SMB permite almacenar archivos de máquina virtual (configuración, VHD/VHDX y puntos de control) en recursos compartidos de archivos SMB 3 en lugar de almacenamiento local. Esta característica simplifica la administración del almacenamiento y habilita características como la migración en vivo. Para obtener más información, consulte Implementación de Hyper-V en SMB.
+
+- 
+
+ SQL Server a través de SMB admite el almacenamiento de archivos de base de datos en recursos compartidos SMB 3, por lo que puede beneficiarse de SMB multicanal y SMB directo para el rendimiento.
+
+Estos servicios se benefician de características de SMB como cifrado, firma, multicanal y directo (RDMA). Al habilitar las características de seguridad de SMB, los servicios que dependen de SMB heredan esas protecciones.
+
+## Registro y auditoría de eventos
+
+SMB proporciona funcionalidades de registro de eventos y auditoría para ayudar a los administradores a supervisar la actividad de uso compartido de archivos, solucionar problemas de conectividad y detectar posibles amenazas de seguridad.
+
+Windows registra eventos SMB en el registro de eventos de Windows en Registros de aplicaciones y servicios > de Microsoft > Windows > SMBClient y SMBServer. Estos registros capturan eventos de conexión, errores de autenticación, acceso a recursos compartidos y detalles de negociación de protocolos. Los administradores pueden usar estos registros para diagnosticar problemas de conectividad, identificar clientes mal configurados o investigar intentos de acceso no autorizados.
+
+A partir de Windows Server 2025 y Windows 11 24H2, SMB incluye funcionalidades de auditoría mejoradas para la firma y el cifrado. Los administradores pueden auditar si los clientes y servidores admiten la firma y el cifrado de SMB, lo que ayuda a identificar dispositivos no conformes que podrían suponer riesgos de seguridad. Puede configurar esta auditoría mediante la directiva de grupo o PowerShell.
+
+Para obtener más información sobre la auditoría de seguridad de SMB, consulte Mejoras de seguridad de SMB.
+
+## Contenido relacionado
+
+En la lista siguiente se proporcionan más recursos sobre SMB y tecnologías relacionadas en Windows Server 2012 R2, Windows Server 2012 y Windows Server 2016.
+
+- 
+ Almacenamiento en Windows Server
+
+- 
+ Servidor de archivos de escalabilidad horizontal para datos de aplicación
+
+- 
+ Mejora del rendimiento de un servidor de archivos con SMB directo
+
+- 
+ Implementación de Hyper-V en SMB
+
+- 
+ Implementación de SMB multicanal
+
+- 
+ Implementación de servidores de archivos rápidos y eficaces para aplicaciones de servidores
+
+- 
+ SMB: Guía de solución de problemas
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-11-28

@@ -1,0 +1,122 @@
+URL: https://learn.microsoft.com/es-es/microsoft-365-apps/deploy/about-microsoft-365-apps
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Acerca de Aplicaciones Microsoft 365 en la empresa
+
+## 
+
+Aplicaciones Microsoft 365 es una versión de Office que está disponible a través de planes de Office 365. Incluye aplicaciones conocidas como Access, Excel, OneDrive, OneNote, Outlook, PowerPoint, Publisher, Skype Empresarial, Teams y Word. Puede usar estas aplicaciones para conectarse con servicios de Office 365 (o Microsoft 365), como SharePoint Online, Exchange Online y Skype Empresarial Online.
+
+Nota:
+
+- Project y Visio no se incluyen con Aplicaciones Microsoft 365, pero están disponibles en otros planes de suscripción.
+
+- Para obtener más información sobre los planes de Office 365 (y Microsoft 365), consulte https://microsoft.com/microsoft-365 y las descripciones de servicios de Microsoft 365 y Office 365.
+
+## Aplicaciones Microsoft 365 es similar a otras versiones de Office
+
+Aplicaciones Microsoft 365 es similar a otras versiones de Office que puede implementar en los usuarios. Estas son algunas similitudes importantes:
+
+- 
+Aplicaciones Microsoft 365 es una versión completa de Office.
+
+- 
+Sus requisitos de sistema (por ejemplo, memoria, espacio en disco duro y sistema operativo) son similares a otras versiones actuales de Office. Para obtener más información, vea Requisitos del sistema de Office.
+
+- 
+Al igual que otras versiones de Office, Aplicaciones Microsoft 365 está disponible en una versión de 32 bits y una versión de 64 bits. Para decidir qué versión es adecuada para su entorno, revise cuidadosamente Elegir entre la versión de 64 bits o 32 bits de Office antes de realizar la implementación.
+
+- 
+Al implementar Aplicaciones Microsoft 365, se instala en el equipo local del usuario. Aplicaciones Microsoft 365 no es una versión basada en web de Office. Se ejecuta de forma local en el equipo del usuario. Los usuarios no necesitan estar conectados a Internet todo el tiempo para usarlo.
+
+- 
+Puede usar muchas de las mismas herramientas para implementar y configurar Aplicaciones Microsoft 365 que ya usa para implementar Office. Por ejemplo, puede usar Microsoft Configuration Manager para implementar Aplicaciones Microsoft 365. Para obtener más información, vea Elegir cómo implementar.
+
+- 
+Además, puede usar muchas de las mismas configuraciones de directiva de grupo que usa con otras versiones de Office para configurar y aplicar Aplicaciones Microsoft 365 configuración del programa.
+
+Nota:
+
+Los dispositivos basados en arm requieren Windows 11 o versiones posteriores para ejecutar Aplicaciones Microsoft 365. La versión de 32 bits de Aplicaciones Microsoft 365 no se admite en estos dispositivos. Al instalar la versión de 64 bits en un dispositivo basado en Arm, incluye automáticamente los componentes optimizados para Arm, lo que mejora el rendimiento y garantiza la compatibilidad con la arquitectura de Arm.
+
+## ¿Qué hay de diferente en Aplicaciones Microsoft 365?
+
+Aunque Aplicaciones Microsoft 365 es muy similar a otras versiones de Office, hay diferencias, incluidas las diferencias de implementación y las diferencias de licencias.
+
+La diferencia más significativa es que Aplicaciones Microsoft 365 se actualiza periódicamente, con frecuencia como mensualmente, con nuevas características, a diferencia de las versiones que no son de suscripción de Office. Para obtener una lista de las nuevas características, consulte Novedades de Microsoft 365.
+
+### Diferencias de implementación
+
+- 
+De forma predeterminada, Aplicaciones Microsoft 365 se instala como un único paquete, lo que significa que todas las aplicaciones de Office están instaladas en el equipo del usuario. Sin embargo, puede configurar la implementación para excluir o quitar determinadas aplicaciones de Office, como Access, de los equipos cliente.
+
+- 
+Dado que Aplicaciones Microsoft 365 usa una tecnología de instalación diferente, denominada Hacer clic y ejecutar, hay una manera diferente de aplicar actualizaciones de software, como las actualizaciones de seguridad. De forma predeterminada, Aplicaciones Microsoft 365 está configurado para instalar automáticamente las actualizaciones de Office Content Delivery Network (CDN) en Internet. Sin embargo, puede configurar Aplicaciones Microsoft 365 para instalar actualizaciones desde una ubicación dentro de su propia red o puede administrar las actualizaciones para Aplicaciones Microsoft 365 con Microsoft Configuration Manager.
+
+- 
+Aplicaciones Microsoft 365 permite controlar la frecuencia con la que los usuarios reciben actualizaciones de características. Por ejemplo, los usuarios pueden obtener nuevas características para Aplicaciones Microsoft 365 tan pronto como estén listas, o una vez al mes (el segundo martes del mes) o dos veces al año (en enero y julio, el segundo martes). Para obtener más información, consulte Introducción a los canales de actualización para Aplicaciones Microsoft 365.
+
+- 
+Los usuarios pueden instalar Aplicaciones Microsoft 365 a través de Aplicaciones en Office.com seleccionando Instalar aplicaciones>Aplicaciones de Microsoft 365. Tenga en cuenta que los usuarios deben ser administradores locales en sus equipos para instalar Aplicaciones Microsoft 365. Si los usuarios no son administradores locales, debe instalar Aplicaciones Microsoft 365 para ellos. Si no quiere que los usuarios instalen las propias aplicaciones, puede evitarlo. Para obtener más información, vea Elegir cómo implementar.
+
+### Diferencias de licencia
+
+- 
+Los usuarios pueden instalar Aplicaciones Microsoft 365 en hasta cinco equipos diferentes con una sola licencia de Office 365. Por ejemplo, un usuario puede tener Aplicaciones Microsoft 365 instalados en un equipo de la oficina, en un portátil para usarlo cuando viaja y en un equipo doméstico. Los usuarios también pueden instalar en hasta cinco tabletas y cinco teléfonos.
+
+- 
+Aplicaciones Microsoft 365 se ofrece como suscripción. Si cancela la suscripción, Aplicaciones Microsoft 365 pasa al modo de funcionalidad reducida. En el modo de funcionalidad reducida, los usuarios pueden abrir y ver los archivos de Office existentes, pero los usuarios no pueden usar la mayoría de las demás características de Aplicaciones Microsoft 365. Para obtener más información, consulte Introducción a las licencias y la activación en Aplicaciones Microsoft 365.
+
+- 
+Para usar Aplicaciones Microsoft 365, un usuario debe tener una cuenta de Microsoft 365 y tener asignada una licencia. Si se quita la licencia o la cuenta del usuario, las instalaciones de Aplicaciones Microsoft 365 pasan al modo de funcionalidad reducida.
+
+- 
+Los usuarios no necesitan permanecer conectados a Internet para usar Aplicaciones Microsoft 365, pero deben conectarse al menos una vez cada 30 días para comprobar el estado de sus suscripciones de Microsoft 365. Si los usuarios no se conectan en un plazo de 30 días, Aplicaciones Microsoft 365 pasa al modo de funcionalidad reducida. Una vez que los usuarios se conectan a Internet y se comprueba su estado de suscripción, todas las características de Aplicaciones Microsoft 365 están disponibles de nuevo.
+
+## Más información sobre Aplicaciones Microsoft 365
+
+- 
+Puede usar Aplicaciones Microsoft 365 con versiones compatibles de Exchange Server o SharePoint Server instaladas localmente en su organización. O bien, si forman parte de su plan de Office 365 (o Microsoft 365), puede usar Aplicaciones Microsoft 365 con Exchange Online y SharePoint Online.
+
+- 
+Los usuarios pueden almacenar los archivos que crean con Aplicaciones Microsoft 365 en sus equipos locales o en otro lugar de la red, como un sitio de SharePoint. Office 365 (y Microsoft 365) también proporciona opciones de almacenamiento de archivos basadas en la nube.
+
+- 
+Aplicaciones Microsoft 365 no es lo mismo que las versiones web de las aplicaciones de Office. Las versiones web permiten a los usuarios abrir y trabajar con documentos de Word, Excel, PowerPoint o OneNote en un explorador web. Las versiones web de estas aplicaciones de Office se incluyen con todos los planes de Office 365 (y Microsoft 365).
+
+- 
+Para obtener más información sobre los servicios incluidos en Microsoft 365, consulte Descripciones de servicios de Microsoft 365 y Office 365.
+
+## Artículos relacionados
+
+- 
+ Guía de implementación de Aplicaciones de Microsoft 365
+
+- 
+ Comparar los planes de Office 365 para empresas
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-05-20

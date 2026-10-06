@@ -1,0 +1,33 @@
+URL: https://csrc.nist.gov/glossary/term/hash_function
+Leído: 2026-10-05
+
+Definitions:
+A function on bit strings in which the length of the output is fixed.
+Approved
+hash functions (such as those specified in FIPS 180 and FIPS 202) are designed to satisfy the following properties:
+1. (One-way) It is computationally infeasible to find any input that maps to any new pre-specified output
+2. (Collision-resistant) It is computationally infeasible to find any two distinct inputs that map to the same output.
+Sources:
+FIPS 186-5
+under Hash function
+A function on bit strings in which the length of the output is fixed. Approved hash functions (such as those specified in FIPS 180 and FIPS 202) are designed to satisfy the following properties:
+1. (One-way) It is computationally infeasible to find any input that maps to any new pre-specified output.
+2. (Collision-resistant) It is computationally infeasible to find any two distinct inputs that map to the same output.
+Sources:
+FIPS 203
+FIPS 204
+FIPS 205
+from
+FIPS 186-5
+A function that maps a bit string of arbitrary length to a fixed length bit string and is expected to have the following three properties:
+1) Collision resistance (see Collision resistance),
+2) Preimage resistance (see Preimage resistance) and
+3) Second preimage resistance (see Second preimage resistance).
+Approved cryptographic hash functions are specified in [FIPS 180-3].
+Sources:
+NIST SP 800-106
+under Cryptographic hash function
+A function that maps a bit string of arbitrary length to a fixed-length bit string. The function is expected to have the following three properties:
+1. Collision resistance (see Collision resistance),
+2. Preimage resistance (see Preimage resistance) and
+3. Second preimage resis

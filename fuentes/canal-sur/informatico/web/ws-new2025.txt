@@ -1,0 +1,629 @@
+URL: https://learn.microsoft.com/es-es/windows-server/get-started/whats-new-windows-server-2025
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Novedades de Windows Server 2025
+
+- Se aplica a: ✅ Windows Server 2025
+
+## 
+
+En este artículo se describen algunos de los desarrollos más recientes de Windows Server 2025, que cuenta con características avanzadas que mejoran la seguridad, el rendimiento y la flexibilidad. Con opciones de almacenamiento más rápidas y la capacidad de integrarse con entornos de nube híbrida, la administración de la infraestructura ahora es más simplificada. Windows Server 2025 se basa en la base sólida de su predecesor y presenta una gama de mejoras innovadoras para adaptarse a sus necesidades.
+
+## Experiencia de escritorio y actualización
+
+Explore las opciones de actualización y la experiencia de escritorio.
+
+### Actualización local desde Windows Server 2012 R2
+
+Con Windows Server 2025, puede actualizar hasta cuatro versiones a la vez. Puede actualizar directamente a Windows Server 2025 desde Windows Server 2012 R2 y versiones posteriores.
+
+### Pantalla de escritorio
+
+Al iniciar sesión por primera vez, la experiencia de escritorio se ajusta al estilo y la apariencia de Windows 11.
+
+### Bluetooth
+
+Ahora puede conectar ratones, teclados, auriculares, dispositivos de audio y mucho más a través de Bluetooth en Windows Server 2025.
+
+### DTrace
+
+Windows Server 2025 viene equipado con `dtrace` como herramienta nativa. DTrace es una utilidad de línea de comandos que permite a los usuarios supervisar y solucionar problemas de rendimiento de su sistema en tiempo real. Con DTrace, puede instrumentar dinámicamente el código del kernel y el espacio de usuario sin necesidad de modificar el propio código. Esta herramienta versátil admite varias técnicas de recopilación y análisis de datos, como agregaciones, histogramas y seguimiento de eventos de nivel de usuario. Para obtener más información, consulte DTrace para obtener ayuda de línea de comandos y DTrace en Windows para otras funcionalidades.
+
+### Correo electrónico y cuentas
+
+Ahora puede agregar los siguientes tipos de cuentas en Windows en Configuración en Cuentas>Correo electrónico y cuentas con Windows Server 2025:
+
+- Microsoft Entra ID
+
+- Cuenta Microsoft
+
+- Cuenta profesional o educativa
+
+La unión a un dominio sigue siendo necesaria para la mayoría de las situaciones.
+
+### Centro de opiniones
+
+Para enviar comentarios o notificar problemas que encuentre al usar Windows Server 2025, use el Centro de opiniones de Windows. Incluya capturas de pantalla o grabaciones del proceso que provocaron el problema para ayudarnos a comprender su situación y compartir sugerencias para mejorar la experiencia de Windows. Para obtener más información, visite Explorar el Centro de opiniones.
+
+### Compresión de archivos
+
+Windows Server 2025 tiene una nueva característica de compresión. Para comprimir un elemento, haga clic con el botón derecho y seleccione Comprimir para. Esta característica admite ZIP, 7zy formatos de compresión TAR con métodos de compresión específicos para cada uno.
+
+### Aplicaciones ancladas
+
+Ahora puede anclar sus aplicaciones más utilizadas en el menú Inicio y personalizarlo en función de lo que necesite. Las aplicaciones ancladas predeterminadas son actualmente:
+
+- Instalación de Azure Arc
+
+- Centro de opiniones
+
+- Explorador de archivos
+
+- Microsoft Edge
+
+- Administrador del servidor
+
+- Configuración
+
+- Terminal
+
+- Windows PowerShell
+
+### Administrador de tareas
+
+Windows Server 2025 usa la moderna aplicación del Administrador de tareas con material de Mica que se ajusta al estilo de Windows 11.
+
+### Wi-Fi
+
+Ahora es más fácil habilitar las funcionalidades inalámbricas porque la característica Servicio LAN inalámbrico ahora está instalada de forma predeterminada. El servicio de inicio inalámbrico se establece en manual. Para habilitarlo, ejecute `net start wlansvc` en el símbolo del sistema, Terminal Windows o PowerShell.
+
+### Terminal Windows
+
+La Terminal Windows, una aplicación multishell eficaz y eficaz para los usuarios de la línea de comandos, está disponible en Windows Server 2025. Busque Terminal en la barra de búsqueda.
+
+### WinGet
+
+WinGet se instala de forma predeterminada, que es una herramienta del Administrador de paquetes de Windows de línea de comandos que proporciona soluciones completas del administrador de paquetes para instalar aplicaciones en dispositivos Windows. Para obtener más información, consulte Usar la herramienta WinGet para instalar y administrar aplicaciones.
+
+## Seguridad avanzada de varias capas
+
+Obtenga información sobre la seguridad en Windows 2025.
+
+### Hotpatch (versión preliminar)
+
+Hotpatch ya está disponible para las máquinas de Windows Server 2025 conectadas a Azure Arc después de habilitar Hotpatch en el portal de Azure Arc. Puede usar Hotpatch para aplicar actualizaciones de seguridad del sistema operativo sin reiniciar la máquina. Para más información, consulte Hotpatch.
+
+Importante
+
+El hotpatch habilitado para Azure Arc está actualmente en versión preliminar. Consulte Términos de uso complementarios para las versiones preliminares de Microsoft Azure para conocer los términos legales que se aplican a las características de Azure que se encuentran en la versión beta, en versión preliminar o que todavía no se han publicado para que estén disponibles con carácter general.
+
+### Protección de Credenciales
+
+A partir de Windows Server 2025, Credential Guard está habilitado de forma predeterminada en los dispositivos que cumplen los requisitos. Para obtener más información sobre Credential Guard, consulte Configuración de Credential Guard.
+
+### Servicios de dominio de Active Directory
+
+Las últimas mejoras en los Active Directory Domain Services (AD DS) y Active Directory Lightweight Domain Services (AD LDS) presentan una gama de nuevas funcionalidades y funcionalidades destinadas a optimizar el sistema de administración de dominios:
+
+- 
+
+ Función opcional de tamaño de página de base de datos de 32k: Active Directory usa una base de datos del motor de almacenamiento extensible (ESE) desde que se incluyera en Windows 2000 que usa un tamaño de página de base de datos de 8k. La decisión de diseño arquitectónico de 8k dio lugar a limitaciones en Active Directory que figuran en la documentación Límites máximos de Active Directory: escalabilidad. Un ejemplo de esta limitación es un único objeto de Active Directory de registro, que no puede superar el tamaño de 8 k bytes. Pasar a un formato de página de base de datos de 32k ofrece una gran mejora en las áreas afectadas por las restricciones heredadas. Los atributos multivalor ahora pueden contener hasta aproximadamente 3200 valores, lo que supone un aumento en un factor de 2,6.
+
+Puede instalar nuevos controladores de dominio (DC) con una base de datos de páginas de 32k que usa ID de valor largo (LID) y se ejecuta en un modo de página de 8k para respetar la compatibilidad con versiones anteriores. Un controlador de dominio actualizado sigue usando su formato de base de datos actual y páginas de 8k. La migración a una base de datos de 32k páginas se realiza en todo el entorno forestal y requiere que todos los controladores de dominio del bosque tengan una base de datos compatible con 32k páginas.
+
+- 
+
+ actualizaciones del esquema de Active Directory: se introducen tres nuevos archivos de base de datos de registro que amplían el esquema de Active Directory: `sch89.ldf`, `sch90.ldf`y `sch91.ldf`. Las actualizaciones de esquema equivalentes de AD LDS se encuentran en `MS-ADAM-Upgrade3.ldf`. Para obtener más información sobre las actualizaciones de esquema anteriores, consulte actualizaciones de esquema de Windows Server Active Directory.
+
+- 
+
+ reparación de objetos de Active Directory: los administradores empresariales ahora pueden reparar objetos con los que faltan los atributos principales `SamAccountType` y `ObjectCategory`. Los administradores de empresa pueden restablecer el atributo `LastLogonTimeStamp` en un objeto a la hora actual. Estas operaciones se consiguen mediante una nueva función de operación de modificación de RootDSE en el objeto afectado denominada `fixupObjectState`.
+
+- 
+
+ Compatibilidad con auditoría de vinculación de canal: Ahora puede habilitar eventos 3074 y 3075 para vincular el canal del protocolo ligero de acceso a directorios (LDAP). Cuando la directiva de vinculación de canal se modifica para ser tener una configuración más segura, el administrador puede identificar los dispositivos del entorno que no admiten o no realizan correctamente las vinculaciones de canal. Estos eventos de auditoría también están disponibles en Windows Server 2022 y versiones posteriores con la actualización KB4520412.
+
+- 
+
+ Mejoras en el algoritmo de localización del controlador de dominio: El algoritmo de detección del DC aporta nuevas funcionalidades para la asignación de nombres de dominio de tipo NetBIOS cortos a nombres de dominio de tipo DNS. Para obtener más información, consulte Buscar controladores de dominio en Windows y Windows Server.
+
+Nota:
+
+Windows no usa mailslots durante las operaciones de detección de controlador de dominio, ya que Microsoft ha anunciado la retirada de WINS y mailslots para estas tecnologías antiguas.
+
+- 
+
+ Niveles funcionales de bosque y dominio: El nuevo nivel funcional sirve para la compatibilidad general y es necesario para la nueva función de tamaño de página de base de datos de 32k. El nuevo nivel funcional se asigna al valor de `DomainLevel 10` y `ForestLevel 10` en las instalaciones desasistidas. Microsoft no tiene planes para adaptar los niveles funcionales de Windows Server 2019 y Windows Server 2022. Para realizar una promoción desasistida y una degradación de un controlador de dominio (DC), consulte Sintaxis del archivo de respuesta DCPROMO para la promoción desasistida y la degradación de controladores de dominio.
+
+La API DsGetDcName de también admite el nuevo indicador `DS_DIRECTORY_SERVICE_13_REQUIRED` que habilita la búsqueda de controladores de dominio que funcionan en Windows Server 2025. Puede obtener más información sobre los niveles funcionales en los siguientes artículos:
+
+- 
+ Niveles funcionales de AD DS
+
+- 
+ Aumentar el nivel funcional de dominio
+
+- 
+ Aumentar el nivel funcional del bosque
+
+Nota:
+
+Los nuevos bosques de Active Directory o conjuntos de configuración de AD LDS deben tener un nivel funcional de Windows Server 2016 o posterior. La promoción de una réplica de Active Directory o AD LDS requiere que el dominio o conjunto de configuración existente ya se esté ejecutando con un nivel funcional de Windows Server 2016 o posterior.
+
+Microsoft recomienda que todos los clientes empiecen a planear ahora la actualización de sus servidores de Active Directory y AD LDS a Windows Server 2022 como preparación para la próxima versión.
+
+- 
+
+ Algoritmos mejorados para búsquedas de nombre/SID: El reenvío de búsquedas de nombre y SID de la autoridad de seguridad local (LSA) entre cuentas de equipo ya no utiliza el canal seguro Netlogon antiguo. En su lugar, se utilizan la autenticación Kerberos y el algoritmo DC Locator. Para mantener la compatibilidad con los sistemas operativos heredados, sigue siendo posible utilizar el canal seguro Netlogon como opción alternativa.
+
+- 
+
+ Seguridad mejorada para atributos confidenciales: los controladores de dominio y las instancias de AD LDS solo permiten a LDAP agregar, buscar y modificar operaciones que implican atributos confidenciales cuando se cifra la conexión.
+
+- 
+
+ seguridad mejorada para contraseñas de cuenta de máquina predeterminadas: Active Directory ahora usa contraseñas de cuenta de equipo predeterminadas que se generan aleatoriamente. Los DC de Windows 2025 bloquean la configuración de contraseñas de cuentas de equipo con la contraseña predeterminada del nombre de la cuenta de equipo.
+
+Para controlar este comportamiento, habilite el Objeto de Directiva de Grupo (GPO) Controlador de Dominio: Rechazar la configuración de la contraseña predeterminada de la cuenta de máquina ubicada en Configuración del equipo\Configuración de Windows\Configuración de seguridad\Directivas locales\Opciones de seguridad.
+
+Utilidades como el Centro de administración de Active Directory (ADAC), usuarios y equipos de Active Directory (ADUC), `net computer`y `dsmod` también respetan este nuevo comportamiento. Tanto ADAC como ADUC ya no permiten la creación de una cuenta anterior a Windows 2000.
+
+- 
+
+ Soporte para PKINIT de Kerberos para la agilidad criptográfica: La implementación del protocolo Kerberos de Criptografía de Clave Pública para Autenticación Inicial (PKINIT) se actualiza para permitir la agilidad criptográfica al admitir más algoritmos y eliminar algoritmos definidos de forma fija.
+
+- 
+
+ Cambios de Kerberos en los algoritmos usados en los tickets de concesión de tickets: El Centro de distribución de Kerberos ya no emitirá tickets de concesión de tickets de incidencias mediante el cifrado RC4, como RC4-HMAC(NT).
+
+- 
+
+ Cambios de Kerberos para la configuración de tipo de cifrado compatible: Kerberos ya no respeta la clave del Registro heredada REG_DWORD `SupportedEncryptionTypes` que se encuentra en la ruta de acceso `HKEY_LOCAL_MACHINE\CurrentControlSet\Control\Lsa\Kerberos\Parameters`, Microsoft recomienda usar la directiva de grupo en su lugar. Para obtener más información sobre la configuración de directiva de grupo, consulte Seguridad de red : Configuración de tipos de cifrado permitidos para Kerberos.
+
+- 
+
+ Opción de GPO de administrador de LAN: La opción de configuración de GPO Seguridad de red: No guardar el valor hash del administrador de LAN en el próximo cambio de contraseña ya no está presente ni se aplica en las nuevas versiones de Windows.
+
+- 
+
+ Cifrado LDAP de forma predeterminada: todas las nuevas implementaciones de Active Directory requieren la firma LDAP (sellado) de forma predeterminada para toda la comunicación del cliente LDAP después de un enlace de capa de autenticación y seguridad simple (SASL). Para más información sobre el comportamiento de firma, consulte Firma LDAP para Active Directory Domain Services.
+
+- 
+
+ compatibilidad con LDAP para la seguridad de la capa de transporte (TLS) 1.3: LDAP usa la implementación más reciente de SCHANNEL y admite TLS 1.3 para LDAP a través de conexiones TLS. El uso de TLS 1.3 elimina los algoritmos criptográficos obsoletos y mejora la seguridad en las versiones anteriores. TLS 1.3 tiene como objetivo cifrar tanto el protocolo de enlace como sea posible. Para obtener más información, consulte Protocolos en TLS/SSL (Schannel SSP) y Conjuntos de cifrado TLS en Windows Server 2022.
+
+- 
+
+ Comportamiento del cambio de contraseña mediante llamada a procedimiento remoto (RPC) del Administrador de Cuentas de Seguridad heredado (SAM): Los protocolos seguros como Kerberos son la manera preferida de cambiar las contraseñas de usuario del dominio. En los controladores de dominio, el método de cambio de contraseña RPC de SAM más reciente SamrUnicodeChangePasswordUser4 mediante el Estándar de cifrado avanzado (AES) se acepta de forma predeterminada cuando se llama de forma remota. Los siguientes métodos RPC de SAM heredados se bloquean de forma predeterminada cuando se les llama de forma remota:
+
+- 
+ SamrChangePasswordUser
+
+- 
+ SamrOemChangePasswordUser2
+
+- 
+ SamrUnicodeChangePasswordUser2
+
+Para los usuarios de dominio que son miembros del grupo de usuarios protegidos de y para las cuentas locales en equipos miembros del dominio, todos los cambios de contraseña remota a través de la interfaz RPC de SAM heredada se bloquean de forma predeterminada, incluida `SamrUnicodeChangePasswordUser4`.
+
+Para controlar este comportamiento, use la siguiente configuración de GPO:
+
+ Configuración del equipo>Plantillas administrativas>System>Administrador de cuentas de seguridad>Configurar la directiva de métodos RPC de cambio de contraseña de SAM
+
+- 
+
+ Compatibilidad con Acceso no uniforme a memoria (NUMA): AD DS ahora hace uso del hardware compatible con el acceso no uniforme a memoria (NUMA) mediante las CPU en todos los grupos de procesadores. Anteriormente, Active Directory solo usaría CPU en el grupo 0. Active Directory puede expandirse más de 64 núcleos.
+
+- 
+
+ Contadores de rendimiento: La monitorización y solución de problemas del rendimiento de estos contadores ahora está disponible:
+
+- 
+ Localizador de DC: Hay disponibles contadores específicos para clientes y controladores de dominio.
+
+- 
+ Búsquedas de LSA: Búsquedas de nombres y SID a través de los `LsaLookupNames`, `LsaLookupSids` y API equivalentes. Estos contadores están disponibles en las versiones de cliente y servidor.
+
+- 
+ cliente LDAP: Disponible en Windows Server 2022 y versiones posteriores a través de la actualización KB 5029250.
+
+- 
+
+ Orden de prioridad de replicación: Ahora los administradores pueden aumentar la prioridad de replicación calculada por el sistema con un partner de replicación determinado para un contexto de nomenclatura determinado. Esta característica permite una mayor flexibilidad en la configuración del pedido de replicación para abordar escenarios específicos.
+
+#### Cuenta de servicios gestionados delegada
+
+Este nuevo tipo de cuenta permite la migración de una cuenta de servicio a una Cuenta de servicios gestionados delegada (dMSA). Este tipo de cuenta incluye claves administradas y completamente aleatorias para garantizar cambios mínimos en la aplicación mientras se deshabilitan las contraseñas originales de la cuenta de servicio. Para obtener más información, consulte Información general sobre las cuentas de servicio administradas delegadas.
+
+### Solución de contraseña de administrador local de Windows
+
+La solución de contraseñas de administrador local de Windows (LAPS) ayuda a las organizaciones a administrar contraseñas de administrador local en sus equipos unidos a un dominio. Genera automáticamente contraseñas únicas para la cuenta de administrador local de cada equipo. A continuación, los almacena de forma segura en Active Directory y los actualiza periódicamente. Las contraseñas generadas automáticamente ayudan a mejorar la seguridad. Reducen el riesgo de que los atacantes obtengan acceso a sistemas confidenciales mediante contraseñas comprometidas o fácilmente adivinables.
+
+Varias características nuevas de Microsoft LAPS presentan las siguientes mejoras:
+
+- 
+
+ Nueva administración automática de cuentas: los administradores de TI ahora pueden crear una cuenta local administrada con facilidad. Con esta característica, puede personalizar el nombre de la cuenta y habilitar o deshabilitar la cuenta. Incluso puede aleatorizar el nombre de la cuenta para mejorar la seguridad. La actualización también incluye una integración mejorada con las directivas de administración de cuentas locales existentes de Microsoft. Para obtener más información sobre esta característica, consulte Modos de administración de cuentas LAPS de Windows.
+
+- 
+
+ Nueva detección de reversión de imágenes: Windows LAPS ahora detecta cuándo se produce una reversión de imágenes. Si se produce una reversión, es posible que la contraseña almacenada en Active Directory ya no coincida con la contraseña almacenada localmente en el dispositivo. Las reversiones pueden dar lugar a un estado desactivado. En este caso, el administrador de TI no puede iniciar sesión en el dispositivo utilizando la contraseña persistente de Windows LAPS.
+
+Para solucionar este problema, se agregó una nueva característica que incluye un atributo de Active Directory denominado `msLAPS-CurrentPasswordVersion`. Este atributo contiene un identificador único global aleatorio (GUID) escrito por Windows LAPS cada vez que se conserva una nueva contraseña en Active Directory y se guarda localmente. Durante cada ciclo de procesamiento, el GUID almacenado en `msLAPS-CurrentPasswordVersion` se consulta y se compara con la copia persistente localmente. Si son diferentes, la contraseña se cambia inmediatamente.
+
+Para habilitar esta característica, ejecute la versión más reciente del cmdlet `Update-LapsADSchema`. A continuación, Windows LAPS reconoce el nuevo atributo y comienza a usarlo. Si no ejecuta la versión actualizada del cmdlet `Update-LapsADSchema`, Windows LAPS registra un evento de advertencia 10108 en el registro de eventos, pero sigue funcionando normalmente en todos los demás aspectos.
+
+No se usa ninguna configuración de directiva para habilitar o configurar esta característica. La característica siempre está habilitada después de agregar el nuevo atributo de esquema.
+
+- 
+
+ Nueva frase de contraseña: los administradores de TI ahora pueden usar una nueva característica en Windows LAPS que permite la generación de frases de contraseña menos complejas. Un ejemplo es una frase de contraseña como EatYummyCaramelCandy. Esta frase es más fácil de leer, recordar y escribir en comparación con una contraseña tradicional, como V3r_b4tim#963?.
+
+Con esta nueva característica, puede configurar la configuración de directiva de `PasswordComplexity` para seleccionar una de las tres listas de palabras diferentes para las frases de contraseña. Todas las listas se incluyen en Windows y no requieren una descarga independiente. Una nueva configuración de directiva denominada `PassphraseLength` controla el número de palabras usadas en la frase de contraseña.
+
+Al crear una frase de contraseña, el número especificado de palabras se selecciona aleatoriamente de la lista de palabras elegida y se concatena. La primera letra de cada palabra se escribe en mayúscula para mejorar la legibilidad. Esta característica también admite completamente la copia de seguridad de contraseñas en Active Directory o microsoft Entra ID.
+
+Las listas de palabras para frases de contraseña usadas en las tres nuevas configuraciones de frase de contraseña `PasswordComplexity` se obtienen del artículo de la Electronic Frontier Foundation Deep Dive: Las Nuevas Listas de Palabras de EFF para Frases de Contraseña Aleatorias. Las Listas de palabras clave de Windows LAPS se rigen por la licencia de atribución CC-BY-3.0 y pueden descargarse.
+
+Nota:
+
+Windows LAPS no permite la personalización de las listas de palabras integradas ni el uso de listas de palabras configuradas por el cliente.
+
+- 
+
+ diccionario de contraseñas de legibilidad mejorada: Windows LAPS presenta una nueva configuración de `PasswordComplexity` que permite a los administradores de TI crear contraseñas menos complejas. Puede usar esta característica para personalizar LAPS para usar las cuatro categorías de caracteres (letras mayúsculas, minúsculas, números y caracteres especiales), como la configuración de complejidad existente de `4`. Con la nueva configuración de `5`, se excluyen los caracteres más complejos para mejorar la legibilidad de las contraseñas y minimizar la confusión. Por ejemplo, el número 1 y la letra I nunca se usan con la nueva configuración.
+
+Cuando `PasswordComplexity` está configurado para `5`, se realizan los siguientes cambios en el juego de caracteres de diccionario de contraseñas predeterminado:
+
+- 
+ No se pueden usar: Las letras I, O, Q, l, o
+
+- 
+ No se pueden usar: Los números 0, 1
+
+- 
+ No usar: Los caracteres especiales ,, ., &, {, }, [, ], (, ), ;
+
+- 
+ Sí se pueden usar: Los caracteres especiales :, =, ?, *
+
+El complemento ADUC (a través de Microsoft Management Console) ahora incluye una pestaña LAPS de Windows mejorada. La contraseña de Windows LAPS ahora aparece en una nueva fuente que mejora su legibilidad cuando aparece en texto sin formato.
+
+- 
+
+ Compatibilidad con acciones posteriores a la autenticación para finalizar procesos específicos: Se ha incorporado una nueva opción a la configuración de directivas de grupo de las acciones posteriores a la autenticación (PAA), `Reset the password, sign out the managed account, and terminate any remaining processes`, que se encuentra en Configuración de equipo>Plantillas administrativas>Sistema>LAPS>Acciones posteriores a la autenticación.
+
+Esta nueva opción es una extensión de la opción anterior, `Reset the password and log off the managed account`. Después de la configuración, la PAA notifica y finaliza las sesiones de inicio de sesión interactivas. Enumera y finaliza los procesos restantes que todavía se ejecutan en la identidad de la cuenta local administrada por Windows LAPS. Ninguna notificación precede a esta terminación.
+
+La expansión de los eventos de registro durante la ejecución de PAA da información más detallada sobre el funcionamiento.
+
+Para obtener más información sobre Windows LAPS, consulte ¿Qué es Windows LAPS?
+
+### OpenSSH
+
+En versiones anteriores de Windows Server, la herramienta de conectividad openSSH requería la instalación manual antes de usarla. El componente del lado servidor OpenSSH se instala de forma predeterminada en Windows Server 2025. La interfaz de usuario de Administrador del servidor también incluye una opción de un solo paso en Acceso SSH remoto que habilita o deshabilita el `sshd.exe` servicio. Además, puede agregar usuarios al grupo Usuarios de OpenSSH para permitir o restringir el acceso a los dispositivos. Para obtener más información, consulte Información general de OpenSSH para Windows.
+
+### Línea base de seguridad
+
+Al implementar una línea base de seguridad personalizada, puede establecer medidas de seguridad directamente desde el principio para el rol de dispositivo o máquina virtual en función de la posición de seguridad recomendada. Esta línea de base viene equipada con más de 350 configuraciones de seguridad preconfiguradas de Windows. Puede usar la configuración para aplicar e imponer configuraciones de seguridad específicas que se alineen con las prácticas recomendadas por Microsoft y los estándares del sector. Para obtener más información, consulte Información general sobre OSConfig.
+
+### Enclaves de seguridad basados en virtualización
+
+Un enclave de seguridad basado en virtualización (VBS) es un entorno de ejecución de confianza basado en software dentro del espacio de direcciones de una aplicación host. Los enclaves VBS utilizan la tecnología VBS subyacente para aislar la parte confidencial de una aplicación en una partición segura de memoria. Los enclaves de VBS permiten el aislamiento de cargas de trabajo confidenciales tanto de la aplicación de host como del resto del sistema.
+
+Los enclaves VBS permiten a las aplicaciones proteger sus secretos evitando la necesidad de confiar en los administradores y reforzando la protección contra atacantes malintencionados. Para obtener más información, lea la referencia de Win32 de enclaves VBS.
+
+### Protección de claves de seguridad basada en virtualización
+
+La protección de claves vbS permite a los desarrolladores de Windows proteger las claves criptográficas mediante VBS. VBS usa la funcionalidad de extensión de virtualización de la CPU para crear un entorno de ejecución aislado fuera del sistema operativo normal.
+
+Cuando se usan, las claves de VBS están aisladas en un proceso seguro. Las operaciones clave pueden realizarse sin exponer el material de clave privada fuera de este espacio. En reposo, la clave de TPM cifra el material de clave privada que vincula las claves de VBS con el dispositivo. Las claves protegidas de esta manera no se pueden volcar desde la memoria del proceso ni exportarse como texto sin formato a través de la máquina de un usuario.
+
+La protección de claves vbS ayuda a evitar ataques de filtración por cualquier atacante de nivel de administrador. VBS debe estar habilitado para usar la protección de claves. Para obtener información sobre cómo habilitar VBS, vea Habilitación de la integridad de memoria.
+
+### Conectividad protegida
+
+En las secciones siguientes se describe la seguridad de las conexiones.
+
+#### Administración segura de certificados
+
+La búsqueda o recuperación de certificados en Windows ahora admite hash SHA-256, como se describe en las funciones CertFindCertificateInStore y CertGetCertificateContextProperty. La autenticación del servidor TLS es más segura en Windows y ahora requiere una longitud mínima de clave RSA de 2048 bits. Para obtener más información, consulte Autenticación de servidor TLS: desuso de certificados RSA no seguros.
+
+#### SMB sobre QUIC
+
+La función de servidor SMB sobre QUIC solo estaba disponible en Windows Server Azure Edition, ahora está disponible en las versiones Windows Server Standard y Windows Server Datacenter. SMB sobre QUIC añade las ventajas de QUIC, que proporciona conexiones cifradas y de baja latencia a través de Internet.
+
+Directiva de habilitación de SMB a través de QUIC
+
+Los administradores pueden deshabilitar el SMB a través del cliente QUIC por medio de la directiva de grupo y PowerShell. Para deshabilitar SMB a través de QUIC mediante la directiva de grupo, cambie la opción de la directiva Habilitar SMB a través de QUIC en las siguientes rutas de acceso a Deshabilitada:
+
+- 
+ Configuración del equipo\Plantillas administrativas\Network\Lanman Workstation
+
+- 
+ Configuración del equipo\Plantillas administrativas\Red\Servidor Lanman
+
+Para deshabilitar SMB a través de QUIC mediante PowerShell, ejecute este comando en una ventana de PowerShell con privilegios elevados:
+
+`Set-SmbClientConfiguration -EnableSMBQUIC $false
+`
+
+Auditoría de firma y cifrado de SMB
+
+Los administradores pueden habilitar la auditoría del servidor y el cliente SMB para admitir la firma y el cifrado de SMB. Si un cliente o servidor que no es de Microsoft no es compatible con el cifrado o la firma de SMB, se puede detectar. Cuando un dispositivo o software que no es de Microsoft indica que admite SMB 3.1.1, pero no admite la firma de SMB, infringe el requisito del protocolo de integridad de autenticación previa de SMB 3.1.1.
+
+Puede configurar las opciones de auditoría de firma y cifrado de SMB mediante la directiva de grupo o PowerShell. Puede cambiar estas directivas en las siguientes rutas de acceso de directiva de grupo:
+
+- 
+ Configuración del equipo\Plantillas administrativas\Red\Servidor Lanman\El cliente de auditoría no admite el cifrado
+
+- 
+ Configuración del equipo\Plantillas administrativas\Red\Servidor Lanman\El cliente de auditoría no admite la firma
+
+- 
+ Configuración del equipo\Plantillas administrativas\Red\Estación de trabajo Lanman\El servidor de auditoría no admite el cifrado
+
+- 
+ Configuración del equipo\Plantillas administrativas\Red\Estación de trabajo Lanman\El servidor de auditoría no admite la firma
+
+Para realizar estos cambios mediante PowerShell, ejecute estos comandos en un símbolo del sistema con privilegios elevados, donde `$true` sirve para habilitar y `$false` sirve para deshabilitar esta configuración:
+
+`Set-SmbServerConfiguration -AuditClientDoesNotSupportEncryption $true
+Set-SmbServerConfiguration -AuditClientDoesNotSupportSigning $true
+
+Set-SmbClientConfiguration -AuditServerDoesNotSupportEncryption $true
+Set-SmbClientConfiguration -AuditServerDoesNotSupportSigning $true
+`
+
+Los registros de eventos de estos cambios se almacenan en las siguientes rutas de acceso del Visor de eventos con su identificador de evento específico.
+
+ | Camino
+
+ | Id. del evento
+
+ | Registros de aplicaciones y servicios\Microsoft\Windows\SMBClient\Audit
+
+ | 31998 
+ 31999
+
+ | Registros de aplicaciones y servicios\Microsoft\Windows\SMBServer\Audit
+
+ | 3021 
+ 3022
+
+Auditoría de SMB a través de QUIC
+
+La auditoría de conexión del cliente SMB a través QUIC captura eventos escritos en un registro de eventos para incluir el transporte QUIC en el Visor de eventos. Estos registros se almacenan en las siguientes rutas de acceso con su identificador de evento específico.
+
+ | Camino
+
+ | Id. del evento
+
+ | Registros de aplicaciones y servicios\Microsoft\Windows\SMBClient\Conectividad
+
+ | 30832
+
+ | Registros de aplicaciones y servicios\Microsoft\Windows\SMBServer\Conectividad
+
+ | 1913
+
+Control de acceso de clientes SMB sobre QUIC
+
+Windows Server 2025 incluye el control de acceso de cliente para SMB a través de QUIC. SMB a través de QUIC es una alternativa a TCP y RDMA que proporciona conectividad segura a los servidores de archivos perimetrales a través de redes que no son de confianza. El control de acceso de cliente presenta más controles para restringir el acceso a los datos mediante certificados. Para obtener más información, consulte Funcionamiento del control de acceso de cliente.
+
+#### Puertos alternativos SMB
+
+Puede usar el cliente SMB para conectarse a puertos TCP, QUIC y RDMA alternativos en lugar de sus valores predeterminados IANA/IETF de 445, 5445 y 443. Puede configurar puertos alternativos a través de la directiva de grupo o PowerShell. Anteriormente, el servidor SMB de Windows obligaba a las conexiones entrantes a usar el puerto registrado por IANA TCP/445, mientras que el cliente TCP SMB solo permitía conexiones salientes a ese mismo puerto TCP. Ahora, SMB sobre QUIC permite puertos alternativos SMB en los que los puertos UDP/443 obligatorios de QUIC están disponibles para dispositivos cliente y servidor. Para obtener más información, consulte Configuración de puertos SMB alternativos.
+
+#### Endurecimiento de reglas de firewall de SMB
+
+Anteriormente, cuando se creaba un recurso compartido, las reglas de firewall de SMB se configuraban automáticamente para habilitar el grupo Uso compartido de archivos e impresoras para los perfiles de firewall correspondientes. Ahora, la creación de un recurso compartido SMB en Windows da como resultado la configuración automática del nuevo grupo Uso compartido de archivos e impresoras (restrictivo), que ya no permite los puertos NetBIOS entrantes 137-139. Para obtener más información, consulte Reglas de firewall actualizadas.
+
+#### Cifrado SMB
+
+ Imponer el cifrado SMB está habilitado para todas las conexiones de cliente SMB salientes. Con esta actualización, los administradores pueden establecer un mandato para que todos los servidores de destino admitan SMB 3.x y cifrado. Si un servidor carece de estas funcionalidades, el cliente no puede establecer una conexión.
+
+#### Limitador de velocidad de autenticación SMB
+
+El limitador de velocidad de autenticación SMB limita el número de intentos de autenticación dentro de un período de tiempo determinado. El limitador de velocidad de autenticación SMB ayuda a combatir los ataques de autenticación por fuerza bruta. El servicio para el servidor SMB usa el limitador de velocidad de autenticación para implementar un retraso entre cada intento fallido de autenticación basado en NTLM o PKU2U. El servicio está habilitado de forma predeterminada. Para más información, consulte Funcionamiento del limitador de velocidad de autenticación SMB.
+
+#### Deshabilitar inicio de sesión único de SMB
+
+A partir de Windows Server 2025, el cliente SMB admite el bloqueo NTLM para las conexiones salientes remotas. Anteriormente, el Mecanismo de negociación de GSSAPI simple y protegido de Windows (SPNEGO) negociaba Kerberos, NTLM y otros mecanismos con el servidor de destino para determinar un paquete de seguridad admitido. Para más información, consulte Bloquear conexiones NTLM en SMB.
+
+#### Control de dialectos SMB
+
+Ahora puede administrar dialectos SMB en Windows. Cuando se configura, el servidor SMB determina qué dialectos SMB 2 y SMB 3 negocia en comparación con el comportamiento anterior y coincide solo con el dialecto más alto.
+
+#### Firma SMB
+
+La firma de SMB ahora es necesaria de forma predeterminada para todas las conexiones salientes de SMB. Anteriormente, solo era necesario cuando te conectabas a los recursos compartidos denominados SYSVOL y NETLOGON en los controladores de dominio de Active Directory. Para obtener más información, consulte Funcionamiento de la firma.
+
+#### Mailslot remoto
+
+El protocolo Mailslot remoto está deshabilitado de forma predeterminada para SMB y para el uso del protocolo dc Locator con Active Directory. Es posible que Mailslot remoto se quite en una versión posterior. Para obtener más información, consulta Características eliminadas o ya no desarrolladas en Windows Server.
+
+#### Protección de servicios de enrutamiento y acceso remoto
+
+De forma predeterminada, las nuevas instalaciones de servicios de enrutamiento y acceso remoto (RRAS) no aceptan conexiones VPN basadas en PPTP y L2TP. Todavía puede habilitar estos protocolos, si es necesario. Las conexiones VPN basadas en SSTP y IKEv2 se siguen aceptando sin ningún cambio.
+
+Las configuraciones existentes conservan su comportamiento. Por ejemplo, si ejecuta Windows Server 2019 y acepta conexiones PPTP y L2TP, y actualiza a Windows Server 2025 mediante una actualización local, se siguen aceptando conexiones basadas en L2TP y PPTP. Este cambio no afecta a los sistemas operativos cliente windows. Para obtener más información sobre cómo volver a habilitar PPTP y L2TP, consulte Configuración de protocolos VPN.
+
+### Cambio del protocolo de clave predeterminado de IPsec
+
+Los módulos de clave predeterminados se han cambiado a IKEv1 e IKEv2 para las conexiones IPsec autenticadas con certificados de máquina. Para otros métodos de autenticación, el AuthIP y IKEv1 predeterminados permanecen. Esto se aplica a los clientes de Windows Server 2025 y Windows 11 24H2. En la ruta de acceso del Registro `HKLM:\SYSTEM\CurrentControlSet\Services\MpsSvc\Parameters`, la entrada `IpsecRestoreLegacyKeyMod` con un valor de 0 utiliza la nueva secuencia, IKEv2 y IKEv1. Un valor de 1 utiliza la secuencia anterior, AuthIP y IKEv1. Para revertir al comportamiento anterior, agregue la siguiente clave del Registro en los sistemas mediante la nueva secuencia de protocolo de creación de claves predeterminada. Se requiere un reinicio para que los cambios surtan efecto.
+
+`New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\MpsSvc\Parameters" -Name "IpsecRestoreLegacyKeyMod" -PropertyType "DWORD" -Value 1
+`
+
+## Hyper-V, IA y rendimiento
+
+En las secciones siguientes se describe Hyper-V, IA y rendimiento.
+
+### Redes aceleradas (versión preliminar)
+
+Accelerated Networking (AccelNet) simplifica la administración de virtualización de E/S raíz única (SR-IOV) para máquinas virtuales hospedadas en clústeres de Windows Server 2025. Esta característica usa la ruta de acceso de datos SR-IOV de alto rendimiento para reducir la latencia, la vibración y el uso de la CPU. AccelNet también incluye una capa de administración que controla la comprobación de requisitos previos, la configuración del host y la configuración de rendimiento de la máquina virtual. Para más información, consulte Accelerated Networking (versión preliminar).
+
+### Compatibilidad con procesadores dinámicos
+
+El modo de compatibilidad dinámica del procesador se actualiza para aprovechar las nuevas funcionalidades del procesador en un entorno agrupado. La compatibilidad dinámica del procesador usa el número máximo de características de procesador disponibles en todos los servidores de un clúster. El modo mejora el rendimiento en comparación con la versión anterior de compatibilidad del procesador.
+
+También puede usar la compatibilidad dinámica del procesador para guardar su estado entre hosts de virtualización que usan diferentes generaciones de procesadores. El modo de compatibilidad del procesador ahora proporciona funcionalidades dinámicas mejoradas en procesadores capaces de traducción de direcciones de segundo nivel. Para obtener más información sobre el modo de compatibilidad actualizado, consulte Compatibilidad del procesador para Hyper-V máquinas virtuales.
+
+### Administrador de Hyper-V
+
+Cuando cree una nueva máquina virtual a través del Administrador de Hyper-V, Generación 2 ahora se activa como opción predeterminada en el Asistente para nueva máquina virtual.
+
+### Traducción de paginación forzada por hipervisor
+
+La traducción de páginas impuesta por el hipervisor (HVPT) es una mejora de seguridad que aplica la integridad de las traducciones de direcciones lineales. HVPT protege los datos críticos del sistema frente a ataques de escritura arbitraria, donde el atacante escribe un valor arbitrario en una ubicación arbitraria, a menudo como resultado de un desbordamiento de memoria. HVPT protege las tablas de páginas que configuran estructuras de datos críticas del sistema. HVPT incluye todo lo que ya está protegido con integridad de código protegida por hipervisor (HVCI). HVPT está habilitado de forma predeterminada, donde la compatibilidad con hardware está disponible. HVPT no está habilitado cuando Windows Server se ejecuta como invitado en una máquina virtual.
+
+### Creación de particiones de GPU
+
+Puede compartir un dispositivo de GPU físico con varias máquinas virtuales mediante la creación de particiones de GPU. En lugar de asignar toda la GPU a una sola máquina virtual, la creación de particiones de GPU (GPU-P) asigna fracciones dedicadas de la GPU a cada máquina virtual. Con la alta disponibilidad de Hyper-V GPU-P, una máquina virtual de GPU-P se habilita automáticamente en otro nodo del clúster si hay tiempo de inactividad no previsto.
+
+La migración en vivo de GPU-P proporciona una solución para mover una máquina virtual (para tiempos de inactividad planeados o equilibrio de carga) con GPU-P a otro nodo, ya sea independiente o en clúster. Para más información sobre la creación de particiones de GPU, consulte Creación de particiones de GPU.
+
+### Network ATC
+
+Network ATC simplifica la implementación y administración de configuraciones de red para clústeres de Windows Server 2025. Network ATC usa un enfoque basado en intenciones, donde los usuarios especifican sus intenciones deseadas, como la administración, el proceso o el almacenamiento de un adaptador de red. La implementación se automatiza en función de la configuración prevista.
+
+Este enfoque reduce el tiempo, la complejidad y los errores asociados a la implementación de redes de host. Garantiza la coherencia de configuración en el clúster y también elimina el desfase de configuración. Para más información, consulte Implementación de redes de host con Network ATC.
+
+### Escalabilidad
+
+Con Windows Server 2025, Hyper-V ahora admite hasta 4 petabytes de memoria y 2048 procesadores lógicos por host. Este aumento permite una mayor escalabilidad y rendimiento para cargas de trabajo virtualizadas.
+
+Windows Server 2025 también admite hasta 240 TB de memoria y 2048 procesadores virtuales de generación 2, lo que proporciona una mayor flexibilidad para ejecutar cargas de trabajo grandes. Para obtener más información, consulte Planear la escalabilidad de Hyper-V en Windows Server.
+
+### Clústeres de grupo de trabajo
+
+Los clústeres de grupos de trabajo de Hyper-V son un tipo especial de clúster de recuperación antes errores de Windows Server, donde los nodos de clúster de Hyper-V no son miembros de un dominio de Active Directory, pero tienen la capacidad de migrar activamente en máquinas virtuales dentro de un clúster de grupo de trabajo.
+
+## Almacenamiento
+
+En las secciones siguientes se describen las actualizaciones de almacenamiento.
+
+### Compatibilidad con la clonación de bloques
+
+Dev Drive ahora admite la clonación de bloques a partir de Windows 11 24H2 y Windows Server 2025. Dado que Dev Drive utiliza el formato del sistema de archivos Resiliente (ReFS), la compatibilidad con la clonación de bloques ofrece significativas ventajas de rendimiento al copiar archivos. Con la clonación de bloques, el sistema de archivos puede copiar un intervalo de bytes de archivo para una aplicación como una operación de metadatos de bajo costo en lugar de realizar operaciones costosas de lectura y escritura en los datos físicos subyacentes.
+
+El resultado es una finalización más rápida de la copia de archivos, una E/S reducida al almacenamiento subyacente y una capacidad de almacenamiento mejorada al permitir que varios archivos compartan los mismos clústeres lógicos. Para obtener más información, consulte Clonación de bloques en ReFS.
+
+### Unidad de desarrollo
+
+Dev Drive es un volumen de almacenamiento diseñado para mejorar el rendimiento de las cargas de trabajo cruciales para desarrolladores. Dev Drive usa la tecnología ReFS e incorpora optimizaciones específicas del sistema de archivos para ofrecer un mayor control sobre la configuración y seguridad del volumen de almacenamiento. Los administradores ahora tienen la capacidad de designar confianza, configurar la configuración del antivirus y ejercer el control administrativo sobre los filtros adjuntos. Para obtener más información, consulte Configuración de una unidad de desarrollo en Windows 11.
+
+### NVMe
+
+NVMe es un nuevo estándar para unidades de estado sólido rápidas. El rendimiento del almacenamiento NVMe está optimizado en Windows Server 2025. El resultado mejora el rendimiento con un aumento en las IOPS y una disminución en el uso de la CPU.
+
+### Compresión de réplica de almacenamiento
+
+La compresión de réplica de almacenamiento reduce la cantidad de datos transferidos a través de la red durante la replicación. Para obtener más información sobre la compresión en réplica de almacenamiento, consulte Introducción sobre Réplica de almacenamiento.
+
+### Registro mejorado de réplica de almacenamiento
+
+El registro mejorado de Réplica de almacenamiento permite la implementación de registros para eliminar los costes de rendimiento relacionados con las abstracciones del sistema de archivos. Se ha mejorado el rendimiento de la replicación de bloques. Para saber más, consulta Registro mejorado de Storage Replica.
+
+### Desduplicación y compresión de almacenamiento nativo de ReFS
+
+La desduplicación y compresión de almacenamiento nativo de ReFS son técnicas que se usan para optimizar la eficacia del almacenamiento para cargas de trabajo estáticas y activas, como servidores de archivos o escritorios virtuales. Para más información sobre la desduplicación y compresión de ReFS, consulte Optimizar el almacenamiento con desduplicación y compresión de ReFS en Azure Local.
+
+### Volúmenes aprovisionados finos
+
+Los volúmenes aprovisionados finos con Espacios de almacenamiento directo son una forma de asignar recursos de almacenamiento de manera más eficiente y evitar sobreasignaciones costosas, asignando por medio del grupo solo cuando sea necesario en un clúster. También puede convertir volúmenes fijos a volúmenes aprovisionados finos. Al convertir volúmenes fijos a volúmenes aprovisionados fino, se devuelve cualquier almacenamiento sin usar al grupo para que otros volúmenes lo puedan aprovechar. Para más información sobre los volúmenes con aprovisionamiento fino, consulte Aprovisionamiento fino de almacenamiento.
+
+### Bloque de mensajes del servidor
+
+El bloque de mensajes del servidor (SMB) es uno de los protocolos más usados en las redes. SMB proporciona una manera confiable de compartir archivos y otros recursos entre dispositivos de la red. Windows Server 2025 incluye compatibilidad con compresión SMB para el algoritmo de compresión LZ4 estándar del sector. LZ4 es una adición a la compatibilidad existente de SMB con XPRESS (LZ77), XPRESS Huffman (LZ77+Huffman), LZNT1 y PATTERN_V1.
+
+## Azure Arc e híbrido
+
+En las secciones siguientes se describen las configuraciones híbridas y azure Arc.
+
+### Configuración simplificada de Azure Arc
+
+El programa de instalación de Azure Arc es una característica a petición, por lo que se instala de forma predeterminada. Una interfaz de asistente fácil de usar y un icono de bandeja del sistema en la barra de tareas ayudan a facilitar el proceso de agregar servidores a Azure Arc. Azure Arc amplía las funcionalidades de la plataforma Azure para que pueda crear aplicaciones y servicios que puedan funcionar en diversos entornos. Estos entornos incluyen centros de datos, el perímetro y entornos multinube y proporcionan mayor flexibilidad. Para obtener más información, consulte Conexión de máquinas Windows Server a Azure mediante la instalación de Azure Arc.
+
+### Licencias de pago por uso
+
+La opción de licencia de suscripción de pago por uso de Azure Arc es una alternativa a las licencias perpetuas convencionales para Windows Server 2025. Con la opción de pago por uso, puede implementar un dispositivo Windows Server, concederle una licencia y pagar solo tanto como use. Esta característica se facilita a través de Azure Arc y se factura a través de la suscripción de Azure. Para obtener más información, consulte Licencias de pago por uso de Azure Arc.
+
+### Administración de Windows Server habilitada por Azure Arc
+
+La administración de Windows Server habilitada por Azure Arc ofrece nuevas ventajas a los clientes con licencias de Windows Server que tienen licencias activas de Software Assurance o Windows Server que son licencias de suscripción activas. Windows Server 2025 tiene las siguientes ventajas clave:
+
+- 
+ Windows Admin Center en Azure Arc: integra Azure Arc con Windows Admin Center para que pueda administrar las instancias de Windows Server desde el portal de Azure Arc. Esta integración proporciona una experiencia de administración unificada para las instancias de Windows Server, tanto si se ejecutan de forma local, en la nube como en el perímetro.
+
+- 
+ Soporte remoto: Ofrece a los clientes con soporte técnico profesional la opción de dar acceso Just-In-Time con transcripciones de ejecución detalladas y derechos de revocación.
+
+- 
+ evaluación de procedimientos recomendados: la recopilación y el análisis de los datos del servidor generan problemas y instrucciones de corrección y mejoras de rendimiento.
+
+- 
+ configuración de Azure Site Recovery: la configuración de Azure Site Recovery garantiza la continuidad empresarial y proporciona replicación y resistencia de datos para cargas de trabajo críticas.
+
+Para más información sobre la administración de Windows Server habilitada por Azure Arc y las ventajas disponibles, consulte Administración de Windows Server habilitada por Azure Arc.
+
+## Redes definidas por software
+
+Software-Defined Networking (SDN) es un enfoque de la creación de redes que los administradores de red pueden usar para gestionar los servicios de red a través de la abstracción de funcionalidades de niveles inferiores. SDN permite la separación del plano de control de red, que administra la red, desde el plano de datos, que controla el tráfico. Esta separación permite una mayor flexibilidad y programación en la administración de red. SDN proporciona las siguientes ventajas en Windows Server 2025:
+
+- 
+ Controlador de red: Este plano de control para redes definidas por software (SDN) ahora se aloja directamente en las máquinas host físicas como servicios de clúster de recuperación ante errores. El uso de un rol de clúster elimina la necesidad de implementar máquinas virtuales, lo que simplifica la implementación y la administración y conserva los recursos.
+
+- 
+ segmentación basada en etiquetas: los administradores pueden usar etiquetas de servicio personalizadas para asociar grupos de seguridad de red (NSG) y máquinas virtuales para el control de acceso. En lugar de especificar intervalos IP, los administradores ahora pueden usar etiquetas sencillas y autoexplicativas para etiquetar máquinas virtuales de carga de trabajo y aplicar directivas de seguridad basadas en estas etiquetas. Las etiquetas simplifican el proceso de administración de la seguridad de red y eliminan la necesidad de recordar y volver a escribir intervalos IP. Para obtener más información, consulte Configurar grupos de seguridad de red con etiquetas en Windows Admin Center.
+
+- 
+ Directivas de red predeterminadas en Windows Server 2025: Estas directivas ofrecen opciones de protección similares a las de Azure a NSGs (grupos de seguridad de red) para cargas de trabajo implementadas a través de Windows Admin Center. La directiva predeterminada deniega todo el acceso entrante, lo que permite la apertura selectiva de puertos de entrada conocidos, al tiempo que permite el acceso de salida completo desde máquinas virtuales de carga de trabajo. Las directivas de red predeterminadas garantizan que las máquinas virtuales de carga de trabajo estén protegidas desde el punto de creación. Para más información, consulte Uso de directivas de acceso de red predeterminadas en máquinas virtuales en Azure Local.
+
+- 
+ SDN multisitio: Esta característica proporciona conectividad nativa de capa 2 y capa 3 entre aplicaciones en dos ubicaciones sin componentes adicionales. Con SDN Multisite, las aplicaciones pueden moverse sin problemas sin necesidad de volver a configurar la aplicación o las redes. También ofrece administración unificada de directivas de red para cargas de trabajo para que no sea necesario actualizar directivas cuando una máquina virtual de carga de trabajo se mueve de una ubicación a otra. Para más información, consulte ¿Qué es SDN Multisite?.
+
+- 
+ rendimiento mejorado de las puertas de enlace de nivel 3 de SDN: las puertas de enlace de nivel 3 logran un mayor rendimiento y reducen los ciclos de CPU. Estas mejoras están habilitadas de forma predeterminada. Los usuarios experimentan automáticamente un mejor rendimiento cuando se configura una conexión de nivel 3 de puerta de enlace de SDN mediante PowerShell o Windows Admin Center.
+
+## Portabilidad de contenedores de Windows
+
+La portabilidad es un aspecto fundamental de la administración de contenedores y tiene la capacidad de simplificar las actualizaciones aplicando una mayor flexibilidad y compatibilidad de contenedores en Windows.
+
+La portabilidad es una característica de Windows Server que los usuarios pueden emplear para mover imágenes de contenedor y sus datos asociados, entre distintos hosts o entornos sin necesidad de modificaciones. Los usuarios pueden crear una imagen de contenedor en un host y, a continuación, implementarla en otro host sin tener que preocuparse por posibles problemas de compatibilidad. Para obtener más información, consulte Portabilidad de contenedores.
+
+## Programa Windows Server Insider
+
+El Programa Windows Server Insider proporciona acceso anticipado a las últimas versiones del sistema operativo Windows para una comunidad de entusiastas. Como miembro, está entre los primeros en probar nuevas ideas y conceptos que Microsoft está desarrollando. Una vez registrado como miembro, puede participar en diferentes canales de distribución. Vaya a Inicio>Configuración>Windows Update>Programa Windows Insider.
+
+## Contenido relacionado
+
+ discusiones de la comunidad de Windows Server Insider
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-01-15

@@ -1,0 +1,335 @@
+URL: https://learn.microsoft.com/es-es/exchange/clients-and-mobile-in-exchange-online/deprecation-of-basic-authentication-exchange-online
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Degradar la autenticación básica en Exchange Online
+
+## 
+
+Importante
+
+La autenticación básica ahora está deshabilitada en todos los inquilinos.
+
+Antes del 31 de diciembre de 2022, podía volver a habilitar los protocolos afectados si los usuarios y las aplicaciones de su inquilino no podían conectarse. Ahora nadie (usted o el soporte técnico de Microsoft) puede volver a habilitar la autenticación básica en el inquilino.
+
+Lee el resto de este artículo para comprender completamente los cambios que hemos realizado y cómo pueden afectarte estos cambios.
+
+Durante muchos años, las aplicaciones han usado la autenticación básica para conectarse a servidores, servicios y puntos finales de API. La autenticación básica simplemente significa que la aplicación envía un nombre de usuario y una contraseña con cada solicitud, y esas credenciales también se almacenan o guardan a menudo en el dispositivo. Tradicionalmente, la autenticación básica está habilitada de forma predeterminada en la mayoría de los servidores o servicios y es fácil de configurar.
+
+La simplicidad no es nada mala, pero la autenticación básica facilita a los atacantes capturar credenciales de usuario (especialmente si las credenciales no están protegidas por TLS), lo que aumenta el riesgo de que esas credenciales robadas se reutilicen en otros puntos de conexión o servicios. Además, la aplicación de la autenticación multifactor (MFA) no es sencilla o, en algunos casos, posible cuando la autenticación básica permanece habilitada.
+
+La autenticación básica es un estándar del sector obsoleto. Las amenazas que representa solo han aumentado desde que anunciamos originalmente que íbamos a desactivarlo (consulte Mejorar la seguridad - Juntos) Existen alternativas de autenticación de usuario mejores y más efectivas.
+
+Recomendamos activamente que los clientes adopten estrategias de seguridad como Confianza cero (No confiar nunca, Comprobar siempre) o apliquen directivas de evaluación en tiempo real cuando los usuarios y los dispositivos accedan a información corporativa. Estas alternativas permiten tomar decisiones inteligentes sobre quién está tratando de obtener acceso a qué, desde dónde y en qué dispositivo, en lugar de simplemente confiar en una credencial de autenticación que podría ser un mal actor que se hace pasar por un usuario.
+
+Teniendo en cuenta estas amenazas y riesgos, tomamos medidas para mejorar la seguridad de los datos en Exchange Online.
+
+Nota:
+
+El desuso de la autenticación básica también impide el uso de contraseñas de aplicaciones con aplicaciones que no admiten la verificación en dos pasos.
+
+## Qué estamos cambiando
+
+Hemos eliminado la capacidad de usar la autenticación básica en Exchange Online para Exchange ActiveSync (EAS), POP, IMAP, PowerShell remoto, servicios Web Exchange (EWS), libreta de direcciones sin conexión (OAB), detección automática, Outlook para Windows y Outlook para Mac.
+
+También hemos deshabilitado la autenticación SMTP en todos los espacios empresariales en los que no se estaba usando.
+
+Esta decisión requiere que los clientes pasen de aplicaciones que usan autenticación básica a aplicaciones que usan autenticación moderna. La autenticación moderna (autorización basada en tokens de OAuth 2.0) tiene muchas ventajas y mejoras que ayudan a mitigar los problemas de la autenticación básica. Por ejemplo, los tokens de acceso de OAuth tienen una vida útil limitada y son específicos de las aplicaciones y los recursos para los que se emiten, por lo que no se pueden reutilizar. Habilitar y aplicar la autenticación multifactor (MFA) también es sencillo con la autenticación moderna.
+
+## ¿Cuándo tuvo lugar este cambio?
+
+A principios de 2021, comenzamos a deshabilitar la autenticación básica para los inquilinos existentes sin uso notificado.
+
+A principios de 2023, deshabilitamos la autenticación básica para todos los inquilinos que tenían cualquier tipo de extensión. Puede leer más sobre el momento aquí.
+
+Nota:
+
+En Office 365 operado por 21Vianet, comenzamos a deshabilitar la autenticación básica el 31 de marzo de 2023. Todos los demás entornos en la nube estaban sujetos a la fecha del 1 de octubre de 2022.
+
+## Impacto en los protocolos de mensajería y las aplicaciones existentes
+
+Este cambio afecta a las aplicaciones y scripts que puede usar de diferentes maneras.
+
+### POP, IMAP y autenticación SMTP
+
+En 2020, lanzamos la compatibilidad de OAuth 2.0 para autenticación POP, IMAP y SMTP. Las novedades de algunas aplicaciones cliente se han actualizado para admitir estos tipos de autenticación (Thunderbird, por ejemplo, aunque todavía no para los clientes que usan Office 365 operado por 21Vianet), por lo que los usuarios con versiones actualizadas pueden cambiar su configuración para usar OAuth. No hay ningún plan para que los clientes de Outlook sean compatibles con OAuth para POP e IMAP, pero Outlook puede conectarse mediante MAPI/HTTP (clientes de Windows) y EWS (Outlook para Mac).
+
+Los desarrolladores de aplicaciones que hayan creado aplicaciones que envíen, lean o procesen correo electrónico mediante estos protocolos podrán mantener el mismo protocolo, pero deberán implementar experiencias de autenticación modernas y seguras para sus usuarios. Esta funcionalidad se basa en la Plataforma de identidad de Microsoft v2.0 y admite el acceso a cuentas de correo electrónico de Microsoft 365.
+
+Si la aplicación interna necesita obtener acceso a los protocolos de autenticación IMAP, POP y SMTP en Exchange Online, siga estas instrucciones paso a paso para implementar la autenticación OAuth 2.0: Autentique una conexión IMAP, POP o SMTP con OAuth. Además, use el script PowerShell Get-IMAPAccesstoken.ps1 para probar por su cuenta el acceso IMAP después de habilitar OAuth de una manera sencilla, incluido el caso de uso del buzón compartido.
+
+Aunque la autenticación SMTP está disponible actualmente, Microsoft ha anunciado planes para retirar la autenticación básica para autenticación SMTP en Exchange Online. A medida que se actualiza la escala de tiempo de retirada, recomendamos consultar el anuncio oficial más reciente para conocer los hitos y las instrucciones actuales:
+
+https://techcommunity.microsoft.com/blog/exchange/updated-exchange-online-smtp-auth-basic-authentication-deprecation-timeline/4489835
+
+Otras opciones para enviar correo autenticado incluyen el uso de protocolos alternativos, como la Microsoft Graph API.
+
+### Exchange ActiveSync (EAS)
+
+Muchos usuarios tienen dispositivos móviles configurados para usar EAS. Si usaban la autenticación básica, se ven afectados por este cambio.
+
+Se recomienda usar Outlook para iOS y Android al conectarse a Exchange Online. Outlook para iOS y Android integra completamente Microsoft Enterprise Mobility + Security (EMS), que permite las funcionalidades de acceso condicional y protección de aplicaciones (MAM). Outlook para iOS y Android le ayuda a proteger a los usuarios y los datos corporativos, y es compatible de forma nativa con la autenticación moderna.
+
+Hay otras aplicaciones de correo electrónico para dispositivos móviles que admiten la autenticación moderna. Las aplicaciones de correo electrónico integradas para todas las plataformas populares suelen admitir la autenticación moderna, por lo que a veces la solución es comprobar que el dispositivo ejecuta la última versión de la aplicación. Si la aplicación de correo electrónico está vigente, pero sigue usando la autenticación básica, es posible que deba quitar la cuenta del dispositivo y volver a agregarla.
+
+Si usa Microsoft Intune, es posible que pueda cambiar el tipo de autenticación con el perfil de correo electrónico que inserte o implemente en sus dispositivos. Si utiliza dispositivos iOS (iPhones y iPads), debería echar un vistazo a Agregar configuración de correo electrónico para dispositivos iOS y iPadOS en Microsoft Intune
+
+Cualquier dispositivo iOS administrado con Movilidad básica y seguridad no podrá acceder al correo electrónico si se cumplen las siguientes condiciones:
+
+- Ha configurado una directiva de seguridad de dispositivo para requerir un perfil de correo electrónico administrado para tener acceso.
+
+- No ha modificado la directiva desde el 9 de noviembre de 2021 (lo que significa que la directiva sigue usando la autenticación básica).
+
+Las directivas creadas o modificadas después de esta fecha ya se han actualizado para usar la autenticación moderna.
+
+Para actualizar las directivas que no se han modificado desde el 9 de noviembre de 2021 para usar la autenticación moderna, realice un cambio temporal en los requisitos de acceso de la directiva. Se recomienda cambiar y guardar la configuración en la nube Requerir copias de seguridad cifradas , lo que actualizará la directiva para usar la autenticación moderna. Una vez que la directiva modificada tiene el valor de estado activado, el perfil de correo electrónico se ha actualizado. A continuación, puede revertir el cambio temporal en la directiva.
+
+Nota:
+
+Durante el proceso de actualización, el perfil de correo electrónico se actualizará en el dispositivo iOS y se pedirá al usuario que escriba su nombre de usuario y contraseña.
+
+Si los dispositivos usan la autenticación basada en certificados, no se verán afectados cuando se desactive la autenticación básica en Exchange Online a finales de este año. Solo se verán afectados los dispositivos que se autentiquen directamente mediante la autenticación básica.
+
+La autenticación basada en certificados sigue siendo una autenticación heredada y, como tal, estará bloqueada por las directivas de acceso condicional de Microsoft Entra que bloquean la autenticación heredada. Para obtener más información, consulte Bloqueo de la autenticación heredada con Acceso condicional de Microsoft Entra.
+
+### Exchange Online PowerShell
+
+Desde el lanzamiento del módulo de PowerShell de Exchange Online, ha sido fácil administrar la configuración de Exchange Online y la configuración de protección desde la línea de comandos mediante la autenticación moderna. El módulo usa la autenticación moderna y funciona con la autenticación multifactor (MFA) para conectarse a todos los entornos de PowerShell relacionados con Exchange en Microsoft 365: Exchange Online PowerShell y PowerShell de seguridad & cumplimiento.
+
+El módulo de PowerShell de Exchange Online también se puede usar de forma no interactiva, lo que permite ejecutar scripts desatendidos. La autenticación basada en certificados proporciona a los administradores la capacidad de ejecutar scripts sin necesidad de crear cuentas de servicio o almacenar credenciales localmente. Para obtener más información, consulte: Autenticación de solo aplicación para scripts desatendidos en el módulo de PowerShell de Exchange Online.
+
+Importante
+
+No confunda el hecho de que PowerShell requiere autenticación básica habilitada para WinRM (en el equipo local desde el que se ejecuta la sesión). El nombre de usuario y la contraseña no se envían al servicio mediante Basic, pero se requiere el encabezado de Autenticación básica para enviar el token de OAuth de la sesión, porque el cliente WinRM no admite OAuth. Estamos trabajando en este problema y tendremos más que anunciar en el futuro. Solo debe saber que habilitar Basic en WinRM no es usar Basic para autenticarse en el servicio. Para obtener más información, consulte PowerShell de Exchange Online: activar la autenticación básica en WinRM.
+
+Lea más sobre esta situación aquí: Descripción de las diferentes versiones de los módulos de PowerShell de Exchange Online y la autenticación básica.
+
+Para obtener más información sobre cómo pasar de la versión V1 del módulo a la versión actual, consulte esta entrada de blog.
+
+La versión 3.0.0 del módulo PowerShell V3 de Exchange Online (versiones preliminares 2.0.6-PreviewX) contiene versiones respaldadas por API de REST de todos los cmdlets de Exchange Online que no requieren autenticación básica en WinRM. Para obtener más información, consulte Novedades para la versión 3.0.0.
+
+### Servicios Web Exchange (EWS)
+
+Muchas aplicaciones se han creado mediante EWS para acceder a los datos del buzón y del calendario.
+
+En 2018, anunciamos que servicios Web Exchange ya no recibiría actualizaciones de características y recomendamos que los desarrolladores de aplicaciones pasaran a usar Microsoft Graph. 
+ Vea los próximos cambios de la API de servicios Web Exchange (EWS) para Office 365.
+
+Muchas aplicaciones se han movido correctamente a Graph, pero para las aplicaciones que no lo han hecho, cabe destacar que EWS ya es totalmente compatible con la autenticación moderna. Por lo tanto, si aún no puede migrar a Graph, puede cambiar al uso de la autenticación moderna con EWS, sabiendo que EWS acabará quedando en desuso.
+
+Para más información, vea:
+
+- 
+ Próximos desusos de API en servicios Web Exchange para Exchange Online: Microsoft Tech Community
+
+- 
+ Autenticar una aplicación EWS mediante OAuth
+
+- 
+ Qué hacer con los scripts de PowerShell de la API administrada de EWS que usan la autenticación básica
+
+### Outlook, MAPI, RPC y libreta de direcciones sin conexión (OAB)
+
+Todas las versiones de Outlook para Windows desde 2016 tienen la autenticación moderna habilitada de forma predeterminada, por lo que es probable que ya esté usando la autenticación moderna. Outlook Anywhere (anteriormente conocido como RPC sobre HTTP) ha quedado en desuso en Exchange Online a favor de MAPI sobre HTTP. Outlook para Windows usa MAPI sobre HTTP, EWS y OAB para acceder al correo, establecer la disponibilidad y fuera de la oficina, y descargar la libreta de direcciones sin conexión. Todos estos protocolos admiten la autenticación moderna.
+
+Outlook 2007 o Outlook 2010 no pueden usar la autenticación moderna y, finalmente, no podrán conectarse. Outlook 2013 requiere una configuración para habilitar la autenticación moderna, pero una vez que la haya configurado, Outlook 2013 podrá utilizar la autenticación moderna sin problemas. Como se anunció aquí, Outlook 2013 requiere un nivel de actualización mínimo para conectarse a Exchange Online. Consulte: Nuevos requisitos mínimos de versión de Outlook para Windows para Microsoft 365.
+
+Outlook para Mac admite la autenticación moderna.
+
+Para obtener más información sobre la compatibilidad con la autenticación moderna en Office, vea Cómo funciona la autenticación moderna para las aplicaciones cliente de Office.
+
+Si necesita migrar carpetas públicas a Exchange Online, consulte Scripts de migración de carpetas públicas con compatibilidad con autenticación moderna.
+
+### Detección automática
+
+En noviembre de 2022, anunciamos que deshabilitaríamos la autenticación básica para el protocolo de detección automática una vez que EAS y EWS estén deshabilitados en un espacio empresarial.
+
+## Opciones de cliente
+
+A continuación se enumeran algunas de las opciones disponibles para cada uno de los protocolos afectados.
+
+### Recomendación de protocolo
+
+Para servicios Web Exchange (EWS), PowerShell remoto (RPS), POP e IMAP y Exchange ActiveSync (EAS):
+
+- 
+ Si ha escrito su propio código con estos protocolos, actualícelo para usar OAuth 2.0 en lugar de la autenticación básica o migre a un protocolo más reciente (Graph API).
+
+- 
+ Si usted o sus usuarios usan una aplicación de terceros que usa estos protocolos, póngase en contacto con el desarrollador de aplicaciones de terceros que proporcionó esta aplicación para actualizarla para admitir la autenticación de OAuth 2.0 o ayudar a los usuarios a cambiar a una aplicación creada con OAuth 2.0.
+
+ | Servicio Protocolo de clave
+
+ | Clientes afectados
+
+ | Recomendación específica del cliente
+
+ | Recomendación especial para Office 365 operado por 21Vianet (Gallatin)
+
+ | Otra información / notas del protocolo
+
+ | Outlook
+
+ | Todas las versiones de Outlook para Windows y Mac
+
+ | 
+
+- Actualizar a Outlook 2013 o posterior para Windows y a Outlook 2016 o posterior para Mac
+
+- Si está usando Outlook 2013 para Windows, active la autenticación moderna a través de la clave del Registro
+
+ | 
+
+ | 
+ Habilitar la autenticación moderna para Outlook: ¿qué tan difícil puede ser?
+
+ | Servicios Web Exchange (EWS)
+
+ | Las aplicaciones de terceros no admiten OAuth
+
+ | 
+
+- Modifique la aplicación para usar la autenticación moderna.
+
+- Migrar una aplicación para usar la Graph API y la autenticación moderna.
+
+ Aplicaciones populares: 
+
+- Salas de Microsoft Teams: Habilite la autenticación moderna siguiendo los pasos de Autenticación en las Salas de Microsoft Teams
+
+- Dynamics 365 / PowerApps: uso de autenticación básica con Exchange Online
+
+- Cisco Unity: Cisco Unity Connection Service Bulletin for Unified Messaging with Microsoft Office 365 Product Bulletin
+
+ | 
+ Siga este artículo para migrar su aplicación Gallatin personalizada para usar EWS con OAuth 
+
+Microsoft Teams y Cisco Unity no están disponibles actualmente en Gallatin
+
+ | 
+ Qué hacer con los scripts de PowerShell de la API administrada de EWS que usan la autenticación básica
+- No hay actualizaciones de características de EWS a partir de julio de 2018
+
+ | PowerShell remoto (RPS)
+
+ | 
+
+- Administradores de Exchange
+
+- 
+ Privilegios de Administración delegada
+
+- Herramientas de administración automatizadas
+
+ | Use una de las siguientes opciones: 
+
+- 
+ Módulo de PowerShell de Exchange Online.
+
+- 
+ PowerShell dentro de Azure Cloud Shell.
+
+ | Azure Cloud Shell no está disponible en Gallatin
+
+ | Obtenga más información sobre la compatibilidad de automatización y autenticación basada en certificados con el módulo de PowerShell de Exchange Online y conozca las distintas versiones de los módulos de PowerShell de Exchange Online y la autenticación básica.
+
+ | POP e IMAP
+
+ | Clientes móviles de terceros, como Thunderbird, clientes propios configurados para usar POP o IMAP
+
+ | Recomendaciones: 
+
+- Aléjese de estos protocolos, ya que no habilitan todas las funciones.
+
+- Pase a OAuth 2.0 para POP/IMAP cuando la aplicación cliente lo admita.
+
+ | 
+ Siga este artículo para configurar POP e IMAP con OAuth en Gallatin con código de muestra
+
+ | IMAP es popular entre los clientes de Linux y del sector educativo. La compatibilidad con OAuth 2.0 comenzó a implementarse en abril de 2020. 
+
+ Autenticar una conexión IMAP, POP o SMTP mediante OAuth
+
+ | Exchange ActiveSync (EAS)
+
+ | Clientes de correo electrónico móvil de Apple, Samsung, etc.
+
+ | 
+
+- Cambie a Outlook para iOS y Android u otra aplicación de correo electrónico móvil que admita la autenticación moderna
+
+- Actualice la configuración de la aplicación si puede hacer OAuth pero el dispositivo sigue usando Basic
+
+- Cambie a Outlook en la Web u otra aplicación de explorador móvil que admita la autenticación moderna.
+
+ Aplicaciones populares: 
+
+- Apple iPhone/iPad/macOS: todos los dispositivos iOS/macOS actualizados son capaces de usar la autenticación moderna, solo tiene que quitar y volver a agregar la cuenta.
+
+- Cliente de correo de Microsoft Windows 10: quite y vuelva a agregar la cuenta, eligiendo Office 365 como tipo de cuenta
+
+ | 
+- La aplicación de correo nativa de Apple en iOS no funciona actualmente en Gallatin, te recomendamos que uses Outlook Mobile
+
+- La aplicación Correo de Windows 10/11 no es compatible con Gallatin
+
+- 
+ Siga este artículo para configurar EAS con OAuth y código de muestra
+
+ | Los dispositivos móviles que usan una aplicación nativa para conectarse a Exchange Online suelen usar este protocolo.
+
+ | Detección automática
+
+ | Aplicaciones EWS y EAS que usan la Detección automática para buscar puntos de conexión de servicio
+
+ | 
+
+- Actualice el código o la aplicación a uno compatible con OAuth
+
+ | 
+
+ | 
+ Referencia del servicio web de Detección automática para Exchange
+
+### Recursos
+
+Para obtener más información, consulte los siguientes artículos:
+
+ Valores predeterminados de seguridad:
+
+- 
+ Valores predeterminados de seguridad en Microsoft Entra ID
+
+- 
+ Habilitación de valores predeterminados de seguridad
+
+ Directivas de autenticación de Exchange Online:
+
+- 
+ Administrar la autenticación básica en el Centro de Administración de Microsoft 365 (simple)
+
+- 
+ Procedimientos de directiva de autenticación en Exchange Online (avanzado)
+
+ Acceso condicional a Microsoft Entra:
+
+- 
+ Directiva de acceso condicional común: bloquear la autenticación heredada (simple)
+
+- 
+ Bloquear la autenticación heredada con Microsoft Entra Acceso condicional (detallado)
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2026-08-19

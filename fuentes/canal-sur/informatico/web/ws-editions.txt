@@ -1,0 +1,5095 @@
+URL: https://learn.microsoft.com/es-es/windows-server/get-started/editions-comparison
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Comparación de ediciones de Windows Server
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+Use este artículo para comparar las ediciones Standard, Datacenter y Datacenter: Azure Edition de Windows Server para ver cuál es la más adecuada en su caso.
+
+Tip
+
+Si busca información sobre los bloqueos y límites en Windows Server, consulte Comparación de bloqueos y límites en Windows Server.
+
+## Roles y características disponibles
+
+ | Feature
+
+ | Subfeature
+
+ | Edición estándar
+
+ | Datacenter Edition
+
+ | Centro de datos: Azure Edition
+
+ | Características de .NET Framework 3.5
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Características de .NET Framework 4.8
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Activation
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Activación automática de máquina virtual
+
+ | 
+ ⚠️¹
+
+ | ✅
+
+ | 
+ ✅²
+
+ | 
+
+ | Servicio de administración de claves (KMS)
+
+ | ✅
+
+ | ✅
+
+ | 
+ ❌³
+
+ | Servicios de certificados de Active Directory
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio web de directivas de inscripción de certificados
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio web de inscripción de certificados
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Entidad de certificación
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Inscripción web de entidad de certificación
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio de inscripción de dispositivos de red
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio de respuesta en línea
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicios de dominio de Active Directory
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicios de federación de Active Directory
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Active Directory Lightweight Directory Services (Servicios de directorio ligero de Active Directory)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Active Directory Rights Management Services (Servicios de Administración de Derechos de Active Directory)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Redes extendidas de Azure
+
+ | 
+
+ | ❌
+
+ | ❌
+
+ | ✅
+
+ | Servicio de transferencia inteligente en segundo plano (BITS)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Cifrado de unidad BitLocker
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Desbloqueo de BitLocker en red
+
+ | 
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | BranchCache
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Cliente para NFS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Data Center Bridging
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Atestación de estado de dispositivo
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servidor DHCP
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Direct Play
+
+ | 
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | Códecs de DLNA y streaming de archivos multimedia web
+
+ | 
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | Servidor DNS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Almacenamiento mejorado
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Clústeres de conmutación por error
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servidor de fax
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicios de archivos y almacenamiento
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | BranchCache para archivos de red
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Desduplicación de datos
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Espacios de nombres DFS
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Replicación DFS
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor de archivos
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Administrador de recursos del servidor de archivos
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio del agente VSS del servidor de archivos
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor de destino iSCSI
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | iSCSI Target Storage Provider (proveedores de hardware VDS y VSS)
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor para NFS
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Compatibilidad con el protocolo para compartir archivos SMB 1.0/CIFS
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Límite de ancho de banda SMB
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | SMB sobre QUIC
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Carpetas de trabajo
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio de migración de almacenamiento
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Proxy del servicio de migración de almacenamiento
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Espacios de almacenamiento
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Espacios de almacenamiento directo
+
+ | ❌
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Réplica de almacenamiento
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Administración de directivas de grupo
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Compatibilidad de Hyper-V con protección de host
+
+ | 
+
+ | ❌
+
+ | ✅
+
+ | ✅
+
+ | Servicio de protección de host
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Hotpatching
+
+ | 
+
+ | 
+ ✅⁵
+
+ | 
+ ✅⁵
+
+ | ✅
+
+ | Calidad de servicio de E/S
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Núcleo de web hospedable de IIS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servidor de Administración de direcciones IP (IPAM)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Extensión IIS Management OData
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Media Foundation
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Message Queuing
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Proxy DCOM de Message Queue Server
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicios de Message Queue Server
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Antivirus de Microsoft Defender
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | E/S de múltiples rutas
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Conector MultiPoint
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Network ATC
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Controladora de red
+
+ | 
+
+ | ❌
+
+ | ✅
+
+ | ✅
+
+ | Network Load Balancing
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Directiva de red y servicios de acceso
+
+ | 
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | Virtualización de red
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicios de impresión y documentos
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Impresión en Internet
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+
+ | Servicio de demonio de impresora de línea (LPD)
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+
+ | Servidor de impresión
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | Experiencia de calidad de audio y vídeo de Windows (qWave)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Kit de administración de Connection Manager (CMAK) de RAS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Acceso remoto
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | DirectAccess y VPN (RAS)
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Routing
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Proxy de aplicación web
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Asistencia remota
+
+ | 
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | Servicios de Escritorio remoto
+
+ | 
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | Compresión diferencial remota
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Herramientas de administración de servidor remota
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Proxy RPC sobre HTTP
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Recopilación de eventos de configuración y arranque
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicios simples de TCP/IP
+
+ | 
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | Servicio SNMP
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Equilibrador de carga de software
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Archivador de datos del sistema
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | System Insights
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Cliente Telnet
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Cliente TFTP
+
+ | 
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | Virtualization
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Containers
+
+ | ✅
+
+ | ✅
+
+ | ❌
+
+ | 
+
+ | Hyper-V
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Creación de particiones de GPU
+
+ | 
+ ✅⁶
+
+ | ✅
+
+ | 
+ ✅⁶
+
+ | 
+
+ | Herramientas de blindaje de máquinas virtuales para la administración de tejidos
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicios de activación por volumen
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servidor web (IIS)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor FTP
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor web
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Redireccionador WebDAV
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Marco biométrico de Windows
+
+ | 
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | Servicios de Implementación de Windows
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Windows Identity Foundation 3.5
+
+ | 
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | Base de datos interna de Windows
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Windows PowerShell
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Motor de Windows PowerShell 2.0
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Windows PowerShell 5.1
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio Desired State Configuration de Windows PowerShell
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Windows PowerShell Web Access (Acceso web de Windows PowerShell)
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicio de activación de procesos de Windows
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Administración de Windows Server habilitada por Azure Arc
+
+ | 
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+
+ | Administrador de actualizaciones de Azure
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+
+ | Seguimiento de Cambios e Inventario
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+
+ | Configuración de máquina de Azure
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+
+ | Windows Admin Center en Azure for Arc
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+
+ | Compatibilidad remota
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+
+ | HUD de red
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+
+ | Valoración de procedimientos recomendados
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+
+ | Configuración de Azure Site Recovery
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | 
+ ✅⁷
+
+ | Servicio de Windows Search
+
+ | 
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | Copias de seguridad de Windows Server
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Herramientas de migración de Windows Server
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Windows Server Update Services
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Administración de almacenamiento basada en directivas de Windows
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Subsistema de Windows para Linux
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Windows TIFF IFilter
+
+ | 
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | Extensión WinRM de IIS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servidor WINS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicio WLAN
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Compatibilidad con WoW64
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Visor de XPS
+
+ | 
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+- 
+Como invitado si se hospeda en un host de virtualización activado con Datacenter edition
+
+- 
+Datacenter: Azure Edition se puede usar como host anidado o invitado
+
+- 
+Activado por Azure y no se puede configurar como host de KMS
+
+- 
+Cuando se instala como Windows Server con Experiencia de escritorio
+
+- 
+Disponible como servicio habilitado para Azure Arc. Para obtener más información sobre los precios de Azure Arc, consulte la Calculadora de precios de Azure
+
+- 
+Disponible con Windows Server 2025 Standard, y está diseñado para servidores independientes. Migración en vivo de máquinas virtuales entre nodos independientes durante tiempos de inactividad planificados. Si se requiere la agrupación en clústeres durante tiempos de inactividad no planificados, se debe usar Windows Server 2025 Datacenter en su lugar.
+
+- 
+Disponible para máquinas inscritas en Windows Server Management habilitado por Azure Arc con licencias de Windows Server que tengan Software Assurances activos o licencias de Windows Server con licencias de suscripción activas. Para más información sobre las ventajas, la facturación y los requisitos disponibles de Azure, consulte Administración de Windows Server habilitada por Azure Arc.
+
+ | Feature
+
+ | Subfeature
+
+ | Edición estándar
+
+ | Datacenter Edition
+
+ | Centro de datos: Azure Edition
+
+ | Características de .NET Framework 3.5
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Características de .NET Framework 4.8
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Activation
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Activación automática de máquina virtual
+
+ | 
+ ⚠️¹
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio de administración de claves (KMS)
+
+ | ✅
+
+ | ✅
+
+ | 
+ ❌²
+
+ | Servicios de certificados de Active Directory
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio web de directivas de inscripción de certificados
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio web de inscripción de certificados
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Entidad de certificación
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Inscripción web de entidad de certificación
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio de inscripción de dispositivos de red
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio de respuesta en línea
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicios de dominio de Active Directory
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicios de federación de Active Directory
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Active Directory Lightweight Directory Services (Servicios de directorio ligero de Active Directory)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Active Directory Rights Management Services (Servicios de Administración de Derechos de Active Directory)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicio de transferencia inteligente en segundo plano (BITS)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Cifrado de unidad BitLocker
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Desbloqueo de BitLocker en red
+
+ | 
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | BranchCache
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Cliente para NFS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Data Center Bridging
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Atestación de estado de dispositivo
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servidor DHCP
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Direct Play
+
+ | 
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | Códecs de DLNA y streaming de archivos multimedia web
+
+ | 
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | Servidor DNS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Almacenamiento mejorado
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Clústeres de conmutación por error
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servidor de fax
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicios de archivos y almacenamiento
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | BranchCache para archivos de red
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Desduplicación de datos
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Espacios de nombres DFS
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Replicación DFS
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor de archivos
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Administrador de recursos del servidor de archivos
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio del agente VSS del servidor de archivos
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor de destino iSCSI
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | iSCSI Target Storage Provider (proveedores de hardware VDS y VSS)
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor para NFS
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Compatibilidad con el protocolo para compartir archivos SMB 1.0/CIFS
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Límite de ancho de banda SMB
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | SMB sobre QUIC
+
+ | ❌
+
+ | ❌
+
+ | ✅
+
+ | 
+
+ | Carpetas de trabajo
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio de migración de almacenamiento
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Proxy del servicio de migración de almacenamiento
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Espacios de almacenamiento
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Espacios de almacenamiento directo
+
+ | ❌
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Réplica de almacenamiento
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Administración de directivas de grupo
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Compatibilidad de Hyper-V con protección de host
+
+ | 
+
+ | ❌
+
+ | ✅
+
+ | ✅
+
+ | Servicio de protección de host
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Hotpatching
+
+ | 
+
+ | ❌
+
+ | ❌
+
+ | ✅
+
+ | Calidad de servicio de E/S
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Núcleo de web hospedable de IIS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servidor de Administración de direcciones IP (IPAM)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Extensión IIS Management OData
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Media Foundation
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Message Queuing
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Proxy DCOM de Message Queue Server
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicios de Message Queue Server
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Antivirus de Microsoft Defender
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | E/S de múltiples rutas
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Conector MultiPoint
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Network ATC
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Controladora de red
+
+ | 
+
+ | ❌
+
+ | ✅
+
+ | ✅
+
+ | Network Load Balancing
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Directiva de red y servicios de acceso
+
+ | 
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | Virtualización de red
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicios de impresión y documentos
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | 
+
+ | Impresión en Internet
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+
+ | Servicio de demonio de impresora de línea (LPD)
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+
+ | Servidor de impresión
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | Experiencia de calidad de audio y vídeo de Windows (qWave)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Kit de administración de Connection Manager (CMAK) de RAS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Acceso remoto
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | DirectAccess y VPN (RAS)
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Routing
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Proxy de aplicación web
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Asistencia remota
+
+ | 
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | Servicios de Escritorio remoto
+
+ | 
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | Compresión diferencial remota
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Herramientas de administración de servidor remota
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Proxy RPC sobre HTTP
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Recopilación de eventos de configuración y arranque
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicios simples de TCP/IP
+
+ | 
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | Servicio SNMP
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Equilibrador de carga de software
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Archivador de datos del sistema
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | System Insights
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Cliente Telnet
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Cliente TFTP
+
+ | 
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | Virtualization
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Containers
+
+ | ✅
+
+ | ✅
+
+ | ❌
+
+ | 
+
+ | Hyper-V
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Herramientas de blindaje de máquinas virtuales para la administración de tejidos
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicios de activación por volumen
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servidor web (IIS)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor FTP
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor web
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Redireccionador WebDAV
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Marco biométrico de Windows
+
+ | 
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | Servicios de Implementación de Windows
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Windows Identity Foundation 3.5
+
+ | 
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | Base de datos interna de Windows
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Windows PowerShell
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Motor de Windows PowerShell 2.0
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Windows PowerShell 5.1
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio Desired State Configuration de Windows PowerShell
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Windows PowerShell Web Access (Acceso web de Windows PowerShell)
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicio de activación de procesos de Windows
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicio de Windows Search
+
+ | 
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | Administración de Windows Server habilitada por Azure Arc
+
+ | 
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+
+ | Administrador de actualizaciones de Azure
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+
+ | Seguimiento de Cambios e Inventario
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+
+ | Configuración de máquina de Azure
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+
+ | Windows Admin Center en Azure for Arc
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+
+ | Compatibilidad remota
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+
+ | Valoración de procedimientos recomendados
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+
+ | Configuración de Azure Site Recovery
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | 
+ ✅⁴
+
+ | Copias de seguridad de Windows Server
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Herramientas de migración de Windows Server
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Windows Server Update Services
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Administración de almacenamiento basada en directivas de Windows
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Subsistema de Windows para Linux
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Windows TIFF IFilter
+
+ | 
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | Extensión WinRM de IIS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servidor WINS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Servicio WLAN
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Compatibilidad con WoW64
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | ✅
+
+ | Visor de XPS
+
+ | 
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+ | 
+ ✅³
+
+- 
+Como invitado si se hospeda en un host de virtualización activado con Datacenter edition
+
+- 
+Activado por Azure y no se puede configurar como host de KMS
+
+- 
+Cuando se instala como Windows Server con Experiencia de escritorio
+
+- 
+Disponible para máquinas inscritas en Windows Server Management habilitado por Azure Arc con licencias de Windows Server que tengan Software Assurances activos o licencias de Windows Server con licencias de suscripción activas. Para más información sobre las ventajas, la facturación y los requisitos disponibles de Azure, consulte Administración de Windows Server habilitada por Azure Arc.
+
+ | Feature
+
+ | Subfeature
+
+ | Edición estándar
+
+ | Datacenter Edition
+
+ | Características de .NET Framework 3.5
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Características de .NET Framework 4.7
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Activation
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Activación automática de máquina virtual
+
+ | 
+ ⚠️¹
+
+ | ✅
+
+ | 
+
+ | Servicio de administración de claves (KMS)
+
+ | ✅
+
+ | ✅
+
+ | Servicios de certificados de Active Directory
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio web de directivas de inscripción de certificados
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio web de inscripción de certificados
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Entidad de certificación
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Inscripción web de entidad de certificación
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio de inscripción de dispositivos de red
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio de respuesta en línea
+
+ | ✅
+
+ | ✅
+
+ | Servicios de dominio de Active Directory
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servicios de federación de Active Directory
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Active Directory Lightweight Directory Services (Servicios de directorio ligero de Active Directory)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Active Directory Rights Management Services (Servicios de Administración de Derechos de Active Directory)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servicio de transferencia inteligente en segundo plano (BITS)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Cifrado de unidad BitLocker
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Desbloqueo de BitLocker en red
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | BranchCache
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Cliente para NFS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Data Center Bridging
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Atestación de estado de dispositivo
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servidor DHCP
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Direct Play
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Códecs de DLNA y streaming de archivos multimedia web
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Servidor DNS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Almacenamiento mejorado
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Clústeres de conmutación por error
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servidor de fax
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servicios de archivos y almacenamiento
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | BranchCache para archivos de red
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Desduplicación de datos
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Espacios de nombres DFS
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Replicación DFS
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor de archivos
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Administrador de recursos del servidor de archivos
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio del agente VSS del servidor de archivos
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor de destino iSCSI
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | iSCSI Target Storage Provider (proveedores de hardware VDS y VSS)
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor para NFS
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Compatibilidad con el protocolo para compartir archivos SMB 1.0/CIFS
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Límite de ancho de banda SMB
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Carpetas de trabajo
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio de migración de almacenamiento
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Proxy del servicio de migración de almacenamiento
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Espacios de almacenamiento
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Espacios de almacenamiento directo
+
+ | ❌
+
+ | ✅
+
+ | 
+
+ | Réplica de almacenamiento
+
+ | ✅
+
+ | ✅
+
+ | Administración de directivas de grupo
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Compatibilidad de Hyper-V con protección de host
+
+ | 
+
+ | ❌
+
+ | ✅
+
+ | Servicio de protección de host
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Calidad de servicio de E/S
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Núcleo de web hospedable de IIS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servidor de Administración de direcciones IP (IPAM)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servidor de nombres de almacenamiento de Internet (iSNS)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Extensión IIS Management OData
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Media Foundation
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Message Queuing
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Proxy DCOM de Message Queue Server
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicios de Message Queue Server
+
+ | ✅
+
+ | ✅
+
+ | Antivirus de Microsoft Defender
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | E/S de múltiples rutas
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Conector MultiPoint
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Network ATC
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Controladora de red
+
+ | 
+
+ | ❌
+
+ | ✅
+
+ | Network Load Balancing
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Directiva de red y servicios de acceso
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Virtualización de red
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servicios de impresión y documentos
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Impresión en Internet
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | 
+
+ | Servicio de demonio de impresora de línea (LPD)
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | 
+
+ | Servidor de impresión
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Experiencia de calidad de audio y vídeo de Windows (qWave)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Kit de administración de Connection Manager (CMAK) de RAS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Acceso remoto
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | DirectAccess y VPN (RAS)
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Routing
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Proxy de aplicación web
+
+ | ✅
+
+ | ✅
+
+ | Asistencia remota
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Servicios de Escritorio remoto
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Compresión diferencial remota
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Herramientas de administración de servidor remota
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Proxy RPC sobre HTTP
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Recopilación de eventos de configuración y arranque
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servicios simples de TCP/IP
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Servicio SNMP
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Equilibrador de carga de software
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Archivador de datos del sistema
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | System Insights
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Cliente Telnet
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Cliente TFTP
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Virtualization
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Containers
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Hyper-V
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Herramientas de blindaje de máquinas virtuales para la administración de tejidos
+
+ | ✅
+
+ | ✅
+
+ | Servicios de activación por volumen
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servidor web (IIS)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor FTP
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor web
+
+ | ✅
+
+ | ✅
+
+ | WebDAV Redirector
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Marco biométrico de Windows
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Servicios de Implementación de Windows
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Windows Identity Foundation 3.5
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Base de datos interna de Windows
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Windows PowerShell
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Motor de Windows PowerShell 2.0
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Windows PowerShell 5.1
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio Desired State Configuration de Windows PowerShell
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Windows PowerShell Web Access (Acceso web de Windows PowerShell)
+
+ | ✅
+
+ | ✅
+
+ | Servicio de activación de procesos de Windows
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servicio de Windows Search
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Copias de seguridad de Windows Server
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Administración de Windows Server habilitada por Azure Arc³
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Azure Update Manager³
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Control de cambios y inventario³
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Azure Machine Configuration³
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Windows Admin Center en Azure for Arc³
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Soporte remoto³
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Evaluación de procedimientos recomendados³
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Configuración de Azure Site Recovery³
+
+ | ✅
+
+ | ✅
+
+ | Herramientas de migración de Windows Server
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Windows Server Update Services
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Administración de almacenamiento basada en directivas de Windows
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Subsistema de Windows para Linux
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Windows TIFF IFilter
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Extensión WinRM de IIS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servidor WINS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servicio WLAN
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Compatibilidad con WoW64
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Visor de XPS
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+- 
+Como invitado si se hospeda en un host de virtualización activado con Datacenter edition
+
+- 
+Cuando se instala como Windows Server con Experiencia de escritorio
+
+- 
+Disponible para máquinas inscritas en Windows Server Management habilitado por Azure Arc con licencias de Windows Server que tengan Software Assurances activos o licencias de Windows Server con licencias de suscripción activas. Para más información sobre las ventajas, la facturación y los requisitos disponibles de Azure, consulte Administración de Windows Server habilitada por Azure Arc.
+
+ | Feature
+
+ | Subfeature
+
+ | Edición estándar
+
+ | Datacenter Edition
+
+ | Características de .NET Framework 3.5
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Características de .NET Framework 4.6
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Activation
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Activación automática de máquina virtual
+
+ | 
+ ⚠️¹
+
+ | ✅
+
+ | 
+
+ | Servicio de administración de claves (KMS)
+
+ | ✅
+
+ | ✅
+
+ | Servicios de certificados de Active Directory
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio web de directivas de inscripción de certificados
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio web de inscripción de certificados
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Entidad de certificación
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Inscripción web de entidad de certificación
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio de inscripción de dispositivos de red
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio de respuesta en línea
+
+ | ✅
+
+ | ✅
+
+ | Servicios de dominio de Active Directory
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servicios de federación de Active Directory
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Active Directory Lightweight Directory Services (Servicios de directorio ligero de Active Directory)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Active Directory Rights Management Services (Servicios de Administración de Derechos de Active Directory)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servicio de transferencia inteligente en segundo plano (BITS)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Cifrado de unidad BitLocker
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Desbloqueo de BitLocker en red
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | BranchCache
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Cliente para NFS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Data Center Bridging
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Atestación de estado de dispositivo
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servidor DHCP
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Juego Directo
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Códecs de DLNA y streaming de archivos multimedia web
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Servidor DNS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Almacenamiento mejorado
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Clústeres de conmutación por error
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servidor de fax
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servicios de archivos y almacenamiento
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | BranchCache para archivos de red
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Desduplicación de datos
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Espacios de nombres DFS
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Replicación DFS
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor de archivos
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Administrador de recursos del servidor de archivos
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio del agente VSS del servidor de archivos
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor de destino iSCSI
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | iSCSI Target Storage Provider (proveedores de hardware VDS y VSS)
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor para NFS
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Compatibilidad con el protocolo para compartir archivos SMB 1.0/CIFS
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Límite de ancho de banda SMB
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Carpetas de trabajo
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Espacios de almacenamiento
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Espacios de almacenamiento directo
+
+ | ❌
+
+ | ✅
+
+ | 
+
+ | Réplica de almacenamiento
+
+ | ❌
+
+ | ✅
+
+ | Administración de directivas de grupo
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Compatibilidad de Hyper-V con protección de host
+
+ | 
+
+ | ❌
+
+ | ✅
+
+ | Servicio de protección de host
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Calidad de servicio de E/S
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Núcleo de web hospedable de IIS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servidor de Administración de direcciones IP (IPAM)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servidor de nombres de almacenamiento de Internet (iSNS)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Extensión IIS Management OData
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Media Foundation
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Message Queuing
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Proxy DCOM de Message Queue Server
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicios de Message Queue Server
+
+ | ✅
+
+ | ✅
+
+ | Antivirus de Microsoft Defender
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | E/S de múltiples rutas
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Conector MultiPoint
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | MultiPoint Services
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Network ATC
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Controladora de red
+
+ | 
+
+ | ❌
+
+ | ✅
+
+ | Network Load Balancing
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Directiva de red y servicios de acceso
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Servicios de impresión y documentos
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Impresión en Internet
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | 
+
+ | Servicio de demonio de impresora de línea (LPD)
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | 
+
+ | Servidor de impresión
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | 
+
+ | Servidor de digitalización distribuida
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Experiencia de calidad de audio y vídeo de Windows (qWave)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Kit de administración de Connection Manager (CMAK) de RAS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Acceso remoto
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | DirectAccess y VPN (RAS)
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Routing
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Proxy de aplicación web
+
+ | ✅
+
+ | ✅
+
+ | Asistencia remota
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Servicios de Escritorio remoto
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Compresión diferencial remota
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Herramientas de administración de servidor remota
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Proxy RPC sobre HTTP
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Recopilación de eventos de configuración y arranque
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servicios simples de TCP/IP
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Servicio SNMP
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Equilibrador de carga de software
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Cliente Telnet
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Cliente TFTP
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Virtualization
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Containers
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Hyper-V
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Herramientas de blindaje de máquinas virtuales para la administración de tejidos
+
+ | ✅
+
+ | ✅
+
+ | Servicios de activación por volumen
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servidor web (IIS)
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor FTP
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servidor web
+
+ | ✅
+
+ | ✅
+
+ | Redireccionador WebDAV
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Marco biométrico de Windows
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Servicios de Implementación de Windows
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Windows Identity Foundation 3.5
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Base de datos interna de Windows
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Windows PowerShell
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Motor de Windows PowerShell 2.0
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Windows PowerShell 5.1
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Servicio Desired State Configuration de Windows PowerShell
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Windows PowerShell Web Access (Acceso web de Windows PowerShell)
+
+ | ✅
+
+ | ✅
+
+ | Servicio de activación de procesos de Windows
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Experiencia con Windows Server Essentials
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servicio de Windows Search
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Copias de seguridad de Windows Server
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Administración de Windows Server habilitada por Azure Arc³
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Azure Update Manager³
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Control de cambios y inventario³
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Configuración de Máquina de Azure³
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Windows Admin Center en Azure for Arc³
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Soporte remoto³
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Evaluación de procedimientos recomendados³
+
+ | ✅
+
+ | ✅
+
+ | 
+
+ | Configuración de Azure Site Recovery³
+
+ | ✅
+
+ | ✅
+
+ | Herramientas de migración de Windows Server
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Windows Server Update Services
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Administración de almacenamiento basada en directivas de Windows
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Windows TIFF IFilter
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+ | Extensión WinRM de IIS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servidor WINS
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Servicio WLAN
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Compatibilidad con WoW64
+
+ | 
+
+ | ✅
+
+ | ✅
+
+ | Visor de XPS
+
+ | 
+
+ | 
+ ✅²
+
+ | 
+ ✅²
+
+- 
+Como invitado si se hospeda en un host de virtualización activado con Datacenter edition
+
+- 
+Cuando se instala como Windows Server con Experiencia de escritorio
+
+- 
+Disponible para máquinas inscritas en Windows Server Management habilitado por Azure Arc con licencias de Windows Server que tengan Software Assurances activos o licencias de Windows Server con licencias de suscripción activas. Para más información sobre las ventajas, la facturación y los requisitos disponibles de Azure, consulte Administración de Windows Server habilitada por Azure Arc.
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

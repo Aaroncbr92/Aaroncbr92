@@ -1,0 +1,69 @@
+URL: https://support.microsoft.com/es-es/windows/configuraci%C3%B3n-del-control-de-cuentas-de-usuario-d5b2046b-dcb8-54eb-f732-059f321afe18
+Leído: 2026-10-05
+
+# User Account Control settings
+
+ Applies To
+Windows 11 Windows 10 
+
+Get help with Copilot
+
+ Guide me in setting up user Microsoft account control
+
+User Account Control (UAC) is designed to prevent unauthorized changes to Windows.
+
+When an action requires administrator-level permissions, UAC prompts you to approve or deny the change. This helps protect your Windows device from malicious software and unauthorized modifications.
+
+You can change the UAC behavior by opening the Control Panel > System and Security > Change User Account Control settings.
+
+Move the slider to your desired level of notification and select OK to save your changes.
+
+Learn more about each UAC options:
+
+## Always notify
+
+- Notify you when programs try to install software or make changes to your device.
+
+- Notify you when you make changes to Windows settings.
+
+- Freeze other tasks until you respond.
+
+Note
+
+This option is recommended if you routinely install new software or visit unfamiliar websites.
+
+## Notify me only when apps try to make changes to my computer (default)
+
+- Notify you when programs try to install software or make changes to your computer.
+
+- Not notify you when you make changes to Windows settings.
+
+- Freeze other tasks until you respond.
+
+Note
+
+This option is recommended if you routinely install new software or visit unfamiliar websites, but you don't want to be notified when you make changes to Windows settings.
+
+## Notify me only when programs try to make changes to my computer (do not dim my desktop)
+
+- Notify you when programs try to install software or make changes to your device.
+
+- Not notify you when you make changes to Windows settings.
+
+- Not freeze other tasks or wait for a response.
+
+Note
+
+This option is only recommended if it takes a long time to dim the desktop on your computer. Otherwise, it's recommended to choose one of the options above.
+
+## Never notify (Disable UAC)
+
+- Not notify you when programs try to install software or make changes to your device.
+
+- Not notify you when you make changes to Windows settings.
+
+- Not freeze other tasks or wait for a response.
+
+Caution
+
+This option isn't recommended due to security concerns.

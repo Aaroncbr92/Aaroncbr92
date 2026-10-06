@@ -1,0 +1,50 @@
+URL: https://learn.microsoft.com/es-es/windows-server/identity/ad-ds/plan/understanding-active-directory-site-topology
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Descripción de la topología de sitio de Active Directory
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016
+
+## 
+
+La topología del sitio afecta significativamente al rendimiento de la red y a la capacidad de los usuarios de acceder a los recursos de red. Antes de empezar a diseñar la topología de sitio, familiarícese con las funciones de los sitios de Windows Server 2008, las distintas topologías de red que suelen usar las organizaciones, el rol del propietario de la topología de sitio y algunos conceptos de replicación de Active Directory.
+
+## En esta sección
+
+- 
+
+ Funciones de sitio
+
+- 
+
+ Rol de propietario de topología de sitio
+
+- 
+
+ Conceptos de replicación de Active Directory
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

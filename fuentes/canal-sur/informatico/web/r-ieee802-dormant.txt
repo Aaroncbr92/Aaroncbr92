@@ -1,0 +1,84 @@
+URL: https://www.ieee802.org/NADots.shtml
+Leído: 2026-10-05
+
+﻿
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+## IEEE 802 LAN/MAN Standards
+ Committee 
+
+# IEEE 802 Hibernating and Disbanded Working Group
+& Executive Committee Study Group Home Pages
+
+## Hibernating Working Groups
+
+- None
+
+## Disbanded Working Groups and Study Groups
+
+- 802.2 Logical Link Control Working Group
+
+- 802.4 Token Bus Working Group (material no longer available on this web site)
+
+- 802.5 Token Ring Working Group 
+
+- 802.6 Metropolitan Area Network Working Group (material no longer available on this web site)
+
+- 802.7 Broadband TAG (material no longer available on this web site)
+
+- 802.8 Fiber Optic TAG (material no longer available on this web site)
+
+- 802.9 Integrated Services LAN Working Group (material no longer available on this web site)
+
+- 802.10 Security Working Group (material no longer available on this web site)
+
+- 802.12 Demand Priority Working Group (material no longer available on this web site)
+
+- 802.14 Cable Modem Working Group (material no longer available on this web site) 
+
+- 802.16 Broadband Wireless Access Working Group
+
+- 802.17 Resilient Packet Ring Working Group
+
+- 802.20 Mobile Broadband Wireless Access (MBWA) Working Group 
+
+- 802.21 Media Independent Handover Services Working Group
+
+- 802.22 Wireless Regional Area Networks
+
+- 802.23 Emergency Services Working Group
+
+- QOS/FC Executive Committee Study Group (material no longer available on this web site)
+
+- ECSG TVWS TV Whitespace study group (Document archive)
+
+- ES-ECSG Emergency Services Executive Committee Study Group
+
+- OmniRAN EC Study Group
+
+- Privacy Recommendation EC Study Group
+
+- 802 5G/IMT-2020 EC Standing Committee 
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+Last Update: 
+August 20, 2026
+
+This page is maintained by 
+
+It has been designed to be compliant with HTML 3.2 and
+above and should work with all compliant browsers.

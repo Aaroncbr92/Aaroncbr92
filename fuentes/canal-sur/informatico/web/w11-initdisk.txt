@@ -1,0 +1,140 @@
+URL: https://learn.microsoft.com/es-es/windows-server/storage/disk-management/initialize-new-disks
+Leído: 2026-10-05
+
+Leer en inglés
+
+ Nota:
+
+ El acceso a esta página requiere autorización. Puede intentar iniciar sesión o cambiar directorios.
+
+ El acceso a esta página requiere autorización. Puede intentar cambiar los directorios.
+
+# Inicialización de discos nuevos
+
+- Se aplica a: ✅ Windows Server 2025, ✅ Windows Server 2022, ✅ Windows Server 2019, ✅ Windows Server 2016, ✅ Windows 11, ✅ Windows 10
+
+## 
+
+Al agregar un nuevo disco al equipo, el disco no está disponible inmediatamente en el Explorador de archivos de Windows. En primer lugar, debe inicializar el disco para que esté listo para su uso por parte de Windows. Es posible que también tenga que asignar una letra de unidad al disco. Después de inicializar el disco, puede formatearlo y almacenar archivos en el disco.
+
+En este artículo se describe cómo inicializar un nuevo disco que no tiene datos existentes. Si desea usar una unidad USB para este procedimiento, tenga en cuenta que algunos tipos de unidades USB no se pueden inicializar. Las unidades USB solo se formatean y luego se les asigna una letra de unidad.
+
+## Prerequisites
+
+Para completar los procedimientos de este artículo, debe tener preparados los siguientes requisitos previos:
+
+- 
+La cuenta de usuario debe ser miembro del grupo Operadores de copia de seguridad o Administradores .
+
+- 
+Nuevo disco sin inicializar que no tiene datos existentes.
+
+Warning
+
+Si desea inicializar un disco ya en uso, guarde primero los archivos existentes en una ubicación de copia de seguridad. El proceso de inicialización borra todos los datos del disco.
+
+Si el disco existente tiene errores, intente solucionar problemas del disco para ver si puede leer los archivos. Para obtener más información, consulte Solución de problemas de discos de administración de discos > Discos que faltan o no se inicializan.
+
+## Inicialización de discos nuevos
+
+En los pasos siguientes se muestra cómo inicializar un nuevo disco con Administración de discos. Si prefiere usar PowerShell, ejecute el cmdlet Initialize-Disk .
+
+- 
+Abre Administración de discos con permisos de administrador. En el menú Inicio de Windows, escriba Crear y dar formato a las particiones de disco duro.
+
+- 
+En la lista de resultados, haga clic con el botón derecho en Crear y formatear particiones de disco duro y seleccione Ejecutar como administrador>Sí.
+
+Si no puede abrir Administración de discos con permisos de administrador, siga estos pasos:
+
+- 
+En el cuadro Buscar de la barra de tareas, escriba Administración de equipos.
+
+- 
+En la lista de resultados, haga clic con el botón derecho en Administración de equipos y seleccione Ejecutar como administrador>Sí.
+
+- 
+En el cuadro de diálogo Administración de equipos, vaya a la secciónAdministración de discosde almacenamiento>.
+
+- 
+En Administración de discos, busque el disco que se va a inicializar. Si el disco está sin conexión, haga clic con el botón derecho en el disco y seleccione En línea.
+
+- 
+Haga clic con el botón derecho en el disco y seleccione Inicializar disco:
+
+- 
+En el cuadro de diálogo Inicializar disco , confirme que está seleccionado el disco correcto, compruebe el estilo de partición y seleccione Aceptar.
+
+El estilo de partición predeterminado es Tabla de particiones GUID (GPT). Para obtener más información, vea Estilos de partición (GPT y MBR).
+
+El estado del disco cambia brevemente a Inicializar. Una vez completada la inicialización del disco, el estado del disco cambia a En línea.
+
+Si se produce un error en la inicialización de disco, consulte Solución de problemas de administración de discos > Discos que faltan o no se inicializan.
+
+- 
+En Administración de discos, busque el disco inicializado y configure el disco:
+
+- 
+Haga clic con el botón derecho en el espacio sin asignar en la unidad, seleccione Nuevo volumen simple y seleccione Siguiente.
+
+- 
+Especifique el tamaño del volumen y seleccione Siguiente.
+
+El enfoque común es aceptar el tamaño predeterminado, que usa toda la unidad. Para obtener más información sobre las capacidades de unidad admitidas, consulte Compatibilidad de Windows con discos duros mayores de 2 TB.
+
+- 
+Especifique la letra de unidad que se va a asignar al volumen y seleccione Siguiente.
+
+- 
+Especifique el sistema de archivos que se va a usar (normalmente NTFS) y seleccione Siguiente.
+
+- 
+Seleccione Finalizar para preparar el nuevo disco.
+
+### Estilos de partición (GPT y MBR)
+
+Los discos se pueden dividir en fragmentos denominados particiones. Cada partición tiene un estilo de partición, incluso cuando el disco solo tiene una partición.
+
+Windows usa dos estilos de partición para saber cómo acceder a los datos del disco:
+
+ | Estilo de partición
+
+ | Usage
+
+ | 
+ Tabla de particiones GUID (GPT)
+
+ | La mayoría de los equipos usan el tipo de disco GPT para unidades de disco duro y unidades de estado sólido (SSD). GPT es más sólido y permite volúmenes que superan los 2 terabytes (TB).
+
+ | 
+ Registro de arranque maestro (MBR)
+
+ | El estilo MBR es un tipo de disco anterior. Este estilo lo usan equipos de 32 bits, equipos antiguos y unidades extraíbles como tarjetas de memoria.
+
+Normalmente no tiene que preocuparse por asignar el estilo de partición. Windows usa automáticamente el tipo de disco adecuado.
+
+## Contenido relacionado
+
+- 
+ Cambiar una letra de unidad
+
+- 
+ Solución de problemas de administración de discos
+
+## Comentarios
+
+ ¿Le ha resultado útil esta página?
+
+ No
+
+ ¿Necesita ayuda con este tema?
+
+ ¿Desea intentar usar Ask Learn para aclarar o guiarle a través de este tema?
+
+## 
+ Recursos adicionales
+
+- 
+
+ Last updated on 
+ 2025-08-16

@@ -1,0 +1,15 @@
+URL: https://csrc.nist.gov/glossary/term/public_key_certificate
+Leído: 2026-10-05
+
+Definitions:
+A digital document issued and digitally signed by the private key of a certification authority that binds an identifier to a cardholder through a public key. The certificate indicates that the cardholder identified in the certificate has sole control and access to the private key.
+Sources:
+FIPS 201-3
+under Public Key Certificate
+from
+RFC 5280
+- adapted
+A set of data that uniquely identifies a public key (which has a corresponding private key) and an owner that is authorized to use the key pair. The certificate contains the owner’s public key and possibly other information and is digitally signed by a Certification Authority (i.e., a trusted party), thereby binding the public key to the owner.
+Sources:
+FIPS 186-5
+under Certificate
