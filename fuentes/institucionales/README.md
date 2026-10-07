@@ -21,6 +21,10 @@ se leyó**.
 | `AcademiaTV_la-academia.txt` | «**La Academia**»: fundación en **1997**, la relación completa de presidencias y la toma de posesión de la novena junta directiva el **14/12/2022** | **Academia de Televisión y de las Ciencias y Artes del Audiovisual** | 03/09/2026 |
 | `CIMA_portada.txt` | Portada: «**Asociación de Mujeres Cineastas y de Medios Audiovisuales**» y su fin declarado, **fomentar la presencia igualitaria** | **CIMA** | 03/09/2026 |
 | `DAMA_portada.txt` | Portada: «**la única entidad de gestión especializada en obras audiovisuales**», con sus 3.600 socios y los autores de 40 países | **DAMA** | 03/09/2026 |
+| `DGT_permiso-internacional.txt` | **«Solicitud del permiso internacional»**: dónde vale el permiso español, permiso internacional, validez y tasa | **Dirección General de Tráfico** | 06/10/2026 |
+| `Sanidad_certificado-internacional-vacunacion.txt` | **«Certificado Internacional de Vacunación o Profilaxis»** | **Ministerio de Sanidad** | 06/10/2026 |
+| `Sanidad_vacunacion-internacional-faq.txt` | **«Preguntas y Respuestas más habituales en un Servicio de Vacunación Internacional»** (fiebre amarilla, antelación) | **Ministerio de Sanidad** | 06/10/2026 |
+| `OFESAUTO_carta-verde.txt` | **«Certificado Internacional de Seguro: Carta Verde»** (CIS y seguro de frontera). Entidad de las aseguradoras, no organismo público | **OFESAUTO** | 06/10/2026 |
 
 ## Por qué hacía falta
 

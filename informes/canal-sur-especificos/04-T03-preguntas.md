@@ -1,0 +1,25 @@
+# 04 · Ayudante de Producción · Tema 3 · Preguntas (fase 4)
+
+Tema: `temas/canal-sur-especificos/04-ayudante-de-produccion/03-organizacion-basica-de-una-produccion-audiovisual.md`.
+Quince preguntas tipo test, contestadas sólo con el tema. Hechas el 06-10-2026 (el encargo dice
+«hoy es 24-09-2026»; el reloj marca 06-10-2026).
+
+| N.º | Rúbrica | Pregunta | Respuesta | ¿La da el tema? |
+|---|---|---|---|---|
+| 1 | Organización (teoría) | Según la cualificación IMS074_3 (UC0207_3, CR2.2), las fases de elaboración que se planifican son: a) desarrollo, producción y explotación b) preproducción, rodaje/grabación y montaje/postproducción c) guion, grabación y emisión d) preproducción, emisión y archivo | b) | Entera («Seis momentos, tres fases») |
+| 2 | Organización (teoría) | En los contenidos del módulo MF0207_3, tras preproducción, producción y postproducción figura: a) «Emisión y archivo.» b) «Distribución y venta» c) «Cierre económico» d) «Promoción» | a) | Entera («Seis momentos, tres fases») |
+| 3 | Preproducción | El plan de trabajo es lo último de la preproducción porque: a) lo aprueba programación b) necesita hecho el desglose y la localización c) lo elabora el Ayudante d) se hace tras el primer día de rodaje | b) | Entera («Cuándo se elabora el plan de trabajo») |
+| 4 | Producción (teoría) | Según la cualificación (UC0209_3, CR1.5), la orden de trabajo para el día siguiente se elabora: a) por el Productor/a en solitario b) junto con el equipo de dirección c) por el jefe técnico d) por el Ayudante de realización | b) | Entera («La jornada de producción») |
+| 5 | Producción (aplicación) | Son una orden de trabajo y un parte de trabajo de la misma jornada; ¿cuál mira hacia atrás y cuándo se entrega? a) La orden, la víspera b) El parte, al finalizar la jornada c) El parte, al día siguiente del cierre d) La orden, al terminar | b) | Entera («El parte de trabajo») |
+| 6 | Grabación/emisión | Un programa que se graba como si fuera directo, con corte en el control, y se emite después es: a) directo b) falso directo c) diferido por planos d) redifusión | b) | Entera («Directo, falso directo y diferido») |
+| 7 | Grabación/emisión (norma) | Según el art. 156.2 de la Ley 13/2022, el plazo de conservación de los programas cuenta desde: a) la grabación b) la primera puesta a disposición del público c) la última emisión d) la entrega del máster | b) | Entera («Lo emitido se conserva») |
+| 8 | Grabación/emisión (aplicación) | Terminado un directo, la Dirección pide el documento que recoge lo efectivamente emitido con sus horas reales de entrada y salida para cotejarlo con la escaleta. Ese documento es: a) el plan de trabajo b) el registro o parte de emisión c) el desglose d) la EDL | b) | No: el tema no trata la documentación de la emisión (escaleta de emisión frente a lo emitido, parte o registro de emisión, continuidad) |
+| 9 | Postproducción | Una EDL NO lleva: a) la fuente de cada corte b) los códigos de tiempo de entrada y salida c) el tipo de transición d) la corrección de color | d) | Entera («Las fases del montaje») |
+| 10 | Postproducción | El minutado del material grabado consiste en: a) anotar el contenido del material con sus códigos de tiempo para localizarlo en montaje b) calcular el coste por minuto c) medir la sonoridad d) fijar las duraciones de la escaleta | a) | A medias: «visionado y minutado» se nombran sin definir; la hoja de script y el código de tiempo permiten deducirlo |
+| 11 | Cierre documental (norma) | El art. 5.m del RD 1681/2011 incluye en el cierre de los proyectos los aspectos: a) técnicos, logísticos, administrativos, económicos y fiscales b) sólo económicos c) artísticos y promocionales d) jurídicos y laborales | a) | Entera («Lo que piden los textos oficiales») |
+| 12 | Cierre documental (aplicación) | En la RTVA, ¿a quién encarga su ficha «cerrar el presupuesto y posterior memoria de los programas», y qué tarea documental expresa tiene el Ayudante? a) Al Ayudante; ninguna b) Al Productor/a; llevar el registro y archivo de la documentación c) Al Jefe de Archivo; ninguna d) Al Productor/a; ninguna | b) | Entera («Quién cierra») |
+| 13 | Archivo (norma) | Según la Ley 7/2011, art. 54.1, las funciones de la gestión documental son: a) cuatro b) cinco c) seis d) ocho | d) | Entera («Qué es gestión documental y qué es trazabilidad») |
+| 14 | Archivo (aplicación) | Un programa se tramita entero en una aplicación corporativa. Según la Ley 7/2011 (38.4), mientras dura la tramitación, esa aplicación: a) no es archivo b) tiene el carácter de archivo de oficina c) es archivo central d) es archivo intermedio | b) | Entera («El ciclo de vida») |
+| 15 | Archivo (aplicación) | Al cerrar el programa, el Ayudante quiere destruir los partes en papel ya digitalizados. a) Puede b) Puede con permiso del Productor/a c) No: autorizar la eliminación corresponde a la Comisión Andaluza de Valoración de Documentos, y eliminar sin procedimiento es infracción muy grave d) Puede pasado un año | c) | Entera («Los documentos de la RTVA son documentos públicos», «El Ayudante y el archivo») |
+
+Resultado: 13 enteras, 1 a medias (10), 1 no (8).
