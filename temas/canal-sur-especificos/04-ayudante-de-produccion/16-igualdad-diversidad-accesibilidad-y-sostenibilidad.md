@@ -626,9 +626,10 @@ El Libro de estilo de 2004 no trata la identidad sexual ni a las personas trans:
 recoge *gay*, *lesbiana*, *homosexual* y *travesti* como cuestiones de uso y grafía, sin pauta de
 tratamiento.
 
-**Origen étnico y migración.** La LGCA, artículo 15.4.h), pide una imagen **«ajustada, respetuosa,
-apreciativa, inclusiva y libre de estereotipos de las personas de minorías raciales o étnicas»** y una
-presencia proporcional (más arriba). El Libro de estilo le dedica el apartado 9.3, «Inmigración,
+**Origen étnico y migración.** La LGCA, artículo 15.4.h), cuenta entre los códigos de conducta que
+se promoverán el fomento de una imagen **«ajustada, respetuosa, apreciativa, inclusiva y libre de
+estereotipos de las personas de minorías raciales o étnicas»** y de una presencia proporcional
+(«Los códigos de conducta de la LGCA y la adhesión de Canal Sur», más arriba). El Libro de estilo le dedica el apartado 9.3, «Inmigración,
 racismo y xenofobia», y de él tocan a la producción:
 
 - 9.3.1, primera de las recomendaciones del Colegio de Periodistas de Cataluña que el libro recoge:

@@ -1113,7 +1113,7 @@ sin tocar los que se citan):
 | Real Decreto Legislativo 2/2015, ET (`BOE-A-2015-11430`) | Arts. 34.9, 35.5 | Registro de jornada y horas extraordinarias |
 | Ley 9/2017, LCSP (`BOE-A-2017-12902`) | Art. 198.4 | Plazo de pago |
 | Ley 25/2013 (`BOE-A-2013-13722`) | Art. 3 | Plazo de registro de la factura |
-| Decreto 54/1989, BOJA núm. 31, de 21/04/1989 (texto del BOJA), y Decreto 404/2000, BOJA núm. 138, de 30/11/2000 | Art. 36 (texto original, no modificado por los Decretos 404/2000 ni 157/2007); art. 39 en la redacción de 2000 | Anticipo y justificación |
+| Decreto 54/1989, BOJA núm. 31, de 21/04/1989 (texto del BOJA), y Decreto 404/2000, BOJA núm. 138, de 30/11/2000 | Art. 36 (texto original; no lo modifican los Decretos 190/1993, 404/2000 ni 157/2007); art. 39 en la redacción de 2000 | Anticipo y justificación |
 | Temario común de Canal Sur, tema 7, y temario específico de Productor/a, tema 4 | Pasajes copiados (art. 53, 41, 14 y 54 del convenio; Ley 8/2025; papeles del gasto, imputación, control, desplazamientos, justificación) | Ya verificados en su ciclo |
 | *Libro de Estilo de Canal Sur Televisión* (2004) y Contrato-Programa 2024-2026 | 4.4.3, 4.4.4; cláusula cuarta | A través de los pasajes copiados del tema 4 de Productor/a |
 | Oficio | Recorrido del gasto, cotejo pedido-albarán-factura, caja, liquidación, archivo, coherencia de los papeles, ejemplos | Sin norma detrás; declarado en cada caso |
