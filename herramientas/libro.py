@@ -2167,6 +2167,12 @@ BLOQUES["canal-sur-29-informatico"] = _puesto_canal_sur("29-operador-a-informati
     "y procedimientos internos) no consta en documento publicado: los temas dan la técnica y "
     "la norma vigente, y lo dicen donde falta lo propio de la casa.</p>"))
 
+BLOQUES["canal-sur-04-ayudante-produccion"] = _puesto_canal_sur("04-ayudante-de-produccion", "Ayudante de Producción", (
+    "<p><b>Los procedimientos internos de producción de Canal Sur</b> (modelos de partes, "
+    "aplicaciones de gestión, circuitos de gasto y dietas propios) no constan en documento "
+    "publicado más allá del convenio y la Carta: los temas dan lo que consta y lo dicen donde "
+    "falta.</p>"))
+
 
 def ruta_tema(carpeta, base):
     """Dónde vive un tema. Casi siempre, en la carpeta de su bloque; el de

@@ -1,92 +1,85 @@
 # Tema 7 del específico de Ayudante de Producción · Gestión operativa de localizaciones, espacios y permisos
 
-**Siglas**: RTVA (Agencia Pública Empresarial de la Radio y Televisión de Andalucía) · CSRTV (Canal Sur Radio y Televisión, S.A.) · UAS (dron) · MTOM (masa máxima en despegue) · AESA (Agencia Estatal de Seguridad Aérea) · DGT (Dirección General de Tráfico) · RGC (Reglamento General de Circulación) · ADA (Agencia Digital de Andalucía) · L39 (Ley 39/2015) · D15 (Decreto 15/2011) · RD517 (RD 517/2024) · R947 (Reglamento (UE) 2019/947) · LE (Libro de estilo 2004)
+**Siglas**: RTVA, Agencia Pública Empresarial de la Radio y Televisión de Andalucía · CSRTV, Canal Sur Radio y Televisión, S.A. · UM, unidad móvil · UAS, dron · MTOM, masa máxima en despegue · AESA, Agencia Estatal de Seguridad Aérea · DGT, Dirección General de Tráfico · RGC, Reglamento General de Circulación (RD 1428/2003), ADA, Agencia Digital de Andalucía · LPAC, Ley 39/2015 · AAI/AAU, autorización ambiental integrada/unificada.
 
-Esqueleto para repasar, no resumen: sólo recuerda lo que el tema explica; lo que no se reconozca, se vuelve al tema.
+Esqueleto para repasar, no resumen: la explicación está en el tema.
 
 <!-- indice -->
-
-## Índice
-
-- [Gestión operativa de localizaciones, espacios y permisos](#gestión-operativa-de-localizaciones-espacios-y-permisos)
-- [Proceso de obtención de autorizaciones y permisos](#proceso-de-obtención-de-autorizaciones-y-permisos)
-- [Documentación necesaria](#documentación-necesaria)
-- [Gestión de incidencias](#gestión-de-incidencias)
-
 <!-- /indice -->
 
 ## Gestión operativa de localizaciones, espacios y permisos
 
-- Convenio X, anexo III, ficha 5212705: objeto «ayuda y asistencia en tareas de coordinación, preparación y control… bajo la supervisión del productor»
-- Ficha: «Efectuar las citaciones, acreditaciones al equipo técnico y permisos necesarios…»; «Asistir a las grabaciones, montajes y directos colaborando en todo lo necesario con el productor»; «Llevar el registro y archivo de la documentación»; no es lista cerrada
-- LE 4.4.4 pto 9: localizaciones, asistencias externas, medios propios, permisos, seguros, acreditaciones «canalizadas siempre a través de los productores»; gasto o compromiso ante proveedores: sólo vía Departamento de Producción
-- Reparto práctico = oficio; sin procedimiento interno publicado
-- Localizar = ir a ver el sitio; acaba en ficha (fotos, plano, contactos, permisos); criterios: sirva a la historia (dirección) / se pueda rodar (producción); decide el segundo
-- Equipo básico (oficio): productor (coste, permisos, accesos, horarios, seguros), realizador (planos, cámaras), jefe técnico (corriente, cobertura, unidad móvil); ayudante acompaña al productor y recoge titularidad y contacto
-- Comprobaciones (oficio): requisitos eléctricos (lo fundamental), acceso y aparcamiento, ruido, luz natural, superficie y altura, permisos y titularidad, servicios, cobertura, seguridad; zonas turísticas = problema
-- Retransmisión (oficio): *compound*, cables a cada cámara, salida de señal con alternativa; unidad móvil = tema 11
-- LE 8.3.2: enviado especial en punto que permita reconocer el lugar; descartar «siempre» emplazamientos con elementos publicitarios o propagandísticos explícitos
+- Convenio, anexo III, ficha 5212705: objeto «ayuda y asistencia en… coordinación, preparación y control… bajo la supervisión del productor». Tarea: «Efectuar las citaciones, acreditaciones al equipo técnico y permisos necesarios para la realización de las grabaciones y/o directos». Otras: «Asistir a las grabaciones, montajes y directos colaborando en todo lo necesario con el productor»; «Llevar el registro y archivo de la documentación correspondiente a la producción».
+- Libro de estilo 4.4.4 pto 9: localizaciones, asistencias externas, medios propios, permisos, seguros, acreditaciones, siempre a través de los productores; personal propio, convenio; empresas ajenas, normas de contratación. 4.4.4: gasto o compromiso ante ajenos, sólo vía Departamento de Producción.
+- Reparto productor/ayudante = oficio. Libro de 2004. RTVA: sin procedimiento interno publicado.
+- Localizar = ir a ver el sitio; ficha: fotos, plano, contactos, permisos, comprobaciones. Criterios: historia (dirección), poder rodarse (producción); decide el segundo.
+- Equipo (oficio): productor (coste, permisos, accesos, aparcamiento, horarios, alojamiento, seguros), realizador (planos, cámaras), jefe técnico (corriente, cobertura, ruido, UM). Ayudante recoge titularidad y contacto.
+- Comprobaciones (oficio): requisitos eléctricos (potencia, cuadro, protecciones o grupo), acceso y aparcamiento, ruido, luz natural, superficie y altura, permisos y titularidad, servicios, cobertura, seguridad y plan de emergencia. Lo fundamental: eléctricos.
+- Retransmisión (oficio): compound, cables a cámaras, vía de salida de señal y alternativa.
+- Libro 8.3.2: enviado especial en punto que permita reconocer el lugar; descartar «siempre» emplazamientos con connotaciones publicitarias o propagandísticas explícitas.
 
 ## Proceso de obtención de autorizaciones y permisos
 
-- Regla: se pide al titular del espacio; espacio abierto no es libre
-- Cuadro (oficio): vía urbana = ayuntamiento; carreteras = titular y Tráfico si hay corte; espacio natural = gestor; BIC = consejería de cultura y titular; privada = propietario por contrato; estaciones, aeropuertos, puertos = gestora; Patrimonio Nacional; aire = AESA + Interior si urbano
-- ADA (25/09/2026): «Los ayuntamientos son las autoridades competentes de las autorizaciones de rodajes»; en vía y terrenos de uso público, autorización de la DGT; plazos y tasas municipales: no se dan
-- DGT (25/09/2026): rodar en vías aptas para circulación que la entorpezca o haga peligrosa, sin autorización no; interurbanas y travesías (salvo País Vasco y Cataluña) = DGT; urbanas: no dice; solicitud en línea, tasa 1.4 (importe no mostrado)
-- RGC art. 55.1: pruebas deportivas, marchas ciclistas u otros eventos: autorización previa (anexo II)
-- RGC anexo II (vigente 06/06/2026) art. 34.1: eventos sin competición que ocupen la vía: comunicar con 10 días hábiles mínimos a Jefatura Central de Tráfico o autoridad autonómica o local; 34.2.d: cierre total o parcial
-- Art. 34.3: memoria (art. 2.3.b) sin punto 2.º (reglamento de la prueba); del 7.º, sólo seguro de responsabilidad civil (art. 14); 34.4: comunicar electrónicamente inicio y fin efectivo al Punto de Acceso Nacional
-- Art. 35: cierre = resolución expresa con instrucciones, hasta el día antes; silencio desestimatorio; arts. 34 y 35 no nombran rodajes
-- Otros trámites ADA: espacios naturales «Solicitud de autorización y comunicación en Espacios Naturales protegidos»; costa; bienes culturales; menores «Autorización de Trabajo a Menores de 16 Años» (tema 16); drones (ENAIRE); armas y animales
-- D15 (1 febrero 2011, BOJA 30): sólo parques naturales; sin consolidado
-- Art. 25 (si no hay autorización ambiental integrada o unificada): d) actividades cinematográficas y fotográficas por empresas o ejercicio profesional; e) difusión de información que facilite localizar especies o recursos si peligra su conservación; sin exención para medios
-- Art. 27.1: a titular de Delegación Provincial o, si supera una provincia, de Dirección General de espacios naturales; modelo normalizado; 27.3: papel en registro de Consejería, Delegación o auxiliares (oficinas del parque), o telemático
-- L39 art. 14.2.a: personas jurídicas, electrónico (CSRTV); art. 68.4: papel = subsanar electrónicamente; fecha = la de subsanación
-- D15 art. 28: instruye Delegación o, si excede provincia, Dirección General; art. 29.1: 2 meses desde entrada en registro; 29.2: «se podrá entender estimada», salvo facultades contrarias a normas de parques o sobre dominio o servicio público; 29.3: anexo = abreviado, 15 días
-- Anexo 3.b: grabación por caminos, pistas forestales u otros espacios con limitación de acceso o uso; anexo 5: con equipos auxiliares (focos, pantallas, generadores)
-- Deducción: el decreto no dice que el abreviado alcance toda grabación del 25.d; pedir con 2 meses y no contar con silencio (oficio)
-- R947 art. 3: abierta (sin autorización previa), específica (autorización operacional art. 12, art. 16 o declaración art. 5.5), certificada (UAS, operador y, en su caso, piloto)
-- Art. 4.1: abierta si MTOM inferior a 25 kg y no vuela sobre concentraciones de personas (c); art. 5.1: autorización operacional a la autoridad del Estado de registro; 5.2: evaluación del riesgo (art. 11) con atenuación
-- Art. 6.1: certificada si UAS certificado y: sobre concentraciones, transporte de personas o de mercancías peligrosas; 6.2: lo que la autoridad no pueda atenuar; sobre concentraciones, no certificado = específica
-- Art. 14.5: abierta, registro si MTOM de 250 g o más, más de 80 J o sensor de datos personales (salvo Directiva 2009/48/CE); específica: cualquier masa
-- RD517 art. 60.1: AESA autoridad competente; art. 8: seguro de responsabilidad civil a menos de 20 kg en abierta A2, específica y certificada; 20 kg o más: Reglamento (CE) 785/2004; resto exceptuado
-- Art. 40.1: entorno urbano = núcleos con áreas consolidadas; áreas recreativas de acceso público (playas, parques o jardines locales)
-- Art. 40.3.a: operadores sujetos a registro, en entorno urbano o sobre concentraciones: comunicar a Interior con 5 días naturales mínimos; agrupa operaciones de los 5 días siguientes, con fecha y franja; seguridad pública puede limitar o prohibir
-- Art. 40.3.b (abierta): C1 de 250 g o más, 5 m horizontales de edificios; C2 de menos de 4 kg, 30 m (5 con baja velocidad); 40.4: eximir o reducir a solicitud; arts. 53 a 58 nulos (Tribunal Supremo, 19/06/2025); 40.3.a vigente
-- L39 art. 21.1: resolución expresa; 21.2: máximo 6 meses; 21.3: sin plazo, 3 meses desde entrada en registro electrónico
-- Art. 24.1: silencio estimatorio; desestimatorio si dominio o servicio público o daño ambiental; 24.2: desestimación sólo permite recurrir; 24.4: certificado de oficio en 15 días
-- Art. 30.2: días hábiles (sin sábados, domingos ni festivos): 15 del D15, 10 de subsanación, 15 del certificado; 30.3: desde el día siguiente; 30.5: inhábil, al primer hábil; RGC 10 hábiles y RD517 5 naturales: cómputo propio
-- Pasos (oficio): 1 espacio y titular; 2 ordenanza/oficina de rodajes y trámites sectoriales; 3 plazos hacia atrás; 4 solicitudes con memoria, planos, horarios, seguro, por vía electrónica; 5 llevar autorizaciones; 6 condiciones al equipo
-- Plazos: 2 meses (15 días abreviado) en parque; 3 meses de L39 si no hay plazo
+- Regla: se pide al titular del espacio, no al más cercano. Cuadro (oficio): vía urbana, ayuntamiento/oficina de rodajes · carreteras, administración titular y Tráfico si se corta · naturales, comunidad autónoma/gestor · BIC, consejería de cultura y titular · privada, propietario por contrato · estaciones, aeropuertos, puertos, gestor · Patrimonio Nacional · aire, AESA según categoría; urbano, Interior.
+- ADA (25/09/2026): «Los ayuntamientos son las autoridades competentes de las autorizaciones de rodajes»; en vía y terrenos de uso público, autorización de la DGT. Plazos y tasas municipales: no dados.
+- DGT (25/09/2026): prohibido rodaje que entorpezca o haga peligrosa la circulación salvo autorización; vías interurbanas y travesías (salvo País Vasco y Cataluña) = DGT; urbanas, no dice. En línea; tasa tipo 1.4, importe no mostrado.
+- RGC 55.1: pruebas deportivas, marchas «u otros eventos»: autorización previa conforme al anexo II. Anexo II (vigente 06/06/2026), sección 4.ª, eventos sin competición:
+  - 34.1: eventos recreativos, turísticos o tradicionales que ocupan la vía: comunicación de promotores u organizadores, diez días hábiles mínimos, a Jefatura Central de Tráfico o autoridad autonómica o local.
+  - 34.2.d: cierre total o parcial. 34.3: memoria (2.3.b) salvo punto 2.º; del 7.º sólo justificante del seguro de responsabilidad civil (art. 14). 34.4: avisar por medios electrónicos inicio y fin de la afección al Punto de Acceso Nacional.
+  - 35: resolución expresa del cierre hasta el día antes; silencio desestimatorio sobre dominio y servicio público. Los artículos no nombran rodajes; que la DGT los use no consta.
+- Cuadro ADA: «Solicitud de autorización y comunicación en Espacios Naturales protegidos»; costa; bienes culturales; «Autorización de Trabajo a Menores de 16 Años»; drones, ENAIRE; armas y animales, sectorial.
+- Decreto 15/2011 (BOJA 30, 11/02/2011), parques naturales, no nacionales; sin consolidado; «Delegación Provincial» y Ley 30/1992 cambiadas.
+  - 25 (sin AAI/AAU): d) cinematográficas y fotográficas por empresas o ejercicio profesional (rodaje, reportajes gráficos, anuncios); e) difusión que facilite localizar especies o recursos si peligra su conservación. Sin exención para medios.
+  - 27.1: titular de Delegación Provincial o, si supera una provincia, de la Dirección General de espacios naturales; modelo normalizado.
+  - 27.2: declaración responsable (si el modelo lo indica): cumple requisitos, dispone de documentación, mantendrá cumplimiento; no presentar lo que ya obre en la Junta indicando día y procedimiento.
+  - 27.3: papel, preferentemente registro de la Consejería, Delegación o auxiliares (Dirección del parque), o telemático. LPAC 14.2.a: personas jurídicas, electrónico; LPAC 68.4: requerimiento de presentación electrónica, fecha = la de la subsanación.
+  - 28: instruye la Delegación (o Dirección General). 29.1: dos meses desde entrada en el registro del órgano competente o auxiliares. 29.2: «se podrá entender estimada»; no facultades contrarias a las normas del parque ni sobre dominio o servicio público. 29.3: abreviado para usos del anexo, 15 días, mismo silencio.
+  - Anexo 3.b: filmación, grabación sonora y fotografía por caminos, pistas forestales u otros espacios con limitación de acceso o uso; 5: con equipos auxiliares (focos, pantallas, generadores).
+  - Deducción: abreviado si encaja en el anexo, si no dos meses; no dice que alcance a toda grabación del 25.d: pedir con dos meses, sin silencio (oficio).
+- Dron, Reglamento (UE) 2019/947:
+  - 3: abierta (sin autorización ni declaración previa), específica (autorización operacional art. 12, autorización art. 16 o, art. 5.5, declaración), certificada (UAS certificado, Reglamento Delegado 2019/945, operador y, en su caso, licencia).
+  - 4.1: b) MTOM menor de 25 kg; c) distancia segura y sin volar sobre concentraciones; si no, específica salvo certificada.
+  - 6.1: certificada si UAS certificado (art. 40.1 a, b, c del 2019/945) y sobrevuela concentraciones, transporta personas o mercancías peligrosas de riesgo elevado; 6.2: no atenuable sin certificar (evaluación art. 11).
+  - 5.1: autorización operacional a la autoridad del Estado de registro; 5.2: evaluación del riesgo (art. 11) y medidas de atenuación.
+  - 14.1: registros. 14.5: abierta, registro si MTOM 250 g o más, o más de 80 julios, o sensor de datos personales (salvo Directiva 2009/48/CE); específica, cualquier masa.
+  - RD 517/2024: 60.1 AESA competente (salvo letra f del art. 18); 8 seguro RC en menos de 20 kg si A2, específica o certificada; 20 kg o más, Reglamento (CE) 785/2004. Producción pide al operador registro, autorización y póliza (oficio).
+  - 40.1: urbano: a) núcleos con áreas consolidadas por la edificación; c) áreas recreativas de acceso público con instalaciones.
+  - 40.3.a: operadores obligados a registrarse, urbano o concentraciones: comunicar a Interior con cinco días naturales mínimos; agrupa operaciones de los cinco días naturales siguientes con fecha y franja; seguridad pública puede limitar o prohibir por graves riesgos.
+  - 40.3.b: abierta, sin sobrevolar edificios, casas ni domicilios; C1 de 250 g o más, 5 m; C2 menor de 4 kg, 30 m (5 m en baja velocidad). 40.4: exención o reducción a solicitud previa.
+  - Arts. 53 a 58 nulos (Tribunal Supremo, 19/06/2025); 40.3.a vigente.
+- LPAC (original):
+  - 21.1: resolución expresa; excepto declaración responsable o comunicación. 21.2: plazo de la norma, máximo seis meses salvo ley o Derecho UE. 21.3: sin plazo, tres meses desde entrada en el registro electrónico del órgano competente.
+  - 24.1: silencio estimatorio salvo ley, Derecho UE o internacional; desestimatorio si transfiere facultades sobre dominio o servicio público o actividades que puedan dañar el medio ambiente. 24.2: estimación = acto finalizador; desestimación sólo permite recurrir. 24.4: prueba por cualquier medio, certificado de oficio en quince días.
+  - 30.2: días hábiles (sin sábados, domingos ni festivos): 15 abreviados, diez de subsanación, quince del certificado. 30.3: desde el día siguiente a notificación, publicación o silencio. 30.5: último día inhábil, prorroga. RGC diez hábiles y RD cinco naturales: su norma.
+  - Paso a paso (oficio): 1 espacio y titular; 2 ordenanza, oficina y trámites sectoriales; 3 plazos hacia atrás (diez hábiles, cinco naturales, ordenanzas, dos meses o 15 días en parque, tres meses LPAC); 4 presentar, electrónico (14.2.a); 5 llevar autorizaciones; 6 condiciones al equipo.
 
 ## Documentación necesaria
 
-- Permiso, tres documentos (oficio): solicitud (memoria, planos, horarios, seguro), resolución (fecha, horas, lugar, personas y vehículos, medios; fuera de ellos = sin permiso), prueba de cumplimiento
-- Permiso (autoridad o titular del espacio) frente a autorización (persona sobre algo suyo: imagen, voz, datos, obra, casa): distinción del tema, no de norma; las normas llaman «autorización» al permiso; menores = tema 16
-- Qué se presenta: vía urbana, lo que pida la ordenanza; interurbana, solicitud en línea a la DGT con tasa; evento en la vía, comunicación con memoria, seguro y avisos (art. 34) y resolución de cierre (art. 35); propiedad privada, contrato
-- Parque: modelo normalizado, documentación o declaración responsable si el modelo lo admite; empresa por vía electrónica
-- D15 art. 27.2: declaración responsable: cumple requisitos, dispone de la documentación, se compromete a mantener el cumplimiento; no presentar documentos que ya obren en la Junta si se indica día y procedimiento
-- Dron específica: autorización operacional con evaluación del riesgo (o declaración en escenario estándar), registro, seguro; urbano o concentraciones: comunicación a Interior hecha por el operador («operadores de UAS sujetos a la obligación de registrarse»)
-- LE 4.4: peticiones a productores por escrito, por cauces ofimáticos habituales y con la mayor precisión, salvo urgencia extrema; 4.4.4 pto 1: cambios comunicados de manera rápida, fehaciente y simultánea a todos
-- Registro de permisos (oficio): espacio y titular; fecha y número de registro de entrada; estado (pedido, concedido, denegado, condicionado); resolución (vigencia, condiciones); tasa o garantía y justificante; contacto de la administración; original y copia de campo
-- Reglas: permiso al lugar de grabación; condiciones a la orden de trabajo; al cierre, original al expediente con prueba de devolución del espacio
+- Permiso produce (oficio): solicitud (memoria, planos, horarios, seguro), resolución (fecha, horas, lugar, personas, vehículos, medios; fuera, sin permiso), prueba de cumplimiento (horario, espacio, señalización, limpieza).
+- Permiso: autoridad o titular del espacio; autorización: persona sobre algo suyo (imagen, voz, datos, obra, casa). Del tema, no de norma; las normas llaman «autorización» al permiso.
+- Trámites: vía urbana, lo de la ordenanza (ADA) · interurbana y travesías, solicitud en línea a la DGT con tasa · evento en vía, comunicación diez hábiles, memoria, justificante RC, aviso electrónico (RGC 34) · cierre, resolución expresa (35) · parque, modelo normalizado y documentación o declaración responsable, electrónico (Decreto 27; LPAC 14.2.a) · dron específica, autorización operacional con evaluación del riesgo (o declaración en escenario estándar), registro, seguro (2019/947 arts. 3, 5, 14; RD 517/2024 art. 8) · dron urbano o concentraciones, Interior, cinco naturales, fecha y franja (40.3.a), la hace el operador «sujetos a la obligación de registrarse» · privada, contrato.
+- Libro 4.4: peticiones a productores por escrito, cauces ofimáticos, con la mayor precisión, salvo razones infrecuentes y de extremada urgencia. 4.4.4 pto 1: cambios «de manera rápida, fehaciente y simultánea» a todos los responsables.
+- Registro de permisos (oficio): espacio/actividad y titular · fecha y registro de entrada · estado (pedido, concedido, denegado, condicionado) · resolución (fecha, vigencia, condiciones) · tasa o garantía y justificante · contacto · original y copia de campo. Se lleva y enseña; condiciones a la orden de trabajo; al cierre, original al expediente con prueba de devolución (fotos, acta). Archivo: tema 5.
 
 ## Gestión de incidencias
 
-- Dos clases (oficio): tramitación (días) y día de grabación (minutos); se avisa a quien decide, constancia escrita, anotar en el registro; sin procedimiento interno publicado
-- L39 art. 68.1: solicitud incompleta: subsanar en 10 días, o desistimiento previa resolución (art. 21); 68.2: hasta 5 días más, por dificultades especiales; 68.3: mejora voluntaria
-- Silencio estimatorio: se puede entender concedido (art. 24.1; D15 art. 29.2); pedir certificado y consultar al productor
-- Silencio desestimatorio (dominio público, daño ambiental, cierre de vía): no hay permiso; la Administración puede resolver después (art. 24.3.b); no grabar ahí
-- Condiciones: a la orden de trabajo, avisar si no se cumplen; denegación: otra localización, fecha o solicitud mejorada; recursos no son materia
-- Plazos que la urgencia no acorta: Interior 5 naturales; evento en la vía 10 hábiles; cierre con resolución
-- LE 5.6: «ninguna información vale una vida, ni siquiera ponerla en peligro»; LE 4.4.1: ante eventualidad, comunicarse con productores y editores; ayudante informa, productor decide, se comunica a todos
-- Policía local o titular paran: enseñar autorización (copia de campo); si no basta, productor y contacto del registro; condición incumplible: parar en el límite; ampliar no es decisión del equipo
-- Lluvia, viento, luz: *cover set* o plan alternativo; acceso ocupado: avisar y comprobar que la autorización cubre otro espacio; falla energía: grupo; daños: fotos, avisar, seguro de responsabilidad civil; riesgo: se para
-- *Cover set* = escenario de reserva preparado (lluvia, permiso retrasado, intérprete ausente); protege el día, no la escena; sin permisos no es reserva (oficio)
-- Dron: seguridad pública puede prohibir el vuelo comunicado (RD517 art. 40.3.a); rodar sin plano aéreo; R947 art. 19.2: el operador informa a la autoridad de incidencias de seguridad (Reglamento (UE) 376/2014, no desarrollado)
-- Seguros: por productores (LE 4.4.4 pto 9); convenio art. 39: póliza colectiva de vida e invalidez; seguro para desplazamientos a zonas de riesgo, guerras, catástrofes y zonas radiactivas, con asistencia médica y repatriación; oficio: material, responsabilidad civil de organizador, proveedores
-- Parte de incidencias el mismo día (oficio): qué, hora, quién intervino, qué se decidió y quién, consecuencias (horas, gasto, daños, plan); al registro y al expediente
-- Supuesto 1 (parque, focos, generador, pista forestal): art. 25.d, electrónico; 15 días hábiles (anexo 5 y 3.b) o 2 meses; sin Interior fuera de urbano; vuelo en el parque: consultar al parque
-- Supuesto 2 (policía local, horario vencido): enseñar autorización; se para; productor decide ampliación, *cover set* o aplazar; comunicar a todos; parte y registro
-- Supuesto 3 (marcha en 4 días, dron): organizador comunica 10 hábiles y pide cierre; en 4 días no caben 5 naturales; sobre concentraciones no es abierta (R947 art. 4.1.c)
-- No da: ordenanzas; tasa DGT; norma de tramitación DGT; modificaciones del D15; si reportaje informativo es 25.d; parques nacionales, costa, bienes culturales; recursos; procedimiento interno RTVA; temas 5, 8, 11, 16, 17
+- Dos clases (oficio): tramitación (días) y día de grabación (minutos); aviso a quien decide, por escrito, y registro.
+- LPAC 68.1: subsanar en diez días, con aviso de desistimiento previa resolución (art. 21); 68.2: ampliable hasta cinco días, a petición o de oficio, con dificultades especiales, salvo selectivos o concurrencia competitiva; 68.3: modificación o mejora voluntarias.
+- Sin resolución: silencio estimatorio, puede entenderse concedido (24.1; Decreto 29.2): certificado (24.4) y consultar al productor. Desestimatorio (dominio público, medio ambiente, cierre): no hay permiso; sólo recurrir (24.2); Administración resuelve después sin quedar vinculada (24.3.b); cierre hasta el día antes (RGC 35); alternativa o aplazar. Con condiciones: a la orden de trabajo. Denegación: productor; otra localización, fecha o solicitud.
+- Firmes: Interior cinco naturales (40.3.a); evento diez hábiles (34.1); cierre, resolución expresa (35). Libro 5.6: «ninguna información vale una vida, ni siquiera ponerla en peligro». Urgencia: lo que no necesita permiso (oficio).
+- Libro 4.4.1: equipos desplazados se comunican con productores y editores ante eventualidad. Ayudante informa, productor decide.
+- Respuestas (oficio): policía o titular paran: autorización, copia de campo, productor, contacto; condición incumplible: parar en el límite; lluvia, viento, luz: cover set; acceso ocupado: productor, comprobar cobertura; energía: grupo o cuadro alternativo; daños: fotos, productor, seguro RC; riesgo: se para.
+- Cover set (oficio): escenario de reserva si cae el plan (lluvia, permiso retrasado, intérprete ausente); protege el día; con permisos.
+- Dron: 40.3.a, vuelo comunicado puede limitarse o prohibirse; grabar sin plano aéreo. 2019/947 art. 19.2: operador informa a la autoridad de incidencias de seguridad (Reglamento (UE) 376/2014); obligación del operador.
+- Seguros: Libro 4.4.4 pto 9. Convenio art. 39: póliza colectiva de vida e invalidez; compromiso de seguro para zonas de riesgo, conflictos, guerras, catástrofes y zonas radiactivas, con asistencia médica y repatriación. Oficio: material que sale, RC de ocupación, proveedores.
+- Parte (oficio), mismo día: qué, hora, quién, decisión y quién, consecuencias (horas, gasto, daños, plan); registro y expediente con prueba de devolución.
+
+## Aplicación práctica
+
+- Supuesto 1, parque con focos, generador, pista y dron: 25.d a Delegación, electrónico (14.2.a, 68.4); anexo 5 y 3.b, 15 hábiles o dos meses, sin silencio; dron sin 40.3.a; subsanación diez más cinco.
+- Supuesto 2, policía con horario vencido: enseñar; parar; productor (4.4.1) decide; comunicar (4.4.4 pto 1); parte y registro.
+- Supuesto 3, marcha que corta carretera, cuatro días: organizador, diez hábiles (34.1), cierre (35); dron, no caben cinco naturales (40.3.a), concentraciones no abierta (4.1.c).
+
+## Lo que este tema no da
+
+- Ordenanzas municipales; tasa y plazo DGT; norma de tramitación DGT; modificaciones del Decreto 15/2011 y modelos; si un reportaje informativo es 25.d; parques nacionales, costa, bienes culturales.
